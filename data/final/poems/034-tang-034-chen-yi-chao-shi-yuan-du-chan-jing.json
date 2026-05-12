@@ -1,0 +1,727 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-034-chen-yi-chao-shi-yuan-du-chan-jing",
+    "order": 34,
+    "section": "五言古诗",
+    "title": "晨诣超师院读禅经",
+    "titleTraditional": "晨詣超師院讀禪經",
+    "author": "柳宗元",
+    "authorTraditional": "柳宗元",
+    "dynasty": "唐代",
+    "aliases": [
+      "晨诣超师院读禅经"
+    ],
+    "lines": [
+      "汲井漱寒齿，清心拂尘服，闲持贝叶书，步出东斋读。",
+      "真源了无取，忘迹世所逐；",
+      "遗言冀可冥，缮性何由熟？",
+      "道人庭宇静，苔色连深竹；",
+      "日出雾露余，青松如膏沐。",
+      "澹然离言说，悟悦心自足。"
+    ],
+    "linesTraditional": [
+      "汲井漱寒齒，清心拂塵服，閒持貝葉書，步出東齋讀。",
+      "真源了無取，忘跡世所逐；",
+      "遺言冀可冥，繕性何由熟？",
+      "道人庭宇靜，苔色連深竹；",
+      "日出霧露餘，青松如膏沐。",
+      "澹然離言說，悟悅心自足。"
+    ],
+    "text": "汲井漱寒齿，清心拂尘服，闲持贝叶书，步出东斋读。真源了无取，忘迹世所逐；遗言冀可冥，缮性何由熟？道人庭宇静，苔色连深竹；日出雾露余，青松如膏沐。澹然离言说，悟悦心自足。",
+    "textTraditional": "汲井漱寒齒，清心拂塵服，閒持貝葉書，步出東齋讀。真源了無取，忘跡世所逐；遺言冀可冥，繕性何由熟？道人庭宇靜，苔色連深竹；日出霧露餘，青松如膏沐。澹然離言說，悟悅心自足。",
+    "displayLines": [
+      "汲井漱寒齿，",
+      "清心拂尘服，",
+      "闲持贝叶书，",
+      "步出东斋读。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "汲",
+          "jí"
+        ],
+        [
+          "井",
+          "jǐng"
+        ],
+        [
+          "漱",
+          "shù"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "齿",
+          "chǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "拂",
+          "fú"
+        ],
+        [
+          "尘",
+          "chén"
+        ],
+        [
+          "服",
+          "fú"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "闲",
+          "xián"
+        ],
+        [
+          "持",
+          "chí"
+        ],
+        [
+          "贝",
+          "bèi"
+        ],
+        [
+          "叶",
+          "yè"
+        ],
+        [
+          "书",
+          "shū"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "步",
+          "bù"
+        ],
+        [
+          "出",
+          "chū"
+        ],
+        [
+          "东",
+          "dōng"
+        ],
+        [
+          "斋",
+          "zhāi"
+        ],
+        [
+          "读",
+          "dú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "真",
+          "zhēn"
+        ],
+        [
+          "源",
+          "yuán"
+        ],
+        [
+          "了",
+          "liǎo"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "取",
+          "qǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "忘",
+          "wàng"
+        ],
+        [
+          "迹",
+          "jì"
+        ],
+        [
+          "世",
+          "shì"
+        ],
+        [
+          "所",
+          "suǒ"
+        ],
+        [
+          "逐",
+          "zhú"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "遗",
+          "yí"
+        ],
+        [
+          "言",
+          "yán"
+        ],
+        [
+          "冀",
+          "jì"
+        ],
+        [
+          "可",
+          "kě"
+        ],
+        [
+          "冥",
+          "míng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "缮",
+          "shàn"
+        ],
+        [
+          "性",
+          "xìng"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "由",
+          "yóu"
+        ],
+        [
+          "熟",
+          "shú"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "道",
+          "dào"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "庭",
+          "tíng"
+        ],
+        [
+          "宇",
+          "yǔ"
+        ],
+        [
+          "静",
+          "jìng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "苔",
+          "tái"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "连",
+          "lián"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "竹",
+          "zhú"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "汲",
+          "jí"
+        ],
+        [
+          "井",
+          "jǐng"
+        ],
+        [
+          "漱",
+          "shù"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "齿",
+          "chǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "拂",
+          "fú"
+        ],
+        [
+          "尘",
+          "chén"
+        ],
+        [
+          "服",
+          "fú"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "闲",
+          "xián"
+        ],
+        [
+          "持",
+          "chí"
+        ],
+        [
+          "贝",
+          "bèi"
+        ],
+        [
+          "叶",
+          "yè"
+        ],
+        [
+          "书",
+          "shū"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "步",
+          "bù"
+        ],
+        [
+          "出",
+          "chū"
+        ],
+        [
+          "东",
+          "dōng"
+        ],
+        [
+          "斋",
+          "zhāi"
+        ],
+        [
+          "读",
+          "dú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "真",
+          "zhēn"
+        ],
+        [
+          "源",
+          "yuán"
+        ],
+        [
+          "了",
+          "liǎo"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "取",
+          "qǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "忘",
+          "wàng"
+        ],
+        [
+          "迹",
+          "jì"
+        ],
+        [
+          "世",
+          "shì"
+        ],
+        [
+          "所",
+          "suǒ"
+        ],
+        [
+          "逐",
+          "zhú"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "遗",
+          "yí"
+        ],
+        [
+          "言",
+          "yán"
+        ],
+        [
+          "冀",
+          "jì"
+        ],
+        [
+          "可",
+          "kě"
+        ],
+        [
+          "冥",
+          "míng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "缮",
+          "shàn"
+        ],
+        [
+          "性",
+          "xìng"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "由",
+          "yóu"
+        ],
+        [
+          "熟",
+          "shú"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "道",
+          "dào"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "庭",
+          "tíng"
+        ],
+        [
+          "宇",
+          "yǔ"
+        ],
+        [
+          "静",
+          "jìng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "苔",
+          "tái"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "连",
+          "lián"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "竹",
+          "zhú"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "出",
+          "chū"
+        ],
+        [
+          "雾",
+          "wù"
+        ],
+        [
+          "露",
+          "lù"
+        ],
+        [
+          "余",
+          "yú"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "松",
+          "sōng"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "膏",
+          "gāo"
+        ],
+        [
+          "沐",
+          "mù"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "澹",
+          "dàn"
+        ],
+        [
+          "然",
+          "rán"
+        ],
+        [
+          "离",
+          "lí"
+        ],
+        [
+          "言",
+          "yán"
+        ],
+        [
+          "说",
+          "shuō"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "悟",
+          "wù"
+        ],
+        [
+          "悦",
+          "yuè"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "足",
+          "zú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.贝叶书：西域无纸，以贝叶写经，故以此称佛经。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.缮性：习性。缮，音\"善\"。"
+      }
+    ],
+    "tags": [
+      "五言古诗",
+      "抒情",
+      "贬谪"
+    ],
+    "english": {
+      "headingRaw": "Five-character-ancient-verseLiuZongyuanREADINGBUDDHISTCLASSICSWITHZHAOATHISTEMPLEINTHEEARLYMORNING",
+      "translationRaw": "Icleanmyteethinwaterdrawnfromacoldwell；AndwhileIbrushmyclothes，Ipurifymymind；Then，slowlyturningpagesintheTree-LeafBook，Irecite，alongthepathtotheeasternshelter。。。。TheworldhasforgottenthetruefountainofthisteachingAndpeopleenslavethemselvestomiraclesandfables。UnderthegivenwordsIwanttheessentialmeaning，Ilookforthesimplestwaytosowandreapmynature。Hereinthequietofthepriest』stemplecourtyard，Mossesaddtheirclimbingcolourtothethickbamboo；Andnowcomesthesun，outofmistandfog，Andpinesthatseemtobenew-bathed；Andeverythingisgonefromme，speechgoes，andreading，Leavingthesingleunison。",
+      "translationClean": "Icleanmyteethinwaterdrawnfromacoldwell; AndwhileIbrushmyclothes, Ipurifymymind; Then, slowlyturningpagesintheTree-LeafBook, Irecite, alongthepathtotheeasternshelter.... TheworldhasforgottenthetruefountainofthisteachingAndpeopleenslavethemselvestomiraclesandfables. UnderthegivenwordsIwanttheessentialmeaning, Ilookforthesimplestwaytosowandreapmynature. Hereinthequietofthepriest'stemplecourtyard, Mossesaddtheirclimbingcolourtothethickbamboo; Andnowcomesthesun, outofmistandfog, Andpinesthatseemtobenew-bathed; Andeverythingisgonefromme, speechgoes, andreading, Leavingthesingleunison.",
+      "segments": [
+        "Icleanmyteethinwaterdrawnfromacoldwell;",
+        "AndwhileIbrushmyclothes, Ipurifymymind;",
+        "Then, slowlyturningpagesintheTree-LeafBook, Irecite, alongthepathtotheeasternshelter....",
+        "TheworldhasforgottenthetruefountainofthisteachingAndpeopleenslavethemselvestomiraclesandfables.",
+        "UnderthegivenwordsIwanttheessentialmeaning, Ilookforthesimplestwaytosowandreapmynature.",
+        "Hereinthequietofthepriest'stemplecourtyard, Mossesaddtheirclimbingcolourtothethickbamboo;",
+        "Andnowcomesthesun, outofmistandfog, Andpinesthatseemtobenew-bathed;",
+        "Andeverythingisgonefromme, speechgoes, andreading, Leavingthesingleunison."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 159,
+        "title": "晨诣超师院读禅经",
+        "author": "柳宗元"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9777
+      },
+      "ctext": {
+        "matched": true,
+        "order": 34,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 34,
+        "score": 0.9714,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "2954ddd2-f1c7-41b1-8c9e-42058398cde0",
+        "score": 0.9857
+      }
+    },
+    "visual": {
+      "image": "assets/illustrations-wuyan-gushi/034-tang-034-chen-yi-chao-shi-yuan-du-chan-jing.png",
+      "coreImagery": [
+        "禅院",
+        "汲井",
+        "贝叶经",
+        "晨光"
+      ],
+      "mood": [
+        "清净",
+        "悟道",
+        "澄澈"
+      ],
+      "palette": [
+        "晨金",
+        "井青",
+        "寺灰",
+        "叶绿"
+      ],
+      "composition": "晨光入禅院，井栏、经卷与疏竹各安其位，气息极静。",
+      "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+      "prompt": "晨诣超师院读禅经，柳宗元。核心意象：禅院、汲井、贝叶经、晨光；情绪：清净、悟道、澄澈。晨光入禅院，井栏、经卷与疏竹各安其位，气息极静。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+      "generatedAt": "2026-05-10T15:05:28+00:00",
+      "generator": "procedural-watercolor"
+    }
+  }
+}

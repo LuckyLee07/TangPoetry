@@ -1,0 +1,502 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-099-ji-zuo-sheng-du-shi-yi",
+    "order": 99,
+    "section": "五言律诗",
+    "title": "寄左省杜拾遗",
+    "titleTraditional": "寄左省杜拾遺",
+    "author": "岑参",
+    "authorTraditional": "岑參",
+    "dynasty": "唐代",
+    "aliases": [
+      "寄左省杜拾遗"
+    ],
+    "lines": [
+      "联步趋丹陛，分曹限紫微。",
+      "晓随天仗入，暮惹御香归。",
+      "白发悲花落，青云羡鸟飞。",
+      "圣朝无阙事，自觉谏书稀。"
+    ],
+    "linesTraditional": [
+      "聯步趨丹陛，分曹限紫微。",
+      "曉隨天仗入，暮惹禦香歸。",
+      "白髮悲花落，青雲羨鳥飛。",
+      "聖朝無闕事，自覺諫書稀。"
+    ],
+    "text": "联步趋丹陛，分曹限紫微。晓随天仗入，暮惹御香归。白发悲花落，青云羡鸟飞。圣朝无阙事，自觉谏书稀。",
+    "textTraditional": "聯步趨丹陛，分曹限紫微。曉隨天仗入，暮惹禦香歸。白髮悲花落，青雲羨鳥飛。聖朝無闕事，自覺諫書稀。",
+    "displayLines": [
+      "联步趋丹陛，",
+      "分曹限紫微。",
+      "晓随天仗入，",
+      "暮惹御香归。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "联",
+          "lián"
+        ],
+        [
+          "步",
+          "bù"
+        ],
+        [
+          "趋",
+          "qū"
+        ],
+        [
+          "丹",
+          "dān"
+        ],
+        [
+          "陛",
+          "bì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "分",
+          "fēn"
+        ],
+        [
+          "曹",
+          "cáo"
+        ],
+        [
+          "限",
+          "xiàn"
+        ],
+        [
+          "紫",
+          "zǐ"
+        ],
+        [
+          "微",
+          "wēi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "晓",
+          "xiǎo"
+        ],
+        [
+          "随",
+          "suí"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "仗",
+          "zhàng"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "惹",
+          "rě"
+        ],
+        [
+          "御",
+          "yù"
+        ],
+        [
+          "香",
+          "xiāng"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "发",
+          "fà"
+        ],
+        [
+          "悲",
+          "bēi"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "羡",
+          "xiàn"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "圣",
+          "shèng"
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "阙",
+          "quē"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "觉",
+          "jué"
+        ],
+        [
+          "谏",
+          "jiàn"
+        ],
+        [
+          "书",
+          "shū"
+        ],
+        [
+          "稀",
+          "xī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "联",
+          "lián"
+        ],
+        [
+          "步",
+          "bù"
+        ],
+        [
+          "趋",
+          "qū"
+        ],
+        [
+          "丹",
+          "dān"
+        ],
+        [
+          "陛",
+          "bì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "分",
+          "fēn"
+        ],
+        [
+          "曹",
+          "cáo"
+        ],
+        [
+          "限",
+          "xiàn"
+        ],
+        [
+          "紫",
+          "zǐ"
+        ],
+        [
+          "微",
+          "wēi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "晓",
+          "xiǎo"
+        ],
+        [
+          "随",
+          "suí"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "仗",
+          "zhàng"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "惹",
+          "rě"
+        ],
+        [
+          "御",
+          "yù"
+        ],
+        [
+          "香",
+          "xiāng"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "发",
+          "fà"
+        ],
+        [
+          "悲",
+          "bēi"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "羡",
+          "xiàn"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "圣",
+          "shèng"
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "阙",
+          "quē"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "觉",
+          "jué"
+        ],
+        [
+          "谏",
+          "jiàn"
+        ],
+        [
+          "书",
+          "shū"
+        ],
+        [
+          "稀",
+          "xī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.杜拾遗：指杜甫。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.丹陛：红色的阶，指宫殿下阶砌。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "3.阙事：亏缺事。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "仕途",
+      "感慨"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseCenCanAMESSAGETOCENSORDuFuATHISOFFICEINTHELEFTCOURT",
+      "translationRaw": "Togetherweofficialsclimbedvermilionsteps，Tobepartedbythepurplewalls。。。。Ourprocession，whichenteredthepalaceatdawn，Leavesfragrantnowatduskwithimperialincense。。。。Greyheadsmaygrieveforafallenflower，Orbluecloudsenvyaliltingbird；Butthisreignisofheaven，nothinggoeswrong，Therehavebeenalmostnopetitions。",
+      "translationClean": "Togetherweofficialsclimbedvermilionsteps, Tobepartedbythepurplewalls.... Ourprocession, whichenteredthepalaceatdawn, Leavesfragrantnowatduskwithimperialincense.... Greyheadsmaygrieveforafallenflower, Orbluecloudsenvyaliltingbird; Butthisreignisofheaven, nothinggoeswrong, Therehavebeenalmostnopetitions.",
+      "segments": [
+        "Togetherweofficialsclimbedvermilionsteps, Tobepartedbythepurplewalls....",
+        "Ourprocession, whichenteredthepalaceatdawn, Leavesfragrantnowatduskwithimperialincense....",
+        "Greyheadsmaygrieveforafallenflower, Orbluecloudsenvyaliltingbird;",
+        "Butthisreignisofheaven, nothinggoeswrong, Therehavebeenalmostnopetitions."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 160,
+        "title": "寄左省杜拾遗",
+        "author": "岑参"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 99,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 196,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "2779f710-4ab4-46cb-a2b6-1889752f26c2",
+        "score": 1
+      }
+    }
+  }
+}

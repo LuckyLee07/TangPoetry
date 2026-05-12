@@ -1,0 +1,355 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-309-long-xi-xing",
+    "order": 309,
+    "section": "七言绝句",
+    "title": "陇西行",
+    "titleTraditional": "隴西行",
+    "author": "陈陶",
+    "authorTraditional": "陳陶",
+    "dynasty": "唐代",
+    "aliases": [
+      "陇西行四首·其二",
+      "陇西行"
+    ],
+    "lines": [
+      "誓扫匈奴不顾身，五千貂锦丧胡尘。",
+      "可怜无定河边骨，犹是深闺梦里人。"
+    ],
+    "linesTraditional": [
+      "誓掃匈奴不顧身，五千貂錦喪胡塵。",
+      "可憐無定河邊骨，猶是深閨夢裡人。"
+    ],
+    "text": "誓扫匈奴不顾身，五千貂锦丧胡尘。可怜无定河边骨，犹是深闺梦里人。",
+    "textTraditional": "誓掃匈奴不顧身，五千貂錦喪胡塵。可憐無定河邊骨，猶是深閨夢裡人。",
+    "displayLines": [
+      "誓扫匈奴不顾身，",
+      "五千貂锦丧胡尘。",
+      "可怜无定河边骨，",
+      "犹是深闺梦里人。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "誓",
+          "shì"
+        ],
+        [
+          "扫",
+          "sǎo"
+        ],
+        [
+          "匈",
+          "xiōng"
+        ],
+        [
+          "奴",
+          "nú"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "顾",
+          "gù"
+        ],
+        [
+          "身",
+          "shēn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "五",
+          "wǔ"
+        ],
+        [
+          "千",
+          "qiān"
+        ],
+        [
+          "貂",
+          "diāo"
+        ],
+        [
+          "锦",
+          "jǐn"
+        ],
+        [
+          "丧",
+          "sàng"
+        ],
+        [
+          "胡",
+          "hú"
+        ],
+        [
+          "尘",
+          "chén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "可",
+          "kě"
+        ],
+        [
+          "怜",
+          "lián"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "定",
+          "dìng"
+        ],
+        [
+          "河",
+          "hé"
+        ],
+        [
+          "边",
+          "biān"
+        ],
+        [
+          "骨",
+          "gǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "犹",
+          "yóu"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "闺",
+          "guī"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "誓",
+          "shì"
+        ],
+        [
+          "扫",
+          "sǎo"
+        ],
+        [
+          "匈",
+          "xiōng"
+        ],
+        [
+          "奴",
+          "nú"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "顾",
+          "gù"
+        ],
+        [
+          "身",
+          "shēn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "五",
+          "wǔ"
+        ],
+        [
+          "千",
+          "qiān"
+        ],
+        [
+          "貂",
+          "diāo"
+        ],
+        [
+          "锦",
+          "jǐn"
+        ],
+        [
+          "丧",
+          "sàng"
+        ],
+        [
+          "胡",
+          "hú"
+        ],
+        [
+          "尘",
+          "chén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "可",
+          "kě"
+        ],
+        [
+          "怜",
+          "lián"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "定",
+          "dìng"
+        ],
+        [
+          "河",
+          "hé"
+        ],
+        [
+          "边",
+          "biān"
+        ],
+        [
+          "骨",
+          "gǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "犹",
+          "yóu"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "闺",
+          "guī"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "春闺--一作 ：深闺"
+      }
+    ],
+    "tags": [
+      "七言绝句",
+      "思念",
+      "战争",
+      "妇女",
+      "边塞"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainChenTaoTURKESTAN",
+      "translationRaw": "ThinkingonlyoftheirvowthattheywouldcrushtheTartars--Onthedesert，cladinsableandsilk，fivethousandofthemfell。。。。Butarisenfromtheircrumblingbonesonthebanksoftheriverattheborder，Dreamsofthementer，likemenalive，intoroomswheretheirlovesliesleeping。",
+      "translationClean": "ThinkingonlyoftheirvowthattheywouldcrushtheTartars--Onthedesert, cladinsableandsilk, fivethousandofthemfell.... Butarisenfromtheircrumblingbonesonthebanksoftheriverattheborder, Dreamsofthementer, likemenalive, intoroomswheretheirlovesliesleeping.",
+      "segments": [
+        "ThinkingonlyoftheirvowthattheywouldcrushtheTartars--Onthedesert, cladinsableandsilk, fivethousandofthemfell....",
+        "Butarisenfromtheircrumblingbonesonthebanksoftheriverattheborder, Dreamsofthementer, likemenalive, intoroomswheretheirlovesliesleeping."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 85,
+        "title": "陇西行四首·其二",
+        "author": "陈陶"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9479
+      },
+      "ctext": {
+        "matched": true,
+        "order": 309,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 182,
+        "score": 0.9643,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "fde30eaa-9b2c-47ce-ba49-c1356353ac9a",
+        "score": 1
+      }
+    }
+  }
+}

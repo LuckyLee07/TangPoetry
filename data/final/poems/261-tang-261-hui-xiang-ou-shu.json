@@ -1,0 +1,364 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-261-hui-xiang-ou-shu",
+    "order": 261,
+    "section": "七言绝句",
+    "title": "回乡偶书",
+    "titleTraditional": "回鄉偶書",
+    "author": "贺知章",
+    "authorTraditional": "賀知章",
+    "dynasty": "唐代",
+    "aliases": [
+      "回乡偶书二首·其一",
+      "回乡偶书"
+    ],
+    "lines": [
+      "少小离家老大回，乡音无改鬓毛衰；",
+      "儿童相见不相识，笑问客从何处来。"
+    ],
+    "linesTraditional": [
+      "少小離家老大回，鄉音無改鬢毛衰；",
+      "兒童相見不相識，笑問客從何處來。"
+    ],
+    "text": "少小离家老大回，乡音无改鬓毛衰；儿童相见不相识，笑问客从何处来。",
+    "textTraditional": "少小離家老大回，鄉音無改鬢毛衰；兒童相見不相識，笑問客從何處來。",
+    "displayLines": [
+      "少小离家老大回，",
+      "乡音无改鬓毛衰；",
+      "儿童相见不相识，",
+      "笑问客从何处来。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "少",
+          "shào"
+        ],
+        [
+          "小",
+          "xiǎo"
+        ],
+        [
+          "离",
+          "lí"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "老",
+          "lǎo"
+        ],
+        [
+          "大",
+          "dà"
+        ],
+        [
+          "回",
+          "huí"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "音",
+          "yīn"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "改",
+          "gǎi"
+        ],
+        [
+          "鬓",
+          "bìn"
+        ],
+        [
+          "毛",
+          "máo"
+        ],
+        [
+          "衰",
+          "shuāi"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "儿",
+          "ér"
+        ],
+        [
+          "童",
+          "tóng"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "识",
+          "shí"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "笑",
+          "xiào"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "从",
+          "cóng"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "少",
+          "shào"
+        ],
+        [
+          "小",
+          "xiǎo"
+        ],
+        [
+          "离",
+          "lí"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "老",
+          "lǎo"
+        ],
+        [
+          "大",
+          "dà"
+        ],
+        [
+          "回",
+          "huí"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "音",
+          "yīn"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "改",
+          "gǎi"
+        ],
+        [
+          "鬓",
+          "bìn"
+        ],
+        [
+          "毛",
+          "máo"
+        ],
+        [
+          "衰",
+          "shuāi"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "儿",
+          "ér"
+        ],
+        [
+          "童",
+          "tóng"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "识",
+          "shí"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "笑",
+          "xiào"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "从",
+          "cóng"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "鬓毛衰--一作 ：鬓毛催"
+      },
+      {
+        "source": "chiuinan",
+        "text": "1.摧坊本作衰，但回、来为十灰韵，衰为四支韵，因此应以摧为正。"
+      }
+    ],
+    "tags": [
+      "七言绝句",
+      "二年级上册",
+      "伤老",
+      "思乡",
+      "感慨",
+      "小学古诗"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainHeZhizhangCOMINGHOME",
+      "translationRaw": "Ilefthomeyoung。Ireturnold；Speakingasthen，butwithhairgrownthin；Andmychildren，meetingme，donotknowme。Theysmileandsay：\"Stranger，wheredoyoucomefrom？\"",
+      "translationClean": "Ilefthomeyoung. Ireturnold; Speakingasthen, butwithhairgrownthin; Andmychildren, meetingme, donotknowme. Theysmileandsay: \"Stranger, wheredoyoucomefrom? \"",
+      "segments": [
+        "Ilefthomeyoung.",
+        "Ireturnold;",
+        "Speakingasthen, butwithhairgrownthin;",
+        "Andmychildren, meetingme, donotknowme.",
+        "Theysmileandsay: \"Stranger, wheredoyoucomefrom?",
+        "\""
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 304,
+        "title": "回乡偶书二首·其一",
+        "author": "贺知章"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9811
+      },
+      "ctext": {
+        "matched": true,
+        "order": 261,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 127,
+        "score": 0.9643,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "569ef0e1-887d-4d98-b869-9634f099c8e9",
+        "score": 0.9286
+      }
+    }
+  }
+}

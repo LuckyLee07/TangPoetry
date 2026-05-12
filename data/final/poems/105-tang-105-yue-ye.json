@@ -1,0 +1,508 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-105-yue-ye",
+    "order": 105,
+    "section": "五言律诗",
+    "title": "月夜",
+    "titleTraditional": "月夜",
+    "author": "杜甫",
+    "authorTraditional": "杜甫",
+    "dynasty": "唐代",
+    "aliases": [
+      "月夜"
+    ],
+    "lines": [
+      "今夜鄜州月，闺中只独看。",
+      "遥怜小儿女，未解忆长安。",
+      "香雾云鬟湿，清辉玉臂寒。",
+      "何时倚虚幌，双照泪痕干。"
+    ],
+    "linesTraditional": [
+      "今夜鄜州月，閨中只獨看。",
+      "遙憐小兒女，未解憶長安。",
+      "香霧雲鬟濕，清輝玉臂寒。",
+      "何時倚虛幌，雙照淚痕乾。"
+    ],
+    "text": "今夜鄜州月，闺中只独看。遥怜小儿女，未解忆长安。香雾云鬟湿，清辉玉臂寒。何时倚虚幌，双照泪痕干。",
+    "textTraditional": "今夜鄜州月，閨中只獨看。遙憐小兒女，未解憶長安。香霧雲鬟濕，清輝玉臂寒。何時倚虛幌，雙照淚痕乾。",
+    "displayLines": [
+      "今夜鄜州月，",
+      "闺中只独看。",
+      "遥怜小儿女，",
+      "未解忆长安。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "鄜",
+          "fū"
+        ],
+        [
+          "州",
+          "zhōu"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "闺",
+          "guī"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "只",
+          "zhǐ"
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "看",
+          "kàn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "遥",
+          "yáo"
+        ],
+        [
+          "怜",
+          "lián"
+        ],
+        [
+          "小",
+          "xiǎo"
+        ],
+        [
+          "儿",
+          "ér"
+        ],
+        [
+          "女",
+          "nǚ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "解",
+          "jiě"
+        ],
+        [
+          "忆",
+          "yì"
+        ],
+        [
+          "长",
+          "cháng"
+        ],
+        [
+          "安",
+          "ān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "香",
+          "xiāng"
+        ],
+        [
+          "雾",
+          "wù"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "鬟",
+          "huán"
+        ],
+        [
+          "湿",
+          "shī"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "辉",
+          "huī"
+        ],
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "臂",
+          "bì"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "倚",
+          "yǐ"
+        ],
+        [
+          "虚",
+          "xū"
+        ],
+        [
+          "幌",
+          "huǎng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "双",
+          "shuāng"
+        ],
+        [
+          "照",
+          "zhào"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "痕",
+          "hén"
+        ],
+        [
+          "干",
+          "gàn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "鄜",
+          "fū"
+        ],
+        [
+          "州",
+          "zhōu"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "闺",
+          "guī"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "只",
+          "zhǐ"
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "看",
+          "kàn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "遥",
+          "yáo"
+        ],
+        [
+          "怜",
+          "lián"
+        ],
+        [
+          "小",
+          "xiǎo"
+        ],
+        [
+          "儿",
+          "ér"
+        ],
+        [
+          "女",
+          "nǚ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "解",
+          "jiě"
+        ],
+        [
+          "忆",
+          "yì"
+        ],
+        [
+          "长",
+          "cháng"
+        ],
+        [
+          "安",
+          "ān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "香",
+          "xiāng"
+        ],
+        [
+          "雾",
+          "wù"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "鬟",
+          "huán"
+        ],
+        [
+          "湿",
+          "shī"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "辉",
+          "huī"
+        ],
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "臂",
+          "bì"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "倚",
+          "yǐ"
+        ],
+        [
+          "虚",
+          "xū"
+        ],
+        [
+          "幌",
+          "huǎng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "双",
+          "shuāng"
+        ],
+        [
+          "照",
+          "zhào"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "痕",
+          "hén"
+        ],
+        [
+          "干",
+          "gàn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.鄜：音肤。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.云鬟：指秀发如云。鬟，音环。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "3.清辉：月光。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "3.虚幌：素色轻纱所做的帏幔。幌，音晃，帏幔。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "思念",
+      "女子",
+      "高中古诗",
+      "月亮",
+      "三年级上册"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseDuFuONAMOONLIGHTNIGHT",
+      "translationRaw": "FaroffinFuzhousheiswatchingthemoonlight，Watchingitalonefromthewindowofherchamber-Forourboyandgirl，poorlittlebabes，AretooyoungtoknowwheretheCapitalis。Hercloudyhairissweetwithmist，Herjade-whiteshoulderiscoldinthemoon。。。。Whenshallwelieagain，withnomoretears，Watchingthisbrightlightonourscreen？",
+      "translationClean": "FaroffinFuzhousheiswatchingthemoonlight, Watchingitalonefromthewindowofherchamber-Forourboyandgirl, poorlittlebabes, AretooyoungtoknowwheretheCapitalis. Hercloudyhairissweetwithmist, Herjade-whiteshoulderiscoldinthemoon.... Whenshallwelieagain, withnomoretears, Watchingthisbrightlightonourscreen?",
+      "segments": [
+        "FaroffinFuzhousheiswatchingthemoonlight, Watchingitalonefromthewindowofherchamber-Forourboyandgirl, poorlittlebabes, AretooyoungtoknowwheretheCapitalis.",
+        "Hercloudyhairissweetwithmist, Herjade-whiteshoulderiscoldinthemoon....",
+        "Whenshallwelieagain, withnomoretears, Watchingthisbrightlightonourscreen?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 41,
+        "title": "月夜",
+        "author": "杜甫"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 105,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 202,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "59c7eaa9-3c05-4857-8cff-10376706ccb9",
+        "score": 1
+      }
+    }
+  }
+}

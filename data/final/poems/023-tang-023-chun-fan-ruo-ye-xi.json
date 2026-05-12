@@ -1,0 +1,569 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-023-chun-fan-ruo-ye-xi",
+    "order": 23,
+    "section": "五言古诗",
+    "title": "春泛若耶溪",
+    "titleTraditional": "春泛若耶溪",
+    "author": "綦毋潜",
+    "authorTraditional": "綦毋潛",
+    "dynasty": "唐代",
+    "aliases": [
+      "春泛若耶溪"
+    ],
+    "lines": [
+      "幽意无断绝，此去随所偶；",
+      "晚风吹行舟，花路入溪口。",
+      "际夜转西壑，隔山望南斗。",
+      "潭烟飞溶溶，林月低向后。",
+      "生事且弥漫，愿为持竿叟。"
+    ],
+    "linesTraditional": [
+      "幽意無斷絕，此去隨所偶；",
+      "晚風吹行舟，花路入溪口。",
+      "際夜轉西壑，隔山望南斗。",
+      "潭煙飛溶溶，林月低向後。",
+      "生事且瀰漫，願為持竿叟。"
+    ],
+    "text": "幽意无断绝，此去随所偶；晚风吹行舟，花路入溪口。际夜转西壑，隔山望南斗。潭烟飞溶溶，林月低向后。生事且弥漫，愿为持竿叟。",
+    "textTraditional": "幽意無斷絕，此去隨所偶；晚風吹行舟，花路入溪口。際夜轉西壑，隔山望南斗。潭煙飛溶溶，林月低向後。生事且瀰漫，願為持竿叟。",
+    "displayLines": [
+      "幽意无断绝，",
+      "此去随所偶；",
+      "晚风吹行舟，",
+      "花路入溪口。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "幽",
+          "yōu"
+        ],
+        [
+          "意",
+          "yì"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "断",
+          "duàn"
+        ],
+        [
+          "绝",
+          "jué"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "随",
+          "suí"
+        ],
+        [
+          "所",
+          "suǒ"
+        ],
+        [
+          "偶",
+          "ǒu"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "晚",
+          "wǎn"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "吹",
+          "chuī"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "舟",
+          "zhōu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "路",
+          "lù"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "溪",
+          "xī"
+        ],
+        [
+          "口",
+          "kǒu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "际",
+          "jì"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "转",
+          "zhuǎn"
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "壑",
+          "hè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "隔",
+          "gé"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "望",
+          "wàng"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "斗",
+          "dòu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "潭",
+          "tán"
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "溶",
+          "róng"
+        ],
+        [
+          "溶",
+          "róng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "低",
+          "dī"
+        ],
+        [
+          "向",
+          "xiàng"
+        ],
+        [
+          "后",
+          "hòu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "幽",
+          "yōu"
+        ],
+        [
+          "意",
+          "yì"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "断",
+          "duàn"
+        ],
+        [
+          "绝",
+          "jué"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "随",
+          "suí"
+        ],
+        [
+          "所",
+          "suǒ"
+        ],
+        [
+          "偶",
+          "ǒu"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "晚",
+          "wǎn"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "吹",
+          "chuī"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "舟",
+          "zhōu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "路",
+          "lù"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "溪",
+          "xī"
+        ],
+        [
+          "口",
+          "kǒu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "际",
+          "jì"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "转",
+          "zhuǎn"
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "壑",
+          "hè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "隔",
+          "gé"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "望",
+          "wàng"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "斗",
+          "dòu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "潭",
+          "tán"
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "溶",
+          "róng"
+        ],
+        [
+          "溶",
+          "róng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "低",
+          "dī"
+        ],
+        [
+          "向",
+          "xiàng"
+        ],
+        [
+          "后",
+          "hòu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "且",
+          "qiě"
+        ],
+        [
+          "弥",
+          "mí"
+        ],
+        [
+          "漫",
+          "màn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "愿",
+          "yuàn"
+        ],
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "持",
+          "chí"
+        ],
+        [
+          "竿",
+          "gān"
+        ],
+        [
+          "叟",
+          "sǒu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.溶溶：浓厚。"
+      }
+    ],
+    "tags": [
+      "五言古诗",
+      "抒情"
+    ],
+    "english": {
+      "headingRaw": "Five-character-ancient-verseQiwuQianABOATINSPRINGONRUOYALAKE",
+      "translationRaw": "Thoughtfulelationhasnoend：OnwardIbearittowhatevercome。AndmyboatandI，beforetheeveningbreezePassingflowers，enteringthelake，Turnatnightfalltowardthewesternvalley，WhereIwatchthesouthstaroverthemountainAndamistthatrises，hoveringsoft，Andthelowmoonslantingthroughthetrees；AndIchoosetoputawayfrommeeveryworldlymatterAndonlytobeanoldmanwithafishing-pole。",
+      "translationClean": "Thoughtfulelationhasnoend: OnwardIbearittowhatevercome. AndmyboatandI, beforetheeveningbreezePassingflowers, enteringthelake, Turnatnightfalltowardthewesternvalley, WhereIwatchthesouthstaroverthemountainAndamistthatrises, hoveringsoft, Andthelowmoonslantingthroughthetrees; AndIchoosetoputawayfrommeeveryworldlymatterAndonlytobeanoldmanwithafishing-pole.",
+      "segments": [
+        "Thoughtfulelationhasnoend: OnwardIbearittowhatevercome.",
+        "AndmyboatandI, beforetheeveningbreezePassingflowers, enteringthelake, Turnatnightfalltowardthewesternvalley, WhereIwatchthesouthstaroverthemountainAndamistthatrises, hoveringsoft, Andthelowmoonslantingthroughthetrees;",
+        "AndIchoosetoputawayfrommeeveryworldlymatterAndonlytobeanoldmanwithafishing-pole."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 190,
+        "title": "春泛若耶溪",
+        "author": "綦毋潜"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 23,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 23,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "6290b8f0-48de-407f-be2c-629140d91f83",
+        "score": 1
+      }
+    },
+    "visual": {
+      "image": "assets/illustrations-wuyan-gushi/023-tang-023-chun-fan-ruo-ye-xi.png",
+      "coreImagery": [
+        "若耶溪",
+        "晚风行舟",
+        "花路",
+        "月潭"
+      ],
+      "mood": [
+        "幽意",
+        "随缘",
+        "清游"
+      ],
+      "palette": [
+        "溪青",
+        "花粉",
+        "月白",
+        "暮紫"
+      ],
+      "composition": "小舟沿花岸入溪，远处月影落潭，水路弯向画面深处。",
+      "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+      "prompt": "春泛若耶溪，綦毋潜。核心意象：若耶溪、晚风行舟、花路、月潭；情绪：幽意、随缘、清游。小舟沿花岸入溪，远处月影落潭，水路弯向画面深处。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+      "generatedAt": "2026-05-10T15:05:28+00:00",
+      "generator": "procedural-watercolor"
+    }
+  }
+}

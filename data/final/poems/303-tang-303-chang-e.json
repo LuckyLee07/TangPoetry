@@ -1,0 +1,349 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-303-chang-e",
+    "order": 303,
+    "section": "七言绝句",
+    "title": "嫦娥",
+    "titleTraditional": "嫦娥",
+    "author": "李商隐",
+    "authorTraditional": "李商隱",
+    "dynasty": "唐代",
+    "aliases": [
+      "嫦娥"
+    ],
+    "lines": [
+      "云母屏风烛影深，长河渐落晓星沈。",
+      "嫦娥应悔偷灵药，碧海青天夜夜心。"
+    ],
+    "linesTraditional": [
+      "雲母屏風燭影深，長河漸落曉星沈。",
+      "嫦娥應悔偷靈藥，碧海青天夜夜心。"
+    ],
+    "text": "云母屏风烛影深，长河渐落晓星沈。嫦娥应悔偷灵药，碧海青天夜夜心。",
+    "textTraditional": "雲母屏風燭影深，長河漸落曉星沈。嫦娥應悔偷靈藥，碧海青天夜夜心。",
+    "displayLines": [
+      "云母屏风烛影深，",
+      "长河渐落晓星沈。",
+      "嫦娥应悔偷灵药，",
+      "碧海青天夜夜心。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "母",
+          "mǔ"
+        ],
+        [
+          "屏",
+          "píng"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "烛",
+          "zhú"
+        ],
+        [
+          "影",
+          "yǐng"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "长",
+          "cháng"
+        ],
+        [
+          "河",
+          "hé"
+        ],
+        [
+          "渐",
+          "jiàn"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "晓",
+          "xiǎo"
+        ],
+        [
+          "星",
+          "xīng"
+        ],
+        [
+          "沈",
+          "shěn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "嫦",
+          "cháng"
+        ],
+        [
+          "娥",
+          "é"
+        ],
+        [
+          "应",
+          "yīng"
+        ],
+        [
+          "悔",
+          "huǐ"
+        ],
+        [
+          "偷",
+          "tōu"
+        ],
+        [
+          "灵",
+          "líng"
+        ],
+        [
+          "药",
+          "yào"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "碧",
+          "bì"
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "母",
+          "mǔ"
+        ],
+        [
+          "屏",
+          "píng"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "烛",
+          "zhú"
+        ],
+        [
+          "影",
+          "yǐng"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "长",
+          "cháng"
+        ],
+        [
+          "河",
+          "hé"
+        ],
+        [
+          "渐",
+          "jiàn"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "晓",
+          "xiǎo"
+        ],
+        [
+          "星",
+          "xīng"
+        ],
+        [
+          "沈",
+          "shěn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "嫦",
+          "cháng"
+        ],
+        [
+          "娥",
+          "é"
+        ],
+        [
+          "应",
+          "yīng"
+        ],
+        [
+          "悔",
+          "huǐ"
+        ],
+        [
+          "偷",
+          "tōu"
+        ],
+        [
+          "灵",
+          "líng"
+        ],
+        [
+          "药",
+          "yào"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "碧",
+          "bì"
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "七言绝句",
+      "孤独",
+      "中秋",
+      "写人",
+      "三年级下册",
+      "小学古诗"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainLiShangyinTOTHEMOONGODDESS",
+      "translationRaw": "Nowthatacandle-shadowstandsonthescreenofcarvenmarbleAndtheRiverofHeavenslantsandthemorningstarsarelow，AreyousorryforhavingstolenthepotionthathassetyouOverpurpleseasandblueskies，tobroodthroughthelongnights？",
+      "translationClean": "Nowthatacandle-shadowstandsonthescreenofcarvenmarbleAndtheRiverofHeavenslantsandthemorningstarsarelow, AreyousorryforhavingstolenthepotionthathassetyouOverpurpleseasandblueskies, tobroodthroughthelongnights?",
+      "segments": [
+        "Nowthatacandle-shadowstandsonthescreenofcarvenmarbleAndtheRiverofHeavenslantsandthemorningstarsarelow, AreyousorryforhavingstolenthepotionthathassetyouOverpurpleseasandblueskies, tobroodthroughthelongnights?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 252,
+        "title": "嫦娥",
+        "author": "李商隐"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9721
+      },
+      "ctext": {
+        "matched": true,
+        "order": 303,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 176,
+        "score": 0.9643,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "f7c9c409-9571-4eb8-abd9-91ec6c1ff564",
+        "score": 0.9286
+      }
+    }
+  }
+}

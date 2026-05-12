@@ -1,0 +1,353 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-265-gui-yuan",
+    "order": 265,
+    "section": "七言绝句",
+    "title": "闺怨",
+    "titleTraditional": "閨怨",
+    "author": "王昌龄",
+    "authorTraditional": "王昌齡",
+    "dynasty": "唐代",
+    "aliases": [
+      "闺怨"
+    ],
+    "lines": [
+      "闺中少妇不知愁，春日凝妆上翠楼。",
+      "忽见陌头杨柳色，悔教夫婿觅封侯。"
+    ],
+    "linesTraditional": [
+      "閨中少婦不知愁，春日凝妝上翠樓。",
+      "忽見陌頭楊柳色，悔教夫婿覓封侯。"
+    ],
+    "text": "闺中少妇不知愁，春日凝妆上翠楼。忽见陌头杨柳色，悔教夫婿觅封侯。",
+    "textTraditional": "閨中少婦不知愁，春日凝妝上翠樓。忽見陌頭楊柳色，悔教夫婿覓封侯。",
+    "displayLines": [
+      "闺中少妇不知愁，",
+      "春日凝妆上翠楼。",
+      "忽见陌头杨柳色，",
+      "悔教夫婿觅封侯。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "闺",
+          "guī"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "少",
+          "shào"
+        ],
+        [
+          "妇",
+          "fù"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "愁",
+          "chóu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "凝",
+          "níng"
+        ],
+        [
+          "妆",
+          "zhuāng"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "翠",
+          "cuì"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "忽",
+          "hū"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "陌",
+          "mò"
+        ],
+        [
+          "头",
+          "tóu"
+        ],
+        [
+          "杨",
+          "yáng"
+        ],
+        [
+          "柳",
+          "liǔ"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "悔",
+          "huǐ"
+        ],
+        [
+          "教",
+          "jiào"
+        ],
+        [
+          "夫",
+          "fū"
+        ],
+        [
+          "婿",
+          "xù"
+        ],
+        [
+          "觅",
+          "mì"
+        ],
+        [
+          "封",
+          "fēng"
+        ],
+        [
+          "侯",
+          "hóu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "闺",
+          "guī"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "少",
+          "shào"
+        ],
+        [
+          "妇",
+          "fù"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "愁",
+          "chóu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "凝",
+          "níng"
+        ],
+        [
+          "妆",
+          "zhuāng"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "翠",
+          "cuì"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "忽",
+          "hū"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "陌",
+          "mò"
+        ],
+        [
+          "头",
+          "tóu"
+        ],
+        [
+          "杨",
+          "yáng"
+        ],
+        [
+          "柳",
+          "liǔ"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "悔",
+          "huǐ"
+        ],
+        [
+          "教",
+          "jiào"
+        ],
+        [
+          "夫",
+          "fū"
+        ],
+        [
+          "婿",
+          "xù"
+        ],
+        [
+          "觅",
+          "mì"
+        ],
+        [
+          "封",
+          "fēng"
+        ],
+        [
+          "侯",
+          "hóu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.陌头：路头。"
+      }
+    ],
+    "tags": [
+      "七言绝句",
+      "妇女",
+      "春天",
+      "闺怨"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainWangChanglingINHERQUIETWINDOW",
+      "translationRaw": "Tooyoungtohavelearnedwhatsorrowmeans，Attiredforspring，sheclimbstoherhighchamber。。。。Thenewgreenofthestreet-willowsiswoundingherheart--Justforatitleshesenthimtowar。",
+      "translationClean": "Tooyoungtohavelearnedwhatsorrowmeans, Attiredforspring, sheclimbstoherhighchamber.... Thenewgreenofthestreet-willowsiswoundingherheart--Justforatitleshesenthimtowar.",
+      "segments": [
+        "Tooyoungtohavelearnedwhatsorrowmeans, Attiredforspring, sheclimbstoherhighchamber....",
+        "Thenewgreenofthestreet-willowsiswoundingherheart--Justforatitleshesenthimtowar."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 234,
+        "title": "闺怨",
+        "author": "王昌龄"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 265,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 133,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "4ac3f099-73da-43e8-a4e5-1dbbd9427491",
+        "score": 0.9286
+      }
+    }
+  }
+}

@@ -1,0 +1,501 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-114-deng-yue-yang-lou",
+    "order": 114,
+    "section": "五言律诗",
+    "title": "登岳阳楼",
+    "titleTraditional": "登岳陽樓",
+    "author": "杜甫",
+    "authorTraditional": "杜甫",
+    "dynasty": "唐代",
+    "aliases": [
+      "登岳阳楼"
+    ],
+    "lines": [
+      "昔闻洞庭水，今上岳阳楼。",
+      "吴楚东南坼，乾坤日夜浮。",
+      "亲朋无一字，老病有孤舟。",
+      "戎马关山北，凭轩涕泗流。"
+    ],
+    "linesTraditional": [
+      "昔聞洞庭水，今上岳陽樓。",
+      "吳楚東南坼，乾坤日夜浮。",
+      "親朋無一字，老病有孤舟。",
+      "戎馬關山北，憑軒涕泗流。"
+    ],
+    "text": "昔闻洞庭水，今上岳阳楼。吴楚东南坼，乾坤日夜浮。亲朋无一字，老病有孤舟。戎马关山北，凭轩涕泗流。",
+    "textTraditional": "昔聞洞庭水，今上岳陽樓。吳楚東南坼，乾坤日夜浮。親朋無一字，老病有孤舟。戎馬關山北，憑軒涕泗流。",
+    "displayLines": [
+      "昔闻洞庭水，",
+      "今上岳阳楼。",
+      "吴楚东南坼，",
+      "乾坤日夜浮。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "昔",
+          "xī"
+        ],
+        [
+          "闻",
+          "wén"
+        ],
+        [
+          "洞",
+          "dòng"
+        ],
+        [
+          "庭",
+          "tíng"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "岳",
+          "yuè"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "吴",
+          "wú"
+        ],
+        [
+          "楚",
+          "chǔ"
+        ],
+        [
+          "东",
+          "dōng"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "坼",
+          "chè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "乾",
+          "qián"
+        ],
+        [
+          "坤",
+          "kūn"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "浮",
+          "fú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "亲",
+          "qīn"
+        ],
+        [
+          "朋",
+          "péng"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "字",
+          "zì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "老",
+          "lǎo"
+        ],
+        [
+          "病",
+          "bìng"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "舟",
+          "zhōu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "戎",
+          "róng"
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "北",
+          "běi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "凭",
+          "píng"
+        ],
+        [
+          "轩",
+          "xuān"
+        ],
+        [
+          "涕",
+          "tì"
+        ],
+        [
+          "泗",
+          "sì"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "昔",
+          "xī"
+        ],
+        [
+          "闻",
+          "wén"
+        ],
+        [
+          "洞",
+          "dòng"
+        ],
+        [
+          "庭",
+          "tíng"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "岳",
+          "yuè"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "吴",
+          "wú"
+        ],
+        [
+          "楚",
+          "chǔ"
+        ],
+        [
+          "东",
+          "dōng"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "坼",
+          "chè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "乾",
+          "qián"
+        ],
+        [
+          "坤",
+          "kūn"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "浮",
+          "fú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "亲",
+          "qīn"
+        ],
+        [
+          "朋",
+          "péng"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "字",
+          "zì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "老",
+          "lǎo"
+        ],
+        [
+          "病",
+          "bìng"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "舟",
+          "zhōu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "戎",
+          "róng"
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "北",
+          "běi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "凭",
+          "píng"
+        ],
+        [
+          "轩",
+          "xuān"
+        ],
+        [
+          "涕",
+          "tì"
+        ],
+        [
+          "泗",
+          "sì"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.坼：音彻，分裂的意思。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.一字：指书信。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "洞庭湖",
+      "岳阳楼",
+      "抱负",
+      "山水"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseDuFuONTHEGATE-TOWERATYOUZHOU",
+      "translationRaw": "IhadalwaysheardofLakeDongting--AndnowatlastIhaveclimbedtothistower。WithWucountrytotheeastofmeandChutothesouth，Icanseeheavenandearthendlesslyfloating。。。。Butnowordhasreachedmefromkinorfriends。Iamoldandsickandalonewithmyboat。Northofthiswalltherearewarsandmountains--AndherebytherailhowcanIhelpcrying？",
+      "translationClean": "IhadalwaysheardofLakeDongting--AndnowatlastIhaveclimbedtothistower. WithWucountrytotheeastofmeandChutothesouth, Icanseeheavenandearthendlesslyfloating.... Butnowordhasreachedmefromkinorfriends. Iamoldandsickandalonewithmyboat. Northofthiswalltherearewarsandmountains--AndherebytherailhowcanIhelpcrying?",
+      "segments": [
+        "IhadalwaysheardofLakeDongting--AndnowatlastIhaveclimbedtothistower.",
+        "WithWucountrytotheeastofmeandChutothesouth, Icanseeheavenandearthendlesslyfloating....",
+        "Butnowordhasreachedmefromkinorfriends.",
+        "Iamoldandsickandalonewithmyboat.",
+        "Northofthiswalltherearewarsandmountains--AndherebytherailhowcanIhelpcrying?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 236,
+        "title": "登岳阳楼",
+        "author": "杜甫"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 114,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 211,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "5d05fef6-e4aa-48e5-917d-c29d0e6d6b33",
+        "score": 1
+      }
+    }
+  }
+}

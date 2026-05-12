@@ -1,0 +1,347 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-277-zheng-ren-yuan",
+    "order": 277,
+    "section": "七言绝句",
+    "title": "征人怨",
+    "titleTraditional": "征人怨",
+    "author": "柳中庸",
+    "authorTraditional": "柳中庸",
+    "dynasty": "唐代",
+    "aliases": [
+      "征人怨 / 征怨",
+      "征人怨"
+    ],
+    "lines": [
+      "岁岁金河复玉关，朝朝马策与刀环。",
+      "三春白雪归青冢，万里黄河绕黑山。"
+    ],
+    "linesTraditional": [
+      "歲歲金河復玉關，朝朝馬策與刀環。",
+      "三春白雪歸青塚，萬里黃河繞黑山。"
+    ],
+    "text": "岁岁金河复玉关，朝朝马策与刀环。三春白雪归青冢，万里黄河绕黑山。",
+    "textTraditional": "歲歲金河復玉關，朝朝馬策與刀環。三春白雪歸青塚，萬里黃河繞黑山。",
+    "displayLines": [
+      "岁岁金河复玉关，",
+      "朝朝马策与刀环。",
+      "三春白雪归青冢，",
+      "万里黄河绕黑山。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "岁",
+          "suì"
+        ],
+        [
+          "岁",
+          "suì"
+        ],
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "河",
+          "hé"
+        ],
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "策",
+          "cè"
+        ],
+        [
+          "与",
+          "yǔ"
+        ],
+        [
+          "刀",
+          "dāo"
+        ],
+        [
+          "环",
+          "huán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "雪",
+          "xuě"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "冢",
+          "zhǒng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "河",
+          "hé"
+        ],
+        [
+          "绕",
+          "rào"
+        ],
+        [
+          "黑",
+          "hēi"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "岁",
+          "suì"
+        ],
+        [
+          "岁",
+          "suì"
+        ],
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "河",
+          "hé"
+        ],
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "策",
+          "cè"
+        ],
+        [
+          "与",
+          "yǔ"
+        ],
+        [
+          "刀",
+          "dāo"
+        ],
+        [
+          "环",
+          "huán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "雪",
+          "xuě"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "冢",
+          "zhǒng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "河",
+          "hé"
+        ],
+        [
+          "绕",
+          "rào"
+        ],
+        [
+          "黑",
+          "hēi"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "七言绝句",
+      "黄河",
+      "边塞"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainLiuZhongyongATROOPER』SBURDEN",
+      "translationRaw": "Foryears，toguardtheJadePassandtheRiverofGold，Withourhandsonourhorse-whipsandourswordhilts，WehavewatchedthegreengraveschangetosnowAndtheYellowStreamringtheBlackMountainforever。",
+      "translationClean": "Foryears, toguardtheJadePassandtheRiverofGold, Withourhandsonourhorse-whipsandourswordhilts, WehavewatchedthegreengraveschangetosnowAndtheYellowStreamringtheBlackMountainforever.",
+      "segments": [
+        "Foryears, toguardtheJadePassandtheRiverofGold, Withourhandsonourhorse-whipsandourswordhilts, WehavewatchedthegreengraveschangetosnowAndtheYellowStreamringtheBlackMountainforever."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 181,
+        "title": "征人怨 / 征怨",
+        "author": "柳中庸"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 277,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 150,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "92dd65da-8301-4c83-b8f3-986b6095c481",
+        "score": 0.9643
+      }
+    }
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-263-jiu-yue-jiu-ri-yi-shan-dong-xiong-di",
+    "order": 263,
+    "section": "七言绝句",
+    "title": "九月九日忆山东兄弟",
+    "titleTraditional": "九月九日憶山東兄弟",
+    "author": "王维",
+    "authorTraditional": "王維",
+    "dynasty": "唐代",
+    "aliases": [
+      "九月九日忆山东兄弟"
+    ],
+    "lines": [
+      "独在异乡为异客，每逢佳节倍思亲。",
+      "遥知兄弟登高处，遍插茱萸少一人。"
+    ],
+    "linesTraditional": [
+      "獨在異鄉為異客，每逢佳節倍思親。",
+      "遙知兄弟登高處，遍插茱萸少一人。"
+    ],
+    "text": "独在异乡为异客，每逢佳节倍思亲。遥知兄弟登高处，遍插茱萸少一人。",
+    "textTraditional": "獨在異鄉為異客，每逢佳節倍思親。遙知兄弟登高處，遍插茱萸少一人。",
+    "displayLines": [
+      "独在异乡为异客，",
+      "每逢佳节倍思亲。",
+      "遥知兄弟登高处，",
+      "遍插茱萸少一人。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "异",
+          "yì"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "异",
+          "yì"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "每",
+          "měi"
+        ],
+        [
+          "逢",
+          "féng"
+        ],
+        [
+          "佳",
+          "jiā"
+        ],
+        [
+          "节",
+          "jié"
+        ],
+        [
+          "倍",
+          "bèi"
+        ],
+        [
+          "思",
+          "sī"
+        ],
+        [
+          "亲",
+          "qīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "遥",
+          "yáo"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "兄",
+          "xiōng"
+        ],
+        [
+          "弟",
+          "dì"
+        ],
+        [
+          "登",
+          "dēng"
+        ],
+        [
+          "高",
+          "gāo"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "遍",
+          "biàn"
+        ],
+        [
+          "插",
+          "chā"
+        ],
+        [
+          "茱",
+          "zhū"
+        ],
+        [
+          "萸",
+          "yú"
+        ],
+        [
+          "少",
+          "shǎo"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "异",
+          "yì"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "异",
+          "yì"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "每",
+          "měi"
+        ],
+        [
+          "逢",
+          "féng"
+        ],
+        [
+          "佳",
+          "jiā"
+        ],
+        [
+          "节",
+          "jié"
+        ],
+        [
+          "倍",
+          "bèi"
+        ],
+        [
+          "思",
+          "sī"
+        ],
+        [
+          "亲",
+          "qīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "遥",
+          "yáo"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "兄",
+          "xiōng"
+        ],
+        [
+          "弟",
+          "dì"
+        ],
+        [
+          "登",
+          "dēng"
+        ],
+        [
+          "高",
+          "gāo"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "遍",
+          "biàn"
+        ],
+        [
+          "插",
+          "chā"
+        ],
+        [
+          "茱",
+          "zhū"
+        ],
+        [
+          "萸",
+          "yú"
+        ],
+        [
+          "少",
+          "shǎo"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "七言绝句",
+      "思乡",
+      "三年级上册",
+      "重阳节",
+      "小学古诗"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainWangWeiONTHEMOUNTAINHOLIDAYTHINKINGOFMYBROTHERSINSHANDONG",
+      "translationRaw": "Allaloneinaforeignland，IamtwiceashomesickonthisdayWhenbrotherscarrydogwoodupthemountain，Eachofthemabranch-andmybranchmissing。",
+      "translationClean": "Allaloneinaforeignland, IamtwiceashomesickonthisdayWhenbrotherscarrydogwoodupthemountain, Eachofthemabranch-andmybranchmissing.",
+      "segments": [
+        "Allaloneinaforeignland, IamtwiceashomesickonthisdayWhenbrotherscarrydogwoodupthemountain, Eachofthemabranch-andmybranchmissing."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 266,
+        "title": "九月九日忆山东兄弟",
+        "author": "王维"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 263,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 129,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "6bbd1c2c-8c43-4ffb-b7b3-506d74266cee",
+        "score": 1
+      }
+    }
+  }
+}

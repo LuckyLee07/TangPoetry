@@ -1,0 +1,283 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-239-song-shang-ren",
+    "order": 239,
+    "section": "五言绝句",
+    "title": "送上人",
+    "titleTraditional": "送上人",
+    "author": "刘长卿",
+    "authorTraditional": "劉長卿",
+    "dynasty": "唐代",
+    "aliases": [
+      "送方外上人 / 送上人",
+      "送上人"
+    ],
+    "lines": [
+      "孤云将野鹤，岂向人间住。",
+      "莫买沃洲山，时人已知处。"
+    ],
+    "linesTraditional": [
+      "孤雲將野鶴，豈向人間住。",
+      "莫買沃洲山，時人已知處。"
+    ],
+    "text": "孤云将野鹤，岂向人间住。莫买沃洲山，时人已知处。",
+    "textTraditional": "孤雲將野鶴，豈向人間住。莫買沃洲山，時人已知處。",
+    "displayLines": [
+      "孤云将野鹤，",
+      "岂向人间住。",
+      "莫买沃洲山，",
+      "时人已知处。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "将",
+          "jiāng"
+        ],
+        [
+          "野",
+          "yě"
+        ],
+        [
+          "鹤",
+          "hè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "岂",
+          "qǐ"
+        ],
+        [
+          "向",
+          "xiàng"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "间",
+          "jiān"
+        ],
+        [
+          "住",
+          "zhù"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "莫",
+          "mò"
+        ],
+        [
+          "买",
+          "mǎi"
+        ],
+        [
+          "沃",
+          "wò"
+        ],
+        [
+          "洲",
+          "zhōu"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "已",
+          "yǐ"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "将",
+          "jiāng"
+        ],
+        [
+          "野",
+          "yě"
+        ],
+        [
+          "鹤",
+          "hè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "岂",
+          "qǐ"
+        ],
+        [
+          "向",
+          "xiàng"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "间",
+          "jiān"
+        ],
+        [
+          "住",
+          "zhù"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "莫",
+          "mò"
+        ],
+        [
+          "买",
+          "mǎi"
+        ],
+        [
+          "沃",
+          "wò"
+        ],
+        [
+          "洲",
+          "zhōu"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "已",
+          "yǐ"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言绝句",
+      "送别"
+    ],
+    "english": {
+      "headingRaw": "Five-character-quatrainLiuChangqingFAREWELLTOABUDDHISTMONK",
+      "translationRaw": "CandriftingcloudsandwhitestorksBetenantsinthisworldofours？--OryoustillliveonWuzhouMountain，Nowthatpeoplearecominghere？",
+      "translationClean": "CandriftingcloudsandwhitestorksBetenantsinthisworldofours? --OryoustillliveonWuzhouMountain, Nowthatpeoplearecominghere?",
+      "segments": [
+        "CandriftingcloudsandwhitestorksBetenantsinthisworldofours?",
+        "--OryoustillliveonWuzhouMountain, Nowthatpeoplearecominghere?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 161,
+        "title": "送方外上人 / 送上人",
+        "author": "刘长卿"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 239,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 106,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "c26445b5-a433-4cd7-9020-435866b845f9",
+        "score": 1
+      }
+    }
+  }
+}

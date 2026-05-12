@@ -1,0 +1,595 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-002-gan-yu-qi-er",
+    "order": 2,
+    "section": "五言古诗",
+    "title": "感遇其二",
+    "titleTraditional": "感遇其二",
+    "author": "张九龄",
+    "authorTraditional": "張九齡",
+    "dynasty": "唐代",
+    "aliases": [
+      "感遇十二首·其一",
+      "感遇其二"
+    ],
+    "lines": [
+      "兰叶春葳蕤，桂华秋皎洁；",
+      "欣欣此生意，自尔为佳节。",
+      "谁知林栖者？",
+      "闻风坐相悦，草木有本心，何求美人折？"
+    ],
+    "linesTraditional": [
+      "蘭葉春葳蕤，桂華秋皎潔；",
+      "欣欣此生意，自爾為佳節。",
+      "誰知林棲者？",
+      "聞風坐相悅，草木有本心，何求美人折？"
+    ],
+    "text": "兰叶春葳蕤，桂华秋皎洁；欣欣此生意，自尔为佳节。谁知林栖者？闻风坐相悦，草木有本心，何求美人折？",
+    "textTraditional": "蘭葉春葳蕤，桂華秋皎潔；欣欣此生意，自爾為佳節。誰知林棲者？聞風坐相悅，草木有本心，何求美人折？",
+    "displayLines": [
+      "兰叶春葳蕤，",
+      "桂华秋皎洁；",
+      "欣欣此生意，",
+      "自尔为佳节。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "兰",
+          "lán"
+        ],
+        [
+          "叶",
+          "yè"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "葳",
+          "wēi"
+        ],
+        [
+          "蕤",
+          "ruí"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "桂",
+          "guì"
+        ],
+        [
+          "华",
+          "huá"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "皎",
+          "jiǎo"
+        ],
+        [
+          "洁",
+          "jié"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "欣",
+          "xīn"
+        ],
+        [
+          "欣",
+          "xīn"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "意",
+          "yì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "尔",
+          "ěr"
+        ],
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "佳",
+          "jiā"
+        ],
+        [
+          "节",
+          "jié"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "谁",
+          "shuí"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "栖",
+          "qī"
+        ],
+        [
+          "者",
+          "zhě"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "闻",
+          "wén"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "坐",
+          "zuò"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "悦",
+          "yuè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "木",
+          "mù"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "本",
+          "běn"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "求",
+          "qiú"
+        ],
+        [
+          "美",
+          "měi"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "折",
+          "zhé"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "兰",
+          "lán"
+        ],
+        [
+          "叶",
+          "yè"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "葳",
+          "wēi"
+        ],
+        [
+          "蕤",
+          "ruí"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "桂",
+          "guì"
+        ],
+        [
+          "华",
+          "huá"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "皎",
+          "jiǎo"
+        ],
+        [
+          "洁",
+          "jié"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "欣",
+          "xīn"
+        ],
+        [
+          "欣",
+          "xīn"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "意",
+          "yì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "尔",
+          "ěr"
+        ],
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "佳",
+          "jiā"
+        ],
+        [
+          "节",
+          "jié"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "谁",
+          "shuí"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "栖",
+          "qī"
+        ],
+        [
+          "者",
+          "zhě"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "闻",
+          "wén"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "坐",
+          "zuò"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "悦",
+          "yuè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "木",
+          "mù"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "本",
+          "běn"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "求",
+          "qiú"
+        ],
+        [
+          "美",
+          "měi"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "折",
+          "zhé"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.葳蕤：音\"威ㄖㄨㄟˊ\"，茂盛。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.林栖：隐士。"
+      }
+    ],
+    "tags": [
+      "五言古诗",
+      "哲理",
+      "抒志",
+      "生活",
+      "植物"
+    ],
+    "english": {
+      "headingRaw": "Five-character-ancient-verseZhangJiulingORCHIDANDORANGEI",
+      "translationRaw": "Tenderorchid-leavesinspringAndcinnamon-blossomsbrightinautumnAreasself-containedaslifeis，Whichconformsthemtotheseasons。Yetwhywillyouthinkthataforest-hermit，Alluredbysweetwindsandcontentedwithbeauty，Wouldnomoreaskto-betransplantedTHanWouldanyothernaturalflower？",
+      "translationClean": "Tenderorchid-leavesinspringAndcinnamon-blossomsbrightinautumnAreasself-containedaslifeis, Whichconformsthemtotheseasons. Yetwhywillyouthinkthataforest-hermit, Alluredbysweetwindsandcontentedwithbeauty, Wouldnomoreaskto-betransplantedTHanWouldanyothernaturalflower?",
+      "segments": [
+        "Tenderorchid-leavesinspringAndcinnamon-blossomsbrightinautumnAreasself-containedaslifeis, Whichconformsthemtotheseasons.",
+        "Yetwhywillyouthinkthataforest-hermit, Alluredbysweetwindsandcontentedwithbeauty, Wouldnomoreaskto-betransplantedTHanWouldanyothernaturalflower?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 263,
+        "title": "感遇十二首·其一",
+        "author": "张九龄"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9433
+      },
+      "ctext": {
+        "matched": true,
+        "order": 2,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 2,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "9b4f2d56-6df4-4999-a82c-11283529dd51",
+        "score": 1
+      }
+    },
+    "visual": {
+      "image": "assets/illustrations-wuyan-gushi/002-tang-002-gan-yu-qi-er-feng-v1.png",
+      "coreImagery": [
+        "兰叶",
+        "桂华",
+        "春气",
+        "秋光"
+      ],
+      "mood": [
+        "澄明",
+        "温润",
+        "自足",
+        "幽雅"
+      ],
+      "palette": [
+        "兰青",
+        "嫩绿",
+        "桂金",
+        "暖白",
+        "浅墨"
+      ],
+      "composition": "兰叶和桂枝上下呼应，形成春与秋、清香与本心的对照。",
+      "style": "民国诗意线描，稀疏墨线，淡彩，米色纸面，大面积留白，温厚含蓄，适合诗文叠加",
+      "prompt": "民国诗意线描插图，唐诗《感遇其二》意境：下方兰叶舒展，上方桂枝轻垂，几朵淡金桂花随风落下，中部大面积留白。线条稀疏、温厚、克制，淡彩点染，表达澄明、自足、幽雅与草木本心。不要文字、印章、采花人物、现代建筑、写实摄影。",
+      "generatedAt": "2026-05-10T15:05:28+00:00",
+      "generator": "procedural-watercolor",
+      "illustrationBrief": {
+        "updatedAt": "2026-05-12T01:52:56+00:00",
+        "themeStatement": "借兰桂自芳写草木本心：真正的美不依赖被采折和赏识，而在顺时自成其节。",
+        "keywords": {
+          "coreImagery": [
+            "兰叶",
+            "桂华",
+            "春气",
+            "秋光",
+            "林栖者",
+            "清风",
+            "草木本心"
+          ],
+          "emotionalTone": [
+            "澄明",
+            "温润",
+            "自足",
+            "幽雅",
+            "不求闻达"
+          ],
+          "atmosphere": [
+            "春秋交会",
+            "幽香浮动",
+            "林下清风",
+            "安静生意"
+          ],
+          "symbolicMeanings": [
+            "兰叶象征春日生机",
+            "桂华象征秋日皎洁",
+            "清风象征被感知的德性",
+            "不求折取象征不依附外界承认"
+          ],
+          "visualMotifs": [
+            "兰叶从画面下方舒展",
+            "桂枝从上方轻垂",
+            "风穿过林间",
+            "细小花光散在雾中",
+            "无人采折"
+          ]
+        },
+        "sceneBrief": {
+          "foreground": "清瘦兰叶从下方生出，叶片有春日润意。",
+          "midground": "林间一阵轻风穿过，叶影微动，画面没有人物伸手采折。",
+          "background": "上方桂枝垂下，桂花如淡金小点，在秋光中皎洁但不张扬。",
+          "compositionFocus": "兰叶和桂枝上下呼应，形成春与秋、清香与本心的对照。",
+          "negativeSpace": "中部留出柔和雾白空间，让画面安静、透气。"
+        },
+        "palette": [
+          "兰青",
+          "嫩绿",
+          "桂金",
+          "暖白",
+          "浅墨"
+        ],
+        "stylePrompt": "民国诗意线描，稀疏墨线，淡彩，米色纸面，大面积留白，温厚含蓄，适合诗文叠加",
+        "generationPrompt": "民国诗意线描插图，唐诗《感遇其二》意境：下方兰叶舒展，上方桂枝轻垂，几朵淡金桂花随风落下，中部大面积留白。线条稀疏、温厚、克制，淡彩点染，表达澄明、自足、幽雅与草木本心。不要文字、印章、采花人物、现代建筑、写实摄影。",
+        "avoid": [
+          "文字",
+          "现代建筑",
+          "人物采花",
+          "浓艳花海",
+          "卡通风",
+          "拥挤构图"
+        ]
+      },
+      "assetVersion": "feng-v1",
+      "assetSource": "imagegen built-in; copied from generated preview into project assets",
+      "assetUpdatedAt": "2026-05-12T01:52:56+00:00",
+      "visualStyle": "民国诗意线描；丰子恺启发的温厚留白小品，不复刻具体作品"
+    }
+  }
+}

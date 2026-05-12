@@ -1,0 +1,348 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-296-zeng-bie-zhi-er",
+    "order": 296,
+    "section": "七言绝句",
+    "title": "赠别之二",
+    "titleTraditional": "贈別之二",
+    "author": "杜牧",
+    "authorTraditional": "杜牧",
+    "dynasty": "唐代",
+    "aliases": [
+      "赠别",
+      "赠别之二"
+    ],
+    "lines": [
+      "多情却似总无情，唯觉樽前笑不成。",
+      "蜡烛有心还惜别，替人垂泪到天明。"
+    ],
+    "linesTraditional": [
+      "多情卻似總無情，唯覺樽前笑不成。",
+      "蠟燭有心還惜別，替人垂淚到天明。"
+    ],
+    "text": "多情却似总无情，唯觉樽前笑不成。蜡烛有心还惜别，替人垂泪到天明。",
+    "textTraditional": "多情卻似總無情，唯覺樽前笑不成。蠟燭有心還惜別，替人垂淚到天明。",
+    "displayLines": [
+      "多情却似总无情，",
+      "唯觉樽前笑不成。",
+      "蜡烛有心还惜别，",
+      "替人垂泪到天明。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "多",
+          "duō"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "却",
+          "què"
+        ],
+        [
+          "似",
+          "shì"
+        ],
+        [
+          "总",
+          "zǒng"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "唯",
+          "wéi"
+        ],
+        [
+          "觉",
+          "jué"
+        ],
+        [
+          "樽",
+          "zūn"
+        ],
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "笑",
+          "xiào"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "成",
+          "chéng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "蜡",
+          "là"
+        ],
+        [
+          "烛",
+          "zhú"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "惜",
+          "xī"
+        ],
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "替",
+          "tì"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "垂",
+          "chuí"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "到",
+          "dào"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "多",
+          "duō"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "却",
+          "què"
+        ],
+        [
+          "似",
+          "shì"
+        ],
+        [
+          "总",
+          "zǒng"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "唯",
+          "wéi"
+        ],
+        [
+          "觉",
+          "jué"
+        ],
+        [
+          "樽",
+          "zūn"
+        ],
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "笑",
+          "xiào"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "成",
+          "chéng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "蜡",
+          "là"
+        ],
+        [
+          "烛",
+          "zhú"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "惜",
+          "xī"
+        ],
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "替",
+          "tì"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "垂",
+          "chuí"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "到",
+          "dào"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "七言绝句",
+      "离别",
+      "惜别"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainDuMuPartingII",
+      "translationRaw": "Howcanadeeploveseemdeeplove，Howcanitsmile，atafarewellfeast？Eventhecandle，feelingoursadness，Weeps，aswedo，allnightlong。",
+      "translationClean": "Howcanadeeploveseemdeeplove, Howcanitsmile, atafarewellfeast? Eventhecandle, feelingoursadness, Weeps, aswedo, allnightlong.",
+      "segments": [
+        "Howcanadeeploveseemdeeplove, Howcanitsmile, atafarewellfeast?",
+        "Eventhecandle, feelingoursadness, Weeps, aswedo, allnightlong."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 223,
+        "title": "赠别",
+        "author": "杜牧"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "manual",
+        "score": 1
+      },
+      "ctext": {
+        "matched": true,
+        "order": 296,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 169,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "a7f425de-143b-493d-bb51-13e27c68e871",
+        "score": 0.9643
+      }
+    }
+  }
+}

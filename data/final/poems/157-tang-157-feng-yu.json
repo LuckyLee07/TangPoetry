@@ -1,0 +1,491 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-157-feng-yu",
+    "order": 157,
+    "section": "五言律诗",
+    "title": "风雨",
+    "titleTraditional": "風雨",
+    "author": "李商隐",
+    "authorTraditional": "李商隱",
+    "dynasty": "唐代",
+    "aliases": [
+      "风雨"
+    ],
+    "lines": [
+      "凄凉宝剑篇，羁泊欲穷年。",
+      "黄叶仍风雨，青楼自管弦。",
+      "新知遭薄俗，旧好隔良缘。",
+      "心断新丰酒，销愁斗几千。"
+    ],
+    "linesTraditional": [
+      "淒涼寶劍篇，羈泊欲窮年。",
+      "黃葉仍風雨，青樓自管絃。",
+      "新知遭薄俗，舊好隔良緣。",
+      "心斷新豐酒，銷愁鬥幾千。"
+    ],
+    "text": "凄凉宝剑篇，羁泊欲穷年。黄叶仍风雨，青楼自管弦。新知遭薄俗，旧好隔良缘。心断新丰酒，销愁斗几千。",
+    "textTraditional": "淒涼寶劍篇，羈泊欲窮年。黃葉仍風雨，青樓自管絃。新知遭薄俗，舊好隔良緣。心斷新豐酒，銷愁鬥幾千。",
+    "displayLines": [
+      "凄凉宝剑篇，",
+      "羁泊欲穷年。",
+      "黄叶仍风雨，",
+      "青楼自管弦。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "凄",
+          "qī"
+        ],
+        [
+          "凉",
+          "liáng"
+        ],
+        [
+          "宝",
+          "bǎo"
+        ],
+        [
+          "剑",
+          "jiàn"
+        ],
+        [
+          "篇",
+          "piān"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "羁",
+          "jī"
+        ],
+        [
+          "泊",
+          "pō"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "穷",
+          "qióng"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "叶",
+          "yè"
+        ],
+        [
+          "仍",
+          "réng"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "管",
+          "guǎn"
+        ],
+        [
+          "弦",
+          "xián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "遭",
+          "zāo"
+        ],
+        [
+          "薄",
+          "báo"
+        ],
+        [
+          "俗",
+          "sú"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "旧",
+          "jiù"
+        ],
+        [
+          "好",
+          "hǎo"
+        ],
+        [
+          "隔",
+          "gé"
+        ],
+        [
+          "良",
+          "liáng"
+        ],
+        [
+          "缘",
+          "yuán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "断",
+          "duàn"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "丰",
+          "fēng"
+        ],
+        [
+          "酒",
+          "jiǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "销",
+          "xiāo"
+        ],
+        [
+          "愁",
+          "chóu"
+        ],
+        [
+          "斗",
+          "dòu"
+        ],
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "千",
+          "qiān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "凄",
+          "qī"
+        ],
+        [
+          "凉",
+          "liáng"
+        ],
+        [
+          "宝",
+          "bǎo"
+        ],
+        [
+          "剑",
+          "jiàn"
+        ],
+        [
+          "篇",
+          "piān"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "羁",
+          "jī"
+        ],
+        [
+          "泊",
+          "pō"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "穷",
+          "qióng"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "叶",
+          "yè"
+        ],
+        [
+          "仍",
+          "réng"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "管",
+          "guǎn"
+        ],
+        [
+          "弦",
+          "xián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "遭",
+          "zāo"
+        ],
+        [
+          "薄",
+          "báo"
+        ],
+        [
+          "俗",
+          "sú"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "旧",
+          "jiù"
+        ],
+        [
+          "好",
+          "hǎo"
+        ],
+        [
+          "隔",
+          "gé"
+        ],
+        [
+          "良",
+          "liáng"
+        ],
+        [
+          "缘",
+          "yuán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "断",
+          "duàn"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "丰",
+          "fēng"
+        ],
+        [
+          "酒",
+          "jiǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "销",
+          "xiāo"
+        ],
+        [
+          "愁",
+          "chóu"
+        ],
+        [
+          "斗",
+          "dòu"
+        ],
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "千",
+          "qiān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言律诗",
+      "风雨",
+      "怀才不遇"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseLiShangyinWINDANDRAIN",
+      "translationRaw": "IponderonthepoemofThePreciousDagger。Myroadhaswoundthroughmanyyears。。。。Nowyellowleavesareshakenwithagale；YetpipingandfiddlingkeeptheBlueHousesmerry。Onthesurface，Iseemtobegladofnewpeople；Butdoomedtoleaveoldfriendsbehindme，IcryoutfrommyheartforXinfengwineTomeltawaymythousandwoes。",
+      "translationClean": "IponderonthepoemofThePreciousDagger. Myroadhaswoundthroughmanyyears.... Nowyellowleavesareshakenwithagale; YetpipingandfiddlingkeeptheBlueHousesmerry. Onthesurface, Iseemtobegladofnewpeople; Butdoomedtoleaveoldfriendsbehindme, IcryoutfrommyheartforXinfengwineTomeltawaymythousandwoes.",
+      "segments": [
+        "IponderonthepoemofThePreciousDagger.",
+        "Myroadhaswoundthroughmanyyears....",
+        "Nowyellowleavesareshakenwithagale;",
+        "YetpipingandfiddlingkeeptheBlueHousesmerry.",
+        "Onthesurface, Iseemtobegladofnewpeople;",
+        "Butdoomedtoleaveoldfriendsbehindme, IcryoutfrommyheartforXinfengwineTomeltawaymythousandwoes."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 197,
+        "title": "风雨",
+        "author": "李商隐"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 157,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 254,
+        "score": 0.975,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "d32a2610-09d7-49ad-8cdf-dd9c649144c7",
+        "score": 1
+      }
+    }
+  }
+}

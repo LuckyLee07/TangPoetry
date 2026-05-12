@@ -1,0 +1,289 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-233-ye-si",
+    "order": 233,
+    "section": "五言绝句",
+    "title": "夜思",
+    "titleTraditional": "夜思",
+    "author": "李白",
+    "authorTraditional": "李白",
+    "dynasty": "唐代",
+    "aliases": [
+      "静夜思",
+      "夜思"
+    ],
+    "lines": [
+      "床前明月光，疑是地上霜。",
+      "举头望明月，低头思故乡。"
+    ],
+    "linesTraditional": [
+      "床前明月光，疑是地上霜。",
+      "舉頭望明月，低頭思故鄉。"
+    ],
+    "text": "床前明月光，疑是地上霜。举头望明月，低头思故乡。",
+    "textTraditional": "床前明月光，疑是地上霜。舉頭望明月，低頭思故鄉。",
+    "displayLines": [
+      "床前明月光，",
+      "疑是地上霜。",
+      "举头望明月，",
+      "低头思故乡。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "床",
+          "chuáng"
+        ],
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "光",
+          "guāng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "疑",
+          "yí"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "地",
+          "dì"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "霜",
+          "shuāng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "举",
+          "jǔ"
+        ],
+        [
+          "头",
+          "tóu"
+        ],
+        [
+          "望",
+          "wàng"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "低",
+          "dī"
+        ],
+        [
+          "头",
+          "tóu"
+        ],
+        [
+          "思",
+          "sī"
+        ],
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "床",
+          "chuáng"
+        ],
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "光",
+          "guāng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "疑",
+          "yí"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "地",
+          "dì"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "霜",
+          "shuāng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "举",
+          "jǔ"
+        ],
+        [
+          "头",
+          "tóu"
+        ],
+        [
+          "望",
+          "wàng"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "低",
+          "dī"
+        ],
+        [
+          "头",
+          "tóu"
+        ],
+        [
+          "思",
+          "sī"
+        ],
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言绝句",
+      "新乐府辞",
+      "思乡",
+      "中秋",
+      "一年级上册",
+      "月亮",
+      "小学古诗"
+    ],
+    "english": {
+      "headingRaw": "Five-character-quatrainLiBaiINTHEQUIETNIGHT",
+      "translationRaw": "Sobrightagleamonthefootofmybed--Couldtherehavebeenafrostalready？Liftingmyselftolook，Ifoundthatitwasmoonlight。Sinkingbackagain，Ithoughtsuddenlyofhome。",
+      "translationClean": "Sobrightagleamonthefootofmybed--Couldtherehavebeenafrostalready? Liftingmyselftolook, Ifoundthatitwasmoonlight. Sinkingbackagain, Ithoughtsuddenlyofhome.",
+      "segments": [
+        "Sobrightagleamonthefootofmybed--Couldtherehavebeenafrostalready?",
+        "Liftingmyselftolook, Ifoundthatitwasmoonlight.",
+        "Sinkingbackagain, Ithoughtsuddenlyofhome."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 242,
+        "title": "静夜思",
+        "author": "李白"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.966
+      },
+      "ctext": {
+        "matched": true,
+        "order": 233,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 99,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "ca2c489a-e433-4c0f-8248-77d354f0665e",
+        "score": 0.9
+      }
+    }
+  }
+}

@@ -1,0 +1,489 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-137-xin-nian-zuo",
+    "order": 137,
+    "section": "五言律诗",
+    "title": "新年作",
+    "titleTraditional": "新年作",
+    "author": "刘长卿",
+    "authorTraditional": "劉長卿",
+    "dynasty": "唐代",
+    "aliases": [
+      "新年作"
+    ],
+    "lines": [
+      "乡心新岁切，天畔独潸然。",
+      "老至居人下，春归在客先。",
+      "岭猿同旦暮，江柳共风烟。",
+      "已似长沙傅，从今又几年。"
+    ],
+    "linesTraditional": [
+      "鄉心新歲切，天畔獨潸然。",
+      "老至居人下，春歸在客先。",
+      "嶺猿同旦暮，江柳共風煙。",
+      "已似長沙傅，從今又幾年。"
+    ],
+    "text": "乡心新岁切，天畔独潸然。老至居人下，春归在客先。岭猿同旦暮，江柳共风烟。已似长沙傅，从今又几年。",
+    "textTraditional": "鄉心新歲切，天畔獨潸然。老至居人下，春歸在客先。嶺猿同旦暮，江柳共風煙。已似長沙傅，從今又幾年。",
+    "displayLines": [
+      "乡心新岁切，",
+      "天畔独潸然。",
+      "老至居人下，",
+      "春归在客先。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "岁",
+          "suì"
+        ],
+        [
+          "切",
+          "qiè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "畔",
+          "pàn"
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "潸",
+          "shān"
+        ],
+        [
+          "然",
+          "rán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "老",
+          "lǎo"
+        ],
+        [
+          "至",
+          "zhì"
+        ],
+        [
+          "居",
+          "jū"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "先",
+          "xiān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "岭",
+          "lǐng"
+        ],
+        [
+          "猿",
+          "yuán"
+        ],
+        [
+          "同",
+          "tóng"
+        ],
+        [
+          "旦",
+          "dàn"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "柳",
+          "liǔ"
+        ],
+        [
+          "共",
+          "gòng"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "已",
+          "yǐ"
+        ],
+        [
+          "似",
+          "shì"
+        ],
+        [
+          "长",
+          "cháng"
+        ],
+        [
+          "沙",
+          "shā"
+        ],
+        [
+          "傅",
+          "fù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "从",
+          "cóng"
+        ],
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "又",
+          "yòu"
+        ],
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "岁",
+          "suì"
+        ],
+        [
+          "切",
+          "qiè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "畔",
+          "pàn"
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "潸",
+          "shān"
+        ],
+        [
+          "然",
+          "rán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "老",
+          "lǎo"
+        ],
+        [
+          "至",
+          "zhì"
+        ],
+        [
+          "居",
+          "jū"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "先",
+          "xiān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "岭",
+          "lǐng"
+        ],
+        [
+          "猿",
+          "yuán"
+        ],
+        [
+          "同",
+          "tóng"
+        ],
+        [
+          "旦",
+          "dàn"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "柳",
+          "liǔ"
+        ],
+        [
+          "共",
+          "gòng"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "已",
+          "yǐ"
+        ],
+        [
+          "似",
+          "shì"
+        ],
+        [
+          "长",
+          "cháng"
+        ],
+        [
+          "沙",
+          "shā"
+        ],
+        [
+          "傅",
+          "fù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "从",
+          "cóng"
+        ],
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "又",
+          "yòu"
+        ],
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言律诗",
+      "春节",
+      "思乡"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseLiuChangqingNEWYEAR』SATCHANGSHA",
+      "translationRaw": "NewYear』sonlydeepensmylonging，AddstothelonelytearsofanexileWho，growingoldandstillinharness，Isleftherebythehomingspring。。。。Monkeyscomedownfromthemountainstohauntme。Ibendlikeawillow，whenitrainsontheriver。IthinkofJiaYi，whotaughthereanddiedhere-AndIwonderwhatmytermshallbe。",
+      "translationClean": "NewYear'sonlydeepensmylonging, AddstothelonelytearsofanexileWho, growingoldandstillinharness, Isleftherebythehomingspring.... Monkeyscomedownfromthemountainstohauntme. Ibendlikeawillow, whenitrainsontheriver. IthinkofJiaYi, whotaughthereanddiedhere-AndIwonderwhatmytermshallbe.",
+      "segments": [
+        "NewYear'sonlydeepensmylonging, AddstothelonelytearsofanexileWho, growingoldandstillinharness, Isleftherebythehomingspring....",
+        "Monkeyscomedownfromthemountainstohauntme.",
+        "Ibendlikeawillow, whenitrainsontheriver.",
+        "IthinkofJiaYi, whotaughthereanddiedhere-AndIwonderwhatmytermshallbe."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 11,
+        "title": "新年作",
+        "author": "刘长卿"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 137,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 234,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "6556f501-f5b9-4353-bde2-75ec0e1bb616",
+        "score": 0.95
+      }
+    }
+  }
+}

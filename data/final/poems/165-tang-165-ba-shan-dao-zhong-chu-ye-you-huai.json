@@ -1,0 +1,505 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-165-ba-shan-dao-zhong-chu-ye-you-huai",
+    "order": 165,
+    "section": "五言律诗",
+    "title": "巴山道中除夜有怀",
+    "titleTraditional": "巴山道中除夜有懷",
+    "author": "崔涂",
+    "authorTraditional": "崔塗",
+    "dynasty": "唐代",
+    "aliases": [
+      "除夜 / 巴山道中除夜书怀",
+      "巴山道中除夜有怀"
+    ],
+    "lines": [
+      "迢递三巴路，羁危万里身。",
+      "乱山残雪夜，孤独异乡春。",
+      "渐与骨肉远，转于僮仆亲。",
+      "那堪正飘泊，明日岁华新。",
+      "又作人"
+    ],
+    "linesTraditional": [
+      "迢遞三巴路，羈危萬里身。",
+      "亂山殘雪夜，孤獨異鄉春。",
+      "漸與骨肉遠，轉於僮僕親。",
+      "那堪正飄泊，明日歲華新。",
+      "又作人"
+    ],
+    "text": "迢递三巴路，羁危万里身。乱山残雪夜，孤独异乡春。渐与骨肉远，转于僮仆亲。那堪正飘泊，明日岁华新。又作人",
+    "textTraditional": "迢遞三巴路，羈危萬里身。亂山殘雪夜，孤獨異鄉春。漸與骨肉遠，轉於僮僕親。那堪正飄泊，明日歲華新。又作人",
+    "displayLines": [
+      "迢递三巴路，",
+      "羁危万里身。",
+      "乱山残雪夜，",
+      "孤独异乡春。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "迢",
+          "tiáo"
+        ],
+        [
+          "递",
+          "dì"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "巴",
+          "bā"
+        ],
+        [
+          "路",
+          "lù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "羁",
+          "jī"
+        ],
+        [
+          "危",
+          "wēi"
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "身",
+          "shēn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "乱",
+          "luàn"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "残",
+          "cán"
+        ],
+        [
+          "雪",
+          "xuě"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "异",
+          "yì"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "渐",
+          "jiàn"
+        ],
+        [
+          "与",
+          "yǔ"
+        ],
+        [
+          "骨",
+          "gǔ"
+        ],
+        [
+          "肉",
+          "ròu"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "转",
+          "zhuǎn"
+        ],
+        [
+          "于",
+          "yú"
+        ],
+        [
+          "僮",
+          "tóng"
+        ],
+        [
+          "仆",
+          "pú"
+        ],
+        [
+          "亲",
+          "qīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "那",
+          "nà"
+        ],
+        [
+          "堪",
+          "kān"
+        ],
+        [
+          "正",
+          "zhèng"
+        ],
+        [
+          "飘",
+          "piāo"
+        ],
+        [
+          "泊",
+          "bó"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "岁",
+          "suì"
+        ],
+        [
+          "华",
+          "huá"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "迢",
+          "tiáo"
+        ],
+        [
+          "递",
+          "dì"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "巴",
+          "bā"
+        ],
+        [
+          "路",
+          "lù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "羁",
+          "jī"
+        ],
+        [
+          "危",
+          "wēi"
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "身",
+          "shēn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "乱",
+          "luàn"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "残",
+          "cán"
+        ],
+        [
+          "雪",
+          "xuě"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "异",
+          "yì"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "渐",
+          "jiàn"
+        ],
+        [
+          "与",
+          "yǔ"
+        ],
+        [
+          "骨",
+          "gǔ"
+        ],
+        [
+          "肉",
+          "ròu"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "转",
+          "zhuǎn"
+        ],
+        [
+          "于",
+          "yú"
+        ],
+        [
+          "僮",
+          "tóng"
+        ],
+        [
+          "仆",
+          "pú"
+        ],
+        [
+          "亲",
+          "qīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "那",
+          "nà"
+        ],
+        [
+          "堪",
+          "kān"
+        ],
+        [
+          "正",
+          "zhèng"
+        ],
+        [
+          "飘",
+          "piāo"
+        ],
+        [
+          "泊",
+          "bó"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "岁",
+          "suì"
+        ],
+        [
+          "华",
+          "huá"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "又",
+          "yòu"
+        ],
+        [
+          "作",
+          "zuò"
+        ],
+        [
+          "人",
+          "rén"
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言律诗",
+      "羁旅",
+      "春节",
+      "思乡"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseCuiTuONNEWYEAR』SEVE",
+      "translationRaw": "FartherandfartherfromthethreeBaRoads，Ihavecomethreethousandmiles，anxiousandwatchful，Throughpalesnow-patchesinthejaggednightmountains--Astrangerwithalonelylanternshakeninthewind。。。。SeparationfrommykinBindsmeclosertomyservants--YethowIdread，sofaradrift，NewYear』sDay，tomorrowmorning！",
+      "translationClean": "FartherandfartherfromthethreeBaRoads, Ihavecomethreethousandmiles, anxiousandwatchful, Throughpalesnow-patchesinthejaggednightmountains--Astrangerwithalonelylanternshakeninthewind.... SeparationfrommykinBindsmeclosertomyservants--YethowIdread, sofaradrift, NewYear'sDay, tomorrowmorning!",
+      "segments": [
+        "FartherandfartherfromthethreeBaRoads, Ihavecomethreethousandmiles, anxiousandwatchful, Throughpalesnow-patchesinthejaggednightmountains--Astrangerwithalonelylanternshakeninthewind....",
+        "SeparationfrommykinBindsmeclosertomyservants--YethowIdread, sofaradrift, NewYear'sDay, tomorrowmorning!"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 240,
+        "title": "除夜 / 巴山道中除夜书怀",
+        "author": "崔涂"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.913
+      },
+      "ctext": {
+        "matched": true,
+        "order": 165,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 262,
+        "score": 0.975,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "0f5af383-765a-4d56-b00b-79ee2ccd5111",
+        "score": 0.925
+      }
+    }
+  }
+}

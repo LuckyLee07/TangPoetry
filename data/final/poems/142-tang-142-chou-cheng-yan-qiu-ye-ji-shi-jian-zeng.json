@@ -1,0 +1,496 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-142-chou-cheng-yan-qiu-ye-ji-shi-jian-zeng",
+    "order": 142,
+    "section": "五言律诗",
+    "title": "酬程延秋夜即事见赠",
+    "titleTraditional": "酬程延秋夜即事見贈",
+    "author": "韩翃",
+    "authorTraditional": "韓翃",
+    "dynasty": "唐代",
+    "aliases": [
+      "酬程延秋夜即事见赠"
+    ],
+    "lines": [
+      "长簟迎风早，空城澹月华。",
+      "星河秋一雁，砧杵夜千家。",
+      "节候看应晚，心期卧亦赊。",
+      "向来吟秀句，不觉已鸣鸦。"
+    ],
+    "linesTraditional": [
+      "長簟迎風早，空城澹月華。",
+      "星河秋一雁，砧杵夜千家。",
+      "節候看應晚，心期臥亦賒。",
+      "向來吟秀句，不覺已鳴鴉。"
+    ],
+    "text": "长簟迎风早，空城澹月华。星河秋一雁，砧杵夜千家。节候看应晚，心期卧亦赊。向来吟秀句，不觉已鸣鸦。",
+    "textTraditional": "長簟迎風早，空城澹月華。星河秋一雁，砧杵夜千家。節候看應晚，心期臥亦賒。向來吟秀句，不覺已鳴鴉。",
+    "displayLines": [
+      "长簟迎风早，",
+      "空城澹月华。",
+      "星河秋一雁，",
+      "砧杵夜千家。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "长",
+          "zhǎng"
+        ],
+        [
+          "簟",
+          "diàn"
+        ],
+        [
+          "迎",
+          "yíng"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "早",
+          "zǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "澹",
+          "dàn"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "华",
+          "huá"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "星",
+          "xīng"
+        ],
+        [
+          "河",
+          "hé"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "雁",
+          "yàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "砧",
+          "zhēn"
+        ],
+        [
+          "杵",
+          "chǔ"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "千",
+          "qiān"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "节",
+          "jié"
+        ],
+        [
+          "候",
+          "hòu"
+        ],
+        [
+          "看",
+          "kàn"
+        ],
+        [
+          "应",
+          "yīng"
+        ],
+        [
+          "晚",
+          "wǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "期",
+          "qī"
+        ],
+        [
+          "卧",
+          "wò"
+        ],
+        [
+          "亦",
+          "yì"
+        ],
+        [
+          "赊",
+          "shē"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "向",
+          "xiàng"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "吟",
+          "yín"
+        ],
+        [
+          "秀",
+          "xiù"
+        ],
+        [
+          "句",
+          "jù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "觉",
+          "jué"
+        ],
+        [
+          "已",
+          "yǐ"
+        ],
+        [
+          "鸣",
+          "míng"
+        ],
+        [
+          "鸦",
+          "yā"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "长",
+          "zhǎng"
+        ],
+        [
+          "簟",
+          "diàn"
+        ],
+        [
+          "迎",
+          "yíng"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "早",
+          "zǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "澹",
+          "dàn"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "华",
+          "huá"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "星",
+          "xīng"
+        ],
+        [
+          "河",
+          "hé"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "雁",
+          "yàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "砧",
+          "zhēn"
+        ],
+        [
+          "杵",
+          "chǔ"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "千",
+          "qiān"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "节",
+          "jié"
+        ],
+        [
+          "候",
+          "hòu"
+        ],
+        [
+          "看",
+          "kàn"
+        ],
+        [
+          "应",
+          "yīng"
+        ],
+        [
+          "晚",
+          "wǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "期",
+          "qī"
+        ],
+        [
+          "卧",
+          "wò"
+        ],
+        [
+          "亦",
+          "yì"
+        ],
+        [
+          "赊",
+          "shē"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "向",
+          "xiàng"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "吟",
+          "yín"
+        ],
+        [
+          "秀",
+          "xiù"
+        ],
+        [
+          "句",
+          "jù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "觉",
+          "jué"
+        ],
+        [
+          "已",
+          "yǐ"
+        ],
+        [
+          "鸣",
+          "míng"
+        ],
+        [
+          "鸦",
+          "yā"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.簟：竹席。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.月华：月光。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "写景",
+      "酬答"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseHanHongANAUTUMNEVENINGHARMONIZINGCHENGQIN』SPOEM",
+      "translationRaw": "Whileacoldwindiscreepingundermymat，Andthecity』snakedwallgrowspalewiththeautumnmoon，Iseealonewild-goosecrossingtheRiverofStars，AndIhear，onstoneinthenight，thousandsofwashingmallets。。。。But，insteadofwishingtheseason，asitgoes，Tobearmealsofaraway，IhavefoundyourpoemsobeautifulThatIforgetthehomingbirds。",
+      "translationClean": "Whileacoldwindiscreepingundermymat, Andthecity'snakedwallgrowspalewiththeautumnmoon, Iseealonewild-goosecrossingtheRiverofStars, AndIhear, onstoneinthenight, thousandsofwashingmallets.... But, insteadofwishingtheseason, asitgoes, Tobearmealsofaraway, IhavefoundyourpoemsobeautifulThatIforgetthehomingbirds.",
+      "segments": [
+        "Whileacoldwindiscreepingundermymat, Andthecity'snakedwallgrowspalewiththeautumnmoon, Iseealonewild-goosecrossingtheRiverofStars, AndIhear, onstoneinthenight, thousandsofwashingmallets....",
+        "But, insteadofwishingtheseason, asitgoes, Tobearmealsofaraway, IhavefoundyourpoemsobeautifulThatIforgetthehomingbirds."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 230,
+        "title": "酬程延秋夜即事见赠",
+        "author": "韩翃"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 142,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 239,
+        "score": 0.975,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "ce493923-7c4b-41a9-94e9-cf95741c018c",
+        "score": 1
+      }
+    }
+  }
+}

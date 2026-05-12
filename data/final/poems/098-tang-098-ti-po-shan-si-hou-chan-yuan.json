@@ -1,0 +1,494 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-098-ti-po-shan-si-hou-chan-yuan",
+    "order": 98,
+    "section": "五言律诗",
+    "title": "题破山寺后禅院",
+    "titleTraditional": "題破山寺後禪院",
+    "author": "常建",
+    "authorTraditional": "常建",
+    "dynasty": "唐代",
+    "aliases": [
+      "题破山寺后禅院"
+    ],
+    "lines": [
+      "清晨入古寺，初日照高林。",
+      "曲径通幽处，禅房花木深。",
+      "山光悦鸟性，潭影空人心。",
+      "万籁此俱寂，惟余钟磬音。"
+    ],
+    "linesTraditional": [
+      "清晨入古寺，初日照高林。",
+      "曲徑通幽處，禪房花木深。",
+      "山光悅鳥性，潭影空人心。",
+      "萬籟此俱寂，惟餘鐘磬音。"
+    ],
+    "text": "清晨入古寺，初日照高林。曲径通幽处，禅房花木深。山光悦鸟性，潭影空人心。万籁此俱寂，惟余钟磬音。",
+    "textTraditional": "清晨入古寺，初日照高林。曲徑通幽處，禪房花木深。山光悅鳥性，潭影空人心。萬籟此俱寂，惟餘鐘磬音。",
+    "displayLines": [
+      "清晨入古寺，",
+      "初日照高林。",
+      "曲径通幽处，",
+      "禅房花木深。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "晨",
+          "chén"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "寺",
+          "sì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "初",
+          "chū"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "照",
+          "zhào"
+        ],
+        [
+          "高",
+          "gāo"
+        ],
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "曲",
+          "qū"
+        ],
+        [
+          "径",
+          "jìng"
+        ],
+        [
+          "通",
+          "tōng"
+        ],
+        [
+          "幽",
+          "yōu"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "禅",
+          "chán"
+        ],
+        [
+          "房",
+          "fáng"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "木",
+          "mù"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "光",
+          "guāng"
+        ],
+        [
+          "悦",
+          "yuè"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "性",
+          "xìng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "潭",
+          "tán"
+        ],
+        [
+          "影",
+          "yǐng"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "籁",
+          "lài"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "俱",
+          "jù"
+        ],
+        [
+          "寂",
+          "jì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "惟",
+          "wéi"
+        ],
+        [
+          "余",
+          "yú"
+        ],
+        [
+          "钟",
+          "zhōng"
+        ],
+        [
+          "磬",
+          "qìng"
+        ],
+        [
+          "音",
+          "yīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "晨",
+          "chén"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "寺",
+          "sì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "初",
+          "chū"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "照",
+          "zhào"
+        ],
+        [
+          "高",
+          "gāo"
+        ],
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "曲",
+          "qū"
+        ],
+        [
+          "径",
+          "jìng"
+        ],
+        [
+          "通",
+          "tōng"
+        ],
+        [
+          "幽",
+          "yōu"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "禅",
+          "chán"
+        ],
+        [
+          "房",
+          "fáng"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "木",
+          "mù"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "光",
+          "guāng"
+        ],
+        [
+          "悦",
+          "yuè"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "性",
+          "xìng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "潭",
+          "tán"
+        ],
+        [
+          "影",
+          "yǐng"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "籁",
+          "lài"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "俱",
+          "jù"
+        ],
+        [
+          "寂",
+          "jì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "惟",
+          "wéi"
+        ],
+        [
+          "余",
+          "yú"
+        ],
+        [
+          "钟",
+          "zhōng"
+        ],
+        [
+          "磬",
+          "qìng"
+        ],
+        [
+          "音",
+          "yīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "惟--一作 但"
+      },
+      {
+        "source": "唐诗三百首.json",
+        "text": "俱--一作 都"
+      }
+    ],
+    "tags": [
+      "五言律诗"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseChangJianABUDDHISTRETREATBEHINDBROKEN-MOUNTAINTEMPLE",
+      "translationRaw": "Inthepuremorning，neartheoldtemple，Whereearlysunlightpointsthetree-tops，Mypathhaswound，throughashelteredhollowOfboughsandflowers，toaBuddhistretreat。Herebirdsarealivewithmountain-light，Andthemindofmantouchespeaceinapool，AndathousandsoundsarequietedBythebreathingofatemple-bell。",
+      "translationClean": "Inthepuremorning, neartheoldtemple, Whereearlysunlightpointsthetree-tops, Mypathhaswound, throughashelteredhollowOfboughsandflowers, toaBuddhistretreat. Herebirdsarealivewithmountain-light, Andthemindofmantouchespeaceinapool, AndathousandsoundsarequietedBythebreathingofatemple-bell.",
+      "segments": [
+        "Inthepuremorning, neartheoldtemple, Whereearlysunlightpointsthetree-tops, Mypathhaswound, throughashelteredhollowOfboughsandflowers, toaBuddhistretreat.",
+        "Herebirdsarealivewithmountain-light, Andthemindofmantouchespeaceinapool, AndathousandsoundsarequietedBythebreathingofatemple-bell."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 277,
+        "title": "题破山寺后禅院",
+        "author": "常建"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 98,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 195,
+        "score": 0.975,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": false,
+        "id": null,
+        "score": null
+      }
+    }
+  }
+}

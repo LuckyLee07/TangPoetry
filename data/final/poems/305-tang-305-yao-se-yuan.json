@@ -1,0 +1,354 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-305-yao-se-yuan",
+    "order": 305,
+    "section": "七言绝句",
+    "title": "瑶瑟怨",
+    "titleTraditional": "瑤瑟怨",
+    "author": "温庭筠",
+    "authorTraditional": "溫庭筠",
+    "dynasty": "唐代",
+    "aliases": [
+      "瑶瑟怨"
+    ],
+    "lines": [
+      "冰簟银床梦不成，碧天如水夜云轻。",
+      "雁声远过潇湘去，十二楼中月自明。"
+    ],
+    "linesTraditional": [
+      "冰簟銀床夢不成，碧天如水夜雲輕。",
+      "雁聲遠過瀟湘去，十二樓中月自明。"
+    ],
+    "text": "冰簟银床梦不成，碧天如水夜云轻。雁声远过潇湘去，十二楼中月自明。",
+    "textTraditional": "冰簟銀床夢不成，碧天如水夜雲輕。雁聲遠過瀟湘去，十二樓中月自明。",
+    "displayLines": [
+      "冰簟银床梦不成，",
+      "碧天如水夜云轻。",
+      "雁声远过潇湘去，",
+      "十二楼中月自明。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "冰",
+          "bīng"
+        ],
+        [
+          "簟",
+          "diàn"
+        ],
+        [
+          "银",
+          "yín"
+        ],
+        [
+          "床",
+          "chuáng"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "成",
+          "chéng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "碧",
+          "bì"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "轻",
+          "qīng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "雁",
+          "yàn"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "过",
+          "guò"
+        ],
+        [
+          "潇",
+          "xiāo"
+        ],
+        [
+          "湘",
+          "xiāng"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "十",
+          "shí"
+        ],
+        [
+          "二",
+          "èr"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "冰",
+          "bīng"
+        ],
+        [
+          "簟",
+          "diàn"
+        ],
+        [
+          "银",
+          "yín"
+        ],
+        [
+          "床",
+          "chuáng"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "成",
+          "chéng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "碧",
+          "bì"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "轻",
+          "qīng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "雁",
+          "yàn"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "过",
+          "guò"
+        ],
+        [
+          "潇",
+          "xiāo"
+        ],
+        [
+          "湘",
+          "xiāng"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "十",
+          "shí"
+        ],
+        [
+          "二",
+          "èr"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.簟：音\"电\"，凉席。"
+      }
+    ],
+    "tags": [
+      "七言绝句",
+      "离别",
+      "闺怨"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainWenTingyunSHESIGHSONHERJADELUTE",
+      "translationRaw": "Acool-mattedsilverybed；butnodreams。。。。Aneveningskyasgreenaswater，shadowedwithtenderclouds；Butfaroffoverthesouthernriversthecallingofawildgoose，Andhereatwelve-storybuilding，lonelyunderthemoon。",
+      "translationClean": "Acool-mattedsilverybed; butnodreams.... Aneveningskyasgreenaswater, shadowedwithtenderclouds; Butfaroffoverthesouthernriversthecallingofawildgoose, Andhereatwelve-storybuilding, lonelyunderthemoon.",
+      "segments": [
+        "Acool-mattedsilverybed;",
+        "butnodreams....",
+        "Aneveningskyasgreenaswater, shadowedwithtenderclouds;",
+        "Butfaroffoverthesouthernriversthecallingofawildgoose, Andhereatwelve-storybuilding, lonelyunderthemoon."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 50,
+        "title": "瑶瑟怨",
+        "author": "温庭筠"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 305,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 178,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "b7d50789-e0d5-4291-8014-eddf65a124df",
+        "score": 1
+      }
+    }
+  }
+}

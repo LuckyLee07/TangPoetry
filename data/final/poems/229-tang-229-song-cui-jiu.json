@@ -1,0 +1,290 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-229-song-cui-jiu",
+    "order": 229,
+    "section": "五言绝句",
+    "title": "送崔九",
+    "titleTraditional": "送崔九",
+    "author": "裴迪",
+    "authorTraditional": "裴迪",
+    "dynasty": "唐代",
+    "aliases": [
+      "崔九欲往南山马上口号与别 / 留别王维 / 送崔九",
+      "送崔九"
+    ],
+    "lines": [
+      "归山深浅去，须尽丘壑美。",
+      "莫学武陵人，暂游桃源里。"
+    ],
+    "linesTraditional": [
+      "歸山深淺去，須盡丘壑美。",
+      "莫學武陵人，暫遊桃源裡。"
+    ],
+    "text": "归山深浅去，须尽丘壑美。莫学武陵人，暂游桃源里。",
+    "textTraditional": "歸山深淺去，須盡丘壑美。莫學武陵人，暫遊桃源裡。",
+    "displayLines": [
+      "归山深浅去，",
+      "须尽丘壑美。",
+      "莫学武陵人，",
+      "暂游桃源里。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "浅",
+          "qiǎn"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "须",
+          "xū"
+        ],
+        [
+          "尽",
+          "jǐn"
+        ],
+        [
+          "丘",
+          "qiū"
+        ],
+        [
+          "壑",
+          "hè"
+        ],
+        [
+          "美",
+          "měi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "莫",
+          "mò"
+        ],
+        [
+          "学",
+          "xué"
+        ],
+        [
+          "武",
+          "wǔ"
+        ],
+        [
+          "陵",
+          "líng"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "暂",
+          "zàn"
+        ],
+        [
+          "游",
+          "yóu"
+        ],
+        [
+          "桃",
+          "táo"
+        ],
+        [
+          "源",
+          "yuán"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "浅",
+          "qiǎn"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "须",
+          "xū"
+        ],
+        [
+          "尽",
+          "jǐn"
+        ],
+        [
+          "丘",
+          "qiū"
+        ],
+        [
+          "壑",
+          "hè"
+        ],
+        [
+          "美",
+          "měi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "莫",
+          "mò"
+        ],
+        [
+          "学",
+          "xué"
+        ],
+        [
+          "武",
+          "wǔ"
+        ],
+        [
+          "陵",
+          "líng"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "暂",
+          "zàn"
+        ],
+        [
+          "游",
+          "yóu"
+        ],
+        [
+          "桃",
+          "táo"
+        ],
+        [
+          "源",
+          "yuán"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.武陵人：指桃花源记中捕鱼为业的武陵人。"
+      }
+    ],
+    "tags": [
+      "五言绝句",
+      "离别",
+      "规劝"
+    ],
+    "english": {
+      "headingRaw": "Five-character-quatrainPeiDiAFAREWELLTOCUI",
+      "translationRaw": "Thoughyouthinktoreturntothismazeofmountains，Oh，letthembrimyourheartwithwonder！。。。。RememberthefishermanfromWulingWhohadonlyadayinthePeach-BlossomCountry。",
+      "translationClean": "Thoughyouthinktoreturntothismazeofmountains, Oh, letthembrimyourheartwithwonder! .... RememberthefishermanfromWulingWhohadonlyadayinthePeach-BlossomCountry.",
+      "segments": [
+        "Thoughyouthinktoreturntothismazeofmountains, Oh, letthembrimyourheartwithwonder!",
+        "....",
+        "RememberthefishermanfromWulingWhohadonlyadayinthePeach-BlossomCountry."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 271,
+        "title": "崔九欲往南山马上口号与别 / 留别王维 / 送崔九",
+        "author": "裴迪"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 229,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 95,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "80fe70cd-6e63-48eb-9c1e-ab26330d45d9",
+        "score": 1
+      }
+    }
+  }
+}

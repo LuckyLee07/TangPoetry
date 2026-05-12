@@ -1,0 +1,489 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-168-zhang-tai-ye-si",
+    "order": 168,
+    "section": "五言律诗",
+    "title": "章台夜思",
+    "titleTraditional": "章臺夜思",
+    "author": "韦庄",
+    "authorTraditional": "韋莊",
+    "dynasty": "唐代",
+    "aliases": [
+      "章台夜思"
+    ],
+    "lines": [
+      "清瑟怨遥夜，绕弦风雨哀。",
+      "孤灯闻楚角，残月下章台。",
+      "芳草已云暮，故人殊未来。",
+      "乡书不可寄，秋雁又南回。"
+    ],
+    "linesTraditional": [
+      "清瑟怨遙夜，繞絃風雨哀。",
+      "孤燈聞楚角，殘月下章臺。",
+      "芳草已雲暮，故人殊未來。",
+      "鄉書不可寄，秋雁又南迴。"
+    ],
+    "text": "清瑟怨遥夜，绕弦风雨哀。孤灯闻楚角，残月下章台。芳草已云暮，故人殊未来。乡书不可寄，秋雁又南回。",
+    "textTraditional": "清瑟怨遙夜，繞絃風雨哀。孤燈聞楚角，殘月下章臺。芳草已雲暮，故人殊未來。鄉書不可寄，秋雁又南迴。",
+    "displayLines": [
+      "清瑟怨遥夜，",
+      "绕弦风雨哀。",
+      "孤灯闻楚角，",
+      "残月下章台。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "瑟",
+          "sè"
+        ],
+        [
+          "怨",
+          "yuàn"
+        ],
+        [
+          "遥",
+          "yáo"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "绕",
+          "rào"
+        ],
+        [
+          "弦",
+          "xián"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "哀",
+          "āi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "灯",
+          "dēng"
+        ],
+        [
+          "闻",
+          "wén"
+        ],
+        [
+          "楚",
+          "chǔ"
+        ],
+        [
+          "角",
+          "jiǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "残",
+          "cán"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "章",
+          "zhāng"
+        ],
+        [
+          "台",
+          "tái"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "芳",
+          "fāng"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "已",
+          "yǐ"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "殊",
+          "shū"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "书",
+          "shū"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "可",
+          "kě"
+        ],
+        [
+          "寄",
+          "jì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "雁",
+          "yàn"
+        ],
+        [
+          "又",
+          "yòu"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "回",
+          "huí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "瑟",
+          "sè"
+        ],
+        [
+          "怨",
+          "yuàn"
+        ],
+        [
+          "遥",
+          "yáo"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "绕",
+          "rào"
+        ],
+        [
+          "弦",
+          "xián"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "哀",
+          "āi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "灯",
+          "dēng"
+        ],
+        [
+          "闻",
+          "wén"
+        ],
+        [
+          "楚",
+          "chǔ"
+        ],
+        [
+          "角",
+          "jiǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "残",
+          "cán"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "章",
+          "zhāng"
+        ],
+        [
+          "台",
+          "tái"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "芳",
+          "fāng"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "已",
+          "yǐ"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "殊",
+          "shū"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "书",
+          "shū"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "可",
+          "kě"
+        ],
+        [
+          "寄",
+          "jì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "雁",
+          "yàn"
+        ],
+        [
+          "又",
+          "yòu"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "回",
+          "huí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言律诗",
+      "怀人",
+      "思乡"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseWeiZhuangANIGHTTHOUGHTONTERRACETOWER",
+      "translationRaw": "FarthroughthenightaharpissighingWithasadnessofwindandraininthestrings。。。。There』sasolitarylantern，abugle-call--AndbeyondTerraceTowerdowngoesthemoon。。。。FragrantgrasseshavechangedandfadedWhilestillIhavebeenhopingthatmyoldfriendwouldcome。。。。TherearenomoremessengersIcansendhim，Nowthatthewildgeesehaveturnedsouth。",
+      "translationClean": "FarthroughthenightaharpissighingWithasadnessofwindandraininthestrings.... There'sasolitarylantern, abugle-call--AndbeyondTerraceTowerdowngoesthemoon.... FragrantgrasseshavechangedandfadedWhilestillIhavebeenhopingthatmyoldfriendwouldcome.... TherearenomoremessengersIcansendhim, Nowthatthewildgeesehaveturnedsouth.",
+      "segments": [
+        "FarthroughthenightaharpissighingWithasadnessofwindandraininthestrings....",
+        "There'sasolitarylantern, abugle-call--AndbeyondTerraceTowerdowngoesthemoon....",
+        "FragrantgrasseshavechangedandfadedWhilestillIhavebeenhopingthatmyoldfriendwouldcome....",
+        "TherearenomoremessengersIcansendhim, Nowthatthewildgeesehaveturnedsouth."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 166,
+        "title": "章台夜思",
+        "author": "韦庄"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 168,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 265,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "19796737-ec7b-4c33-8df4-a81a7ca2cc10",
+        "score": 0.975
+      }
+    }
+  }
+}

@@ -1,0 +1,637 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-184-ye-wang",
+    "order": 184,
+    "section": "七言律诗",
+    "title": "野望",
+    "titleTraditional": "野望",
+    "author": "杜甫",
+    "authorTraditional": "杜甫",
+    "dynasty": "唐代",
+    "aliases": [
+      "野望"
+    ],
+    "lines": [
+      "西山白雪三城戍，南浦清江万里桥。",
+      "海内风尘诸弟隔，天涯涕泪一身遥。",
+      "唯将迟暮供多病，未有涓埃答圣朝。",
+      "跨马出郊时极目，不堪人事日萧条。"
+    ],
+    "linesTraditional": [
+      "西山白雪三城戍，南浦清江萬里橋。",
+      "海內風塵諸弟隔，天涯涕淚一身遙。",
+      "唯將遲暮供多病，未有涓埃答聖朝。",
+      "跨馬出郊時極目，不堪人事日蕭條。"
+    ],
+    "text": "西山白雪三城戍，南浦清江万里桥。海内风尘诸弟隔，天涯涕泪一身遥。唯将迟暮供多病，未有涓埃答圣朝。跨马出郊时极目，不堪人事日萧条。",
+    "textTraditional": "西山白雪三城戍，南浦清江萬里橋。海內風塵諸弟隔，天涯涕淚一身遙。唯將遲暮供多病，未有涓埃答聖朝。跨馬出郊時極目，不堪人事日蕭條。",
+    "displayLines": [
+      "西山白雪三城戍，",
+      "南浦清江万里桥。",
+      "海内风尘诸弟隔，",
+      "天涯涕泪一身遥。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "雪",
+          "xuě"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "戍",
+          "shù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "浦",
+          "pǔ"
+        ],
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "桥",
+          "qiáo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "内",
+          "nèi"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "尘",
+          "chén"
+        ],
+        [
+          "诸",
+          "zhū"
+        ],
+        [
+          "弟",
+          "dì"
+        ],
+        [
+          "隔",
+          "gé"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "涯",
+          "yá"
+        ],
+        [
+          "涕",
+          "tì"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "身",
+          "shēn"
+        ],
+        [
+          "遥",
+          "yáo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "唯",
+          "wéi"
+        ],
+        [
+          "将",
+          "jiāng"
+        ],
+        [
+          "迟",
+          "chí"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "供",
+          "gōng"
+        ],
+        [
+          "多",
+          "duō"
+        ],
+        [
+          "病",
+          "bìng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "涓",
+          "juān"
+        ],
+        [
+          "埃",
+          "āi"
+        ],
+        [
+          "答",
+          "dá"
+        ],
+        [
+          "圣",
+          "shèng"
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "跨",
+          "kuà"
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "出",
+          "chū"
+        ],
+        [
+          "郊",
+          "jiāo"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "极",
+          "jí"
+        ],
+        [
+          "目",
+          "mù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "堪",
+          "kān"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "萧",
+          "xiāo"
+        ],
+        [
+          "条",
+          "tiáo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "雪",
+          "xuě"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "戍",
+          "shù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "浦",
+          "pǔ"
+        ],
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "桥",
+          "qiáo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "内",
+          "nèi"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "尘",
+          "chén"
+        ],
+        [
+          "诸",
+          "zhū"
+        ],
+        [
+          "弟",
+          "dì"
+        ],
+        [
+          "隔",
+          "gé"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "涯",
+          "yá"
+        ],
+        [
+          "涕",
+          "tì"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "身",
+          "shēn"
+        ],
+        [
+          "遥",
+          "yáo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "唯",
+          "wéi"
+        ],
+        [
+          "将",
+          "jiāng"
+        ],
+        [
+          "迟",
+          "chí"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "供",
+          "gōng"
+        ],
+        [
+          "多",
+          "duō"
+        ],
+        [
+          "病",
+          "bìng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "涓",
+          "juān"
+        ],
+        [
+          "埃",
+          "āi"
+        ],
+        [
+          "答",
+          "dá"
+        ],
+        [
+          "圣",
+          "shèng"
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "跨",
+          "kuà"
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "出",
+          "chū"
+        ],
+        [
+          "郊",
+          "jiāo"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "极",
+          "jí"
+        ],
+        [
+          "目",
+          "mù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "堪",
+          "kān"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "萧",
+          "xiāo"
+        ],
+        [
+          "条",
+          "tiáo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "惟--通 ：唯"
+      },
+      {
+        "source": "chiuinan",
+        "text": "1.风尘：喻兵乱。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.迟暮：晚年。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "3.涓埃：涓滴尘埃，喻微末。"
+      }
+    ],
+    "tags": [
+      "七言律诗",
+      "写景",
+      "抒情"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-regular-verseDuFuAVIEWOFTHEWILDERNESS",
+      "translationRaw": "Snowiswhiteonthewestwardmountainsandonthreefortifiedtowns，Andwatersinthissouthernlakeflashonalongbridge。Butwindanddustfromseatoseabarmefrommybrothers；AndIcannothelpcrying，Iamsofaraway。Ihavenothingtoexpectnowbuttheillsofoldage。Iamoflessusetomycountrythanagrainofdust。Irideouttotheedgeoftown。Iwatchonthehorizon，Dayafterday，thechaosoftheworld。",
+      "translationClean": "Snowiswhiteonthewestwardmountainsandonthreefortifiedtowns, Andwatersinthissouthernlakeflashonalongbridge. Butwindanddustfromseatoseabarmefrommybrothers; AndIcannothelpcrying, Iamsofaraway. Ihavenothingtoexpectnowbuttheillsofoldage. Iamoflessusetomycountrythanagrainofdust. Irideouttotheedgeoftown. Iwatchonthehorizon, Dayafterday, thechaosoftheworld.",
+      "segments": [
+        "Snowiswhiteonthewestwardmountainsandonthreefortifiedtowns, Andwatersinthissouthernlakeflashonalongbridge.",
+        "Butwindanddustfromseatoseabarmefrommybrothers;",
+        "AndIcannothelpcrying, Iamsofaraway.",
+        "Ihavenothingtoexpectnowbuttheillsofoldage.",
+        "Iamoflessusetomycountrythanagrainofdust.",
+        "Irideouttotheedgeoftown.",
+        "Iwatchonthehorizon, Dayafterday, thechaosoftheworld."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 238,
+        "title": "野望",
+        "author": "杜甫"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9861
+      },
+      "ctext": {
+        "matched": true,
+        "order": 184,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 281,
+        "score": 0.9821,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "d77f340f-1a04-4c5b-9704-2536e4249c6b",
+        "score": 0.9464
+      }
+    }
+  }
+}

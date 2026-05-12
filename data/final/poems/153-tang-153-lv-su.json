@@ -1,0 +1,506 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-153-lv-su",
+    "order": 153,
+    "section": "五言律诗",
+    "title": "旅宿",
+    "titleTraditional": "旅宿",
+    "author": "杜牧",
+    "authorTraditional": "杜牧",
+    "dynasty": "唐代",
+    "aliases": [
+      "旅宿"
+    ],
+    "lines": [
+      "旅馆无良伴，凝情自悄然。",
+      "寒灯思旧事，断雁警愁眠。",
+      "远梦归侵晓，家书到隔年。",
+      "沧江好烟月，门系钓鱼船。"
+    ],
+    "linesTraditional": [
+      "旅館無良伴，凝情自悄然。",
+      "寒燈思舊事，斷雁警愁眠。",
+      "遠夢歸侵曉，家書到隔年。",
+      "滄江好煙月，門繫釣魚船。"
+    ],
+    "text": "旅馆无良伴，凝情自悄然。寒灯思旧事，断雁警愁眠。远梦归侵晓，家书到隔年。沧江好烟月，门系钓鱼船。",
+    "textTraditional": "旅館無良伴，凝情自悄然。寒燈思舊事，斷雁警愁眠。遠夢歸侵曉，家書到隔年。滄江好煙月，門繫釣魚船。",
+    "displayLines": [
+      "旅馆无良伴，",
+      "凝情自悄然。",
+      "寒灯思旧事，",
+      "断雁警愁眠。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "旅",
+          "lǚ"
+        ],
+        [
+          "馆",
+          "guǎn"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "良",
+          "liáng"
+        ],
+        [
+          "伴",
+          "bàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "凝",
+          "níng"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "悄",
+          "qiǎo"
+        ],
+        [
+          "然",
+          "rán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "灯",
+          "dēng"
+        ],
+        [
+          "思",
+          "sī"
+        ],
+        [
+          "旧",
+          "jiù"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "断",
+          "duàn"
+        ],
+        [
+          "雁",
+          "yàn"
+        ],
+        [
+          "警",
+          "jǐng"
+        ],
+        [
+          "愁",
+          "chóu"
+        ],
+        [
+          "眠",
+          "mián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "侵",
+          "qīn"
+        ],
+        [
+          "晓",
+          "xiǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "书",
+          "shū"
+        ],
+        [
+          "到",
+          "dào"
+        ],
+        [
+          "隔",
+          "gé"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "沧",
+          "cāng"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "好",
+          "hǎo"
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "系",
+          "xì"
+        ],
+        [
+          "钓",
+          "diào"
+        ],
+        [
+          "鱼",
+          "yú"
+        ],
+        [
+          "船",
+          "chuán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "旅",
+          "lǚ"
+        ],
+        [
+          "馆",
+          "guǎn"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "良",
+          "liáng"
+        ],
+        [
+          "伴",
+          "bàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "凝",
+          "níng"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "悄",
+          "qiǎo"
+        ],
+        [
+          "然",
+          "rán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "灯",
+          "dēng"
+        ],
+        [
+          "思",
+          "sī"
+        ],
+        [
+          "旧",
+          "jiù"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "断",
+          "duàn"
+        ],
+        [
+          "雁",
+          "yàn"
+        ],
+        [
+          "警",
+          "jǐng"
+        ],
+        [
+          "愁",
+          "chóu"
+        ],
+        [
+          "眠",
+          "mián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "侵",
+          "qīn"
+        ],
+        [
+          "晓",
+          "xiǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "书",
+          "shū"
+        ],
+        [
+          "到",
+          "dào"
+        ],
+        [
+          "隔",
+          "gé"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "沧",
+          "cāng"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "好",
+          "hǎo"
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "系",
+          "xì"
+        ],
+        [
+          "钓",
+          "diào"
+        ],
+        [
+          "鱼",
+          "yú"
+        ],
+        [
+          "船",
+          "chuán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.凝情：凝思。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.悄然：忧愁貌。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "3.沧江：指江水苍色。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "4.钓鱼船：杜甫诗：\"门泊东吴万里船\"。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "羁旅",
+      "思乡"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseDuMuANIGHTATATAVERN",
+      "translationRaw": "Solitaryatthetavern，Iamshutinwithlonelinessandgrief。Underthecoldlamp，Ibroodonthepast；Iamkeptawakebyalostwildgoose。。。。Rousedatdawnfromamistydream，Iread，ayearlate，newsfromhome--AndIrememberthemoonlikesmokeontheriverAndafisher-boatmooredthere，undermydoor。",
+      "translationClean": "Solitaryatthetavern, Iamshutinwithlonelinessandgrief. Underthecoldlamp, Ibroodonthepast; Iamkeptawakebyalostwildgoose.... Rousedatdawnfromamistydream, Iread, ayearlate, newsfromhome--AndIrememberthemoonlikesmokeontheriverAndafisher-boatmooredthere, undermydoor.",
+      "segments": [
+        "Solitaryatthetavern, Iamshutinwithlonelinessandgrief.",
+        "Underthecoldlamp, Ibroodonthepast;",
+        "Iamkeptawakebyalostwildgoose....",
+        "Rousedatdawnfromamistydream, Iread, ayearlate, newsfromhome--AndIrememberthemoonlikesmokeontheriverAndafisher-boatmooredthere, undermydoor."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 20,
+        "title": "旅宿",
+        "author": "杜牧"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 153,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 250,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "200fe9fa-0221-4123-86de-4d63ce9d3daf",
+        "score": 0.95
+      }
+    }
+  }
+}

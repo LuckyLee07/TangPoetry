@@ -1,0 +1,638 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-213-wu-ti-zhi-er",
+    "order": 213,
+    "section": "七言律诗",
+    "title": "无题之二",
+    "titleTraditional": "無題之二",
+    "author": "李商隐",
+    "authorTraditional": "李商隱",
+    "dynasty": "唐代",
+    "aliases": [
+      "无题·飒飒东风细雨来",
+      "无题之二"
+    ],
+    "lines": [
+      "飒飒东风细雨来，芙蓉塘外有轻雷。",
+      "金蟾啮璅烧香入，玉虎牵丝汲井回。",
+      "贾氏窥帘韩掾少，宓妃留枕魏王才。",
+      "春心莫共花争发，一寸想思一寸灰。"
+    ],
+    "linesTraditional": [
+      "颯颯東風細雨來，芙蓉塘外有輕雷。",
+      "金蟾齧璅燒香入，玉虎牽絲汲井迴。",
+      "賈氏窺簾韓掾少，宓妃留枕魏王才。",
+      "春心莫共花爭發，一寸想思一寸灰。"
+    ],
+    "text": "飒飒东风细雨来，芙蓉塘外有轻雷。金蟾啮璅烧香入，玉虎牵丝汲井回。贾氏窥帘韩掾少，宓妃留枕魏王才。春心莫共花争发，一寸想思一寸灰。",
+    "textTraditional": "颯颯東風細雨來，芙蓉塘外有輕雷。金蟾齧璅燒香入，玉虎牽絲汲井迴。賈氏窺簾韓掾少，宓妃留枕魏王才。春心莫共花爭發，一寸想思一寸灰。",
+    "displayLines": [
+      "飒飒东风细雨来，",
+      "芙蓉塘外有轻雷。",
+      "金蟾啮璅烧香入，",
+      "玉虎牵丝汲井回。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "飒",
+          "sà"
+        ],
+        [
+          "飒",
+          "sà"
+        ],
+        [
+          "东",
+          "dōng"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "细",
+          "xì"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "芙",
+          "fú"
+        ],
+        [
+          "蓉",
+          "róng"
+        ],
+        [
+          "塘",
+          "táng"
+        ],
+        [
+          "外",
+          "wài"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "轻",
+          "qīng"
+        ],
+        [
+          "雷",
+          "léi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "蟾",
+          "chán"
+        ],
+        [
+          "啮",
+          "niè"
+        ],
+        [
+          "璅",
+          "suǒ"
+        ],
+        [
+          "烧",
+          "shāo"
+        ],
+        [
+          "香",
+          "xiāng"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "虎",
+          "hǔ"
+        ],
+        [
+          "牵",
+          "qiān"
+        ],
+        [
+          "丝",
+          "sī"
+        ],
+        [
+          "汲",
+          "jí"
+        ],
+        [
+          "井",
+          "jǐng"
+        ],
+        [
+          "回",
+          "huí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "贾",
+          "jiǎ"
+        ],
+        [
+          "氏",
+          "shì"
+        ],
+        [
+          "窥",
+          "kuī"
+        ],
+        [
+          "帘",
+          "lián"
+        ],
+        [
+          "韩",
+          "hán"
+        ],
+        [
+          "掾",
+          "yuàn"
+        ],
+        [
+          "少",
+          "shǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "宓",
+          "mì"
+        ],
+        [
+          "妃",
+          "fēi"
+        ],
+        [
+          "留",
+          "liú"
+        ],
+        [
+          "枕",
+          "zhěn"
+        ],
+        [
+          "魏",
+          "wèi"
+        ],
+        [
+          "王",
+          "wáng"
+        ],
+        [
+          "才",
+          "cái"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "莫",
+          "mò"
+        ],
+        [
+          "共",
+          "gòng"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "争",
+          "zhēng"
+        ],
+        [
+          "发",
+          "fā"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "寸",
+          "cùn"
+        ],
+        [
+          "想",
+          "xiǎng"
+        ],
+        [
+          "思",
+          "sī"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "寸",
+          "cùn"
+        ],
+        [
+          "灰",
+          "huī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "飒",
+          "sà"
+        ],
+        [
+          "飒",
+          "sà"
+        ],
+        [
+          "东",
+          "dōng"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "细",
+          "xì"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "芙",
+          "fú"
+        ],
+        [
+          "蓉",
+          "róng"
+        ],
+        [
+          "塘",
+          "táng"
+        ],
+        [
+          "外",
+          "wài"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "轻",
+          "qīng"
+        ],
+        [
+          "雷",
+          "léi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "蟾",
+          "chán"
+        ],
+        [
+          "啮",
+          "niè"
+        ],
+        [
+          "璅",
+          "suǒ"
+        ],
+        [
+          "烧",
+          "shāo"
+        ],
+        [
+          "香",
+          "xiāng"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "虎",
+          "hǔ"
+        ],
+        [
+          "牵",
+          "qiān"
+        ],
+        [
+          "丝",
+          "sī"
+        ],
+        [
+          "汲",
+          "jí"
+        ],
+        [
+          "井",
+          "jǐng"
+        ],
+        [
+          "回",
+          "huí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "贾",
+          "jiǎ"
+        ],
+        [
+          "氏",
+          "shì"
+        ],
+        [
+          "窥",
+          "kuī"
+        ],
+        [
+          "帘",
+          "lián"
+        ],
+        [
+          "韩",
+          "hán"
+        ],
+        [
+          "掾",
+          "yuàn"
+        ],
+        [
+          "少",
+          "shǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "宓",
+          "mì"
+        ],
+        [
+          "妃",
+          "fēi"
+        ],
+        [
+          "留",
+          "liú"
+        ],
+        [
+          "枕",
+          "zhěn"
+        ],
+        [
+          "魏",
+          "wèi"
+        ],
+        [
+          "王",
+          "wáng"
+        ],
+        [
+          "才",
+          "cái"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "莫",
+          "mò"
+        ],
+        [
+          "共",
+          "gòng"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "争",
+          "zhēng"
+        ],
+        [
+          "发",
+          "fā"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "寸",
+          "cùn"
+        ],
+        [
+          "想",
+          "xiǎng"
+        ],
+        [
+          "思",
+          "sī"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "寸",
+          "cùn"
+        ],
+        [
+          "灰",
+          "huī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.韩掾：即三国魏韩寿，美姿容，贾允辟以为掾。贾女见寿悦之，与之"
+      },
+      {
+        "source": "chiuinan",
+        "text": "私通。掾，音院。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.宓妃：伏羲氏之女，在洛水淹死，成为洛神。曹植曾梦见洛神对他表"
+      },
+      {
+        "source": "chiuinan",
+        "text": "示情意，并赠以玉枕，因而作\"洛神赋\"。宓，音扶。"
+      }
+    ],
+    "tags": [
+      "七言律诗",
+      "相思",
+      "女子",
+      "爱情"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-regular-verseLiShangyinTOONEUNNAMEDII",
+      "translationRaw": "Amistyraincomesblowingwithawindfromtheeast，AndwheelsfaintlythunderbeyondHibiscusPool。。。。Roundthegolden-toadlock，incenseiscreeping；Thejadetigertells，onitscord，ofwaterbeingdrawnAgreatladyonce，frombehindascreen，favouredapooryouth；Afairyqueenbroughtabridalmatoncefortheeaseofaprinceandthenvanished。。。。Musthumanheartsblossominspring，likeallotherflowers？Andofeventhisbrightflameoflove，shalltherebeonlyashes？",
+      "translationClean": "Amistyraincomesblowingwithawindfromtheeast, AndwheelsfaintlythunderbeyondHibiscusPool.... Roundthegolden-toadlock, incenseiscreeping; Thejadetigertells, onitscord, ofwaterbeingdrawnAgreatladyonce, frombehindascreen, favouredapooryouth; Afairyqueenbroughtabridalmatoncefortheeaseofaprinceandthenvanished.... Musthumanheartsblossominspring, likeallotherflowers? Andofeventhisbrightflameoflove, shalltherebeonlyashes?",
+      "segments": [
+        "Amistyraincomesblowingwithawindfromtheeast, AndwheelsfaintlythunderbeyondHibiscusPool....",
+        "Roundthegolden-toadlock, incenseiscreeping;",
+        "Thejadetigertells, onitscord, ofwaterbeingdrawnAgreatladyonce, frombehindascreen, favouredapooryouth;",
+        "Afairyqueenbroughtabridalmatoncefortheeaseofaprinceandthenvanished....",
+        "Musthumanheartsblossominspring, likeallotherflowers?",
+        "Andofeventhisbrightflameoflove, shalltherebeonlyashes?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 285,
+        "title": "无题·飒飒东风细雨来",
+        "author": "李商隐"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9155
+      },
+      "ctext": {
+        "matched": true,
+        "order": 213,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 310,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "811a5f9e-0df5-46f1-a587-0d4df7bca5a0",
+        "score": 0.9821
+      }
+    }
+  }
+}

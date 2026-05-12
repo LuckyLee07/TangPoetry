@@ -1,0 +1,295 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-256-sai-xia-qu-si-shou-zhi-yi",
+    "order": 256,
+    "section": "乐府",
+    "title": "塞下曲四首之一",
+    "titleTraditional": "塞下曲四首之一",
+    "author": "卢纶",
+    "authorTraditional": "盧綸",
+    "dynasty": "唐代",
+    "aliases": [
+      "和张仆射塞下曲·其一",
+      "塞下曲四首之一"
+    ],
+    "lines": [
+      "鹫翎金仆姑，燕尾绣蝥弧。",
+      "独立扬新令，千营共一呼。"
+    ],
+    "linesTraditional": [
+      "鷲翎金僕姑，燕尾繡蝥弧。",
+      "獨立揚新令，千營共一呼。"
+    ],
+    "text": "鹫翎金仆姑，燕尾绣蝥弧。独立扬新令，千营共一呼。",
+    "textTraditional": "鷲翎金僕姑，燕尾繡蝥弧。獨立揚新令，千營共一呼。",
+    "displayLines": [
+      "鹫翎金仆姑，",
+      "燕尾绣蝥弧。",
+      "独立扬新令，",
+      "千营共一呼。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "鹫",
+          "jiù"
+        ],
+        [
+          "翎",
+          "líng"
+        ],
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "仆",
+          "pū"
+        ],
+        [
+          "姑",
+          "gū"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "燕",
+          "yàn"
+        ],
+        [
+          "尾",
+          "wěi"
+        ],
+        [
+          "绣",
+          "xiù"
+        ],
+        [
+          "蝥",
+          "máo"
+        ],
+        [
+          "弧",
+          "hú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "立",
+          "lì"
+        ],
+        [
+          "扬",
+          "yáng"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "令",
+          "lìng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "千",
+          "qiān"
+        ],
+        [
+          "营",
+          "yíng"
+        ],
+        [
+          "共",
+          "gòng"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "呼",
+          "hū"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "鹫",
+          "jiù"
+        ],
+        [
+          "翎",
+          "líng"
+        ],
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "仆",
+          "pū"
+        ],
+        [
+          "姑",
+          "gū"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "燕",
+          "yàn"
+        ],
+        [
+          "尾",
+          "wěi"
+        ],
+        [
+          "绣",
+          "xiù"
+        ],
+        [
+          "蝥",
+          "máo"
+        ],
+        [
+          "弧",
+          "hú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "立",
+          "lì"
+        ],
+        [
+          "扬",
+          "yáng"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "令",
+          "lìng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "千",
+          "qiān"
+        ],
+        [
+          "营",
+          "yíng"
+        ],
+        [
+          "共",
+          "gòng"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "呼",
+          "hū"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.金仆姑：箭名。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.蝥弧：旗名。蝥，音毛。"
+      }
+    ],
+    "tags": [
+      "乐府",
+      "将军",
+      "高中古诗",
+      "边塞",
+      "赞美"
+    ],
+    "english": {
+      "headingRaw": "Folk-song-styled-verseLuLunBORDER-SONGSI",
+      "translationRaw": "Hisgoldenarrowistippedwithhawk』sfeathers，Hisembroideredsilkflaghasataillikeaswallow。Oneman，arising，givesaneworderTotheansweringshoutofathousandtents。",
+      "translationClean": "Hisgoldenarrowistippedwithhawk'sfeathers, Hisembroideredsilkflaghasataillikeaswallow. Oneman, arising, givesaneworderTotheansweringshoutofathousandtents.",
+      "segments": [
+        "Hisgoldenarrowistippedwithhawk'sfeathers, Hisembroideredsilkflaghasataillikeaswallow.",
+        "Oneman, arising, givesaneworderTotheansweringshoutofathousandtents."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 310,
+        "title": "和张仆射塞下曲·其一",
+        "author": "卢纶"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9363
+      },
+      "ctext": {
+        "matched": true,
+        "order": 256,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 122,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "ce491725-b96b-46a7-b83c-463d2094ef3f",
+        "score": 1
+      }
+    }
+  }
+}

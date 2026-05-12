@@ -1,0 +1,636 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-216-chun-yu",
+    "order": 216,
+    "section": "七言律诗",
+    "title": "春雨",
+    "titleTraditional": "春雨",
+    "author": "李商隐",
+    "authorTraditional": "李商隱",
+    "dynasty": "唐代",
+    "aliases": [
+      "春雨"
+    ],
+    "lines": [
+      "怅卧新春白袷衣，白门寥落意多违。",
+      "红楼隔雨相望冷，珠箔飘灯独自归。",
+      "远路应悲春晼晚，残宵犹得梦依稀。",
+      "玉珰缄札何由达，万里云罗一雁飞。"
+    ],
+    "linesTraditional": [
+      "悵臥新春白袷衣，白門寥落意多違。",
+      "紅樓隔雨相望冷，珠箔飄燈獨自歸。",
+      "遠路應悲春晼晚，殘宵猶得夢依稀。",
+      "玉璫緘札何由達，萬里雲羅一雁飛。"
+    ],
+    "text": "怅卧新春白袷衣，白门寥落意多违。红楼隔雨相望冷，珠箔飘灯独自归。远路应悲春晼晚，残宵犹得梦依稀。玉珰缄札何由达，万里云罗一雁飞。",
+    "textTraditional": "悵臥新春白袷衣，白門寥落意多違。紅樓隔雨相望冷，珠箔飄燈獨自歸。遠路應悲春晼晚，殘宵猶得夢依稀。玉璫緘札何由達，萬里雲羅一雁飛。",
+    "displayLines": [
+      "怅卧新春白袷衣，",
+      "白门寥落意多违。",
+      "红楼隔雨相望冷，",
+      "珠箔飘灯独自归。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "怅",
+          "chàng"
+        ],
+        [
+          "卧",
+          "wò"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "袷",
+          "jiá"
+        ],
+        [
+          "衣",
+          "yī"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "寥",
+          "liáo"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "意",
+          "yì"
+        ],
+        [
+          "多",
+          "duō"
+        ],
+        [
+          "违",
+          "wéi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "红",
+          "hóng"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "隔",
+          "gé"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "望",
+          "wàng"
+        ],
+        [
+          "冷",
+          "lěng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "珠",
+          "zhū"
+        ],
+        [
+          "箔",
+          "bó"
+        ],
+        [
+          "飘",
+          "piāo"
+        ],
+        [
+          "灯",
+          "dēng"
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "路",
+          "lù"
+        ],
+        [
+          "应",
+          "yīng"
+        ],
+        [
+          "悲",
+          "bēi"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "晼",
+          "wǎn"
+        ],
+        [
+          "晚",
+          "wǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "残",
+          "cán"
+        ],
+        [
+          "宵",
+          "xiāo"
+        ],
+        [
+          "犹",
+          "yóu"
+        ],
+        [
+          "得",
+          "dé"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "依",
+          "yī"
+        ],
+        [
+          "稀",
+          "xī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "珰",
+          "dāng"
+        ],
+        [
+          "缄",
+          "jiān"
+        ],
+        [
+          "札",
+          "zhá"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "由",
+          "yóu"
+        ],
+        [
+          "达",
+          "dá"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "罗",
+          "luó"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "雁",
+          "yàn"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "怅",
+          "chàng"
+        ],
+        [
+          "卧",
+          "wò"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "袷",
+          "jiá"
+        ],
+        [
+          "衣",
+          "yī"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "寥",
+          "liáo"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "意",
+          "yì"
+        ],
+        [
+          "多",
+          "duō"
+        ],
+        [
+          "违",
+          "wéi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "红",
+          "hóng"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "隔",
+          "gé"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "望",
+          "wàng"
+        ],
+        [
+          "冷",
+          "lěng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "珠",
+          "zhū"
+        ],
+        [
+          "箔",
+          "bó"
+        ],
+        [
+          "飘",
+          "piāo"
+        ],
+        [
+          "灯",
+          "dēng"
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "路",
+          "lù"
+        ],
+        [
+          "应",
+          "yīng"
+        ],
+        [
+          "悲",
+          "bēi"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "晼",
+          "wǎn"
+        ],
+        [
+          "晚",
+          "wǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "残",
+          "cán"
+        ],
+        [
+          "宵",
+          "xiāo"
+        ],
+        [
+          "犹",
+          "yóu"
+        ],
+        [
+          "得",
+          "dé"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "依",
+          "yī"
+        ],
+        [
+          "稀",
+          "xī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "珰",
+          "dāng"
+        ],
+        [
+          "缄",
+          "jiān"
+        ],
+        [
+          "札",
+          "zhá"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "由",
+          "yóu"
+        ],
+        [
+          "达",
+          "dá"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "罗",
+          "luó"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "雁",
+          "yàn"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.袷衣：指夹衣。袷，音夹。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.红楼：富女之居。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "3.珠箔：珠帘。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "4.晼晚：迟暮意。晼，音宛。"
+      }
+    ],
+    "tags": [
+      "七言律诗",
+      "写雨",
+      "爱情",
+      "雨"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-regular-verseLiShangyinSPRINGRAIN",
+      "translationRaw": "Iamlyinginawhite-linedcoatwhilethespringapproaches，ButamthinkingonlyoftheWhiteGateCitywhereIcannotbe。。。。Therearetworedchambersfrontingthecold，hiddenbytherain，Andalanternonapearlscreenswayingmylonehearthomeward。。。。Thelongroadaheadwillbefullofnewhardship，With，lateinthenights，briefintervalsofdream。Oh，tosendyouthismessage，thispairofjadeearrings！--Iwatchalonelywildgooseinthreethousandmilesofcloud。",
+      "translationClean": "Iamlyinginawhite-linedcoatwhilethespringapproaches, ButamthinkingonlyoftheWhiteGateCitywhereIcannotbe.... Therearetworedchambersfrontingthecold, hiddenbytherain, Andalanternonapearlscreenswayingmylonehearthomeward.... Thelongroadaheadwillbefullofnewhardship, With, lateinthenights, briefintervalsofdream. Oh, tosendyouthismessage, thispairofjadeearrings! --Iwatchalonelywildgooseinthreethousandmilesofcloud.",
+      "segments": [
+        "Iamlyinginawhite-linedcoatwhilethespringapproaches, ButamthinkingonlyoftheWhiteGateCitywhereIcannotbe....",
+        "Therearetworedchambersfrontingthecold, hiddenbytherain, Andalanternonapearlscreenswayingmylonehearthomeward....",
+        "Thelongroadaheadwillbefullofnewhardship, With, lateinthenights, briefintervalsofdream.",
+        "Oh, tosendyouthismessage, thispairofjadeearrings!",
+        "--Iwatchalonelywildgooseinthreethousandmilesofcloud."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 194,
+        "title": "春雨",
+        "author": "李商隐"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9861
+      },
+      "ctext": {
+        "matched": true,
+        "order": 216,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 315,
+        "score": 0.9821,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "8331c76b-a250-4d07-9c28-b8a456e0974c",
+        "score": 0.9821
+      }
+    }
+  }
+}

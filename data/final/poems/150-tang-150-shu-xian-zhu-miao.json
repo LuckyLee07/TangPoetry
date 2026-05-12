@@ -1,0 +1,498 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-150-shu-xian-zhu-miao",
+    "order": 150,
+    "section": "五言律诗",
+    "title": "蜀先主庙",
+    "titleTraditional": "蜀先主廟",
+    "author": "刘禹锡",
+    "authorTraditional": "劉禹錫",
+    "dynasty": "唐代",
+    "aliases": [
+      "蜀先主庙"
+    ],
+    "lines": [
+      "天地英雄气，千秋尚凛然。",
+      "势分三足鼎，业复五铢钱。",
+      "得相能开国，生儿不象贤。",
+      "凄凉蜀故妓，来舞魏宫前。"
+    ],
+    "linesTraditional": [
+      "天地英雄氣，千秋尚凜然。",
+      "勢分三足鼎，業復五銖錢。",
+      "得相能開國，生兒不象賢。",
+      "淒涼蜀故妓，來舞魏宮前。"
+    ],
+    "text": "天地英雄气，千秋尚凛然。势分三足鼎，业复五铢钱。得相能开国，生儿不象贤。凄凉蜀故妓，来舞魏宫前。",
+    "textTraditional": "天地英雄氣，千秋尚凜然。勢分三足鼎，業復五銖錢。得相能開國，生兒不象賢。淒涼蜀故妓，來舞魏宮前。",
+    "displayLines": [
+      "天地英雄气，",
+      "千秋尚凛然。",
+      "势分三足鼎，",
+      "业复五铢钱。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "地",
+          "dì"
+        ],
+        [
+          "英",
+          "yīng"
+        ],
+        [
+          "雄",
+          "xióng"
+        ],
+        [
+          "气",
+          "qì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "千",
+          "qiān"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "尚",
+          "shàng"
+        ],
+        [
+          "凛",
+          "lǐn"
+        ],
+        [
+          "然",
+          "rán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "势",
+          "shì"
+        ],
+        [
+          "分",
+          "fēn"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "足",
+          "zú"
+        ],
+        [
+          "鼎",
+          "dǐng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "业",
+          "yè"
+        ],
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "五",
+          "wǔ"
+        ],
+        [
+          "铢",
+          "zhū"
+        ],
+        [
+          "钱",
+          "qián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "得",
+          "dé"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "能",
+          "néng"
+        ],
+        [
+          "开",
+          "kāi"
+        ],
+        [
+          "国",
+          "guó"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "儿",
+          "ér"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "象",
+          "xiàng"
+        ],
+        [
+          "贤",
+          "xián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "凄",
+          "qī"
+        ],
+        [
+          "凉",
+          "liáng"
+        ],
+        [
+          "蜀",
+          "shǔ"
+        ],
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "妓",
+          "jì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "舞",
+          "wǔ"
+        ],
+        [
+          "魏",
+          "wèi"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "地",
+          "dì"
+        ],
+        [
+          "英",
+          "yīng"
+        ],
+        [
+          "雄",
+          "xióng"
+        ],
+        [
+          "气",
+          "qì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "千",
+          "qiān"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "尚",
+          "shàng"
+        ],
+        [
+          "凛",
+          "lǐn"
+        ],
+        [
+          "然",
+          "rán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "势",
+          "shì"
+        ],
+        [
+          "分",
+          "fēn"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "足",
+          "zú"
+        ],
+        [
+          "鼎",
+          "dǐng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "业",
+          "yè"
+        ],
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "五",
+          "wǔ"
+        ],
+        [
+          "铢",
+          "zhū"
+        ],
+        [
+          "钱",
+          "qián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "得",
+          "dé"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "能",
+          "néng"
+        ],
+        [
+          "开",
+          "kāi"
+        ],
+        [
+          "国",
+          "guó"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "儿",
+          "ér"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "象",
+          "xiàng"
+        ],
+        [
+          "贤",
+          "xián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "凄",
+          "qī"
+        ],
+        [
+          "凉",
+          "liáng"
+        ],
+        [
+          "蜀",
+          "shǔ"
+        ],
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "妓",
+          "jì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "舞",
+          "wǔ"
+        ],
+        [
+          "魏",
+          "wèi"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.凛然：令人敬畏。凛，音ㄌㄧㄣˇ。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.五铢钱：汉武帝所制的钱，喻汉业。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "咏史怀古"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseLiuYuxiINTHETEMPLEOFTHEFIRSTKINGOFSHU",
+      "translationRaw": "EveninthisworldthespiritofaheroLivesandreignsforthousandsofyears。Youwerethefirmestofthepot』sthreelegs；Itwasyouwhomaintainedthehonourofthecurrency；Youchoseagreatpremiertomagnifyyourkingdom。。。。AndyetyouhadasonsolittlelikehisfatherThatgirlsofyourcountryweretakencaptiveTodanceinthepalaceoftheKingofWei。",
+      "translationClean": "EveninthisworldthespiritofaheroLivesandreignsforthousandsofyears. Youwerethefirmestofthepot'sthreelegs; Itwasyouwhomaintainedthehonourofthecurrency; Youchoseagreatpremiertomagnifyyourkingdom.... AndyetyouhadasonsolittlelikehisfatherThatgirlsofyourcountryweretakencaptiveTodanceinthepalaceoftheKingofWei.",
+      "segments": [
+        "EveninthisworldthespiritofaheroLivesandreignsforthousandsofyears.",
+        "Youwerethefirmestofthepot'sthreelegs;",
+        "Itwasyouwhomaintainedthehonourofthecurrency;",
+        "Youchoseagreatpremiertomagnifyyourkingdom....",
+        "AndyetyouhadasonsolittlelikehisfatherThatgirlsofyourcountryweretakencaptiveTodanceinthepalaceoftheKingofWei."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 124,
+        "title": "蜀先主庙",
+        "author": "刘禹锡"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 150,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 247,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "2f37297b-77d5-412b-bc73-105bfa4d011d",
+        "score": 1
+      }
+    }
+  }
+}

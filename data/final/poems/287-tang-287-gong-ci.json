@@ -1,0 +1,352 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-287-gong-ci",
+    "order": 287,
+    "section": "七言绝句",
+    "title": "宫词",
+    "titleTraditional": "宮詞",
+    "author": "朱庆余",
+    "authorTraditional": "朱慶餘",
+    "dynasty": "唐代",
+    "aliases": [
+      "宫词 / 宫中词",
+      "宫词"
+    ],
+    "lines": [
+      "寂寂花时闭院门，美人相并立琼轩。",
+      "含情欲说宫中事，鹦鹉前头不敢言。"
+    ],
+    "linesTraditional": [
+      "寂寂花時閉院門，美人相並立瓊軒。",
+      "含情欲說宮中事，鸚鵡前頭不敢言。"
+    ],
+    "text": "寂寂花时闭院门，美人相并立琼轩。含情欲说宫中事，鹦鹉前头不敢言。",
+    "textTraditional": "寂寂花時閉院門，美人相並立瓊軒。含情欲說宮中事，鸚鵡前頭不敢言。",
+    "displayLines": [
+      "寂寂花时闭院门，",
+      "美人相并立琼轩。",
+      "含情欲说宫中事，",
+      "鹦鹉前头不敢言。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "寂",
+          "jì"
+        ],
+        [
+          "寂",
+          "jì"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "闭",
+          "bì"
+        ],
+        [
+          "院",
+          "yuàn"
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "美",
+          "měi"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "并",
+          "bìng"
+        ],
+        [
+          "立",
+          "lì"
+        ],
+        [
+          "琼",
+          "qióng"
+        ],
+        [
+          "轩",
+          "xuān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "含",
+          "hán"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "说",
+          "shuō"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "鹦",
+          "yīng"
+        ],
+        [
+          "鹉",
+          "wǔ"
+        ],
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "头",
+          "tou"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "敢",
+          "gǎn"
+        ],
+        [
+          "言",
+          "yán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "寂",
+          "jì"
+        ],
+        [
+          "寂",
+          "jì"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "闭",
+          "bì"
+        ],
+        [
+          "院",
+          "yuàn"
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "美",
+          "měi"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "并",
+          "bìng"
+        ],
+        [
+          "立",
+          "lì"
+        ],
+        [
+          "琼",
+          "qióng"
+        ],
+        [
+          "轩",
+          "xuān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "含",
+          "hán"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "说",
+          "shuō"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "鹦",
+          "yīng"
+        ],
+        [
+          "鹉",
+          "wǔ"
+        ],
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "头",
+          "tou"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "敢",
+          "gǎn"
+        ],
+        [
+          "言",
+          "yán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.琼轩：称华丽的屋。"
+      }
+    ],
+    "tags": [
+      "七言绝句",
+      "宫怨",
+      "写景"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainZhuQingyuASONGOFTHEPALACE",
+      "translationRaw": "Nowthatthepalace-gatehassoftlyclosedonitsflowers，Ladiesfileouttotheirpavilionofjade，AbrimtothelipswithimperialgossipButnotdaringtobreatheitwithaparrotamongthem。",
+      "translationClean": "Nowthatthepalace-gatehassoftlyclosedonitsflowers, Ladiesfileouttotheirpavilionofjade, AbrimtothelipswithimperialgossipButnotdaringtobreatheitwithaparrotamongthem.",
+      "segments": [
+        "Nowthatthepalace-gatehassoftlyclosedonitsflowers, Ladiesfileouttotheirpavilionofjade, AbrimtothelipswithimperialgossipButnotdaringtobreatheitwithaparrotamongthem."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 294,
+        "title": "宫词 / 宫中词",
+        "author": "朱庆馀"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.95
+      },
+      "ctext": {
+        "matched": true,
+        "order": 287,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 160,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "ab4b1a7f-4fbe-438b-817f-9e1ed2d39f4f",
+        "score": 1
+      }
+    }
+  }
+}

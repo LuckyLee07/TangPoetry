@@ -1,0 +1,493 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-141-fu-de-mu-yu-song-li-zhou",
+    "order": 141,
+    "section": "五言律诗",
+    "title": "赋得暮雨送李胄",
+    "titleTraditional": "賦得暮雨送李冑",
+    "author": "韦应物",
+    "authorTraditional": "韋應物",
+    "dynasty": "唐代",
+    "aliases": [
+      "赋得暮雨送李胄 / 赋得暮雨送李曹",
+      "赋得暮雨送李胄"
+    ],
+    "lines": [
+      "楚江微雨里，建业暮钟时。",
+      "漠漠帆来重，冥冥鸟去迟。",
+      "海门深不见，浦树远含滋。",
+      "相送情无限，沾襟比散丝。"
+    ],
+    "linesTraditional": [
+      "楚江微雨裡，建業暮鐘時。",
+      "漠漠帆來重，冥冥鳥去遲。",
+      "海門深不見，浦樹遠含滋。",
+      "相送情無限，沾襟比散絲。"
+    ],
+    "text": "楚江微雨里，建业暮钟时。漠漠帆来重，冥冥鸟去迟。海门深不见，浦树远含滋。相送情无限，沾襟比散丝。",
+    "textTraditional": "楚江微雨裡，建業暮鐘時。漠漠帆來重，冥冥鳥去遲。海門深不見，浦樹遠含滋。相送情無限，沾襟比散絲。",
+    "displayLines": [
+      "楚江微雨里，",
+      "建业暮钟时。",
+      "漠漠帆来重，",
+      "冥冥鸟去迟。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "楚",
+          "chǔ"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "微",
+          "wēi"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "建",
+          "jiàn"
+        ],
+        [
+          "业",
+          "yè"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "钟",
+          "zhōng"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "漠",
+          "mò"
+        ],
+        [
+          "漠",
+          "mò"
+        ],
+        [
+          "帆",
+          "fān"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "重",
+          "zhòng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "冥",
+          "míng"
+        ],
+        [
+          "冥",
+          "míng"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "迟",
+          "chí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "不",
+          "bú"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "浦",
+          "pǔ"
+        ],
+        [
+          "树",
+          "shù"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "含",
+          "hán"
+        ],
+        [
+          "滋",
+          "zī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "送",
+          "sòng"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "限",
+          "xiàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "沾",
+          "zhān"
+        ],
+        [
+          "襟",
+          "jīn"
+        ],
+        [
+          "比",
+          "bǐ"
+        ],
+        [
+          "散",
+          "sàn"
+        ],
+        [
+          "丝",
+          "sī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "楚",
+          "chǔ"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "微",
+          "wēi"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "建",
+          "jiàn"
+        ],
+        [
+          "业",
+          "yè"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "钟",
+          "zhōng"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "漠",
+          "mò"
+        ],
+        [
+          "漠",
+          "mò"
+        ],
+        [
+          "帆",
+          "fān"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "重",
+          "zhòng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "冥",
+          "míng"
+        ],
+        [
+          "冥",
+          "míng"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "迟",
+          "chí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "不",
+          "bú"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "浦",
+          "pǔ"
+        ],
+        [
+          "树",
+          "shù"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "含",
+          "hán"
+        ],
+        [
+          "滋",
+          "zī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "送",
+          "sòng"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "限",
+          "xiàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "沾",
+          "zhān"
+        ],
+        [
+          "襟",
+          "jīn"
+        ],
+        [
+          "比",
+          "bǐ"
+        ],
+        [
+          "散",
+          "sàn"
+        ],
+        [
+          "丝",
+          "sī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言律诗",
+      "写雨",
+      "友情",
+      "送别",
+      "雨"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseWeiYingwuAFAREWELLINTHEEVENINGRAINTOLICAO",
+      "translationRaw": "IsitrainingontheriverallthewaytoChu？---TheeveningbellcomestousfromNanjing。YourwetsaildragsandisloathtobegoingAndshadowybirdsareflyingslow。Wecannotseethedeepocean-gate--OnlytheboughsatPukou，newlydripping。Likewise，becauseofourgreatlove，Therearethreadsofwateronourfaces。",
+      "translationClean": "IsitrainingontheriverallthewaytoChu? ---TheeveningbellcomestousfromNanjing. YourwetsaildragsandisloathtobegoingAndshadowybirdsareflyingslow. Wecannotseethedeepocean-gate--OnlytheboughsatPukou, newlydripping. Likewise, becauseofourgreatlove, Therearethreadsofwateronourfaces.",
+      "segments": [
+        "IsitrainingontheriverallthewaytoChu?",
+        "---TheeveningbellcomestousfromNanjing.",
+        "YourwetsaildragsandisloathtobegoingAndshadowybirdsareflyingslow.",
+        "Wecannotseethedeepocean-gate--OnlytheboughsatPukou, newlydripping.",
+        "Likewise, becauseofourgreatlove, Therearethreadsofwateronourfaces."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 80,
+        "title": "赋得暮雨送李胄 / 赋得暮雨送李曹",
+        "author": "韦应物"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 141,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 238,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "83dcb67c-ccbc-4592-b232-368a6b5275ce",
+        "score": 1
+      }
+    }
+  }
+}

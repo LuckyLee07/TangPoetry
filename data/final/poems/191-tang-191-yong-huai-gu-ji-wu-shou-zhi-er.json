@@ -1,0 +1,633 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-191-yong-huai-gu-ji-wu-shou-zhi-er",
+    "order": 191,
+    "section": "七言律诗",
+    "title": "咏怀古迹五首之二",
+    "titleTraditional": "詠懷古跡五首之二",
+    "author": "杜甫",
+    "authorTraditional": "杜甫",
+    "dynasty": "唐代",
+    "aliases": [
+      "咏怀古迹五首·其二",
+      "咏怀古迹五首之二"
+    ],
+    "lines": [
+      "摇落深知宋玉悲，风流儒雅亦吾师。",
+      "怅望千秋一洒泪，萧条异代不同时。",
+      "江山故宅空文藻，云雨荒台岂梦思。",
+      "最是楚宫俱泯灭，舟人指点到今疑。"
+    ],
+    "linesTraditional": [
+      "搖落深知宋玉悲，風流儒雅亦吾師。",
+      "悵望千秋一灑淚，蕭條異代不同時。",
+      "江山故宅空文藻，雲雨荒臺豈夢思。",
+      "最是楚宮俱泯滅，舟人指點到今疑。"
+    ],
+    "text": "摇落深知宋玉悲，风流儒雅亦吾师。怅望千秋一洒泪，萧条异代不同时。江山故宅空文藻，云雨荒台岂梦思。最是楚宫俱泯灭，舟人指点到今疑。",
+    "textTraditional": "搖落深知宋玉悲，風流儒雅亦吾師。悵望千秋一灑淚，蕭條異代不同時。江山故宅空文藻，雲雨荒臺豈夢思。最是楚宮俱泯滅，舟人指點到今疑。",
+    "displayLines": [
+      "摇落深知宋玉悲，",
+      "风流儒雅亦吾师。",
+      "怅望千秋一洒泪，",
+      "萧条异代不同时。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "摇",
+          "yáo"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "宋",
+          "sòng"
+        ],
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "悲",
+          "bēi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "儒",
+          "rú"
+        ],
+        [
+          "雅",
+          "yǎ"
+        ],
+        [
+          "亦",
+          "yì"
+        ],
+        [
+          "吾",
+          "wú"
+        ],
+        [
+          "师",
+          "shī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "怅",
+          "chàng"
+        ],
+        [
+          "望",
+          "wàng"
+        ],
+        [
+          "千",
+          "qiān"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "洒",
+          "sǎ"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "萧",
+          "xiāo"
+        ],
+        [
+          "条",
+          "tiáo"
+        ],
+        [
+          "异",
+          "yì"
+        ],
+        [
+          "代",
+          "dài"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "同",
+          "tóng"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "宅",
+          "zhái"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "文",
+          "wén"
+        ],
+        [
+          "藻",
+          "zǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "荒",
+          "huāng"
+        ],
+        [
+          "台",
+          "tái"
+        ],
+        [
+          "岂",
+          "qǐ"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "思",
+          "sī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "最",
+          "zuì"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "楚",
+          "chǔ"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "俱",
+          "jù"
+        ],
+        [
+          "泯",
+          "mǐn"
+        ],
+        [
+          "灭",
+          "miè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "舟",
+          "zhōu"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "指",
+          "zhǐ"
+        ],
+        [
+          "点",
+          "diǎn"
+        ],
+        [
+          "到",
+          "dào"
+        ],
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "疑",
+          "yí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "摇",
+          "yáo"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "宋",
+          "sòng"
+        ],
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "悲",
+          "bēi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "儒",
+          "rú"
+        ],
+        [
+          "雅",
+          "yǎ"
+        ],
+        [
+          "亦",
+          "yì"
+        ],
+        [
+          "吾",
+          "wú"
+        ],
+        [
+          "师",
+          "shī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "怅",
+          "chàng"
+        ],
+        [
+          "望",
+          "wàng"
+        ],
+        [
+          "千",
+          "qiān"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "洒",
+          "sǎ"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "萧",
+          "xiāo"
+        ],
+        [
+          "条",
+          "tiáo"
+        ],
+        [
+          "异",
+          "yì"
+        ],
+        [
+          "代",
+          "dài"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "同",
+          "tóng"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "宅",
+          "zhái"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "文",
+          "wén"
+        ],
+        [
+          "藻",
+          "zǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "荒",
+          "huāng"
+        ],
+        [
+          "台",
+          "tái"
+        ],
+        [
+          "岂",
+          "qǐ"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "思",
+          "sī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "最",
+          "zuì"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "楚",
+          "chǔ"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "俱",
+          "jù"
+        ],
+        [
+          "泯",
+          "mǐn"
+        ],
+        [
+          "灭",
+          "miè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "舟",
+          "zhōu"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "指",
+          "zhǐ"
+        ],
+        [
+          "点",
+          "diǎn"
+        ],
+        [
+          "到",
+          "dào"
+        ],
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "疑",
+          "yí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.宋玉：屈原弟子，因痛其师被谗放逐，作九辩以示悲哀。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.云雨荒台：指宋玉高唐赋辞：\"朝为行云，暮为行雨，朝朝暮暮，阳台"
+      },
+      {
+        "source": "chiuinan",
+        "text": "之下\"的一段话。"
+      }
+    ],
+    "tags": [
+      "七言律诗",
+      "怀古",
+      "抒怀"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-regular-verseDuFuPOETICTHOUGHTSONANCIENTSITESII",
+      "translationRaw": "\"Decayanddecline\"：deepknowledgehaveIofSungYu』sgrief。Romanticandrefined，hetooismyteacher。Sadlylookingacrossathousandautumns，oneshoweroftears，Melancholyindifferentepochs，notatthesametime。Amongriversandmountainshisoldabode--emptyhiswritings；Desertedterraceofcloudandrain--surelynotjustimaginedinadream？UtterlythepalacesofChuarealldestroyedandruined，Thefishermenpointingthemouttodayareunsure。",
+      "translationClean": "\"Decayanddecline\": deepknowledgehaveIofSungYu'sgrief. Romanticandrefined, hetooismyteacher. Sadlylookingacrossathousandautumns, oneshoweroftears, Melancholyindifferentepochs, notatthesametime. Amongriversandmountainshisoldabode--emptyhiswritings; Desertedterraceofcloudandrain--surelynotjustimaginedinadream? UtterlythepalacesofChuarealldestroyedandruined, Thefishermenpointingthemouttodayareunsure.",
+      "segments": [
+        "\"Decayanddecline\": deepknowledgehaveIofSungYu'sgrief.",
+        "Romanticandrefined, hetooismyteacher.",
+        "Sadlylookingacrossathousandautumns, oneshoweroftears, Melancholyindifferentepochs, notatthesametime.",
+        "Amongriversandmountainshisoldabode--emptyhiswritings;",
+        "Desertedterraceofcloudandrain--surelynotjustimaginedinadream?",
+        "UtterlythepalacesofChuarealldestroyedandruined, Thefishermenpointingthemouttodayareunsure."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 68,
+        "title": "咏怀古迹五首·其二",
+        "author": "杜甫"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 191,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 288,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "acbe1729-cefd-4678-9719-09c5c9c27db0",
+        "score": 1
+      }
+    }
+  }
+}

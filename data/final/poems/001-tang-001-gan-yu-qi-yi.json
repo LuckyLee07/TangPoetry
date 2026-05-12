@@ -1,0 +1,661 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-001-gan-yu-qi-yi",
+    "order": 1,
+    "section": "五言古诗",
+    "title": "感遇其一",
+    "titleTraditional": "感遇其一",
+    "author": "张九龄",
+    "authorTraditional": "張九齡",
+    "dynasty": "唐代",
+    "aliases": [
+      "感遇十二首·其四",
+      "感遇其一"
+    ],
+    "lines": [
+      "孤鸿海上来，池潢不敢顾；",
+      "侧见双翠鸟，巢在三珠树。",
+      "矫矫珍木巅，得无金丸惧？",
+      "美服患人指，高明逼神恶。",
+      "今我游冥冥，弋者何所慕？"
+    ],
+    "linesTraditional": [
+      "孤鴻海上來，池潢不敢顧；",
+      "側見雙翠鳥，巢在三珠樹。",
+      "矯矯珍木巔，得無金丸懼？",
+      "美服患人指，高明逼神惡。",
+      "今我遊冥冥，弋者何所慕？"
+    ],
+    "text": "孤鸿海上来，池潢不敢顾；侧见双翠鸟，巢在三珠树。矫矫珍木巅，得无金丸惧？美服患人指，高明逼神恶。今我游冥冥，弋者何所慕？",
+    "textTraditional": "孤鴻海上來，池潢不敢顧；側見雙翠鳥，巢在三珠樹。矯矯珍木巔，得無金丸懼？美服患人指，高明逼神惡。今我遊冥冥，弋者何所慕？",
+    "displayLines": [
+      "孤鸿海上来，",
+      "池潢不敢顾；",
+      "侧见双翠鸟，",
+      "巢在三珠树。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "鸿",
+          "hóng"
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "池",
+          "chí"
+        ],
+        [
+          "潢",
+          "huáng"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "敢",
+          "gǎn"
+        ],
+        [
+          "顾",
+          "gù"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "侧",
+          "cè"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "双",
+          "shuāng"
+        ],
+        [
+          "翠",
+          "cuì"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "巢",
+          "cháo"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "珠",
+          "zhū"
+        ],
+        [
+          "树",
+          "shù"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "矫",
+          "jiǎo"
+        ],
+        [
+          "矫",
+          "jiǎo"
+        ],
+        [
+          "珍",
+          "zhēn"
+        ],
+        [
+          "木",
+          "mù"
+        ],
+        [
+          "巅",
+          "diān"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "得",
+          "dé"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "丸",
+          "wán"
+        ],
+        [
+          "惧",
+          "jù"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "美",
+          "měi"
+        ],
+        [
+          "服",
+          "fú"
+        ],
+        [
+          "患",
+          "huàn"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "指",
+          "zhǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "高",
+          "gāo"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "逼",
+          "bī"
+        ],
+        [
+          "神",
+          "shén"
+        ],
+        [
+          "恶",
+          "è"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "鸿",
+          "hóng"
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "池",
+          "chí"
+        ],
+        [
+          "潢",
+          "huáng"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "敢",
+          "gǎn"
+        ],
+        [
+          "顾",
+          "gù"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "侧",
+          "cè"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "双",
+          "shuāng"
+        ],
+        [
+          "翠",
+          "cuì"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "巢",
+          "cháo"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "珠",
+          "zhū"
+        ],
+        [
+          "树",
+          "shù"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "矫",
+          "jiǎo"
+        ],
+        [
+          "矫",
+          "jiǎo"
+        ],
+        [
+          "珍",
+          "zhēn"
+        ],
+        [
+          "木",
+          "mù"
+        ],
+        [
+          "巅",
+          "diān"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "得",
+          "dé"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "丸",
+          "wán"
+        ],
+        [
+          "惧",
+          "jù"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "美",
+          "měi"
+        ],
+        [
+          "服",
+          "fú"
+        ],
+        [
+          "患",
+          "huàn"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "指",
+          "zhǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "高",
+          "gāo"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "逼",
+          "bī"
+        ],
+        [
+          "神",
+          "shén"
+        ],
+        [
+          "恶",
+          "è"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "我",
+          "wǒ"
+        ],
+        [
+          "游",
+          "yóu"
+        ],
+        [
+          "冥",
+          "míng"
+        ],
+        [
+          "冥",
+          "míng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "弋",
+          "yì"
+        ],
+        [
+          "者",
+          "zhě"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "所",
+          "suǒ"
+        ],
+        [
+          "慕",
+          "mù"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.潢：音\"黄\"，蓄水池。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.矫矫：独立高出貌。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "3.金丸：弹丸。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "4.弋者：射鸟之人。"
+      }
+    ],
+    "tags": [
+      "五言古诗",
+      "寓人",
+      "生活",
+      "哲理",
+      "抒怀",
+      "写鸟",
+      "鸟"
+    ],
+    "english": {
+      "headingRaw": "Five-character-ancient-verseZhangJiulingTHOUGHTSI",
+      "translationRaw": "Alonelyswanfromtheseaflies，Toalightonpuddlesitdoesnotdeign。NestinginthepoplarofpearlsItspiesandquestionsgreenbirdstwain：\"Don』tyoufearthethreatofslings，Perchedontopofbranchessohigh？Niceclothesinvitepointingfingers，Highclimbersgod』sgoodwilldefy。Bird-hunterswillcravemeinvain，ForIroamthelimitlesssky。\"",
+      "translationClean": "Alonelyswanfromtheseaflies, Toalightonpuddlesitdoesnotdeign. NestinginthepoplarofpearlsItspiesandquestionsgreenbirdstwain: \"Don'tyoufearthethreatofslings, Perchedontopofbranchessohigh? Niceclothesinvitepointingfingers, Highclimbersgod'sgoodwilldefy. Bird-hunterswillcravemeinvain, ForIroamthelimitlesssky. \"",
+      "segments": [
+        "Alonelyswanfromtheseaflies, Toalightonpuddlesitdoesnotdeign.",
+        "NestinginthepoplarofpearlsItspiesandquestionsgreenbirdstwain: \"Don'tyoufearthethreatofslings, Perchedontopofbranchessohigh?",
+        "Niceclothesinvitepointingfingers, Highclimbersgod'sgoodwilldefy.",
+        "Bird-hunterswillcravemeinvain, ForIroamthelimitlesssky.",
+        "\""
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 306,
+        "title": "感遇十二首·其四",
+        "author": "张九龄"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9227
+      },
+      "ctext": {
+        "matched": true,
+        "order": 1,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 1,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "f9798830-48c1-45e3-be90-4028d93954dc",
+        "score": 1
+      }
+    },
+    "visual": {
+      "image": "assets/illustrations-wuyan-gushi/001-tang-001-gan-yu-qi-yi-feng-v1.png",
+      "coreImagery": [
+        "孤鸿",
+        "沧海",
+        "池潢",
+        "双翠鸟"
+      ],
+      "mood": [
+        "孤高",
+        "警觉",
+        "清冷",
+        "自持"
+      ],
+      "palette": [
+        "雾青",
+        "浅赭",
+        "灰蓝",
+        "翠绿点染",
+        "淡金微光"
+      ],
+      "composition": "孤鸿位于画面中上部偏左，高树在远处偏右，形成“远举”和“高处有险”的张力。",
+      "style": "民国诗意线描，稀疏墨线，淡彩，米色纸面，大面积留白，温厚含蓄，适合诗文叠加",
+      "prompt": "民国诗意线描插图，唐诗《感遇其一》意境：下方小小池潢，上方大面积米色留白，一只孤鸿掠过空中，远处枝头两只翠鸟。线条稀疏、温厚、克制，淡彩点染，表达孤高、自持、警觉。不要文字、印章、现代建筑、写实摄影。",
+      "generatedAt": "2026-05-10T15:05:28+00:00",
+      "generator": "imagegen",
+      "illustrationBrief": {
+        "updatedAt": "2026-05-12T01:52:56+00:00",
+        "themeStatement": "以孤鸿自喻清介之士：不恋浅池，不畏弋者，在高明与危险之间选择远举自守。",
+        "keywords": {
+          "coreImagery": [
+            "孤鸿",
+            "沧海",
+            "池潢",
+            "双翠鸟",
+            "三珠树",
+            "金丸",
+            "弋者",
+            "冥冥长空"
+          ],
+          "emotionalTone": [
+            "孤高",
+            "警觉",
+            "清冷",
+            "自持",
+            "远离尘网"
+          ],
+          "atmosphere": [
+            "海天辽阔",
+            "薄雾",
+            "高处微光",
+            "静中有险"
+          ],
+          "symbolicMeanings": [
+            "孤鸿象征清醒自守的人格",
+            "池潢象征狭小世俗",
+            "翠鸟与珠树象征显贵处境",
+            "金丸与弋者象征外界觊觎和危险"
+          ],
+          "visualMotifs": [
+            "一只孤鸿掠过海面",
+            "远处浅池只作暗示",
+            "高树上两只翠鸟",
+            "树梢有淡淡珠光",
+            "天际留出大片空白"
+          ]
+        },
+        "sceneBrief": {
+          "foreground": "低处一片浅水和淡墨苇影，暗示“池潢不敢顾”。",
+          "midground": "海面雾气中有孤鸿侧掠，姿态克制，不向下停留。",
+          "background": "远处珍木高出雾层，两只翠鸟栖于枝端，珠光极淡。",
+          "compositionFocus": "孤鸿位于画面中上部偏左，高树在远处偏右，形成“远举”和“高处有险”的张力。",
+          "negativeSpace": "画面上半部保留大片海天空白，方便诗文叠加。"
+        },
+        "palette": [
+          "雾青",
+          "浅赭",
+          "灰蓝",
+          "翠绿点染",
+          "淡金微光"
+        ],
+        "stylePrompt": "民国诗意线描，稀疏墨线，淡彩，米色纸面，大面积留白，温厚含蓄，适合诗文叠加",
+        "generationPrompt": "民国诗意线描插图，唐诗《感遇其一》意境：下方小小池潢，上方大面积米色留白，一只孤鸿掠过空中，远处枝头两只翠鸟。线条稀疏、温厚、克制，淡彩点染，表达孤高、自持、警觉。不要文字、印章、现代建筑、写实摄影。",
+        "avoid": [
+          "文字",
+          "现代建筑",
+          "写实摄影",
+          "卡通人物",
+          "浓艳颜色",
+          "拥挤构图"
+        ]
+      },
+      "assetVersion": "feng-v1",
+      "assetSource": "imagegen built-in; copied from generated preview into project assets",
+      "assetUpdatedAt": "2026-05-12T01:52:56+00:00",
+      "visualStyle": "民国诗意线描；丰子恺启发的温厚留白小品，不复刻具体作品"
+    }
+  }
+}

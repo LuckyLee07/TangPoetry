@@ -1,0 +1,698 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-022-xun-xi-shan-yin-zhe-bu-yu",
+    "order": 22,
+    "section": "五言古诗",
+    "title": "寻西山隐者不遇",
+    "titleTraditional": "尋西山隱者不遇",
+    "author": "邱为",
+    "authorTraditional": "邱為",
+    "dynasty": "唐代",
+    "aliases": [
+      "寻西山隐者不遇"
+    ],
+    "lines": [
+      "绝顶一茅茨，直上三十里；",
+      "扣关无僮仆，窥室惟案几。",
+      "若非巾柴车？",
+      "应是钓秋水。",
+      "差池不相见，黾勉空仰止。",
+      "草色新雨中，松声晚窗里；",
+      "及兹契幽绝，自足荡心耳。",
+      "虽无宾主意，颇得清净理。",
+      "兴尽方下山，何必待之子。"
+    ],
+    "linesTraditional": [
+      "絕頂一茅茨，直上三十里；",
+      "扣關無僮僕，窺室惟案幾。",
+      "若非巾柴車？",
+      "應是釣秋水。",
+      "差池不相見，黽勉空仰止。",
+      "草色新雨中，松聲晚窗裡；",
+      "及茲契幽絕，自足蕩心耳。",
+      "雖無賓主意，頗得清淨理。",
+      "興盡方下山，何必待之子。"
+    ],
+    "text": "绝顶一茅茨，直上三十里；扣关无僮仆，窥室惟案几。若非巾柴车？应是钓秋水。差池不相见，黾勉空仰止。草色新雨中，松声晚窗里；及兹契幽绝，自足荡心耳。虽无宾主意，颇得清净理。兴尽方下山，何必待之子。",
+    "textTraditional": "絕頂一茅茨，直上三十里；扣關無僮僕，窺室惟案幾。若非巾柴車？應是釣秋水。差池不相見，黽勉空仰止。草色新雨中，松聲晚窗裡；及茲契幽絕，自足蕩心耳。雖無賓主意，頗得清淨理。興盡方下山，何必待之子。",
+    "displayLines": [
+      "绝顶一茅茨，",
+      "直上三十里；",
+      "扣关无僮仆，",
+      "窥室惟案几。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "绝",
+          "jué"
+        ],
+        [
+          "顶",
+          "dǐng"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "茅",
+          "máo"
+        ],
+        [
+          "茨",
+          "cí"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "直",
+          "zhí"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "十",
+          "shí"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "扣",
+          "kòu"
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "僮",
+          "tóng"
+        ],
+        [
+          "仆",
+          "pú"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "窥",
+          "kuī"
+        ],
+        [
+          "室",
+          "shì"
+        ],
+        [
+          "惟",
+          "wéi"
+        ],
+        [
+          "案",
+          "àn"
+        ],
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "若",
+          "ruò"
+        ],
+        [
+          "非",
+          "fēi"
+        ],
+        [
+          "巾",
+          "jīn"
+        ],
+        [
+          "柴",
+          "chái"
+        ],
+        [
+          "车",
+          "chē"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "应",
+          "yīng"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "钓",
+          "diào"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "绝",
+          "jué"
+        ],
+        [
+          "顶",
+          "dǐng"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "茅",
+          "máo"
+        ],
+        [
+          "茨",
+          "cí"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "直",
+          "zhí"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "十",
+          "shí"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "扣",
+          "kòu"
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "僮",
+          "tóng"
+        ],
+        [
+          "仆",
+          "pú"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "窥",
+          "kuī"
+        ],
+        [
+          "室",
+          "shì"
+        ],
+        [
+          "惟",
+          "wéi"
+        ],
+        [
+          "案",
+          "àn"
+        ],
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "若",
+          "ruò"
+        ],
+        [
+          "非",
+          "fēi"
+        ],
+        [
+          "巾",
+          "jīn"
+        ],
+        [
+          "柴",
+          "chái"
+        ],
+        [
+          "车",
+          "chē"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "应",
+          "yīng"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "钓",
+          "diào"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "差",
+          "chā"
+        ],
+        [
+          "池",
+          "chí"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "黾",
+          "mǐn"
+        ],
+        [
+          "勉",
+          "miǎn"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "仰",
+          "yǎng"
+        ],
+        [
+          "止",
+          "zhǐ"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "松",
+          "sōng"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "晚",
+          "wǎn"
+        ],
+        [
+          "窗",
+          "chuāng"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "及",
+          "jí"
+        ],
+        [
+          "兹",
+          "zī"
+        ],
+        [
+          "契",
+          "qì"
+        ],
+        [
+          "幽",
+          "yōu"
+        ],
+        [
+          "绝",
+          "jué"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "足",
+          "zú"
+        ],
+        [
+          "荡",
+          "dàng"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "耳",
+          "ěr"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "虽",
+          "suī"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "宾",
+          "bīn"
+        ],
+        [
+          "主",
+          "zhǔ"
+        ],
+        [
+          "意",
+          "yì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "颇",
+          "pǒ"
+        ],
+        [
+          "得",
+          "dé"
+        ],
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "净",
+          "jìng"
+        ],
+        [
+          "理",
+          "lǐ"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "兴",
+          "xīng"
+        ],
+        [
+          "尽",
+          "jǐn"
+        ],
+        [
+          "方",
+          "fāng"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "必",
+          "bì"
+        ],
+        [
+          "待",
+          "dài"
+        ],
+        [
+          "之",
+          "zhī"
+        ],
+        [
+          "子",
+          "zi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.茅茨：茅屋。茨，音\"词\"。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.差池：参差不齐、事情错误。差，音\"疵\"。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "3.黾勉：勉尽其力。黾，音\"敏\"。"
+      }
+    ],
+    "tags": [
+      "五言古诗",
+      "友情"
+    ],
+    "english": {
+      "headingRaw": "Five-character-ancient-verseQiuWeiAFTERMISSINGTHERECLUSEONTHEWESTERNMOUNTAIN",
+      "translationRaw": "ToyourhermitagehereonthetopofthemountainIhaveclimbed，withoutstopping，thesetenmiles。Ihaveknockedatyourdoor，andnooneanswered；Ihavepeepedintoyourroom，atyourseatbesidethetable。Perhapsyouareoutridinginyourcanopiedchair，Orfishing，morelikely，insomeautumnpool。SorrythoughIamtobemissingyou，Youhavebecomemymeditation--Thebeautyofyourgrasses，freshwithrain，Andclosebesideyourwindowthemusicofyourpines。ItakeintomybeingallthatIseeandhear，Soothingmysenses，quietingmyheart；Andthoughtherebeneitherhostnorguest，HaveInotreasonedavisitcomplete？。。。Afterenough，Ihavegonedownthemountain。WhyshouldIwaitforyouanylonger？",
+      "translationClean": "ToyourhermitagehereonthetopofthemountainIhaveclimbed, withoutstopping, thesetenmiles. Ihaveknockedatyourdoor, andnooneanswered; Ihavepeepedintoyourroom, atyourseatbesidethetable. Perhapsyouareoutridinginyourcanopiedchair, Orfishing, morelikely, insomeautumnpool. SorrythoughIamtobemissingyou, Youhavebecomemymeditation--Thebeautyofyourgrasses, freshwithrain, Andclosebesideyourwindowthemusicofyourpines. ItakeintomybeingallthatIseeandhear, Soothingmysenses, quietingmyheart; Andthoughtherebeneitherhostnorguest, HaveInotreasonedavisitcomplete? . . . Afterenough, Ihavegonedownthemountain. WhyshouldIwaitforyouanylonger?",
+      "segments": [
+        "ToyourhermitagehereonthetopofthemountainIhaveclimbed, withoutstopping, thesetenmiles.",
+        "Ihaveknockedatyourdoor, andnooneanswered;",
+        "Ihavepeepedintoyourroom, atyourseatbesidethetable.",
+        "Perhapsyouareoutridinginyourcanopiedchair, Orfishing, morelikely, insomeautumnpool.",
+        "SorrythoughIamtobemissingyou, Youhavebecomemymeditation--Thebeautyofyourgrasses, freshwithrain, Andclosebesideyourwindowthemusicofyourpines.",
+        "ItakeintomybeingallthatIseeandhear, Soothingmysenses, quietingmyheart;",
+        "Andthoughtherebeneitherhostnorguest, HaveInotreasonedavisitcomplete?",
+        ".",
+        ".",
+        ".",
+        "Afterenough, Ihavegonedownthemountain.",
+        "WhyshouldIwaitforyouanylonger?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 47,
+        "title": "寻西山隐者不遇",
+        "author": "丘为"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9903
+      },
+      "ctext": {
+        "matched": true,
+        "order": 22,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 22,
+        "score": 0.9875,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "10a0aedc-4b39-494b-a36c-28c6df28a668",
+        "score": 0.9875
+      }
+    },
+    "visual": {
+      "image": "assets/illustrations-wuyan-gushi/022-tang-022-xun-xi-shan-yin-zhe-bu-yu.png",
+      "coreImagery": [
+        "绝顶茅茨",
+        "柴车",
+        "秋水",
+        "松声"
+      ],
+      "mood": [
+        "寻隐",
+        "怅然",
+        "清寒"
+      ],
+      "palette": [
+        "秋褐",
+        "松绿",
+        "水灰",
+        "茅草黄"
+      ],
+      "composition": "山顶茅屋空寂，柴车停在路旁，秋水从石间转出。",
+      "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+      "prompt": "寻西山隐者不遇，邱为。核心意象：绝顶茅茨、柴车、秋水、松声；情绪：寻隐、怅然、清寒。山顶茅屋空寂，柴车停在路旁，秋水从石间转出。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+      "generatedAt": "2026-05-10T15:05:28+00:00",
+      "generator": "procedural-watercolor"
+    }
+  }
+}

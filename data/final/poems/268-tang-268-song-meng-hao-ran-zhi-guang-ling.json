@@ -1,0 +1,381 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-268-song-meng-hao-ran-zhi-guang-ling",
+    "order": 268,
+    "section": "七言绝句",
+    "title": "送孟浩然之广陵",
+    "titleTraditional": "送孟浩然之廣陵",
+    "author": "李白",
+    "authorTraditional": "李白",
+    "dynasty": "唐代",
+    "aliases": [
+      "黄鹤楼送孟浩然之广陵",
+      "送孟浩然之广陵"
+    ],
+    "lines": [
+      "故人西辞黄鹤楼，烟花三月下扬州。",
+      "孤帆远影碧空尽，惟见长江天际流。"
+    ],
+    "linesTraditional": [
+      "故人西辭黃鶴樓，煙花三月下揚州。",
+      "孤帆遠影碧空盡，惟見長江天際流。"
+    ],
+    "text": "故人西辞黄鹤楼，烟花三月下扬州。孤帆远影碧空尽，惟见长江天际流。",
+    "textTraditional": "故人西辭黃鶴樓，煙花三月下揚州。孤帆遠影碧空盡，惟見長江天際流。",
+    "displayLines": [
+      "故人西辞黄鹤楼，",
+      "烟花三月下扬州。",
+      "孤帆远影碧空尽，",
+      "惟见长江天际流。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "辞",
+          "cí"
+        ],
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "鹤",
+          "hè"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "扬",
+          "yáng"
+        ],
+        [
+          "州",
+          "zhōu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "帆",
+          "fān"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "影",
+          "yǐng"
+        ],
+        [
+          "碧",
+          "bì"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "尽",
+          "jǐn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "惟",
+          "wéi"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "长",
+          "zhǎng"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "际",
+          "jì"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "辞",
+          "cí"
+        ],
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "鹤",
+          "hè"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "扬",
+          "yáng"
+        ],
+        [
+          "州",
+          "zhōu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "帆",
+          "fān"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "影",
+          "yǐng"
+        ],
+        [
+          "碧",
+          "bì"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "尽",
+          "jǐn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "惟",
+          "wéi"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "长",
+          "zhǎng"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "际",
+          "jì"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "唯--通 ：惟"
+      },
+      {
+        "source": "chiuinan",
+        "text": "1.烟花：喻繁华。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.第三句敦煌本作\"孤帆远映绿山尽\"，宋本作\"孤帆远映碧山尽\"，明嘉"
+      },
+      {
+        "source": "chiuinan",
+        "text": "靖本作\"孤帆远影碧空尽\"。但碧空适合写九月秋景，不适于三月春景，"
+      },
+      {
+        "source": "chiuinan",
+        "text": "而孤帆远影有些许重复，因此应以敦煌本或宋本之句为正。"
+      }
+    ],
+    "tags": [
+      "七言绝句",
+      "长江",
+      "黄鹤楼",
+      "离别",
+      "带有地名",
+      "小学古诗",
+      "地名",
+      "描写水",
+      "友情",
+      "写景",
+      "送别",
+      "水",
+      "名楼、庙宇",
+      "写水",
+      "四年级上册"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainLiBaiAFAREWELLTOMENGHAORANONHISWAYTOYANGZHOU",
+      "translationRaw": "Youhaveleftmebehind，oldfriend，attheYellowCraneTerrace，OnyourwaytovisitYangzhouinthemistymonthofflowers；Yoursail，asingleshadow，becomesonewiththebluesky，TillnowIseeonlytheriver，onitswaytoheaven。",
+      "translationClean": "Youhaveleftmebehind, oldfriend, attheYellowCraneTerrace, OnyourwaytovisitYangzhouinthemistymonthofflowers; Yoursail, asingleshadow, becomesonewiththebluesky, TillnowIseeonlytheriver, onitswaytoheaven.",
+      "segments": [
+        "Youhaveleftmebehind, oldfriend, attheYellowCraneTerrace, OnyourwaytovisitYangzhouinthemistymonthofflowers;",
+        "Yoursail, asingleshadow, becomesonewiththebluesky, TillnowIseeonlytheriver, onitswaytoheaven."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 261,
+        "title": "黄鹤楼送孟浩然之广陵",
+        "author": "李白"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9421
+      },
+      "ctext": {
+        "matched": true,
+        "order": 268,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 138,
+        "score": 0.9643,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "d43a4767-2240-44b7-8d5b-c2acdc689839",
+        "score": 0.9643
+      }
+    }
+  }
+}

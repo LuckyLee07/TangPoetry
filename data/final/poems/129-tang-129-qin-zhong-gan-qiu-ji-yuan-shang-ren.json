@@ -1,0 +1,489 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-129-qin-zhong-gan-qiu-ji-yuan-shang-ren",
+    "order": 129,
+    "section": "五言律诗",
+    "title": "秦中感秋寄远上人",
+    "titleTraditional": "秦中感秋寄遠上人",
+    "author": "孟浩然",
+    "authorTraditional": "孟浩然",
+    "dynasty": "唐代",
+    "aliases": [
+      "秦中感秋寄远上人 / 秦中寄远上人",
+      "秦中感秋寄远上人"
+    ],
+    "lines": [
+      "一丘尝欲卧，三径苦无资。",
+      "北土非吾愿，东林怀我师。",
+      "黄金燃桂尽，壮志逐年衰。",
+      "日夕凉风至，闻蝉但益悲。"
+    ],
+    "linesTraditional": [
+      "一丘嘗欲臥，三徑苦無資。",
+      "北土非吾願，東林懷我師。",
+      "黃金燃桂盡，壯志逐年衰。",
+      "日夕涼風至，聞蟬但益悲。"
+    ],
+    "text": "一丘尝欲卧，三径苦无资。北土非吾愿，东林怀我师。黄金燃桂尽，壮志逐年衰。日夕凉风至，闻蝉但益悲。",
+    "textTraditional": "一丘嘗欲臥，三徑苦無資。北土非吾願，東林懷我師。黃金燃桂盡，壯志逐年衰。日夕涼風至，聞蟬但益悲。",
+    "displayLines": [
+      "一丘尝欲卧，",
+      "三径苦无资。",
+      "北土非吾愿，",
+      "东林怀我师。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "丘",
+          "qiū"
+        ],
+        [
+          "尝",
+          "cháng"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "卧",
+          "wò"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "径",
+          "jìng"
+        ],
+        [
+          "苦",
+          "kǔ"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "资",
+          "zī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "北",
+          "běi"
+        ],
+        [
+          "土",
+          "tǔ"
+        ],
+        [
+          "非",
+          "fēi"
+        ],
+        [
+          "吾",
+          "wú"
+        ],
+        [
+          "愿",
+          "yuàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "东",
+          "dōng"
+        ],
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "怀",
+          "huái"
+        ],
+        [
+          "我",
+          "wǒ"
+        ],
+        [
+          "师",
+          "shī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "燃",
+          "rán"
+        ],
+        [
+          "桂",
+          "guì"
+        ],
+        [
+          "尽",
+          "jǐn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "壮",
+          "zhuàng"
+        ],
+        [
+          "志",
+          "zhì"
+        ],
+        [
+          "逐",
+          "zhú"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "衰",
+          "shuāi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "夕",
+          "xī"
+        ],
+        [
+          "凉",
+          "liáng"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "至",
+          "zhì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "闻",
+          "wén"
+        ],
+        [
+          "蝉",
+          "chán"
+        ],
+        [
+          "但",
+          "dàn"
+        ],
+        [
+          "益",
+          "yì"
+        ],
+        [
+          "悲",
+          "bēi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "丘",
+          "qiū"
+        ],
+        [
+          "尝",
+          "cháng"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "卧",
+          "wò"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "径",
+          "jìng"
+        ],
+        [
+          "苦",
+          "kǔ"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "资",
+          "zī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "北",
+          "běi"
+        ],
+        [
+          "土",
+          "tǔ"
+        ],
+        [
+          "非",
+          "fēi"
+        ],
+        [
+          "吾",
+          "wú"
+        ],
+        [
+          "愿",
+          "yuàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "东",
+          "dōng"
+        ],
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "怀",
+          "huái"
+        ],
+        [
+          "我",
+          "wǒ"
+        ],
+        [
+          "师",
+          "shī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "燃",
+          "rán"
+        ],
+        [
+          "桂",
+          "guì"
+        ],
+        [
+          "尽",
+          "jǐn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "壮",
+          "zhuàng"
+        ],
+        [
+          "志",
+          "zhì"
+        ],
+        [
+          "逐",
+          "zhú"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "衰",
+          "shuāi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "夕",
+          "xī"
+        ],
+        [
+          "凉",
+          "liáng"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "至",
+          "zhì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "闻",
+          "wén"
+        ],
+        [
+          "蝉",
+          "chán"
+        ],
+        [
+          "但",
+          "dàn"
+        ],
+        [
+          "益",
+          "yì"
+        ],
+        [
+          "悲",
+          "bēi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言律诗",
+      "归隐",
+      "抒情"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseMengHaoranFROMQINCOUNTRYTOTHEBUDDHISTPRIESTYUAN",
+      "translationRaw": "HowgladlyIwouldseekamountainIfIhadenoughmeanstoliveasarecluse！ForIturnatlastfromservingtheStateTotheEasternWoodsTempleandtoyou，mymaster。。。。Likeashesofgoldinacinnamon-flame，Myyouthfuldesireshavebeenburntwiththeyears-Andtonightinthechillingsunset-windAcicada，singing，weighsonmyheart。",
+      "translationClean": "HowgladlyIwouldseekamountainIfIhadenoughmeanstoliveasarecluse! ForIturnatlastfromservingtheStateTotheEasternWoodsTempleandtoyou, mymaster.... Likeashesofgoldinacinnamon-flame, Myyouthfuldesireshavebeenburntwiththeyears-Andtonightinthechillingsunset-windAcicada, singing, weighsonmyheart.",
+      "segments": [
+        "HowgladlyIwouldseekamountainIfIhadenoughmeanstoliveasarecluse!",
+        "ForIturnatlastfromservingtheStateTotheEasternWoodsTempleandtoyou, mymaster....",
+        "Likeashesofgoldinacinnamon-flame, Myyouthfuldesireshavebeenburntwiththeyears-Andtonightinthechillingsunset-windAcicada, singing, weighsonmyheart."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 209,
+        "title": "秦中感秋寄远上人 / 秦中寄远上人",
+        "author": "孟浩然"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9805
+      },
+      "ctext": {
+        "matched": true,
+        "order": 129,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 226,
+        "score": 0.975,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "0613f575-4f07-4326-8591-603fb3d1da45",
+        "score": 0.975
+      }
+    }
+  }
+}

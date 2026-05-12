@@ -1,0 +1,354 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-270-feng-ru-jing-shi",
+    "order": 270,
+    "section": "七言绝句",
+    "title": "逢入京使",
+    "titleTraditional": "逢入京使",
+    "author": "岑参",
+    "authorTraditional": "岑參",
+    "dynasty": "唐代",
+    "aliases": [
+      "逢入京使"
+    ],
+    "lines": [
+      "故园东望路漫漫，双袖龙钟泪不干。",
+      "马上相逢无纸笔，凭君传语报平安。"
+    ],
+    "linesTraditional": [
+      "故園東望路漫漫，雙袖龍鐘淚不乾。",
+      "馬上相逢無紙筆，憑君傳語報平安。"
+    ],
+    "text": "故园东望路漫漫，双袖龙钟泪不干。马上相逢无纸笔，凭君传语报平安。",
+    "textTraditional": "故園東望路漫漫，雙袖龍鐘淚不乾。馬上相逢無紙筆，憑君傳語報平安。",
+    "displayLines": [
+      "故园东望路漫漫，",
+      "双袖龙钟泪不干。",
+      "马上相逢无纸笔，",
+      "凭君传语报平安。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "园",
+          "yuán"
+        ],
+        [
+          "东",
+          "dōng"
+        ],
+        [
+          "望",
+          "wàng"
+        ],
+        [
+          "路",
+          "lù"
+        ],
+        [
+          "漫",
+          "màn"
+        ],
+        [
+          "漫",
+          "màn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "双",
+          "shuāng"
+        ],
+        [
+          "袖",
+          "xiù"
+        ],
+        [
+          "龙",
+          "lóng"
+        ],
+        [
+          "钟",
+          "zhōng"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "干",
+          "gàn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "逢",
+          "féng"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "纸",
+          "zhǐ"
+        ],
+        [
+          "笔",
+          "bǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "凭",
+          "píng"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "传",
+          "chuán"
+        ],
+        [
+          "语",
+          "yǔ"
+        ],
+        [
+          "报",
+          "bào"
+        ],
+        [
+          "平",
+          "píng"
+        ],
+        [
+          "安",
+          "ān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "园",
+          "yuán"
+        ],
+        [
+          "东",
+          "dōng"
+        ],
+        [
+          "望",
+          "wàng"
+        ],
+        [
+          "路",
+          "lù"
+        ],
+        [
+          "漫",
+          "màn"
+        ],
+        [
+          "漫",
+          "màn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "双",
+          "shuāng"
+        ],
+        [
+          "袖",
+          "xiù"
+        ],
+        [
+          "龙",
+          "lóng"
+        ],
+        [
+          "钟",
+          "zhōng"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "干",
+          "gàn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "逢",
+          "féng"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "纸",
+          "zhǐ"
+        ],
+        [
+          "笔",
+          "bǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "凭",
+          "píng"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "传",
+          "chuán"
+        ],
+        [
+          "语",
+          "yǔ"
+        ],
+        [
+          "报",
+          "bào"
+        ],
+        [
+          "平",
+          "píng"
+        ],
+        [
+          "安",
+          "ān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "七言绝句",
+      "生活",
+      "边塞",
+      "初中古诗",
+      "思乡",
+      "七年级下册(课外)"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainCenCanONMEETINGAMESSENGERTOTHECAPITAL",
+      "translationRaw": "It』salongwayhome，alongwayeast。Iamoldandmysleeveiswetwithtears。Wemeetonhorseback。Ihavenomeansofwriting。Tellthemthreewords：\"Heissafe。\"",
+      "translationClean": "It'salongwayhome, alongwayeast. Iamoldandmysleeveiswetwithtears. Wemeetonhorseback. Ihavenomeansofwriting. Tellthemthreewords: \"Heissafe. \"",
+      "segments": [
+        "It'salongwayhome, alongwayeast.",
+        "Iamoldandmysleeveiswetwithtears.",
+        "Wemeetonhorseback.",
+        "Ihavenomeansofwriting.",
+        "Tellthemthreewords: \"Heissafe.",
+        "\""
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 25,
+        "title": "逢入京使",
+        "author": "岑参"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 270,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 143,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "07238ad9-c348-43d4-b1d7-25d89369286d",
+        "score": 1
+      }
+    }
+  }
+}

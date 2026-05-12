@@ -1,0 +1,361 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-302-yao-chi",
+    "order": 302,
+    "section": "七言绝句",
+    "title": "瑶池",
+    "titleTraditional": "瑤池",
+    "author": "李商隐",
+    "authorTraditional": "李商隱",
+    "dynasty": "唐代",
+    "aliases": [
+      "瑶池"
+    ],
+    "lines": [
+      "瑶池阿母绮窗开，黄竹歌声动地哀。",
+      "八骏日行三万里，穆王何事不重来。"
+    ],
+    "linesTraditional": [
+      "瑤池阿母綺窗開，黃竹歌聲動地哀。",
+      "八駿日行三萬里，穆王何事不重來。"
+    ],
+    "text": "瑶池阿母绮窗开，黄竹歌声动地哀。八骏日行三万里，穆王何事不重来。",
+    "textTraditional": "瑤池阿母綺窗開，黃竹歌聲動地哀。八駿日行三萬里，穆王何事不重來。",
+    "displayLines": [
+      "瑶池阿母绮窗开，",
+      "黄竹歌声动地哀。",
+      "八骏日行三万里，",
+      "穆王何事不重来。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "瑶",
+          "yáo"
+        ],
+        [
+          "池",
+          "chí"
+        ],
+        [
+          "阿",
+          "ā"
+        ],
+        [
+          "母",
+          "mǔ"
+        ],
+        [
+          "绮",
+          "qǐ"
+        ],
+        [
+          "窗",
+          "chuāng"
+        ],
+        [
+          "开",
+          "kāi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "竹",
+          "zhú"
+        ],
+        [
+          "歌",
+          "gē"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "动",
+          "dòng"
+        ],
+        [
+          "地",
+          "dì"
+        ],
+        [
+          "哀",
+          "āi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "八",
+          "bā"
+        ],
+        [
+          "骏",
+          "jùn"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "穆",
+          "mù"
+        ],
+        [
+          "王",
+          "wáng"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "重",
+          "zhòng"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "瑶",
+          "yáo"
+        ],
+        [
+          "池",
+          "chí"
+        ],
+        [
+          "阿",
+          "ā"
+        ],
+        [
+          "母",
+          "mǔ"
+        ],
+        [
+          "绮",
+          "qǐ"
+        ],
+        [
+          "窗",
+          "chuāng"
+        ],
+        [
+          "开",
+          "kāi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "竹",
+          "zhú"
+        ],
+        [
+          "歌",
+          "gē"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "动",
+          "dòng"
+        ],
+        [
+          "地",
+          "dì"
+        ],
+        [
+          "哀",
+          "āi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "八",
+          "bā"
+        ],
+        [
+          "骏",
+          "jùn"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "穆",
+          "mù"
+        ],
+        [
+          "王",
+          "wáng"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "重",
+          "zhòng"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.黄竹：周穆王南游至黄竹路上，遇风雪，有冻人，乃作黄竹之歌三章"
+      },
+      {
+        "source": "chiuinan",
+        "text": "以哀民。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.八骏：八匹骏马，为周穆王所乘。"
+      }
+    ],
+    "tags": [
+      "七言绝句",
+      "神话",
+      "讽刺"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainLISHANGYINTHEJADEPOOL",
+      "translationRaw": "TheMotherofHeaven，inherwindowbytheJadePool，HearsTheYellowBambooSongshakingthewholeearth。WhereisEmperorMu，withhiseighthorsesrunningTenthousandmilesaday？Whyhashenevercomeback？",
+      "translationClean": "TheMotherofHeaven, inherwindowbytheJadePool, HearsTheYellowBambooSongshakingthewholeearth. WhereisEmperorMu, withhiseighthorsesrunningTenthousandmilesaday? Whyhashenevercomeback?",
+      "segments": [
+        "TheMotherofHeaven, inherwindowbytheJadePool, HearsTheYellowBambooSongshakingthewholeearth.",
+        "WhereisEmperorMu, withhiseighthorsesrunningTenthousandmilesaday?",
+        "Whyhashenevercomeback?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 307,
+        "title": "瑶池",
+        "author": "李商隐"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 302,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 175,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "2161a569-6250-4886-9500-2168821b62be",
+        "score": 1
+      }
+    }
+  }
+}

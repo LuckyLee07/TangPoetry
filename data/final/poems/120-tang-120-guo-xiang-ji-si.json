@@ -1,0 +1,493 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-120-guo-xiang-ji-si",
+    "order": 120,
+    "section": "五言律诗",
+    "title": "过香积寺",
+    "titleTraditional": "過香積寺",
+    "author": "王维",
+    "authorTraditional": "王維",
+    "dynasty": "唐代",
+    "aliases": [
+      "过香积寺"
+    ],
+    "lines": [
+      "不知香积寺，数里入云峰。",
+      "古木无人径，深山何处钟。",
+      "泉声咽危石，日色冷青松。",
+      "薄暮空潭曲，安禅制毒龙。"
+    ],
+    "linesTraditional": [
+      "不知香積寺，數里入雲峰。",
+      "古木無人徑，深山何處鐘。",
+      "泉聲咽危石，日色冷青松。",
+      "薄暮空潭曲，安禪制毒龍。"
+    ],
+    "text": "不知香积寺，数里入云峰。古木无人径，深山何处钟。泉声咽危石，日色冷青松。薄暮空潭曲，安禅制毒龙。",
+    "textTraditional": "不知香積寺，數里入雲峰。古木無人徑，深山何處鐘。泉聲咽危石，日色冷青松。薄暮空潭曲，安禪制毒龍。",
+    "displayLines": [
+      "不知香积寺，",
+      "数里入云峰。",
+      "古木无人径，",
+      "深山何处钟。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "香",
+          "xiāng"
+        ],
+        [
+          "积",
+          "jī"
+        ],
+        [
+          "寺",
+          "sì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "数",
+          "shù"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "峰",
+          "fēng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "木",
+          "mù"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "径",
+          "jìng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "钟",
+          "zhōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "泉",
+          "quán"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "咽",
+          "yàn"
+        ],
+        [
+          "危",
+          "wēi"
+        ],
+        [
+          "石",
+          "shí"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "冷",
+          "lěng"
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "松",
+          "sōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "薄",
+          "bó"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "潭",
+          "tán"
+        ],
+        [
+          "曲",
+          "qū"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "安",
+          "ān"
+        ],
+        [
+          "禅",
+          "chán"
+        ],
+        [
+          "制",
+          "zhì"
+        ],
+        [
+          "毒",
+          "dú"
+        ],
+        [
+          "龙",
+          "lóng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "香",
+          "xiāng"
+        ],
+        [
+          "积",
+          "jī"
+        ],
+        [
+          "寺",
+          "sì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "数",
+          "shù"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "峰",
+          "fēng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "木",
+          "mù"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "径",
+          "jìng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "钟",
+          "zhōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "泉",
+          "quán"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "咽",
+          "yàn"
+        ],
+        [
+          "危",
+          "wēi"
+        ],
+        [
+          "石",
+          "shí"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "冷",
+          "lěng"
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "松",
+          "sōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "薄",
+          "bó"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "潭",
+          "tán"
+        ],
+        [
+          "曲",
+          "qū"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "安",
+          "ān"
+        ],
+        [
+          "禅",
+          "chán"
+        ],
+        [
+          "制",
+          "zhì"
+        ],
+        [
+          "毒",
+          "dú"
+        ],
+        [
+          "龙",
+          "lóng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.毒龙：喻欲念妄想。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "写景"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseWangWeiTOWARDTHETEMPLEOFHEAPEDFRAGRANCE",
+      "translationRaw": "NotknowingthewaytotheTempleofHeapedFragrance，Undermilesofmountain-cloudIhavewanderedThroughancientwoodswithoutahumantrack；ButnowontheheightIhearabell。Arilletsingsoverwindingrocks，Thesunistemperedbygreenpines。。。。Andattwilight，closetoanemptyingpool，ThoughtcanconquerthePassion-Dragon。",
+      "translationClean": "NotknowingthewaytotheTempleofHeapedFragrance, Undermilesofmountain-cloudIhavewanderedThroughancientwoodswithoutahumantrack; ButnowontheheightIhearabell. Arilletsingsoverwindingrocks, Thesunistemperedbygreenpines.... Andattwilight, closetoanemptyingpool, ThoughtcanconquerthePassion-Dragon.",
+      "segments": [
+        "NotknowingthewaytotheTempleofHeapedFragrance, Undermilesofmountain-cloudIhavewanderedThroughancientwoodswithoutahumantrack;",
+        "ButnowontheheightIhearabell.",
+        "Arilletsingsoverwindingrocks, Thesunistemperedbygreenpines....",
+        "Andattwilight, closetoanemptyingpool, ThoughtcanconquerthePassion-Dragon."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 78,
+        "title": "过香积寺",
+        "author": "王维"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 120,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 217,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "e4354c00-c83e-43da-9341-7007889dd625",
+        "score": 0.975
+      }
+    }
+  }
+}

@@ -1,0 +1,602 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-219-li-zhou-nan-du",
+    "order": 219,
+    "section": "七言律诗",
+    "title": "利洲南渡",
+    "titleTraditional": "利洲南渡",
+    "author": "温庭筠",
+    "authorTraditional": "溫庭筠",
+    "dynasty": "唐代",
+    "aliases": [
+      "利州南渡",
+      "利洲南渡"
+    ],
+    "lines": [
+      "澹然空水对斜晖，曲岛苍茫接翠微。",
+      "波上马嘶看棹去，柳边人歇待船归。",
+      "数丛沙草群鸥散，万顷江田一鹭飞。",
+      "谁解乘舟寻范蠡？",
+      "五湖烟水独忘机。"
+    ],
+    "linesTraditional": [
+      "澹然空水對斜暉，曲島蒼茫接翠微。",
+      "波上馬嘶看棹去，柳邊人歇待船歸。",
+      "數叢沙草群鷗散，萬頃江田一鷺飛。",
+      "誰解乘舟尋範蠡？",
+      "五湖煙水獨忘機。"
+    ],
+    "text": "澹然空水对斜晖，曲岛苍茫接翠微。波上马嘶看棹去，柳边人歇待船归。数丛沙草群鸥散，万顷江田一鹭飞。谁解乘舟寻范蠡？五湖烟水独忘机。",
+    "textTraditional": "澹然空水對斜暉，曲島蒼茫接翠微。波上馬嘶看棹去，柳邊人歇待船歸。數叢沙草群鷗散，萬頃江田一鷺飛。誰解乘舟尋範蠡？五湖煙水獨忘機。",
+    "displayLines": [
+      "澹然空水对斜晖，",
+      "曲岛苍茫接翠微。",
+      "波上马嘶看棹去，",
+      "柳边人歇待船归。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "澹",
+          "dàn"
+        ],
+        [
+          "然",
+          "rán"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "对",
+          "duì"
+        ],
+        [
+          "斜",
+          "xié"
+        ],
+        [
+          "晖",
+          "huī"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "曲",
+          "qū"
+        ],
+        [
+          "岛",
+          "dǎo"
+        ],
+        [
+          "苍",
+          "cāng"
+        ],
+        [
+          "茫",
+          "máng"
+        ],
+        [
+          "接",
+          "jiē"
+        ],
+        [
+          "翠",
+          "cuì"
+        ],
+        [
+          "微",
+          "wēi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "波",
+          "bō"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "嘶",
+          "sī"
+        ],
+        [
+          "看",
+          "kàn"
+        ],
+        [
+          "棹",
+          "zhào"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "柳",
+          "liǔ"
+        ],
+        [
+          "边",
+          "biān"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "歇",
+          "xiē"
+        ],
+        [
+          "待",
+          "dài"
+        ],
+        [
+          "船",
+          "chuán"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "数",
+          "shù"
+        ],
+        [
+          "丛",
+          "cóng"
+        ],
+        [
+          "沙",
+          "shā"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "群",
+          "qún"
+        ],
+        [
+          "鸥",
+          "ōu"
+        ],
+        [
+          "散",
+          "sàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "顷",
+          "qǐng"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "田",
+          "tián"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "鹭",
+          "lù"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "谁",
+          "shuí"
+        ],
+        [
+          "解",
+          "jiě"
+        ],
+        [
+          "乘",
+          "chéng"
+        ],
+        [
+          "舟",
+          "zhōu"
+        ],
+        [
+          "寻",
+          "xún"
+        ],
+        [
+          "范",
+          "fàn"
+        ],
+        [
+          "蠡",
+          "lǐ"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "澹",
+          "dàn"
+        ],
+        [
+          "然",
+          "rán"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "对",
+          "duì"
+        ],
+        [
+          "斜",
+          "xié"
+        ],
+        [
+          "晖",
+          "huī"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "曲",
+          "qū"
+        ],
+        [
+          "岛",
+          "dǎo"
+        ],
+        [
+          "苍",
+          "cāng"
+        ],
+        [
+          "茫",
+          "máng"
+        ],
+        [
+          "接",
+          "jiē"
+        ],
+        [
+          "翠",
+          "cuì"
+        ],
+        [
+          "微",
+          "wēi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "波",
+          "bō"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "嘶",
+          "sī"
+        ],
+        [
+          "看",
+          "kàn"
+        ],
+        [
+          "棹",
+          "zhào"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "柳",
+          "liǔ"
+        ],
+        [
+          "边",
+          "biān"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "歇",
+          "xiē"
+        ],
+        [
+          "待",
+          "dài"
+        ],
+        [
+          "船",
+          "chuán"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "数",
+          "shù"
+        ],
+        [
+          "丛",
+          "cóng"
+        ],
+        [
+          "沙",
+          "shā"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "群",
+          "qún"
+        ],
+        [
+          "鸥",
+          "ōu"
+        ],
+        [
+          "散",
+          "sàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "顷",
+          "qǐng"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "田",
+          "tián"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "鹭",
+          "lù"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "谁",
+          "shuí"
+        ],
+        [
+          "解",
+          "jiě"
+        ],
+        [
+          "乘",
+          "chéng"
+        ],
+        [
+          "舟",
+          "zhōu"
+        ],
+        [
+          "寻",
+          "xún"
+        ],
+        [
+          "范",
+          "fàn"
+        ],
+        [
+          "蠡",
+          "lǐ"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "五",
+          "wǔ"
+        ],
+        [
+          "湖",
+          "hú"
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "忘",
+          "wàng"
+        ],
+        [
+          "机",
+          "jī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.翠微：山气。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.范蠡：春秋时佐越王灭吴后，归隐乘舟泛于五湖。"
+      }
+    ],
+    "tags": [
+      "七言律诗",
+      "抒怀",
+      "渡江",
+      "山水"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-regular-verseWenTingyunNEARTHELIZHOUFERRY",
+      "translationRaw": "Thesunhassetinthewater』sclearvoid，Andlittleblueislandsareonewiththesky。Onthebankahorseneighs。Aboatgoesby。Peoplegatheratawillow-clumpandwaitfortheferry。Downbythesand-bushessea-gullsarecircling，Overthewideriver-landsfliesanegret。。。。CanyouguesswhyIsail，likeanancientwiselover，ThroughthemistyFiveLakes，forgettingwords？",
+      "translationClean": "Thesunhassetinthewater'sclearvoid, Andlittleblueislandsareonewiththesky. Onthebankahorseneighs. Aboatgoesby. Peoplegatheratawillow-clumpandwaitfortheferry. Downbythesand-bushessea-gullsarecircling, Overthewideriver-landsfliesanegret.... CanyouguesswhyIsail, likeanancientwiselover, ThroughthemistyFiveLakes, forgettingwords?",
+      "segments": [
+        "Thesunhassetinthewater'sclearvoid, Andlittleblueislandsareonewiththesky.",
+        "Onthebankahorseneighs.",
+        "Aboatgoesby.",
+        "Peoplegatheratawillow-clumpandwaitfortheferry.",
+        "Downbythesand-bushessea-gullsarecircling, Overthewideriver-landsfliesanegret....",
+        "CanyouguesswhyIsail, likeanancientwiselover, ThroughthemistyFiveLakes, forgettingwords?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 74,
+        "title": "利州南渡",
+        "author": "温庭筠"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9575
+      },
+      "ctext": {
+        "matched": true,
+        "order": 219,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 316,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "ac97d42b-8fef-42c9-829f-baafe89b4cdc",
+        "score": 0.9821
+      }
+    }
+  }
+}

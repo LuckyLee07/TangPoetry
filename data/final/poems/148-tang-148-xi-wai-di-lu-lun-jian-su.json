@@ -1,0 +1,498 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-148-xi-wai-di-lu-lun-jian-su",
+    "order": 148,
+    "section": "五言律诗",
+    "title": "喜外弟卢纶见宿",
+    "titleTraditional": "喜外弟盧綸見宿",
+    "author": "司空曙",
+    "authorTraditional": "司空曙",
+    "dynasty": "唐代",
+    "aliases": [
+      "喜外弟卢纶见宿"
+    ],
+    "lines": [
+      "静夜四无邻，荒居旧业贫。",
+      "雨中黄叶树，灯下白头人。",
+      "以我独沉久，愧君相访频。",
+      "平生自有分，况是蔡家亲。"
+    ],
+    "linesTraditional": [
+      "靜夜四無鄰，荒居舊業貧。",
+      "雨中黃葉樹，燈下白頭人。",
+      "以我獨沉久，愧君相訪頻。",
+      "平生自有分，況是蔡家親。"
+    ],
+    "text": "静夜四无邻，荒居旧业贫。雨中黄叶树，灯下白头人。以我独沉久，愧君相访频。平生自有分，况是蔡家亲。",
+    "textTraditional": "靜夜四無鄰，荒居舊業貧。雨中黃葉樹，燈下白頭人。以我獨沉久，愧君相訪頻。平生自有分，況是蔡家親。",
+    "displayLines": [
+      "静夜四无邻，",
+      "荒居旧业贫。",
+      "雨中黄叶树，",
+      "灯下白头人。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "静",
+          "jìng"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "四",
+          "sì"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "邻",
+          "lín"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "荒",
+          "huāng"
+        ],
+        [
+          "居",
+          "jū"
+        ],
+        [
+          "旧",
+          "jiù"
+        ],
+        [
+          "业",
+          "yè"
+        ],
+        [
+          "贫",
+          "pín"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "叶",
+          "yè"
+        ],
+        [
+          "树",
+          "shù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "灯",
+          "dēng"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "头",
+          "tóu"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "以",
+          "yǐ"
+        ],
+        [
+          "我",
+          "wǒ"
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "沉",
+          "chén"
+        ],
+        [
+          "久",
+          "jiǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "愧",
+          "kuì"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "访",
+          "fǎng"
+        ],
+        [
+          "频",
+          "pín"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "平",
+          "píng"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "分",
+          "fēn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "况",
+          "kuàng"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "蔡",
+          "cài"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "亲",
+          "qīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "静",
+          "jìng"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "四",
+          "sì"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "邻",
+          "lín"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "荒",
+          "huāng"
+        ],
+        [
+          "居",
+          "jū"
+        ],
+        [
+          "旧",
+          "jiù"
+        ],
+        [
+          "业",
+          "yè"
+        ],
+        [
+          "贫",
+          "pín"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "叶",
+          "yè"
+        ],
+        [
+          "树",
+          "shù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "灯",
+          "dēng"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "头",
+          "tóu"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "以",
+          "yǐ"
+        ],
+        [
+          "我",
+          "wǒ"
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "沉",
+          "chén"
+        ],
+        [
+          "久",
+          "jiǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "愧",
+          "kuì"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "访",
+          "fǎng"
+        ],
+        [
+          "频",
+          "pín"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "平",
+          "píng"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "分",
+          "fēn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "况",
+          "kuàng"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "蔡",
+          "cài"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "亲",
+          "qīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.白头人：年老之人。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.霍家亲：汉霍去病为卫青的姊夫，故以霍家亲称表亲。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "生活",
+      "年老"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseSikongShuWHENLULUNMYCOUSINCOMESFORTHENIGHT",
+      "translationRaw": "Withnootherneighbourbutthequietnight，HereIliveinthesameoldcottage；Andasraindropsbrightenyellowleaves，Thelampilluminesmywhitehead。。。。Outoftheworldthesemanyyears，Iamashamedtoreceiveyouhere。Butyoucannotcometoooften，Morethanbrother，lifelongfriend。",
+      "translationClean": "Withnootherneighbourbutthequietnight, HereIliveinthesameoldcottage; Andasraindropsbrightenyellowleaves, Thelampilluminesmywhitehead.... Outoftheworldthesemanyyears, Iamashamedtoreceiveyouhere. Butyoucannotcometoooften, Morethanbrother, lifelongfriend.",
+      "segments": [
+        "Withnootherneighbourbutthequietnight, HereIliveinthesameoldcottage;",
+        "Andasraindropsbrightenyellowleaves, Thelampilluminesmywhitehead....",
+        "Outoftheworldthesemanyyears, Iamashamedtoreceiveyouhere.",
+        "Butyoucannotcometoooften, Morethanbrother, lifelongfriend."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 148,
+        "title": "喜外弟卢纶见宿",
+        "author": "司空曙"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9805
+      },
+      "ctext": {
+        "matched": true,
+        "order": 148,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 245,
+        "score": 0.95,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "f0cd6afd-c89d-4fc3-b214-bcbf63042e8e",
+        "score": 0.975
+      }
+    }
+  }
+}

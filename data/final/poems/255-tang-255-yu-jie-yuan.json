@@ -1,0 +1,289 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-255-yu-jie-yuan",
+    "order": 255,
+    "section": "乐府",
+    "title": "玉阶怨",
+    "titleTraditional": "玉階怨",
+    "author": "李白",
+    "authorTraditional": "李白",
+    "dynasty": "唐代",
+    "aliases": [
+      "玉阶怨"
+    ],
+    "lines": [
+      "玉阶生白露，夜久侵罗袜。",
+      "却下水晶帘，玲珑望秋月。"
+    ],
+    "linesTraditional": [
+      "玉階生白露，夜久侵羅襪。",
+      "卻下水晶簾，玲瓏望秋月。"
+    ],
+    "text": "玉阶生白露，夜久侵罗袜。却下水晶帘，玲珑望秋月。",
+    "textTraditional": "玉階生白露，夜久侵羅襪。卻下水晶簾，玲瓏望秋月。",
+    "displayLines": [
+      "玉阶生白露，",
+      "夜久侵罗袜。",
+      "却下水晶帘，",
+      "玲珑望秋月。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "阶",
+          "jiē"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "露",
+          "lù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "久",
+          "jiǔ"
+        ],
+        [
+          "侵",
+          "qīn"
+        ],
+        [
+          "罗",
+          "luó"
+        ],
+        [
+          "袜",
+          "wà"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "却",
+          "què"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "晶",
+          "jīng"
+        ],
+        [
+          "帘",
+          "lián"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "玲",
+          "líng"
+        ],
+        [
+          "珑",
+          "lóng"
+        ],
+        [
+          "望",
+          "wàng"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "阶",
+          "jiē"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "露",
+          "lù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "久",
+          "jiǔ"
+        ],
+        [
+          "侵",
+          "qīn"
+        ],
+        [
+          "罗",
+          "luó"
+        ],
+        [
+          "袜",
+          "wà"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "却",
+          "què"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "晶",
+          "jīng"
+        ],
+        [
+          "帘",
+          "lián"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "玲",
+          "líng"
+        ],
+        [
+          "珑",
+          "lóng"
+        ],
+        [
+          "望",
+          "wàng"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "水晶--一作 水精"
+      }
+    ],
+    "tags": [
+      "乐府",
+      "孤独",
+      "宫怨"
+    ],
+    "english": {
+      "headingRaw": "Folk-song-styled-verseLiBaiASIGHFROMASTAIRCASEOFJADE",
+      "translationRaw": "Herjade-whitestaircaseiscoldwithdew；Hersilksolesarewet，shelingeredtheresolong。。。。Behindherclosedcasement，whyisshestillwaiting，Watchingthroughitscrystalpanetheglowoftheautumnmoon？",
+      "translationClean": "Herjade-whitestaircaseiscoldwithdew; Hersilksolesarewet, shelingeredtheresolong.... Behindherclosedcasement, whyisshestillwaiting, Watchingthroughitscrystalpanetheglowoftheautumnmoon?",
+      "segments": [
+        "Herjade-whitestaircaseiscoldwithdew;",
+        "Hersilksolesarewet, shelingeredtheresolong....",
+        "Behindherclosedcasement, whyisshestillwaiting, Watchingthroughitscrystalpanetheglowoftheautumnmoon?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 296,
+        "title": "玉阶怨",
+        "author": "李白"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 255,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 101,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "a65e5646-14b1-4f75-924b-bbf262b242d7",
+        "score": 1
+      }
+    }
+  }
+}

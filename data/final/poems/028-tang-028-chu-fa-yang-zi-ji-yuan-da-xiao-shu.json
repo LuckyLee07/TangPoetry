@@ -1,0 +1,526 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-028-chu-fa-yang-zi-ji-yuan-da-xiao-shu",
+    "order": 28,
+    "section": "五言古诗",
+    "title": "初发扬子寄元大校书",
+    "titleTraditional": "初發揚子寄元大校書",
+    "author": "韦应物",
+    "authorTraditional": "韋應物",
+    "dynasty": "唐代",
+    "aliases": [
+      "初发扬子寄元大校书"
+    ],
+    "lines": [
+      "凄凄去亲爱，泛泛入烟雾；",
+      "归棹洛阳人，残钟广陵树。",
+      "今朝为此别，何处还相遇？",
+      "世事波上舟，沿洄安得住。"
+    ],
+    "linesTraditional": [
+      "悽悽去親愛，泛泛入煙霧；",
+      "歸棹洛陽人，殘鐘廣陵樹。",
+      "今朝為此別，何處還相遇？",
+      "世事波上舟，沿洄安得住。"
+    ],
+    "text": "凄凄去亲爱，泛泛入烟雾；归棹洛阳人，残钟广陵树。今朝为此别，何处还相遇？世事波上舟，沿洄安得住。",
+    "textTraditional": "悽悽去親愛，泛泛入煙霧；歸棹洛陽人，殘鐘廣陵樹。今朝為此別，何處還相遇？世事波上舟，沿洄安得住。",
+    "displayLines": [
+      "凄凄去亲爱，",
+      "泛泛入烟雾；",
+      "归棹洛阳人，",
+      "残钟广陵树。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "凄",
+          "qī"
+        ],
+        [
+          "凄",
+          "qī"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "亲",
+          "qīn"
+        ],
+        [
+          "爱",
+          "ài"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "泛",
+          "fàn"
+        ],
+        [
+          "泛",
+          "fàn"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "雾",
+          "wù"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "棹",
+          "zhào"
+        ],
+        [
+          "洛",
+          "luò"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "残",
+          "cán"
+        ],
+        [
+          "钟",
+          "zhōng"
+        ],
+        [
+          "广",
+          "guǎng"
+        ],
+        [
+          "陵",
+          "líng"
+        ],
+        [
+          "树",
+          "shù"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "朝",
+          "zhāo"
+        ],
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "遇",
+          "yù"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "世",
+          "shì"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "波",
+          "bō"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "舟",
+          "zhōu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "沿",
+          "yán"
+        ],
+        [
+          "洄",
+          "huí"
+        ],
+        [
+          "安",
+          "ān"
+        ],
+        [
+          "得",
+          "dé"
+        ],
+        [
+          "住",
+          "zhù"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "凄",
+          "qī"
+        ],
+        [
+          "凄",
+          "qī"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "亲",
+          "qīn"
+        ],
+        [
+          "爱",
+          "ài"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "泛",
+          "fàn"
+        ],
+        [
+          "泛",
+          "fàn"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "雾",
+          "wù"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "棹",
+          "zhào"
+        ],
+        [
+          "洛",
+          "luò"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "残",
+          "cán"
+        ],
+        [
+          "钟",
+          "zhōng"
+        ],
+        [
+          "广",
+          "guǎng"
+        ],
+        [
+          "陵",
+          "líng"
+        ],
+        [
+          "树",
+          "shù"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "朝",
+          "zhāo"
+        ],
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "遇",
+          "yù"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "世",
+          "shì"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "波",
+          "bō"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "舟",
+          "zhōu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "沿",
+          "yán"
+        ],
+        [
+          "洄",
+          "huí"
+        ],
+        [
+          "安",
+          "ān"
+        ],
+        [
+          "得",
+          "dé"
+        ],
+        [
+          "住",
+          "zhù"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.泛泛：上浮、轻轻。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.洄：音\"回\"，逆流而上。"
+      }
+    ],
+    "tags": [
+      "五言古诗",
+      "离别",
+      "依恋"
+    ],
+    "english": {
+      "headingRaw": "Five-character-ancient-verseWeiYingwuSETTINGSAILONTHEYANGZITOSECRETARYYUAN",
+      "translationRaw": "Wistful，awayfrommyfriendsandkin，ThroughmistandfogIfloatandfloatWiththesailthatbearsmetowardLoyang。InYangzhoutreeslingerbell-notesofevening，Markingthedayandtheplaceofourparting。。。。Whenshallwemeetagainandwhere？。。。Destinyisaboatonthewaves，Bornetoandfro，beyondourwill。",
+      "translationClean": "Wistful, awayfrommyfriendsandkin, ThroughmistandfogIfloatandfloatWiththesailthatbearsmetowardLoyang. InYangzhoutreeslingerbell-notesofevening, Markingthedayandtheplaceofourparting.... Whenshallwemeetagainandwhere? . . . Destinyisaboatonthewaves, Bornetoandfro, beyondourwill.",
+      "segments": [
+        "Wistful, awayfrommyfriendsandkin, ThroughmistandfogIfloatandfloatWiththesailthatbearsmetowardLoyang.",
+        "InYangzhoutreeslingerbell-notesofevening, Markingthedayandtheplaceofourparting....",
+        "Whenshallwemeetagainandwhere?",
+        ".",
+        ".",
+        ".",
+        "Destinyisaboatonthewaves, Bornetoandfro, beyondourwill."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 192,
+        "title": "初发扬子寄元大校书",
+        "author": "韦应物"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9805
+      },
+      "ctext": {
+        "matched": true,
+        "order": 28,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 28,
+        "score": 0.975,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "5b3a5651-2a80-4fb1-b1bf-c9fb5ec38905",
+        "score": 1
+      }
+    },
+    "visual": {
+      "image": "assets/illustrations-wuyan-gushi/028-tang-028-chu-fa-yang-zi-ji-yuan-da-xiao-shu.png",
+      "coreImagery": [
+        "扬子江雾",
+        "归棹",
+        "残钟",
+        "广陵树"
+      ],
+      "mood": [
+        "离别",
+        "茫然",
+        "清远"
+      ],
+      "palette": [
+        "江青",
+        "雾白",
+        "钟铜",
+        "树绿"
+      ],
+      "composition": "雾中归棹渐远，岸边树影和钟声都被江色化淡。",
+      "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+      "prompt": "初发扬子寄元大校书，韦应物。核心意象：扬子江雾、归棹、残钟、广陵树；情绪：离别、茫然、清远。雾中归棹渐远，岸边树影和钟声都被江色化淡。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+      "generatedAt": "2026-05-10T15:05:28+00:00",
+      "generator": "procedural-watercolor"
+    }
+  }
+}

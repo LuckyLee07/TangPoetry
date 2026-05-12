@@ -1,0 +1,292 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-231-su-jian-de-jiang",
+    "order": 231,
+    "section": "五言绝句",
+    "title": "宿建德江",
+    "titleTraditional": "宿建德江",
+    "author": "孟浩然",
+    "authorTraditional": "孟浩然",
+    "dynasty": "唐代",
+    "aliases": [
+      "宿建德江"
+    ],
+    "lines": [
+      "移舟泊烟渚，日暮客愁新。",
+      "野旷天低树，江清月近人。"
+    ],
+    "linesTraditional": [
+      "移舟泊煙渚，日暮客愁新。",
+      "野曠天低樹，江清月近人。"
+    ],
+    "text": "移舟泊烟渚，日暮客愁新。野旷天低树，江清月近人。",
+    "textTraditional": "移舟泊煙渚，日暮客愁新。野曠天低樹，江清月近人。",
+    "displayLines": [
+      "移舟泊烟渚，",
+      "日暮客愁新。",
+      "野旷天低树，",
+      "江清月近人。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "移",
+          "yí"
+        ],
+        [
+          "舟",
+          "zhōu"
+        ],
+        [
+          "泊",
+          "pō"
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "渚",
+          "zhǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "愁",
+          "chóu"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "野",
+          "yě"
+        ],
+        [
+          "旷",
+          "kuàng"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "低",
+          "dī"
+        ],
+        [
+          "树",
+          "shù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "近",
+          "jìn"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "移",
+          "yí"
+        ],
+        [
+          "舟",
+          "zhōu"
+        ],
+        [
+          "泊",
+          "pō"
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "渚",
+          "zhǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "愁",
+          "chóu"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "野",
+          "yě"
+        ],
+        [
+          "旷",
+          "kuàng"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "低",
+          "dī"
+        ],
+        [
+          "树",
+          "shù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "近",
+          "jìn"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.烟渚：烟雾笼罩著的小洲。"
+      }
+    ],
+    "tags": [
+      "五言绝句",
+      "描写水",
+      "写景",
+      "思乡",
+      "水",
+      "月亮",
+      "写水"
+    ],
+    "english": {
+      "headingRaw": "Five-character-quatrainMengHaoranANIGHT-MOORINGONTHEJIANDERIVER",
+      "translationRaw": "Whilemylittleboatmovesonitsmooringofmist，Anddaylightwanes，oldmemoriesbegin。。。。Howwidetheworldwas，howclosethetreestoheaven，Andhowclearinthewaterthenearnessofthemoon！",
+      "translationClean": "Whilemylittleboatmovesonitsmooringofmist, Anddaylightwanes, oldmemoriesbegin.... Howwidetheworldwas, howclosethetreestoheaven, Andhowclearinthewaterthenearnessofthemoon!",
+      "segments": [
+        "Whilemylittleboatmovesonitsmooringofmist, Anddaylightwanes, oldmemoriesbegin....",
+        "Howwidetheworldwas, howclosethetreestoheaven, Andhowclearinthewaterthenearnessofthemoon!"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 133,
+        "title": "宿建德江",
+        "author": "孟浩然"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 231,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 97,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "0bed9b02-991e-4e28-b631-86640147a712",
+        "score": 1
+      }
+    }
+  }
+}

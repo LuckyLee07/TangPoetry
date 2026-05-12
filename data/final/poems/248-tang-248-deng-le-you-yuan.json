@@ -1,0 +1,283 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-248-deng-le-you-yuan",
+    "order": 248,
+    "section": "五言绝句",
+    "title": "登乐游原",
+    "titleTraditional": "登樂遊原",
+    "author": "李商隐",
+    "authorTraditional": "李商隱",
+    "dynasty": "唐代",
+    "aliases": [
+      "乐游原 / 登乐游原",
+      "登乐游原"
+    ],
+    "lines": [
+      "向晚意不适，驱车登古原。",
+      "夕阳无限好，只是近黄昏。"
+    ],
+    "linesTraditional": [
+      "向晚意不適，驅車登古原。",
+      "夕陽無限好，只是近黃昏。"
+    ],
+    "text": "向晚意不适，驱车登古原。夕阳无限好，只是近黄昏。",
+    "textTraditional": "向晚意不適，驅車登古原。夕陽無限好，只是近黃昏。",
+    "displayLines": [
+      "向晚意不适，",
+      "驱车登古原。",
+      "夕阳无限好，",
+      "只是近黄昏。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "向",
+          "xiàng"
+        ],
+        [
+          "晚",
+          "wǎn"
+        ],
+        [
+          "意",
+          "yì"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "适",
+          "shì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "驱",
+          "qū"
+        ],
+        [
+          "车",
+          "chē"
+        ],
+        [
+          "登",
+          "dēng"
+        ],
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "原",
+          "yuán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "夕",
+          "xī"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "限",
+          "xiàn"
+        ],
+        [
+          "好",
+          "hǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "只",
+          "zhǐ"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "近",
+          "jìn"
+        ],
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "昏",
+          "hūn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "向",
+          "xiàng"
+        ],
+        [
+          "晚",
+          "wǎn"
+        ],
+        [
+          "意",
+          "yì"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "适",
+          "shì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "驱",
+          "qū"
+        ],
+        [
+          "车",
+          "chē"
+        ],
+        [
+          "登",
+          "dēng"
+        ],
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "原",
+          "yuán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "夕",
+          "xī"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "限",
+          "xiàn"
+        ],
+        [
+          "好",
+          "hǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "只",
+          "zhǐ"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "近",
+          "jìn"
+        ],
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "昏",
+          "hūn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言绝句",
+      "惜时",
+      "哲理"
+    ],
+    "english": {
+      "headingRaw": "Five-character-quatrainLiShangyinTHELEYOUTOMBS",
+      "translationRaw": "WithtwilightshadowsinmyheartIhavedrivenupamongtheLeyouTombsToseethesun，forallhisglory，Buriedbythecomingnight。",
+      "translationClean": "WithtwilightshadowsinmyheartIhavedrivenupamongtheLeyouTombsToseethesun, forallhisglory, Buriedbythecomingnight.",
+      "segments": [
+        "WithtwilightshadowsinmyheartIhavedrivenupamongtheLeyouTombsToseethesun, forallhisglory, Buriedbythecomingnight."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 291,
+        "title": "乐游原 / 登乐游原",
+        "author": "李商隐"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 248,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 115,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "d7c6d072-6e84-482e-856a-5a4c21226a3c",
+        "score": 1
+      }
+    }
+  }
+}

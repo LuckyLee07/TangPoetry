@@ -1,0 +1,287 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-234-yuan-qing",
+    "order": 234,
+    "section": "五言绝句",
+    "title": "怨情",
+    "titleTraditional": "怨情",
+    "author": "李白",
+    "authorTraditional": "李白",
+    "dynasty": "唐代",
+    "aliases": [
+      "怨情"
+    ],
+    "lines": [
+      "美人卷珠帘，深坐蹙蛾眉。",
+      "但见泪痕湿，不知心恨谁。"
+    ],
+    "linesTraditional": [
+      "美人捲珠簾，深坐蹙蛾眉。",
+      "但見淚痕濕，不知心恨誰。"
+    ],
+    "text": "美人卷珠帘，深坐蹙蛾眉。但见泪痕湿，不知心恨谁。",
+    "textTraditional": "美人捲珠簾，深坐蹙蛾眉。但見淚痕濕，不知心恨誰。",
+    "displayLines": [
+      "美人卷珠帘，",
+      "深坐蹙蛾眉。",
+      "但见泪痕湿，",
+      "不知心恨谁。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "美",
+          "měi"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "卷",
+          "juǎn"
+        ],
+        [
+          "珠",
+          "zhū"
+        ],
+        [
+          "帘",
+          "lián"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "坐",
+          "zuò"
+        ],
+        [
+          "蹙",
+          "cù"
+        ],
+        [
+          "蛾",
+          "é"
+        ],
+        [
+          "眉",
+          "méi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "但",
+          "dàn"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "痕",
+          "hén"
+        ],
+        [
+          "湿",
+          "shī"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "恨",
+          "hèn"
+        ],
+        [
+          "谁",
+          "shuí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "美",
+          "měi"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "卷",
+          "juǎn"
+        ],
+        [
+          "珠",
+          "zhū"
+        ],
+        [
+          "帘",
+          "lián"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "坐",
+          "zuò"
+        ],
+        [
+          "蹙",
+          "cù"
+        ],
+        [
+          "蛾",
+          "é"
+        ],
+        [
+          "眉",
+          "méi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "但",
+          "dàn"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "痕",
+          "hén"
+        ],
+        [
+          "湿",
+          "shī"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "恨",
+          "hèn"
+        ],
+        [
+          "谁",
+          "shuí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "颦--一作 ：蹙"
+      }
+    ],
+    "tags": [
+      "五言绝句",
+      "女子"
+    ],
+    "english": {
+      "headingRaw": "Five-character-quatrainLiBaiABITTERLOVE",
+      "translationRaw": "Howbeautifulshelooks，openingthepearlycasement，Andhowquietsheleans，andhowtroubledherbrowis！Youmayseethetearsnow，brightonhercheek，Butnotthemanshesobitterlyloves。",
+      "translationClean": "Howbeautifulshelooks, openingthepearlycasement, Andhowquietsheleans, andhowtroubledherbrowis! Youmayseethetearsnow, brightonhercheek, Butnotthemanshesobitterlyloves.",
+      "segments": [
+        "Howbeautifulshelooks, openingthepearlycasement, Andhowquietsheleans, andhowtroubledherbrowis!",
+        "Youmayseethetearsnow, brightonhercheek, Butnotthemanshesobitterlyloves."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 137,
+        "title": "怨情",
+        "author": "李白"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.961
+      },
+      "ctext": {
+        "matched": true,
+        "order": 234,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 100,
+        "score": 0.95,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "22e72306-f41c-4621-a925-83bab7f9d76e",
+        "score": 1
+      }
+    }
+  }
+}

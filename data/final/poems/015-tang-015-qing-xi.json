@@ -1,0 +1,649 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-015-qing-xi",
+    "order": 15,
+    "section": "五言古诗",
+    "title": "青谿",
+    "titleTraditional": "青谿",
+    "author": "王维",
+    "authorTraditional": "王維",
+    "dynasty": "唐代",
+    "aliases": [
+      "青溪 / 过青溪水作",
+      "青谿"
+    ],
+    "lines": [
+      "言入黄花川，每逐青谿水；",
+      "随山将万转，趣途无百里。",
+      "声喧乱石中，色静深松里；",
+      "漾漾泛菱荇，澄澄映葭苇。",
+      "我心素已闲，清川澹如此。",
+      "请留盘石上，垂钓将已矣！"
+    ],
+    "linesTraditional": [
+      "言入黃花川，每逐青谿水；",
+      "隨山將萬轉，趣途無百里。",
+      "聲喧亂石中，色靜深松裡；",
+      "漾漾汎菱荇，澄澄映葭葦。",
+      "我心素已閒，清川澹如此。",
+      "請留盤石上，垂釣將已矣！"
+    ],
+    "text": "言入黄花川，每逐青谿水；随山将万转，趣途无百里。声喧乱石中，色静深松里；漾漾泛菱荇，澄澄映葭苇。我心素已闲，清川澹如此。请留盘石上，垂钓将已矣！",
+    "textTraditional": "言入黃花川，每逐青谿水；隨山將萬轉，趣途無百里。聲喧亂石中，色靜深松裡；漾漾汎菱荇，澄澄映葭葦。我心素已閒，清川澹如此。請留盤石上，垂釣將已矣！",
+    "displayLines": [
+      "言入黄花川，",
+      "每逐青谿水；",
+      "随山将万转，",
+      "趣途无百里。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "言",
+          "yán"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "川",
+          "chuān"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "每",
+          "měi"
+        ],
+        [
+          "逐",
+          "zhú"
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "谿",
+          "xī"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "随",
+          "suí"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "将",
+          "jiāng"
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "转",
+          "zhuǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "趣",
+          "qù"
+        ],
+        [
+          "途",
+          "tú"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "百",
+          "bǎi"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "喧",
+          "xuān"
+        ],
+        [
+          "乱",
+          "luàn"
+        ],
+        [
+          "石",
+          "shí"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "静",
+          "jìng"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "松",
+          "sōng"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "漾",
+          "yàng"
+        ],
+        [
+          "漾",
+          "yàng"
+        ],
+        [
+          "泛",
+          "fàn"
+        ],
+        [
+          "菱",
+          "líng"
+        ],
+        [
+          "荇",
+          "xìng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "澄",
+          "chéng"
+        ],
+        [
+          "澄",
+          "chéng"
+        ],
+        [
+          "映",
+          "yìng"
+        ],
+        [
+          "葭",
+          "jiā"
+        ],
+        [
+          "苇",
+          "wěi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "言",
+          "yán"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "川",
+          "chuān"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "每",
+          "měi"
+        ],
+        [
+          "逐",
+          "zhú"
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "谿",
+          "xī"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "随",
+          "suí"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "将",
+          "jiāng"
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "转",
+          "zhuǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "趣",
+          "qù"
+        ],
+        [
+          "途",
+          "tú"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "百",
+          "bǎi"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "喧",
+          "xuān"
+        ],
+        [
+          "乱",
+          "luàn"
+        ],
+        [
+          "石",
+          "shí"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "静",
+          "jìng"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "松",
+          "sōng"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "漾",
+          "yàng"
+        ],
+        [
+          "漾",
+          "yàng"
+        ],
+        [
+          "泛",
+          "fàn"
+        ],
+        [
+          "菱",
+          "líng"
+        ],
+        [
+          "荇",
+          "xìng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "澄",
+          "chéng"
+        ],
+        [
+          "澄",
+          "chéng"
+        ],
+        [
+          "映",
+          "yìng"
+        ],
+        [
+          "葭",
+          "jiā"
+        ],
+        [
+          "苇",
+          "wěi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "我",
+          "wǒ"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "素",
+          "sù"
+        ],
+        [
+          "已",
+          "yǐ"
+        ],
+        [
+          "闲",
+          "xián"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "川",
+          "chuān"
+        ],
+        [
+          "澹",
+          "dàn"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "请",
+          "qǐng"
+        ],
+        [
+          "留",
+          "liú"
+        ],
+        [
+          "盘",
+          "pán"
+        ],
+        [
+          "石",
+          "shí"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "垂",
+          "chuí"
+        ],
+        [
+          "钓",
+          "diào"
+        ],
+        [
+          "将",
+          "jiāng"
+        ],
+        [
+          "已",
+          "yǐ"
+        ],
+        [
+          "矣",
+          "yǐ"
+        ],
+        [
+          "！",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "磐石--一作 ：盘石"
+      },
+      {
+        "source": "chiuinan",
+        "text": "：1.青谿：溪名。谿，音\"七\"，亦可读作\"溪\"，通溪字。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.趣：同趋。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "3.漾漾：水面轻荡。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "4.菱荇：菱角和荇菜，均浮生水面。荇，音\"姓\"。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "5.澄澄：清明。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "6.葭苇：芦草，小谓葭，大谓苇。"
+      }
+    ],
+    "tags": [
+      "五言古诗",
+      "托物寄情",
+      "山水"
+    ],
+    "english": {
+      "headingRaw": "Five-character-quatrainWangWeiAGREENSTREAM",
+      "translationRaw": "IhavesailedtheRiverofYellowFlowers，Bornebythechannelofagreenstream，RoundingtenthousandturnsthroughthemountainsOnajourneyoflessthanthirtymiles。。。。Rapidshumoverheapedrocks；Butwherelightgrowsdiminthethickpines，Thesurfaceofaninletswayswithnut-hornsAndweedsarelushalongthebanks。。。。DowninmyheartIhavealwaysbeenaspureAsthislimpidwateris。。。。Oh，toremainonabroadflatrockAndtocastafishing-lineforever！",
+      "translationClean": "IhavesailedtheRiverofYellowFlowers, Bornebythechannelofagreenstream, RoundingtenthousandturnsthroughthemountainsOnajourneyoflessthanthirtymiles.... Rapidshumoverheapedrocks; Butwherelightgrowsdiminthethickpines, Thesurfaceofaninletswayswithnut-hornsAndweedsarelushalongthebanks.... DowninmyheartIhavealwaysbeenaspureAsthislimpidwateris.... Oh, toremainonabroadflatrockAndtocastafishing-lineforever!",
+      "segments": [
+        "IhavesailedtheRiverofYellowFlowers, Bornebythechannelofagreenstream, RoundingtenthousandturnsthroughthemountainsOnajourneyoflessthanthirtymiles....",
+        "Rapidshumoverheapedrocks;",
+        "Butwherelightgrowsdiminthethickpines, Thesurfaceofaninletswayswithnut-hornsAndweedsarelushalongthebanks....",
+        "DowninmyheartIhavealwaysbeenaspureAsthislimpidwateris....",
+        "Oh, toremainonabroadflatrockAndtocastafishing-lineforever!"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 72,
+        "title": "青溪 / 过青溪水作",
+        "author": "王维"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.876
+      },
+      "ctext": {
+        "matched": true,
+        "order": 15,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 15,
+        "score": 0.95,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "a0576d39-c4ac-4608-a4e2-249b6c31fd1d",
+        "score": 0.95
+      }
+    },
+    "visual": {
+      "image": "assets/illustrations-wuyan-gushi/015-tang-015-qing-xi.png",
+      "coreImagery": [
+        "青溪",
+        "乱石",
+        "松林",
+        "菱荇"
+      ],
+      "mood": [
+        "清幽",
+        "自在",
+        "澄澈"
+      ],
+      "palette": [
+        "溪青",
+        "松绿",
+        "石灰",
+        "水白"
+      ],
+      "composition": "溪水绕乱石流过，松影落在水面，菱荇在前景轻轻漂浮。",
+      "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+      "prompt": "青谿，王维。核心意象：青溪、乱石、松林、菱荇；情绪：清幽、自在、澄澈。溪水绕乱石流过，松影落在水面，菱荇在前景轻轻漂浮。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+      "generatedAt": "2026-05-10T15:05:28+00:00",
+      "generator": "procedural-watercolor"
+    }
+  }
+}

@@ -1,0 +1,477 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-030-chang-an-yu-feng-zhu",
+    "order": 30,
+    "section": "五言古诗",
+    "title": "长安遇冯著",
+    "titleTraditional": "長安遇馮著",
+    "author": "韦应物",
+    "authorTraditional": "韋應物",
+    "dynasty": "唐代",
+    "aliases": [
+      "长安遇冯著"
+    ],
+    "lines": [
+      "客从东方来，衣上灞陵雨。",
+      "问客何为来？",
+      "采山因买斧。",
+      "冥冥花正开，飏飏燕新乳。",
+      "昨别今已春，鬓丝生几缕。"
+    ],
+    "linesTraditional": [
+      "客從東方來，衣上灞陵雨。",
+      "問客何為來？",
+      "採山因買斧。",
+      "冥冥花正開，颺颺燕新乳。",
+      "昨別今已春，鬢絲生幾縷。"
+    ],
+    "text": "客从东方来，衣上灞陵雨。问客何为来？采山因买斧。冥冥花正开，飏飏燕新乳。昨别今已春，鬓丝生几缕。",
+    "textTraditional": "客從東方來，衣上灞陵雨。問客何為來？採山因買斧。冥冥花正開，颺颺燕新乳。昨別今已春，鬢絲生幾縷。",
+    "displayLines": [
+      "客从东方来，",
+      "衣上灞陵雨。",
+      "问客何为来？",
+      "采山因买斧。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "从",
+          "cóng"
+        ],
+        [
+          "东",
+          "dōng"
+        ],
+        [
+          "方",
+          "fāng"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "衣",
+          "yī"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "灞",
+          "bà"
+        ],
+        [
+          "陵",
+          "líng"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "采",
+          "cǎi"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "因",
+          "yīn"
+        ],
+        [
+          "买",
+          "mǎi"
+        ],
+        [
+          "斧",
+          "fǔ"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "冥",
+          "míng"
+        ],
+        [
+          "冥",
+          "míng"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "正",
+          "zhèng"
+        ],
+        [
+          "开",
+          "kāi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "飏",
+          "yáng"
+        ],
+        [
+          "飏",
+          "yáng"
+        ],
+        [
+          "燕",
+          "yàn"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "乳",
+          "rǔ"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "从",
+          "cóng"
+        ],
+        [
+          "东",
+          "dōng"
+        ],
+        [
+          "方",
+          "fāng"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "衣",
+          "yī"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "灞",
+          "bà"
+        ],
+        [
+          "陵",
+          "líng"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "采",
+          "cǎi"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "因",
+          "yīn"
+        ],
+        [
+          "买",
+          "mǎi"
+        ],
+        [
+          "斧",
+          "fǔ"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "冥",
+          "míng"
+        ],
+        [
+          "冥",
+          "míng"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "正",
+          "zhèng"
+        ],
+        [
+          "开",
+          "kāi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "飏",
+          "yáng"
+        ],
+        [
+          "飏",
+          "yáng"
+        ],
+        [
+          "燕",
+          "yàn"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "乳",
+          "rǔ"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "昨",
+          "zuó"
+        ],
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "已",
+          "yǐ"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "鬓",
+          "bìn"
+        ],
+        [
+          "丝",
+          "sī"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "缕",
+          "lǚ"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.飏飏：音\"杨\"，飞舞。"
+      }
+    ],
+    "tags": [
+      "五言古诗",
+      "叙事",
+      "同情",
+      "抒情"
+    ],
+    "english": {
+      "headingRaw": "Five-character-ancient-verseWeiYingwuONMEETINGMYFRIENDFENGZHUINTHECAPITAL",
+      "translationRaw": "Outoftheeastyouvisitme，WiththerainofBalingstillonyourclothes，Iaskyouwhatyouhavecomeherefor；Yousay：\"Tobuyanaxforcuttingwoodinthemountains\"。。。Hiddendeepinahazeofblossom，SwallowfledglingschirpateaseAstheydidwhenweparted，ayearago。。。。Howgreyourtempleshavegrownsincethem！",
+      "translationClean": "Outoftheeastyouvisitme, WiththerainofBalingstillonyourclothes, Iaskyouwhatyouhavecomeherefor; Yousay: \"Tobuyanaxforcuttingwoodinthemountains\". . . Hiddendeepinahazeofblossom, SwallowfledglingschirpateaseAstheydidwhenweparted, ayearago.... Howgreyourtempleshavegrownsincethem!",
+      "segments": [
+        "Outoftheeastyouvisitme, WiththerainofBalingstillonyourclothes, Iaskyouwhatyouhavecomeherefor;",
+        "Yousay: \"Tobuyanaxforcuttingwoodinthemountains\".",
+        ".",
+        ".",
+        "Hiddendeepinahazeofblossom, SwallowfledglingschirpateaseAstheydidwhenweparted, ayearago....",
+        "Howgreyourtempleshavegrownsincethem!"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 243,
+        "title": "长安遇冯著",
+        "author": "韦应物"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 30,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 30,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "b8ae44b3-ba8d-42d3-85a7-a70aa8608379",
+        "score": 1
+      }
+    },
+    "visual": {
+      "image": "assets/illustrations-wuyan-gushi/030-tang-030-chang-an-yu-feng-zhu.png",
+      "coreImagery": [
+        "灞陵雨",
+        "客衣",
+        "长安相逢"
+      ],
+      "mood": [
+        "萧瑟",
+        "问候",
+        "旅况"
+      ],
+      "palette": [
+        "雨灰",
+        "城褐",
+        "衣青",
+        "柳绿"
+      ],
+      "composition": "长安雨中，两位旅人隔着湿润街道相逢，远处城门低隐。",
+      "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+      "prompt": "长安遇冯著，韦应物。核心意象：灞陵雨、客衣、长安相逢；情绪：萧瑟、问候、旅况。长安雨中，两位旅人隔着湿润街道相逢，远处城门低隐。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+      "generatedAt": "2026-05-10T15:05:28+00:00",
+      "generator": "procedural-watercolor"
+    }
+  }
+}

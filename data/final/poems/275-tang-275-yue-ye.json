@@ -1,0 +1,355 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-275-yue-ye",
+    "order": 275,
+    "section": "七言绝句",
+    "title": "月夜",
+    "titleTraditional": "月夜",
+    "author": "刘方平",
+    "authorTraditional": "劉方平",
+    "dynasty": "唐代",
+    "aliases": [
+      "月夜"
+    ],
+    "lines": [
+      "更深月色半人家，北斗阑干南斗斜。",
+      "今夜偏知春气暖，虫声新透绿窗沙。"
+    ],
+    "linesTraditional": [
+      "更深月色半人家，北斗闌幹南斗斜。",
+      "今夜偏知春氣暖，蟲聲新透綠窗沙。"
+    ],
+    "text": "更深月色半人家，北斗阑干南斗斜。今夜偏知春气暖，虫声新透绿窗沙。",
+    "textTraditional": "更深月色半人家，北斗闌幹南斗斜。今夜偏知春氣暖，蟲聲新透綠窗沙。",
+    "displayLines": [
+      "更深月色半人家，",
+      "北斗阑干南斗斜。",
+      "今夜偏知春气暖，",
+      "虫声新透绿窗沙。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "更",
+          "gēng"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "半",
+          "bàn"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "北",
+          "běi"
+        ],
+        [
+          "斗",
+          "dǒu"
+        ],
+        [
+          "阑",
+          "lán"
+        ],
+        [
+          "干",
+          "gān"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "斗",
+          "dòu"
+        ],
+        [
+          "斜",
+          "xié"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "偏",
+          "piān"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "气",
+          "qì"
+        ],
+        [
+          "暖",
+          "nuǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "虫",
+          "chóng"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "透",
+          "tòu"
+        ],
+        [
+          "绿",
+          "lǜ"
+        ],
+        [
+          "窗",
+          "chuāng"
+        ],
+        [
+          "沙",
+          "shā"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "更",
+          "gēng"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "半",
+          "bàn"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "北",
+          "běi"
+        ],
+        [
+          "斗",
+          "dǒu"
+        ],
+        [
+          "阑",
+          "lán"
+        ],
+        [
+          "干",
+          "gān"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "斗",
+          "dòu"
+        ],
+        [
+          "斜",
+          "xié"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "偏",
+          "piān"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "气",
+          "qì"
+        ],
+        [
+          "暖",
+          "nuǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "虫",
+          "chóng"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "透",
+          "tòu"
+        ],
+        [
+          "绿",
+          "lǜ"
+        ],
+        [
+          "窗",
+          "chuāng"
+        ],
+        [
+          "沙",
+          "shā"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.阑干：横的意思。"
+      }
+    ],
+    "tags": [
+      "七言绝句",
+      "月亮",
+      "春天",
+      "田园",
+      "九年级上册(课外)",
+      "中秋",
+      "初中古诗"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainLiuFangpingAMOONLIGHTNIGHT",
+      "translationRaw": "Whenthemoonhascolouredhalfthehouse，WiththeNorthStaratitsheightandtheSouthStarsetting，IcanfedthefirstmotionsofthewarmairofspringInthesingingofaninsectatmygreen-silkwindow。",
+      "translationClean": "Whenthemoonhascolouredhalfthehouse, WiththeNorthStaratitsheightandtheSouthStarsetting, IcanfedthefirstmotionsofthewarmairofspringInthesingingofaninsectatmygreen-silkwindow.",
+      "segments": [
+        "Whenthemoonhascolouredhalfthehouse, WiththeNorthStaratitsheightandtheSouthStarsetting, IcanfedthefirstmotionsofthewarmairofspringInthesingingofaninsectatmygreen-silkwindow."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 253,
+        "title": "月夜",
+        "author": "刘方平"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9721
+      },
+      "ctext": {
+        "matched": true,
+        "order": 275,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 148,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "79e7ec6e-0d6c-4f95-8181-4671c42e1faf",
+        "score": 1
+      }
+    }
+  }
+}

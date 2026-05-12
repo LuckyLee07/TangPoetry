@@ -1,0 +1,345 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-300-wei-you",
+    "order": 300,
+    "section": "七言绝句",
+    "title": "为有",
+    "titleTraditional": "為有",
+    "author": "李商隐",
+    "authorTraditional": "李商隱",
+    "dynasty": "唐代",
+    "aliases": [
+      "为有"
+    ],
+    "lines": [
+      "为有云屏无限娇，凤城寒尽怕春宵。",
+      "无端嫁得金龟婿，辜负香衾事早朝。"
+    ],
+    "linesTraditional": [
+      "為有雲屏無限嬌，鳳城寒盡怕春宵。",
+      "無端嫁得金龜婿，辜負香衾事早朝。"
+    ],
+    "text": "为有云屏无限娇，凤城寒尽怕春宵。无端嫁得金龟婿，辜负香衾事早朝。",
+    "textTraditional": "為有雲屏無限嬌，鳳城寒盡怕春宵。無端嫁得金龜婿，辜負香衾事早朝。",
+    "displayLines": [
+      "为有云屏无限娇，",
+      "凤城寒尽怕春宵。",
+      "无端嫁得金龟婿，",
+      "辜负香衾事早朝。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "屏",
+          "píng"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "限",
+          "xiàn"
+        ],
+        [
+          "娇",
+          "jiāo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "凤",
+          "fèng"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "尽",
+          "jǐn"
+        ],
+        [
+          "怕",
+          "pà"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "宵",
+          "xiāo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "端",
+          "duān"
+        ],
+        [
+          "嫁",
+          "jià"
+        ],
+        [
+          "得",
+          "dé"
+        ],
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "龟",
+          "guī"
+        ],
+        [
+          "婿",
+          "xù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "辜",
+          "gū"
+        ],
+        [
+          "负",
+          "fù"
+        ],
+        [
+          "香",
+          "xiāng"
+        ],
+        [
+          "衾",
+          "qīn"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "早",
+          "zǎo"
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "屏",
+          "píng"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "限",
+          "xiàn"
+        ],
+        [
+          "娇",
+          "jiāo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "凤",
+          "fèng"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "尽",
+          "jǐn"
+        ],
+        [
+          "怕",
+          "pà"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "宵",
+          "xiāo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "端",
+          "duān"
+        ],
+        [
+          "嫁",
+          "jià"
+        ],
+        [
+          "得",
+          "dé"
+        ],
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "龟",
+          "guī"
+        ],
+        [
+          "婿",
+          "xù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "辜",
+          "gū"
+        ],
+        [
+          "负",
+          "fù"
+        ],
+        [
+          "香",
+          "xiāng"
+        ],
+        [
+          "衾",
+          "qīn"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "早",
+          "zǎo"
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "七言绝句",
+      "怨情"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainLiShangyinTHEREISONLYONE",
+      "translationRaw": "ThereisonlyoneCarved-Cloud，exquisitealways-Yetshedreadsthespring，blowingcoldinthepalace，Whenherhusband，aKnightoftheGoldenTortoise，Willleavehersweetbed，tobeearlyatcourt。",
+      "translationClean": "ThereisonlyoneCarved-Cloud, exquisitealways-Yetshedreadsthespring, blowingcoldinthepalace, Whenherhusband, aKnightoftheGoldenTortoise, Willleavehersweetbed, tobeearlyatcourt.",
+      "segments": [
+        "ThereisonlyoneCarved-Cloud, exquisitealways-Yetshedreadsthespring, blowingcoldinthepalace, Whenherhusband, aKnightoftheGoldenTortoise, Willleavehersweetbed, tobeearlyatcourt."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 232,
+        "title": "为有",
+        "author": "李商隐"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 300,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 173,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "974914ee-1fc0-4952-a863-820bad2e4065",
+        "score": 0.9643
+      }
+    }
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-311-za-shi",
+    "order": 311,
+    "section": "七言绝句",
+    "title": "杂诗",
+    "titleTraditional": "雜詩",
+    "author": "无名氏",
+    "authorTraditional": "無名氏",
+    "dynasty": "唐代",
+    "aliases": [
+      "杂诗"
+    ],
+    "lines": [
+      "尽寒食雨草萋萋，著麦苗风柳映堤。",
+      "等是有家归未得，杜鹃休向耳边啼。"
+    ],
+    "linesTraditional": [
+      "盡寒食雨草萋萋，著麥苗風柳映堤。",
+      "等是有家歸未得，杜鵑休向耳邊啼。"
+    ],
+    "text": "尽寒食雨草萋萋，著麦苗风柳映堤。等是有家归未得，杜鹃休向耳边啼。",
+    "textTraditional": "盡寒食雨草萋萋，著麥苗風柳映堤。等是有家歸未得，杜鵑休向耳邊啼。",
+    "displayLines": [
+      "尽寒食雨草萋萋，",
+      "著麦苗风柳映堤。",
+      "等是有家归未得，",
+      "杜鹃休向耳边啼。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "尽",
+          "jǐn"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "食",
+          "shí"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "萋",
+          "qī"
+        ],
+        [
+          "萋",
+          "qī"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "著",
+          "zhù"
+        ],
+        [
+          "麦",
+          "mài"
+        ],
+        [
+          "苗",
+          "miáo"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "柳",
+          "liǔ"
+        ],
+        [
+          "映",
+          "yìng"
+        ],
+        [
+          "堤",
+          "dī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "等",
+          "děng"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "得",
+          "dé"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "杜",
+          "dù"
+        ],
+        [
+          "鹃",
+          "juān"
+        ],
+        [
+          "休",
+          "xiū"
+        ],
+        [
+          "向",
+          "xiàng"
+        ],
+        [
+          "耳",
+          "ěr"
+        ],
+        [
+          "边",
+          "biān"
+        ],
+        [
+          "啼",
+          "tí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "尽",
+          "jǐn"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "食",
+          "shí"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "萋",
+          "qī"
+        ],
+        [
+          "萋",
+          "qī"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "著",
+          "zhù"
+        ],
+        [
+          "麦",
+          "mài"
+        ],
+        [
+          "苗",
+          "miáo"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "柳",
+          "liǔ"
+        ],
+        [
+          "映",
+          "yìng"
+        ],
+        [
+          "堤",
+          "dī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "等",
+          "děng"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "得",
+          "dé"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "杜",
+          "dù"
+        ],
+        [
+          "鹃",
+          "juān"
+        ],
+        [
+          "休",
+          "xiū"
+        ],
+        [
+          "向",
+          "xiàng"
+        ],
+        [
+          "耳",
+          "ěr"
+        ],
+        [
+          "边",
+          "biān"
+        ],
+        [
+          "啼",
+          "tí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.杜鹃：鸟名，啼声甚悲。"
+      }
+    ],
+    "tags": [
+      "七言绝句",
+      "寒食节",
+      "思乡",
+      "感伤"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainWumingshiTHEDAYOFNOFIRE",
+      "translationRaw": "Astheholidayapproaches，andgrassesarebrightafterrain，Andthecausewaygleamswithwillows，andwheatfieldswaveinthewind，Wearethinkingofourkinsfolk，farawayfromus。Ocuckoo，whydoyoufollowus，whydoyoucallushome？",
+      "translationClean": "Astheholidayapproaches, andgrassesarebrightafterrain, Andthecausewaygleamswithwillows, andwheatfieldswaveinthewind, Wearethinkingofourkinsfolk, farawayfromus. Ocuckoo, whydoyoufollowus, whydoyoucallushome?",
+      "segments": [
+        "Astheholidayapproaches, andgrassesarebrightafterrain, Andthecausewaygleamswithwillows, andwheatfieldswaveinthewind, Wearethinkingofourkinsfolk, farawayfromus.",
+        "Ocuckoo, whydoyoufollowus, whydoyoucallushome?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 90,
+        "title": "杂诗",
+        "author": "佚名"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9221
+      },
+      "ctext": {
+        "matched": true,
+        "order": 311,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 184,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "31e9a6b0-5035-4b1b-a9d3-ff1c279f53b6",
+        "score": 0.9643
+      }
+    }
+  }
+}

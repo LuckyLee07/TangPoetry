@@ -1,0 +1,488 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-146-xi-jian-wai-di-you-yan-bie",
+    "order": 146,
+    "section": "五言律诗",
+    "title": "喜见外弟又言别",
+    "titleTraditional": "喜見外弟又言別",
+    "author": "李益",
+    "authorTraditional": "李益",
+    "dynasty": "唐代",
+    "aliases": [
+      "喜见外弟又言别"
+    ],
+    "lines": [
+      "十年离乱后，长大一相逢。",
+      "问姓惊初见，称名忆旧容。",
+      "别来沧海事，语罢暮天钟。",
+      "明日巴陵道，秋山又几重。"
+    ],
+    "linesTraditional": [
+      "十年離亂後，長大一相逢。",
+      "問姓驚初見，稱名憶舊容。",
+      "別來滄海事，語罷暮天鐘。",
+      "明日巴陵道，秋山又幾重。"
+    ],
+    "text": "十年离乱后，长大一相逢。问姓惊初见，称名忆旧容。别来沧海事，语罢暮天钟。明日巴陵道，秋山又几重。",
+    "textTraditional": "十年離亂後，長大一相逢。問姓驚初見，稱名憶舊容。別來滄海事，語罷暮天鐘。明日巴陵道，秋山又幾重。",
+    "displayLines": [
+      "十年离乱后，",
+      "长大一相逢。",
+      "问姓惊初见，",
+      "称名忆旧容。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "十",
+          "shí"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "离",
+          "lí"
+        ],
+        [
+          "乱",
+          "luàn"
+        ],
+        [
+          "后",
+          "hòu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "长",
+          "zhǎng"
+        ],
+        [
+          "大",
+          "dà"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "逢",
+          "féng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "姓",
+          "xìng"
+        ],
+        [
+          "惊",
+          "jīng"
+        ],
+        [
+          "初",
+          "chū"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "称",
+          "chēng"
+        ],
+        [
+          "名",
+          "míng"
+        ],
+        [
+          "忆",
+          "yì"
+        ],
+        [
+          "旧",
+          "jiù"
+        ],
+        [
+          "容",
+          "róng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "沧",
+          "cāng"
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "语",
+          "yǔ"
+        ],
+        [
+          "罢",
+          "bà"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "钟",
+          "zhōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "巴",
+          "bā"
+        ],
+        [
+          "陵",
+          "líng"
+        ],
+        [
+          "道",
+          "dào"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "又",
+          "yòu"
+        ],
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "重",
+          "zhòng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "十",
+          "shí"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "离",
+          "lí"
+        ],
+        [
+          "乱",
+          "luàn"
+        ],
+        [
+          "后",
+          "hòu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "长",
+          "zhǎng"
+        ],
+        [
+          "大",
+          "dà"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "逢",
+          "féng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "姓",
+          "xìng"
+        ],
+        [
+          "惊",
+          "jīng"
+        ],
+        [
+          "初",
+          "chū"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "称",
+          "chēng"
+        ],
+        [
+          "名",
+          "míng"
+        ],
+        [
+          "忆",
+          "yì"
+        ],
+        [
+          "旧",
+          "jiù"
+        ],
+        [
+          "容",
+          "róng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "沧",
+          "cāng"
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "语",
+          "yǔ"
+        ],
+        [
+          "罢",
+          "bà"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "钟",
+          "zhōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "巴",
+          "bā"
+        ],
+        [
+          "陵",
+          "líng"
+        ],
+        [
+          "道",
+          "dào"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "又",
+          "yòu"
+        ],
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "重",
+          "zhòng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言律诗",
+      "离别"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseLiYiABRIEFBUTHAPPYMEETINGWITHMYBROTHER-INLAW\"MEETINGBYACCIDENT，ONLYTOPART\"",
+      "translationRaw": "AfterthesetentornwearisomeyearsWehavemetagain。WewerebothsochangedThathearingfirstyoursurname，Ithoughtyouastranger--Thenhearingyourgivenname，Irememberedyouryoungface。。。。AllthathashappenedwiththetidesWehavetoldandtoldtilltheeveningbell。。。。TomorrowyoujourneytoYouzhou，Leavingautumnbetweenus，peakafterpeak。",
+      "translationClean": "AfterthesetentornwearisomeyearsWehavemetagain. WewerebothsochangedThathearingfirstyoursurname, Ithoughtyouastranger--Thenhearingyourgivenname, Irememberedyouryoungface.... AllthathashappenedwiththetidesWehavetoldandtoldtilltheeveningbell.... TomorrowyoujourneytoYouzhou, Leavingautumnbetweenus, peakafterpeak.",
+      "segments": [
+        "AfterthesetentornwearisomeyearsWehavemetagain.",
+        "WewerebothsochangedThathearingfirstyoursurname, Ithoughtyouastranger--Thenhearingyourgivenname, Irememberedyouryoungface....",
+        "AllthathashappenedwiththetidesWehavetoldandtoldtilltheeveningbell....",
+        "TomorrowyoujourneytoYouzhou, Leavingautumnbetweenus, peakafterpeak."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 188,
+        "title": "喜见外弟又言别",
+        "author": "李益"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 146,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 243,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "d755f74b-18fd-44d1-a6e1-43e77490bb09",
+        "score": 1
+      }
+    }
+  }
+}

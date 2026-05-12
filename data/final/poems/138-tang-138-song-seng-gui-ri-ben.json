@@ -1,0 +1,488 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-138-song-seng-gui-ri-ben",
+    "order": 138,
+    "section": "五言律诗",
+    "title": "送僧归日本",
+    "titleTraditional": "送僧歸日本",
+    "author": "钱起",
+    "authorTraditional": "錢起",
+    "dynasty": "唐代",
+    "aliases": [
+      "送僧归日本"
+    ],
+    "lines": [
+      "上国随缘住，来途若梦行。",
+      "浮天沧海远，去世法舟轻。",
+      "水月通禅寂，鱼龙听梵声。",
+      "惟怜一灯影，万里眼中明。"
+    ],
+    "linesTraditional": [
+      "上國隨緣住，來途若夢行。",
+      "浮天滄海遠，去世法舟輕。",
+      "水月通禪寂，魚龍聽梵聲。",
+      "惟憐一燈影，萬里眼中明。"
+    ],
+    "text": "上国随缘住，来途若梦行。浮天沧海远，去世法舟轻。水月通禅寂，鱼龙听梵声。惟怜一灯影，万里眼中明。",
+    "textTraditional": "上國隨緣住，來途若夢行。浮天滄海遠，去世法舟輕。水月通禪寂，魚龍聽梵聲。惟憐一燈影，萬里眼中明。",
+    "displayLines": [
+      "上国随缘住，",
+      "来途若梦行。",
+      "浮天沧海远，",
+      "去世法舟轻。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "国",
+          "guó"
+        ],
+        [
+          "随",
+          "suí"
+        ],
+        [
+          "缘",
+          "yuán"
+        ],
+        [
+          "住",
+          "zhù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "途",
+          "tú"
+        ],
+        [
+          "若",
+          "ruò"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "浮",
+          "fú"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "沧",
+          "cāng"
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "世",
+          "shì"
+        ],
+        [
+          "法",
+          "fǎ"
+        ],
+        [
+          "舟",
+          "zhōu"
+        ],
+        [
+          "轻",
+          "qīng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "通",
+          "tōng"
+        ],
+        [
+          "禅",
+          "chán"
+        ],
+        [
+          "寂",
+          "jì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "鱼",
+          "yú"
+        ],
+        [
+          "龙",
+          "lóng"
+        ],
+        [
+          "听",
+          "tīng"
+        ],
+        [
+          "梵",
+          "fàn"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "惟",
+          "wéi"
+        ],
+        [
+          "怜",
+          "lián"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "灯",
+          "dēng"
+        ],
+        [
+          "影",
+          "yǐng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "眼",
+          "yǎn"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "国",
+          "guó"
+        ],
+        [
+          "随",
+          "suí"
+        ],
+        [
+          "缘",
+          "yuán"
+        ],
+        [
+          "住",
+          "zhù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "途",
+          "tú"
+        ],
+        [
+          "若",
+          "ruò"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "浮",
+          "fú"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "沧",
+          "cāng"
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "世",
+          "shì"
+        ],
+        [
+          "法",
+          "fǎ"
+        ],
+        [
+          "舟",
+          "zhōu"
+        ],
+        [
+          "轻",
+          "qīng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "通",
+          "tōng"
+        ],
+        [
+          "禅",
+          "chán"
+        ],
+        [
+          "寂",
+          "jì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "鱼",
+          "yú"
+        ],
+        [
+          "龙",
+          "lóng"
+        ],
+        [
+          "听",
+          "tīng"
+        ],
+        [
+          "梵",
+          "fàn"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "惟",
+          "wéi"
+        ],
+        [
+          "怜",
+          "lián"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "灯",
+          "dēng"
+        ],
+        [
+          "影",
+          "yǐng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "眼",
+          "yǎn"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言律诗",
+      "送别",
+      "惜别"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseQianQiFAREWELLTOAJAPANESEBUDDHISTPRIESTBOUNDHOMEWARD",
+      "translationRaw": "Youwereforeordainedtofindthesource。Now，tracingyourwayasinadreamTherewheretheseafloatsupthesky，Youwanefromtheworldinyourfragileboat。。。。Thewaterandthemoonareascalmasyourfaith，Fishesanddragonsfollowyourchanting，AndtheeyestillwatchesbeyondthehorizonTheholylightofyoursinglelantern。",
+      "translationClean": "Youwereforeordainedtofindthesource. Now, tracingyourwayasinadreamTherewheretheseafloatsupthesky, Youwanefromtheworldinyourfragileboat.... Thewaterandthemoonareascalmasyourfaith, Fishesanddragonsfollowyourchanting, AndtheeyestillwatchesbeyondthehorizonTheholylightofyoursinglelantern.",
+      "segments": [
+        "Youwereforeordainedtofindthesource.",
+        "Now, tracingyourwayasinadreamTherewheretheseafloatsupthesky, Youwanefromtheworldinyourfragileboat....",
+        "Thewaterandthemoonareascalmasyourfaith, Fishesanddragonsfollowyourchanting, AndtheeyestillwatchesbeyondthehorizonTheholylightofyoursinglelantern."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 275,
+        "title": "送僧归日本",
+        "author": "钱起"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 138,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 235,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "15274300-bd45-4898-ab14-9a3dead4b620",
+        "score": 0.975
+      }
+    }
+  }
+}

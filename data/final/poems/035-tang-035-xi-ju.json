@@ -1,0 +1,518 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-035-xi-ju",
+    "order": 35,
+    "section": "五言古诗",
+    "title": "溪居",
+    "titleTraditional": "溪居",
+    "author": "柳宗元",
+    "authorTraditional": "柳宗元",
+    "dynasty": "唐代",
+    "aliases": [
+      "溪居"
+    ],
+    "lines": [
+      "久为簪组累，幸此南夷谪。",
+      "闲依农圃邻，偶似山林客。",
+      "晓耕翻露草，夜榜响溪石，来往不逢人，长歌楚天碧。"
+    ],
+    "linesTraditional": [
+      "久為簪組累，幸此南夷謫。",
+      "閑依農圃鄰，偶似山林客。",
+      "曉耕翻露草，夜榜響溪石，來往不逢人，長歌楚天碧。"
+    ],
+    "text": "久为簪组累，幸此南夷谪。闲依农圃邻，偶似山林客。晓耕翻露草，夜榜响溪石，来往不逢人，长歌楚天碧。",
+    "textTraditional": "久為簪組累，幸此南夷謫。閑依農圃鄰，偶似山林客。曉耕翻露草，夜榜響溪石，來往不逢人，長歌楚天碧。",
+    "displayLines": [
+      "久为簪组累，",
+      "幸此南夷谪。",
+      "闲依农圃邻，",
+      "偶似山林客。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "久",
+          "jiǔ"
+        ],
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "簪",
+          "zān"
+        ],
+        [
+          "组",
+          "zǔ"
+        ],
+        [
+          "累",
+          "lèi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "幸",
+          "xìng"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "夷",
+          "yí"
+        ],
+        [
+          "谪",
+          "zhé"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "闲",
+          "xián"
+        ],
+        [
+          "依",
+          "yī"
+        ],
+        [
+          "农",
+          "nóng"
+        ],
+        [
+          "圃",
+          "pǔ"
+        ],
+        [
+          "邻",
+          "lín"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "偶",
+          "ǒu"
+        ],
+        [
+          "似",
+          "shì"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "晓",
+          "xiǎo"
+        ],
+        [
+          "耕",
+          "gēng"
+        ],
+        [
+          "翻",
+          "fān"
+        ],
+        [
+          "露",
+          "lù"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "榜",
+          "bǎng"
+        ],
+        [
+          "响",
+          "xiǎng"
+        ],
+        [
+          "溪",
+          "xī"
+        ],
+        [
+          "石",
+          "shí"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "往",
+          "wǎng"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "逢",
+          "féng"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "长",
+          "zhǎng"
+        ],
+        [
+          "歌",
+          "gē"
+        ],
+        [
+          "楚",
+          "chǔ"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "碧",
+          "bì"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "久",
+          "jiǔ"
+        ],
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "簪",
+          "zān"
+        ],
+        [
+          "组",
+          "zǔ"
+        ],
+        [
+          "累",
+          "lèi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "幸",
+          "xìng"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "夷",
+          "yí"
+        ],
+        [
+          "谪",
+          "zhé"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "闲",
+          "xián"
+        ],
+        [
+          "依",
+          "yī"
+        ],
+        [
+          "农",
+          "nóng"
+        ],
+        [
+          "圃",
+          "pǔ"
+        ],
+        [
+          "邻",
+          "lín"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "偶",
+          "ǒu"
+        ],
+        [
+          "似",
+          "shì"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "晓",
+          "xiǎo"
+        ],
+        [
+          "耕",
+          "gēng"
+        ],
+        [
+          "翻",
+          "fān"
+        ],
+        [
+          "露",
+          "lù"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "榜",
+          "bǎng"
+        ],
+        [
+          "响",
+          "xiǎng"
+        ],
+        [
+          "溪",
+          "xī"
+        ],
+        [
+          "石",
+          "shí"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "往",
+          "wǎng"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "逢",
+          "féng"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "长",
+          "zhǎng"
+        ],
+        [
+          "歌",
+          "gē"
+        ],
+        [
+          "楚",
+          "chǔ"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "碧",
+          "bì"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.簪组：簪缨组绶，古时官服。簪，音ㄗㄢ。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.榜：行船。"
+      }
+    ],
+    "tags": [
+      "五言古诗",
+      "孤独",
+      "生活"
+    ],
+    "english": {
+      "headingRaw": "Five-character-ancient-verseLiuZongyuanDWELLINGBYASTREAM",
+      "translationRaw": "IhadsolongbeentroubledbyofficialhatandrobeThatIamgladtobeanexilehereinthiswildsouthland。Iamaneighbournowofplantersandreapers。Iamaguestofthemountainsandwoods。Iploughinthemorning，turningdewygrasses，Andateveningtiemyfisher-boat，breakingthequietstream。BackandforthIgo，scarcelymeetinganyone，Andsingalongpoemandgazeatthebluesky。",
+      "translationClean": "IhadsolongbeentroubledbyofficialhatandrobeThatIamgladtobeanexilehereinthiswildsouthland. Iamaneighbournowofplantersandreapers. Iamaguestofthemountainsandwoods. Iploughinthemorning, turningdewygrasses, Andateveningtiemyfisher-boat, breakingthequietstream. BackandforthIgo, scarcelymeetinganyone, Andsingalongpoemandgazeatthebluesky.",
+      "segments": [
+        "IhadsolongbeentroubledbyofficialhatandrobeThatIamgladtobeanexilehereinthiswildsouthland.",
+        "Iamaneighbournowofplantersandreapers.",
+        "Iamaguestofthemountainsandwoods.",
+        "Iploughinthemorning, turningdewygrasses, Andateveningtiemyfisher-boat, breakingthequietstream.",
+        "BackandforthIgo, scarcelymeetinganyone, Andsingalongpoemandgazeatthebluesky."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 63,
+        "title": "溪居",
+        "author": "柳宗元"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 35,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 35,
+        "score": 0.975,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "469dec8b-ba5e-4faf-b52f-2ad203e38d81",
+        "score": 1
+      }
+    },
+    "visual": {
+      "image": "assets/illustrations-wuyan-gushi/035-tang-035-xi-ju.png",
+      "coreImagery": [
+        "溪居",
+        "农圃",
+        "山林客",
+        "耕钓"
+      ],
+      "mood": [
+        "闲适",
+        "释然",
+        "自得"
+      ],
+      "palette": [
+        "溪青",
+        "田绿",
+        "山灰",
+        "纸白"
+      ],
+      "composition": "溪边小居与菜圃相邻，远山淡退，一竿钓影落在水边。",
+      "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+      "prompt": "溪居，柳宗元。核心意象：溪居、农圃、山林客、耕钓；情绪：闲适、释然、自得。溪边小居与菜圃相邻，远山淡退，一竿钓影落在水边。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+      "generatedAt": "2026-05-10T15:05:28+00:00",
+      "generator": "procedural-watercolor"
+    }
+  }
+}

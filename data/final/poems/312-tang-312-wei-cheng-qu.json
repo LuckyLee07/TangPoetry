@@ -1,0 +1,363 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-312-wei-cheng-qu",
+    "order": 312,
+    "section": "乐府",
+    "title": "渭城曲",
+    "titleTraditional": "渭城曲",
+    "author": "王维",
+    "authorTraditional": "王維",
+    "dynasty": "唐代",
+    "aliases": [
+      "送元二使安西 / 渭城曲",
+      "渭城曲"
+    ],
+    "lines": [
+      "渭城朝雨浥轻尘，客舍青青柳色新。",
+      "劝君更尽一杯酒，西出阳关无故人。"
+    ],
+    "linesTraditional": [
+      "渭城朝雨浥輕塵，客舍青青柳色新。",
+      "勸君更盡一杯酒，西出陽關無故人。"
+    ],
+    "text": "渭城朝雨浥轻尘，客舍青青柳色新。劝君更尽一杯酒，西出阳关无故人。",
+    "textTraditional": "渭城朝雨浥輕塵，客舍青青柳色新。勸君更盡一杯酒，西出陽關無故人。",
+    "displayLines": [
+      "渭城朝雨浥轻尘，",
+      "客舍青青柳色新。",
+      "劝君更尽一杯酒，",
+      "西出阳关无故人。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "渭",
+          "wèi"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "浥",
+          "yì"
+        ],
+        [
+          "轻",
+          "qīng"
+        ],
+        [
+          "尘",
+          "chén"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "舍",
+          "shě"
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "柳",
+          "liǔ"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "劝",
+          "quàn"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "更",
+          "gèng"
+        ],
+        [
+          "尽",
+          "jǐn"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "杯",
+          "bēi"
+        ],
+        [
+          "酒",
+          "jiǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "出",
+          "chū"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "渭",
+          "wèi"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "浥",
+          "yì"
+        ],
+        [
+          "轻",
+          "qīng"
+        ],
+        [
+          "尘",
+          "chén"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "舍",
+          "shě"
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "柳",
+          "liǔ"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "劝",
+          "quàn"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "更",
+          "gèng"
+        ],
+        [
+          "尽",
+          "jǐn"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "杯",
+          "bēi"
+        ],
+        [
+          "酒",
+          "jiǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "出",
+          "chū"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "客舍青青柳色新--一作 ：客舍依依杨柳春"
+      },
+      {
+        "source": "chiuinan",
+        "text": "1.浥：音意，沾湿。"
+      }
+    ],
+    "tags": [
+      "乐府",
+      "八年级下册(课外)",
+      "友情",
+      "小学古诗",
+      "送别",
+      "初中古诗",
+      "近代曲辞",
+      "四年级上册"
+    ],
+    "english": {
+      "headingRaw": "Folk-song-styled-verseWangWeiASONGATWEICHENG",
+      "translationRaw": "Amorning-rainhassettledthedustinWeicheng；Willowsaregreenagaininthetaverndooryard。。。。Waittillweemptyonemorecup--WestofYangGatethere』llbenooldfriends。",
+      "translationClean": "Amorning-rainhassettledthedustinWeicheng; Willowsaregreenagaininthetaverndooryard.... Waittillweemptyonemorecup--WestofYangGatethere'llbenooldfriends.",
+      "segments": [
+        "Amorning-rainhassettledthedustinWeicheng;",
+        "Willowsaregreenagaininthetaverndooryard....",
+        "Waittillweemptyonemorecup--WestofYangGatethere'llbenooldfriends."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 27,
+        "title": "送元二使安西 / 渭城曲",
+        "author": "王维"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 312,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 130,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "1575c835-1241-4d7b-99dc-6d700549ac65",
+        "score": 0.9286
+      }
+    }
+  }
+}

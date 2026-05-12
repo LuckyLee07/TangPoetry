@@ -1,0 +1,347 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-307-yi-liang",
+    "order": 307,
+    "section": "七言绝句",
+    "title": "已凉",
+    "titleTraditional": "已涼",
+    "author": "韩偓",
+    "authorTraditional": "韓偓",
+    "dynasty": "唐代",
+    "aliases": [
+      "已凉"
+    ],
+    "lines": [
+      "碧阑干外绣帘垂，猩色屏风画折枝。",
+      "八尺龙须方锦褥，已凉天气未寒时。"
+    ],
+    "linesTraditional": [
+      "碧闌幹外繡簾垂，猩色屏風畫折枝。",
+      "八尺龍鬚方錦褥，已涼天氣未寒時。"
+    ],
+    "text": "碧阑干外绣帘垂，猩色屏风画折枝。八尺龙须方锦褥，已凉天气未寒时。",
+    "textTraditional": "碧闌幹外繡簾垂，猩色屏風畫折枝。八尺龍鬚方錦褥，已涼天氣未寒時。",
+    "displayLines": [
+      "碧阑干外绣帘垂，",
+      "猩色屏风画折枝。",
+      "八尺龙须方锦褥，",
+      "已凉天气未寒时。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "碧",
+          "bì"
+        ],
+        [
+          "阑",
+          "lán"
+        ],
+        [
+          "干",
+          "gān"
+        ],
+        [
+          "外",
+          "wài"
+        ],
+        [
+          "绣",
+          "xiù"
+        ],
+        [
+          "帘",
+          "lián"
+        ],
+        [
+          "垂",
+          "chuí"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "猩",
+          "xīng"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "屏",
+          "píng"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "画",
+          "huà"
+        ],
+        [
+          "折",
+          "zhé"
+        ],
+        [
+          "枝",
+          "zhī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "八",
+          "bā"
+        ],
+        [
+          "尺",
+          "chǐ"
+        ],
+        [
+          "龙",
+          "lóng"
+        ],
+        [
+          "须",
+          "xū"
+        ],
+        [
+          "方",
+          "fāng"
+        ],
+        [
+          "锦",
+          "jǐn"
+        ],
+        [
+          "褥",
+          "rù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "已",
+          "yǐ"
+        ],
+        [
+          "凉",
+          "liáng"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "气",
+          "qì"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "碧",
+          "bì"
+        ],
+        [
+          "阑",
+          "lán"
+        ],
+        [
+          "干",
+          "gān"
+        ],
+        [
+          "外",
+          "wài"
+        ],
+        [
+          "绣",
+          "xiù"
+        ],
+        [
+          "帘",
+          "lián"
+        ],
+        [
+          "垂",
+          "chuí"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "猩",
+          "xīng"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "屏",
+          "píng"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "画",
+          "huà"
+        ],
+        [
+          "折",
+          "zhé"
+        ],
+        [
+          "枝",
+          "zhī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "八",
+          "bā"
+        ],
+        [
+          "尺",
+          "chǐ"
+        ],
+        [
+          "龙",
+          "lóng"
+        ],
+        [
+          "须",
+          "xū"
+        ],
+        [
+          "方",
+          "fāng"
+        ],
+        [
+          "锦",
+          "jǐn"
+        ],
+        [
+          "褥",
+          "rù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "已",
+          "yǐ"
+        ],
+        [
+          "凉",
+          "liáng"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "气",
+          "qì"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "七言绝句",
+      "爱情",
+      "写景",
+      "婉约"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainHanWuCOOLERWEATHER",
+      "translationRaw": "Herjade-greenalcovecurtainedthickwithsilk，Hervermilionscreenwithitspatternofflowers，Hereight-footdragon-beardmatandherquiltbrocadedinsquaresArereadynowfornightsthatareneitherwarmnorcold。",
+      "translationClean": "Herjade-greenalcovecurtainedthickwithsilk, Hervermilionscreenwithitspatternofflowers, Hereight-footdragon-beardmatandherquiltbrocadedinsquaresArereadynowfornightsthatareneitherwarmnorcold.",
+      "segments": [
+        "Herjade-greenalcovecurtainedthickwithsilk, Hervermilionscreenwithitspatternofflowers, Hereight-footdragon-beardmatandherquiltbrocadedinsquaresArereadynowfornightsthatareneitherwarmnorcold."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 54,
+        "title": "已凉",
+        "author": "韩偓"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9721
+      },
+      "ctext": {
+        "matched": true,
+        "order": 307,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 180,
+        "score": 0.9643,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "1deac6d5-6da0-4d9f-a182-2f0697cbb932",
+        "score": 1
+      }
+    }
+  }
+}

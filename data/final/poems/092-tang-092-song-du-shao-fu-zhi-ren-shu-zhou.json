@@ -1,0 +1,500 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-092-song-du-shao-fu-zhi-ren-shu-zhou",
+    "order": 92,
+    "section": "五言律诗",
+    "title": "送杜少府之任蜀州",
+    "titleTraditional": "送杜少府之任蜀州",
+    "author": "王勃",
+    "authorTraditional": "王勃",
+    "dynasty": "唐代",
+    "aliases": [
+      "送杜少府之任蜀州 / 送杜少府之任蜀川",
+      "送杜少府之任蜀州"
+    ],
+    "lines": [
+      "城阙辅三秦，风烟望五津。",
+      "与君离别意，同是宦游人。",
+      "海内存知己，天涯若比邻。",
+      "无为在歧路，儿女共沾巾。"
+    ],
+    "linesTraditional": [
+      "城闕輔三秦，風煙望五津。",
+      "與君離別意，同是宦遊人。",
+      "海內存知己，天涯若比鄰。",
+      "無為在歧路，兒女共沾巾。"
+    ],
+    "text": "城阙辅三秦，风烟望五津。与君离别意，同是宦游人。海内存知己，天涯若比邻。无为在歧路，儿女共沾巾。",
+    "textTraditional": "城闕輔三秦，風煙望五津。與君離別意，同是宦遊人。海內存知己，天涯若比鄰。無為在歧路，兒女共沾巾。",
+    "displayLines": [
+      "城阙辅三秦，",
+      "风烟望五津。",
+      "与君离别意，",
+      "同是宦游人。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "阙",
+          "què"
+        ],
+        [
+          "辅",
+          "fǔ"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "秦",
+          "qín"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "望",
+          "wàng"
+        ],
+        [
+          "五",
+          "wǔ"
+        ],
+        [
+          "津",
+          "jīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "与",
+          "yǔ"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "离",
+          "lí"
+        ],
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "意",
+          "yì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "同",
+          "tóng"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "宦",
+          "huàn"
+        ],
+        [
+          "游",
+          "yóu"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "内",
+          "nèi"
+        ],
+        [
+          "存",
+          "cún"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "己",
+          "jǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "涯",
+          "yá"
+        ],
+        [
+          "若",
+          "ruò"
+        ],
+        [
+          "比",
+          "bǐ"
+        ],
+        [
+          "邻",
+          "lín"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "为",
+          "wéi"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "歧",
+          "qí"
+        ],
+        [
+          "路",
+          "lù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "儿",
+          "ér"
+        ],
+        [
+          "女",
+          "nǚ"
+        ],
+        [
+          "共",
+          "gòng"
+        ],
+        [
+          "沾",
+          "zhān"
+        ],
+        [
+          "巾",
+          "jīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "阙",
+          "què"
+        ],
+        [
+          "辅",
+          "fǔ"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "秦",
+          "qín"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "望",
+          "wàng"
+        ],
+        [
+          "五",
+          "wǔ"
+        ],
+        [
+          "津",
+          "jīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "与",
+          "yǔ"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "离",
+          "lí"
+        ],
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "意",
+          "yì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "同",
+          "tóng"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "宦",
+          "huàn"
+        ],
+        [
+          "游",
+          "yóu"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "内",
+          "nèi"
+        ],
+        [
+          "存",
+          "cún"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "己",
+          "jǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "涯",
+          "yá"
+        ],
+        [
+          "若",
+          "ruò"
+        ],
+        [
+          "比",
+          "bǐ"
+        ],
+        [
+          "邻",
+          "lín"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "为",
+          "wéi"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "歧",
+          "qí"
+        ],
+        [
+          "路",
+          "lù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "儿",
+          "ér"
+        ],
+        [
+          "女",
+          "nǚ"
+        ],
+        [
+          "共",
+          "gòng"
+        ],
+        [
+          "沾",
+          "zhān"
+        ],
+        [
+          "巾",
+          "jīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.宦游：出仕在外。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.沾巾：泪湿衣巾。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "八年级下册(课外)",
+      "友情",
+      "送别",
+      "初中古诗",
+      "哲理"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseWangBoFAREWELLTOVICE-PREFECTDUSETTINGOUTFORHISOFFICIALPOSTINSHU",
+      "translationRaw": "BythiswallthatsurroundsthethreeQindistricts，Throughamistthatmakesfiveriversone，Webideachotherasadfarewell，Wetwoofficialsgoingoppositeways。。。。Andyet，whileChinaholdsourfriendship，Andheavenremainsourneighbourhood，Whyshouldyoulingerattheforkoftheroad，Wipingyoureyeslikeaheart-brokenchild？",
+      "translationClean": "BythiswallthatsurroundsthethreeQindistricts, Throughamistthatmakesfiveriversone, Webideachotherasadfarewell, Wetwoofficialsgoingoppositeways.... Andyet, whileChinaholdsourfriendship, Andheavenremainsourneighbourhood, Whyshouldyoulingerattheforkoftheroad, Wipingyoureyeslikeaheart-brokenchild?",
+      "segments": [
+        "BythiswallthatsurroundsthethreeQindistricts, Throughamistthatmakesfiveriversone, Webideachotherasadfarewell, Wetwoofficialsgoingoppositeways....",
+        "Andyet, whileChinaholdsourfriendship, Andheavenremainsourneighbourhood, Whyshouldyoulingerattheforkoftheroad, Wipingyoureyeslikeaheart-brokenchild?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 116,
+        "title": "送杜少府之任蜀州 / 送杜少府之任蜀川",
+        "author": "王勃"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 92,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 189,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "fe6f4b72-855c-43b9-8883-8b3fe3cd8bd4",
+        "score": 0.95
+      }
+    }
+  }
+}

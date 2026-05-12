@@ -1,0 +1,353 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-285-ji-ling-tai-zhi-er",
+    "order": 285,
+    "section": "七言绝句",
+    "title": "集灵台之二",
+    "titleTraditional": "集靈臺之二",
+    "author": "张祜",
+    "authorTraditional": "張祜",
+    "dynasty": "唐代",
+    "aliases": [
+      "集灵台·其二",
+      "集灵台之二"
+    ],
+    "lines": [
+      "虢国夫人承主恩，平明骑马入宫门。",
+      "却嫌脂粉污颜色，淡扫蛾眉朝至尊。"
+    ],
+    "linesTraditional": [
+      "虢國夫人承主恩，平明騎馬入宮門。",
+      "卻嫌脂粉污顏色，淡掃蛾眉朝至尊。"
+    ],
+    "text": "虢国夫人承主恩，平明骑马入宫门。却嫌脂粉污颜色，淡扫蛾眉朝至尊。",
+    "textTraditional": "虢國夫人承主恩，平明騎馬入宮門。卻嫌脂粉污顏色，淡掃蛾眉朝至尊。",
+    "displayLines": [
+      "虢国夫人承主恩，",
+      "平明骑马入宫门。",
+      "却嫌脂粉污颜色，",
+      "淡扫蛾眉朝至尊。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "虢",
+          "guó"
+        ],
+        [
+          "国",
+          "guó"
+        ],
+        [
+          "夫",
+          "fū"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "承",
+          "chéng"
+        ],
+        [
+          "主",
+          "zhǔ"
+        ],
+        [
+          "恩",
+          "ēn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "平",
+          "píng"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "骑",
+          "qí"
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "却",
+          "què"
+        ],
+        [
+          "嫌",
+          "xián"
+        ],
+        [
+          "脂",
+          "zhī"
+        ],
+        [
+          "粉",
+          "fěn"
+        ],
+        [
+          "污",
+          "wū"
+        ],
+        [
+          "颜",
+          "yán"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "淡",
+          "dàn"
+        ],
+        [
+          "扫",
+          "sǎo"
+        ],
+        [
+          "蛾",
+          "é"
+        ],
+        [
+          "眉",
+          "méi"
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "至",
+          "zhì"
+        ],
+        [
+          "尊",
+          "zūn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "虢",
+          "guó"
+        ],
+        [
+          "国",
+          "guó"
+        ],
+        [
+          "夫",
+          "fū"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "承",
+          "chéng"
+        ],
+        [
+          "主",
+          "zhǔ"
+        ],
+        [
+          "恩",
+          "ēn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "平",
+          "píng"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "骑",
+          "qí"
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "却",
+          "què"
+        ],
+        [
+          "嫌",
+          "xián"
+        ],
+        [
+          "脂",
+          "zhī"
+        ],
+        [
+          "粉",
+          "fěn"
+        ],
+        [
+          "污",
+          "wū"
+        ],
+        [
+          "颜",
+          "yán"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "淡",
+          "dàn"
+        ],
+        [
+          "扫",
+          "sǎo"
+        ],
+        [
+          "蛾",
+          "é"
+        ],
+        [
+          "眉",
+          "méi"
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "至",
+          "zhì"
+        ],
+        [
+          "尊",
+          "zūn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.虢国夫人：杨贵妃长姊。虢，音国。"
+      }
+    ],
+    "tags": [
+      "七言绝句",
+      "写人",
+      "讽刺"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainZhangHuONTHETERRACEOFASSEMBLEDANGELSII",
+      "translationRaw": "TheEmperorhassentforLadyGuoguo。Inthemorning，ridingtowardthepalace-gate，Disdainfulofthepaintthatmighthavemarredherbeauty，Tomeethimshesmoothshertwomoth-tinyeyebrows。",
+      "translationClean": "TheEmperorhassentforLadyGuoguo. Inthemorning, ridingtowardthepalace-gate, Disdainfulofthepaintthatmighthavemarredherbeauty, Tomeethimshesmoothshertwomoth-tinyeyebrows.",
+      "segments": [
+        "TheEmperorhassentforLadyGuoguo.",
+        "Inthemorning, ridingtowardthepalace-gate, Disdainfulofthepaintthatmighthavemarredherbeauty, Tomeethimshesmoothshertwomoth-tinyeyebrows."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 226,
+        "title": "集灵台·其二",
+        "author": "张祜"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 285,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 158,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "51262a8c-de53-41ee-958a-de08d5f5a446",
+        "score": 0.9643
+      }
+    }
+  }
+}

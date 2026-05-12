@@ -1,0 +1,493 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-139-gu-kou-shu-zhai-ji-yang-bu-que",
+    "order": 139,
+    "section": "五言律诗",
+    "title": "谷口书斋寄杨补阙",
+    "titleTraditional": "谷口書齋寄楊補闕",
+    "author": "钱起",
+    "authorTraditional": "錢起",
+    "dynasty": "唐代",
+    "aliases": [
+      "谷口书斋寄杨补阙"
+    ],
+    "lines": [
+      "泉壑带茅茨，云霞生薜帷。",
+      "竹怜新雨后，山爱夕阳时。",
+      "闲鹭栖常早，秋花落更迟。",
+      "家童扫萝径，昨与故人期。"
+    ],
+    "linesTraditional": [
+      "泉壑帶茅茨，雲霞生薜帷。",
+      "竹憐新雨後，山愛夕陽時。",
+      "閒鷺棲常早，秋花落更遲。",
+      "家童掃蘿徑，昨與故人期。"
+    ],
+    "text": "泉壑带茅茨，云霞生薜帷。竹怜新雨后，山爱夕阳时。闲鹭栖常早，秋花落更迟。家童扫萝径，昨与故人期。",
+    "textTraditional": "泉壑帶茅茨，雲霞生薜帷。竹憐新雨後，山愛夕陽時。閒鷺棲常早，秋花落更遲。家童掃蘿徑，昨與故人期。",
+    "displayLines": [
+      "泉壑带茅茨，",
+      "云霞生薜帷。",
+      "竹怜新雨后，",
+      "山爱夕阳时。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "泉",
+          "quán"
+        ],
+        [
+          "壑",
+          "hè"
+        ],
+        [
+          "带",
+          "dài"
+        ],
+        [
+          "茅",
+          "máo"
+        ],
+        [
+          "茨",
+          "cí"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "霞",
+          "xiá"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "薜",
+          "bì"
+        ],
+        [
+          "帷",
+          "wéi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "竹",
+          "zhú"
+        ],
+        [
+          "怜",
+          "lián"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "后",
+          "hòu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "爱",
+          "ài"
+        ],
+        [
+          "夕",
+          "xī"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "闲",
+          "xián"
+        ],
+        [
+          "鹭",
+          "lù"
+        ],
+        [
+          "栖",
+          "qī"
+        ],
+        [
+          "常",
+          "cháng"
+        ],
+        [
+          "早",
+          "zǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "更",
+          "gèng"
+        ],
+        [
+          "迟",
+          "chí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "童",
+          "tóng"
+        ],
+        [
+          "扫",
+          "sǎo"
+        ],
+        [
+          "萝",
+          "luó"
+        ],
+        [
+          "径",
+          "jìng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "昨",
+          "zuó"
+        ],
+        [
+          "与",
+          "yǔ"
+        ],
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "期",
+          "qī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "泉",
+          "quán"
+        ],
+        [
+          "壑",
+          "hè"
+        ],
+        [
+          "带",
+          "dài"
+        ],
+        [
+          "茅",
+          "máo"
+        ],
+        [
+          "茨",
+          "cí"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "霞",
+          "xiá"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "薜",
+          "bì"
+        ],
+        [
+          "帷",
+          "wéi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "竹",
+          "zhú"
+        ],
+        [
+          "怜",
+          "lián"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "后",
+          "hòu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "爱",
+          "ài"
+        ],
+        [
+          "夕",
+          "xī"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "闲",
+          "xián"
+        ],
+        [
+          "鹭",
+          "lù"
+        ],
+        [
+          "栖",
+          "qī"
+        ],
+        [
+          "常",
+          "cháng"
+        ],
+        [
+          "早",
+          "zǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "更",
+          "gèng"
+        ],
+        [
+          "迟",
+          "chí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "童",
+          "tóng"
+        ],
+        [
+          "扫",
+          "sǎo"
+        ],
+        [
+          "萝",
+          "luó"
+        ],
+        [
+          "径",
+          "jìng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "昨",
+          "zuó"
+        ],
+        [
+          "与",
+          "yǔ"
+        ],
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "期",
+          "qī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.薜帷：薜荔绕生而形成的门幙。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "写景",
+      "邀请"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseQianQiFROMMYSTUDYATTHEMOUTHOFTHEVALLEY。AMESSAGETOCENSORYANG",
+      "translationRaw": "Atalittlegrass-hutinthevalleyoftheriver，Whereacloudseemsbornfromavineywall，Youwilllovethebamboosnewwithrain，Andmountainstenderinthesunset。CranesdriftearlyheretorestAndautumnflowersareslowtofade。。。。IhavebiddenmypupiltosweepthegrassypathForthecomingofmyfriend。",
+      "translationClean": "Atalittlegrass-hutinthevalleyoftheriver, Whereacloudseemsbornfromavineywall, Youwilllovethebamboosnewwithrain, Andmountainstenderinthesunset. CranesdriftearlyheretorestAndautumnflowersareslowtofade.... IhavebiddenmypupiltosweepthegrassypathForthecomingofmyfriend.",
+      "segments": [
+        "Atalittlegrass-hutinthevalleyoftheriver, Whereacloudseemsbornfromavineywall, Youwilllovethebamboosnewwithrain, Andmountainstenderinthesunset.",
+        "CranesdriftearlyheretorestAndautumnflowersareslowtofade....",
+        "IhavebiddenmypupiltosweepthegrassypathForthecomingofmyfriend."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 228,
+        "title": "谷口书斋寄杨补阙",
+        "author": "钱起"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9805
+      },
+      "ctext": {
+        "matched": true,
+        "order": 139,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 236,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "b700208d-d859-4e36-96bf-883c81d4df0f",
+        "score": 0.95
+      }
+    }
+  }
+}

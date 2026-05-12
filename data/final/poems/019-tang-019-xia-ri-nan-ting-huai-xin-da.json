@@ -1,0 +1,573 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-019-xia-ri-nan-ting-huai-xin-da",
+    "order": 19,
+    "section": "五言古诗",
+    "title": "夏日南亭怀辛大",
+    "titleTraditional": "夏日南亭懷辛大",
+    "author": "孟浩然",
+    "authorTraditional": "孟浩然",
+    "dynasty": "唐代",
+    "aliases": [
+      "夏日南亭怀辛大"
+    ],
+    "lines": [
+      "山光忽西落，池月渐东上。",
+      "散发乘夜凉，开轩卧闲敞。",
+      "荷风送香气，竹露滴清响。",
+      "欲取鸣琴弹，恨无知音赏。",
+      "感此怀故人，中宵劳梦想。"
+    ],
+    "linesTraditional": [
+      "山光忽西落，池月漸東上。",
+      "散髮乘夜涼，開軒臥閑敞。",
+      "荷風送香氣，竹露滴清響。",
+      "欲取鳴琴彈，恨無知音賞。",
+      "感此懷故人，中宵勞夢想。"
+    ],
+    "text": "山光忽西落，池月渐东上。散发乘夜凉，开轩卧闲敞。荷风送香气，竹露滴清响。欲取鸣琴弹，恨无知音赏。感此怀故人，中宵劳梦想。",
+    "textTraditional": "山光忽西落，池月漸東上。散髮乘夜涼，開軒臥閑敞。荷風送香氣，竹露滴清響。欲取鳴琴彈，恨無知音賞。感此懷故人，中宵勞夢想。",
+    "displayLines": [
+      "山光忽西落，",
+      "池月渐东上。",
+      "散发乘夜凉，",
+      "开轩卧闲敞。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "光",
+          "guāng"
+        ],
+        [
+          "忽",
+          "hū"
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "池",
+          "chí"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "渐",
+          "jiàn"
+        ],
+        [
+          "东",
+          "dōng"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "散",
+          "sàn"
+        ],
+        [
+          "发",
+          "fà"
+        ],
+        [
+          "乘",
+          "chéng"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "凉",
+          "liáng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "开",
+          "kāi"
+        ],
+        [
+          "轩",
+          "xuān"
+        ],
+        [
+          "卧",
+          "wò"
+        ],
+        [
+          "闲",
+          "xián"
+        ],
+        [
+          "敞",
+          "chǎng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "荷",
+          "hé"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "送",
+          "sòng"
+        ],
+        [
+          "香",
+          "xiāng"
+        ],
+        [
+          "气",
+          "qì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "竹",
+          "zhú"
+        ],
+        [
+          "露",
+          "lù"
+        ],
+        [
+          "滴",
+          "dī"
+        ],
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "响",
+          "xiǎng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "取",
+          "qǔ"
+        ],
+        [
+          "鸣",
+          "míng"
+        ],
+        [
+          "琴",
+          "qín"
+        ],
+        [
+          "弹",
+          "dàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "恨",
+          "hèn"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "音",
+          "yīn"
+        ],
+        [
+          "赏",
+          "shǎng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "光",
+          "guāng"
+        ],
+        [
+          "忽",
+          "hū"
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "池",
+          "chí"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "渐",
+          "jiàn"
+        ],
+        [
+          "东",
+          "dōng"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "散",
+          "sàn"
+        ],
+        [
+          "发",
+          "fà"
+        ],
+        [
+          "乘",
+          "chéng"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "凉",
+          "liáng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "开",
+          "kāi"
+        ],
+        [
+          "轩",
+          "xuān"
+        ],
+        [
+          "卧",
+          "wò"
+        ],
+        [
+          "闲",
+          "xián"
+        ],
+        [
+          "敞",
+          "chǎng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "荷",
+          "hé"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "送",
+          "sòng"
+        ],
+        [
+          "香",
+          "xiāng"
+        ],
+        [
+          "气",
+          "qì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "竹",
+          "zhú"
+        ],
+        [
+          "露",
+          "lù"
+        ],
+        [
+          "滴",
+          "dī"
+        ],
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "响",
+          "xiǎng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "取",
+          "qǔ"
+        ],
+        [
+          "鸣",
+          "míng"
+        ],
+        [
+          "琴",
+          "qín"
+        ],
+        [
+          "弹",
+          "dàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "恨",
+          "hèn"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "音",
+          "yīn"
+        ],
+        [
+          "赏",
+          "shǎng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "感",
+          "gǎn"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "怀",
+          "huái"
+        ],
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "宵",
+          "xiāo"
+        ],
+        [
+          "劳",
+          "láo"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "想",
+          "xiǎng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.散发：洒脱不羁。"
+      }
+    ],
+    "tags": [
+      "五言古诗",
+      "友情",
+      "夏天",
+      "怀人"
+    ],
+    "english": {
+      "headingRaw": "Five-character-ancient-verseMengHaoranINSUMMERATTHESOUTHPAVILIONTHINKINGOFXING",
+      "translationRaw": "Themountain-lightsuddenlyfailsinthewest，Intheeastfromthelaketheslowmoonrises。IloosenmyhairtoenjoytheeveningcoolnessAndopenmywindowandliedowninpeace。Thewindbringsmeodoursoflotuses，Andbamboo-leavesdripwithamusicofdew。。。。IwouldtakeupmyluteandIwouldplay，But，alas，whoherewouldunderstand？AndsoIthinkofyou，oldfriend，Otroublerofmymidnightdreams！",
+      "translationClean": "Themountain-lightsuddenlyfailsinthewest, Intheeastfromthelaketheslowmoonrises. IloosenmyhairtoenjoytheeveningcoolnessAndopenmywindowandliedowninpeace. Thewindbringsmeodoursoflotuses, Andbamboo-leavesdripwithamusicofdew.... IwouldtakeupmyluteandIwouldplay, But, alas, whoherewouldunderstand? AndsoIthinkofyou, oldfriend, Otroublerofmymidnightdreams!",
+      "segments": [
+        "Themountain-lightsuddenlyfailsinthewest, Intheeastfromthelaketheslowmoonrises.",
+        "IloosenmyhairtoenjoytheeveningcoolnessAndopenmywindowandliedowninpeace.",
+        "Thewindbringsmeodoursoflotuses, Andbamboo-leavesdripwithamusicofdew....",
+        "IwouldtakeupmyluteandIwouldplay, But, alas, whoherewouldunderstand?",
+        "AndsoIthinkofyou, oldfriend, Otroublerofmymidnightdreams!"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 178,
+        "title": "夏日南亭怀辛大",
+        "author": "孟浩然"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.948
+      },
+      "ctext": {
+        "matched": true,
+        "order": 19,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 19,
+        "score": 0.97,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "f8afed4e-e8cd-467f-afae-51dc149921f7",
+        "score": 0.97
+      }
+    },
+    "visual": {
+      "image": "assets/illustrations-wuyan-gushi/019-tang-019-xia-ri-nan-ting-huai-xin-da.png",
+      "coreImagery": [
+        "南亭",
+        "荷风",
+        "竹露",
+        "月池"
+      ],
+      "mood": [
+        "清凉",
+        "怀友",
+        "舒展"
+      ],
+      "palette": [
+        "荷绿",
+        "月白",
+        "竹青",
+        "水蓝"
+      ],
+      "composition": "南亭临水，荷叶与竹影分置两侧，月色落在池心。",
+      "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+      "prompt": "夏日南亭怀辛大，孟浩然。核心意象：南亭、荷风、竹露、月池；情绪：清凉、怀友、舒展。南亭临水，荷叶与竹影分置两侧，月色落在池心。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+      "generatedAt": "2026-05-10T15:05:28+00:00",
+      "generator": "procedural-watercolor"
+    }
+  }
+}

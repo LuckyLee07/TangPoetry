@@ -1,0 +1,353 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-280-wu-yi-xiang",
+    "order": 280,
+    "section": "七言绝句",
+    "title": "乌衣巷",
+    "titleTraditional": "烏衣巷",
+    "author": "刘禹锡",
+    "authorTraditional": "劉禹錫",
+    "dynasty": "唐代",
+    "aliases": [
+      "乌衣巷"
+    ],
+    "lines": [
+      "朱雀桥边野草花，乌衣巷口夕阳斜。",
+      "旧时王谢堂前燕，飞入寻常百姓家。"
+    ],
+    "linesTraditional": [
+      "朱雀橋邊野草花，烏衣巷口夕陽斜。",
+      "舊時王謝堂前燕，飛入尋常百姓家。"
+    ],
+    "text": "朱雀桥边野草花，乌衣巷口夕阳斜。旧时王谢堂前燕，飞入寻常百姓家。",
+    "textTraditional": "朱雀橋邊野草花，烏衣巷口夕陽斜。舊時王謝堂前燕，飛入尋常百姓家。",
+    "displayLines": [
+      "朱雀桥边野草花，",
+      "乌衣巷口夕阳斜。",
+      "旧时王谢堂前燕，",
+      "飞入寻常百姓家。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "朱",
+          "zhū"
+        ],
+        [
+          "雀",
+          "què"
+        ],
+        [
+          "桥",
+          "qiáo"
+        ],
+        [
+          "边",
+          "biān"
+        ],
+        [
+          "野",
+          "yě"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "乌",
+          "wū"
+        ],
+        [
+          "衣",
+          "yī"
+        ],
+        [
+          "巷",
+          "xiàng"
+        ],
+        [
+          "口",
+          "kǒu"
+        ],
+        [
+          "夕",
+          "xī"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "斜",
+          "xié"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "旧",
+          "jiù"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "王",
+          "wáng"
+        ],
+        [
+          "谢",
+          "xiè"
+        ],
+        [
+          "堂",
+          "táng"
+        ],
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "燕",
+          "yàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "寻",
+          "xún"
+        ],
+        [
+          "常",
+          "cháng"
+        ],
+        [
+          "百",
+          "bǎi"
+        ],
+        [
+          "姓",
+          "xìng"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "朱",
+          "zhū"
+        ],
+        [
+          "雀",
+          "què"
+        ],
+        [
+          "桥",
+          "qiáo"
+        ],
+        [
+          "边",
+          "biān"
+        ],
+        [
+          "野",
+          "yě"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "乌",
+          "wū"
+        ],
+        [
+          "衣",
+          "yī"
+        ],
+        [
+          "巷",
+          "xiàng"
+        ],
+        [
+          "口",
+          "kǒu"
+        ],
+        [
+          "夕",
+          "xī"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "斜",
+          "xié"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "旧",
+          "jiù"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "王",
+          "wáng"
+        ],
+        [
+          "谢",
+          "xiè"
+        ],
+        [
+          "堂",
+          "táng"
+        ],
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "燕",
+          "yàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "寻",
+          "xún"
+        ],
+        [
+          "常",
+          "cháng"
+        ],
+        [
+          "百",
+          "bǎi"
+        ],
+        [
+          "姓",
+          "xìng"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.王谢：指晋时王导、谢安（一说谢鲲、谢灵运）。"
+      }
+    ],
+    "tags": [
+      "七言绝句",
+      "怀古",
+      "带有地名",
+      "地名"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainLiuYuxiBLACKTAILROW",
+      "translationRaw": "GrasshasrunwildnowbytheBridgeofRed-Birds；Andswallows』wings，atsunset，inBlacktailRowWhereoncetheyvisitedgreathomes，Dipamongdoorwaysofthepoor。",
+      "translationClean": "GrasshasrunwildnowbytheBridgeofRed-Birds; Andswallows'wings, atsunset, inBlacktailRowWhereoncetheyvisitedgreathomes, Dipamongdoorwaysofthepoor.",
+      "segments": [
+        "GrasshasrunwildnowbytheBridgeofRed-Birds;",
+        "Andswallows'wings, atsunset, inBlacktailRowWhereoncetheyvisitedgreathomes, Dipamongdoorwaysofthepoor."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 170,
+        "title": "乌衣巷",
+        "author": "刘禹锡"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 280,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 153,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "4fa92777-9bd6-45ca-9272-bac30459cf5e",
+        "score": 1
+      }
+    }
+  }
+}

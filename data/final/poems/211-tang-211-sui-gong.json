@@ -1,0 +1,633 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-211-sui-gong",
+    "order": 211,
+    "section": "七言律诗",
+    "title": "隋宫",
+    "titleTraditional": "隋宮",
+    "author": "李商隐",
+    "authorTraditional": "李商隱",
+    "dynasty": "唐代",
+    "aliases": [
+      "隋宫"
+    ],
+    "lines": [
+      "紫泉宫殿锁烟霞，欲取芜城作帝家。",
+      "玉玺不缘归日角，锦帆应是到天涯。",
+      "于今腐草无萤火，终古垂杨有暮鸦。",
+      "地下若逢陈后主，岂宜重问后庭花？"
+    ],
+    "linesTraditional": [
+      "紫泉宮殿鎖煙霞，欲取蕪城作帝家。",
+      "玉璽不緣歸日角，錦帆應是到天涯。",
+      "於今腐草無螢火，終古垂楊有暮鴉。",
+      "地下若逢陳後主，豈宜重問後庭花？"
+    ],
+    "text": "紫泉宫殿锁烟霞，欲取芜城作帝家。玉玺不缘归日角，锦帆应是到天涯。于今腐草无萤火，终古垂杨有暮鸦。地下若逢陈后主，岂宜重问后庭花？",
+    "textTraditional": "紫泉宮殿鎖煙霞，欲取蕪城作帝家。玉璽不緣歸日角，錦帆應是到天涯。於今腐草無螢火，終古垂楊有暮鴉。地下若逢陳後主，豈宜重問後庭花？",
+    "displayLines": [
+      "紫泉宫殿锁烟霞，",
+      "欲取芜城作帝家。",
+      "玉玺不缘归日角，",
+      "锦帆应是到天涯。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "紫",
+          "zǐ"
+        ],
+        [
+          "泉",
+          "quán"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "殿",
+          "diàn"
+        ],
+        [
+          "锁",
+          "suǒ"
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "霞",
+          "xiá"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "取",
+          "qǔ"
+        ],
+        [
+          "芜",
+          "wú"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "作",
+          "zuò"
+        ],
+        [
+          "帝",
+          "dì"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "玺",
+          "xǐ"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "缘",
+          "yuán"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "角",
+          "jiǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "锦",
+          "jǐn"
+        ],
+        [
+          "帆",
+          "fān"
+        ],
+        [
+          "应",
+          "yīng"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "到",
+          "dào"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "涯",
+          "yá"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "于",
+          "yú"
+        ],
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "腐",
+          "fǔ"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "萤",
+          "yíng"
+        ],
+        [
+          "火",
+          "huǒ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "终",
+          "zhōng"
+        ],
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "垂",
+          "chuí"
+        ],
+        [
+          "杨",
+          "yáng"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "鸦",
+          "yā"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "地",
+          "dì"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "若",
+          "ruò"
+        ],
+        [
+          "逢",
+          "féng"
+        ],
+        [
+          "陈",
+          "chén"
+        ],
+        [
+          "后",
+          "hòu"
+        ],
+        [
+          "主",
+          "zhǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "岂",
+          "qǐ"
+        ],
+        [
+          "宜",
+          "yí"
+        ],
+        [
+          "重",
+          "zhòng"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "后",
+          "hòu"
+        ],
+        [
+          "庭",
+          "tíng"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "紫",
+          "zǐ"
+        ],
+        [
+          "泉",
+          "quán"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "殿",
+          "diàn"
+        ],
+        [
+          "锁",
+          "suǒ"
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "霞",
+          "xiá"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "取",
+          "qǔ"
+        ],
+        [
+          "芜",
+          "wú"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "作",
+          "zuò"
+        ],
+        [
+          "帝",
+          "dì"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "玺",
+          "xǐ"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "缘",
+          "yuán"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "角",
+          "jiǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "锦",
+          "jǐn"
+        ],
+        [
+          "帆",
+          "fān"
+        ],
+        [
+          "应",
+          "yīng"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "到",
+          "dào"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "涯",
+          "yá"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "于",
+          "yú"
+        ],
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "腐",
+          "fǔ"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "萤",
+          "yíng"
+        ],
+        [
+          "火",
+          "huǒ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "终",
+          "zhōng"
+        ],
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "垂",
+          "chuí"
+        ],
+        [
+          "杨",
+          "yáng"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "鸦",
+          "yā"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "地",
+          "dì"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "若",
+          "ruò"
+        ],
+        [
+          "逢",
+          "féng"
+        ],
+        [
+          "陈",
+          "chén"
+        ],
+        [
+          "后",
+          "hòu"
+        ],
+        [
+          "主",
+          "zhǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "岂",
+          "qǐ"
+        ],
+        [
+          "宜",
+          "yí"
+        ],
+        [
+          "重",
+          "zhòng"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "后",
+          "hòu"
+        ],
+        [
+          "庭",
+          "tíng"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.日角：天庭中骨起，状如日。用称帝王异相。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.陈后主：南北朝时陈宣帝子，荒淫无度，隋师至，与孔师二妃匿于胭"
+      },
+      {
+        "source": "chiuinan",
+        "text": "脂井，被俘送长安。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "3.后庭花：曲名，陈后主为宫人所制。"
+      }
+    ],
+    "tags": [
+      "七言律诗",
+      "讽刺",
+      "咏史"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-regular-verseLiShangyinTHEPALACEOFTHESUIEMPEROR",
+      "translationRaw": "HisPalaceofPurpleSpringhasbeentakenbymistandcloud，AshewouldhavetakenallYangzhoutobehisprivatedomainButforthesealofimperialjadebeingseizedbythefirstTangEmperor，Hewouldhaveboundedwithhissilkensailsthelimitsoftheworld。Fire-fliesaregonenow，havelefttheweatheredgrasses，Butstillamongtheweeping-willowscrowsperchattwilight。。。。Ifhemeets，thereunderground，theLaterChenEmperor，DoyouthinkthattheywillmentionaSongofCourtyardFlowers？",
+      "translationClean": "HisPalaceofPurpleSpringhasbeentakenbymistandcloud, AshewouldhavetakenallYangzhoutobehisprivatedomainButforthesealofimperialjadebeingseizedbythefirstTangEmperor, Hewouldhaveboundedwithhissilkensailsthelimitsoftheworld. Fire-fliesaregonenow, havelefttheweatheredgrasses, Butstillamongtheweeping-willowscrowsperchattwilight.... Ifhemeets, thereunderground, theLaterChenEmperor, DoyouthinkthattheywillmentionaSongofCourtyardFlowers?",
+      "segments": [
+        "HisPalaceofPurpleSpringhasbeentakenbymistandcloud, AshewouldhavetakenallYangzhoutobehisprivatedomainButforthesealofimperialjadebeingseizedbythefirstTangEmperor, Hewouldhaveboundedwithhissilkensailsthelimitsoftheworld.",
+        "Fire-fliesaregonenow, havelefttheweatheredgrasses, Butstillamongtheweeping-willowscrowsperchattwilight....",
+        "Ifhemeets, thereunderground, theLaterChenEmperor, DoyouthinkthattheywillmentionaSongofCourtyardFlowers?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 14,
+        "title": "隋宫",
+        "author": "李商隐"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 211,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 307,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "670009c2-a701-4140-aa31-b4973f76d632",
+        "score": 1
+      }
+    }
+  }
+}

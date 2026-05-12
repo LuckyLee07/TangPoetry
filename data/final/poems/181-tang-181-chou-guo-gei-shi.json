@@ -1,0 +1,636 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-181-chou-guo-gei-shi",
+    "order": 181,
+    "section": "七言律诗",
+    "title": "酬郭给事",
+    "titleTraditional": "酬郭給事",
+    "author": "王维",
+    "authorTraditional": "王維",
+    "dynasty": "唐代",
+    "aliases": [
+      "酬郭给事"
+    ],
+    "lines": [
+      "洞门高阁霭余辉，桃李阴阴柳絮飞。",
+      "禁里疏钟官舍晚，省中啼鸟吏人稀。",
+      "晨摇玉珮趋金殿，夕奉天书拜琐闱。",
+      "强欲从君无那老，将因卧病解朝衣。"
+    ],
+    "linesTraditional": [
+      "洞門高閣靄餘輝，桃李陰陰柳絮飛。",
+      "禁裡疏鐘官舍晚，省中啼鳥吏人稀。",
+      "晨搖玉珮趨金殿，夕奉天書拜瑣闈。",
+      "強欲從君無那老，將因臥病解朝衣。"
+    ],
+    "text": "洞门高阁霭余辉，桃李阴阴柳絮飞。禁里疏钟官舍晚，省中啼鸟吏人稀。晨摇玉珮趋金殿，夕奉天书拜琐闱。强欲从君无那老，将因卧病解朝衣。",
+    "textTraditional": "洞門高閣靄餘輝，桃李陰陰柳絮飛。禁裡疏鐘官舍晚，省中啼鳥吏人稀。晨搖玉珮趨金殿，夕奉天書拜瑣闈。強欲從君無那老，將因臥病解朝衣。",
+    "displayLines": [
+      "洞门高阁霭余辉，",
+      "桃李阴阴柳絮飞。",
+      "禁里疏钟官舍晚，",
+      "省中啼鸟吏人稀。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "洞",
+          "dòng"
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "高",
+          "gāo"
+        ],
+        [
+          "阁",
+          "gé"
+        ],
+        [
+          "霭",
+          "ǎi"
+        ],
+        [
+          "余",
+          "yú"
+        ],
+        [
+          "辉",
+          "huī"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "桃",
+          "táo"
+        ],
+        [
+          "李",
+          "lǐ"
+        ],
+        [
+          "阴",
+          "yīn"
+        ],
+        [
+          "阴",
+          "yīn"
+        ],
+        [
+          "柳",
+          "liǔ"
+        ],
+        [
+          "絮",
+          "xù"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "禁",
+          "jìn"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "疏",
+          "shū"
+        ],
+        [
+          "钟",
+          "zhōng"
+        ],
+        [
+          "官",
+          "guān"
+        ],
+        [
+          "舍",
+          "shě"
+        ],
+        [
+          "晚",
+          "wǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "省",
+          "shěng"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "啼",
+          "tí"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "吏",
+          "lì"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "稀",
+          "xī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "晨",
+          "chén"
+        ],
+        [
+          "摇",
+          "yáo"
+        ],
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "珮",
+          "pèi"
+        ],
+        [
+          "趋",
+          "qū"
+        ],
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "殿",
+          "diàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "夕",
+          "xī"
+        ],
+        [
+          "奉",
+          "fèng"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "书",
+          "shū"
+        ],
+        [
+          "拜",
+          "bài"
+        ],
+        [
+          "琐",
+          "suǒ"
+        ],
+        [
+          "闱",
+          "wéi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "强",
+          "qiáng"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "从",
+          "cóng"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "那",
+          "nà"
+        ],
+        [
+          "老",
+          "lǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "将",
+          "jiàng"
+        ],
+        [
+          "因",
+          "yīn"
+        ],
+        [
+          "卧",
+          "wò"
+        ],
+        [
+          "病",
+          "bìng"
+        ],
+        [
+          "解",
+          "jiě"
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "衣",
+          "yī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "洞",
+          "dòng"
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "高",
+          "gāo"
+        ],
+        [
+          "阁",
+          "gé"
+        ],
+        [
+          "霭",
+          "ǎi"
+        ],
+        [
+          "余",
+          "yú"
+        ],
+        [
+          "辉",
+          "huī"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "桃",
+          "táo"
+        ],
+        [
+          "李",
+          "lǐ"
+        ],
+        [
+          "阴",
+          "yīn"
+        ],
+        [
+          "阴",
+          "yīn"
+        ],
+        [
+          "柳",
+          "liǔ"
+        ],
+        [
+          "絮",
+          "xù"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "禁",
+          "jìn"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "疏",
+          "shū"
+        ],
+        [
+          "钟",
+          "zhōng"
+        ],
+        [
+          "官",
+          "guān"
+        ],
+        [
+          "舍",
+          "shě"
+        ],
+        [
+          "晚",
+          "wǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "省",
+          "shěng"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "啼",
+          "tí"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "吏",
+          "lì"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "稀",
+          "xī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "晨",
+          "chén"
+        ],
+        [
+          "摇",
+          "yáo"
+        ],
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "珮",
+          "pèi"
+        ],
+        [
+          "趋",
+          "qū"
+        ],
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "殿",
+          "diàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "夕",
+          "xī"
+        ],
+        [
+          "奉",
+          "fèng"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "书",
+          "shū"
+        ],
+        [
+          "拜",
+          "bài"
+        ],
+        [
+          "琐",
+          "suǒ"
+        ],
+        [
+          "闱",
+          "wéi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "强",
+          "qiáng"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "从",
+          "cóng"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "那",
+          "nà"
+        ],
+        [
+          "老",
+          "lǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "将",
+          "jiàng"
+        ],
+        [
+          "因",
+          "yīn"
+        ],
+        [
+          "卧",
+          "wò"
+        ],
+        [
+          "病",
+          "bìng"
+        ],
+        [
+          "解",
+          "jiě"
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "衣",
+          "yī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.桃李：喻门生众多。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.禁里：宫禁里面。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "3.琐闱：宫门。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "4.无那：无奈。"
+      }
+    ],
+    "tags": [
+      "七言律诗",
+      "酬和"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-regular-verseWangWeiHARMONIZINGAPOEMBYPALACE-ATTENDANTGUO",
+      "translationRaw": "HighbeyondthethickwallatowershineswithsunsetWherepeachandplumarebloomingandthewillowcottonflies。Youhaveheardinyourofficethecourt-belloftwilight；Birdsfindperches，officialsheadforhome。Yourmorning-jadewilltinkleasyouthreadthegoldenpalace；YouwillbringthewordofHeavenfromtheclosinggatesatnight。AndIshouldservetherewithyou；butbeingfullofyears，Ihavetakenoffofficialrobesandamrestingfrommytroubles。",
+      "translationClean": "HighbeyondthethickwallatowershineswithsunsetWherepeachandplumarebloomingandthewillowcottonflies. Youhaveheardinyourofficethecourt-belloftwilight; Birdsfindperches, officialsheadforhome. Yourmorning-jadewilltinkleasyouthreadthegoldenpalace; YouwillbringthewordofHeavenfromtheclosinggatesatnight. AndIshouldservetherewithyou; butbeingfullofyears, Ihavetakenoffofficialrobesandamrestingfrommytroubles.",
+      "segments": [
+        "HighbeyondthethickwallatowershineswithsunsetWherepeachandplumarebloomingandthewillowcottonflies.",
+        "Youhaveheardinyourofficethecourt-belloftwilight;",
+        "Birdsfindperches, officialsheadforhome.",
+        "Yourmorning-jadewilltinkleasyouthreadthegoldenpalace;",
+        "YouwillbringthewordofHeavenfromtheclosinggatesatnight.",
+        "AndIshouldservetherewithyou;",
+        "butbeingfullofyears, Ihavetakenoffofficialrobesandamrestingfrommytroubles."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 95,
+        "title": "酬郭给事",
+        "author": "王维"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9721
+      },
+      "ctext": {
+        "matched": true,
+        "order": 181,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 278,
+        "score": 0.9643,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "7950a49f-f51d-4926-9d1e-e5f76b153829",
+        "score": 0.9643
+      }
+    }
+  }
+}

@@ -1,0 +1,388 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-045-you-zi-yin",
+    "order": 45,
+    "section": "乐府",
+    "title": "游子吟",
+    "titleTraditional": "遊子吟",
+    "author": "孟郊",
+    "authorTraditional": "孟郊",
+    "dynasty": "唐代",
+    "aliases": [
+      "游子吟"
+    ],
+    "lines": [
+      "慈母手中线，游子身上衣；",
+      "临行密密缝，意恐迟迟归。",
+      "谁言寸草心，报得三春辉？"
+    ],
+    "linesTraditional": [
+      "慈母手中線，遊子身上衣；",
+      "臨行密密縫，意恐遲遲歸。",
+      "誰言寸草心，報得三春輝？"
+    ],
+    "text": "慈母手中线，游子身上衣；临行密密缝，意恐迟迟归。谁言寸草心，报得三春辉？",
+    "textTraditional": "慈母手中線，遊子身上衣；臨行密密縫，意恐遲遲歸。誰言寸草心，報得三春輝？",
+    "displayLines": [
+      "慈母手中线，",
+      "游子身上衣；",
+      "临行密密缝，",
+      "意恐迟迟归。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "慈",
+          "cí"
+        ],
+        [
+          "母",
+          "mǔ"
+        ],
+        [
+          "手",
+          "shǒu"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "线",
+          "xiàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "游",
+          "yóu"
+        ],
+        [
+          "子",
+          "zi"
+        ],
+        [
+          "身",
+          "shēn"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "衣",
+          "yī"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "临",
+          "lín"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "密",
+          "mì"
+        ],
+        [
+          "密",
+          "mì"
+        ],
+        [
+          "缝",
+          "fèng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "意",
+          "yì"
+        ],
+        [
+          "恐",
+          "kǒng"
+        ],
+        [
+          "迟",
+          "chí"
+        ],
+        [
+          "迟",
+          "chí"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "谁",
+          "shuí"
+        ],
+        [
+          "言",
+          "yán"
+        ],
+        [
+          "寸",
+          "cùn"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "报",
+          "bào"
+        ],
+        [
+          "得",
+          "dé"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "辉",
+          "huī"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "慈",
+          "cí"
+        ],
+        [
+          "母",
+          "mǔ"
+        ],
+        [
+          "手",
+          "shǒu"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "线",
+          "xiàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "游",
+          "yóu"
+        ],
+        [
+          "子",
+          "zi"
+        ],
+        [
+          "身",
+          "shēn"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "衣",
+          "yī"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "临",
+          "lín"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "密",
+          "mì"
+        ],
+        [
+          "密",
+          "mì"
+        ],
+        [
+          "缝",
+          "fèng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "意",
+          "yì"
+        ],
+        [
+          "恐",
+          "kǒng"
+        ],
+        [
+          "迟",
+          "chí"
+        ],
+        [
+          "迟",
+          "chí"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "谁",
+          "shuí"
+        ],
+        [
+          "言",
+          "yán"
+        ],
+        [
+          "寸",
+          "cùn"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "报",
+          "bào"
+        ],
+        [
+          "得",
+          "dé"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "辉",
+          "huī"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "乐府",
+      "杂曲歌辞",
+      "母爱",
+      "三年级下册",
+      "赞颂"
+    ],
+    "english": {
+      "headingRaw": "Folk-song-styled-verseMengJiaoATRAVELLER』SSONG",
+      "translationRaw": "Thethreadinthehandsofafond-heartedmotherMakesclothesforthebodyofherwaywardboy；Carefullyshesewsandthoroughlyshemends，Dreadingthedelaysthatwillkeephimlatefromhome。Buthowmuchlovehastheinch-longgrassForthreespringmonthsofthelightofthesun？",
+      "translationClean": "Thethreadinthehandsofafond-heartedmotherMakesclothesforthebodyofherwaywardboy; Carefullyshesewsandthoroughlyshemends, Dreadingthedelaysthatwillkeephimlatefromhome. Buthowmuchlovehastheinch-longgrassForthreespringmonthsofthelightofthesun?",
+      "segments": [
+        "Thethreadinthehandsofafond-heartedmotherMakesclothesforthebodyofherwaywardboy;",
+        "Carefullyshesewsandthoroughlyshemends, Dreadingthedelaysthatwillkeephimlatefromhome.",
+        "Buthowmuchlovehastheinch-longgrassForthreespringmonthsofthelightofthesun?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 32,
+        "title": "游子吟",
+        "author": "孟郊"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.974
+      },
+      "ctext": {
+        "matched": true,
+        "order": 45,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 45,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "4cf19354-4c0a-4e55-980b-69fa7f81ed0f",
+        "score": 1
+      }
+    }
+  }
+}

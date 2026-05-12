@@ -1,0 +1,522 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-020-su-ye-shi-shan-fang-dai-ding-da-bu-zhi",
+    "order": 20,
+    "section": "五言古诗",
+    "title": "宿业师山房待丁大不至",
+    "titleTraditional": "宿業師山房待丁大不至",
+    "author": "孟浩然",
+    "authorTraditional": "孟浩然",
+    "dynasty": "唐代",
+    "aliases": [
+      "宿业师山房期丁大不至 / 宿业师山房待丁大不至",
+      "宿业师山房待丁大不至"
+    ],
+    "lines": [
+      "夕阳度西岭，群壑倏已暝；",
+      "松月生夜凉，风泉满清听。",
+      "樵人归欲尽，烟鸟栖初定。",
+      "之子期宿来，孤琴候萝径。"
+    ],
+    "linesTraditional": [
+      "夕陽度西嶺，群壑倏已暝；",
+      "松月生夜涼，風泉滿清聽。",
+      "樵人歸欲盡，煙鳥棲初定。",
+      "之子期宿來，孤琴候蘿徑。"
+    ],
+    "text": "夕阳度西岭，群壑倏已暝；松月生夜凉，风泉满清听。樵人归欲尽，烟鸟栖初定。之子期宿来，孤琴候萝径。",
+    "textTraditional": "夕陽度西嶺，群壑倏已暝；松月生夜涼，風泉滿清聽。樵人歸欲盡，煙鳥棲初定。之子期宿來，孤琴候蘿徑。",
+    "displayLines": [
+      "夕阳度西岭，",
+      "群壑倏已暝；",
+      "松月生夜凉，",
+      "风泉满清听。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "夕",
+          "xī"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "度",
+          "dù"
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "岭",
+          "lǐng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "群",
+          "qún"
+        ],
+        [
+          "壑",
+          "hè"
+        ],
+        [
+          "倏",
+          "shū"
+        ],
+        [
+          "已",
+          "yǐ"
+        ],
+        [
+          "暝",
+          "míng"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "松",
+          "sōng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "凉",
+          "liáng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "泉",
+          "quán"
+        ],
+        [
+          "满",
+          "mǎn"
+        ],
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "听",
+          "tīng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "樵",
+          "qiáo"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "尽",
+          "jǐn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "栖",
+          "qī"
+        ],
+        [
+          "初",
+          "chū"
+        ],
+        [
+          "定",
+          "dìng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "之",
+          "zhī"
+        ],
+        [
+          "子",
+          "zi"
+        ],
+        [
+          "期",
+          "qī"
+        ],
+        [
+          "宿",
+          "sù"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "琴",
+          "qín"
+        ],
+        [
+          "候",
+          "hòu"
+        ],
+        [
+          "萝",
+          "luó"
+        ],
+        [
+          "径",
+          "jìng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "夕",
+          "xī"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "度",
+          "dù"
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "岭",
+          "lǐng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "群",
+          "qún"
+        ],
+        [
+          "壑",
+          "hè"
+        ],
+        [
+          "倏",
+          "shū"
+        ],
+        [
+          "已",
+          "yǐ"
+        ],
+        [
+          "暝",
+          "míng"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "松",
+          "sōng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "凉",
+          "liáng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "泉",
+          "quán"
+        ],
+        [
+          "满",
+          "mǎn"
+        ],
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "听",
+          "tīng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "樵",
+          "qiáo"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "尽",
+          "jǐn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "栖",
+          "qī"
+        ],
+        [
+          "初",
+          "chū"
+        ],
+        [
+          "定",
+          "dìng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "之",
+          "zhī"
+        ],
+        [
+          "子",
+          "zi"
+        ],
+        [
+          "期",
+          "qī"
+        ],
+        [
+          "宿",
+          "sù"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "琴",
+          "qín"
+        ],
+        [
+          "候",
+          "hòu"
+        ],
+        [
+          "萝",
+          "luó"
+        ],
+        [
+          "径",
+          "jìng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.壑：音\"或\"，山坑。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.倏：音\"术\"，忽然。"
+      }
+    ],
+    "tags": [
+      "五言古诗",
+      "写景"
+    ],
+    "english": {
+      "headingRaw": "Five-character-ancient-verseMengHaoranATTHEMOUNTAIN-LODGEOFTHEBUDDHISTPRIESTYEWAITINGINVAINFORMYFRIENDDING",
+      "translationRaw": "Nowthatthesunhassetbeyondthewesternrange，Valleyaftervalleyisshadowyanddim。。。。Andnowthroughpine-treescomethemoonandthechillofevening，AndmyearsfeelpurewiththesoundofwindandwaterNearlyallthewoodsmenhavereachedhome，Birdshavesettledontheirperchesinthequietmist。。。。Andstill--becauseyoupromised--Iamwaitingforyou，waiting，Playingluteunderawaysidevine。",
+      "translationClean": "Nowthatthesunhassetbeyondthewesternrange, Valleyaftervalleyisshadowyanddim.... Andnowthroughpine-treescomethemoonandthechillofevening, AndmyearsfeelpurewiththesoundofwindandwaterNearlyallthewoodsmenhavereachedhome, Birdshavesettledontheirperchesinthequietmist.... Andstill--becauseyoupromised--Iamwaitingforyou, waiting, Playingluteunderawaysidevine.",
+      "segments": [
+        "Nowthatthesunhassetbeyondthewesternrange, Valleyaftervalleyisshadowyanddim....",
+        "Andnowthroughpine-treescomethemoonandthechillofevening, AndmyearsfeelpurewiththesoundofwindandwaterNearlyallthewoodsmenhavereachedhome, Birdshavesettledontheirperchesinthequietmist....",
+        "Andstill--becauseyoupromised--Iamwaitingforyou, waiting, Playingluteunderawaysidevine."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 55,
+        "title": "宿业师山房期丁大不至 / 宿业师山房待丁大不至",
+        "author": "孟浩然"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 20,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 20,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "3e504df9-b22d-480e-9e7c-9f8ab8591b91",
+        "score": 0.975
+      }
+    },
+    "visual": {
+      "image": "assets/illustrations-wuyan-gushi/020-tang-020-su-ye-shi-shan-fang-dai-ding-da-bu-zhi.png",
+      "coreImagery": [
+        "西岭夕阳",
+        "松月",
+        "风泉",
+        "孤琴"
+      ],
+      "mood": [
+        "静候",
+        "幽寂",
+        "失约"
+      ],
+      "palette": [
+        "夕金",
+        "松墨",
+        "泉白",
+        "夜青"
+      ],
+      "composition": "山房前有空席与孤琴，夕光将尽，松间泉声化成淡线。",
+      "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+      "prompt": "宿业师山房待丁大不至，孟浩然。核心意象：西岭夕阳、松月、风泉、孤琴；情绪：静候、幽寂、失约。山房前有空席与孤琴，夕光将尽，松间泉声化成淡线。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+      "generatedAt": "2026-05-10T15:05:28+00:00",
+      "generator": "procedural-watercolor"
+    }
+  }
+}

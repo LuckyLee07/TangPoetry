@@ -1,0 +1,497 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-118-zhong-nan-shan",
+    "order": 118,
+    "section": "五言律诗",
+    "title": "终南山",
+    "titleTraditional": "終南山",
+    "author": "王维",
+    "authorTraditional": "王維",
+    "dynasty": "唐代",
+    "aliases": [
+      "终南山"
+    ],
+    "lines": [
+      "太乙近天都，连山接海隅。",
+      "白云回望合，青霭入看无。",
+      "分野中峰变，阴晴众壑殊。",
+      "欲投人处宿，隔水问樵夫。"
+    ],
+    "linesTraditional": [
+      "太乙近天都，連山接海隅。",
+      "白雲迴望合，青靄入看無。",
+      "分野中峰變，陰晴眾壑殊。",
+      "欲投人處宿，隔水問樵夫。"
+    ],
+    "text": "太乙近天都，连山接海隅。白云回望合，青霭入看无。分野中峰变，阴晴众壑殊。欲投人处宿，隔水问樵夫。",
+    "textTraditional": "太乙近天都，連山接海隅。白雲迴望合，青靄入看無。分野中峰變，陰晴眾壑殊。欲投人處宿，隔水問樵夫。",
+    "displayLines": [
+      "太乙近天都，",
+      "连山接海隅。",
+      "白云回望合，",
+      "青霭入看无。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "太",
+          "tài"
+        ],
+        [
+          "乙",
+          "yǐ"
+        ],
+        [
+          "近",
+          "jìn"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "都",
+          "dōu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "连",
+          "lián"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "接",
+          "jiē"
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "隅",
+          "yú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "回",
+          "huí"
+        ],
+        [
+          "望",
+          "wàng"
+        ],
+        [
+          "合",
+          "hé"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "霭",
+          "ǎi"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "看",
+          "kàn"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "分",
+          "fēn"
+        ],
+        [
+          "野",
+          "yě"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "峰",
+          "fēng"
+        ],
+        [
+          "变",
+          "biàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "阴",
+          "yīn"
+        ],
+        [
+          "晴",
+          "qíng"
+        ],
+        [
+          "众",
+          "zhòng"
+        ],
+        [
+          "壑",
+          "hè"
+        ],
+        [
+          "殊",
+          "shū"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "投",
+          "tóu"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "宿",
+          "sù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "隔",
+          "gé"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "樵",
+          "qiáo"
+        ],
+        [
+          "夫",
+          "fū"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "太",
+          "tài"
+        ],
+        [
+          "乙",
+          "yǐ"
+        ],
+        [
+          "近",
+          "jìn"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "都",
+          "dōu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "连",
+          "lián"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "接",
+          "jiē"
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "隅",
+          "yú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "回",
+          "huí"
+        ],
+        [
+          "望",
+          "wàng"
+        ],
+        [
+          "合",
+          "hé"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "霭",
+          "ǎi"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "看",
+          "kàn"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "分",
+          "fēn"
+        ],
+        [
+          "野",
+          "yě"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "峰",
+          "fēng"
+        ],
+        [
+          "变",
+          "biàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "阴",
+          "yīn"
+        ],
+        [
+          "晴",
+          "qíng"
+        ],
+        [
+          "众",
+          "zhòng"
+        ],
+        [
+          "壑",
+          "hè"
+        ],
+        [
+          "殊",
+          "shū"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "投",
+          "tóu"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "宿",
+          "sù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "隔",
+          "gé"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "樵",
+          "qiáo"
+        ],
+        [
+          "夫",
+          "fū"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.太乙：即终南山，又称太一。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "终南山",
+      "一年级下册",
+      "高中古诗",
+      "描写山",
+      "写山"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseWangWeiMOUNTZHONGNAN",
+      "translationRaw": "ItsmassiveheightneartheCityofHeavenJoinsathousandmountainstothecornerofthesea。Clouds，whenIlookback，closebehindme，Mists，whenIenterthem，aregone。AcentralpeakdividesthewildsAndweatherintomanyvalleys。。。。Needingaplacetospendthenight，Icalltoawood-cutterovertheriver。",
+      "translationClean": "ItsmassiveheightneartheCityofHeavenJoinsathousandmountainstothecornerofthesea. Clouds, whenIlookback, closebehindme, Mists, whenIenterthem, aregone. AcentralpeakdividesthewildsAndweatherintomanyvalleys.... Needingaplacetospendthenight, Icalltoawood-cutterovertheriver.",
+      "segments": [
+        "ItsmassiveheightneartheCityofHeavenJoinsathousandmountainstothecornerofthesea.",
+        "Clouds, whenIlookback, closebehindme, Mists, whenIenterthem, aregone.",
+        "AcentralpeakdividesthewildsAndweatherintomanyvalleys....",
+        "Needingaplacetospendthenight, Icalltoawood-cutterovertheriver."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 222,
+        "title": "终南山",
+        "author": "王维"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 118,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 215,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "a5b1f5c9-1ba7-4533-b497-55b1d4af1bbb",
+        "score": 1
+      }
+    }
+  }
+}

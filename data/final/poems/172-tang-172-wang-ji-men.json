@@ -1,0 +1,634 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-172-wang-ji-men",
+    "order": 172,
+    "section": "七言律诗",
+    "title": "望蓟门",
+    "titleTraditional": "望薊門",
+    "author": "祖咏",
+    "authorTraditional": "祖詠",
+    "dynasty": "唐代",
+    "aliases": [
+      "望蓟门"
+    ],
+    "lines": [
+      "燕台一去客心惊，箫鼓喧喧汉将营。",
+      "万里寒光生积雪，三边曙色动危旌。",
+      "沙场烽火侵胡月，海畔云山拥蓟城。",
+      "少小虽非投笔吏，论功还欲请长缨。"
+    ],
+    "linesTraditional": [
+      "燕臺一去客心驚，簫鼓喧喧漢將營。",
+      "萬里寒光生積雪，三邊曙色動危旌。",
+      "沙場烽火侵胡月，海畔雲山擁薊城。",
+      "少小雖非投筆吏，論功還欲請長纓。"
+    ],
+    "text": "燕台一去客心惊，箫鼓喧喧汉将营。万里寒光生积雪，三边曙色动危旌。沙场烽火侵胡月，海畔云山拥蓟城。少小虽非投笔吏，论功还欲请长缨。",
+    "textTraditional": "燕臺一去客心驚，簫鼓喧喧漢將營。萬里寒光生積雪，三邊曙色動危旌。沙場烽火侵胡月，海畔雲山擁薊城。少小雖非投筆吏，論功還欲請長纓。",
+    "displayLines": [
+      "燕台一去客心惊，",
+      "箫鼓喧喧汉将营。",
+      "万里寒光生积雪，",
+      "三边曙色动危旌。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "燕",
+          "yàn"
+        ],
+        [
+          "台",
+          "tái"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "惊",
+          "jīng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "箫",
+          "xiāo"
+        ],
+        [
+          "鼓",
+          "gǔ"
+        ],
+        [
+          "喧",
+          "xuān"
+        ],
+        [
+          "喧",
+          "xuān"
+        ],
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "将",
+          "jiāng"
+        ],
+        [
+          "营",
+          "yíng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "光",
+          "guāng"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "积",
+          "jī"
+        ],
+        [
+          "雪",
+          "xuě"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "边",
+          "biān"
+        ],
+        [
+          "曙",
+          "shǔ"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "动",
+          "dòng"
+        ],
+        [
+          "危",
+          "wēi"
+        ],
+        [
+          "旌",
+          "jīng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "沙",
+          "shā"
+        ],
+        [
+          "场",
+          "chǎng"
+        ],
+        [
+          "烽",
+          "fēng"
+        ],
+        [
+          "火",
+          "huǒ"
+        ],
+        [
+          "侵",
+          "qīn"
+        ],
+        [
+          "胡",
+          "hú"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "畔",
+          "pàn"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "拥",
+          "yōng"
+        ],
+        [
+          "蓟",
+          "jì"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "少",
+          "shào"
+        ],
+        [
+          "小",
+          "xiǎo"
+        ],
+        [
+          "虽",
+          "suī"
+        ],
+        [
+          "非",
+          "fēi"
+        ],
+        [
+          "投",
+          "tóu"
+        ],
+        [
+          "笔",
+          "bǐ"
+        ],
+        [
+          "吏",
+          "lì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "论",
+          "lùn"
+        ],
+        [
+          "功",
+          "gōng"
+        ],
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "请",
+          "qǐng"
+        ],
+        [
+          "长",
+          "cháng"
+        ],
+        [
+          "缨",
+          "yīng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "燕",
+          "yàn"
+        ],
+        [
+          "台",
+          "tái"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "惊",
+          "jīng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "箫",
+          "xiāo"
+        ],
+        [
+          "鼓",
+          "gǔ"
+        ],
+        [
+          "喧",
+          "xuān"
+        ],
+        [
+          "喧",
+          "xuān"
+        ],
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "将",
+          "jiāng"
+        ],
+        [
+          "营",
+          "yíng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "光",
+          "guāng"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "积",
+          "jī"
+        ],
+        [
+          "雪",
+          "xuě"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "边",
+          "biān"
+        ],
+        [
+          "曙",
+          "shǔ"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "动",
+          "dòng"
+        ],
+        [
+          "危",
+          "wēi"
+        ],
+        [
+          "旌",
+          "jīng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "沙",
+          "shā"
+        ],
+        [
+          "场",
+          "chǎng"
+        ],
+        [
+          "烽",
+          "fēng"
+        ],
+        [
+          "火",
+          "huǒ"
+        ],
+        [
+          "侵",
+          "qīn"
+        ],
+        [
+          "胡",
+          "hú"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "畔",
+          "pàn"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "拥",
+          "yōng"
+        ],
+        [
+          "蓟",
+          "jì"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "少",
+          "shào"
+        ],
+        [
+          "小",
+          "xiǎo"
+        ],
+        [
+          "虽",
+          "suī"
+        ],
+        [
+          "非",
+          "fēi"
+        ],
+        [
+          "投",
+          "tóu"
+        ],
+        [
+          "笔",
+          "bǐ"
+        ],
+        [
+          "吏",
+          "lì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "论",
+          "lùn"
+        ],
+        [
+          "功",
+          "gōng"
+        ],
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "请",
+          "qǐng"
+        ],
+        [
+          "长",
+          "cháng"
+        ],
+        [
+          "缨",
+          "yīng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "笳鼓--一作 ：箫鼓"
+      },
+      {
+        "source": "chiuinan",
+        "text": "1.燕台：指燕昭王所筑，用以延天下士之黄金台。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.投笔吏：指汉班超。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "3.请长缨：指汉终军。自愿受长缨，系南越王颈。"
+      }
+    ],
+    "tags": [
+      "七言律诗",
+      "冬天",
+      "边塞"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseZuYongLOOKINGTOWARDANINNERGATEOFTHEGREATWALL",
+      "translationRaw": "MyheartsankwhenIheadednorthfromYanCountryTothecampsofChinaechoingithbugleanddrum。。。。Inanendlesscoldlightofmassivesnow，Tallflagsonthreebordersriseuplikeadawn。War-torchesinvadethebarbarianmoonlight，Mountain-cloudslikechairmenbeartheGreatWallfromthesea。。。。Thoughnoyouthfulclerkmeanttobeagreatgeneral，Ithrowasidemywriting-brush--Likethestudentwhotossedoffcapforalariat，Ichallengewhatmaycome。",
+      "translationClean": "MyheartsankwhenIheadednorthfromYanCountryTothecampsofChinaechoingithbugleanddrum.... Inanendlesscoldlightofmassivesnow, Tallflagsonthreebordersriseuplikeadawn. War-torchesinvadethebarbarianmoonlight, Mountain-cloudslikechairmenbeartheGreatWallfromthesea.... Thoughnoyouthfulclerkmeanttobeagreatgeneral, Ithrowasidemywriting-brush--Likethestudentwhotossedoffcapforalariat, Ichallengewhatmaycome.",
+      "segments": [
+        "MyheartsankwhenIheadednorthfromYanCountryTothecampsofChinaechoingithbugleanddrum....",
+        "Inanendlesscoldlightofmassivesnow, Tallflagsonthreebordersriseuplikeadawn.",
+        "War-torchesinvadethebarbarianmoonlight, Mountain-cloudslikechairmenbeartheGreatWallfromthesea....",
+        "Thoughnoyouthfulclerkmeanttobeagreatgeneral, Ithrowasidemywriting-brush--Likethestudentwhotossedoffcapforalariat, Ichallengewhatmaycome."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 21,
+        "title": "望蓟门",
+        "author": "祖咏"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9721
+      },
+      "ctext": {
+        "matched": true,
+        "order": 172,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 269,
+        "score": 0.9821,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "6beb5cc2-ae49-4e23-952a-1cb92fa11512",
+        "score": 0.9643
+      }
+    }
+  }
+}

@@ -1,0 +1,606 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-170-huang-he-lou",
+    "order": 170,
+    "section": "七言律诗",
+    "title": "黄鹤楼",
+    "titleTraditional": "黃鶴樓",
+    "author": "崔颢",
+    "authorTraditional": "崔顥",
+    "dynasty": "唐代",
+    "aliases": [
+      "黄鹤楼 / 登黄鹤楼",
+      "黄鹤楼"
+    ],
+    "lines": [
+      "昔人已乘黄鹤去，此地空余黄鹤楼。",
+      "黄鹤一去不复返，白云千载空悠悠。",
+      "晴川历历汉阳树，芳草萋萋鹦鹉洲。",
+      "日暮乡关何处是？",
+      "烟波江上使人愁。"
+    ],
+    "linesTraditional": [
+      "昔人已乘黃鶴去，此地空餘黃鶴樓。",
+      "黃鶴一去不復返，白雲千載空悠悠。",
+      "晴川歷歷漢陽樹，芳草萋萋鸚鵡洲。",
+      "日暮鄉關何處是？",
+      "煙波江上使人愁。"
+    ],
+    "text": "昔人已乘黄鹤去，此地空余黄鹤楼。黄鹤一去不复返，白云千载空悠悠。晴川历历汉阳树，芳草萋萋鹦鹉洲。日暮乡关何处是？烟波江上使人愁。",
+    "textTraditional": "昔人已乘黃鶴去，此地空餘黃鶴樓。黃鶴一去不復返，白雲千載空悠悠。晴川歷歷漢陽樹，芳草萋萋鸚鵡洲。日暮鄉關何處是？煙波江上使人愁。",
+    "displayLines": [
+      "昔人已乘黄鹤去，",
+      "此地空余黄鹤楼。",
+      "黄鹤一去不复返，",
+      "白云千载空悠悠。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "昔",
+          "xī"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "已",
+          "yǐ"
+        ],
+        [
+          "乘",
+          "chéng"
+        ],
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "鹤",
+          "hè"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "地",
+          "dì"
+        ],
+        [
+          "空",
+          "kòng"
+        ],
+        [
+          "余",
+          "yú"
+        ],
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "鹤",
+          "hè"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "鹤",
+          "hè"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "返",
+          "fǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "千",
+          "qiān"
+        ],
+        [
+          "载",
+          "zài"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "悠",
+          "yōu"
+        ],
+        [
+          "悠",
+          "yōu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "晴",
+          "qíng"
+        ],
+        [
+          "川",
+          "chuān"
+        ],
+        [
+          "历",
+          "lì"
+        ],
+        [
+          "历",
+          "lì"
+        ],
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "树",
+          "shù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "芳",
+          "fāng"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "萋",
+          "qī"
+        ],
+        [
+          "萋",
+          "qī"
+        ],
+        [
+          "鹦",
+          "yīng"
+        ],
+        [
+          "鹉",
+          "wǔ"
+        ],
+        [
+          "洲",
+          "zhōu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "昔",
+          "xī"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "已",
+          "yǐ"
+        ],
+        [
+          "乘",
+          "chéng"
+        ],
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "鹤",
+          "hè"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "地",
+          "dì"
+        ],
+        [
+          "空",
+          "kòng"
+        ],
+        [
+          "余",
+          "yú"
+        ],
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "鹤",
+          "hè"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "鹤",
+          "hè"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "返",
+          "fǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "千",
+          "qiān"
+        ],
+        [
+          "载",
+          "zài"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "悠",
+          "yōu"
+        ],
+        [
+          "悠",
+          "yōu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "晴",
+          "qíng"
+        ],
+        [
+          "川",
+          "chuān"
+        ],
+        [
+          "历",
+          "lì"
+        ],
+        [
+          "历",
+          "lì"
+        ],
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "树",
+          "shù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "芳",
+          "fāng"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "萋",
+          "qī"
+        ],
+        [
+          "萋",
+          "qī"
+        ],
+        [
+          "鹦",
+          "yīng"
+        ],
+        [
+          "鹉",
+          "wǔ"
+        ],
+        [
+          "洲",
+          "zhōu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "波",
+          "bō"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "使",
+          "shǐ"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "愁",
+          "chóu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.晴川：晴朗的平原。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.历历：明晰貌。"
+      }
+    ],
+    "tags": [
+      "七言律诗",
+      "黄鹤楼",
+      "八年级上册(课外)",
+      "写景",
+      "初中古诗",
+      "思乡",
+      "名楼、庙宇",
+      "怀古",
+      "带有地名",
+      "地名"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-regular-verseCuiHaoTHEYELLOWCRANETERRACE",
+      "translationRaw": "Wherelongagoayellowcraneboreasagetoheaven，NothingisleftnowbuttheYellowCraneTerrace。Theyellowcraneneverrevisitedearth，Andwhitecloudsareflyingwithouthimforever。。。。EverytreeinHanyangbecomesclearinthewater，AndParrotIslandisanestofsweetgrasses；ButIlooktowardhome，andtwilightgrowsdarkWithamistofgriefontheriverwaves。",
+      "translationClean": "Wherelongagoayellowcraneboreasagetoheaven, NothingisleftnowbuttheYellowCraneTerrace. Theyellowcraneneverrevisitedearth, Andwhitecloudsareflyingwithouthimforever.... EverytreeinHanyangbecomesclearinthewater, AndParrotIslandisanestofsweetgrasses; ButIlooktowardhome, andtwilightgrowsdarkWithamistofgriefontheriverwaves.",
+      "segments": [
+        "Wherelongagoayellowcraneboreasagetoheaven, NothingisleftnowbuttheYellowCraneTerrace.",
+        "Theyellowcraneneverrevisitedearth, Andwhitecloudsareflyingwithouthimforever....",
+        "EverytreeinHanyangbecomesclearinthewater, AndParrotIslandisanestofsweetgrasses;",
+        "ButIlooktowardhome, andtwilightgrowsdarkWithamistofgriefontheriverwaves."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 217,
+        "title": "黄鹤楼 / 登黄鹤楼",
+        "author": "崔颢"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 170,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 267,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "2188f98e-d5f0-4740-b94b-e1497a3619ee",
+        "score": 0.9464
+      }
+    }
+  }
+}

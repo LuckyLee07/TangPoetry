@@ -1,0 +1,630 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-171-xing-jing-hua-yin",
+    "order": 171,
+    "section": "七言律诗",
+    "title": "行经华阴",
+    "titleTraditional": "行經華陰",
+    "author": "崔颢",
+    "authorTraditional": "崔顥",
+    "dynasty": "唐代",
+    "aliases": [
+      "行经华阴"
+    ],
+    "lines": [
+      "岧峣太华俯咸京，天外三峰削不成。",
+      "武帝祠前云欲散，仙人掌上雨初晴。",
+      "河山北枕秦关险，驿树西连汉畤平。",
+      "借问路傍名利客，无如此处学长生。"
+    ],
+    "linesTraditional": [
+      "岧嶢太華俯咸京，天外三峰削不成。",
+      "武帝祠前雲欲散，仙人掌上雨初晴。",
+      "河山北枕秦關險，驛樹西連漢畤平。",
+      "借問路傍名利客，無如此處學長生。"
+    ],
+    "text": "岧峣太华俯咸京，天外三峰削不成。武帝祠前云欲散，仙人掌上雨初晴。河山北枕秦关险，驿树西连汉畤平。借问路傍名利客，无如此处学长生。",
+    "textTraditional": "岧嶢太華俯咸京，天外三峰削不成。武帝祠前雲欲散，仙人掌上雨初晴。河山北枕秦關險，驛樹西連漢畤平。借問路傍名利客，無如此處學長生。",
+    "displayLines": [
+      "岧峣太华俯咸京，",
+      "天外三峰削不成。",
+      "武帝祠前云欲散，",
+      "仙人掌上雨初晴。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "岧",
+          "tiáo"
+        ],
+        [
+          "峣",
+          "yáo"
+        ],
+        [
+          "太",
+          "tài"
+        ],
+        [
+          "华",
+          "huá"
+        ],
+        [
+          "俯",
+          "fǔ"
+        ],
+        [
+          "咸",
+          "xián"
+        ],
+        [
+          "京",
+          "jīng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "外",
+          "wài"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "峰",
+          "fēng"
+        ],
+        [
+          "削",
+          "xuē"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "成",
+          "chéng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "武",
+          "wǔ"
+        ],
+        [
+          "帝",
+          "dì"
+        ],
+        [
+          "祠",
+          "cí"
+        ],
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "散",
+          "sàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "仙",
+          "xiān"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "掌",
+          "zhǎng"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "初",
+          "chū"
+        ],
+        [
+          "晴",
+          "qíng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "河",
+          "hé"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "北",
+          "běi"
+        ],
+        [
+          "枕",
+          "zhěn"
+        ],
+        [
+          "秦",
+          "qín"
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "险",
+          "xiǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "驿",
+          "yì"
+        ],
+        [
+          "树",
+          "shù"
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "连",
+          "lián"
+        ],
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "畤",
+          "zhì"
+        ],
+        [
+          "平",
+          "píng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "借",
+          "jiè"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "路",
+          "lù"
+        ],
+        [
+          "傍",
+          "bàng"
+        ],
+        [
+          "名",
+          "míng"
+        ],
+        [
+          "利",
+          "lì"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "学",
+          "xué"
+        ],
+        [
+          "长",
+          "zhǎng"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "岧",
+          "tiáo"
+        ],
+        [
+          "峣",
+          "yáo"
+        ],
+        [
+          "太",
+          "tài"
+        ],
+        [
+          "华",
+          "huá"
+        ],
+        [
+          "俯",
+          "fǔ"
+        ],
+        [
+          "咸",
+          "xián"
+        ],
+        [
+          "京",
+          "jīng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "外",
+          "wài"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "峰",
+          "fēng"
+        ],
+        [
+          "削",
+          "xuē"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "成",
+          "chéng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "武",
+          "wǔ"
+        ],
+        [
+          "帝",
+          "dì"
+        ],
+        [
+          "祠",
+          "cí"
+        ],
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "散",
+          "sàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "仙",
+          "xiān"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "掌",
+          "zhǎng"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "初",
+          "chū"
+        ],
+        [
+          "晴",
+          "qíng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "河",
+          "hé"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "北",
+          "běi"
+        ],
+        [
+          "枕",
+          "zhěn"
+        ],
+        [
+          "秦",
+          "qín"
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "险",
+          "xiǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "驿",
+          "yì"
+        ],
+        [
+          "树",
+          "shù"
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "连",
+          "lián"
+        ],
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "畤",
+          "zhì"
+        ],
+        [
+          "平",
+          "píng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "借",
+          "jiè"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "路",
+          "lù"
+        ],
+        [
+          "傍",
+          "bàng"
+        ],
+        [
+          "名",
+          "míng"
+        ],
+        [
+          "利",
+          "lì"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "学",
+          "xué"
+        ],
+        [
+          "长",
+          "zhǎng"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "何--一作 ：无"
+      },
+      {
+        "source": "chiuinan",
+        "text": "1.岧峣：音条尧，山高貌。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.畤：音至，古时帝王祭天地的地方。"
+      }
+    ],
+    "tags": [
+      "七言律诗",
+      "怀古",
+      "山水"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-regular-verseCuiHaoPASSINGTHROUGHHUAYIN",
+      "translationRaw": "Lordsofthecapital，sharp，unearthly，TheGreatFlower』sthreepointspiercethroughheaven。CloudsarepartingabovetheTempleoftheWarringEmperor，Raindriesonthemountain，ontheGiant』sPalm。Rangesandriversarethestrengthofthiswesterngate，WhenceroadsandtrailsleaddownwardintoChina。。。。Opilgrimoffame，Oseekerofprofit，Whynotremainhereandlengthenyourdays？",
+      "translationClean": "Lordsofthecapital, sharp, unearthly, TheGreatFlower'sthreepointspiercethroughheaven. CloudsarepartingabovetheTempleoftheWarringEmperor, Raindriesonthemountain, ontheGiant'sPalm. Rangesandriversarethestrengthofthiswesterngate, WhenceroadsandtrailsleaddownwardintoChina.... Opilgrimoffame, Oseekerofprofit, Whynotremainhereandlengthenyourdays?",
+      "segments": [
+        "Lordsofthecapital, sharp, unearthly, TheGreatFlower'sthreepointspiercethroughheaven.",
+        "CloudsarepartingabovetheTempleoftheWarringEmperor, Raindriesonthemountain, ontheGiant'sPalm.",
+        "Rangesandriversarethestrengthofthiswesterngate, WhenceroadsandtrailsleaddownwardintoChina....",
+        "Opilgrimoffame, Oseekerofprofit, Whynotremainhereandlengthenyourdays?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 19,
+        "title": "行经华阴",
+        "author": "崔颢"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9721
+      },
+      "ctext": {
+        "matched": true,
+        "order": 171,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 268,
+        "score": 0.9821,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "39b2954c-04df-4561-ad6e-f4ddbae0db1e",
+        "score": 0.9464
+      }
+    }
+  }
+}

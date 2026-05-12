@@ -1,0 +1,509 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-151-mei-fan-gu-ren",
+    "order": 151,
+    "section": "五言律诗",
+    "title": "没蕃故人",
+    "titleTraditional": "沒蕃故人",
+    "author": "张籍",
+    "authorTraditional": "張籍",
+    "dynasty": "唐代",
+    "aliases": [
+      "没蕃故人"
+    ],
+    "lines": [
+      "前年伐月支，城下没全师。",
+      "蕃汉断消息，死生长别离。",
+      "无人收废帐，归马识残旗。",
+      "欲祭疑君在，天涯哭此时。",
+      "又作戎"
+    ],
+    "linesTraditional": [
+      "前年伐月支，城下沒全師。",
+      "蕃漢斷消息，死生長別離。",
+      "無人收廢帳，歸馬識殘旗。",
+      "欲祭疑君在，天涯哭此時。",
+      "又作戎"
+    ],
+    "text": "前年伐月支，城下没全师。蕃汉断消息，死生长别离。无人收废帐，归马识残旗。欲祭疑君在，天涯哭此时。又作戎",
+    "textTraditional": "前年伐月支，城下沒全師。蕃漢斷消息，死生長別離。無人收廢帳，歸馬識殘旗。欲祭疑君在，天涯哭此時。又作戎",
+    "displayLines": [
+      "前年伐月支，",
+      "城下没全师。",
+      "蕃汉断消息，",
+      "死生长别离。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "伐",
+          "fá"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "支",
+          "zhī"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "没",
+          "méi"
+        ],
+        [
+          "全",
+          "quán"
+        ],
+        [
+          "师",
+          "shī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "蕃",
+          "fān"
+        ],
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "断",
+          "duàn"
+        ],
+        [
+          "消",
+          "xiāo"
+        ],
+        [
+          "息",
+          "xī"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "死",
+          "sǐ"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "长",
+          "zhǎng"
+        ],
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "离",
+          "lí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "收",
+          "shōu"
+        ],
+        [
+          "废",
+          "fèi"
+        ],
+        [
+          "帐",
+          "zhàng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "识",
+          "shí"
+        ],
+        [
+          "残",
+          "cán"
+        ],
+        [
+          "旗",
+          "qí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "祭",
+          "jì"
+        ],
+        [
+          "疑",
+          "yí"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "涯",
+          "yá"
+        ],
+        [
+          "哭",
+          "kū"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "伐",
+          "fá"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "支",
+          "zhī"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "没",
+          "méi"
+        ],
+        [
+          "全",
+          "quán"
+        ],
+        [
+          "师",
+          "shī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "蕃",
+          "fān"
+        ],
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "断",
+          "duàn"
+        ],
+        [
+          "消",
+          "xiāo"
+        ],
+        [
+          "息",
+          "xī"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "死",
+          "sǐ"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "长",
+          "zhǎng"
+        ],
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "离",
+          "lí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "收",
+          "shōu"
+        ],
+        [
+          "废",
+          "fèi"
+        ],
+        [
+          "帐",
+          "zhàng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "识",
+          "shí"
+        ],
+        [
+          "残",
+          "cán"
+        ],
+        [
+          "旗",
+          "qí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "祭",
+          "jì"
+        ],
+        [
+          "疑",
+          "yí"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "涯",
+          "yá"
+        ],
+        [
+          "哭",
+          "kū"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "又",
+          "yòu"
+        ],
+        [
+          "作",
+          "zuò"
+        ],
+        [
+          "戎",
+          "róng"
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.月支：音肉支。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "怀人"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseZhangJiTHINKINGOFAFRIENDLOSTINTHETIBETANWAR",
+      "translationRaw": "LastyearyouwentwithyourtroopstoTibet；Andwhenyourmenhadvanishedbeyondthecitywall，NewswascutoffbetweenthetwoworldsAsbetweenthelivingandthedead。NoonehascomeuponafaithfulhorseguardingAcrumpledtentortornflag，oranytraceofyou。IfonlyIknew，Imightserveyouinthetemple，Insteadofthesetearstowardthefarsky。",
+      "translationClean": "LastyearyouwentwithyourtroopstoTibet; Andwhenyourmenhadvanishedbeyondthecitywall, NewswascutoffbetweenthetwoworldsAsbetweenthelivingandthedead. NoonehascomeuponafaithfulhorseguardingAcrumpledtentortornflag, oranytraceofyou. IfonlyIknew, Imightserveyouinthetemple, Insteadofthesetearstowardthefarsky.",
+      "segments": [
+        "LastyearyouwentwithyourtroopstoTibet;",
+        "Andwhenyourmenhadvanishedbeyondthecitywall, NewswascutoffbetweenthetwoworldsAsbetweenthelivingandthedead.",
+        "NoonehascomeuponafaithfulhorseguardingAcrumpledtentortornflag, oranytraceofyou.",
+        "IfonlyIknew, Imightserveyouinthetemple, Insteadofthesetearstowardthefarsky."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 135,
+        "title": "没蕃故人",
+        "author": "张籍"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9766
+      },
+      "ctext": {
+        "matched": true,
+        "order": 151,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 248,
+        "score": 0.975,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "5ccd5188-0e5d-450e-8ec5-d6e661fac4f7",
+        "score": 0.975
+      }
+    }
+  }
+}

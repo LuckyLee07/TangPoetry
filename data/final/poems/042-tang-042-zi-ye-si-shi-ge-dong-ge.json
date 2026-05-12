@@ -1,0 +1,392 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-042-zi-ye-si-shi-ge-dong-ge",
+    "order": 42,
+    "section": "乐府",
+    "title": "子夜四时歌冬歌",
+    "titleTraditional": "子夜四時歌冬歌",
+    "author": "李白",
+    "authorTraditional": "李白",
+    "dynasty": "唐代",
+    "aliases": [
+      "子夜吴歌·冬歌",
+      "子夜四时歌冬歌"
+    ],
+    "lines": [
+      "明朝驿使发，一夜絮征袍。",
+      "素手抽针冷，那堪把剪刀。",
+      "裁缝寄远道，几日到临洮。"
+    ],
+    "linesTraditional": [
+      "明朝驛使發，一夜絮征袍。",
+      "素手抽鍼冷，那堪把剪刀。",
+      "裁縫寄遠道，幾日到臨洮。"
+    ],
+    "text": "明朝驿使发，一夜絮征袍。素手抽针冷，那堪把剪刀。裁缝寄远道，几日到临洮。",
+    "textTraditional": "明朝驛使發，一夜絮征袍。素手抽鍼冷，那堪把剪刀。裁縫寄遠道，幾日到臨洮。",
+    "displayLines": [
+      "明朝驿使发，",
+      "一夜絮征袍。",
+      "素手抽针冷，",
+      "那堪把剪刀。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "驿",
+          "yì"
+        ],
+        [
+          "使",
+          "shǐ"
+        ],
+        [
+          "发",
+          "fā"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "絮",
+          "xù"
+        ],
+        [
+          "征",
+          "zhēng"
+        ],
+        [
+          "袍",
+          "páo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "素",
+          "sù"
+        ],
+        [
+          "手",
+          "shǒu"
+        ],
+        [
+          "抽",
+          "chōu"
+        ],
+        [
+          "针",
+          "zhēn"
+        ],
+        [
+          "冷",
+          "lěng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "那",
+          "nà"
+        ],
+        [
+          "堪",
+          "kān"
+        ],
+        [
+          "把",
+          "bǎ"
+        ],
+        [
+          "剪",
+          "jiǎn"
+        ],
+        [
+          "刀",
+          "dāo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "裁",
+          "cái"
+        ],
+        [
+          "缝",
+          "féng"
+        ],
+        [
+          "寄",
+          "jì"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "道",
+          "dào"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "到",
+          "dào"
+        ],
+        [
+          "临",
+          "lín"
+        ],
+        [
+          "洮",
+          "táo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "驿",
+          "yì"
+        ],
+        [
+          "使",
+          "shǐ"
+        ],
+        [
+          "发",
+          "fā"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "絮",
+          "xù"
+        ],
+        [
+          "征",
+          "zhēng"
+        ],
+        [
+          "袍",
+          "páo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "素",
+          "sù"
+        ],
+        [
+          "手",
+          "shǒu"
+        ],
+        [
+          "抽",
+          "chōu"
+        ],
+        [
+          "针",
+          "zhēn"
+        ],
+        [
+          "冷",
+          "lěng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "那",
+          "nà"
+        ],
+        [
+          "堪",
+          "kān"
+        ],
+        [
+          "把",
+          "bǎ"
+        ],
+        [
+          "剪",
+          "jiǎn"
+        ],
+        [
+          "刀",
+          "dāo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "裁",
+          "cái"
+        ],
+        [
+          "缝",
+          "féng"
+        ],
+        [
+          "寄",
+          "jì"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "道",
+          "dào"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "到",
+          "dào"
+        ],
+        [
+          "临",
+          "lín"
+        ],
+        [
+          "洮",
+          "táo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "乐府",
+      "思念",
+      "清商曲辞",
+      "妇女",
+      "冬天"
+    ],
+    "english": {
+      "headingRaw": "Folk-song-styled-verseLiBaiBALLADSOFFOURSEASONS：WINTER",
+      "translationRaw": "Thecourierwilldepartnextday，she』stold。Shesewsawarrior』sgownallnight。Herfingersfeeltheneedlecold。Howcansheholdthescissorstight？Theworkisdone，shesendsitfaraway。Whenwillitreachthetownwherewarriorsstay？",
+      "translationClean": "Thecourierwilldepartnextday, she'stold. Shesewsawarrior'sgownallnight. Herfingersfeeltheneedlecold. Howcansheholdthescissorstight? Theworkisdone, shesendsitfaraway. Whenwillitreachthetownwherewarriorsstay?",
+      "segments": [
+        "Thecourierwilldepartnextday, she'stold.",
+        "Shesewsawarrior'sgownallnight.",
+        "Herfingersfeeltheneedlecold.",
+        "Howcansheholdthescissorstight?",
+        "Theworkisdone, shesendsitfaraway.",
+        "Whenwillitreachthetownwherewarriorsstay?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 316,
+        "title": "子夜吴歌·冬歌",
+        "author": "李白"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9608
+      },
+      "ctext": {
+        "matched": true,
+        "order": 42,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 42,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "f990af2e-d929-48da-a9b3-fdbc706ca4a3",
+        "score": 1
+      }
+    }
+  }
+}

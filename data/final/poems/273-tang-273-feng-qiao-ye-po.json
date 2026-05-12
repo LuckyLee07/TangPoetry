@@ -1,0 +1,350 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-273-feng-qiao-ye-po",
+    "order": 273,
+    "section": "七言绝句",
+    "title": "枫桥夜泊",
+    "titleTraditional": "楓橋夜泊",
+    "author": "张继",
+    "authorTraditional": "張繼",
+    "dynasty": "唐代",
+    "aliases": [
+      "枫桥夜泊"
+    ],
+    "lines": [
+      "月落乌啼霜满天，江枫渔火对愁眠。",
+      "姑苏城外寒山寺，夜半钟声到客船。"
+    ],
+    "linesTraditional": [
+      "月落烏啼霜滿天，江楓漁火對愁眠。",
+      "姑蘇城外寒山寺，夜半鐘聲到客船。"
+    ],
+    "text": "月落乌啼霜满天，江枫渔火对愁眠。姑苏城外寒山寺，夜半钟声到客船。",
+    "textTraditional": "月落烏啼霜滿天，江楓漁火對愁眠。姑蘇城外寒山寺，夜半鐘聲到客船。",
+    "displayLines": [
+      "月落乌啼霜满天，",
+      "江枫渔火对愁眠。",
+      "姑苏城外寒山寺，",
+      "夜半钟声到客船。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "乌",
+          "wū"
+        ],
+        [
+          "啼",
+          "tí"
+        ],
+        [
+          "霜",
+          "shuāng"
+        ],
+        [
+          "满",
+          "mǎn"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "枫",
+          "fēng"
+        ],
+        [
+          "渔",
+          "yú"
+        ],
+        [
+          "火",
+          "huǒ"
+        ],
+        [
+          "对",
+          "duì"
+        ],
+        [
+          "愁",
+          "chóu"
+        ],
+        [
+          "眠",
+          "mián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "姑",
+          "gū"
+        ],
+        [
+          "苏",
+          "sū"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "外",
+          "wài"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "寺",
+          "sì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "半",
+          "bàn"
+        ],
+        [
+          "钟",
+          "zhōng"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "到",
+          "dào"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "船",
+          "chuán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "乌",
+          "wū"
+        ],
+        [
+          "啼",
+          "tí"
+        ],
+        [
+          "霜",
+          "shuāng"
+        ],
+        [
+          "满",
+          "mǎn"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "枫",
+          "fēng"
+        ],
+        [
+          "渔",
+          "yú"
+        ],
+        [
+          "火",
+          "huǒ"
+        ],
+        [
+          "对",
+          "duì"
+        ],
+        [
+          "愁",
+          "chóu"
+        ],
+        [
+          "眠",
+          "mián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "姑",
+          "gū"
+        ],
+        [
+          "苏",
+          "sū"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "外",
+          "wài"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "寺",
+          "sì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "半",
+          "bàn"
+        ],
+        [
+          "钟",
+          "zhōng"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "到",
+          "dào"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "船",
+          "chuán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "七言绝句",
+      "写景",
+      "秋天",
+      "思乡",
+      "秋"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainZhangJiANIGHT-MOORINGNEARMAPLEBRIDGE",
+      "translationRaw": "WhileIwatchthemoongodown，acrowcawsthroughthefrost；Undertheshadowsofmaple-treesafishermanmoveswithhistorch；AndIhear，frombeyondSuzhou，fromthetempleonColdMountain，Ringingforme，hereinmyboat，themidnightbell。",
+      "translationClean": "WhileIwatchthemoongodown, acrowcawsthroughthefrost; Undertheshadowsofmaple-treesafishermanmoveswithhistorch; AndIhear, frombeyondSuzhou, fromthetempleonColdMountain, Ringingforme, hereinmyboat, themidnightbell.",
+      "segments": [
+        "WhileIwatchthemoongodown, acrowcawsthroughthefrost;",
+        "Undertheshadowsofmaple-treesafishermanmoveswithhistorch;",
+        "AndIhear, frombeyondSuzhou, fromthetempleonColdMountain, Ringingforme, hereinmyboat, themidnightbell."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 139,
+        "title": "枫桥夜泊",
+        "author": "张继"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 273,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 146,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "3cda5a92-ffa2-4af0-9217-97ce36113705",
+        "score": 0.9643
+      }
+    }
+  }
+}

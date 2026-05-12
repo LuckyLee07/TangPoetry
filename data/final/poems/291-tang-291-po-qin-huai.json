@@ -1,0 +1,355 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-291-po-qin-huai",
+    "order": 291,
+    "section": "七言绝句",
+    "title": "泊秦淮",
+    "titleTraditional": "泊秦淮",
+    "author": "杜牧",
+    "authorTraditional": "杜牧",
+    "dynasty": "唐代",
+    "aliases": [
+      "泊秦淮"
+    ],
+    "lines": [
+      "烟笼寒水月笼沙，夜泊秦淮近酒家。",
+      "商女不知亡国恨，隔江犹唱后庭花。"
+    ],
+    "linesTraditional": [
+      "煙籠寒水月籠沙，夜泊秦淮近酒家。",
+      "商女不知亡國恨，隔江猶唱後庭花。"
+    ],
+    "text": "烟笼寒水月笼沙，夜泊秦淮近酒家。商女不知亡国恨，隔江犹唱后庭花。",
+    "textTraditional": "煙籠寒水月籠沙，夜泊秦淮近酒家。商女不知亡國恨，隔江猶唱後庭花。",
+    "displayLines": [
+      "烟笼寒水月笼沙，",
+      "夜泊秦淮近酒家。",
+      "商女不知亡国恨，",
+      "隔江犹唱后庭花。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "笼",
+          "lóng"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "笼",
+          "lóng"
+        ],
+        [
+          "沙",
+          "shā"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "泊",
+          "pō"
+        ],
+        [
+          "秦",
+          "qín"
+        ],
+        [
+          "淮",
+          "huái"
+        ],
+        [
+          "近",
+          "jìn"
+        ],
+        [
+          "酒",
+          "jiǔ"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "商",
+          "shāng"
+        ],
+        [
+          "女",
+          "nǚ"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "亡",
+          "wáng"
+        ],
+        [
+          "国",
+          "guó"
+        ],
+        [
+          "恨",
+          "hèn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "隔",
+          "gé"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "犹",
+          "yóu"
+        ],
+        [
+          "唱",
+          "chàng"
+        ],
+        [
+          "后",
+          "hòu"
+        ],
+        [
+          "庭",
+          "tíng"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "笼",
+          "lóng"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "笼",
+          "lóng"
+        ],
+        [
+          "沙",
+          "shā"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "泊",
+          "pō"
+        ],
+        [
+          "秦",
+          "qín"
+        ],
+        [
+          "淮",
+          "huái"
+        ],
+        [
+          "近",
+          "jìn"
+        ],
+        [
+          "酒",
+          "jiǔ"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "商",
+          "shāng"
+        ],
+        [
+          "女",
+          "nǚ"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "亡",
+          "wáng"
+        ],
+        [
+          "国",
+          "guó"
+        ],
+        [
+          "恨",
+          "hèn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "隔",
+          "gé"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "犹",
+          "yóu"
+        ],
+        [
+          "唱",
+          "chàng"
+        ],
+        [
+          "后",
+          "hòu"
+        ],
+        [
+          "庭",
+          "tíng"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.商女：卖唱的歌女。"
+      }
+    ],
+    "tags": [
+      "七言绝句",
+      "爱国",
+      "写景",
+      "初中古诗",
+      "抒怀",
+      "咏史怀古",
+      "七年级上册(课外)"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainDuMuAMOORINGONTHEQINHUAIRIVER",
+      "translationRaw": "Mistveilsthecoldstream，andmoonlightthesand，AsImoorintheshadowofariver-tavern，Wheregirls，withnothoughtofaperishedkingdom，GailyechoASongofCourtyardFlowers。",
+      "translationClean": "Mistveilsthecoldstream, andmoonlightthesand, AsImoorintheshadowofariver-tavern, Wheregirls, withnothoughtofaperishedkingdom, GailyechoASongofCourtyardFlowers.",
+      "segments": [
+        "Mistveilsthecoldstream, andmoonlightthesand, AsImoorintheshadowofariver-tavern, Wheregirls, withnothoughtofaperishedkingdom, GailyechoASongofCourtyardFlowers."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 175,
+        "title": "泊秦淮",
+        "author": "杜牧"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 291,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 164,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "8de30193-fba7-4aef-9ff9-c3726a22104d",
+        "score": 1
+      }
+    }
+  }
+}

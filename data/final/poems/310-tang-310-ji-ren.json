@@ -1,0 +1,356 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-310-ji-ren",
+    "order": 310,
+    "section": "七言绝句",
+    "title": "寄人",
+    "titleTraditional": "寄人",
+    "author": "张泌",
+    "authorTraditional": "張泌",
+    "dynasty": "唐代",
+    "aliases": [
+      "寄人"
+    ],
+    "lines": [
+      "别梦依依到谢家，小廊回合曲阑斜。",
+      "多情只有春庭月，犹为离人照落花。"
+    ],
+    "linesTraditional": [
+      "別夢依依到謝家，小廊回合曲闌斜。",
+      "多情只有春庭月，猶為離人照落花。"
+    ],
+    "text": "别梦依依到谢家，小廊回合曲阑斜。多情只有春庭月，犹为离人照落花。",
+    "textTraditional": "別夢依依到謝家，小廊回合曲闌斜。多情只有春庭月，猶為離人照落花。",
+    "displayLines": [
+      "别梦依依到谢家，",
+      "小廊回合曲阑斜。",
+      "多情只有春庭月，",
+      "犹为离人照落花。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "依",
+          "yī"
+        ],
+        [
+          "依",
+          "yī"
+        ],
+        [
+          "到",
+          "dào"
+        ],
+        [
+          "谢",
+          "xiè"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "小",
+          "xiǎo"
+        ],
+        [
+          "廊",
+          "láng"
+        ],
+        [
+          "回",
+          "huí"
+        ],
+        [
+          "合",
+          "hé"
+        ],
+        [
+          "曲",
+          "qū"
+        ],
+        [
+          "阑",
+          "lán"
+        ],
+        [
+          "斜",
+          "xié"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "多",
+          "duō"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "只",
+          "zhǐ"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "庭",
+          "tíng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "犹",
+          "yóu"
+        ],
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "离",
+          "lí"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "照",
+          "zhào"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "依",
+          "yī"
+        ],
+        [
+          "依",
+          "yī"
+        ],
+        [
+          "到",
+          "dào"
+        ],
+        [
+          "谢",
+          "xiè"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "小",
+          "xiǎo"
+        ],
+        [
+          "廊",
+          "láng"
+        ],
+        [
+          "回",
+          "huí"
+        ],
+        [
+          "合",
+          "hé"
+        ],
+        [
+          "曲",
+          "qū"
+        ],
+        [
+          "阑",
+          "lán"
+        ],
+        [
+          "斜",
+          "xié"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "多",
+          "duō"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "只",
+          "zhǐ"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "庭",
+          "tíng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "犹",
+          "yóu"
+        ],
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "离",
+          "lí"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "照",
+          "zhào"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.谢家：指对方所住之处。唐诗中多以谢女泛指女郎。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.曲阑：弯曲的阑干。"
+      }
+    ],
+    "tags": [
+      "七言绝句",
+      "思念",
+      "月亮",
+      "爱情"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainZhangBiAMESSAGE",
+      "translationRaw": "IgoinadreamtothehouseofXieThroughazigzagporchwitharchingrailsToacourtwherethespringmoonlightsforeverPhantomflowersandasinglefigure。",
+      "translationClean": "IgoinadreamtothehouseofXieThroughazigzagporchwitharchingrailsToacourtwherethespringmoonlightsforeverPhantomflowersandasinglefigure.",
+      "segments": [
+        "IgoinadreamtothehouseofXieThroughazigzagporchwitharchingrailsToacourtwherethespringmoonlightsforeverPhantomflowersandasinglefigure."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 284,
+        "title": "寄人",
+        "author": "张泌"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 310,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 183,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "afc2e6d6-e67f-4513-a6ab-82841d2f97cc",
+        "score": 1
+      }
+    }
+  }
+}

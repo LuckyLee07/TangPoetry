@@ -1,0 +1,499 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-109-yue-ye-yi-she-di",
+    "order": 109,
+    "section": "五言律诗",
+    "title": "月夜忆舍弟",
+    "titleTraditional": "月夜憶舍弟",
+    "author": "杜甫",
+    "authorTraditional": "杜甫",
+    "dynasty": "唐代",
+    "aliases": [
+      "月夜忆舍弟"
+    ],
+    "lines": [
+      "戍鼓断人行，秋边一雁声。",
+      "露从今夜白，月是故乡明。",
+      "有弟皆分散，无家问死生。",
+      "寄书长不达，况乃未休兵。"
+    ],
+    "linesTraditional": [
+      "戍鼓斷人行，秋邊一雁聲。",
+      "露從今夜白，月是故鄉明。",
+      "有弟皆分散，無家問死生。",
+      "寄書長不達，況乃未休兵。"
+    ],
+    "text": "戍鼓断人行，秋边一雁声。露从今夜白，月是故乡明。有弟皆分散，无家问死生。寄书长不达，况乃未休兵。",
+    "textTraditional": "戍鼓斷人行，秋邊一雁聲。露從今夜白，月是故鄉明。有弟皆分散，無家問死生。寄書長不達，況乃未休兵。",
+    "displayLines": [
+      "戍鼓断人行，",
+      "秋边一雁声。",
+      "露从今夜白，",
+      "月是故乡明。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "戍",
+          "shù"
+        ],
+        [
+          "鼓",
+          "gǔ"
+        ],
+        [
+          "断",
+          "duàn"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "边",
+          "biān"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "雁",
+          "yàn"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "露",
+          "lù"
+        ],
+        [
+          "从",
+          "cóng"
+        ],
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "弟",
+          "dì"
+        ],
+        [
+          "皆",
+          "jiē"
+        ],
+        [
+          "分",
+          "fēn"
+        ],
+        [
+          "散",
+          "sàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "死",
+          "sǐ"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "寄",
+          "jì"
+        ],
+        [
+          "书",
+          "shū"
+        ],
+        [
+          "长",
+          "zhǎng"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "达",
+          "dá"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "况",
+          "kuàng"
+        ],
+        [
+          "乃",
+          "nǎi"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "休",
+          "xiū"
+        ],
+        [
+          "兵",
+          "bīng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "戍",
+          "shù"
+        ],
+        [
+          "鼓",
+          "gǔ"
+        ],
+        [
+          "断",
+          "duàn"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "边",
+          "biān"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "雁",
+          "yàn"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "露",
+          "lù"
+        ],
+        [
+          "从",
+          "cóng"
+        ],
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "弟",
+          "dì"
+        ],
+        [
+          "皆",
+          "jiē"
+        ],
+        [
+          "分",
+          "fēn"
+        ],
+        [
+          "散",
+          "sàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "死",
+          "sǐ"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "寄",
+          "jì"
+        ],
+        [
+          "书",
+          "shū"
+        ],
+        [
+          "长",
+          "zhǎng"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "达",
+          "dá"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "况",
+          "kuàng"
+        ],
+        [
+          "乃",
+          "nǎi"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "休",
+          "xiū"
+        ],
+        [
+          "兵",
+          "bīng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "边秋--一作 :秋边"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "月夜",
+      "秋天",
+      "边塞",
+      "思乡",
+      "怀人",
+      "中秋"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseDuFuREMEMBERINGMYBROTHERSONAMOONLIGHTNIGHT",
+      "translationRaw": "Awandererhearsdrumsportendingbattle。Bythefirstcallofautumnfromawildgooseattheborder，Heknowsthatthedewstonightwillbefrost。。。。Howmuchbrighterthemoonlightisathome！Omybrothers，lostandscattered，Whatislifetomewithoutyou？Yetifmissivesintimeofpeacegowrong--WhatcanIhopeforduringwar？",
+      "translationClean": "Awandererhearsdrumsportendingbattle. Bythefirstcallofautumnfromawildgooseattheborder, Heknowsthatthedewstonightwillbefrost.... Howmuchbrighterthemoonlightisathome! Omybrothers, lostandscattered, Whatislifetomewithoutyou? Yetifmissivesintimeofpeacegowrong--WhatcanIhopeforduringwar?",
+      "segments": [
+        "Awandererhearsdrumsportendingbattle.",
+        "Bythefirstcallofautumnfromawildgooseattheborder, Heknowsthatthedewstonightwillbefrost....",
+        "Howmuchbrighterthemoonlightisathome!",
+        "Omybrothers, lostandscattered, Whatislifetomewithoutyou?",
+        "Yetifmissivesintimeofpeacegowrong--WhatcanIhopeforduringwar?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 213,
+        "title": "月夜忆舍弟",
+        "author": "杜甫"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9805
+      },
+      "ctext": {
+        "matched": true,
+        "order": 109,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 206,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "c1280e87-ac81-4f9b-9de5-377d6af38ae8",
+        "score": 0.95
+      }
+    }
+  }
+}

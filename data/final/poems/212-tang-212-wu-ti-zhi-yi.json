@@ -1,0 +1,636 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-212-wu-ti-zhi-yi",
+    "order": 212,
+    "section": "七言律诗",
+    "title": "无题之一",
+    "titleTraditional": "無題之一",
+    "author": "李商隐",
+    "authorTraditional": "李商隱",
+    "dynasty": "唐代",
+    "aliases": [
+      "无题·来是空言去绝踪",
+      "无题之一"
+    ],
+    "lines": [
+      "来是空言去绝踪，月斜楼上五更钟。",
+      "梦为远别啼难唤，书被催成墨未浓。",
+      "蜡照半笼金翡翠，麝熏微度绣芙蓉。",
+      "刘郎已恨蓬山远，更隔蓬山一万重。"
+    ],
+    "linesTraditional": [
+      "來是空言去絕蹤，月斜樓上五更鐘。",
+      "夢為遠別啼難喚，書被催成墨未濃。",
+      "蠟照半籠金翡翠，麝熏微度繡芙蓉。",
+      "劉郎已恨蓬山遠，更隔蓬山一萬重。"
+    ],
+    "text": "来是空言去绝踪，月斜楼上五更钟。梦为远别啼难唤，书被催成墨未浓。蜡照半笼金翡翠，麝熏微度绣芙蓉。刘郎已恨蓬山远，更隔蓬山一万重。",
+    "textTraditional": "來是空言去絕蹤，月斜樓上五更鐘。夢為遠別啼難喚，書被催成墨未濃。蠟照半籠金翡翠，麝熏微度繡芙蓉。劉郎已恨蓬山遠，更隔蓬山一萬重。",
+    "displayLines": [
+      "来是空言去绝踪，",
+      "月斜楼上五更钟。",
+      "梦为远别啼难唤，",
+      "书被催成墨未浓。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "言",
+          "yán"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "绝",
+          "jué"
+        ],
+        [
+          "踪",
+          "zōng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "斜",
+          "xié"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "五",
+          "wǔ"
+        ],
+        [
+          "更",
+          "gēng"
+        ],
+        [
+          "钟",
+          "zhōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "啼",
+          "tí"
+        ],
+        [
+          "难",
+          "nán"
+        ],
+        [
+          "唤",
+          "huàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "书",
+          "shū"
+        ],
+        [
+          "被",
+          "bèi"
+        ],
+        [
+          "催",
+          "cuī"
+        ],
+        [
+          "成",
+          "chéng"
+        ],
+        [
+          "墨",
+          "mò"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "浓",
+          "nóng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "蜡",
+          "là"
+        ],
+        [
+          "照",
+          "zhào"
+        ],
+        [
+          "半",
+          "bàn"
+        ],
+        [
+          "笼",
+          "lóng"
+        ],
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "翡",
+          "fěi"
+        ],
+        [
+          "翠",
+          "cuì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "麝",
+          "shè"
+        ],
+        [
+          "熏",
+          "xūn"
+        ],
+        [
+          "微",
+          "wēi"
+        ],
+        [
+          "度",
+          "dù"
+        ],
+        [
+          "绣",
+          "xiù"
+        ],
+        [
+          "芙",
+          "fú"
+        ],
+        [
+          "蓉",
+          "róng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "刘",
+          "liú"
+        ],
+        [
+          "郎",
+          "láng"
+        ],
+        [
+          "已",
+          "yǐ"
+        ],
+        [
+          "恨",
+          "hèn"
+        ],
+        [
+          "蓬",
+          "péng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "更",
+          "gèng"
+        ],
+        [
+          "隔",
+          "gé"
+        ],
+        [
+          "蓬",
+          "péng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "重",
+          "zhòng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "言",
+          "yán"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "绝",
+          "jué"
+        ],
+        [
+          "踪",
+          "zōng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "斜",
+          "xié"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "五",
+          "wǔ"
+        ],
+        [
+          "更",
+          "gēng"
+        ],
+        [
+          "钟",
+          "zhōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "啼",
+          "tí"
+        ],
+        [
+          "难",
+          "nán"
+        ],
+        [
+          "唤",
+          "huàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "书",
+          "shū"
+        ],
+        [
+          "被",
+          "bèi"
+        ],
+        [
+          "催",
+          "cuī"
+        ],
+        [
+          "成",
+          "chéng"
+        ],
+        [
+          "墨",
+          "mò"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "浓",
+          "nóng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "蜡",
+          "là"
+        ],
+        [
+          "照",
+          "zhào"
+        ],
+        [
+          "半",
+          "bàn"
+        ],
+        [
+          "笼",
+          "lóng"
+        ],
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "翡",
+          "fěi"
+        ],
+        [
+          "翠",
+          "cuì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "麝",
+          "shè"
+        ],
+        [
+          "熏",
+          "xūn"
+        ],
+        [
+          "微",
+          "wēi"
+        ],
+        [
+          "度",
+          "dù"
+        ],
+        [
+          "绣",
+          "xiù"
+        ],
+        [
+          "芙",
+          "fú"
+        ],
+        [
+          "蓉",
+          "róng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "刘",
+          "liú"
+        ],
+        [
+          "郎",
+          "láng"
+        ],
+        [
+          "已",
+          "yǐ"
+        ],
+        [
+          "恨",
+          "hèn"
+        ],
+        [
+          "蓬",
+          "péng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "更",
+          "gèng"
+        ],
+        [
+          "隔",
+          "gé"
+        ],
+        [
+          "蓬",
+          "péng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "重",
+          "zhòng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.芙蓉：称床帐。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.刘郎：指汉刘晨。汉永平五年，刘晨阮肇共入天台山，见二女子姿容"
+      },
+      {
+        "source": "chiuinan",
+        "text": "绝妙，遂留半年而归。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "3.蓬山：仙境。"
+      }
+    ],
+    "tags": [
+      "七言律诗",
+      "思念",
+      "记梦",
+      "爱情"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-regular-verseLiShangyinTOONEUNNAMEDI",
+      "translationRaw": "Yousaidyouwouldcome，butyoudidnot，andyouleftmewithnoothertraceThanthemoonlightonyourtoweratthefifth-watchbell。Icryforyouforevergone，Icannotwakenyet，Itrytoreadyourhurriednote，Ifindtheinktoopale。。。。Blueburnsyourcandleinitskingfisher-featherlanternAndasweetbreathstealsfromyourhibiscus-broideredcurtain。ButfarbeyondmyreachistheEnchantedMountain，Andyouareontheotherside，tenthousandpeaksaway。",
+      "translationClean": "Yousaidyouwouldcome, butyoudidnot, andyouleftmewithnoothertraceThanthemoonlightonyourtoweratthefifth-watchbell. Icryforyouforevergone, Icannotwakenyet, Itrytoreadyourhurriednote, Ifindtheinktoopale.... Blueburnsyourcandleinitskingfisher-featherlanternAndasweetbreathstealsfromyourhibiscus-broideredcurtain. ButfarbeyondmyreachistheEnchantedMountain, Andyouareontheotherside, tenthousandpeaksaway.",
+      "segments": [
+        "Yousaidyouwouldcome, butyoudidnot, andyouleftmewithnoothertraceThanthemoonlightonyourtoweratthefifth-watchbell.",
+        "Icryforyouforevergone, Icannotwakenyet, Itrytoreadyourhurriednote, Ifindtheinktoopale....",
+        "Blueburnsyourcandleinitskingfisher-featherlanternAndasweetbreathstealsfromyourhibiscus-broideredcurtain.",
+        "ButfarbeyondmyreachistheEnchantedMountain, Andyouareontheotherside, tenthousandpeaksaway."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 300,
+        "title": "无题·来是空言去绝踪",
+        "author": "李商隐"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9433
+      },
+      "ctext": {
+        "matched": true,
+        "order": 212,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 309,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "7377e34a-1aab-47e3-a6dd-376c98a5d6b7",
+        "score": 1
+      }
+    }
+  }
+}

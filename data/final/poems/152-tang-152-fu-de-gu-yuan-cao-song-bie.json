@@ -1,0 +1,504 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-152-fu-de-gu-yuan-cao-song-bie",
+    "order": 152,
+    "section": "五言律诗",
+    "title": "赋得古原草送别",
+    "titleTraditional": "賦得古原草送別",
+    "author": "白居易",
+    "authorTraditional": "白居易",
+    "dynasty": "唐代",
+    "aliases": [
+      "草 / 赋得古原草送别",
+      "赋得古原草送别"
+    ],
+    "lines": [
+      "离离原上草，一岁一枯荣。",
+      "野火烧不尽，春风吹又生。",
+      "远芳侵古道，晴翠接荒城。",
+      "又送王孙去，萋萋满别情。"
+    ],
+    "linesTraditional": [
+      "離離原上草，一歲一枯榮。",
+      "野火燒不盡，春風吹又生。",
+      "遠芳侵古道，晴翠接荒城。",
+      "又送王孫去，萋萋滿別情。"
+    ],
+    "text": "离离原上草，一岁一枯荣。野火烧不尽，春风吹又生。远芳侵古道，晴翠接荒城。又送王孙去，萋萋满别情。",
+    "textTraditional": "離離原上草，一歲一枯榮。野火燒不盡，春風吹又生。遠芳侵古道，晴翠接荒城。又送王孫去，萋萋滿別情。",
+    "displayLines": [
+      "离离原上草，",
+      "一岁一枯荣。",
+      "野火烧不尽，",
+      "春风吹又生。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "离",
+          "lí"
+        ],
+        [
+          "离",
+          "lí"
+        ],
+        [
+          "原",
+          "yuán"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "岁",
+          "suì"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "枯",
+          "kū"
+        ],
+        [
+          "荣",
+          "róng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "野",
+          "yě"
+        ],
+        [
+          "火",
+          "huǒ"
+        ],
+        [
+          "烧",
+          "shāo"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "尽",
+          "jìn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "吹",
+          "chuī"
+        ],
+        [
+          "又",
+          "yòu"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "芳",
+          "fāng"
+        ],
+        [
+          "侵",
+          "qīn"
+        ],
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "道",
+          "dào"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "晴",
+          "qíng"
+        ],
+        [
+          "翠",
+          "cuì"
+        ],
+        [
+          "接",
+          "jiē"
+        ],
+        [
+          "荒",
+          "huāng"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "又",
+          "yòu"
+        ],
+        [
+          "送",
+          "sòng"
+        ],
+        [
+          "王",
+          "wáng"
+        ],
+        [
+          "孙",
+          "sūn"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "萋",
+          "qī"
+        ],
+        [
+          "萋",
+          "qī"
+        ],
+        [
+          "满",
+          "mǎn"
+        ],
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "离",
+          "lí"
+        ],
+        [
+          "离",
+          "lí"
+        ],
+        [
+          "原",
+          "yuán"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "岁",
+          "suì"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "枯",
+          "kū"
+        ],
+        [
+          "荣",
+          "róng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "野",
+          "yě"
+        ],
+        [
+          "火",
+          "huǒ"
+        ],
+        [
+          "烧",
+          "shāo"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "尽",
+          "jìn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "吹",
+          "chuī"
+        ],
+        [
+          "又",
+          "yòu"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "芳",
+          "fāng"
+        ],
+        [
+          "侵",
+          "qīn"
+        ],
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "道",
+          "dào"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "晴",
+          "qíng"
+        ],
+        [
+          "翠",
+          "cuì"
+        ],
+        [
+          "接",
+          "jiē"
+        ],
+        [
+          "荒",
+          "huāng"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "又",
+          "yòu"
+        ],
+        [
+          "送",
+          "sòng"
+        ],
+        [
+          "王",
+          "wáng"
+        ],
+        [
+          "孙",
+          "sūn"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "萋",
+          "qī"
+        ],
+        [
+          "萋",
+          "qī"
+        ],
+        [
+          "满",
+          "mǎn"
+        ],
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.离离：蒙茸貌。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.萋萋：盛貌。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "写草",
+      "二年级下册",
+      "咏物",
+      "送别",
+      "咏物诗",
+      "小学古诗"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseBaiJuyiGRASSES",
+      "translationRaw": "BoundlessgrassesovertheplainComeandgowitheveryseason；Wildfireneverquiteconsumesthem--Theyaretalloncemoreinthespringwind。Sweettheypressontheoldhigh-roadAndreachthecrumblingcity-gate。。。。OPrinceofFriends，youaregoneagain。。。。Ihearthemsighingafteryou。",
+      "translationClean": "BoundlessgrassesovertheplainComeandgowitheveryseason; Wildfireneverquiteconsumesthem--Theyaretalloncemoreinthespringwind. Sweettheypressontheoldhigh-roadAndreachthecrumblingcity-gate.... OPrinceofFriends, youaregoneagain.... Ihearthemsighingafteryou.",
+      "segments": [
+        "BoundlessgrassesovertheplainComeandgowitheveryseason;",
+        "Wildfireneverquiteconsumesthem--Theyaretalloncemoreinthespringwind.",
+        "Sweettheypressontheoldhigh-roadAndreachthecrumblingcity-gate....",
+        "OPrinceofFriends, youaregoneagain....",
+        "Ihearthemsighingafteryou."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 225,
+        "title": "草 / 赋得古原草送别",
+        "author": "白居易"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 152,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 249,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "0174cbbc-31fa-4daf-b1cf-7f91c6a646a9",
+        "score": 1
+      }
+    }
+  }
+}

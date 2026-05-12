@@ -1,0 +1,496 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-167-chun-gong-yuan",
+    "order": 167,
+    "section": "五言律诗",
+    "title": "春宫怨",
+    "titleTraditional": "春宮怨",
+    "author": "杜荀鹤",
+    "authorTraditional": "杜荀鶴",
+    "dynasty": "唐代",
+    "aliases": [
+      "春宫怨"
+    ],
+    "lines": [
+      "早被婵娟误，欲妆临镜慵。",
+      "承恩不在貌，教妾若为容？",
+      "风暖鸟声碎，日高花影重。",
+      "年年越溪女，相忆采芙蓉。"
+    ],
+    "linesTraditional": [
+      "早被嬋娟誤，欲妝臨鏡慵。",
+      "承恩不在貌，教妾若為容？",
+      "風暖鳥聲碎，日高花影重。",
+      "年年越溪女，相憶採芙蓉。"
+    ],
+    "text": "早被婵娟误，欲妆临镜慵。承恩不在貌，教妾若为容？风暖鸟声碎，日高花影重。年年越溪女，相忆采芙蓉。",
+    "textTraditional": "早被嬋娟誤，欲妝臨鏡慵。承恩不在貌，教妾若為容？風暖鳥聲碎，日高花影重。年年越溪女，相憶採芙蓉。",
+    "displayLines": [
+      "早被婵娟误，",
+      "欲妆临镜慵。",
+      "承恩不在貌，",
+      "教妾若为容？"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "早",
+          "zǎo"
+        ],
+        [
+          "被",
+          "bèi"
+        ],
+        [
+          "婵",
+          "chán"
+        ],
+        [
+          "娟",
+          "juān"
+        ],
+        [
+          "误",
+          "wù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "妆",
+          "zhuāng"
+        ],
+        [
+          "临",
+          "lín"
+        ],
+        [
+          "镜",
+          "jìng"
+        ],
+        [
+          "慵",
+          "yōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "承",
+          "chéng"
+        ],
+        [
+          "恩",
+          "ēn"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "貌",
+          "mào"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "教",
+          "jiào"
+        ],
+        [
+          "妾",
+          "qiè"
+        ],
+        [
+          "若",
+          "ruò"
+        ],
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "容",
+          "róng"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "暖",
+          "nuǎn"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "碎",
+          "suì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "高",
+          "gāo"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "影",
+          "yǐng"
+        ],
+        [
+          "重",
+          "zhòng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "越",
+          "yuè"
+        ],
+        [
+          "溪",
+          "xī"
+        ],
+        [
+          "女",
+          "nǚ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "相",
+          "xiàng"
+        ],
+        [
+          "忆",
+          "yì"
+        ],
+        [
+          "采",
+          "cǎi"
+        ],
+        [
+          "芙",
+          "fú"
+        ],
+        [
+          "蓉",
+          "róng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "早",
+          "zǎo"
+        ],
+        [
+          "被",
+          "bèi"
+        ],
+        [
+          "婵",
+          "chán"
+        ],
+        [
+          "娟",
+          "juān"
+        ],
+        [
+          "误",
+          "wù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "妆",
+          "zhuāng"
+        ],
+        [
+          "临",
+          "lín"
+        ],
+        [
+          "镜",
+          "jìng"
+        ],
+        [
+          "慵",
+          "yōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "承",
+          "chéng"
+        ],
+        [
+          "恩",
+          "ēn"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "貌",
+          "mào"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "教",
+          "jiào"
+        ],
+        [
+          "妾",
+          "qiè"
+        ],
+        [
+          "若",
+          "ruò"
+        ],
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "容",
+          "róng"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "暖",
+          "nuǎn"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "碎",
+          "suì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "高",
+          "gāo"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "影",
+          "yǐng"
+        ],
+        [
+          "重",
+          "zhòng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "越",
+          "yuè"
+        ],
+        [
+          "溪",
+          "xī"
+        ],
+        [
+          "女",
+          "nǚ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "相",
+          "xiàng"
+        ],
+        [
+          "忆",
+          "yì"
+        ],
+        [
+          "采",
+          "cǎi"
+        ],
+        [
+          "芙",
+          "fú"
+        ],
+        [
+          "蓉",
+          "róng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.越溪：即若耶溪，西施浣纱处。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "宫怨",
+      "春天",
+      "写景",
+      "女子"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseDuXunheASIGHINTHESPRINGPALACE",
+      "translationRaw": "Knowingbeautymymisfortune，Ifacemymirrorwithasigh。Topleaseafastidiousemperor，HowshallIarraymyself？。。。。Birdsflockandsingwhenthewindiswarm，Flower-shadowsclimbwhenthesunishigh--AndyearafteryeargirlsinthesouthArepickinghibiscus，dreamingoflove！",
+      "translationClean": "Knowingbeautymymisfortune, Ifacemymirrorwithasigh. Topleaseafastidiousemperor, HowshallIarraymyself? .... Birdsflockandsingwhenthewindiswarm, Flower-shadowsclimbwhenthesunishigh--AndyearafteryeargirlsinthesouthArepickinghibiscus, dreamingoflove!",
+      "segments": [
+        "Knowingbeautymymisfortune, Ifacemymirrorwithasigh.",
+        "Topleaseafastidiousemperor, HowshallIarraymyself?",
+        "....",
+        "Birdsflockandsingwhenthewindiswarm, Flower-shadowsclimbwhenthesunishigh--AndyearafteryeargirlsinthesouthArepickinghibiscus, dreamingoflove!"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 245,
+        "title": "春宫怨",
+        "author": "杜荀鹤"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 167,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 264,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "8eaf97fd-82bb-4651-9dde-9a5a6f78182c",
+        "score": 1
+      }
+    }
+  }
+}

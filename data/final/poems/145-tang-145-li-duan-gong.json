@@ -1,0 +1,508 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-145-li-duan-gong",
+    "order": 145,
+    "section": "五言律诗",
+    "title": "李端公",
+    "titleTraditional": "李端公",
+    "author": "卢纶",
+    "authorTraditional": "盧綸",
+    "dynasty": "唐代",
+    "aliases": [
+      "李端公 / 送李端",
+      "李端公"
+    ],
+    "lines": [
+      "故关衰草遍，离别正堪悲。",
+      "路出寒云外，人归暮雪时。",
+      "少孤为客早，多难识君迟。",
+      "掩泪空相向，风尘何处期。"
+    ],
+    "linesTraditional": [
+      "故關衰草遍，離別正堪悲。",
+      "路出寒雲外，人歸暮雪時。",
+      "少孤為客早，多難識君遲。",
+      "掩淚空相向，風塵何處期。"
+    ],
+    "text": "故关衰草遍，离别正堪悲。路出寒云外，人归暮雪时。少孤为客早，多难识君迟。掩泪空相向，风尘何处期。",
+    "textTraditional": "故關衰草遍，離別正堪悲。路出寒雲外，人歸暮雪時。少孤為客早，多難識君遲。掩淚空相向，風塵何處期。",
+    "displayLines": [
+      "故关衰草遍，",
+      "离别正堪悲。",
+      "路出寒云外，",
+      "人归暮雪时。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "衰",
+          "shuāi"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "遍",
+          "biàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "离",
+          "lí"
+        ],
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "正",
+          "zhèng"
+        ],
+        [
+          "堪",
+          "kān"
+        ],
+        [
+          "悲",
+          "bēi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "路",
+          "lù"
+        ],
+        [
+          "出",
+          "chū"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "外",
+          "wài"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "雪",
+          "xuě"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "少",
+          "shǎo"
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "早",
+          "zǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "多",
+          "duō"
+        ],
+        [
+          "难",
+          "nán"
+        ],
+        [
+          "识",
+          "shí"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "迟",
+          "chí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "掩",
+          "yǎn"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "向",
+          "xiàng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "尘",
+          "chén"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "期",
+          "qī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "衰",
+          "shuāi"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "遍",
+          "biàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "离",
+          "lí"
+        ],
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "正",
+          "zhèng"
+        ],
+        [
+          "堪",
+          "kān"
+        ],
+        [
+          "悲",
+          "bēi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "路",
+          "lù"
+        ],
+        [
+          "出",
+          "chū"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "外",
+          "wài"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "雪",
+          "xuě"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "少",
+          "shǎo"
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "早",
+          "zǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "多",
+          "duō"
+        ],
+        [
+          "难",
+          "nán"
+        ],
+        [
+          "识",
+          "shí"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "迟",
+          "chí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "掩",
+          "yǎn"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "向",
+          "xiàng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "尘",
+          "chén"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "期",
+          "qī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "自堪悲--一作 ：正堪悲"
+      },
+      {
+        "source": "chiuinan",
+        "text": "1.寒云：冬天之云。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.少孤：年幼无父。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "冬天",
+      "友情",
+      "送别",
+      "伤怀"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseLuLunAFAREWELLTOLIDUAN",
+      "translationRaw": "Bymyoldgate，amongyellowgrasses，Stillwelinger，sickatheart。ThewayyoumustfollowthroughcoldcloudsWillleadyouthiseveningintosnow。Yourfatherdied；youlefthomeyoung；Nobodyknewofyourmisfortunes。Wecry，wesaynothing。WhatcanIwishyou，Inthisblowingwintryworld？",
+      "translationClean": "Bymyoldgate, amongyellowgrasses, Stillwelinger, sickatheart. ThewayyoumustfollowthroughcoldcloudsWillleadyouthiseveningintosnow. Yourfatherdied; youlefthomeyoung; Nobodyknewofyourmisfortunes. Wecry, wesaynothing. WhatcanIwishyou, Inthisblowingwintryworld?",
+      "segments": [
+        "Bymyoldgate, amongyellowgrasses, Stillwelinger, sickatheart.",
+        "ThewayyoumustfollowthroughcoldcloudsWillleadyouthiseveningintosnow.",
+        "Yourfatherdied;",
+        "youlefthomeyoung;",
+        "Nobodyknewofyourmisfortunes.",
+        "Wecry, wesaynothing.",
+        "WhatcanIwishyou, Inthisblowingwintryworld?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 315,
+        "title": "李端公 / 送李端",
+        "author": "卢纶"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9805
+      },
+      "ctext": {
+        "matched": true,
+        "order": 145,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 242,
+        "score": 0.95,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "f4301f96-e872-4eae-aa51-0d12328059d1",
+        "score": 1
+      }
+    }
+  }
+}

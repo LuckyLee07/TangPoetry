@@ -1,0 +1,488 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-095-za-shi",
+    "order": 95,
+    "section": "五言律诗",
+    "title": "杂诗",
+    "titleTraditional": "雜詩",
+    "author": "沈佺期",
+    "authorTraditional": "沈佺期",
+    "dynasty": "唐代",
+    "aliases": [
+      "杂诗三首·其三",
+      "杂诗"
+    ],
+    "lines": [
+      "闻道黄龙戍，频年不解兵。",
+      "可怜闺里月，长在汉家营。",
+      "少妇今春意，良人昨夜情。",
+      "谁能将旗鼓，一为取龙城？"
+    ],
+    "linesTraditional": [
+      "聞道黃龍戍，頻年不解兵。",
+      "可憐閨裡月，長在漢家營。",
+      "少婦今春意，良人昨夜情。",
+      "誰能將旗鼓，一為取龍城？"
+    ],
+    "text": "闻道黄龙戍，频年不解兵。可怜闺里月，长在汉家营。少妇今春意，良人昨夜情。谁能将旗鼓，一为取龙城？",
+    "textTraditional": "聞道黃龍戍，頻年不解兵。可憐閨裡月，長在漢家營。少婦今春意，良人昨夜情。誰能將旗鼓，一為取龍城？",
+    "displayLines": [
+      "闻道黄龙戍，",
+      "频年不解兵。",
+      "可怜闺里月，",
+      "长在汉家营。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "闻",
+          "wén"
+        ],
+        [
+          "道",
+          "dào"
+        ],
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "龙",
+          "lóng"
+        ],
+        [
+          "戍",
+          "shù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "频",
+          "pín"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "解",
+          "jiě"
+        ],
+        [
+          "兵",
+          "bīng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "可",
+          "kě"
+        ],
+        [
+          "怜",
+          "lián"
+        ],
+        [
+          "闺",
+          "guī"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "长",
+          "zhǎng"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "营",
+          "yíng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "少",
+          "shào"
+        ],
+        [
+          "妇",
+          "fù"
+        ],
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "意",
+          "yì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "良",
+          "liáng"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "昨",
+          "zuó"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "谁",
+          "shuí"
+        ],
+        [
+          "能",
+          "néng"
+        ],
+        [
+          "将",
+          "jiāng"
+        ],
+        [
+          "旗",
+          "qí"
+        ],
+        [
+          "鼓",
+          "gǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "取",
+          "qǔ"
+        ],
+        [
+          "龙",
+          "lóng"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "闻",
+          "wén"
+        ],
+        [
+          "道",
+          "dào"
+        ],
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "龙",
+          "lóng"
+        ],
+        [
+          "戍",
+          "shù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "频",
+          "pín"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "解",
+          "jiě"
+        ],
+        [
+          "兵",
+          "bīng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "可",
+          "kě"
+        ],
+        [
+          "怜",
+          "lián"
+        ],
+        [
+          "闺",
+          "guī"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "长",
+          "zhǎng"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "营",
+          "yíng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "少",
+          "shào"
+        ],
+        [
+          "妇",
+          "fù"
+        ],
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "意",
+          "yì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "良",
+          "liáng"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "昨",
+          "zuó"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "谁",
+          "shuí"
+        ],
+        [
+          "能",
+          "néng"
+        ],
+        [
+          "将",
+          "jiāng"
+        ],
+        [
+          "旗",
+          "qí"
+        ],
+        [
+          "鼓",
+          "gǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "取",
+          "qǔ"
+        ],
+        [
+          "龙",
+          "lóng"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言律诗",
+      "战争",
+      "妇女",
+      "相思"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseShenQuanqiLINES",
+      "translationRaw": "AgainsttheCityoftheYellowDragonOurtroopsweresentlongyearsago，AndgirlsherewatchthesamemelancholymoonThatlightsourChinesewarriors--Andyoungwivesdreamadreamofspring，Thatlastnighttheirheroichusbands，Inagreatattack，withflagsanddrums，CapturedtheCityoftheYellowDragon。",
+      "translationClean": "AgainsttheCityoftheYellowDragonOurtroopsweresentlongyearsago, AndgirlsherewatchthesamemelancholymoonThatlightsourChinesewarriors--Andyoungwivesdreamadreamofspring, Thatlastnighttheirheroichusbands, Inagreatattack, withflagsanddrums, CapturedtheCityoftheYellowDragon.",
+      "segments": [
+        "AgainsttheCityoftheYellowDragonOurtroopsweresentlongyearsago, AndgirlsherewatchthesamemelancholymoonThatlightsourChinesewarriors--Andyoungwivesdreamadreamofspring, Thatlastnighttheirheroichusbands, Inagreatattack, withflagsanddrums, CapturedtheCityoftheYellowDragon."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 10,
+        "title": "杂诗三首·其三",
+        "author": "沈佺期"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.966
+      },
+      "ctext": {
+        "matched": true,
+        "order": 95,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 192,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "1fb10ea4-f46c-4c08-bd06-f039f1907be6",
+        "score": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,587 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-207-qian-bei-huai-zhi-san",
+    "order": 207,
+    "section": "七言律诗",
+    "title": "遣悲怀之三",
+    "titleTraditional": "遣悲懷之三",
+    "author": "元稹",
+    "authorTraditional": "元稹",
+    "dynasty": "唐代",
+    "aliases": [
+      "遣悲怀三首·其三",
+      "遣悲怀之三"
+    ],
+    "lines": [
+      "闲坐悲君亦自悲，百年都是几多时？",
+      "邓攸无子寻知命，潘岳悼亡犹费词。",
+      "同穴窅冥何所望？",
+      "他生缘会更难期。",
+      "惟将终夜长开眼，报答平生未展眉。"
+    ],
+    "linesTraditional": [
+      "閑坐悲君亦自悲，百年都是幾多時？",
+      "鄧攸無子尋知命，潘岳悼亡猶費詞。",
+      "同穴窅冥何所望？",
+      "他生緣會更難期。",
+      "惟將終夜長開眼，報答平生未展眉。"
+    ],
+    "text": "闲坐悲君亦自悲，百年都是几多时？邓攸无子寻知命，潘岳悼亡犹费词。同穴窅冥何所望？他生缘会更难期。惟将终夜长开眼，报答平生未展眉。",
+    "textTraditional": "閑坐悲君亦自悲，百年都是幾多時？鄧攸無子尋知命，潘岳悼亡猶費詞。同穴窅冥何所望？他生緣會更難期。惟將終夜長開眼，報答平生未展眉。",
+    "displayLines": [
+      "闲坐悲君亦自悲，",
+      "百年都是几多时？",
+      "邓攸无子寻知命，",
+      "潘岳悼亡犹费词。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "闲",
+          "xián"
+        ],
+        [
+          "坐",
+          "zuò"
+        ],
+        [
+          "悲",
+          "bēi"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "亦",
+          "yì"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "悲",
+          "bēi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "百",
+          "bǎi"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "都",
+          "dōu"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "多",
+          "duō"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "邓",
+          "dèng"
+        ],
+        [
+          "攸",
+          "yōu"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "子",
+          "zi"
+        ],
+        [
+          "寻",
+          "xún"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "命",
+          "mìng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "潘",
+          "pān"
+        ],
+        [
+          "岳",
+          "yuè"
+        ],
+        [
+          "悼",
+          "dào"
+        ],
+        [
+          "亡",
+          "wáng"
+        ],
+        [
+          "犹",
+          "yóu"
+        ],
+        [
+          "费",
+          "fèi"
+        ],
+        [
+          "词",
+          "cí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "同",
+          "tóng"
+        ],
+        [
+          "穴",
+          "xué"
+        ],
+        [
+          "窅",
+          "yǎo"
+        ],
+        [
+          "冥",
+          "míng"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "所",
+          "suǒ"
+        ],
+        [
+          "望",
+          "wàng"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "他",
+          "tā"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "缘",
+          "yuán"
+        ],
+        [
+          "会",
+          "huì"
+        ],
+        [
+          "更",
+          "gèng"
+        ],
+        [
+          "难",
+          "nán"
+        ],
+        [
+          "期",
+          "qī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "闲",
+          "xián"
+        ],
+        [
+          "坐",
+          "zuò"
+        ],
+        [
+          "悲",
+          "bēi"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "亦",
+          "yì"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "悲",
+          "bēi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "百",
+          "bǎi"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "都",
+          "dōu"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "多",
+          "duō"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "邓",
+          "dèng"
+        ],
+        [
+          "攸",
+          "yōu"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "子",
+          "zi"
+        ],
+        [
+          "寻",
+          "xún"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "命",
+          "mìng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "潘",
+          "pān"
+        ],
+        [
+          "岳",
+          "yuè"
+        ],
+        [
+          "悼",
+          "dào"
+        ],
+        [
+          "亡",
+          "wáng"
+        ],
+        [
+          "犹",
+          "yóu"
+        ],
+        [
+          "费",
+          "fèi"
+        ],
+        [
+          "词",
+          "cí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "同",
+          "tóng"
+        ],
+        [
+          "穴",
+          "xué"
+        ],
+        [
+          "窅",
+          "yǎo"
+        ],
+        [
+          "冥",
+          "míng"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "所",
+          "suǒ"
+        ],
+        [
+          "望",
+          "wàng"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "他",
+          "tā"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "缘",
+          "yuán"
+        ],
+        [
+          "会",
+          "huì"
+        ],
+        [
+          "更",
+          "gèng"
+        ],
+        [
+          "难",
+          "nán"
+        ],
+        [
+          "期",
+          "qī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "惟",
+          "wéi"
+        ],
+        [
+          "将",
+          "jiāng"
+        ],
+        [
+          "终",
+          "zhōng"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "长",
+          "zhǎng"
+        ],
+        [
+          "开",
+          "kāi"
+        ],
+        [
+          "眼",
+          "yǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "报",
+          "bào"
+        ],
+        [
+          "答",
+          "dá"
+        ],
+        [
+          "平",
+          "píng"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "展",
+          "zhǎn"
+        ],
+        [
+          "眉",
+          "méi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.邓攸：晋时人，战乱中弃子保姪，后终生无子嗣。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.潘岳：晋时人，美姿仪，词藻鲜丽。因妻亡，作悼亡诗三首。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "3.窅冥：幽渺难知。窅，音咬。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "4.常开眼：喻己之鳏不再娶。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "自河南经乱，关内阻饥，兄弟离散，"
+      },
+      {
+        "source": "chiuinan",
+        "text": "各在一处。因望月有感，聊书所怀，"
+      },
+      {
+        "source": "chiuinan",
+        "text": "寄上浮梁大兄、於潜七兄、乌江十五"
+      }
+    ],
+    "tags": [
+      "七言律诗",
+      "悼亡"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-regular-verseYuanZhenANELEGYIII",
+      "translationRaw": "Isitherealone，mourningforusboth。HowmanyyearsdoIlacknowofmythreescoreandten？TherehavebeenbettermenthanItowhomheavendeniedason，TherewasapoetbetterthanIwhosedeadwifecouldnothearhim。WhathaveItohopeforinthedarknessofourtomb？YouandIhadlittlefaithinameetingafterdeath-YetmyopeneyescanseeallnightThatlifelongtroubleofyourbrow。",
+      "translationClean": "Isitherealone, mourningforusboth. HowmanyyearsdoIlacknowofmythreescoreandten? TherehavebeenbettermenthanItowhomheavendeniedason, TherewasapoetbetterthanIwhosedeadwifecouldnothearhim. WhathaveItohopeforinthedarknessofourtomb? YouandIhadlittlefaithinameetingafterdeath-YetmyopeneyescanseeallnightThatlifelongtroubleofyourbrow.",
+      "segments": [
+        "Isitherealone, mourningforusboth.",
+        "HowmanyyearsdoIlacknowofmythreescoreandten?",
+        "TherehavebeenbettermenthanItowhomheavendeniedason, TherewasapoetbetterthanIwhosedeadwifecouldnothearhim.",
+        "WhathaveItohopeforinthedarknessofourtomb?",
+        "YouandIhadlittlefaithinameetingafterdeath-YetmyopeneyescanseeallnightThatlifelongtroubleofyourbrow."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 317,
+        "title": "遣悲怀三首·其三",
+        "author": "元稹"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9672
+      },
+      "ctext": {
+        "matched": true,
+        "order": 207,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 304,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "82f57261-b608-4ee9-8d88-7fde20c49a7a",
+        "score": 0.9464
+      }
+    }
+  }
+}

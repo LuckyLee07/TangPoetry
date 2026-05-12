@@ -1,0 +1,288 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-236-deng-guan-que-lou",
+    "order": 236,
+    "section": "五言绝句",
+    "title": "登鹳雀楼",
+    "titleTraditional": "登鸛雀樓",
+    "author": "王之涣",
+    "authorTraditional": "王之渙",
+    "dynasty": "唐代",
+    "aliases": [
+      "登鹳雀楼"
+    ],
+    "lines": [
+      "白日依山尽，黄河入海流。",
+      "欲穷千里目，更上一层楼。"
+    ],
+    "linesTraditional": [
+      "白日依山盡，黃河入海流。",
+      "欲窮千里目，更上一層樓。"
+    ],
+    "text": "白日依山尽，黄河入海流。欲穷千里目，更上一层楼。",
+    "textTraditional": "白日依山盡，黃河入海流。欲窮千里目，更上一層樓。",
+    "displayLines": [
+      "白日依山尽，",
+      "黄河入海流。",
+      "欲穷千里目，",
+      "更上一层楼。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "依",
+          "yī"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "尽",
+          "jǐn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "河",
+          "hé"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "穷",
+          "qióng"
+        ],
+        [
+          "千",
+          "qiān"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "目",
+          "mù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "更",
+          "gèng"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "层",
+          "céng"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "依",
+          "yī"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "尽",
+          "jǐn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "河",
+          "hé"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "穷",
+          "qióng"
+        ],
+        [
+          "千",
+          "qiān"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "目",
+          "mù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "更",
+          "gèng"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "层",
+          "céng"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言绝句",
+      "黄河",
+      "山水",
+      "励志",
+      "登楼",
+      "写景",
+      "哲理",
+      "名楼、庙宇"
+    ],
+    "english": {
+      "headingRaw": "Five-character-quatrainWangZhihuanATHERONLODGE",
+      "translationRaw": "Mountainscoverthewhitesun，Andoceansdrainthegoldenriver；ButyouwidenyourviewthreehundredmilesBygoinguponeflightofstairs。",
+      "translationClean": "Mountainscoverthewhitesun, Andoceansdrainthegoldenriver; ButyouwidenyourviewthreehundredmilesBygoinguponeflightofstairs.",
+      "segments": [
+        "Mountainscoverthewhitesun, Andoceansdrainthegoldenriver;",
+        "ButyouwidenyourviewthreehundredmilesBygoinguponeflightofstairs."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 249,
+        "title": "登鹳雀楼",
+        "author": "王之涣"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 236,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 103,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "19340af6-e25d-41c8-90fc-b465d9be1134",
+        "score": 1
+      }
+    }
+  }
+}

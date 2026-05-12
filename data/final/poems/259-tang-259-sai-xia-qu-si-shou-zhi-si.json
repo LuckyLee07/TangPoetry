@@ -1,0 +1,288 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-259-sai-xia-qu-si-shou-zhi-si",
+    "order": 259,
+    "section": "乐府",
+    "title": "塞下曲四首之四",
+    "titleTraditional": "塞下曲四首之四",
+    "author": "卢纶",
+    "authorTraditional": "盧綸",
+    "dynasty": "唐代",
+    "aliases": [
+      "和张仆射塞下曲·其四",
+      "塞下曲四首之四"
+    ],
+    "lines": [
+      "野幕蔽琼筵，羌戎贺劳旋。",
+      "醉和金甲舞，雷鼓动山川。"
+    ],
+    "linesTraditional": [
+      "野幕蔽瓊筵，羌戎賀勞旋。",
+      "醉和金甲舞，雷鼓動山川。"
+    ],
+    "text": "野幕蔽琼筵，羌戎贺劳旋。醉和金甲舞，雷鼓动山川。",
+    "textTraditional": "野幕蔽瓊筵，羌戎賀勞旋。醉和金甲舞，雷鼓動山川。",
+    "displayLines": [
+      "野幕蔽琼筵，",
+      "羌戎贺劳旋。",
+      "醉和金甲舞，",
+      "雷鼓动山川。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "野",
+          "yě"
+        ],
+        [
+          "幕",
+          "mù"
+        ],
+        [
+          "蔽",
+          "bì"
+        ],
+        [
+          "琼",
+          "qióng"
+        ],
+        [
+          "筵",
+          "yán"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "羌",
+          "qiāng"
+        ],
+        [
+          "戎",
+          "róng"
+        ],
+        [
+          "贺",
+          "hè"
+        ],
+        [
+          "劳",
+          "láo"
+        ],
+        [
+          "旋",
+          "xuán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "醉",
+          "zuì"
+        ],
+        [
+          "和",
+          "hé"
+        ],
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "甲",
+          "jiǎ"
+        ],
+        [
+          "舞",
+          "wǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "雷",
+          "léi"
+        ],
+        [
+          "鼓",
+          "gǔ"
+        ],
+        [
+          "动",
+          "dòng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "川",
+          "chuān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "野",
+          "yě"
+        ],
+        [
+          "幕",
+          "mù"
+        ],
+        [
+          "蔽",
+          "bì"
+        ],
+        [
+          "琼",
+          "qióng"
+        ],
+        [
+          "筵",
+          "yán"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "羌",
+          "qiāng"
+        ],
+        [
+          "戎",
+          "róng"
+        ],
+        [
+          "贺",
+          "hè"
+        ],
+        [
+          "劳",
+          "láo"
+        ],
+        [
+          "旋",
+          "xuán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "醉",
+          "zuì"
+        ],
+        [
+          "和",
+          "hé"
+        ],
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "甲",
+          "jiǎ"
+        ],
+        [
+          "舞",
+          "wǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "雷",
+          "léi"
+        ],
+        [
+          "鼓",
+          "gǔ"
+        ],
+        [
+          "动",
+          "dòng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "川",
+          "chuān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "乐府",
+      "宴饮",
+      "边塞",
+      "赞颂",
+      "将士"
+    ],
+    "english": {
+      "headingRaw": "Folk-song-styled-verseLuLunBORDER-SONGSIV",
+      "translationRaw": "Letfeastingbegininthewildcamp！Letbuglescryourvictory！Letusdrink，letusdanceinourgoldenarmour！Letusthunderonriversandhillswithourdrums！",
+      "translationClean": "Letfeastingbegininthewildcamp! Letbuglescryourvictory! Letusdrink, letusdanceinourgoldenarmour! Letusthunderonriversandhillswithourdrums!",
+      "segments": [
+        "Letfeastingbegininthewildcamp!",
+        "Letbuglescryourvictory!",
+        "Letusdrink, letusdanceinourgoldenarmour!",
+        "Letusthunderonriversandhillswithourdrums!"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 257,
+        "title": "和张仆射塞下曲·其四",
+        "author": "卢纶"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.8973
+      },
+      "ctext": {
+        "matched": true,
+        "order": 259,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 125,
+        "score": 0.95,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "9a4d3eae-fe01-46c7-a28b-8b518614a508",
+        "score": 1
+      }
+    }
+  }
+}

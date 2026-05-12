@@ -1,0 +1,645 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-201-chun-si",
+    "order": 201,
+    "section": "七言律诗",
+    "title": "春思",
+    "titleTraditional": "春思",
+    "author": "皇甫冉",
+    "authorTraditional": "皇甫冉",
+    "dynasty": "唐代",
+    "aliases": [
+      "春思"
+    ],
+    "lines": [
+      "莺啼燕语报新年，马邑龙堆路几千。",
+      "家住层城邻汉苑，心随明月到胡天。",
+      "机中锦字论长恨，楼上花枝笑独眠。",
+      "为问天戎窦车骑，何时返旆勒燕然。"
+    ],
+    "linesTraditional": [
+      "鶯啼燕語報新年，馬邑龍堆路幾千。",
+      "家住層城鄰漢苑，心隨明月到胡天。",
+      "機中錦字論長恨，樓上花枝笑獨眠。",
+      "為問天戎竇車騎，何時返旆勒燕然。"
+    ],
+    "text": "莺啼燕语报新年，马邑龙堆路几千。家住层城邻汉苑，心随明月到胡天。机中锦字论长恨，楼上花枝笑独眠。为问天戎窦车骑，何时返旆勒燕然。",
+    "textTraditional": "鶯啼燕語報新年，馬邑龍堆路幾千。家住層城鄰漢苑，心隨明月到胡天。機中錦字論長恨，樓上花枝笑獨眠。為問天戎竇車騎，何時返旆勒燕然。",
+    "displayLines": [
+      "莺啼燕语报新年，",
+      "马邑龙堆路几千。",
+      "家住层城邻汉苑，",
+      "心随明月到胡天。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "莺",
+          "yīng"
+        ],
+        [
+          "啼",
+          "tí"
+        ],
+        [
+          "燕",
+          "yàn"
+        ],
+        [
+          "语",
+          "yǔ"
+        ],
+        [
+          "报",
+          "bào"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "邑",
+          "yì"
+        ],
+        [
+          "龙",
+          "lóng"
+        ],
+        [
+          "堆",
+          "duī"
+        ],
+        [
+          "路",
+          "lù"
+        ],
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "千",
+          "qiān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "住",
+          "zhù"
+        ],
+        [
+          "层",
+          "céng"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "邻",
+          "lín"
+        ],
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "苑",
+          "yuàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "随",
+          "suí"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "到",
+          "dào"
+        ],
+        [
+          "胡",
+          "hú"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "机",
+          "jī"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "锦",
+          "jǐn"
+        ],
+        [
+          "字",
+          "zì"
+        ],
+        [
+          "论",
+          "lùn"
+        ],
+        [
+          "长",
+          "zhǎng"
+        ],
+        [
+          "恨",
+          "hèn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "枝",
+          "zhī"
+        ],
+        [
+          "笑",
+          "xiào"
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "眠",
+          "mián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "戎",
+          "róng"
+        ],
+        [
+          "窦",
+          "dòu"
+        ],
+        [
+          "车",
+          "chē"
+        ],
+        [
+          "骑",
+          "qí"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "返",
+          "fǎn"
+        ],
+        [
+          "旆",
+          "pèi"
+        ],
+        [
+          "勒",
+          "lēi"
+        ],
+        [
+          "燕",
+          "yàn"
+        ],
+        [
+          "然",
+          "rán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "莺",
+          "yīng"
+        ],
+        [
+          "啼",
+          "tí"
+        ],
+        [
+          "燕",
+          "yàn"
+        ],
+        [
+          "语",
+          "yǔ"
+        ],
+        [
+          "报",
+          "bào"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "邑",
+          "yì"
+        ],
+        [
+          "龙",
+          "lóng"
+        ],
+        [
+          "堆",
+          "duī"
+        ],
+        [
+          "路",
+          "lù"
+        ],
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "千",
+          "qiān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "住",
+          "zhù"
+        ],
+        [
+          "层",
+          "céng"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "邻",
+          "lín"
+        ],
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "苑",
+          "yuàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "随",
+          "suí"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "到",
+          "dào"
+        ],
+        [
+          "胡",
+          "hú"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "机",
+          "jī"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "锦",
+          "jǐn"
+        ],
+        [
+          "字",
+          "zì"
+        ],
+        [
+          "论",
+          "lùn"
+        ],
+        [
+          "长",
+          "zhǎng"
+        ],
+        [
+          "恨",
+          "hèn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "枝",
+          "zhī"
+        ],
+        [
+          "笑",
+          "xiào"
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "眠",
+          "mián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "戎",
+          "róng"
+        ],
+        [
+          "窦",
+          "dòu"
+        ],
+        [
+          "车",
+          "chē"
+        ],
+        [
+          "骑",
+          "qí"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "返",
+          "fǎn"
+        ],
+        [
+          "旆",
+          "pèi"
+        ],
+        [
+          "勒",
+          "lēi"
+        ],
+        [
+          "燕",
+          "yàn"
+        ],
+        [
+          "然",
+          "rán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "层城--一作 ：秦城"
+      },
+      {
+        "source": "chiuinan",
+        "text": "1.层城：昆仑山三级，上曰层城传为天帝所居，此处用称宫城。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.锦字：窦滔镇襄阳，与妻苏氏音问绝。苏自伤，因织锦回文，题计二"
+      },
+      {
+        "source": "chiuinan",
+        "text": "百余首，计八百余字。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "3.窦车骑：指后汉窦宪。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "4.燕然：山名，窦宪登山刻石勒功，纪汉威德。"
+      }
+    ],
+    "tags": [
+      "七言律诗",
+      "思念",
+      "春天",
+      "妇女",
+      "闺怨"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-regular-verseHuangfuRanSPRINGTHOUGHTS",
+      "translationRaw": "Finch-notesandswallow-notestellthenewyear。。。。ButsofararetheTownoftheHorseandtheDragonMoundFromthisourhouse，fromthesewallsandHanGardens，ThatthemoontakesmyhearttotheTartarsky。Ihavewovenintheframeendlesswordsofmygrieving。。。。Yetthispetal-boughissmilingnowonmylonelysleep。Oh，askGeneralDouwhenhisflagswillcomehomeAndhistriumphbecarvedontherockofYanranmountain！",
+      "translationClean": "Finch-notesandswallow-notestellthenewyear.... ButsofararetheTownoftheHorseandtheDragonMoundFromthisourhouse, fromthesewallsandHanGardens, ThatthemoontakesmyhearttotheTartarsky. Ihavewovenintheframeendlesswordsofmygrieving.... Yetthispetal-boughissmilingnowonmylonelysleep. Oh, askGeneralDouwhenhisflagswillcomehomeAndhistriumphbecarvedontherockofYanranmountain!",
+      "segments": [
+        "Finch-notesandswallow-notestellthenewyear....",
+        "ButsofararetheTownoftheHorseandtheDragonMoundFromthisourhouse, fromthesewallsandHanGardens, ThatthemoontakesmyhearttotheTartarsky.",
+        "Ihavewovenintheframeendlesswordsofmygrieving....",
+        "Yetthispetal-boughissmilingnowonmylonelysleep.",
+        "Oh, askGeneralDouwhenhisflagswillcomehomeAndhistriumphbecarvedontherockofYanranmountain!"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 140,
+        "title": "春思",
+        "author": "皇甫冉"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9721
+      },
+      "ctext": {
+        "matched": true,
+        "order": 201,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 298,
+        "score": 0.9821,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "41d292d2-b752-4c30-8b6b-7b7380f2f9bd",
+        "score": 0.9821
+      }
+    }
+  }
+}

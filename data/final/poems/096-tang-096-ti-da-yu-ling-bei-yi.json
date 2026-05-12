@@ -1,0 +1,495 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-096-ti-da-yu-ling-bei-yi",
+    "order": 96,
+    "section": "五言律诗",
+    "title": "题大庾岭北驿",
+    "titleTraditional": "題大庾嶺北驛",
+    "author": "宋之问",
+    "authorTraditional": "宋之問",
+    "dynasty": "唐代",
+    "aliases": [
+      "题大庾岭北驿"
+    ],
+    "lines": [
+      "阳月南飞雁，传闻至此回，我行殊未已，何日复归来？",
+      "江静潮初落，林昏瘴不开。",
+      "明朝望乡处，应见陇头梅。"
+    ],
+    "linesTraditional": [
+      "陽月南飛雁，傳聞至此回，我行殊未已，何日復歸來？",
+      "江靜潮初落，林昏瘴不開。",
+      "明朝望鄉處，應見隴頭梅。"
+    ],
+    "text": "阳月南飞雁，传闻至此回，我行殊未已，何日复归来？江静潮初落，林昏瘴不开。明朝望乡处，应见陇头梅。",
+    "textTraditional": "陽月南飛雁，傳聞至此回，我行殊未已，何日復歸來？江靜潮初落，林昏瘴不開。明朝望鄉處，應見隴頭梅。",
+    "displayLines": [
+      "阳月南飞雁，",
+      "传闻至此回，",
+      "我行殊未已，",
+      "何日复归来？"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "雁",
+          "yàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "传",
+          "chuán"
+        ],
+        [
+          "闻",
+          "wén"
+        ],
+        [
+          "至",
+          "zhì"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "回",
+          "huí"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "我",
+          "wǒ"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "殊",
+          "shū"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "已",
+          "yǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "静",
+          "jìng"
+        ],
+        [
+          "潮",
+          "cháo"
+        ],
+        [
+          "初",
+          "chū"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "昏",
+          "hūn"
+        ],
+        [
+          "瘴",
+          "zhàng"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "开",
+          "kāi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "望",
+          "wàng"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "应",
+          "yīng"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "陇",
+          "lǒng"
+        ],
+        [
+          "头",
+          "tóu"
+        ],
+        [
+          "梅",
+          "méi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "雁",
+          "yàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "传",
+          "chuán"
+        ],
+        [
+          "闻",
+          "wén"
+        ],
+        [
+          "至",
+          "zhì"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "回",
+          "huí"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "我",
+          "wǒ"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "殊",
+          "shū"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "已",
+          "yǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "静",
+          "jìng"
+        ],
+        [
+          "潮",
+          "cháo"
+        ],
+        [
+          "初",
+          "chū"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "昏",
+          "hūn"
+        ],
+        [
+          "瘴",
+          "zhàng"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "开",
+          "kāi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "望",
+          "wàng"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "应",
+          "yīng"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "陇",
+          "lǒng"
+        ],
+        [
+          "头",
+          "tóu"
+        ],
+        [
+          "梅",
+          "méi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.阳月：阴历十月。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.陇头：田中高的地方。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "思乡",
+      "带有地名",
+      "地名"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseSongZhiwenINSCRIBEDONTHEWALLOFANINNNORTHOFDAYUMOUNTAIN",
+      "translationRaw": "Theysaythatwildgeese，flyingsouthward，Hereturnback，thisverymonth。。。。ShallmyownsouthwardjourneyEverberetraced，Iwonder？。。。Theriverispausingatebb-tide，Andthewoodsarethickwithclingingmist--Buttomorrowmorning，overthemountain，Dawnwillbewhitewiththeplum-treesofhome。",
+      "translationClean": "Theysaythatwildgeese, flyingsouthward, Hereturnback, thisverymonth.... ShallmyownsouthwardjourneyEverberetraced, Iwonder? . . . Theriverispausingatebb-tide, Andthewoodsarethickwithclingingmist--Buttomorrowmorning, overthemountain, Dawnwillbewhitewiththeplum-treesofhome.",
+      "segments": [
+        "Theysaythatwildgeese, flyingsouthward, Hereturnback, thisverymonth....",
+        "ShallmyownsouthwardjourneyEverberetraced, Iwonder?",
+        ".",
+        ".",
+        ".",
+        "Theriverispausingatebb-tide, Andthewoodsarethickwithclingingmist--Buttomorrowmorning, overthemountain, Dawnwillbewhitewiththeplum-treesofhome."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 298,
+        "title": "题大庾岭北驿",
+        "author": "宋之问"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 96,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 193,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "058db0d1-0656-4e8f-ac49-87622e16b19b",
+        "score": 1
+      }
+    }
+  }
+}

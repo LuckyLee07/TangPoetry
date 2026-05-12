@@ -1,0 +1,489 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-116-shan-ju-qiu-ming",
+    "order": 116,
+    "section": "五言律诗",
+    "title": "山居秋暝",
+    "titleTraditional": "山居秋暝",
+    "author": "王维",
+    "authorTraditional": "王維",
+    "dynasty": "唐代",
+    "aliases": [
+      "山居秋暝"
+    ],
+    "lines": [
+      "空山新雨后，天气晚来秋。",
+      "明月松间照，清泉石上流。",
+      "竹喧归浣女，莲动下渔舟。",
+      "随意春芳歇，王孙自可留。"
+    ],
+    "linesTraditional": [
+      "空山新雨後，天氣晚來秋。",
+      "明月松間照，清泉石上流。",
+      "竹喧歸浣女，蓮動下漁舟。",
+      "隨意春芳歇，王孫自可留。"
+    ],
+    "text": "空山新雨后，天气晚来秋。明月松间照，清泉石上流。竹喧归浣女，莲动下渔舟。随意春芳歇，王孙自可留。",
+    "textTraditional": "空山新雨後，天氣晚來秋。明月松間照，清泉石上流。竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+    "displayLines": [
+      "空山新雨后，",
+      "天气晚来秋。",
+      "明月松间照，",
+      "清泉石上流。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "后",
+          "hòu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "气",
+          "qì"
+        ],
+        [
+          "晚",
+          "wǎn"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "松",
+          "sōng"
+        ],
+        [
+          "间",
+          "jiān"
+        ],
+        [
+          "照",
+          "zhào"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "泉",
+          "quán"
+        ],
+        [
+          "石",
+          "shí"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "竹",
+          "zhú"
+        ],
+        [
+          "喧",
+          "xuān"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "浣",
+          "huàn"
+        ],
+        [
+          "女",
+          "nǚ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "莲",
+          "lián"
+        ],
+        [
+          "动",
+          "dòng"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "渔",
+          "yú"
+        ],
+        [
+          "舟",
+          "zhōu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "随",
+          "suí"
+        ],
+        [
+          "意",
+          "yì"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "芳",
+          "fāng"
+        ],
+        [
+          "歇",
+          "xiē"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "王",
+          "wáng"
+        ],
+        [
+          "孙",
+          "sūn"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "可",
+          "kě"
+        ],
+        [
+          "留",
+          "liú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "后",
+          "hòu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "气",
+          "qì"
+        ],
+        [
+          "晚",
+          "wǎn"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "松",
+          "sōng"
+        ],
+        [
+          "间",
+          "jiān"
+        ],
+        [
+          "照",
+          "zhào"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "泉",
+          "quán"
+        ],
+        [
+          "石",
+          "shí"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "竹",
+          "zhú"
+        ],
+        [
+          "喧",
+          "xuān"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "浣",
+          "huàn"
+        ],
+        [
+          "女",
+          "nǚ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "莲",
+          "lián"
+        ],
+        [
+          "动",
+          "dòng"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "渔",
+          "yú"
+        ],
+        [
+          "舟",
+          "zhōu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "随",
+          "suí"
+        ],
+        [
+          "意",
+          "yì"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "芳",
+          "fāng"
+        ],
+        [
+          "歇",
+          "xiē"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "王",
+          "wáng"
+        ],
+        [
+          "孙",
+          "sūn"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "可",
+          "kě"
+        ],
+        [
+          "留",
+          "liú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言律诗",
+      "山水",
+      "写景",
+      "秋雨",
+      "写人"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseWangWeiANAUTUMNEVENINGINTHEMOUNTAINS",
+      "translationRaw": "AfterraintheemptymountainStandsautumnalintheevening，Moonlightinitsgrovesofpine，Stonesofcrystalinitsbrooks。Bambooswhisperofwasher-girlsboundhome，Lotus-leavesyieldbeforeafisher-boat--Andwhatdoesitmatterthatspringtimehasgone，Whileyouarehere，OPrinceofFriends？",
+      "translationClean": "AfterraintheemptymountainStandsautumnalintheevening, Moonlightinitsgrovesofpine, Stonesofcrystalinitsbrooks. Bambooswhisperofwasher-girlsboundhome, Lotus-leavesyieldbeforeafisher-boat--Andwhatdoesitmatterthatspringtimehasgone, Whileyouarehere, OPrinceofFriends?",
+      "segments": [
+        "AfterraintheemptymountainStandsautumnalintheevening, Moonlightinitsgrovesofpine, Stonesofcrystalinitsbrooks.",
+        "Bambooswhisperofwasher-girlsboundhome, Lotus-leavesyieldbeforeafisher-boat--Andwhatdoesitmatterthatspringtimehasgone, Whileyouarehere, OPrinceofFriends?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 89,
+        "title": "山居秋暝",
+        "author": "王维"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 116,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 213,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "00f12a19-bb96-4980-a4f5-11a1b9d604dd",
+        "score": 1
+      }
+    }
+  }
+}

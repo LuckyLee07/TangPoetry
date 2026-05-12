@@ -1,0 +1,635 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-197-zi-xia-kou-zhi-ying-zhou-xi-wang-yue-yang-ji-yuan-zhong-cheng",
+    "order": 197,
+    "section": "七言律诗",
+    "title": "自夏口至鹦洲夕望岳阳寄源中丞",
+    "titleTraditional": "自夏口至鸚洲夕望岳陽寄源中丞",
+    "author": "刘长卿",
+    "authorTraditional": "劉長卿",
+    "dynasty": "唐代",
+    "aliases": [
+      "自夏口至鹦鹉洲夕望岳阳寄源中丞",
+      "自夏口至鹦洲夕望岳阳寄源中丞"
+    ],
+    "lines": [
+      "汀洲无浪复无烟，楚客相思益渺然。",
+      "汉口夕阳斜渡鸟，洞庭秋水远连天。",
+      "孤城背岭寒吹角，独戍临江夜泊船。",
+      "贾谊上书忧汉室，长沙谪去古今怜。"
+    ],
+    "linesTraditional": [
+      "汀洲無浪復無煙，楚客相思益渺然。",
+      "漢口夕陽斜渡鳥，洞庭秋水遠連天。",
+      "孤城背嶺寒吹角，獨戍臨江夜泊船。",
+      "賈誼上書憂漢室，長沙謫去古今憐。"
+    ],
+    "text": "汀洲无浪复无烟，楚客相思益渺然。汉口夕阳斜渡鸟，洞庭秋水远连天。孤城背岭寒吹角，独戍临江夜泊船。贾谊上书忧汉室，长沙谪去古今怜。",
+    "textTraditional": "汀洲無浪復無煙，楚客相思益渺然。漢口夕陽斜渡鳥，洞庭秋水遠連天。孤城背嶺寒吹角，獨戍臨江夜泊船。賈誼上書憂漢室，長沙謫去古今憐。",
+    "displayLines": [
+      "汀洲无浪复无烟，",
+      "楚客相思益渺然。",
+      "汉口夕阳斜渡鸟，",
+      "洞庭秋水远连天。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "汀",
+          "tīng"
+        ],
+        [
+          "洲",
+          "zhōu"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "浪",
+          "làng"
+        ],
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "楚",
+          "chǔ"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "思",
+          "sī"
+        ],
+        [
+          "益",
+          "yì"
+        ],
+        [
+          "渺",
+          "miǎo"
+        ],
+        [
+          "然",
+          "rán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "口",
+          "kǒu"
+        ],
+        [
+          "夕",
+          "xī"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "斜",
+          "xié"
+        ],
+        [
+          "渡",
+          "dù"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "洞",
+          "dòng"
+        ],
+        [
+          "庭",
+          "tíng"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "连",
+          "lián"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "背",
+          "bèi"
+        ],
+        [
+          "岭",
+          "lǐng"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "吹",
+          "chuī"
+        ],
+        [
+          "角",
+          "jiǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "戍",
+          "shù"
+        ],
+        [
+          "临",
+          "lín"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "泊",
+          "pō"
+        ],
+        [
+          "船",
+          "chuán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "贾",
+          "jiǎ"
+        ],
+        [
+          "谊",
+          "yì"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "书",
+          "shū"
+        ],
+        [
+          "忧",
+          "yōu"
+        ],
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "室",
+          "shì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "长",
+          "cháng"
+        ],
+        [
+          "沙",
+          "shā"
+        ],
+        [
+          "谪",
+          "zhé"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "怜",
+          "lián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "汀",
+          "tīng"
+        ],
+        [
+          "洲",
+          "zhōu"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "浪",
+          "làng"
+        ],
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "楚",
+          "chǔ"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "思",
+          "sī"
+        ],
+        [
+          "益",
+          "yì"
+        ],
+        [
+          "渺",
+          "miǎo"
+        ],
+        [
+          "然",
+          "rán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "口",
+          "kǒu"
+        ],
+        [
+          "夕",
+          "xī"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "斜",
+          "xié"
+        ],
+        [
+          "渡",
+          "dù"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "洞",
+          "dòng"
+        ],
+        [
+          "庭",
+          "tíng"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "连",
+          "lián"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "背",
+          "bèi"
+        ],
+        [
+          "岭",
+          "lǐng"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "吹",
+          "chuī"
+        ],
+        [
+          "角",
+          "jiǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "戍",
+          "shù"
+        ],
+        [
+          "临",
+          "lín"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "泊",
+          "pō"
+        ],
+        [
+          "船",
+          "chuán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "贾",
+          "jiǎ"
+        ],
+        [
+          "谊",
+          "yì"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "书",
+          "shū"
+        ],
+        [
+          "忧",
+          "yōu"
+        ],
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "室",
+          "shì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "长",
+          "cháng"
+        ],
+        [
+          "沙",
+          "shā"
+        ],
+        [
+          "谪",
+          "zhé"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "怜",
+          "lián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "独树--一作 ：独戍"
+      },
+      {
+        "source": "chiuinan",
+        "text": "1.汀洲：水中沙洲。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.贾谊：汉文帝时上书治安策，被谗贬至长沙，意不自得。渡湘水时为"
+      },
+      {
+        "source": "chiuinan",
+        "text": "赋以吊屈原。"
+      }
+    ],
+    "tags": [
+      "七言律诗",
+      "洞庭湖",
+      "贬谪",
+      "触景感怀"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-regular-verseLiuChangqingANEVENINGVIEWOFTHECITYOFYOUZHOUAFTERCOMINGFROMHANKOUTOPARROTISLANDAPOEMSENTTOMYFRIENDGOVERNORYUAN",
+      "translationRaw": "Noripplesintheriver，nomistontheislands，YetthelandscapeisblurredtowardmyfriendinChu。。。。BirdsintheslantingsuncrossHankou，AndtheautumnskymingleswithLakeDongting。。。。FromableakmountainwallthecoldtoneofabugleRemindsme，mooredbyaruinedfort，ThatJiaYi』sloyalpleatotheHouseofHanBannedhimtoChangsha，tobeanexile。",
+      "translationClean": "Noripplesintheriver, nomistontheislands, YetthelandscapeisblurredtowardmyfriendinChu.... BirdsintheslantingsuncrossHankou, AndtheautumnskymingleswithLakeDongting.... FromableakmountainwallthecoldtoneofabugleRemindsme, mooredbyaruinedfort, ThatJiaYi'sloyalpleatotheHouseofHanBannedhimtoChangsha, tobeanexile.",
+      "segments": [
+        "Noripplesintheriver, nomistontheislands, YetthelandscapeisblurredtowardmyfriendinChu....",
+        "BirdsintheslantingsuncrossHankou, AndtheautumnskymingleswithLakeDongting....",
+        "FromableakmountainwallthecoldtoneofabugleRemindsme, mooredbyaruinedfort, ThatJiaYi'sloyalpleatotheHouseofHanBannedhimtoChangsha, tobeanexile."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 281,
+        "title": "自夏口至鹦鹉洲夕望岳阳寄源中丞",
+        "author": "刘长卿"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9802
+      },
+      "ctext": {
+        "matched": true,
+        "order": 197,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 294,
+        "score": 0.9821,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "3f049d66-1513-407f-bb4e-cf25a7b5069a",
+        "score": 0.9821
+      }
+    }
+  }
+}

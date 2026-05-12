@@ -1,0 +1,289 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-242-xin-jia-niang",
+    "order": 242,
+    "section": "五言绝句",
+    "title": "新嫁娘",
+    "titleTraditional": "新嫁娘",
+    "author": "王建",
+    "authorTraditional": "王建",
+    "dynasty": "唐代",
+    "aliases": [
+      "新嫁娘词",
+      "新嫁娘"
+    ],
+    "lines": [
+      "三日入厨下，洗手作羹汤。",
+      "未谙姑食性，先遣小姑尝。"
+    ],
+    "linesTraditional": [
+      "三日入廚下，洗手作羹湯。",
+      "未諳姑食性，先遣小姑嘗。"
+    ],
+    "text": "三日入厨下，洗手作羹汤。未谙姑食性，先遣小姑尝。",
+    "textTraditional": "三日入廚下，洗手作羹湯。未諳姑食性，先遣小姑嘗。",
+    "displayLines": [
+      "三日入厨下，",
+      "洗手作羹汤。",
+      "未谙姑食性，",
+      "先遣小姑尝。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "厨",
+          "chú"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "洗",
+          "xǐ"
+        ],
+        [
+          "手",
+          "shǒu"
+        ],
+        [
+          "作",
+          "zuò"
+        ],
+        [
+          "羹",
+          "gēng"
+        ],
+        [
+          "汤",
+          "tāng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "谙",
+          "ān"
+        ],
+        [
+          "姑",
+          "gū"
+        ],
+        [
+          "食",
+          "shí"
+        ],
+        [
+          "性",
+          "xìng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "先",
+          "xiān"
+        ],
+        [
+          "遣",
+          "qiǎn"
+        ],
+        [
+          "小",
+          "xiǎo"
+        ],
+        [
+          "姑",
+          "gū"
+        ],
+        [
+          "尝",
+          "cháng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "厨",
+          "chú"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "洗",
+          "xǐ"
+        ],
+        [
+          "手",
+          "shǒu"
+        ],
+        [
+          "作",
+          "zuò"
+        ],
+        [
+          "羹",
+          "gēng"
+        ],
+        [
+          "汤",
+          "tāng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "谙",
+          "ān"
+        ],
+        [
+          "姑",
+          "gū"
+        ],
+        [
+          "食",
+          "shí"
+        ],
+        [
+          "性",
+          "xìng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "先",
+          "xiān"
+        ],
+        [
+          "遣",
+          "qiǎn"
+        ],
+        [
+          "小",
+          "xiǎo"
+        ],
+        [
+          "姑",
+          "gū"
+        ],
+        [
+          "尝",
+          "cháng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.谙：音\"暗\"，熟悉。"
+      }
+    ],
+    "tags": [
+      "五言绝句",
+      "新婚",
+      "女子",
+      "生活"
+    ],
+    "english": {
+      "headingRaw": "Five-character-quatrainWangJianABRIDE",
+      "translationRaw": "Onthethirdday，takingmyplacetocook，Washingmyhandstomakethebridalsoup，Idecidethatnotmymother-in-lawButmyhusband』syoungsistershallhavethefiattaste。",
+      "translationClean": "Onthethirdday, takingmyplacetocook, Washingmyhandstomakethebridalsoup, Idecidethatnotmymother-in-lawButmyhusband'syoungsistershallhavethefiattaste.",
+      "segments": [
+        "Onthethirdday, takingmyplacetocook, Washingmyhandstomakethebridalsoup, Idecidethatnotmymother-in-lawButmyhusband'syoungsistershallhavethefiattaste."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 119,
+        "title": "新嫁娘词",
+        "author": "王建"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9757
+      },
+      "ctext": {
+        "matched": true,
+        "order": 242,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 109,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "efaaa86e-5628-40d3-a137-1ae8fcbe41b8",
+        "score": 1
+      }
+    }
+  }
+}

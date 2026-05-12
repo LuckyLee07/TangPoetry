@@ -1,0 +1,287 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-258-sai-xia-qu-si-shou-zhi-san",
+    "order": 258,
+    "section": "乐府",
+    "title": "塞下曲四首之三",
+    "titleTraditional": "塞下曲四首之三",
+    "author": "卢纶",
+    "authorTraditional": "盧綸",
+    "dynasty": "唐代",
+    "aliases": [
+      "和张仆射塞下曲·其三",
+      "塞下曲四首之三"
+    ],
+    "lines": [
+      "月黑雁飞高，单于夜遁逃。",
+      "欲将轻骑逐，大雪满弓刀。"
+    ],
+    "linesTraditional": [
+      "月黑雁飛高，單于夜遁逃。",
+      "欲將輕騎逐，大雪滿弓刀。"
+    ],
+    "text": "月黑雁飞高，单于夜遁逃。欲将轻骑逐，大雪满弓刀。",
+    "textTraditional": "月黑雁飛高，單于夜遁逃。欲將輕騎逐，大雪滿弓刀。",
+    "displayLines": [
+      "月黑雁飞高，",
+      "单于夜遁逃。",
+      "欲将轻骑逐，",
+      "大雪满弓刀。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "黑",
+          "hēi"
+        ],
+        [
+          "雁",
+          "yàn"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "高",
+          "gāo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "单",
+          "chán"
+        ],
+        [
+          "于",
+          "yú"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "遁",
+          "dùn"
+        ],
+        [
+          "逃",
+          "táo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "将",
+          "jiāng"
+        ],
+        [
+          "轻",
+          "qīng"
+        ],
+        [
+          "骑",
+          "qí"
+        ],
+        [
+          "逐",
+          "zhú"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "大",
+          "dà"
+        ],
+        [
+          "雪",
+          "xuě"
+        ],
+        [
+          "满",
+          "mǎn"
+        ],
+        [
+          "弓",
+          "gōng"
+        ],
+        [
+          "刀",
+          "dāo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "黑",
+          "hēi"
+        ],
+        [
+          "雁",
+          "yàn"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "高",
+          "gāo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "单",
+          "chán"
+        ],
+        [
+          "于",
+          "yú"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "遁",
+          "dùn"
+        ],
+        [
+          "逃",
+          "táo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "将",
+          "jiāng"
+        ],
+        [
+          "轻",
+          "qīng"
+        ],
+        [
+          "骑",
+          "qí"
+        ],
+        [
+          "逐",
+          "zhú"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "大",
+          "dà"
+        ],
+        [
+          "雪",
+          "xuě"
+        ],
+        [
+          "满",
+          "mǎn"
+        ],
+        [
+          "弓",
+          "gōng"
+        ],
+        [
+          "刀",
+          "dāo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "乐府",
+      "战争",
+      "冬天",
+      "将军",
+      "边塞",
+      "赞美"
+    ],
+    "english": {
+      "headingRaw": "Folk-song-styled-verseLuLunBORDER-SONGSIII",
+      "translationRaw": "Highinthefaintmoonlight，wildgeesearesoaring。Tartarchieftainsarefleeingthroughthedark--Andwechasethem，withhorseslightlyburdenedAndaburdenofsnowonourbowsandourswords。",
+      "translationClean": "Highinthefaintmoonlight, wildgeesearesoaring. Tartarchieftainsarefleeingthroughthedark--Andwechasethem, withhorseslightlyburdenedAndaburdenofsnowonourbowsandourswords.",
+      "segments": [
+        "Highinthefaintmoonlight, wildgeesearesoaring.",
+        "Tartarchieftainsarefleeingthroughthedark--Andwechasethem, withhorseslightlyburdenedAndaburdenofsnowonourbowsandourswords."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 193,
+        "title": "和张仆射塞下曲·其三",
+        "author": "卢纶"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9363
+      },
+      "ctext": {
+        "matched": true,
+        "order": 258,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 124,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "c8210485-a1f4-4c76-a1f6-2f5e57d39d29",
+        "score": 1
+      }
+    }
+  }
+}

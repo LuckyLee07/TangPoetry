@@ -1,0 +1,292 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-243-yu-tai-ti",
+    "order": 243,
+    "section": "五言绝句",
+    "title": "玉台体",
+    "titleTraditional": "玉臺體",
+    "author": "权德舆",
+    "authorTraditional": "權德輿",
+    "dynasty": "唐代",
+    "aliases": [
+      "玉台体"
+    ],
+    "lines": [
+      "昨夜裙带解，今朝蟢子飞。",
+      "铅华不可弃，莫是□砧归。"
+    ],
+    "linesTraditional": [
+      "昨夜裙帶解，今朝蟢子飛。",
+      "鉛華不可棄，莫是□砧歸。"
+    ],
+    "text": "昨夜裙带解，今朝蟢子飞。铅华不可弃，莫是□砧归。",
+    "textTraditional": "昨夜裙帶解，今朝蟢子飛。鉛華不可棄，莫是□砧歸。",
+    "displayLines": [
+      "昨夜裙带解，",
+      "今朝蟢子飞。",
+      "铅华不可弃，",
+      "莫是□砧归。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "昨",
+          "zuó"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "裙",
+          "qún"
+        ],
+        [
+          "带",
+          "dài"
+        ],
+        [
+          "解",
+          "jiě"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "朝",
+          "zhāo"
+        ],
+        [
+          "蟢",
+          "xǐ"
+        ],
+        [
+          "子",
+          "zi"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "铅",
+          "qiān"
+        ],
+        [
+          "华",
+          "huá"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "可",
+          "kě"
+        ],
+        [
+          "弃",
+          "qì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "莫",
+          "mò"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "□",
+          ""
+        ],
+        [
+          "砧",
+          "zhēn"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "昨",
+          "zuó"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "裙",
+          "qún"
+        ],
+        [
+          "带",
+          "dài"
+        ],
+        [
+          "解",
+          "jiě"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "朝",
+          "zhāo"
+        ],
+        [
+          "蟢",
+          "xǐ"
+        ],
+        [
+          "子",
+          "zi"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "铅",
+          "qiān"
+        ],
+        [
+          "华",
+          "huá"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "可",
+          "kě"
+        ],
+        [
+          "弃",
+          "qì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "莫",
+          "mò"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "□",
+          ""
+        ],
+        [
+          "砧",
+          "zhēn"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.带解蟢飞：均为夫归先兆。\"裙带解，有酒食；蟢子缘人衣，有喜事。\""
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.□砧：喻丈夫。"
+      }
+    ],
+    "tags": [
+      "五言绝句",
+      "思念",
+      "女子"
+    ],
+    "english": {
+      "headingRaw": "Five-character-quatrainQuanDeyuTHEJADEDRESSING-TABLE",
+      "translationRaw": "Lastnightmygirdlecameundone，Andthismorningaluck-beetleflewovermybed。Soherearemypaintsandherearemypowders--Andawelcomeformyyokeagain。",
+      "translationClean": "Lastnightmygirdlecameundone, Andthismorningaluck-beetleflewovermybed. Soherearemypaintsandherearemypowders--Andawelcomeformyyokeagain.",
+      "segments": [
+        "Lastnightmygirdlecameundone, Andthismorningaluck-beetleflewovermybed.",
+        "Soherearemypaintsandherearemypowders--Andawelcomeformyyokeagain."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 49,
+        "title": "玉台体",
+        "author": "权德舆"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.98
+      },
+      "ctext": {
+        "matched": true,
+        "order": 243,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 110,
+        "score": 0.8636,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "9a5070c8-8b6a-46d3-a976-ce942baf42e7",
+        "score": 1
+      }
+    }
+  }
+}

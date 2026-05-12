@@ -1,0 +1,491 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-123-zhong-nan-bie-ye",
+    "order": 123,
+    "section": "五言律诗",
+    "title": "终南别业",
+    "titleTraditional": "終南別業",
+    "author": "王维",
+    "authorTraditional": "王維",
+    "dynasty": "唐代",
+    "aliases": [
+      "终南别业"
+    ],
+    "lines": [
+      "中岁颇好道，晚家南山陲。",
+      "兴来美独往，胜事空自知。",
+      "行到水穷处，坐看云起时。",
+      "偶然值林叟，谈笑无还期。"
+    ],
+    "linesTraditional": [
+      "中歲頗好道，晚家南山陲。",
+      "興來美獨往，勝事空自知。",
+      "行到水窮處，坐看雲起時。",
+      "偶然值林叟，談笑無還期。"
+    ],
+    "text": "中岁颇好道，晚家南山陲。兴来美独往，胜事空自知。行到水穷处，坐看云起时。偶然值林叟，谈笑无还期。",
+    "textTraditional": "中歲頗好道，晚家南山陲。興來美獨往，勝事空自知。行到水窮處，坐看雲起時。偶然值林叟，談笑無還期。",
+    "displayLines": [
+      "中岁颇好道，",
+      "晚家南山陲。",
+      "兴来美独往，",
+      "胜事空自知。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "岁",
+          "suì"
+        ],
+        [
+          "颇",
+          "pǒ"
+        ],
+        [
+          "好",
+          "hǎo"
+        ],
+        [
+          "道",
+          "dào"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "晚",
+          "wǎn"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "陲",
+          "chuí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "兴",
+          "xīng"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "美",
+          "měi"
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "往",
+          "wǎng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "胜",
+          "shèng"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "到",
+          "dào"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "穷",
+          "qióng"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "坐",
+          "zuò"
+        ],
+        [
+          "看",
+          "kàn"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "起",
+          "qǐ"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "偶",
+          "ǒu"
+        ],
+        [
+          "然",
+          "rán"
+        ],
+        [
+          "值",
+          "zhí"
+        ],
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "叟",
+          "sǒu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "谈",
+          "tán"
+        ],
+        [
+          "笑",
+          "xiào"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "期",
+          "qī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "岁",
+          "suì"
+        ],
+        [
+          "颇",
+          "pǒ"
+        ],
+        [
+          "好",
+          "hǎo"
+        ],
+        [
+          "道",
+          "dào"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "晚",
+          "wǎn"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "陲",
+          "chuí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "兴",
+          "xīng"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "美",
+          "měi"
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "往",
+          "wǎng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "胜",
+          "shèng"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "到",
+          "dào"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "穷",
+          "qióng"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "坐",
+          "zuò"
+        ],
+        [
+          "看",
+          "kàn"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "起",
+          "qǐ"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "偶",
+          "ǒu"
+        ],
+        [
+          "然",
+          "rán"
+        ],
+        [
+          "值",
+          "zhí"
+        ],
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "叟",
+          "sǒu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "谈",
+          "tán"
+        ],
+        [
+          "笑",
+          "xiào"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "期",
+          "qī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言律诗",
+      "田园",
+      "抒情",
+      "山",
+      "写人"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseWangWeiMYRETREATATMOUNTZHONGNAN",
+      "translationRaw": "MyheartinmiddleagefoundtheWay。AndIcametodwellatthefootofthismountain。Whenthespiritmoves，IwanderaloneAmidbeautythatisallforme。。。。Iwillwalktillthewaterchecksmypath，Thensitandwatchtherisingclouds--Andsomedaymeetanoldwood-cutterAndtalkandlaughandneverreturn。",
+      "translationClean": "MyheartinmiddleagefoundtheWay. AndIcametodwellatthefootofthismountain. Whenthespiritmoves, IwanderaloneAmidbeautythatisallforme.... Iwillwalktillthewaterchecksmypath, Thensitandwatchtherisingclouds--Andsomedaymeetanoldwood-cutterAndtalkandlaughandneverreturn.",
+      "segments": [
+        "MyheartinmiddleagefoundtheWay.",
+        "AndIcametodwellatthefootofthismountain.",
+        "Whenthespiritmoves, IwanderaloneAmidbeautythatisallforme....",
+        "Iwillwalktillthewaterchecksmypath, Thensitandwatchtherisingclouds--Andsomedaymeetanoldwood-cutterAndtalkandlaughandneverreturn."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 255,
+        "title": "终南别业",
+        "author": "王维"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9805
+      },
+      "ctext": {
+        "matched": true,
+        "order": 123,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 220,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "6d098c75-038d-45f4-8f86-73976c355e44",
+        "score": 1
+      }
+    }
+  }
+}

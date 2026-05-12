@@ -1,0 +1,490 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-159-liang-si",
+    "order": 159,
+    "section": "五言律诗",
+    "title": "凉思",
+    "titleTraditional": "涼思",
+    "author": "李商隐",
+    "authorTraditional": "李商隱",
+    "dynasty": "唐代",
+    "aliases": [
+      "凉思"
+    ],
+    "lines": [
+      "客去波平槛，蝉休露满枝。",
+      "永怀当此节，倚立自移时。",
+      "北斗兼春远，南陵寓使迟。",
+      "天涯占梦数，疑误有新知。"
+    ],
+    "linesTraditional": [
+      "客去波平檻，蟬休露滿枝。",
+      "永懷當此節，倚立自移時。",
+      "北斗兼春遠，南陵寓使遲。",
+      "天涯占夢數，疑誤有新知。"
+    ],
+    "text": "客去波平槛，蝉休露满枝。永怀当此节，倚立自移时。北斗兼春远，南陵寓使迟。天涯占梦数，疑误有新知。",
+    "textTraditional": "客去波平檻，蟬休露滿枝。永懷當此節，倚立自移時。北斗兼春遠，南陵寓使遲。天涯占夢數，疑誤有新知。",
+    "displayLines": [
+      "客去波平槛，",
+      "蝉休露满枝。",
+      "永怀当此节，",
+      "倚立自移时。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "波",
+          "bō"
+        ],
+        [
+          "平",
+          "píng"
+        ],
+        [
+          "槛",
+          "kǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "蝉",
+          "chán"
+        ],
+        [
+          "休",
+          "xiū"
+        ],
+        [
+          "露",
+          "lù"
+        ],
+        [
+          "满",
+          "mǎn"
+        ],
+        [
+          "枝",
+          "zhī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "永",
+          "yǒng"
+        ],
+        [
+          "怀",
+          "huái"
+        ],
+        [
+          "当",
+          "dāng"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "节",
+          "jié"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "倚",
+          "yǐ"
+        ],
+        [
+          "立",
+          "lì"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "移",
+          "yí"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "北",
+          "běi"
+        ],
+        [
+          "斗",
+          "dǒu"
+        ],
+        [
+          "兼",
+          "jiān"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "陵",
+          "líng"
+        ],
+        [
+          "寓",
+          "yù"
+        ],
+        [
+          "使",
+          "shǐ"
+        ],
+        [
+          "迟",
+          "chí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "涯",
+          "yá"
+        ],
+        [
+          "占",
+          "zhān"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "数",
+          "shù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "疑",
+          "yí"
+        ],
+        [
+          "误",
+          "wù"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "波",
+          "bō"
+        ],
+        [
+          "平",
+          "píng"
+        ],
+        [
+          "槛",
+          "kǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "蝉",
+          "chán"
+        ],
+        [
+          "休",
+          "xiū"
+        ],
+        [
+          "露",
+          "lù"
+        ],
+        [
+          "满",
+          "mǎn"
+        ],
+        [
+          "枝",
+          "zhī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "永",
+          "yǒng"
+        ],
+        [
+          "怀",
+          "huái"
+        ],
+        [
+          "当",
+          "dāng"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "节",
+          "jié"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "倚",
+          "yǐ"
+        ],
+        [
+          "立",
+          "lì"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "移",
+          "yí"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "北",
+          "běi"
+        ],
+        [
+          "斗",
+          "dǒu"
+        ],
+        [
+          "兼",
+          "jiān"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "陵",
+          "líng"
+        ],
+        [
+          "寓",
+          "yù"
+        ],
+        [
+          "使",
+          "shǐ"
+        ],
+        [
+          "迟",
+          "chí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "涯",
+          "yá"
+        ],
+        [
+          "占",
+          "zhān"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "数",
+          "shù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "疑",
+          "yí"
+        ],
+        [
+          "误",
+          "wù"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言律诗",
+      "愁思"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseLiShangyinTHOUGHTSINTHECOLD",
+      "translationRaw": "Youaregone。Theriverishighatmydoor。Cicadasaremuteondew-ladenboughs。Thisisamomentwhenthoughtsenterdeep。Istandaloneforalongwhile。。。。TheNorthStarisnearertomenowthanspring，Andcouriersfromyoursouthlandneverarrive--YetIdoubtmydreamonthefarhorizonThatyouhavefoundanotherfriend。",
+      "translationClean": "Youaregone. Theriverishighatmydoor. Cicadasaremuteondew-ladenboughs. Thisisamomentwhenthoughtsenterdeep. Istandaloneforalongwhile.... TheNorthStarisnearertomenowthanspring, Andcouriersfromyoursouthlandneverarrive--YetIdoubtmydreamonthefarhorizonThatyouhavefoundanotherfriend.",
+      "segments": [
+        "Youaregone.",
+        "Theriverishighatmydoor.",
+        "Cicadasaremuteondew-ladenboughs.",
+        "Thisisamomentwhenthoughtsenterdeep.",
+        "Istandaloneforalongwhile....",
+        "TheNorthStarisnearertomenowthanspring, Andcouriersfromyoursouthlandneverarrive--YetIdoubtmydreamonthefarhorizonThatyouhavefoundanotherfriend."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 267,
+        "title": "凉思",
+        "author": "李商隐"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 159,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 256,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "15c6cbc9-753a-4f09-86bf-4fe2d8bb1fee",
+        "score": 1
+      }
+    }
+  }
+}

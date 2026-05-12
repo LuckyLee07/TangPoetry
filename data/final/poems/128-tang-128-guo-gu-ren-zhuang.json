@@ -1,0 +1,494 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-128-guo-gu-ren-zhuang",
+    "order": 128,
+    "section": "五言律诗",
+    "title": "过故人庄",
+    "titleTraditional": "過故人莊",
+    "author": "孟浩然",
+    "authorTraditional": "孟浩然",
+    "dynasty": "唐代",
+    "aliases": [
+      "过故人庄"
+    ],
+    "lines": [
+      "故人具鸡黍，邀我至田家。",
+      "绿树村边合，青山郭外斜。",
+      "开轩面场圃，把酒话桑麻。",
+      "待到重阳日，还来就菊花。"
+    ],
+    "linesTraditional": [
+      "故人具雞黍，邀我至田家。",
+      "綠樹村邊合，青山郭外斜。",
+      "開軒面場圃，把酒話桑麻。",
+      "待到重陽日，還來就菊花。"
+    ],
+    "text": "故人具鸡黍，邀我至田家。绿树村边合，青山郭外斜。开轩面场圃，把酒话桑麻。待到重阳日，还来就菊花。",
+    "textTraditional": "故人具雞黍，邀我至田家。綠樹村邊合，青山郭外斜。開軒面場圃，把酒話桑麻。待到重陽日，還來就菊花。",
+    "displayLines": [
+      "故人具鸡黍，",
+      "邀我至田家。",
+      "绿树村边合，",
+      "青山郭外斜。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "具",
+          "jù"
+        ],
+        [
+          "鸡",
+          "jī"
+        ],
+        [
+          "黍",
+          "shǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "邀",
+          "yāo"
+        ],
+        [
+          "我",
+          "wǒ"
+        ],
+        [
+          "至",
+          "zhì"
+        ],
+        [
+          "田",
+          "tián"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "绿",
+          "lǜ"
+        ],
+        [
+          "树",
+          "shù"
+        ],
+        [
+          "村",
+          "cūn"
+        ],
+        [
+          "边",
+          "biān"
+        ],
+        [
+          "合",
+          "hé"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "郭",
+          "guō"
+        ],
+        [
+          "外",
+          "wài"
+        ],
+        [
+          "斜",
+          "xié"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "开",
+          "kāi"
+        ],
+        [
+          "轩",
+          "xuān"
+        ],
+        [
+          "面",
+          "miàn"
+        ],
+        [
+          "场",
+          "chǎng"
+        ],
+        [
+          "圃",
+          "pǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "把",
+          "bǎ"
+        ],
+        [
+          "酒",
+          "jiǔ"
+        ],
+        [
+          "话",
+          "huà"
+        ],
+        [
+          "桑",
+          "sāng"
+        ],
+        [
+          "麻",
+          "má"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "待",
+          "dài"
+        ],
+        [
+          "到",
+          "dào"
+        ],
+        [
+          "重",
+          "chóng"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "就",
+          "jiù"
+        ],
+        [
+          "菊",
+          "jú"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "具",
+          "jù"
+        ],
+        [
+          "鸡",
+          "jī"
+        ],
+        [
+          "黍",
+          "shǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "邀",
+          "yāo"
+        ],
+        [
+          "我",
+          "wǒ"
+        ],
+        [
+          "至",
+          "zhì"
+        ],
+        [
+          "田",
+          "tián"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "绿",
+          "lǜ"
+        ],
+        [
+          "树",
+          "shù"
+        ],
+        [
+          "村",
+          "cūn"
+        ],
+        [
+          "边",
+          "biān"
+        ],
+        [
+          "合",
+          "hé"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "郭",
+          "guō"
+        ],
+        [
+          "外",
+          "wài"
+        ],
+        [
+          "斜",
+          "xié"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "开",
+          "kāi"
+        ],
+        [
+          "轩",
+          "xuān"
+        ],
+        [
+          "面",
+          "miàn"
+        ],
+        [
+          "场",
+          "chǎng"
+        ],
+        [
+          "圃",
+          "pǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "把",
+          "bǎ"
+        ],
+        [
+          "酒",
+          "jiǔ"
+        ],
+        [
+          "话",
+          "huà"
+        ],
+        [
+          "桑",
+          "sāng"
+        ],
+        [
+          "麻",
+          "má"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "待",
+          "dài"
+        ],
+        [
+          "到",
+          "dào"
+        ],
+        [
+          "重",
+          "chóng"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "就",
+          "jiù"
+        ],
+        [
+          "菊",
+          "jú"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言律诗",
+      "生活",
+      "田园",
+      "友情",
+      "初中古诗",
+      "山",
+      "七年级上册(课外)",
+      "四年级上册"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseMengHaoranSTOPPINGATAFRIEND』SFARM-HOUSE",
+      "translationRaw": "Preparingmechickenandrice，oldfriend，Youentertainmeatyourfarm。WewatchthegreentreesthatcircleyourvillageAndthepaleblueofoutlyingmountains。Weopenyourwindowovergardenandfield，Totalkmulberryandhempwithourcupsinourhands。。。。WaittilltheMountainHoliday--Iamcomingagaininchrysanthemumtime。",
+      "translationClean": "Preparingmechickenandrice, oldfriend, Youentertainmeatyourfarm. WewatchthegreentreesthatcircleyourvillageAndthepaleblueofoutlyingmountains. Weopenyourwindowovergardenandfield, Totalkmulberryandhempwithourcupsinourhands.... WaittilltheMountainHoliday--Iamcomingagaininchrysanthemumtime.",
+      "segments": [
+        "Preparingmechickenandrice, oldfriend, Youentertainmeatyourfarm.",
+        "WewatchthegreentreesthatcircleyourvillageAndthepaleblueofoutlyingmountains.",
+        "Weopenyourwindowovergardenandfield, Totalkmulberryandhempwithourcupsinourhands....",
+        "WaittilltheMountainHoliday--Iamcomingagaininchrysanthemumtime."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 100,
+        "title": "过故人庄",
+        "author": "孟浩然"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 128,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 225,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "9309205e-1d08-4a7b-99ef-4a05a9ee4370",
+        "score": 0.975
+      }
+    }
+  }
+}

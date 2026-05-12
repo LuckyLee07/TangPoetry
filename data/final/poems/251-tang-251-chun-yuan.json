@@ -1,0 +1,284 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-251-chun-yuan",
+    "order": 251,
+    "section": "五言绝句",
+    "title": "春怨",
+    "titleTraditional": "春怨",
+    "author": "金昌绪",
+    "authorTraditional": "金昌緒",
+    "dynasty": "唐代",
+    "aliases": [
+      "春怨 / 伊州歌",
+      "春怨"
+    ],
+    "lines": [
+      "打起黄莺儿，莫教枝上啼。",
+      "啼时惊妾梦，不得到辽西。"
+    ],
+    "linesTraditional": [
+      "打起黃鶯兒，莫教枝上啼。",
+      "啼時驚妾夢，不得到遼西。"
+    ],
+    "text": "打起黄莺儿，莫教枝上啼。啼时惊妾梦，不得到辽西。",
+    "textTraditional": "打起黃鶯兒，莫教枝上啼。啼時驚妾夢，不得到遼西。",
+    "displayLines": [
+      "打起黄莺儿，",
+      "莫教枝上啼。",
+      "啼时惊妾梦，",
+      "不得到辽西。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "打",
+          "dǎ"
+        ],
+        [
+          "起",
+          "qǐ"
+        ],
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "莺",
+          "yīng"
+        ],
+        [
+          "儿",
+          "ér"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "莫",
+          "mò"
+        ],
+        [
+          "教",
+          "jiào"
+        ],
+        [
+          "枝",
+          "zhī"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "啼",
+          "tí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "啼",
+          "tí"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "惊",
+          "jīng"
+        ],
+        [
+          "妾",
+          "qiè"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "得",
+          "dé"
+        ],
+        [
+          "到",
+          "dào"
+        ],
+        [
+          "辽",
+          "liáo"
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "打",
+          "dǎ"
+        ],
+        [
+          "起",
+          "qǐ"
+        ],
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "莺",
+          "yīng"
+        ],
+        [
+          "儿",
+          "ér"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "莫",
+          "mò"
+        ],
+        [
+          "教",
+          "jiào"
+        ],
+        [
+          "枝",
+          "zhī"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "啼",
+          "tí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "啼",
+          "tí"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "惊",
+          "jīng"
+        ],
+        [
+          "妾",
+          "qiè"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "得",
+          "dé"
+        ],
+        [
+          "到",
+          "dào"
+        ],
+        [
+          "辽",
+          "liáo"
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言绝句",
+      "怀人",
+      "闺怨"
+    ],
+    "english": {
+      "headingRaw": "Five-character-quatrainJinChangzuASPRINGSIGH",
+      "translationRaw": "Drivetheoriolesaway，Alltheirmusicfromthetrees。。。。WhenshedreamedthatshewenttoLiaoxiCampTojoinhimthere，theywakenedher",
+      "translationClean": "Drivetheoriolesaway, Alltheirmusicfromthetrees.... WhenshedreamedthatshewenttoLiaoxiCampTojoinhimthere, theywakenedher",
+      "segments": [
+        "Drivetheoriolesaway, Alltheirmusicfromthetrees....",
+        "WhenshedreamedthatshewenttoLiaoxiCampTojoinhimthere, theywakenedher"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 26,
+        "title": "春怨 / 伊州歌",
+        "author": "金昌绪"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 251,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 118,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "b41e25f5-5a57-497f-a3a2-84bdfb9331f5",
+        "score": 1
+      }
+    }
+  }
+}

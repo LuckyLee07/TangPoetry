@@ -1,0 +1,513 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-029-ji-quan-jiao-shan-zhong-dao-shi",
+    "order": 29,
+    "section": "五言古诗",
+    "title": "寄全椒山中道士",
+    "titleTraditional": "寄全椒山中道士",
+    "author": "韦应物",
+    "authorTraditional": "韋應物",
+    "dynasty": "唐代",
+    "aliases": [
+      "寄全椒山中道士"
+    ],
+    "lines": [
+      "今朝郡斋冷，忽念山中客；",
+      "涧底束荆薪，归来煮白石。",
+      "欲持一瓢酒，远慰风雨夕；",
+      "落叶满空山，何处寻行迹。"
+    ],
+    "linesTraditional": [
+      "今朝郡齋冷，忽念山中客；",
+      "澗底束荊薪，歸來煮白石。",
+      "欲持一瓢酒，遠慰風雨夕；",
+      "落葉滿空山，何處尋行跡。"
+    ],
+    "text": "今朝郡斋冷，忽念山中客；涧底束荆薪，归来煮白石。欲持一瓢酒，远慰风雨夕；落叶满空山，何处寻行迹。",
+    "textTraditional": "今朝郡齋冷，忽念山中客；澗底束荊薪，歸來煮白石。欲持一瓢酒，遠慰風雨夕；落葉滿空山，何處尋行跡。",
+    "displayLines": [
+      "今朝郡斋冷，",
+      "忽念山中客；",
+      "涧底束荆薪，",
+      "归来煮白石。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "朝",
+          "zhāo"
+        ],
+        [
+          "郡",
+          "jùn"
+        ],
+        [
+          "斋",
+          "zhāi"
+        ],
+        [
+          "冷",
+          "lěng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "忽",
+          "hū"
+        ],
+        [
+          "念",
+          "niàn"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "涧",
+          "jiàn"
+        ],
+        [
+          "底",
+          "dǐ"
+        ],
+        [
+          "束",
+          "shù"
+        ],
+        [
+          "荆",
+          "jīng"
+        ],
+        [
+          "薪",
+          "xīn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "煮",
+          "zhǔ"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "石",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "持",
+          "chí"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "瓢",
+          "piáo"
+        ],
+        [
+          "酒",
+          "jiǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "慰",
+          "wèi"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "夕",
+          "xī"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "叶",
+          "yè"
+        ],
+        [
+          "满",
+          "mǎn"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "寻",
+          "xún"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "迹",
+          "jì"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "朝",
+          "zhāo"
+        ],
+        [
+          "郡",
+          "jùn"
+        ],
+        [
+          "斋",
+          "zhāi"
+        ],
+        [
+          "冷",
+          "lěng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "忽",
+          "hū"
+        ],
+        [
+          "念",
+          "niàn"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "涧",
+          "jiàn"
+        ],
+        [
+          "底",
+          "dǐ"
+        ],
+        [
+          "束",
+          "shù"
+        ],
+        [
+          "荆",
+          "jīng"
+        ],
+        [
+          "薪",
+          "xīn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "煮",
+          "zhǔ"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "石",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "持",
+          "chí"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "瓢",
+          "piáo"
+        ],
+        [
+          "酒",
+          "jiǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "慰",
+          "wèi"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "夕",
+          "xī"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "叶",
+          "yè"
+        ],
+        [
+          "满",
+          "mǎn"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "寻",
+          "xún"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "迹",
+          "jì"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言古诗",
+      "怀念"
+    ],
+    "english": {
+      "headingRaw": "Five-character-ancient-verseWeiYingwuAPOEMTOATAOISTHERMITCHUANJIAOMOUNTAIN",
+      "translationRaw": "Myofficehasgrowncoldtoday；AndIsuddenlythinkofmymountainfriendGatheringfirewooddowninthevalleyOrboilingwhitestonesforpotatoesinhishut。。。。IwishImighttakehimacupofwineTocheerhimthroughtheeveningstorm；Butinfallenleavesthathaveheapedthebareslopes，HowshouldIeverfindhisfootprints！",
+      "translationClean": "Myofficehasgrowncoldtoday; AndIsuddenlythinkofmymountainfriendGatheringfirewooddowninthevalleyOrboilingwhitestonesforpotatoesinhishut.... IwishImighttakehimacupofwineTocheerhimthroughtheeveningstorm; Butinfallenleavesthathaveheapedthebareslopes, HowshouldIeverfindhisfootprints!",
+      "segments": [
+        "Myofficehasgrowncoldtoday;",
+        "AndIsuddenlythinkofmymountainfriendGatheringfirewooddowninthevalleyOrboilingwhitestonesforpotatoesinhishut....",
+        "IwishImighttakehimacupofwineTocheerhimthroughtheeveningstorm;",
+        "Butinfallenleavesthathaveheapedthebareslopes, HowshouldIeverfindhisfootprints!"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 233,
+        "title": "寄全椒山中道士",
+        "author": "韦应物"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 29,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 29,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "46503396-3bb3-449c-9c84-f2ff232f7949",
+        "score": 1
+      }
+    },
+    "visual": {
+      "image": "assets/illustrations-wuyan-gushi/029-tang-029-ji-quan-jiao-shan-zhong-dao-shi.png",
+      "coreImagery": [
+        "山中道士",
+        "涧底荆薪",
+        "白石",
+        "郡斋冷"
+      ],
+      "mood": [
+        "清寒",
+        "挂念",
+        "幽远"
+      ],
+      "palette": [
+        "石白",
+        "涧青",
+        "松绿",
+        "冷灰"
+      ],
+      "composition": "涧底白石与荆薪在前，山路消失在雾里，似有道士未归。",
+      "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+      "prompt": "寄全椒山中道士，韦应物。核心意象：山中道士、涧底荆薪、白石、郡斋冷；情绪：清寒、挂念、幽远。涧底白石与荆薪在前，山路消失在雾里，似有道士未归。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+      "generatedAt": "2026-05-10T15:05:28+00:00",
+      "generator": "procedural-watercolor"
+    }
+  }
+}

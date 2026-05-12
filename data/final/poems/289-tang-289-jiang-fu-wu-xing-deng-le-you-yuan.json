@@ -1,0 +1,353 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-289-jiang-fu-wu-xing-deng-le-you-yuan",
+    "order": 289,
+    "section": "七言绝句",
+    "title": "将赴吴兴登乐游原",
+    "titleTraditional": "將赴吳興登樂遊原",
+    "author": "杜牧",
+    "authorTraditional": "杜牧",
+    "dynasty": "唐代",
+    "aliases": [
+      "将赴吴兴登乐游原一绝",
+      "将赴吴兴登乐游原"
+    ],
+    "lines": [
+      "清时有味是无能，闲爱孤云静爱僧。",
+      "欲把一麾江海去，乐游原上望昭陵。"
+    ],
+    "linesTraditional": [
+      "清時有味是無能，閒愛孤雲靜愛僧。",
+      "欲把一麾江海去，樂遊原上望昭陵。"
+    ],
+    "text": "清时有味是无能，闲爱孤云静爱僧。欲把一麾江海去，乐游原上望昭陵。",
+    "textTraditional": "清時有味是無能，閒愛孤雲靜愛僧。欲把一麾江海去，樂遊原上望昭陵。",
+    "displayLines": [
+      "清时有味是无能，",
+      "闲爱孤云静爱僧。",
+      "欲把一麾江海去，",
+      "乐游原上望昭陵。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "味",
+          "wèi"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "能",
+          "néng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "闲",
+          "xián"
+        ],
+        [
+          "爱",
+          "ài"
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "静",
+          "jìng"
+        ],
+        [
+          "爱",
+          "ài"
+        ],
+        [
+          "僧",
+          "sēng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "把",
+          "bǎ"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "麾",
+          "huī"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "乐",
+          "lè"
+        ],
+        [
+          "游",
+          "yóu"
+        ],
+        [
+          "原",
+          "yuán"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "望",
+          "wàng"
+        ],
+        [
+          "昭",
+          "zhāo"
+        ],
+        [
+          "陵",
+          "líng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "味",
+          "wèi"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "能",
+          "néng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "闲",
+          "xián"
+        ],
+        [
+          "爱",
+          "ài"
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "静",
+          "jìng"
+        ],
+        [
+          "爱",
+          "ài"
+        ],
+        [
+          "僧",
+          "sēng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "把",
+          "bǎ"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "麾",
+          "huī"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "乐",
+          "lè"
+        ],
+        [
+          "游",
+          "yóu"
+        ],
+        [
+          "原",
+          "yuán"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "望",
+          "wàng"
+        ],
+        [
+          "昭",
+          "zhāo"
+        ],
+        [
+          "陵",
+          "líng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.麾：旗旌一类的东西，用以指挥。"
+      }
+    ],
+    "tags": [
+      "七言绝句",
+      "爱国"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainDuMuICLIMBTOTHELEYOUTOMBSBEFORELEAVINGFORWUXING",
+      "translationRaw": "Eveninthisgoodreign，howcanIserve？Thelonecloudrather，theBuddhistpeace。。。。Oncemore，beforecrossingriverandsea，IfacethegreatEmperor』smountain-tomb。",
+      "translationClean": "Eveninthisgoodreign, howcanIserve? Thelonecloudrather, theBuddhistpeace.... Oncemore, beforecrossingriverandsea, IfacethegreatEmperor'smountain-tomb.",
+      "segments": [
+        "Eveninthisgoodreign, howcanIserve?",
+        "Thelonecloudrather, theBuddhistpeace....",
+        "Oncemore, beforecrossingriverandsea, IfacethegreatEmperor'smountain-tomb."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 66,
+        "title": "将赴吴兴登乐游原一绝",
+        "author": "杜牧"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9811
+      },
+      "ctext": {
+        "matched": true,
+        "order": 289,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 162,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "24ca9268-9cbd-423b-b423-12e1a9aa9041",
+        "score": 1
+      }
+    }
+  }
+}

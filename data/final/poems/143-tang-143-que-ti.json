@@ -1,0 +1,503 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-143-que-ti",
+    "order": 143,
+    "section": "五言律诗",
+    "title": "阙题",
+    "titleTraditional": "闕題",
+    "author": "刘脊虚",
+    "authorTraditional": "劉脊虛",
+    "dynasty": "唐代",
+    "aliases": [
+      "阙题"
+    ],
+    "lines": [
+      "道由白云尽，春与青溪长。",
+      "时有落花至，远隋流水香。",
+      "闲门向山路，深柳读书堂。",
+      "幽映每白日，清辉照衣裳。",
+      "又作闲"
+    ],
+    "linesTraditional": [
+      "道由白雲盡，春與青溪長。",
+      "時有落花至，遠隋流水香。",
+      "閑門向山路，深柳讀書堂。",
+      "幽映每白日，清輝照衣裳。",
+      "又作閒"
+    ],
+    "text": "道由白云尽，春与青溪长。时有落花至，远隋流水香。闲门向山路，深柳读书堂。幽映每白日，清辉照衣裳。又作闲",
+    "textTraditional": "道由白雲盡，春與青溪長。時有落花至，遠隋流水香。閑門向山路，深柳讀書堂。幽映每白日，清輝照衣裳。又作閒",
+    "displayLines": [
+      "道由白云尽，",
+      "春与青溪长。",
+      "时有落花至，",
+      "远隋流水香。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "道",
+          "dào"
+        ],
+        [
+          "由",
+          "yóu"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "尽",
+          "jǐn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "与",
+          "yǔ"
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "溪",
+          "xī"
+        ],
+        [
+          "长",
+          "zhǎng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "至",
+          "zhì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "隋",
+          "suí"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "香",
+          "xiāng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "闲",
+          "xián"
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "向",
+          "xiàng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "路",
+          "lù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "柳",
+          "liǔ"
+        ],
+        [
+          "读",
+          "dú"
+        ],
+        [
+          "书",
+          "shū"
+        ],
+        [
+          "堂",
+          "táng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "幽",
+          "yōu"
+        ],
+        [
+          "映",
+          "yìng"
+        ],
+        [
+          "每",
+          "měi"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "辉",
+          "huī"
+        ],
+        [
+          "照",
+          "zhào"
+        ],
+        [
+          "衣",
+          "yī"
+        ],
+        [
+          "裳",
+          "shang"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "道",
+          "dào"
+        ],
+        [
+          "由",
+          "yóu"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "尽",
+          "jǐn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "与",
+          "yǔ"
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "溪",
+          "xī"
+        ],
+        [
+          "长",
+          "zhǎng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "至",
+          "zhì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "隋",
+          "suí"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "香",
+          "xiāng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "闲",
+          "xián"
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "向",
+          "xiàng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "路",
+          "lù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "柳",
+          "liǔ"
+        ],
+        [
+          "读",
+          "dú"
+        ],
+        [
+          "书",
+          "shū"
+        ],
+        [
+          "堂",
+          "táng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "幽",
+          "yōu"
+        ],
+        [
+          "映",
+          "yìng"
+        ],
+        [
+          "每",
+          "měi"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "辉",
+          "huī"
+        ],
+        [
+          "照",
+          "zhào"
+        ],
+        [
+          "衣",
+          "yī"
+        ],
+        [
+          "裳",
+          "shang"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "又",
+          "yòu"
+        ],
+        [
+          "作",
+          "zuò"
+        ],
+        [
+          "闲",
+          "xián"
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言律诗",
+      "春天",
+      "写景"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseLiuJixuAPOEM",
+      "translationRaw": "Onaroadoutreachingthewhiteclouds，Byaspringoutrunningthebluestriver，PetalscomedriftingonthewindAndthebrookissweetwiththemalltheway。Myquietgateisamountain-trail，Andthewillow-treesaboutmycottageSiftonmysleeve，throughtheshadowynoon，Distillationsofthesun。",
+      "translationClean": "Onaroadoutreachingthewhiteclouds, Byaspringoutrunningthebluestriver, PetalscomedriftingonthewindAndthebrookissweetwiththemalltheway. Myquietgateisamountain-trail, Andthewillow-treesaboutmycottageSiftonmysleeve, throughtheshadowynoon, Distillationsofthesun.",
+      "segments": [
+        "Onaroadoutreachingthewhiteclouds, Byaspringoutrunningthebluestriver, PetalscomedriftingonthewindAndthebrookissweetwiththemalltheway.",
+        "Myquietgateisamountain-trail, Andthewillow-treesaboutmycottageSiftonmysleeve, throughtheshadowynoon, Distillationsofthesun."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 167,
+        "title": "阙题",
+        "author": "刘昚虚"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.953
+      },
+      "ctext": {
+        "matched": true,
+        "order": 143,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 240,
+        "score": 0.975,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "a2b4fe60-9809-422d-afa7-143a2088f045",
+        "score": 1
+      }
+    }
+  }
+}

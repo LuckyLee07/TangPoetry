@@ -1,0 +1,351 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-272-chu-zhou-xi-jian",
+    "order": 272,
+    "section": "七言绝句",
+    "title": "滁州西涧",
+    "titleTraditional": "滁州西澗",
+    "author": "韦应物",
+    "authorTraditional": "韋應物",
+    "dynasty": "唐代",
+    "aliases": [
+      "滁州西涧"
+    ],
+    "lines": [
+      "独怜幽草涧边生，上有黄鹂深树鸣。",
+      "春潮带雨晚来急，野渡无人舟自横。"
+    ],
+    "linesTraditional": [
+      "獨憐幽草澗邊生，上有黃鸝深樹鳴。",
+      "春潮帶雨晚來急，野渡無人舟自橫。"
+    ],
+    "text": "独怜幽草涧边生，上有黄鹂深树鸣。春潮带雨晚来急，野渡无人舟自横。",
+    "textTraditional": "獨憐幽草澗邊生，上有黃鸝深樹鳴。春潮帶雨晚來急，野渡無人舟自橫。",
+    "displayLines": [
+      "独怜幽草涧边生，",
+      "上有黄鹂深树鸣。",
+      "春潮带雨晚来急，",
+      "野渡无人舟自横。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "怜",
+          "lián"
+        ],
+        [
+          "幽",
+          "yōu"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "涧",
+          "jiàn"
+        ],
+        [
+          "边",
+          "biān"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "鹂",
+          "lí"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "树",
+          "shù"
+        ],
+        [
+          "鸣",
+          "míng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "潮",
+          "cháo"
+        ],
+        [
+          "带",
+          "dài"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "晚",
+          "wǎn"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "急",
+          "jí"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "野",
+          "yě"
+        ],
+        [
+          "渡",
+          "dù"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "舟",
+          "zhōu"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "横",
+          "héng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "怜",
+          "lián"
+        ],
+        [
+          "幽",
+          "yōu"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "涧",
+          "jiàn"
+        ],
+        [
+          "边",
+          "biān"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "鹂",
+          "lí"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "树",
+          "shù"
+        ],
+        [
+          "鸣",
+          "míng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "潮",
+          "cháo"
+        ],
+        [
+          "带",
+          "dài"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "晚",
+          "wǎn"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "急",
+          "jí"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "野",
+          "yě"
+        ],
+        [
+          "渡",
+          "dù"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "舟",
+          "zhōu"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "横",
+          "héng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "七言绝句",
+      "春",
+      "山水",
+      "写景",
+      "抒情",
+      "初中古诗",
+      "水",
+      "七年级下册(课外)"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainWeiYingwuATCHUZHOUONTHEWESTERNSTREAM",
+      "translationRaw": "WheretendergrassesrimthestreamAnddeepboughstrillwithmango-birds，Onthespringfloodoflastnight』srainTheferry-boatmovesasthoughsomeonewerepoling。",
+      "translationClean": "WheretendergrassesrimthestreamAnddeepboughstrillwithmango-birds, Onthespringfloodoflastnight'srainTheferry-boatmovesasthoughsomeonewerepoling.",
+      "segments": [
+        "WheretendergrassesrimthestreamAnddeepboughstrillwithmango-birds, Onthespringfloodoflastnight'srainTheferry-boatmovesasthoughsomeonewerepoling."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 311,
+        "title": "滁州西涧",
+        "author": "韦应物"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 272,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 145,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "0ae0e3bd-a32e-481f-9719-b283da2da964",
+        "score": 1
+      }
+    }
+  }
+}

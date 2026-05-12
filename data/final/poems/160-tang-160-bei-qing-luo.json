@@ -1,0 +1,447 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-160-bei-qing-luo",
+    "order": 160,
+    "section": "五言律诗",
+    "title": "北青萝",
+    "titleTraditional": "北青蘿",
+    "author": "李商隐",
+    "authorTraditional": "李商隱",
+    "dynasty": "唐代",
+    "aliases": [
+      "北青萝"
+    ],
+    "lines": [
+      "残阳西入崦，茅屋访孤僧。",
+      "落叶人何在？",
+      "寒云路几层。",
+      "独敲初夜磬，闲倚一枝藤。",
+      "世界微尘里，吾宁爱与憎。"
+    ],
+    "linesTraditional": [
+      "殘陽西入崦，茅屋訪孤僧。",
+      "落葉人何在？",
+      "寒雲路幾層。",
+      "獨敲初夜磬，閑倚一枝藤。",
+      "世界微塵裡，吾寧愛與憎。"
+    ],
+    "text": "残阳西入崦，茅屋访孤僧。落叶人何在？寒云路几层。独敲初夜磬，闲倚一枝藤。世界微尘里，吾宁爱与憎。",
+    "textTraditional": "殘陽西入崦，茅屋訪孤僧。落葉人何在？寒雲路幾層。獨敲初夜磬，閑倚一枝藤。世界微塵裡，吾寧愛與憎。",
+    "displayLines": [
+      "残阳西入崦，",
+      "茅屋访孤僧。",
+      "落叶人何在？",
+      "寒云路几层。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "残",
+          "cán"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "崦",
+          "yān"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "茅",
+          "máo"
+        ],
+        [
+          "屋",
+          "wū"
+        ],
+        [
+          "访",
+          "fǎng"
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "僧",
+          "sēng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "叶",
+          "yè"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "路",
+          "lù"
+        ],
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "层",
+          "céng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "敲",
+          "qiāo"
+        ],
+        [
+          "初",
+          "chū"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "磬",
+          "qìng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "闲",
+          "xián"
+        ],
+        [
+          "倚",
+          "yǐ"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "枝",
+          "zhī"
+        ],
+        [
+          "藤",
+          "téng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "残",
+          "cán"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "崦",
+          "yān"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "茅",
+          "máo"
+        ],
+        [
+          "屋",
+          "wū"
+        ],
+        [
+          "访",
+          "fǎng"
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "僧",
+          "sēng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "叶",
+          "yè"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "路",
+          "lù"
+        ],
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "层",
+          "céng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "敲",
+          "qiāo"
+        ],
+        [
+          "初",
+          "chū"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "磬",
+          "qìng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "闲",
+          "xián"
+        ],
+        [
+          "倚",
+          "yǐ"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "枝",
+          "zhī"
+        ],
+        [
+          "藤",
+          "téng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "世",
+          "shì"
+        ],
+        [
+          "界",
+          "jiè"
+        ],
+        [
+          "微",
+          "wēi"
+        ],
+        [
+          "尘",
+          "chén"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "吾",
+          "wú"
+        ],
+        [
+          "宁",
+          "níng"
+        ],
+        [
+          "爱",
+          "ài"
+        ],
+        [
+          "与",
+          "yǔ"
+        ],
+        [
+          "憎",
+          "zēng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.宁：岂。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "寻访"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseLiShangyinNORTHAMONGGREENVINES",
+      "translationRaw": "Wherethesunhasenteredthewesternhills，Ilookforamonkinhislittlestrawhut；Butonlythefallenleavesareathome，AndIturnthroughchillinglevelsofcloudIhearastonegonginthedusk，Ileanfull-weightonmyslenderstaffHowwithinthisworld，withinthisgrainofdust，Cantherebeanyroomforthepassionsofmen？",
+      "translationClean": "Wherethesunhasenteredthewesternhills, Ilookforamonkinhislittlestrawhut; Butonlythefallenleavesareathome, AndIturnthroughchillinglevelsofcloudIhearastonegonginthedusk, Ileanfull-weightonmyslenderstaffHowwithinthisworld, withinthisgrainofdust, Cantherebeanyroomforthepassionsofmen?",
+      "segments": [
+        "Wherethesunhasenteredthewesternhills, Ilookforamonkinhislittlestrawhut;",
+        "Butonlythefallenleavesareathome, AndIturnthroughchillinglevelsofcloudIhearastonegonginthedusk, Ileanfull-weightonmyslenderstaffHowwithinthisworld, withinthisgrainofdust, Cantherebeanyroomforthepassionsofmen?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 180,
+        "title": "北青萝",
+        "author": "李商隐"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 160,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 257,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "9380d4f6-e19d-4ff1-8309-07f4ede69f7c",
+        "score": 1
+      }
+    }
+  }
+}

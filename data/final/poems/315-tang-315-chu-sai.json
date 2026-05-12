@@ -1,0 +1,357 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-315-chu-sai",
+    "order": 315,
+    "section": "乐府",
+    "title": "出塞",
+    "titleTraditional": "出塞",
+    "author": "王昌龄",
+    "authorTraditional": "王昌齡",
+    "dynasty": "唐代",
+    "aliases": [
+      "出塞二首·其一",
+      "出塞"
+    ],
+    "lines": [
+      "秦时明月汉时关，万里长征人未还。",
+      "但使龙城飞将在，不教胡马渡阴山。"
+    ],
+    "linesTraditional": [
+      "秦時明月漢時關，萬里長征人未還。",
+      "但使龍城飛將在，不教胡馬渡陰山。"
+    ],
+    "text": "秦时明月汉时关，万里长征人未还。但使龙城飞将在，不教胡马渡阴山。",
+    "textTraditional": "秦時明月漢時關，萬里長征人未還。但使龍城飛將在，不教胡馬渡陰山。",
+    "displayLines": [
+      "秦时明月汉时关，",
+      "万里长征人未还。",
+      "但使龙城飞将在，",
+      "不教胡马渡阴山。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "秦",
+          "qín"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "长",
+          "cháng"
+        ],
+        [
+          "征",
+          "zhēng"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "但",
+          "dàn"
+        ],
+        [
+          "使",
+          "shǐ"
+        ],
+        [
+          "龙",
+          "lóng"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "将",
+          "jiāng"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "教",
+          "jiào"
+        ],
+        [
+          "胡",
+          "hú"
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "渡",
+          "dù"
+        ],
+        [
+          "阴",
+          "yīn"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "秦",
+          "qín"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "长",
+          "cháng"
+        ],
+        [
+          "征",
+          "zhēng"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "但",
+          "dàn"
+        ],
+        [
+          "使",
+          "shǐ"
+        ],
+        [
+          "龙",
+          "lóng"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "将",
+          "jiāng"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "教",
+          "jiào"
+        ],
+        [
+          "胡",
+          "hú"
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "渡",
+          "dù"
+        ],
+        [
+          "阴",
+          "yīn"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.龙城飞将：指汉卫青、李广。"
+      }
+    ],
+    "tags": [
+      "乐府",
+      "战争",
+      "写景",
+      "忧国忧民",
+      "爱国",
+      "山",
+      "边塞"
+    ],
+    "english": {
+      "headingRaw": "Folk-song-styled-verseWangChanglingOVERTHEBORDER",
+      "translationRaw": "ThemoongoesbacktothetimeofQin，thewalltothetimeofHan，Andtheroadourtroopsaretravellinggoesbackthreehundredmiles。。。。Oh，fortheWingedGeneralattheDragonCity--ThatneveraTartarhorsemanmightcrosstheYinMountains！",
+      "translationClean": "ThemoongoesbacktothetimeofQin, thewalltothetimeofHan, Andtheroadourtroopsaretravellinggoesbackthreehundredmiles.... Oh, fortheWingedGeneralattheDragonCity--ThatneveraTartarhorsemanmightcrosstheYinMountains!",
+      "segments": [
+        "ThemoongoesbacktothetimeofQin, thewalltothetimeofHan, Andtheroadourtroopsaretravellinggoesbackthreehundredmiles....",
+        "Oh, fortheWingedGeneralattheDragonCity--ThatneveraTartarhorsemanmightcrosstheYinMountains!"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 229,
+        "title": "出塞二首·其一",
+        "author": "王昌龄"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9381
+      },
+      "ctext": {
+        "matched": true,
+        "order": 315,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 136,
+        "score": 0.9643,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "2d0385e7-0c72-423f-a538-f66acc9d4c46",
+        "score": 1
+      }
+    }
+  }
+}

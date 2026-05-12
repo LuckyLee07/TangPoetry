@@ -1,0 +1,348 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-308-jin-ling-tu",
+    "order": 308,
+    "section": "七言绝句",
+    "title": "金陵图",
+    "titleTraditional": "金陵圖",
+    "author": "韦庄",
+    "authorTraditional": "韋莊",
+    "dynasty": "唐代",
+    "aliases": [
+      "金陵图"
+    ],
+    "lines": [
+      "江雨霏霏江草齐，六朝如梦鸟空啼。",
+      "无情最是台城柳，依旧烟笼十里堤。"
+    ],
+    "linesTraditional": [
+      "江雨霏霏江草齊，六朝如夢鳥空啼。",
+      "無情最是臺城柳，依舊煙籠十里堤。"
+    ],
+    "text": "江雨霏霏江草齐，六朝如梦鸟空啼。无情最是台城柳，依旧烟笼十里堤。",
+    "textTraditional": "江雨霏霏江草齊，六朝如夢鳥空啼。無情最是臺城柳，依舊煙籠十里堤。",
+    "displayLines": [
+      "江雨霏霏江草齐，",
+      "六朝如梦鸟空啼。",
+      "无情最是台城柳，",
+      "依旧烟笼十里堤。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "霏",
+          "fēi"
+        ],
+        [
+          "霏",
+          "fēi"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "齐",
+          "qí"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "六",
+          "liù"
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "啼",
+          "tí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "最",
+          "zuì"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "台",
+          "tái"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "柳",
+          "liǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "依",
+          "yī"
+        ],
+        [
+          "旧",
+          "jiù"
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "笼",
+          "lóng"
+        ],
+        [
+          "十",
+          "shí"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "堤",
+          "dī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "霏",
+          "fēi"
+        ],
+        [
+          "霏",
+          "fēi"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "齐",
+          "qí"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "六",
+          "liù"
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "啼",
+          "tí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "最",
+          "zuì"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "台",
+          "tái"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "柳",
+          "liǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "依",
+          "yī"
+        ],
+        [
+          "旧",
+          "jiù"
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "笼",
+          "lóng"
+        ],
+        [
+          "十",
+          "shí"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "堤",
+          "dī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "七言绝句",
+      "题画",
+      "咏史怀古",
+      "带有地名",
+      "地名"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainWeiZhuangANANJINGLANDSCAPE",
+      "translationRaw": "Thoughashowerbendstheriver-grass，abirdissinging，WhileghostsoftheSixDynastiespasslikeadreamAroundtheForbiddenCity，underweepingwillowsWhichloomstillforthreemilesalongthemistymoat。",
+      "translationClean": "Thoughashowerbendstheriver-grass, abirdissinging, WhileghostsoftheSixDynastiespasslikeadreamAroundtheForbiddenCity, underweepingwillowsWhichloomstillforthreemilesalongthemistymoat.",
+      "segments": [
+        "Thoughashowerbendstheriver-grass, abirdissinging, WhileghostsoftheSixDynastiespasslikeadreamAroundtheForbiddenCity, underweepingwillowsWhichloomstillforthreemilesalongthemistymoat."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 76,
+        "title": "金陵图",
+        "author": "韦庄"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "manual",
+        "score": 1
+      },
+      "ctext": {
+        "matched": true,
+        "order": 308,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": false,
+        "order": null,
+        "score": null,
+        "url": ""
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "4c5b328d-2ab8-4f4d-a0c2-627b6cb0c92b",
+        "score": 1
+      }
+    }
+  }
+}

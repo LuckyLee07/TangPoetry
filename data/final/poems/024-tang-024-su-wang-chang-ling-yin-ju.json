@@ -1,0 +1,520 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-024-su-wang-chang-ling-yin-ju",
+    "order": 24,
+    "section": "五言古诗",
+    "title": "宿王昌龄隐居",
+    "titleTraditional": "宿王昌齡隱居",
+    "author": "常建",
+    "authorTraditional": "常建",
+    "dynasty": "唐代",
+    "aliases": [
+      "宿王昌龄隐居"
+    ],
+    "lines": [
+      "清溪深不测，隐处唯孤云；",
+      "松际露微月，清光犹为君。",
+      "茅亭宿花影，药院滋苔纹。",
+      "余亦谢时去，西山鸾鹤群。"
+    ],
+    "linesTraditional": [
+      "清溪深不測，隱處唯孤雲；",
+      "松際露微月，清光猶為君。",
+      "茅亭宿花影，藥院滋苔紋。",
+      "餘亦謝時去，西山鸞鶴群。"
+    ],
+    "text": "清溪深不测，隐处唯孤云；松际露微月，清光犹为君。茅亭宿花影，药院滋苔纹。余亦谢时去，西山鸾鹤群。",
+    "textTraditional": "清溪深不測，隱處唯孤雲；松際露微月，清光猶為君。茅亭宿花影，藥院滋苔紋。餘亦謝時去，西山鸞鶴群。",
+    "displayLines": [
+      "清溪深不测，",
+      "隐处唯孤云；",
+      "松际露微月，",
+      "清光犹为君。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "溪",
+          "xī"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "测",
+          "cè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "隐",
+          "yǐn"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "唯",
+          "wéi"
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "松",
+          "sōng"
+        ],
+        [
+          "际",
+          "jì"
+        ],
+        [
+          "露",
+          "lù"
+        ],
+        [
+          "微",
+          "wēi"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "光",
+          "guāng"
+        ],
+        [
+          "犹",
+          "yóu"
+        ],
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "茅",
+          "máo"
+        ],
+        [
+          "亭",
+          "tíng"
+        ],
+        [
+          "宿",
+          "sù"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "影",
+          "yǐng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "药",
+          "yào"
+        ],
+        [
+          "院",
+          "yuàn"
+        ],
+        [
+          "滋",
+          "zī"
+        ],
+        [
+          "苔",
+          "tái"
+        ],
+        [
+          "纹",
+          "wén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "余",
+          "yú"
+        ],
+        [
+          "亦",
+          "yì"
+        ],
+        [
+          "谢",
+          "xiè"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "鸾",
+          "luán"
+        ],
+        [
+          "鹤",
+          "hè"
+        ],
+        [
+          "群",
+          "qún"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "溪",
+          "xī"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "测",
+          "cè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "隐",
+          "yǐn"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "唯",
+          "wéi"
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "松",
+          "sōng"
+        ],
+        [
+          "际",
+          "jì"
+        ],
+        [
+          "露",
+          "lù"
+        ],
+        [
+          "微",
+          "wēi"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "光",
+          "guāng"
+        ],
+        [
+          "犹",
+          "yóu"
+        ],
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "茅",
+          "máo"
+        ],
+        [
+          "亭",
+          "tíng"
+        ],
+        [
+          "宿",
+          "sù"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "影",
+          "yǐng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "药",
+          "yào"
+        ],
+        [
+          "院",
+          "yuàn"
+        ],
+        [
+          "滋",
+          "zī"
+        ],
+        [
+          "苔",
+          "tái"
+        ],
+        [
+          "纹",
+          "wén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "余",
+          "yú"
+        ],
+        [
+          "亦",
+          "yì"
+        ],
+        [
+          "谢",
+          "xiè"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "鸾",
+          "luán"
+        ],
+        [
+          "鹤",
+          "hè"
+        ],
+        [
+          "群",
+          "qún"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.鸾鹤：青鸾白鹤，均为仙鸟，喻隐士。"
+      }
+    ],
+    "tags": [
+      "五言古诗",
+      "隐逸",
+      "山水"
+    ],
+    "english": {
+      "headingRaw": "Five-character-ancient-verseChangJianATWANGCHANGLIN』SRETREAT",
+      "translationRaw": "Here，besideacleardeeplake，Youliveaccompaniedbyclouds；OrsoftthroughthepinethemoonarrivesTobeyourownpure-heartedfriend。Yourestunderthatchintheshadowofyourflowers，Yourdewyherbsflourishintheirbedofmoss。Letmeleavetheworld。Letmealight，likeyou，Onyourwesternmountainwithphoenixesandcranes。",
+      "translationClean": "Here, besideacleardeeplake, Youliveaccompaniedbyclouds; OrsoftthroughthepinethemoonarrivesTobeyourownpure-heartedfriend. Yourestunderthatchintheshadowofyourflowers, Yourdewyherbsflourishintheirbedofmoss. Letmeleavetheworld. Letmealight, likeyou, Onyourwesternmountainwithphoenixesandcranes.",
+      "segments": [
+        "Here, besideacleardeeplake, Youliveaccompaniedbyclouds;",
+        "OrsoftthroughthepinethemoonarrivesTobeyourownpure-heartedfriend.",
+        "Yourestunderthatchintheshadowofyourflowers, Yourdewyherbsflourishintheirbedofmoss.",
+        "Letmeleavetheworld.",
+        "Letmealight, likeyou, Onyourwesternmountainwithphoenixesandcranes."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 15,
+        "title": "宿王昌龄隐居",
+        "author": "常建"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 24,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 24,
+        "score": 0.975,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "c854a853-b015-4848-823b-a786659d33b3",
+        "score": 1
+      }
+    },
+    "visual": {
+      "image": "assets/illustrations-wuyan-gushi/024-tang-024-su-wang-chang-ling-yin-ju.png",
+      "coreImagery": [
+        "清溪",
+        "孤云",
+        "松月",
+        "隐居"
+      ],
+      "mood": [
+        "清寂",
+        "怀友",
+        "幽深"
+      ],
+      "palette": [
+        "溪青",
+        "松绿",
+        "云白",
+        "月灰"
+      ],
+      "composition": "隐居小屋被松影掩映，孤云在溪上停住，月光淡淡。",
+      "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+      "prompt": "宿王昌龄隐居，常建。核心意象：清溪、孤云、松月、隐居；情绪：清寂、怀友、幽深。隐居小屋被松影掩映，孤云在溪上停住，月光淡淡。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+      "generatedAt": "2026-05-10T15:05:28+00:00",
+      "generator": "procedural-watercolor"
+    }
+  }
+}

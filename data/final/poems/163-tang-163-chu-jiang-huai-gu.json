@@ -1,0 +1,496 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-163-chu-jiang-huai-gu",
+    "order": 163,
+    "section": "五言律诗",
+    "title": "楚江怀古",
+    "titleTraditional": "楚江懷古",
+    "author": "马戴",
+    "authorTraditional": "馬戴",
+    "dynasty": "唐代",
+    "aliases": [
+      "楚江怀古三首·其一",
+      "楚江怀古"
+    ],
+    "lines": [
+      "露气寒光集，微阳下楚丘。",
+      "猿啼洞庭树，人在木兰舟。",
+      "广泽生明月，苍山夹乱流。",
+      "云中君不见，竟夕自悲秋。"
+    ],
+    "linesTraditional": [
+      "露氣寒光集，微陽下楚丘。",
+      "猿啼洞庭樹，人在木蘭舟。",
+      "廣澤生明月，蒼山夾亂流。",
+      "雲中君不見，竟夕自悲秋。"
+    ],
+    "text": "露气寒光集，微阳下楚丘。猿啼洞庭树，人在木兰舟。广泽生明月，苍山夹乱流。云中君不见，竟夕自悲秋。",
+    "textTraditional": "露氣寒光集，微陽下楚丘。猿啼洞庭樹，人在木蘭舟。廣澤生明月，蒼山夾亂流。雲中君不見，竟夕自悲秋。",
+    "displayLines": [
+      "露气寒光集，",
+      "微阳下楚丘。",
+      "猿啼洞庭树，",
+      "人在木兰舟。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "露",
+          "lù"
+        ],
+        [
+          "气",
+          "qì"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "光",
+          "guāng"
+        ],
+        [
+          "集",
+          "jí"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "微",
+          "wēi"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "楚",
+          "chǔ"
+        ],
+        [
+          "丘",
+          "qiū"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "猿",
+          "yuán"
+        ],
+        [
+          "啼",
+          "tí"
+        ],
+        [
+          "洞",
+          "dòng"
+        ],
+        [
+          "庭",
+          "tíng"
+        ],
+        [
+          "树",
+          "shù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "木",
+          "mù"
+        ],
+        [
+          "兰",
+          "lán"
+        ],
+        [
+          "舟",
+          "zhōu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "广",
+          "guǎng"
+        ],
+        [
+          "泽",
+          "zé"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "苍",
+          "cāng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "夹",
+          "jiā"
+        ],
+        [
+          "乱",
+          "luàn"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "不",
+          "bú"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "竟",
+          "jìng"
+        ],
+        [
+          "夕",
+          "xī"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "悲",
+          "bēi"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "露",
+          "lù"
+        ],
+        [
+          "气",
+          "qì"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "光",
+          "guāng"
+        ],
+        [
+          "集",
+          "jí"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "微",
+          "wēi"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "楚",
+          "chǔ"
+        ],
+        [
+          "丘",
+          "qiū"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "猿",
+          "yuán"
+        ],
+        [
+          "啼",
+          "tí"
+        ],
+        [
+          "洞",
+          "dòng"
+        ],
+        [
+          "庭",
+          "tíng"
+        ],
+        [
+          "树",
+          "shù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "木",
+          "mù"
+        ],
+        [
+          "兰",
+          "lán"
+        ],
+        [
+          "舟",
+          "zhōu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "广",
+          "guǎng"
+        ],
+        [
+          "泽",
+          "zé"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "苍",
+          "cāng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "夹",
+          "jiā"
+        ],
+        [
+          "乱",
+          "luàn"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "不",
+          "bú"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "竟",
+          "jìng"
+        ],
+        [
+          "夕",
+          "xī"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "悲",
+          "bēi"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.云中君：云神。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "洞庭湖",
+      "写景",
+      "怀古"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseMaDaiTHOUGHTSOFOLDTIMEONTHECHURIVER",
+      "translationRaw": "Acoldlightshinesonthegatheringdew，Assunsetfadesbeyondthesouthernmountains；TreesechowithmonkeysonthebanksofLakeDongting，Wheresomebodyismovinginanorchid-woodboat。Marsh-landsareswollenwidewiththemoon，Whiletorrentsarebenttothemountains』will；AndthevanishedQueensoftheCloudsleavemeSadwithautumnallnightlong。",
+      "translationClean": "Acoldlightshinesonthegatheringdew, Assunsetfadesbeyondthesouthernmountains; TreesechowithmonkeysonthebanksofLakeDongting, Wheresomebodyismovinginanorchid-woodboat. Marsh-landsareswollenwidewiththemoon, Whiletorrentsarebenttothemountains'will; AndthevanishedQueensoftheCloudsleavemeSadwithautumnallnightlong.",
+      "segments": [
+        "Acoldlightshinesonthegatheringdew, Assunsetfadesbeyondthesouthernmountains;",
+        "TreesechowithmonkeysonthebanksofLakeDongting, Wheresomebodyismovinginanorchid-woodboat.",
+        "Marsh-landsareswollenwidewiththemoon, Whiletorrentsarebenttothemountains'will;",
+        "AndthevanishedQueensoftheCloudsleavemeSadwithautumnallnightlong."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 52,
+        "title": "楚江怀古三首·其一",
+        "author": "马戴"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9811
+      },
+      "ctext": {
+        "matched": true,
+        "order": 163,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 260,
+        "score": 0.975,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "7456691c-636e-46d7-9093-edc778b0a7ea",
+        "score": 0.95
+      }
+    }
+  }
+}

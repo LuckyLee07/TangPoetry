@@ -1,0 +1,349 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-279-ye-shang-shou-xiang-cheng-wen-di",
+    "order": 279,
+    "section": "七言绝句",
+    "title": "夜上受降城闻笛",
+    "titleTraditional": "夜上受降城聞笛",
+    "author": "李益",
+    "authorTraditional": "李益",
+    "dynasty": "唐代",
+    "aliases": [
+      "夜上受降城闻笛"
+    ],
+    "lines": [
+      "回乐峰前沙似雪，受降城外月如霜。",
+      "不知何处吹芦管，一夜征人尽望乡。"
+    ],
+    "linesTraditional": [
+      "回樂峰前沙似雪，受降城外月如霜。",
+      "不知何處吹蘆管，一夜征人盡望鄉。"
+    ],
+    "text": "回乐峰前沙似雪，受降城外月如霜。不知何处吹芦管，一夜征人尽望乡。",
+    "textTraditional": "回樂峰前沙似雪，受降城外月如霜。不知何處吹蘆管，一夜征人盡望鄉。",
+    "displayLines": [
+      "回乐峰前沙似雪，",
+      "受降城外月如霜。",
+      "不知何处吹芦管，",
+      "一夜征人尽望乡。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "回",
+          "huí"
+        ],
+        [
+          "乐",
+          "lè"
+        ],
+        [
+          "峰",
+          "fēng"
+        ],
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "沙",
+          "shā"
+        ],
+        [
+          "似",
+          "shì"
+        ],
+        [
+          "雪",
+          "xuě"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "受",
+          "shòu"
+        ],
+        [
+          "降",
+          "xiáng"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "外",
+          "wài"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "霜",
+          "shuāng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "吹",
+          "chuī"
+        ],
+        [
+          "芦",
+          "lú"
+        ],
+        [
+          "管",
+          "guǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "征",
+          "zhēng"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "尽",
+          "jǐn"
+        ],
+        [
+          "望",
+          "wàng"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "回",
+          "huí"
+        ],
+        [
+          "乐",
+          "lè"
+        ],
+        [
+          "峰",
+          "fēng"
+        ],
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "沙",
+          "shā"
+        ],
+        [
+          "似",
+          "shì"
+        ],
+        [
+          "雪",
+          "xuě"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "受",
+          "shòu"
+        ],
+        [
+          "降",
+          "xiáng"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "外",
+          "wài"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "霜",
+          "shuāng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "吹",
+          "chuī"
+        ],
+        [
+          "芦",
+          "lú"
+        ],
+        [
+          "管",
+          "guǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "征",
+          "zhēng"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "尽",
+          "jǐn"
+        ],
+        [
+          "望",
+          "wàng"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "七言绝句",
+      "思念",
+      "战争",
+      "冬天",
+      "边塞",
+      "月亮"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainLiYiONHEARINGAFLUTEATNIGHTFROMTHEWALLOFSHOUXIANG",
+      "translationRaw": "Thesandbelowtheborder-mountainlieslikesnow，Andthemoonlikefrostbeyondthecity-wall，Andsomeonesomewhere，playingaflute，Hasmadethesoldiershomesickallnightlong。",
+      "translationClean": "Thesandbelowtheborder-mountainlieslikesnow, Andthemoonlikefrostbeyondthecity-wall, Andsomeonesomewhere, playingaflute, Hasmadethesoldiershomesickallnightlong.",
+      "segments": [
+        "Thesandbelowtheborder-mountainlieslikesnow, Andthemoonlikefrostbeyondthecity-wall, Andsomeonesomewhere, playingaflute, Hasmadethesoldiershomesickallnightlong."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 269,
+        "title": "夜上受降城闻笛",
+        "author": "李益"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9025
+      },
+      "ctext": {
+        "matched": true,
+        "order": 279,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 152,
+        "score": 0.875,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "f1320c1f-949a-4cbe-ad23-4806878632c5",
+        "score": 0.875
+      }
+    }
+  }
+}

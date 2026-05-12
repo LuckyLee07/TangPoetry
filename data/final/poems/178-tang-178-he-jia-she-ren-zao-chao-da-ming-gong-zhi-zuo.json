@@ -1,0 +1,656 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-178-he-jia-she-ren-zao-chao-da-ming-gong-zhi-zuo",
+    "order": 178,
+    "section": "七言律诗",
+    "title": "和贾舍人早朝大明宫之作",
+    "titleTraditional": "和賈舍人早朝大明宮之作",
+    "author": "王维",
+    "authorTraditional": "王維",
+    "dynasty": "唐代",
+    "aliases": [
+      "和贾舍人早朝大明宫之作"
+    ],
+    "lines": [
+      "绛帻鸡人送晓筹，尚衣方进翠云裘。",
+      "九天阊阖开宫殿，万国衣冠拜冕旒。",
+      "日色才临仙掌动，香烟欲傍衮龙浮。",
+      "朝罢须裁五色诏，珮声归向凤池头。"
+    ],
+    "linesTraditional": [
+      "絳幘雞人送曉籌，尚衣方進翠雲裘。",
+      "九天閶闔開宮殿，萬國衣冠拜冕旒。",
+      "日色纔臨仙掌動，香煙欲傍袞龍浮。",
+      "朝罷須裁五色詔，珮聲歸向鳳池頭。"
+    ],
+    "text": "绛帻鸡人送晓筹，尚衣方进翠云裘。九天阊阖开宫殿，万国衣冠拜冕旒。日色才临仙掌动，香烟欲傍衮龙浮。朝罢须裁五色诏，珮声归向凤池头。",
+    "textTraditional": "絳幘雞人送曉籌，尚衣方進翠雲裘。九天閶闔開宮殿，萬國衣冠拜冕旒。日色纔臨仙掌動，香煙欲傍袞龍浮。朝罷須裁五色詔，珮聲歸向鳳池頭。",
+    "displayLines": [
+      "绛帻鸡人送晓筹，",
+      "尚衣方进翠云裘。",
+      "九天阊阖开宫殿，",
+      "万国衣冠拜冕旒。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "绛",
+          "jiàng"
+        ],
+        [
+          "帻",
+          "zé"
+        ],
+        [
+          "鸡",
+          "jī"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "送",
+          "sòng"
+        ],
+        [
+          "晓",
+          "xiǎo"
+        ],
+        [
+          "筹",
+          "chóu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "尚",
+          "shàng"
+        ],
+        [
+          "衣",
+          "yī"
+        ],
+        [
+          "方",
+          "fāng"
+        ],
+        [
+          "进",
+          "jìn"
+        ],
+        [
+          "翠",
+          "cuì"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "裘",
+          "qiú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "九",
+          "jiǔ"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "阊",
+          "chāng"
+        ],
+        [
+          "阖",
+          "hé"
+        ],
+        [
+          "开",
+          "kāi"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "殿",
+          "diàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "国",
+          "guó"
+        ],
+        [
+          "衣",
+          "yī"
+        ],
+        [
+          "冠",
+          "guān"
+        ],
+        [
+          "拜",
+          "bài"
+        ],
+        [
+          "冕",
+          "miǎn"
+        ],
+        [
+          "旒",
+          "liú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "才",
+          "cái"
+        ],
+        [
+          "临",
+          "lín"
+        ],
+        [
+          "仙",
+          "xiān"
+        ],
+        [
+          "掌",
+          "zhǎng"
+        ],
+        [
+          "动",
+          "dòng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "香",
+          "xiāng"
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "傍",
+          "bàng"
+        ],
+        [
+          "衮",
+          "gǔn"
+        ],
+        [
+          "龙",
+          "lóng"
+        ],
+        [
+          "浮",
+          "fú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "罢",
+          "bà"
+        ],
+        [
+          "须",
+          "xū"
+        ],
+        [
+          "裁",
+          "cái"
+        ],
+        [
+          "五",
+          "wǔ"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "诏",
+          "zhào"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "珮",
+          "pèi"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "向",
+          "xiàng"
+        ],
+        [
+          "凤",
+          "fèng"
+        ],
+        [
+          "池",
+          "chí"
+        ],
+        [
+          "头",
+          "tóu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "绛",
+          "jiàng"
+        ],
+        [
+          "帻",
+          "zé"
+        ],
+        [
+          "鸡",
+          "jī"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "送",
+          "sòng"
+        ],
+        [
+          "晓",
+          "xiǎo"
+        ],
+        [
+          "筹",
+          "chóu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "尚",
+          "shàng"
+        ],
+        [
+          "衣",
+          "yī"
+        ],
+        [
+          "方",
+          "fāng"
+        ],
+        [
+          "进",
+          "jìn"
+        ],
+        [
+          "翠",
+          "cuì"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "裘",
+          "qiú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "九",
+          "jiǔ"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "阊",
+          "chāng"
+        ],
+        [
+          "阖",
+          "hé"
+        ],
+        [
+          "开",
+          "kāi"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "殿",
+          "diàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "国",
+          "guó"
+        ],
+        [
+          "衣",
+          "yī"
+        ],
+        [
+          "冠",
+          "guān"
+        ],
+        [
+          "拜",
+          "bài"
+        ],
+        [
+          "冕",
+          "miǎn"
+        ],
+        [
+          "旒",
+          "liú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "才",
+          "cái"
+        ],
+        [
+          "临",
+          "lín"
+        ],
+        [
+          "仙",
+          "xiān"
+        ],
+        [
+          "掌",
+          "zhǎng"
+        ],
+        [
+          "动",
+          "dòng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "香",
+          "xiāng"
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "傍",
+          "bàng"
+        ],
+        [
+          "衮",
+          "gǔn"
+        ],
+        [
+          "龙",
+          "lóng"
+        ],
+        [
+          "浮",
+          "fú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "罢",
+          "bà"
+        ],
+        [
+          "须",
+          "xū"
+        ],
+        [
+          "裁",
+          "cái"
+        ],
+        [
+          "五",
+          "wǔ"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "诏",
+          "zhào"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "珮",
+          "pèi"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "向",
+          "xiàng"
+        ],
+        [
+          "凤",
+          "fèng"
+        ],
+        [
+          "池",
+          "chí"
+        ],
+        [
+          "头",
+          "tóu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.绛帻鸡人：戴赤色头巾的卫士，天将明时，传唱报晓，因称鸡人。帻，"
+      },
+      {
+        "source": "chiuinan",
+        "text": "音则。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.翠云裘：指珍贵衣服。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "3.九天：指皇宫。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "4.阊阖：神话中的天门，此处指宫门。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "5.冕旒：君王所戴的礼冠，此处指皇帝。旒，音流。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "6.仙掌：皇帝专用的掌扇，又名障扇。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "7.衮龙：卷曲的龙，此处指龙袍。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "奉和圣制从蓬莱向兴庆阁道"
+      }
+    ],
+    "tags": [
+      "七言律诗",
+      "宫廷",
+      "早朝"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-regular-verseWangWeiANEARLYAUDIENCEATTHEPALACEOFLIGHTHARMONIZINGSECRETARYJIAZHIPOEM",
+      "translationRaw": "Thered-cappedCock-Manhasjustannouncedmorning；TheKeeperoftheRobesbringsJade-CloudFurs；Heaven』sninedoorsrevealthepalaceanditscourtyards；AndthecoatsofmanycountriesbowtothePearlCrown。Sunshinehasenteredthegiants』carvenpalms；IncensewreathestheDragonRobe：Theaudienceadjourns-andthefive-colourededictSetsgirdle-beadsclinkingtowardtheLakeofthePhoenix。",
+      "translationClean": "Thered-cappedCock-Manhasjustannouncedmorning; TheKeeperoftheRobesbringsJade-CloudFurs; Heaven'sninedoorsrevealthepalaceanditscourtyards; AndthecoatsofmanycountriesbowtothePearlCrown. Sunshinehasenteredthegiants'carvenpalms; IncensewreathestheDragonRobe: Theaudienceadjourns-andthefive-colourededictSetsgirdle-beadsclinkingtowardtheLakeofthePhoenix.",
+      "segments": [
+        "Thered-cappedCock-Manhasjustannouncedmorning;",
+        "TheKeeperoftheRobesbringsJade-CloudFurs;",
+        "Heaven'sninedoorsrevealthepalaceanditscourtyards;",
+        "AndthecoatsofmanycountriesbowtothePearlCrown.",
+        "Sunshinehasenteredthegiants'carvenpalms;",
+        "IncensewreathestheDragonRobe: Theaudienceadjourns-andthefive-colourededictSetsgirdle-beadsclinkingtowardtheLakeofthePhoenix."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 313,
+        "title": "和贾舍人早朝大明宫之作",
+        "author": "王维"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9861
+      },
+      "ctext": {
+        "matched": true,
+        "order": 178,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 275,
+        "score": 0.9643,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "a364504e-3cfc-44c6-9203-173856452cdd",
+        "score": 1
+      }
+    }
+  }
+}

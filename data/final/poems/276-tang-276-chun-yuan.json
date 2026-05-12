@@ -1,0 +1,351 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-276-chun-yuan",
+    "order": 276,
+    "section": "七言绝句",
+    "title": "春怨",
+    "titleTraditional": "春怨",
+    "author": "刘方平",
+    "authorTraditional": "劉方平",
+    "dynasty": "唐代",
+    "aliases": [
+      "春怨"
+    ],
+    "lines": [
+      "纱窗日落渐黄昏，金屋无人见泪痕。",
+      "寂寞空庭春欲晚，梨花满地不开门。"
+    ],
+    "linesTraditional": [
+      "紗窗日落漸黃昏，金屋無人見淚痕。",
+      "寂寞空庭春欲晚，梨花滿地不開門。"
+    ],
+    "text": "纱窗日落渐黄昏，金屋无人见泪痕。寂寞空庭春欲晚，梨花满地不开门。",
+    "textTraditional": "紗窗日落漸黃昏，金屋無人見淚痕。寂寞空庭春欲晚，梨花滿地不開門。",
+    "displayLines": [
+      "纱窗日落渐黄昏，",
+      "金屋无人见泪痕。",
+      "寂寞空庭春欲晚，",
+      "梨花满地不开门。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "纱",
+          "shā"
+        ],
+        [
+          "窗",
+          "chuāng"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "渐",
+          "jiàn"
+        ],
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "昏",
+          "hūn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "屋",
+          "wū"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "痕",
+          "hén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "寂",
+          "jì"
+        ],
+        [
+          "寞",
+          "mò"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "庭",
+          "tíng"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "晚",
+          "wǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "梨",
+          "lí"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "满",
+          "mǎn"
+        ],
+        [
+          "地",
+          "dì"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "开",
+          "kāi"
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "纱",
+          "shā"
+        ],
+        [
+          "窗",
+          "chuāng"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "渐",
+          "jiàn"
+        ],
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "昏",
+          "hūn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "屋",
+          "wū"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "痕",
+          "hén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "寂",
+          "jì"
+        ],
+        [
+          "寞",
+          "mò"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "庭",
+          "tíng"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "晚",
+          "wǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "梨",
+          "lí"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "满",
+          "mǎn"
+        ],
+        [
+          "地",
+          "dì"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "开",
+          "kāi"
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.金屋：华丽的屋，用称妇女的住所。"
+      }
+    ],
+    "tags": [
+      "七言绝句",
+      "孤独",
+      "宫怨"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainLiuFangpingSPRINGHEART-BREAK",
+      "translationRaw": "Withtwilightpassinghersilkenwindow，SheweepsaloneinherchamberofgoldForspringisdepartingfromadesolategarden，Andadriftofpear-petalsisclosingadoor。",
+      "translationClean": "Withtwilightpassinghersilkenwindow, SheweepsaloneinherchamberofgoldForspringisdepartingfromadesolategarden, Andadriftofpear-petalsisclosingadoor.",
+      "segments": [
+        "Withtwilightpassinghersilkenwindow, SheweepsaloneinherchamberofgoldForspringisdepartingfromadesolategarden, Andadriftofpear-petalsisclosingadoor."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 169,
+        "title": "春怨",
+        "author": "刘方平"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 276,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 149,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "fc1bc01d-c281-40fd-9e0d-4c484539e4ae",
+        "score": 1
+      }
+    }
+  }
+}

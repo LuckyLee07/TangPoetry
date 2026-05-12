@@ -1,0 +1,491 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-136-xun-nan-xi-chang-shan-dao-ren-yin-ju",
+    "order": 136,
+    "section": "五言律诗",
+    "title": "寻南溪常山道人隐居",
+    "titleTraditional": "尋南溪常山道人隱居",
+    "author": "刘长卿",
+    "authorTraditional": "劉長卿",
+    "dynasty": "唐代",
+    "aliases": [
+      "寻南溪常山道人隐居 / 寻南溪常道士",
+      "寻南溪常山道人隐居"
+    ],
+    "lines": [
+      "一路经行处，莓苔见履痕。",
+      "白云依静渚，春草闭闲门。",
+      "过雨看松色，随山到水源。",
+      "溪花与禅意，相对亦忘言。"
+    ],
+    "linesTraditional": [
+      "一路經行處，莓苔見履痕。",
+      "白雲依靜渚，春草閉閑門。",
+      "過雨看松色，隨山到水源。",
+      "溪花與禪意，相對亦忘言。"
+    ],
+    "text": "一路经行处，莓苔见履痕。白云依静渚，春草闭闲门。过雨看松色，随山到水源。溪花与禅意，相对亦忘言。",
+    "textTraditional": "一路經行處，莓苔見履痕。白雲依靜渚，春草閉閑門。過雨看松色，隨山到水源。溪花與禪意，相對亦忘言。",
+    "displayLines": [
+      "一路经行处，",
+      "莓苔见履痕。",
+      "白云依静渚，",
+      "春草闭闲门。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "路",
+          "lù"
+        ],
+        [
+          "经",
+          "jīng"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "莓",
+          "méi"
+        ],
+        [
+          "苔",
+          "tái"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "履",
+          "lǚ"
+        ],
+        [
+          "痕",
+          "hén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "依",
+          "yī"
+        ],
+        [
+          "静",
+          "jìng"
+        ],
+        [
+          "渚",
+          "zhǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "闭",
+          "bì"
+        ],
+        [
+          "闲",
+          "xián"
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "过",
+          "guò"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "看",
+          "kàn"
+        ],
+        [
+          "松",
+          "sōng"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "随",
+          "suí"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "到",
+          "dào"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "源",
+          "yuán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "溪",
+          "xī"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "与",
+          "yǔ"
+        ],
+        [
+          "禅",
+          "chán"
+        ],
+        [
+          "意",
+          "yì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "对",
+          "duì"
+        ],
+        [
+          "亦",
+          "yì"
+        ],
+        [
+          "忘",
+          "wàng"
+        ],
+        [
+          "言",
+          "yán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "路",
+          "lù"
+        ],
+        [
+          "经",
+          "jīng"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "莓",
+          "méi"
+        ],
+        [
+          "苔",
+          "tái"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "履",
+          "lǚ"
+        ],
+        [
+          "痕",
+          "hén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "依",
+          "yī"
+        ],
+        [
+          "静",
+          "jìng"
+        ],
+        [
+          "渚",
+          "zhǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "闭",
+          "bì"
+        ],
+        [
+          "闲",
+          "xián"
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "过",
+          "guò"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "看",
+          "kàn"
+        ],
+        [
+          "松",
+          "sōng"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "随",
+          "suí"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "到",
+          "dào"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "源",
+          "yuán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "溪",
+          "xī"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "与",
+          "yǔ"
+        ],
+        [
+          "禅",
+          "chán"
+        ],
+        [
+          "意",
+          "yì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "对",
+          "duì"
+        ],
+        [
+          "亦",
+          "yì"
+        ],
+        [
+          "忘",
+          "wàng"
+        ],
+        [
+          "言",
+          "yán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.渚：音煮，水面小洲。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "写景"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseLiuChangingWHILEVISITINGONTHESOUTHSTREAMTHETAOISTPRIESTCHANG",
+      "translationRaw": "Walkingalongalittlepath，Ifindafootprintonthemoss，Awhilecloudlowonthequietlake，Grassesthatsweetenanidledoor，Apinegrowngreenerwiththerain，Abrookthatcomesfromamountainsource--And，minglingwithTruthamongtheflowers，Ihaveforgottenwhattosay。",
+      "translationClean": "Walkingalongalittlepath, Ifindafootprintonthemoss, Awhilecloudlowonthequietlake, Grassesthatsweetenanidledoor, Apinegrowngreenerwiththerain, Abrookthatcomesfromamountainsource--And, minglingwithTruthamongtheflowers, Ihaveforgottenwhattosay.",
+      "segments": [
+        "Walkingalongalittlepath, Ifindafootprintonthemoss, Awhilecloudlowonthequietlake, Grassesthatsweetenanidledoor, Apinegrowngreenerwiththerain, Abrookthatcomesfromamountainsource--And, minglingwithTruthamongtheflowers, Ihaveforgottenwhattosay."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 67,
+        "title": "寻南溪常山道人隐居 / 寻南溪常道士",
+        "author": "刘长卿"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 136,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 233,
+        "score": 0.975,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "04af557e-bac8-4fbf-92e7-d8a87fa11038",
+        "score": 1
+      }
+    }
+  }
+}

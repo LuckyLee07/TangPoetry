@@ -1,0 +1,452 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-161-song-ren-dong-you",
+    "order": 161,
+    "section": "五言律诗",
+    "title": "送人东游",
+    "titleTraditional": "送人東遊",
+    "author": "温庭筠",
+    "authorTraditional": "溫庭筠",
+    "dynasty": "唐代",
+    "aliases": [
+      "送人东游"
+    ],
+    "lines": [
+      "荒戍落黄叶，浩然离故关。",
+      "高风汉阳渡，初日郢门山。",
+      "江上几人在？",
+      "天涯孤棹还。",
+      "何当重相见？",
+      "樽酒慰离颜。"
+    ],
+    "linesTraditional": [
+      "荒戍落黃葉，浩然離故關。",
+      "高風漢陽渡，初日郢門山。",
+      "江上幾人在？",
+      "天涯孤棹還。",
+      "何當重相見？",
+      "樽酒慰離顏。"
+    ],
+    "text": "荒戍落黄叶，浩然离故关。高风汉阳渡，初日郢门山。江上几人在？天涯孤棹还。何当重相见？樽酒慰离颜。",
+    "textTraditional": "荒戍落黃葉，浩然離故關。高風漢陽渡，初日郢門山。江上幾人在？天涯孤棹還。何當重相見？樽酒慰離顏。",
+    "displayLines": [
+      "荒戍落黄叶，",
+      "浩然离故关。",
+      "高风汉阳渡，",
+      "初日郢门山。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "荒",
+          "huāng"
+        ],
+        [
+          "戍",
+          "shù"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "叶",
+          "yè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "浩",
+          "hào"
+        ],
+        [
+          "然",
+          "rán"
+        ],
+        [
+          "离",
+          "lí"
+        ],
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "高",
+          "gāo"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "渡",
+          "dù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "初",
+          "chū"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "郢",
+          "yǐng"
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "涯",
+          "yá"
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "棹",
+          "zhào"
+        ],
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "荒",
+          "huāng"
+        ],
+        [
+          "戍",
+          "shù"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "叶",
+          "yè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "浩",
+          "hào"
+        ],
+        [
+          "然",
+          "rán"
+        ],
+        [
+          "离",
+          "lí"
+        ],
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "高",
+          "gāo"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "渡",
+          "dù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "初",
+          "chū"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "郢",
+          "yǐng"
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "涯",
+          "yá"
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "棹",
+          "zhào"
+        ],
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "当",
+          "dāng"
+        ],
+        [
+          "重",
+          "zhòng"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "樽",
+          "zūn"
+        ],
+        [
+          "酒",
+          "jiǔ"
+        ],
+        [
+          "慰",
+          "wèi"
+        ],
+        [
+          "离",
+          "lí"
+        ],
+        [
+          "颜",
+          "yán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言律诗",
+      "友情",
+      "送别",
+      "惜别",
+      "秋天"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseWenTingyunTOAFRIENDBOUNDEAST",
+      "translationRaw": "Theoldfortbrimswithyellowleaves。。。。Youinsistuponforsakingthisplacewhereyouhavelived。AhighwindblowsatHanyangFerryAndsunriselightsthesummitofYingmen。。。。WhowillbeleftformealongtheupperYangziAfteryoursolitaryskiffhasenteredtheendofthesky？Iaskyouoverandoverwhenweshallmeetagain，Whilewesoftenwithwinecupsthisacheoffarewell。",
+      "translationClean": "Theoldfortbrimswithyellowleaves.... Youinsistuponforsakingthisplacewhereyouhavelived. AhighwindblowsatHanyangFerryAndsunriselightsthesummitofYingmen.... WhowillbeleftformealongtheupperYangziAfteryoursolitaryskiffhasenteredtheendofthesky? Iaskyouoverandoverwhenweshallmeetagain, Whilewesoftenwithwinecupsthisacheoffarewell.",
+      "segments": [
+        "Theoldfortbrimswithyellowleaves....",
+        "Youinsistuponforsakingthisplacewhereyouhavelived.",
+        "AhighwindblowsatHanyangFerryAndsunriselightsthesummitofYingmen....",
+        "WhowillbeleftformealongtheupperYangziAfteryoursolitaryskiffhasenteredtheendofthesky?",
+        "Iaskyouoverandoverwhenweshallmeetagain, Whilewesoftenwithwinecupsthisacheoffarewell."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 117,
+        "title": "送人东游",
+        "author": "温庭筠"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 161,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 258,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "315bc0e1-f76c-49d5-9940-b212e5f9c2ae",
+        "score": 0.95
+      }
+    }
+  }
+}

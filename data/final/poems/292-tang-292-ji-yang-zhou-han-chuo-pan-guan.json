@@ -1,0 +1,345 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-292-ji-yang-zhou-han-chuo-pan-guan",
+    "order": 292,
+    "section": "七言绝句",
+    "title": "寄扬州韩绰判官",
+    "titleTraditional": "寄揚州韓綽判官",
+    "author": "杜牧",
+    "authorTraditional": "杜牧",
+    "dynasty": "唐代",
+    "aliases": [
+      "寄扬州韩绰判官"
+    ],
+    "lines": [
+      "青山隐隐水迢迢，秋尽江南草未凋。",
+      "二十四桥明月夜，玉人何处教吹箫。"
+    ],
+    "linesTraditional": [
+      "青山隱隱水迢迢，秋盡江南草未凋。",
+      "二十四橋明月夜，玉人何處教吹簫。"
+    ],
+    "text": "青山隐隐水迢迢，秋尽江南草未凋。二十四桥明月夜，玉人何处教吹箫。",
+    "textTraditional": "青山隱隱水迢迢，秋盡江南草未凋。二十四橋明月夜，玉人何處教吹簫。",
+    "displayLines": [
+      "青山隐隐水迢迢，",
+      "秋尽江南草未凋。",
+      "二十四桥明月夜，",
+      "玉人何处教吹箫。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "隐",
+          "yǐn"
+        ],
+        [
+          "隐",
+          "yǐn"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "迢",
+          "tiáo"
+        ],
+        [
+          "迢",
+          "tiáo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "尽",
+          "jǐn"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "凋",
+          "diāo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "二",
+          "èr"
+        ],
+        [
+          "十",
+          "shí"
+        ],
+        [
+          "四",
+          "sì"
+        ],
+        [
+          "桥",
+          "qiáo"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "教",
+          "jiào"
+        ],
+        [
+          "吹",
+          "chuī"
+        ],
+        [
+          "箫",
+          "xiāo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "隐",
+          "yǐn"
+        ],
+        [
+          "隐",
+          "yǐn"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "迢",
+          "tiáo"
+        ],
+        [
+          "迢",
+          "tiáo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "尽",
+          "jǐn"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "凋",
+          "diāo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "二",
+          "èr"
+        ],
+        [
+          "十",
+          "shí"
+        ],
+        [
+          "四",
+          "sì"
+        ],
+        [
+          "桥",
+          "qiáo"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "教",
+          "jiào"
+        ],
+        [
+          "吹",
+          "chuī"
+        ],
+        [
+          "箫",
+          "xiāo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "七言绝句"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainDuMuAMESSAGETOHANCHOTHEYANGZHOUMAGISTRATE",
+      "translationRaw": "Therearefaintgreenmountainsandfargreenwaters，Andgrassesinthisriverregionnotyetfadedbyautumn；AndclearinthemoonontheTwenty-FourBridges，Girlswhiteasjadeareteachingflute-music。",
+      "translationClean": "Therearefaintgreenmountainsandfargreenwaters, Andgrassesinthisriverregionnotyetfadedbyautumn; AndclearinthemoonontheTwenty-FourBridges, Girlswhiteasjadeareteachingflute-music.",
+      "segments": [
+        "Therearefaintgreenmountainsandfargreenwaters, Andgrassesinthisriverregionnotyetfadedbyautumn;",
+        "AndclearinthemoonontheTwenty-FourBridges, Girlswhiteasjadeareteachingflute-music."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 48,
+        "title": "寄扬州韩绰判官",
+        "author": "杜牧"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 292,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 165,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": false,
+        "id": null,
+        "score": null
+      }
+    }
+  }
+}

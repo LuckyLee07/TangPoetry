@@ -1,0 +1,287 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-228-za-shi",
+    "order": 228,
+    "section": "五言绝句",
+    "title": "杂诗",
+    "titleTraditional": "雜詩",
+    "author": "王维",
+    "authorTraditional": "王維",
+    "dynasty": "唐代",
+    "aliases": [
+      "杂诗三首·其二",
+      "杂诗"
+    ],
+    "lines": [
+      "君自故乡来，应知故乡事。",
+      "来日绮窗前，寒梅著花未。"
+    ],
+    "linesTraditional": [
+      "君自故鄉來，應知故鄉事。",
+      "來日綺窗前，寒梅著花未。"
+    ],
+    "text": "君自故乡来，应知故乡事。来日绮窗前，寒梅著花未。",
+    "textTraditional": "君自故鄉來，應知故鄉事。來日綺窗前，寒梅著花未。",
+    "displayLines": [
+      "君自故乡来，",
+      "应知故乡事。",
+      "来日绮窗前，",
+      "寒梅著花未。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "应",
+          "yīng"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "绮",
+          "qǐ"
+        ],
+        [
+          "窗",
+          "chuāng"
+        ],
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "梅",
+          "méi"
+        ],
+        [
+          "著",
+          "zhù"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "应",
+          "yīng"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "绮",
+          "qǐ"
+        ],
+        [
+          "窗",
+          "chuāng"
+        ],
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "梅",
+          "méi"
+        ],
+        [
+          "著",
+          "zhù"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言绝句",
+      "景中情",
+      "写景",
+      "思亲",
+      "梅花",
+      "思乡"
+    ],
+    "english": {
+      "headingRaw": "Five-character-quatrainWangWeiLINES",
+      "translationRaw": "Youwhohavecomefrommyoldcountry，Tellmewhathashappenedthere！--Wastheplum，whenyoupassedmysilkenwindow，Openingitsfirstcoldblossom？",
+      "translationClean": "Youwhohavecomefrommyoldcountry, Tellmewhathashappenedthere! --Wastheplum, whenyoupassedmysilkenwindow, Openingitsfirstcoldblossom?",
+      "segments": [
+        "Youwhohavecomefrommyoldcountry, Tellmewhathashappenedthere!",
+        "--Wastheplum, whenyoupassedmysilkenwindow, Openingitsfirstcoldblossom?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 173,
+        "title": "杂诗三首·其二",
+        "author": "王维"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.966
+      },
+      "ctext": {
+        "matched": true,
+        "order": 228,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 94,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "4c7205af-d1e8-48ed-8220-fe095418b95a",
+        "score": 0.95
+      }
+    }
+  }
+}

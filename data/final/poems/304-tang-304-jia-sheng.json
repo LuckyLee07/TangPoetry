@@ -1,0 +1,346 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-304-jia-sheng",
+    "order": 304,
+    "section": "七言绝句",
+    "title": "贾生",
+    "titleTraditional": "賈生",
+    "author": "李商隐",
+    "authorTraditional": "李商隱",
+    "dynasty": "唐代",
+    "aliases": [
+      "贾生"
+    ],
+    "lines": [
+      "宣室求贤访逐臣，贾生才调更无伦。",
+      "可怜夜半虚前席，不问苍生问鬼神。"
+    ],
+    "linesTraditional": [
+      "宣室求賢訪逐臣，賈生才調更無倫。",
+      "可憐夜半虛前席，不問蒼生問鬼神。"
+    ],
+    "text": "宣室求贤访逐臣，贾生才调更无伦。可怜夜半虚前席，不问苍生问鬼神。",
+    "textTraditional": "宣室求賢訪逐臣，賈生才調更無倫。可憐夜半虛前席，不問蒼生問鬼神。",
+    "displayLines": [
+      "宣室求贤访逐臣，",
+      "贾生才调更无伦。",
+      "可怜夜半虚前席，",
+      "不问苍生问鬼神。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "宣",
+          "xuān"
+        ],
+        [
+          "室",
+          "shì"
+        ],
+        [
+          "求",
+          "qiú"
+        ],
+        [
+          "贤",
+          "xián"
+        ],
+        [
+          "访",
+          "fǎng"
+        ],
+        [
+          "逐",
+          "zhú"
+        ],
+        [
+          "臣",
+          "chén"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "贾",
+          "jiǎ"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "才",
+          "cái"
+        ],
+        [
+          "调",
+          "diào"
+        ],
+        [
+          "更",
+          "gèng"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "伦",
+          "lún"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "可",
+          "kě"
+        ],
+        [
+          "怜",
+          "lián"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "半",
+          "bàn"
+        ],
+        [
+          "虚",
+          "xū"
+        ],
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "席",
+          "xí"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "苍",
+          "cāng"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "鬼",
+          "guǐ"
+        ],
+        [
+          "神",
+          "shén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "宣",
+          "xuān"
+        ],
+        [
+          "室",
+          "shì"
+        ],
+        [
+          "求",
+          "qiú"
+        ],
+        [
+          "贤",
+          "xián"
+        ],
+        [
+          "访",
+          "fǎng"
+        ],
+        [
+          "逐",
+          "zhú"
+        ],
+        [
+          "臣",
+          "chén"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "贾",
+          "jiǎ"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "才",
+          "cái"
+        ],
+        [
+          "调",
+          "diào"
+        ],
+        [
+          "更",
+          "gèng"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "伦",
+          "lún"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "可",
+          "kě"
+        ],
+        [
+          "怜",
+          "lián"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "半",
+          "bàn"
+        ],
+        [
+          "虚",
+          "xū"
+        ],
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "席",
+          "xí"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "苍",
+          "cāng"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "鬼",
+          "guǐ"
+        ],
+        [
+          "神",
+          "shén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "七言绝句",
+      "托古讽今",
+      "怀才不遇"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainLiShangyinJIASHENG",
+      "translationRaw": "WhentheEmperorsoughtguidancefromwisemen，fromexiles，HefoundnocalmerwisdomthanthatofyoungJiaAndassignedhimtheforemostcouncil-seatatmidnight，Yetaskedhimaboutgods，insteadofaboutpeople。",
+      "translationClean": "WhentheEmperorsoughtguidancefromwisemen, fromexiles, HefoundnocalmerwisdomthanthatofyoungJiaAndassignedhimtheforemostcouncil-seatatmidnight, Yetaskedhimaboutgods, insteadofaboutpeople.",
+      "segments": [
+        "WhentheEmperorsoughtguidancefromwisemen, fromexiles, HefoundnocalmerwisdomthanthatofyoungJiaAndassignedhimtheforemostcouncil-seatatmidnight, Yetaskedhimaboutgods, insteadofaboutpeople."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 256,
+        "title": "贾生",
+        "author": "李商隐"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 304,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 177,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "02456f60-6ab5-4de8-b9ed-f7519818f0ca",
+        "score": 1
+      }
+    }
+  }
+}

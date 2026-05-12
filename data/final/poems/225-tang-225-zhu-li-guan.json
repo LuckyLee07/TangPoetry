@@ -1,0 +1,291 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-225-zhu-li-guan",
+    "order": 225,
+    "section": "五言绝句",
+    "title": "竹里馆",
+    "titleTraditional": "竹裏館",
+    "author": "王维",
+    "authorTraditional": "王維",
+    "dynasty": "唐代",
+    "aliases": [
+      "竹里馆"
+    ],
+    "lines": [
+      "独坐幽篁里，弹琴复长啸。",
+      "深林人不知，明月来相照。"
+    ],
+    "linesTraditional": [
+      "獨坐幽篁裡，彈琴復長嘯。",
+      "深林人不知，明月來相照。"
+    ],
+    "text": "独坐幽篁里，弹琴复长啸。深林人不知，明月来相照。",
+    "textTraditional": "獨坐幽篁裡，彈琴復長嘯。深林人不知，明月來相照。",
+    "displayLines": [
+      "独坐幽篁里，",
+      "弹琴复长啸。",
+      "深林人不知，",
+      "明月来相照。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "坐",
+          "zuò"
+        ],
+        [
+          "幽",
+          "yōu"
+        ],
+        [
+          "篁",
+          "huáng"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "弹",
+          "tán"
+        ],
+        [
+          "琴",
+          "qín"
+        ],
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "长",
+          "cháng"
+        ],
+        [
+          "啸",
+          "xiào"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "照",
+          "zhào"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "坐",
+          "zuò"
+        ],
+        [
+          "幽",
+          "yōu"
+        ],
+        [
+          "篁",
+          "huáng"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "弹",
+          "tán"
+        ],
+        [
+          "琴",
+          "qín"
+        ],
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "长",
+          "cháng"
+        ],
+        [
+          "啸",
+          "xiào"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "照",
+          "zhào"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.篁：音皇，竹林。"
+      }
+    ],
+    "tags": [
+      "五言绝句",
+      "孤独",
+      "生活",
+      "初中古诗",
+      "月亮",
+      "归隐",
+      "七年级下册(课外)"
+    ],
+    "english": {
+      "headingRaw": "Five-character-quatrainWangWeiINARETREATAMONGBAMBOOS",
+      "translationRaw": "Leaningaloneintheclosebamboos，IamplayingmyluteandhummingasongToosoftlyforanyonetohear--Exceptmycomrade，thebrightmoon。",
+      "translationClean": "Leaningaloneintheclosebamboos, IamplayingmyluteandhummingasongToosoftlyforanyonetohear--Exceptmycomrade, thebrightmoon.",
+      "segments": [
+        "Leaningaloneintheclosebamboos, IamplayingmyluteandhummingasongToosoftlyforanyonetohear--Exceptmycomrade, thebrightmoon."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 96,
+        "title": "竹里馆",
+        "author": "王维"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 225,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 91,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "36e09cb4-4fb7-48be-b6c6-c9bd906d9331",
+        "score": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "source": "唐诗三百首new.json",
+  "output": "data/sources/tang300_new_dedup.json",
+  "originalCount": 366,
+  "dedupedCount": 365,
+  "removedExactDuplicateCount": 1,
+  "removedExactDuplicates": [
+    {
+      "removedIndex": 125,
+      "keptIndex": 70,
+      "author": "杜荀鶴",
+      "title": "春宮怨",
+      "removedId": "d3357800-9021-4647-a0a0-98499a0ee3c5",
+      "keptId": "8eaf97fd-82bb-4651-9dde-9a5a6f78182c"
+    }
+  ],
+  "sameAuthorTitleDifferentTextCount": 3,
+  "sameAuthorTitleDifferentText": [
+    {
+      "author": "李商隱",
+      "title": "隋宮",
+      "count": 2,
+      "items": [
+        {
+          "index": 17,
+          "id": "670009c2-a701-4140-aa31-b4973f76d632",
+          "firstLine": "紫泉宮殿鎖煙霞，欲取蕪城作帝家。",
+          "tags": [
+            "唐诗三百首",
+            "隋・唐・五代",
+            "七言律诗",
+            "讽刺",
+            "咏史"
+          ]
+        },
+        {
+          "index": 22,
+          "id": "91f95b30-c42f-470a-9df8-dd6284fca474",
+          "firstLine": "乘興南遊不戒嚴，九重誰省諫書函。",
+          "tags": [
+            "唐诗三百首",
+            "七言绝句",
+            "咏史怀古",
+            "讽刺"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "李商隱",
+      "title": "無題二首 一",
+      "count": 2,
+      "items": [
+        {
+          "index": 19,
+          "id": "3410e7ce-df3a-4ab8-bea3-7f681661b240",
+          "firstLine": "昨夜星辰昨夜風，畫樓西畔桂堂東。",
+          "tags": [
+            "唐诗三百首",
+            "宴饮",
+            "七言律诗",
+            "爱情",
+            "相思",
+            "感慨",
+            "组诗"
+          ]
+        },
+        {
+          "index": 29,
+          "id": "e006dfd3-40be-40ef-ba3b-552428931ae3",
+          "firstLine": "鳳尾香羅薄幾重，碧文圓頂夜深縫。",
+          "tags": [
+            "思念",
+            "七言律诗",
+            "唐诗三百首"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "王維",
+      "title": "送別",
+      "count": 2,
+      "items": [
+        {
+          "index": 54,
+          "id": "31cc87f3-da0f-421d-8674-8753530077e2",
+          "firstLine": "下馬飲君酒，問君何所之。",
+          "tags": [
+            "唐诗三百首",
+            "抒情",
+            "写景",
+            "友情",
+            "送别"
+          ]
+        },
+        {
+          "index": 144,
+          "id": "c8a4faa6-8666-44f9-b4c9-df78d7af844d",
+          "firstLine": "山中相送罷，日暮掩柴扉。",
+          "tags": [
+            "唐诗三百首",
+            "五言绝句",
+            "送别",
+            "友情"
+          ]
+        }
+      ]
+    }
+  ]
+}

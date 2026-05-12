@@ -1,0 +1,499 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-166-gu-yan",
+    "order": 166,
+    "section": "五言律诗",
+    "title": "孤雁",
+    "titleTraditional": "孤雁",
+    "author": "崔涂",
+    "authorTraditional": "崔塗",
+    "dynasty": "唐代",
+    "aliases": [
+      "孤雁二首·其二",
+      "孤雁"
+    ],
+    "lines": [
+      "几行归塞尽，片影独何之？",
+      "暮雨相呼失，寒塘欲下迟。",
+      "渚云低暗渡，关月冷相随。",
+      "未必逢矰缴，孤飞自可疑。"
+    ],
+    "linesTraditional": [
+      "幾行歸塞盡，片影獨何之？",
+      "暮雨相呼失，寒塘欲下遲。",
+      "渚雲低暗渡，關月冷相隨。",
+      "未必逢矰繳，孤飛自可疑。"
+    ],
+    "text": "几行归塞尽，片影独何之？暮雨相呼失，寒塘欲下迟。渚云低暗渡，关月冷相随。未必逢矰缴，孤飞自可疑。",
+    "textTraditional": "幾行歸塞盡，片影獨何之？暮雨相呼失，寒塘欲下遲。渚雲低暗渡，關月冷相隨。未必逢矰繳，孤飛自可疑。",
+    "displayLines": [
+      "几行归塞尽，",
+      "片影独何之？",
+      "暮雨相呼失，",
+      "寒塘欲下迟。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "塞",
+          "sāi"
+        ],
+        [
+          "尽",
+          "jǐn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "片",
+          "piàn"
+        ],
+        [
+          "影",
+          "yǐng"
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "之",
+          "zhī"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "呼",
+          "hū"
+        ],
+        [
+          "失",
+          "shī"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "塘",
+          "táng"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "迟",
+          "chí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "渚",
+          "zhǔ"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "低",
+          "dī"
+        ],
+        [
+          "暗",
+          "àn"
+        ],
+        [
+          "渡",
+          "dù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "冷",
+          "lěng"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "随",
+          "suí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "必",
+          "bì"
+        ],
+        [
+          "逢",
+          "féng"
+        ],
+        [
+          "矰",
+          "zēng"
+        ],
+        [
+          "缴",
+          "jiǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "可",
+          "kě"
+        ],
+        [
+          "疑",
+          "yí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "塞",
+          "sāi"
+        ],
+        [
+          "尽",
+          "jǐn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "片",
+          "piàn"
+        ],
+        [
+          "影",
+          "yǐng"
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "之",
+          "zhī"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "呼",
+          "hū"
+        ],
+        [
+          "失",
+          "shī"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "塘",
+          "táng"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "迟",
+          "chí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "渚",
+          "zhǔ"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "低",
+          "dī"
+        ],
+        [
+          "暗",
+          "àn"
+        ],
+        [
+          "渡",
+          "dù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "冷",
+          "lěng"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "随",
+          "suí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "必",
+          "bì"
+        ],
+        [
+          "逢",
+          "féng"
+        ],
+        [
+          "矰",
+          "zēng"
+        ],
+        [
+          "缴",
+          "jiǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "可",
+          "kě"
+        ],
+        [
+          "疑",
+          "yí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.矰缴：弋鸟的器具。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "孤独",
+      "羁旅",
+      "写鸟",
+      "组诗",
+      "鸟"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseCuiTuASOLITARYWILDGOOSE",
+      "translationRaw": "Lineafterlinehasflownbackovertheborder。Whereareyouheadedallbyyourself？Intheeveningrainyoucalltothem--Andslowlyyoualightonanicypond。ThelowwetcloudsmovefasterthanyouAlongthewalltowardthecoldmoon。。。。Iftheycaughtyouinanetorwithashot，Woulditbeworsethanflyingalone？",
+      "translationClean": "Lineafterlinehasflownbackovertheborder. Whereareyouheadedallbyyourself? Intheeveningrainyoucalltothem--Andslowlyyoualightonanicypond. ThelowwetcloudsmovefasterthanyouAlongthewalltowardthecoldmoon.... Iftheycaughtyouinanetorwithashot, Woulditbeworsethanflyingalone?",
+      "segments": [
+        "Lineafterlinehasflownbackovertheborder.",
+        "Whereareyouheadedallbyyourself?",
+        "Intheeveningrainyoucalltothem--Andslowlyyoualightonanicypond.",
+        "ThelowwetcloudsmovefasterthanyouAlongthewalltowardthecoldmoon....",
+        "Iftheycaughtyouinanetorwithashot, Woulditbeworsethanflyingalone?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 205,
+        "title": "孤雁二首·其二",
+        "author": "崔涂"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9075
+      },
+      "ctext": {
+        "matched": true,
+        "order": 166,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 263,
+        "score": 0.975,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "c836e52f-2346-4a3e-84bb-97514b17faf6",
+        "score": 0.875
+      }
+    }
+  }
+}

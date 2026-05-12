@@ -1,0 +1,281 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-241-ting-zheng",
+    "order": 241,
+    "section": "五言绝句",
+    "title": "听筝",
+    "titleTraditional": "聽箏",
+    "author": "李端",
+    "authorTraditional": "李端",
+    "dynasty": "唐代",
+    "aliases": [
+      "听筝"
+    ],
+    "lines": [
+      "鸣筝金粟柱，素手玉房前。",
+      "欲得周郎顾，时时误拂弦。"
+    ],
+    "linesTraditional": [
+      "鳴箏金粟柱，素手玉房前。",
+      "欲得周郎顧，時時誤拂絃。"
+    ],
+    "text": "鸣筝金粟柱，素手玉房前。欲得周郎顾，时时误拂弦。",
+    "textTraditional": "鳴箏金粟柱，素手玉房前。欲得周郎顧，時時誤拂絃。",
+    "displayLines": [
+      "鸣筝金粟柱，",
+      "素手玉房前。",
+      "欲得周郎顾，",
+      "时时误拂弦。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "鸣",
+          "míng"
+        ],
+        [
+          "筝",
+          "zhēng"
+        ],
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "粟",
+          "sù"
+        ],
+        [
+          "柱",
+          "zhù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "素",
+          "sù"
+        ],
+        [
+          "手",
+          "shǒu"
+        ],
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "房",
+          "fáng"
+        ],
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "得",
+          "dé"
+        ],
+        [
+          "周",
+          "zhōu"
+        ],
+        [
+          "郎",
+          "láng"
+        ],
+        [
+          "顾",
+          "gù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "误",
+          "wù"
+        ],
+        [
+          "拂",
+          "fú"
+        ],
+        [
+          "弦",
+          "xián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "鸣",
+          "míng"
+        ],
+        [
+          "筝",
+          "zhēng"
+        ],
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "粟",
+          "sù"
+        ],
+        [
+          "柱",
+          "zhù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "素",
+          "sù"
+        ],
+        [
+          "手",
+          "shǒu"
+        ],
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "房",
+          "fáng"
+        ],
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "得",
+          "dé"
+        ],
+        [
+          "周",
+          "zhōu"
+        ],
+        [
+          "郎",
+          "láng"
+        ],
+        [
+          "顾",
+          "gù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "误",
+          "wù"
+        ],
+        [
+          "拂",
+          "fú"
+        ],
+        [
+          "弦",
+          "xián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言绝句",
+      "音乐"
+    ],
+    "english": {
+      "headingRaw": "Five-character-quatrainLiDuanONHEARINGHERPLAYTHEHARP",
+      "translationRaw": "HerhandsofwhitejadebyawindowofsnowAreglimmeringonagolden-frettedharp--AndtodrawthequickeyeofChouYu，Shetouchesawrongnotenowandthen。",
+      "translationClean": "HerhandsofwhitejadebyawindowofsnowAreglimmeringonagolden-frettedharp--AndtodrawthequickeyeofChouYu, Shetouchesawrongnotenowandthen.",
+      "segments": [
+        "HerhandsofwhitejadebyawindowofsnowAreglimmeringonagolden-frettedharp--AndtodrawthequickeyeofChouYu, Shetouchesawrongnotenowandthen."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 287,
+        "title": "听筝",
+        "author": "李端"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 241,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 108,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "7f3799de-78b4-49bc-b6d8-a5fa3ecacd33",
+        "score": 1
+      }
+    }
+  }
+}

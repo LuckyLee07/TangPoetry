@@ -1,0 +1,287 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-253-zhang-gan-xing-er-shou-zhi-yi",
+    "order": 253,
+    "section": "乐府",
+    "title": "长干行二首之一",
+    "titleTraditional": "長幹行二首之一",
+    "author": "崔颢",
+    "authorTraditional": "崔顥",
+    "dynasty": "唐代",
+    "aliases": [
+      "长干行·君家何处住",
+      "长干行二首之一"
+    ],
+    "lines": [
+      "君家何处住，妾住在横塘。",
+      "停船暂借问，或恐是同乡。"
+    ],
+    "linesTraditional": [
+      "君家何處住，妾住在橫塘。",
+      "停船暫借問，或恐是同鄉。"
+    ],
+    "text": "君家何处住，妾住在横塘。停船暂借问，或恐是同乡。",
+    "textTraditional": "君家何處住，妾住在橫塘。停船暫借問，或恐是同鄉。",
+    "displayLines": [
+      "君家何处住，",
+      "妾住在横塘。",
+      "停船暂借问，",
+      "或恐是同乡。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "住",
+          "zhù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "妾",
+          "qiè"
+        ],
+        [
+          "住",
+          "zhù"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "横",
+          "héng"
+        ],
+        [
+          "塘",
+          "táng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "停",
+          "tíng"
+        ],
+        [
+          "船",
+          "chuán"
+        ],
+        [
+          "暂",
+          "zàn"
+        ],
+        [
+          "借",
+          "jiè"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "或",
+          "huò"
+        ],
+        [
+          "恐",
+          "kǒng"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "同",
+          "tóng"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "住",
+          "zhù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "妾",
+          "qiè"
+        ],
+        [
+          "住",
+          "zhù"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "横",
+          "héng"
+        ],
+        [
+          "塘",
+          "táng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "停",
+          "tíng"
+        ],
+        [
+          "船",
+          "chuán"
+        ],
+        [
+          "暂",
+          "zàn"
+        ],
+        [
+          "借",
+          "jiè"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "或",
+          "huò"
+        ],
+        [
+          "恐",
+          "kǒng"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "同",
+          "tóng"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "乐府",
+      "孤独",
+      "女子",
+      "思乡"
+    ],
+    "english": {
+      "headingRaw": "Folk-song-styled-verseCuiHaoASONGOFCHANGGANI",
+      "translationRaw": "\"Tellme，wheredoyoulive？--Nearhere，bythefishing-pool？Let』sholdourboatstogether，let』sseeIfwebelonginthesametown。\"",
+      "translationClean": "\"Tellme, wheredoyoulive? --Nearhere, bythefishing-pool? Let'sholdourboatstogether, let'sseeIfwebelonginthesametown. \"",
+      "segments": [
+        "\"Tellme, wheredoyoulive?",
+        "--Nearhere, bythefishing-pool?",
+        "Let'sholdourboatstogether, let'sseeIfwebelonginthesametown.",
+        "\""
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 276,
+        "title": "长干行·君家何处住",
+        "author": "崔颢"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.932
+      },
+      "ctext": {
+        "matched": true,
+        "order": 253,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 120,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "c39225f9-16b2-4713-a11c-d7030ec3b1c9",
+        "score": 1
+      }
+    }
+  }
+}

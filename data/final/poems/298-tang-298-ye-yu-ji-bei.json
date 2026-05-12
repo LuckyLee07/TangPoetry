@@ -1,0 +1,363 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-298-ye-yu-ji-bei",
+    "order": 298,
+    "section": "七言绝句",
+    "title": "夜雨寄北",
+    "titleTraditional": "夜雨寄北",
+    "author": "李商隐",
+    "authorTraditional": "李商隱",
+    "dynasty": "唐代",
+    "aliases": [
+      "夜雨寄北"
+    ],
+    "lines": [
+      "君问归期未有期，巴山夜雨涨秋池。",
+      "何当共剪西窗烛，却话巴山夜雨时。"
+    ],
+    "linesTraditional": [
+      "君問歸期未有期，巴山夜雨漲秋池。",
+      "何當共剪西窗燭，卻話巴山夜雨時。"
+    ],
+    "text": "君问归期未有期，巴山夜雨涨秋池。何当共剪西窗烛，却话巴山夜雨时。",
+    "textTraditional": "君問歸期未有期，巴山夜雨漲秋池。何當共剪西窗燭，卻話巴山夜雨時。",
+    "displayLines": [
+      "君问归期未有期，",
+      "巴山夜雨涨秋池。",
+      "何当共剪西窗烛，",
+      "却话巴山夜雨时。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "期",
+          "qī"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "期",
+          "qī"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "巴",
+          "bā"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "涨",
+          "zhǎng"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "池",
+          "chí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "当",
+          "dāng"
+        ],
+        [
+          "共",
+          "gòng"
+        ],
+        [
+          "剪",
+          "jiǎn"
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "窗",
+          "chuāng"
+        ],
+        [
+          "烛",
+          "zhú"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "却",
+          "què"
+        ],
+        [
+          "话",
+          "huà"
+        ],
+        [
+          "巴",
+          "bā"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "期",
+          "qī"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "期",
+          "qī"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "巴",
+          "bā"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "涨",
+          "zhǎng"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "池",
+          "chí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "当",
+          "dāng"
+        ],
+        [
+          "共",
+          "gòng"
+        ],
+        [
+          "剪",
+          "jiǎn"
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "窗",
+          "chuāng"
+        ],
+        [
+          "烛",
+          "zhú"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "却",
+          "què"
+        ],
+        [
+          "话",
+          "huà"
+        ],
+        [
+          "巴",
+          "bā"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.剪：尽。"
+      }
+    ],
+    "tags": [
+      "七言绝句",
+      "思念",
+      "写雨",
+      "写景",
+      "景中情",
+      "初中古诗",
+      "高中古诗",
+      "爱情",
+      "三年级上册",
+      "雨",
+      "七年级上册(课外)"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainLiShangyinNOTEONARAINYNIGHTTOAFRIENDINTHENORTH",
+      "translationRaw": "YouaskmewhenIamcoming。Idonotknow。Idreamofyourmountainsandautumnpoolsbrimmingallnightwiththerain。Oh，whenshallwebetrimmingwicksagain，togetherinyourwesternwindow？WhenshallIbehearingyourvoiceagain，allnightintherain？",
+      "translationClean": "YouaskmewhenIamcoming. Idonotknow. Idreamofyourmountainsandautumnpoolsbrimmingallnightwiththerain. Oh, whenshallwebetrimmingwicksagain, togetherinyourwesternwindow? WhenshallIbehearingyourvoiceagain, allnightintherain?",
+      "segments": [
+        "YouaskmewhenIamcoming.",
+        "Idonotknow.",
+        "Idreamofyourmountainsandautumnpoolsbrimmingallnightwiththerain.",
+        "Oh, whenshallwebetrimmingwicksagain, togetherinyourwesternwindow?",
+        "WhenshallIbehearingyourvoiceagain, allnightintherain?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 280,
+        "title": "夜雨寄北",
+        "author": "李商隐"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 298,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 171,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "75db753d-e7da-48a1-a6c0-6ed9147e58db",
+        "score": 1
+      }
+    }
+  }
+}

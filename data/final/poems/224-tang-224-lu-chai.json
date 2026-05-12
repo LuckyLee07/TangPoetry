@@ -1,0 +1,290 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-224-lu-chai",
+    "order": 224,
+    "section": "五言绝句",
+    "title": "鹿柴",
+    "titleTraditional": "鹿柴",
+    "author": "王维",
+    "authorTraditional": "王維",
+    "dynasty": "唐代",
+    "aliases": [
+      "鹿柴"
+    ],
+    "lines": [
+      "空山不见人，但闻人语响。",
+      "返景入深林，复照青苔上。"
+    ],
+    "linesTraditional": [
+      "空山不見人，但聞人語響。",
+      "返景入深林，復照青苔上。"
+    ],
+    "text": "空山不见人，但闻人语响。返景入深林，复照青苔上。",
+    "textTraditional": "空山不見人，但聞人語響。返景入深林，復照青苔上。",
+    "displayLines": [
+      "空山不见人，",
+      "但闻人语响。",
+      "返景入深林，",
+      "复照青苔上。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "不",
+          "bú"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "但",
+          "dàn"
+        ],
+        [
+          "闻",
+          "wén"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "语",
+          "yǔ"
+        ],
+        [
+          "响",
+          "xiǎng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "返",
+          "fǎn"
+        ],
+        [
+          "景",
+          "jǐng"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "照",
+          "zhào"
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "苔",
+          "tái"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "不",
+          "bú"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "但",
+          "dàn"
+        ],
+        [
+          "闻",
+          "wén"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "语",
+          "yǔ"
+        ],
+        [
+          "响",
+          "xiǎng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "返",
+          "fǎn"
+        ],
+        [
+          "景",
+          "jǐng"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "照",
+          "zhào"
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "苔",
+          "tái"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.返景：返影。"
+      }
+    ],
+    "tags": [
+      "五言绝句",
+      "写景",
+      "山",
+      "描写山",
+      "写山"
+    ],
+    "english": {
+      "headingRaw": "Five-character-quatrainWangWeiDEER-PARKHERMITAGE",
+      "translationRaw": "Thereseemstobenooneontheemptymountain。。。。AndyetIthinkIhearavoice，Wheresunlight，enteringagrove，Shinesbacktomefromthegreenmoss。",
+      "translationClean": "Thereseemstobenooneontheemptymountain.... AndyetIthinkIhearavoice, Wheresunlight, enteringagrove, Shinesbacktomefromthegreenmoss.",
+      "segments": [
+        "Thereseemstobenooneontheemptymountain....",
+        "AndyetIthinkIhearavoice, Wheresunlight, enteringagrove, Shinesbacktomefromthegreenmoss."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 283,
+        "title": "鹿柴",
+        "author": "王维"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 224,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 90,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "2e8999a9-9df8-4483-ab1e-0231c3e46320",
+        "score": 1
+      }
+    }
+  }
+}

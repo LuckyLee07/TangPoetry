@@ -1,0 +1,361 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-314-zhang-xin-yuan",
+    "order": 314,
+    "section": "乐府",
+    "title": "长信怨",
+    "titleTraditional": "長信怨",
+    "author": "王昌龄",
+    "authorTraditional": "王昌齡",
+    "dynasty": "唐代",
+    "aliases": [
+      "长信怨"
+    ],
+    "lines": [
+      "奉帚平明金殿开，且将团扇共徘徊。",
+      "玉颜不及寒鸦色，犹带昭阳日影来。"
+    ],
+    "linesTraditional": [
+      "奉帚平明金殿開，且將團扇共徘徊。",
+      "玉顏不及寒鴉色，猶帶昭陽日影來。"
+    ],
+    "text": "奉帚平明金殿开，且将团扇共徘徊。玉颜不及寒鸦色，犹带昭阳日影来。",
+    "textTraditional": "奉帚平明金殿開，且將團扇共徘徊。玉顏不及寒鴉色，猶帶昭陽日影來。",
+    "displayLines": [
+      "奉帚平明金殿开，",
+      "且将团扇共徘徊。",
+      "玉颜不及寒鸦色，",
+      "犹带昭阳日影来。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "奉",
+          "fèng"
+        ],
+        [
+          "帚",
+          "zhǒu"
+        ],
+        [
+          "平",
+          "píng"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "殿",
+          "diàn"
+        ],
+        [
+          "开",
+          "kāi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "且",
+          "qiě"
+        ],
+        [
+          "将",
+          "jiāng"
+        ],
+        [
+          "团",
+          "tuán"
+        ],
+        [
+          "扇",
+          "shàn"
+        ],
+        [
+          "共",
+          "gòng"
+        ],
+        [
+          "徘",
+          "pái"
+        ],
+        [
+          "徊",
+          "huái"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "颜",
+          "yán"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "及",
+          "jí"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "鸦",
+          "yā"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "犹",
+          "yóu"
+        ],
+        [
+          "带",
+          "dài"
+        ],
+        [
+          "昭",
+          "zhāo"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "影",
+          "yǐng"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "奉",
+          "fèng"
+        ],
+        [
+          "帚",
+          "zhǒu"
+        ],
+        [
+          "平",
+          "píng"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "殿",
+          "diàn"
+        ],
+        [
+          "开",
+          "kāi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "且",
+          "qiě"
+        ],
+        [
+          "将",
+          "jiāng"
+        ],
+        [
+          "团",
+          "tuán"
+        ],
+        [
+          "扇",
+          "shàn"
+        ],
+        [
+          "共",
+          "gòng"
+        ],
+        [
+          "徘",
+          "pái"
+        ],
+        [
+          "徊",
+          "huái"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "颜",
+          "yán"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "及",
+          "jí"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "鸦",
+          "yā"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "犹",
+          "yóu"
+        ],
+        [
+          "带",
+          "dài"
+        ],
+        [
+          "昭",
+          "zhāo"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "影",
+          "yǐng"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.奉帚：拿著扫帚。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.团扇：汉班婕妤因赵飞燕姐妹而失宠后，写\"怨歌行\"以团扇被弃喻自"
+      },
+      {
+        "source": "chiuinan",
+        "text": "己失宠。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "3.昭阳：赵飞燕姐妹所居。"
+      }
+    ],
+    "tags": [
+      "乐府"
+    ],
+    "english": {
+      "headingRaw": "Folk-song-styled-verseWangChanglingASIGHINTHECOURTOFPERPETUALFAITH",
+      "translationRaw": "ShebringsabroomatdawntotheGoldenPalacedoorwayAndduststhehallfromendtoendwithherroundfan，And，forallherjade-whiteness，sheenviesacrowWhosecoldwingsarekindledintheCourtoftheBrightSun。",
+      "translationClean": "ShebringsabroomatdawntotheGoldenPalacedoorwayAndduststhehallfromendtoendwithherroundfan, And, forallherjade-whiteness, sheenviesacrowWhosecoldwingsarekindledintheCourtoftheBrightSun.",
+      "segments": [
+        "ShebringsabroomatdawntotheGoldenPalacedoorwayAndduststhehallfromendtoendwithherroundfan, And, forallherjade-whiteness, sheenviesacrowWhosecoldwingsarekindledintheCourtoftheBrightSun."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 199,
+        "title": "长信怨",
+        "author": "王昌龄"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "manual",
+        "score": 1
+      },
+      "ctext": {
+        "matched": true,
+        "order": 314,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 135,
+        "score": 0.97,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": false,
+        "id": null,
+        "score": null
+      }
+    }
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-293-qian-huai",
+    "order": 293,
+    "section": "七言绝句",
+    "title": "遣怀",
+    "titleTraditional": "遣懷",
+    "author": "杜牧",
+    "authorTraditional": "杜牧",
+    "dynasty": "唐代",
+    "aliases": [
+      "遣怀"
+    ],
+    "lines": [
+      "落魄江湖载酒行，楚腰纤细掌中轻。",
+      "十年一觉扬州梦，赢得青楼薄幸名。"
+    ],
+    "linesTraditional": [
+      "落魄江湖載酒行，楚腰纖細掌中輕。",
+      "十年一覺揚州夢，贏得青樓薄倖名。"
+    ],
+    "text": "落魄江湖载酒行，楚腰纤细掌中轻。十年一觉扬州梦，赢得青楼薄幸名。",
+    "textTraditional": "落魄江湖載酒行，楚腰纖細掌中輕。十年一覺揚州夢，贏得青樓薄倖名。",
+    "displayLines": [
+      "落魄江湖载酒行，",
+      "楚腰纤细掌中轻。",
+      "十年一觉扬州梦，",
+      "赢得青楼薄幸名。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "魄",
+          "pò"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "湖",
+          "hú"
+        ],
+        [
+          "载",
+          "zài"
+        ],
+        [
+          "酒",
+          "jiǔ"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "楚",
+          "chǔ"
+        ],
+        [
+          "腰",
+          "yāo"
+        ],
+        [
+          "纤",
+          "xiān"
+        ],
+        [
+          "细",
+          "xì"
+        ],
+        [
+          "掌",
+          "zhǎng"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "轻",
+          "qīng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "十",
+          "shí"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "觉",
+          "jiào"
+        ],
+        [
+          "扬",
+          "yáng"
+        ],
+        [
+          "州",
+          "zhōu"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "赢",
+          "yíng"
+        ],
+        [
+          "得",
+          "dé"
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "薄",
+          "bó"
+        ],
+        [
+          "幸",
+          "xìng"
+        ],
+        [
+          "名",
+          "míng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "魄",
+          "pò"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "湖",
+          "hú"
+        ],
+        [
+          "载",
+          "zài"
+        ],
+        [
+          "酒",
+          "jiǔ"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "楚",
+          "chǔ"
+        ],
+        [
+          "腰",
+          "yāo"
+        ],
+        [
+          "纤",
+          "xiān"
+        ],
+        [
+          "细",
+          "xì"
+        ],
+        [
+          "掌",
+          "zhǎng"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "轻",
+          "qīng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "十",
+          "shí"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "觉",
+          "jiào"
+        ],
+        [
+          "扬",
+          "yáng"
+        ],
+        [
+          "州",
+          "zhōu"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "赢",
+          "yíng"
+        ],
+        [
+          "得",
+          "dé"
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "薄",
+          "bó"
+        ],
+        [
+          "幸",
+          "xìng"
+        ],
+        [
+          "名",
+          "míng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "江南--一作 ：江湖"
+      },
+      {
+        "source": "唐诗三百首.json",
+        "text": "纤细--一作 ：肠断"
+      },
+      {
+        "source": "chiuinan",
+        "text": "1.青楼：妓女所居。"
+      }
+    ],
+    "tags": [
+      "七言绝句",
+      "抒怀"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainDuMuACONFESSION",
+      "translationRaw": "Withmywine-bottle，watchingbyriverandlakeForaladysotinyastodanceonmypalm，Iawake，afterdreamingtenyearsinYangzhou，Knownasfickle，evenintheStreetofBlueHouses。",
+      "translationClean": "Withmywine-bottle, watchingbyriverandlakeForaladysotinyastodanceonmypalm, Iawake, afterdreamingtenyearsinYangzhou, Knownasfickle, evenintheStreetofBlueHouses.",
+      "segments": [
+        "Withmywine-bottle, watchingbyriverandlakeForaladysotinyastodanceonmypalm, Iawake, afterdreamingtenyearsinYangzhou, Knownasfickle, evenintheStreetofBlueHouses."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 83,
+        "title": "遣怀",
+        "author": "杜牧"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9721
+      },
+      "ctext": {
+        "matched": true,
+        "order": 293,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 166,
+        "score": 0.9643,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "92ae04dc-89af-45d6-9e31-204a01df801d",
+        "score": 0.9286
+      }
+    }
+  }
+}

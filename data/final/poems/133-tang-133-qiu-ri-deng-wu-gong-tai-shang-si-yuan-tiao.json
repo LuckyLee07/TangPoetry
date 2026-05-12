@@ -1,0 +1,491 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-133-qiu-ri-deng-wu-gong-tai-shang-si-yuan-tiao",
+    "order": 133,
+    "section": "五言律诗",
+    "title": "秋日登吴公台上寺远眺",
+    "titleTraditional": "秋日登吳公臺上寺遠眺",
+    "author": "刘长卿",
+    "authorTraditional": "劉長卿",
+    "dynasty": "唐代",
+    "aliases": [
+      "秋日登吴公台上寺远眺"
+    ],
+    "lines": [
+      "古台摇落后，秋日望乡心。",
+      "野寺人来少，云峰水隔深。",
+      "夕阳依旧垒，寒磬满空林。",
+      "惆怅南朝事，长江独至今。"
+    ],
+    "linesTraditional": [
+      "古臺搖落後，秋日望鄉心。",
+      "野寺人來少，雲峰水隔深。",
+      "夕陽依舊壘，寒磬滿空林。",
+      "惆悵南朝事，長江獨至今。"
+    ],
+    "text": "古台摇落后，秋日望乡心。野寺人来少，云峰水隔深。夕阳依旧垒，寒磬满空林。惆怅南朝事，长江独至今。",
+    "textTraditional": "古臺搖落後，秋日望鄉心。野寺人來少，雲峰水隔深。夕陽依舊壘，寒磬滿空林。惆悵南朝事，長江獨至今。",
+    "displayLines": [
+      "古台摇落后，",
+      "秋日望乡心。",
+      "野寺人来少，",
+      "云峰水隔深。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "台",
+          "tái"
+        ],
+        [
+          "摇",
+          "yáo"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "后",
+          "hòu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "望",
+          "wàng"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "野",
+          "yě"
+        ],
+        [
+          "寺",
+          "sì"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "少",
+          "shǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "峰",
+          "fēng"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "隔",
+          "gé"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "夕",
+          "xī"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "依",
+          "yī"
+        ],
+        [
+          "旧",
+          "jiù"
+        ],
+        [
+          "垒",
+          "lěi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "磬",
+          "qìng"
+        ],
+        [
+          "满",
+          "mǎn"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "惆",
+          "chóu"
+        ],
+        [
+          "怅",
+          "chàng"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "长",
+          "cháng"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "至",
+          "zhì"
+        ],
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "台",
+          "tái"
+        ],
+        [
+          "摇",
+          "yáo"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "后",
+          "hòu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "望",
+          "wàng"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "野",
+          "yě"
+        ],
+        [
+          "寺",
+          "sì"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "少",
+          "shǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "峰",
+          "fēng"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "隔",
+          "gé"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "夕",
+          "xī"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "依",
+          "yī"
+        ],
+        [
+          "旧",
+          "jiù"
+        ],
+        [
+          "垒",
+          "lěi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "磬",
+          "qìng"
+        ],
+        [
+          "满",
+          "mǎn"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "惆",
+          "chóu"
+        ],
+        [
+          "怅",
+          "chàng"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "长",
+          "cháng"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "至",
+          "zhì"
+        ],
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言律诗",
+      "长江",
+      "怀古",
+      "秋天"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseLiuChangqingCLIMBINGINAUTUMNFORAVIEWFROMTHETEMPLEONTHETERRACEOFGENERALWU",
+      "translationRaw": "Soautumnbreaksmyhomesickheart。。。。Fewpilgrimsventureclimbingtoatemplesowild，Upfromthelake，inthemountainclouds。。。。Sunsetclingsintheolddefences，Astonegongshiversthroughtheemptywoods。。。。OftheSouthernDynasty，whatremains？NothingbutthegreatRiver。",
+      "translationClean": "Soautumnbreaksmyhomesickheart.... Fewpilgrimsventureclimbingtoatemplesowild, Upfromthelake, inthemountainclouds.... Sunsetclingsintheolddefences, Astonegongshiversthroughtheemptywoods.... OftheSouthernDynasty, whatremains? NothingbutthegreatRiver.",
+      "segments": [
+        "Soautumnbreaksmyhomesickheart....",
+        "Fewpilgrimsventureclimbingtoatemplesowild, Upfromthelake, inthemountainclouds....",
+        "Sunsetclingsintheolddefences, Astonegongshiversthroughtheemptywoods....",
+        "OftheSouthernDynasty, whatremains?",
+        "NothingbutthegreatRiver."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 56,
+        "title": "秋日登吴公台上寺远眺",
+        "author": "刘长卿"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 133,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 230,
+        "score": 0.925,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "fdc07d9f-95b8-45f7-b1b3-9d272b3416a4",
+        "score": 1
+      }
+    }
+  }
+}

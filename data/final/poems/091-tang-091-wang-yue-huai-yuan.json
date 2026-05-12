@@ -1,0 +1,493 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-091-wang-yue-huai-yuan",
+    "order": 91,
+    "section": "五言律诗",
+    "title": "望月怀远",
+    "titleTraditional": "望月懷遠",
+    "author": "张九龄",
+    "authorTraditional": "張九齡",
+    "dynasty": "唐代",
+    "aliases": [
+      "望月怀远 / 望月怀古",
+      "望月怀远"
+    ],
+    "lines": [
+      "海上生明月，天涯共此时。",
+      "情人怨遥夜，竟夕起相思。",
+      "灭烛怜光满，披衣觉露滋。",
+      "不堪盈手赠，还寝梦佳期。"
+    ],
+    "linesTraditional": [
+      "海上生明月，天涯共此時。",
+      "情人怨遙夜，竟夕起相思。",
+      "滅燭憐光滿，披衣覺露滋。",
+      "不堪盈手贈，還寢夢佳期。"
+    ],
+    "text": "海上生明月，天涯共此时。情人怨遥夜，竟夕起相思。灭烛怜光满，披衣觉露滋。不堪盈手赠，还寝梦佳期。",
+    "textTraditional": "海上生明月，天涯共此時。情人怨遙夜，竟夕起相思。滅燭憐光滿，披衣覺露滋。不堪盈手贈，還寢夢佳期。",
+    "displayLines": [
+      "海上生明月，",
+      "天涯共此时。",
+      "情人怨遥夜，",
+      "竟夕起相思。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "涯",
+          "yá"
+        ],
+        [
+          "共",
+          "gòng"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "怨",
+          "yuàn"
+        ],
+        [
+          "遥",
+          "yáo"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "竟",
+          "jìng"
+        ],
+        [
+          "夕",
+          "xī"
+        ],
+        [
+          "起",
+          "qǐ"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "思",
+          "sī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "灭",
+          "miè"
+        ],
+        [
+          "烛",
+          "zhú"
+        ],
+        [
+          "怜",
+          "lián"
+        ],
+        [
+          "光",
+          "guāng"
+        ],
+        [
+          "满",
+          "mǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "披",
+          "pī"
+        ],
+        [
+          "衣",
+          "yī"
+        ],
+        [
+          "觉",
+          "jué"
+        ],
+        [
+          "露",
+          "lù"
+        ],
+        [
+          "滋",
+          "zī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "堪",
+          "kān"
+        ],
+        [
+          "盈",
+          "yíng"
+        ],
+        [
+          "手",
+          "shǒu"
+        ],
+        [
+          "赠",
+          "zèng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "寝",
+          "qǐn"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "佳",
+          "jiā"
+        ],
+        [
+          "期",
+          "qī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "涯",
+          "yá"
+        ],
+        [
+          "共",
+          "gòng"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "怨",
+          "yuàn"
+        ],
+        [
+          "遥",
+          "yáo"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "竟",
+          "jìng"
+        ],
+        [
+          "夕",
+          "xī"
+        ],
+        [
+          "起",
+          "qǐ"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "思",
+          "sī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "灭",
+          "miè"
+        ],
+        [
+          "烛",
+          "zhú"
+        ],
+        [
+          "怜",
+          "lián"
+        ],
+        [
+          "光",
+          "guāng"
+        ],
+        [
+          "满",
+          "mǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "披",
+          "pī"
+        ],
+        [
+          "衣",
+          "yī"
+        ],
+        [
+          "觉",
+          "jué"
+        ],
+        [
+          "露",
+          "lù"
+        ],
+        [
+          "滋",
+          "zī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "堪",
+          "kān"
+        ],
+        [
+          "盈",
+          "yíng"
+        ],
+        [
+          "手",
+          "shǒu"
+        ],
+        [
+          "赠",
+          "zèng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "寝",
+          "qǐn"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "佳",
+          "jiā"
+        ],
+        [
+          "期",
+          "qī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言律诗",
+      "思念",
+      "中秋节",
+      "中秋",
+      "思乡",
+      "月亮"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseZhangJiulingLOOKINGATTHEMOONANDTHINKINGOFONEFARAWAY",
+      "translationRaw": "Themoon，grownfullnowoverthesea，Brighteningthewholeofheaven，BringstoseparatedheartsThelongthoughtfulnessofnight。。。。ItisnodarkerthoughIblowoutmycandle。ItisnowarmerthoughIputonmycoat。SoIleavemymessagewiththemoonAndturntomybed，hopingfordreams。",
+      "translationClean": "Themoon, grownfullnowoverthesea, Brighteningthewholeofheaven, BringstoseparatedheartsThelongthoughtfulnessofnight.... ItisnodarkerthoughIblowoutmycandle. ItisnowarmerthoughIputonmycoat. SoIleavemymessagewiththemoonAndturntomybed, hopingfordreams.",
+      "segments": [
+        "Themoon, grownfullnowoverthesea, Brighteningthewholeofheaven, BringstoseparatedheartsThelongthoughtfulnessofnight....",
+        "ItisnodarkerthoughIblowoutmycandle.",
+        "ItisnowarmerthoughIputonmycoat.",
+        "SoIleavemymessagewiththemoonAndturntomybed, hopingfordreams."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 152,
+        "title": "望月怀远 / 望月怀古",
+        "author": "张九龄"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 91,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 188,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "2c152693-c25f-45ce-8ef2-cbedce1a62bc",
+        "score": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,606 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-038-guan-shan-yue",
+    "order": 38,
+    "section": "乐府",
+    "title": "关山月",
+    "titleTraditional": "關山月",
+    "author": "李白",
+    "authorTraditional": "李白",
+    "dynasty": "唐代",
+    "aliases": [
+      "关山月"
+    ],
+    "lines": [
+      "明月出天山，苍茫云海间；",
+      "长风几万里，吹度玉门关。",
+      "汉下白登道，胡窥青海湾。",
+      "由来征战地，不见有人还。",
+      "戍客望边色，思归多苦颜；",
+      "高楼当此夜，叹息未应闲。"
+    ],
+    "linesTraditional": [
+      "明月出天山，蒼茫雲海間；",
+      "長風幾萬里，吹度玉門關。",
+      "漢下白登道，胡窺青海灣。",
+      "由來征戰地，不見有人還。",
+      "戍客望邊色，思歸多苦顏；",
+      "高樓當此夜，歎息未應閑。"
+    ],
+    "text": "明月出天山，苍茫云海间；长风几万里，吹度玉门关。汉下白登道，胡窥青海湾。由来征战地，不见有人还。戍客望边色，思归多苦颜；高楼当此夜，叹息未应闲。",
+    "textTraditional": "明月出天山，蒼茫雲海間；長風幾萬里，吹度玉門關。漢下白登道，胡窺青海灣。由來征戰地，不見有人還。戍客望邊色，思歸多苦顏；高樓當此夜，歎息未應閑。",
+    "displayLines": [
+      "明月出天山，",
+      "苍茫云海间；",
+      "长风几万里，",
+      "吹度玉门关。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "出",
+          "chū"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "苍",
+          "cāng"
+        ],
+        [
+          "茫",
+          "máng"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "间",
+          "jiān"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "长",
+          "zhǎng"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "吹",
+          "chuī"
+        ],
+        [
+          "度",
+          "dù"
+        ],
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "登",
+          "dēng"
+        ],
+        [
+          "道",
+          "dào"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "胡",
+          "hú"
+        ],
+        [
+          "窥",
+          "kuī"
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "湾",
+          "wān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "由",
+          "yóu"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "征",
+          "zhēng"
+        ],
+        [
+          "战",
+          "zhàn"
+        ],
+        [
+          "地",
+          "dì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "不",
+          "bú"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "出",
+          "chū"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "苍",
+          "cāng"
+        ],
+        [
+          "茫",
+          "máng"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "间",
+          "jiān"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "长",
+          "zhǎng"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "吹",
+          "chuī"
+        ],
+        [
+          "度",
+          "dù"
+        ],
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "登",
+          "dēng"
+        ],
+        [
+          "道",
+          "dào"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "胡",
+          "hú"
+        ],
+        [
+          "窥",
+          "kuī"
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "湾",
+          "wān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "由",
+          "yóu"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "征",
+          "zhēng"
+        ],
+        [
+          "战",
+          "zhàn"
+        ],
+        [
+          "地",
+          "dì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "不",
+          "bú"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "戍",
+          "shù"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "望",
+          "wàng"
+        ],
+        [
+          "边",
+          "biān"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "思",
+          "sī"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "多",
+          "duō"
+        ],
+        [
+          "苦",
+          "kǔ"
+        ],
+        [
+          "颜",
+          "yán"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "高",
+          "gāo"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "当",
+          "dāng"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "叹",
+          "tàn"
+        ],
+        [
+          "息",
+          "xī"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "应",
+          "yīng"
+        ],
+        [
+          "闲",
+          "xián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "望边邑--一作 ：望边色"
+      },
+      {
+        "source": "chiuinan",
+        "text": "1.戍客：守寇的兵。戍，音\"术\"。"
+      }
+    ],
+    "tags": [
+      "乐府",
+      "中秋",
+      "边塞",
+      "山",
+      "思乡",
+      "描写山",
+      "写山",
+      "征人"
+    ],
+    "english": {
+      "headingRaw": "Folk-song-styled-verseLiBaiTHEMOONATTHEFORTIFIEDPASS",
+      "translationRaw": "ThebrightmoonliftsfromtheMountainofHeavenInaninfinitehazeofcloudandsea，Andthewind，thathascomeathousandmiles，BeatsattheJadePassbattlements。。。。ChinamarchesitsmendownBaidengRoadWhileTartartroopspeeracrossbluewatersofthebay。。。。AndsincenotonebattlefamousinhistorySentallitsfightersbackagain，Thesoldiersturnround，lookingtowardtheborder，Andthinkofhome，withwistfuleyes，AndofthosetonightintheupperchambersWhotossandsighandcannotrest。",
+      "translationClean": "ThebrightmoonliftsfromtheMountainofHeavenInaninfinitehazeofcloudandsea, Andthewind, thathascomeathousandmiles, BeatsattheJadePassbattlements.... ChinamarchesitsmendownBaidengRoadWhileTartartroopspeeracrossbluewatersofthebay.... AndsincenotonebattlefamousinhistorySentallitsfightersbackagain, Thesoldiersturnround, lookingtowardtheborder, Andthinkofhome, withwistfuleyes, AndofthosetonightintheupperchambersWhotossandsighandcannotrest.",
+      "segments": [
+        "ThebrightmoonliftsfromtheMountainofHeavenInaninfinitehazeofcloudandsea, Andthewind, thathascomeathousandmiles, BeatsattheJadePassbattlements....",
+        "ChinamarchesitsmendownBaidengRoadWhileTartartroopspeeracrossbluewatersofthebay....",
+        "AndsincenotonebattlefamousinhistorySentallitsfightersbackagain, Thesoldiersturnround, lookingtowardtheborder, Andthinkofhome, withwistfuleyes, AndofthosetonightintheupperchambersWhotossandsighandcannotrest."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 220,
+        "title": "关山月",
+        "author": "李白"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.987
+      },
+      "ctext": {
+        "matched": true,
+        "order": 38,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 38,
+        "score": 0.9833,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "0167687e-8325-48bf-8da4-3749c9ce0a74",
+        "score": 0.9833
+      }
+    }
+  }
+}

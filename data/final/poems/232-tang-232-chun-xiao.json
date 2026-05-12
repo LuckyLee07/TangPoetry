@@ -1,0 +1,285 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-232-chun-xiao",
+    "order": 232,
+    "section": "五言绝句",
+    "title": "春晓",
+    "titleTraditional": "春曉",
+    "author": "孟浩然",
+    "authorTraditional": "孟浩然",
+    "dynasty": "唐代",
+    "aliases": [
+      "春晓"
+    ],
+    "lines": [
+      "春眠不觉晓，处处闻啼鸟。",
+      "夜来风雨声，花落知多少。"
+    ],
+    "linesTraditional": [
+      "春眠不覺曉，處處聞啼鳥。",
+      "夜來風雨聲，花落知多少。"
+    ],
+    "text": "春眠不觉晓，处处闻啼鸟。夜来风雨声，花落知多少。",
+    "textTraditional": "春眠不覺曉，處處聞啼鳥。夜來風雨聲，花落知多少。",
+    "displayLines": [
+      "春眠不觉晓，",
+      "处处闻啼鸟。",
+      "夜来风雨声，",
+      "花落知多少。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "眠",
+          "mián"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "觉",
+          "jué"
+        ],
+        [
+          "晓",
+          "xiǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "闻",
+          "wén"
+        ],
+        [
+          "啼",
+          "tí"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "多",
+          "duō"
+        ],
+        [
+          "少",
+          "shǎo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "眠",
+          "mián"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "觉",
+          "jué"
+        ],
+        [
+          "晓",
+          "xiǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "闻",
+          "wén"
+        ],
+        [
+          "啼",
+          "tí"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "多",
+          "duō"
+        ],
+        [
+          "少",
+          "shǎo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言绝句",
+      "春",
+      "写景",
+      "一年级下册",
+      "惜春",
+      "小学古诗"
+    ],
+    "english": {
+      "headingRaw": "Five-character-quatrainMengHaoranASPRINGMORNING",
+      "translationRaw": "Iawakelight-heartedthismorningofspring，Everywhereroundmethesingingofbirds--ButnowIrememberthenight，thestorm，AndIwonderhowmanyblossomswerebroken。",
+      "translationClean": "Iawakelight-heartedthismorningofspring, Everywhereroundmethesingingofbirds--ButnowIrememberthenight, thestorm, AndIwonderhowmanyblossomswerebroken.",
+      "segments": [
+        "Iawakelight-heartedthismorningofspring, Everywhereroundmethesingingofbirds--ButnowIrememberthenight, thestorm, AndIwonderhowmanyblossomswerebroken."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 254,
+        "title": "春晓",
+        "author": "孟浩然"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 232,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 98,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "cb168b3b-d104-4df7-9868-1e1225ddb941",
+        "score": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,398 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-041-zi-ye-si-shi-ge-qiu-ge",
+    "order": 41,
+    "section": "乐府",
+    "title": "子夜四时歌秋歌",
+    "titleTraditional": "子夜四時歌秋歌",
+    "author": "李白",
+    "authorTraditional": "李白",
+    "dynasty": "唐代",
+    "aliases": [
+      "子夜吴歌·秋歌",
+      "子夜四时歌秋歌"
+    ],
+    "lines": [
+      "长安一片月，万户捣衣声；",
+      "秋风吹不尽，总是玉关情。",
+      "何日平胡虏？",
+      "良人罢远征。"
+    ],
+    "linesTraditional": [
+      "長安一片月，萬戶擣衣聲；",
+      "秋風吹不盡，總是玉關情。",
+      "何日平胡虜？",
+      "良人罷遠征。"
+    ],
+    "text": "长安一片月，万户捣衣声；秋风吹不尽，总是玉关情。何日平胡虏？良人罢远征。",
+    "textTraditional": "長安一片月，萬戶擣衣聲；秋風吹不盡，總是玉關情。何日平胡虜？良人罷遠征。",
+    "displayLines": [
+      "长安一片月，",
+      "万户捣衣声；",
+      "秋风吹不尽，",
+      "总是玉关情。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "长",
+          "cháng"
+        ],
+        [
+          "安",
+          "ān"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "片",
+          "piàn"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "户",
+          "hù"
+        ],
+        [
+          "捣",
+          "dǎo"
+        ],
+        [
+          "衣",
+          "yī"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "吹",
+          "chuī"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "尽",
+          "jìn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "总",
+          "zǒng"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "平",
+          "píng"
+        ],
+        [
+          "胡",
+          "hú"
+        ],
+        [
+          "虏",
+          "lǔ"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "良",
+          "liáng"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "罢",
+          "bà"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "征",
+          "zhēng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "长",
+          "cháng"
+        ],
+        [
+          "安",
+          "ān"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "片",
+          "piàn"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "户",
+          "hù"
+        ],
+        [
+          "捣",
+          "dǎo"
+        ],
+        [
+          "衣",
+          "yī"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "吹",
+          "chuī"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "尽",
+          "jìn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "总",
+          "zǒng"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "平",
+          "píng"
+        ],
+        [
+          "胡",
+          "hú"
+        ],
+        [
+          "虏",
+          "lǔ"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "良",
+          "liáng"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "罢",
+          "bà"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "征",
+          "zhēng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "乐府",
+      "思念",
+      "清商曲辞",
+      "妇女",
+      "秋天",
+      "月亮",
+      "闺怨"
+    ],
+    "english": {
+      "headingRaw": "Folk-song-styled-verseLiBaiASONGOFANAUTUMNMIDNIGHT",
+      "translationRaw": "Aslipofthemoonhangsoverthecapital；Tenthousandwashing-malletsarepounding；AndtheautumnwindisblowingmyheartForeverandevertowardtheJadePass。。。。Oh，whenwilltheTartartroopsbeconquered，Andmyhusbandcomebackfromthelongcampaign！",
+      "translationClean": "Aslipofthemoonhangsoverthecapital; Tenthousandwashing-malletsarepounding; AndtheautumnwindisblowingmyheartForeverandevertowardtheJadePass.... Oh, whenwilltheTartartroopsbeconquered, Andmyhusbandcomebackfromthelongcampaign!",
+      "segments": [
+        "Aslipofthemoonhangsoverthecapital;",
+        "Tenthousandwashing-malletsarepounding;",
+        "AndtheautumnwindisblowingmyheartForeverandevertowardtheJadePass....",
+        "Oh, whenwilltheTartartroopsbeconquered, Andmyhusbandcomebackfromthelongcampaign!"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 286,
+        "title": "子夜吴歌·秋歌",
+        "author": "李白"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9608
+      },
+      "ctext": {
+        "matched": true,
+        "order": 41,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 41,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "baccf46a-41c4-4a0f-b90f-37cc35b04a64",
+        "score": 1
+      }
+    }
+  }
+}

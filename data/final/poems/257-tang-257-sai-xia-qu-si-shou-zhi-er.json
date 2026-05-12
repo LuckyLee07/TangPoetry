@@ -1,0 +1,294 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-257-sai-xia-qu-si-shou-zhi-er",
+    "order": 257,
+    "section": "乐府",
+    "title": "塞下曲四首之二",
+    "titleTraditional": "塞下曲四首之二",
+    "author": "卢纶",
+    "authorTraditional": "盧綸",
+    "dynasty": "唐代",
+    "aliases": [
+      "和张仆射塞下曲·其二",
+      "塞下曲四首之二"
+    ],
+    "lines": [
+      "林暗草惊风，将军夜引弓。",
+      "平明寻白羽，没在石棱中。"
+    ],
+    "linesTraditional": [
+      "林暗草驚風，將軍夜引弓。",
+      "平明尋白羽，沒在石稜中。"
+    ],
+    "text": "林暗草惊风，将军夜引弓。平明寻白羽，没在石棱中。",
+    "textTraditional": "林暗草驚風，將軍夜引弓。平明尋白羽，沒在石稜中。",
+    "displayLines": [
+      "林暗草惊风，",
+      "将军夜引弓。",
+      "平明寻白羽，",
+      "没在石棱中。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "暗",
+          "àn"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "惊",
+          "jīng"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "将",
+          "jiāng"
+        ],
+        [
+          "军",
+          "jūn"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "引",
+          "yǐn"
+        ],
+        [
+          "弓",
+          "gōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "平",
+          "píng"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "寻",
+          "xún"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "羽",
+          "yǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "没",
+          "méi"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "石",
+          "shí"
+        ],
+        [
+          "棱",
+          "léng"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "暗",
+          "àn"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "惊",
+          "jīng"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "将",
+          "jiāng"
+        ],
+        [
+          "军",
+          "jūn"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "引",
+          "yǐn"
+        ],
+        [
+          "弓",
+          "gōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "平",
+          "píng"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "寻",
+          "xún"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "羽",
+          "yǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "没",
+          "méi"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "石",
+          "shí"
+        ],
+        [
+          "棱",
+          "léng"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.白羽：称箭。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.石棱：石的棱角。汉李广出猎，见草中石，以为虎而射之，中石没镞。"
+      }
+    ],
+    "tags": [
+      "乐府",
+      "将军",
+      "边塞",
+      "赞美",
+      "狩猎"
+    ],
+    "english": {
+      "headingRaw": "Folk-song-styled-verseLuLunBORDER-SONGSII",
+      "translationRaw": "Thewoodsareblackandawindassailsthegrasses，Yetthegeneraltriesnightarchery--Andnextmorninghefindshiswhite-plumedarrowPointeddeepinthehardrock。",
+      "translationClean": "Thewoodsareblackandawindassailsthegrasses, Yetthegeneraltriesnightarchery--Andnextmorninghefindshiswhite-plumedarrowPointeddeepinthehardrock.",
+      "segments": [
+        "Thewoodsareblackandawindassailsthegrasses, Yetthegeneraltriesnightarchery--Andnextmorninghefindshiswhite-plumedarrowPointeddeepinthehardrock."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 182,
+        "title": "和张仆射塞下曲·其二",
+        "author": "卢纶"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9363
+      },
+      "ctext": {
+        "matched": true,
+        "order": 257,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 123,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "6d2e12c0-c1b8-4242-888c-9dba1a8f93ce",
+        "score": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,490 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-149-zei-ping-hou-song-ren-bei-gui",
+    "order": 149,
+    "section": "五言律诗",
+    "title": "贼平后送人北归",
+    "titleTraditional": "賊平後送人北歸",
+    "author": "司空曙",
+    "authorTraditional": "司空曙",
+    "dynasty": "唐代",
+    "aliases": [
+      "贼平后送人北归"
+    ],
+    "lines": [
+      "世乱同南去，时清独北还。",
+      "他乡生白发，旧国见青山。",
+      "晓月过残垒，繁星宿故关。",
+      "寒禽与衰草，处处伴愁颜。"
+    ],
+    "linesTraditional": [
+      "世亂同南去，時清獨北還。",
+      "他鄉生白髮，舊國見青山。",
+      "曉月過殘壘，繁星宿故關。",
+      "寒禽與衰草，處處伴愁顏。"
+    ],
+    "text": "世乱同南去，时清独北还。他乡生白发，旧国见青山。晓月过残垒，繁星宿故关。寒禽与衰草，处处伴愁颜。",
+    "textTraditional": "世亂同南去，時清獨北還。他鄉生白髮，舊國見青山。曉月過殘壘，繁星宿故關。寒禽與衰草，處處伴愁顏。",
+    "displayLines": [
+      "世乱同南去，",
+      "时清独北还。",
+      "他乡生白发，",
+      "旧国见青山。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "世",
+          "shì"
+        ],
+        [
+          "乱",
+          "luàn"
+        ],
+        [
+          "同",
+          "tóng"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "北",
+          "běi"
+        ],
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "他",
+          "tā"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "发",
+          "fà"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "旧",
+          "jiù"
+        ],
+        [
+          "国",
+          "guó"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "晓",
+          "xiǎo"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "过",
+          "guò"
+        ],
+        [
+          "残",
+          "cán"
+        ],
+        [
+          "垒",
+          "lěi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "繁",
+          "fán"
+        ],
+        [
+          "星",
+          "xīng"
+        ],
+        [
+          "宿",
+          "sù"
+        ],
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "禽",
+          "qín"
+        ],
+        [
+          "与",
+          "yǔ"
+        ],
+        [
+          "衰",
+          "shuāi"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "伴",
+          "bàn"
+        ],
+        [
+          "愁",
+          "chóu"
+        ],
+        [
+          "颜",
+          "yán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "世",
+          "shì"
+        ],
+        [
+          "乱",
+          "luàn"
+        ],
+        [
+          "同",
+          "tóng"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "北",
+          "běi"
+        ],
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "他",
+          "tā"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "发",
+          "fà"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "旧",
+          "jiù"
+        ],
+        [
+          "国",
+          "guó"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "晓",
+          "xiǎo"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "过",
+          "guò"
+        ],
+        [
+          "残",
+          "cán"
+        ],
+        [
+          "垒",
+          "lěi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "繁",
+          "fán"
+        ],
+        [
+          "星",
+          "xīng"
+        ],
+        [
+          "宿",
+          "sù"
+        ],
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "禽",
+          "qín"
+        ],
+        [
+          "与",
+          "yǔ"
+        ],
+        [
+          "衰",
+          "shuāi"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "伴",
+          "bàn"
+        ],
+        [
+          "愁",
+          "chóu"
+        ],
+        [
+          "颜",
+          "yán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言律诗",
+      "酬赠",
+      "感伤"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseSikiongShuTOAFRIENDBOUNDNORTHAFTERTHEREBELLION",
+      "translationRaw": "Indangeroustimeswetwocamesouth；Nowyougonorthinsafety，withoutme。Butremembermyheadgrowingwhiteamongstrangers，Whenyoulookontheblueofthemountainsofhome。。。。Themoongoesdownbehindaruinedfort，Leavingstar-clustersaboveanoldgate。。。。Thereareshiveringbirdsandwitheringgrasses，WhicheverwayIturnmyface。",
+      "translationClean": "Indangeroustimeswetwocamesouth; Nowyougonorthinsafety, withoutme. Butremembermyheadgrowingwhiteamongstrangers, Whenyoulookontheblueofthemountainsofhome.... Themoongoesdownbehindaruinedfort, Leavingstar-clustersaboveanoldgate.... Thereareshiveringbirdsandwitheringgrasses, WhicheverwayIturnmyface.",
+      "segments": [
+        "Indangeroustimeswetwocamesouth;",
+        "Nowyougonorthinsafety, withoutme.",
+        "Butremembermyheadgrowingwhiteamongstrangers, Whenyoulookontheblueofthemountainsofhome....",
+        "Themoongoesdownbehindaruinedfort, Leavingstar-clustersaboveanoldgate....",
+        "Thereareshiveringbirdsandwitheringgrasses, WhicheverwayIturnmyface."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 113,
+        "title": "贼平后送人北归",
+        "author": "司空曙"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 149,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 246,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "4c745990-657a-41fe-ba2c-d9cf371ca563",
+        "score": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,501 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-156-chan",
+    "order": 156,
+    "section": "五言律诗",
+    "title": "蝉",
+    "titleTraditional": "蟬",
+    "author": "李商隐",
+    "authorTraditional": "李商隱",
+    "dynasty": "唐代",
+    "aliases": [
+      "蝉"
+    ],
+    "lines": [
+      "本以高难饱，徒劳恨费声。",
+      "五更疏欲断，一树碧无情。",
+      "薄宦梗犹泛，故园芜已平。",
+      "烦君最相警，我亦举家清。"
+    ],
+    "linesTraditional": [
+      "本以高難飽，徒勞恨費聲。",
+      "五更疏欲斷，一樹碧無情。",
+      "薄宦梗猶汎，故園蕪已平。",
+      "煩君最相警，我亦舉家清。"
+    ],
+    "text": "本以高难饱，徒劳恨费声。五更疏欲断，一树碧无情。薄宦梗犹泛，故园芜已平。烦君最相警，我亦举家清。",
+    "textTraditional": "本以高難飽，徒勞恨費聲。五更疏欲斷，一樹碧無情。薄宦梗猶汎，故園蕪已平。煩君最相警，我亦舉家清。",
+    "displayLines": [
+      "本以高难饱，",
+      "徒劳恨费声。",
+      "五更疏欲断，",
+      "一树碧无情。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "本",
+          "běn"
+        ],
+        [
+          "以",
+          "yǐ"
+        ],
+        [
+          "高",
+          "gāo"
+        ],
+        [
+          "难",
+          "nán"
+        ],
+        [
+          "饱",
+          "bǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "徒",
+          "tú"
+        ],
+        [
+          "劳",
+          "láo"
+        ],
+        [
+          "恨",
+          "hèn"
+        ],
+        [
+          "费",
+          "fèi"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "五",
+          "wǔ"
+        ],
+        [
+          "更",
+          "gēng"
+        ],
+        [
+          "疏",
+          "shū"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "断",
+          "duàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "树",
+          "shù"
+        ],
+        [
+          "碧",
+          "bì"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "薄",
+          "báo"
+        ],
+        [
+          "宦",
+          "huàn"
+        ],
+        [
+          "梗",
+          "gěng"
+        ],
+        [
+          "犹",
+          "yóu"
+        ],
+        [
+          "泛",
+          "fàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "园",
+          "yuán"
+        ],
+        [
+          "芜",
+          "wú"
+        ],
+        [
+          "已",
+          "yǐ"
+        ],
+        [
+          "平",
+          "píng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "烦",
+          "fán"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "最",
+          "zuì"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "警",
+          "jǐng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "我",
+          "wǒ"
+        ],
+        [
+          "亦",
+          "yì"
+        ],
+        [
+          "举",
+          "jǔ"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "本",
+          "běn"
+        ],
+        [
+          "以",
+          "yǐ"
+        ],
+        [
+          "高",
+          "gāo"
+        ],
+        [
+          "难",
+          "nán"
+        ],
+        [
+          "饱",
+          "bǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "徒",
+          "tú"
+        ],
+        [
+          "劳",
+          "láo"
+        ],
+        [
+          "恨",
+          "hèn"
+        ],
+        [
+          "费",
+          "fèi"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "五",
+          "wǔ"
+        ],
+        [
+          "更",
+          "gēng"
+        ],
+        [
+          "疏",
+          "shū"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "断",
+          "duàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "树",
+          "shù"
+        ],
+        [
+          "碧",
+          "bì"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "薄",
+          "báo"
+        ],
+        [
+          "宦",
+          "huàn"
+        ],
+        [
+          "梗",
+          "gěng"
+        ],
+        [
+          "犹",
+          "yóu"
+        ],
+        [
+          "泛",
+          "fàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "园",
+          "yuán"
+        ],
+        [
+          "芜",
+          "wú"
+        ],
+        [
+          "已",
+          "yǐ"
+        ],
+        [
+          "平",
+          "píng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "烦",
+          "fán"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "最",
+          "zuì"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "警",
+          "jǐng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "我",
+          "wǒ"
+        ],
+        [
+          "亦",
+          "yì"
+        ],
+        [
+          "举",
+          "jǔ"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.薄宦：俸禄微薄的小官。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.梗犹泛：如萍梗的浮泛无定居。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "3.举家清：举家清贫。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "咏物",
+      "咏物诗"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseLiShangyinACICADA",
+      "translationRaw": "Pureofheartandthereforehungry，Allnightlongyouhavesunginvain--Oh，thisfinalbrokenindrawnbreathAmongthegreenindifferenttrees！Yes，Ihavegonelikeapieceofdriftwood，Ihaveletmygardenfillwithweeds。。。。IblessyouforyourtrueadviceToliveaspurealifeasyours。",
+      "translationClean": "Pureofheartandthereforehungry, Allnightlongyouhavesunginvain--Oh, thisfinalbrokenindrawnbreathAmongthegreenindifferenttrees! Yes, Ihavegonelikeapieceofdriftwood, Ihaveletmygardenfillwithweeds.... IblessyouforyourtrueadviceToliveaspurealifeasyours.",
+      "segments": [
+        "Pureofheartandthereforehungry, Allnightlongyouhavesunginvain--Oh, thisfinalbrokenindrawnbreathAmongthegreenindifferenttrees!",
+        "Yes, Ihavegonelikeapieceofdriftwood, Ihaveletmygardenfillwithweeds....",
+        "IblessyouforyourtrueadviceToliveaspurealifeasyours."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 84,
+        "title": "蝉",
+        "author": "李商隐"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 156,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 253,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "b3de619f-cc8b-457d-942b-49f06651aba4",
+        "score": 0.975
+      }
+    }
+  }
+}

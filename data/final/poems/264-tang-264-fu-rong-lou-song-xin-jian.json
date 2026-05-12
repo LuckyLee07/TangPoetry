@@ -1,0 +1,358 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-264-fu-rong-lou-song-xin-jian",
+    "order": 264,
+    "section": "七言绝句",
+    "title": "芙蓉楼送辛渐",
+    "titleTraditional": "芙蓉樓送辛漸",
+    "author": "王昌龄",
+    "authorTraditional": "王昌齡",
+    "dynasty": "唐代",
+    "aliases": [
+      "芙蓉楼送辛渐"
+    ],
+    "lines": [
+      "寒雨连江夜入吴，平明送客楚山孤。",
+      "洛阳亲友如相问，一片冰心在玉壶。"
+    ],
+    "linesTraditional": [
+      "寒雨連江夜入吳，平明送客楚山孤。",
+      "洛陽親友如相問，一片冰心在玉壺。"
+    ],
+    "text": "寒雨连江夜入吴，平明送客楚山孤。洛阳亲友如相问，一片冰心在玉壶。",
+    "textTraditional": "寒雨連江夜入吳，平明送客楚山孤。洛陽親友如相問，一片冰心在玉壺。",
+    "displayLines": [
+      "寒雨连江夜入吴，",
+      "平明送客楚山孤。",
+      "洛阳亲友如相问，",
+      "一片冰心在玉壶。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "连",
+          "lián"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "吴",
+          "wú"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "平",
+          "píng"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "送",
+          "sòng"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "楚",
+          "chǔ"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "洛",
+          "luò"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "亲",
+          "qīn"
+        ],
+        [
+          "友",
+          "yǒu"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "片",
+          "piàn"
+        ],
+        [
+          "冰",
+          "bīng"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "壶",
+          "hú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "连",
+          "lián"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "吴",
+          "wú"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "平",
+          "píng"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "送",
+          "sòng"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "楚",
+          "chǔ"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "洛",
+          "luò"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "亲",
+          "qīn"
+        ],
+        [
+          "友",
+          "yǒu"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "片",
+          "piàn"
+        ],
+        [
+          "冰",
+          "bīng"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "壶",
+          "hú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.玉壸：鲍照\"直如朱丝绳，清如玉壸冰\"。"
+      }
+    ],
+    "tags": [
+      "七言绝句",
+      "写雨",
+      "抒情",
+      "送别",
+      "雨",
+      "六年级下册",
+      "小学古诗"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainWangChanglingATHIBISCUSINNPARTINGWITHXINJIAN",
+      "translationRaw": "Withthiscoldnight-rainhidingtheriver，youhavecomeintoWu。Intheleveldawn，allalone，youwillbestartingforthemountainsofChu。Answer，iftheyaskofmeatLoyang：\"One-heartedasiceinacrystalvase。\"",
+      "translationClean": "Withthiscoldnight-rainhidingtheriver, youhavecomeintoWu. Intheleveldawn, allalone, youwillbestartingforthemountainsofChu. Answer, iftheyaskofmeatLoyang: \"One-heartedasiceinacrystalvase. \"",
+      "segments": [
+        "Withthiscoldnight-rainhidingtheriver, youhavecomeintoWu.",
+        "Intheleveldawn, allalone, youwillbestartingforthemountainsofChu.",
+        "Answer, iftheyaskofmeatLoyang: \"One-heartedasiceinacrystalvase.",
+        "\""
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 303,
+        "title": "芙蓉楼送辛渐",
+        "author": "王昌龄"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 264,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 132,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "090b7792-2942-4f3c-a34d-caccd066c76f",
+        "score": 0.9286
+      }
+    }
+  }
+}

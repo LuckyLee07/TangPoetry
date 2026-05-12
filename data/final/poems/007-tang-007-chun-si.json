@@ -1,0 +1,418 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-007-chun-si",
+    "order": 7,
+    "section": "五言古诗",
+    "title": "春思",
+    "titleTraditional": "春思",
+    "author": "李白",
+    "authorTraditional": "李白",
+    "dynasty": "唐代",
+    "aliases": [
+      "春思"
+    ],
+    "lines": [
+      "燕草如碧丝，秦桑低绿枝；",
+      "当君怀归日，是妾断肠时。",
+      "春风不相识，何事入罗帏？"
+    ],
+    "linesTraditional": [
+      "燕草如碧絲，秦桑低綠枝；",
+      "當君懷歸日，是妾斷腸時。",
+      "春風不相識，何事入羅幃？"
+    ],
+    "text": "燕草如碧丝，秦桑低绿枝；当君怀归日，是妾断肠时。春风不相识，何事入罗帏？",
+    "textTraditional": "燕草如碧絲，秦桑低綠枝；當君懷歸日，是妾斷腸時。春風不相識，何事入羅幃？",
+    "displayLines": [
+      "燕草如碧丝，",
+      "秦桑低绿枝；",
+      "当君怀归日，",
+      "是妾断肠时。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "燕",
+          "yàn"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "碧",
+          "bì"
+        ],
+        [
+          "丝",
+          "sī"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "秦",
+          "qín"
+        ],
+        [
+          "桑",
+          "sāng"
+        ],
+        [
+          "低",
+          "dī"
+        ],
+        [
+          "绿",
+          "lǜ"
+        ],
+        [
+          "枝",
+          "zhī"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "当",
+          "dāng"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "怀",
+          "huái"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "妾",
+          "qiè"
+        ],
+        [
+          "断",
+          "duàn"
+        ],
+        [
+          "肠",
+          "cháng"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "识",
+          "shí"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "罗",
+          "luó"
+        ],
+        [
+          "帏",
+          "wéi"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "燕",
+          "yàn"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "碧",
+          "bì"
+        ],
+        [
+          "丝",
+          "sī"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "秦",
+          "qín"
+        ],
+        [
+          "桑",
+          "sāng"
+        ],
+        [
+          "低",
+          "dī"
+        ],
+        [
+          "绿",
+          "lǜ"
+        ],
+        [
+          "枝",
+          "zhī"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "当",
+          "dāng"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "怀",
+          "huái"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "妾",
+          "qiè"
+        ],
+        [
+          "断",
+          "duàn"
+        ],
+        [
+          "肠",
+          "cháng"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "识",
+          "shí"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "罗",
+          "luó"
+        ],
+        [
+          "帏",
+          "wéi"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.罗帏：罗帐。帏，音\"围\"。"
+      }
+    ],
+    "tags": [
+      "五言古诗",
+      "思念",
+      "春天",
+      "坚贞",
+      "妇女"
+    ],
+    "english": {
+      "headingRaw": "Five-character-ancient-verseLiBaiINSPRING",
+      "translationRaw": "Yourgrassesupnorthareasblueasjade，Ourmulberriesherecurvegreen-threadedbranches；Andatlastyouthinkofreturninghome，Nowwhenmyheartisalmostbroken。。。。Obreezeofthespring，sinceIdarenotknowyou，Whypartthesilkcurtainsbymybed？",
+      "translationClean": "Yourgrassesupnorthareasblueasjade, Ourmulberriesherecurvegreen-threadedbranches; Andatlastyouthinkofreturninghome, Nowwhenmyheartisalmostbroken.... Obreezeofthespring, sinceIdarenotknowyou, Whypartthesilkcurtainsbymybed?",
+      "segments": [
+        "Yourgrassesupnorthareasblueasjade, Ourmulberriesherecurvegreen-threadedbranches;",
+        "Andatlastyouthinkofreturninghome, Nowwhenmyheartisalmostbroken....",
+        "Obreezeofthespring, sinceIdarenotknowyou, Whypartthesilkcurtainsbymybed?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 144,
+        "title": "春思",
+        "author": "李白"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 7,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 7,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "7277c420-9f3f-4093-a5b2-6331494721e8",
+        "score": 1
+      }
+    },
+    "visual": {
+      "image": "assets/illustrations-wuyan-gushi/007-tang-007-chun-si.png",
+      "coreImagery": [
+        "燕草",
+        "秦桑",
+        "罗帏",
+        "春风"
+      ],
+      "mood": [
+        "相思",
+        "柔婉",
+        "春怨"
+      ],
+      "palette": [
+        "桑绿",
+        "浅粉",
+        "帘白",
+        "春青"
+      ],
+      "composition": "帘幕半卷，桑叶与远草在春风里相望，室内留一角静空。",
+      "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+      "prompt": "春思，李白。核心意象：燕草、秦桑、罗帏、春风；情绪：相思、柔婉、春怨。帘幕半卷，桑叶与远草在春风里相望，室内留一角静空。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+      "generatedAt": "2026-05-10T15:05:28+00:00",
+      "generator": "procedural-watercolor"
+    }
+  }
+}

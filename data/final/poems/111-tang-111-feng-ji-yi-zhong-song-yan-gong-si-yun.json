@@ -1,0 +1,489 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-111-feng-ji-yi-zhong-song-yan-gong-si-yun",
+    "order": 111,
+    "section": "五言律诗",
+    "title": "奉济驿重送严公四韵",
+    "titleTraditional": "奉濟驛重送嚴公四韻",
+    "author": "杜甫",
+    "authorTraditional": "杜甫",
+    "dynasty": "唐代",
+    "aliases": [
+      "奉济驿重送严公四韵"
+    ],
+    "lines": [
+      "远送从此别，青山空复情。",
+      "几时杯重把，昨夜月同行。",
+      "列郡讴歌惜，三朝出入荣。",
+      "将村独归处，寂寞养残生。"
+    ],
+    "linesTraditional": [
+      "遠送從此別，青山空復情。",
+      "幾時杯重把，昨夜月同行。",
+      "列郡謳歌惜，三朝出入榮。",
+      "將村獨歸處，寂寞養殘生。"
+    ],
+    "text": "远送从此别，青山空复情。几时杯重把，昨夜月同行。列郡讴歌惜，三朝出入荣。将村独归处，寂寞养残生。",
+    "textTraditional": "遠送從此別，青山空復情。幾時杯重把，昨夜月同行。列郡謳歌惜，三朝出入榮。將村獨歸處，寂寞養殘生。",
+    "displayLines": [
+      "远送从此别，",
+      "青山空复情。",
+      "几时杯重把，",
+      "昨夜月同行。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "送",
+          "sòng"
+        ],
+        [
+          "从",
+          "cóng"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "杯",
+          "bēi"
+        ],
+        [
+          "重",
+          "zhòng"
+        ],
+        [
+          "把",
+          "bǎ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "昨",
+          "zuó"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "同",
+          "tóng"
+        ],
+        [
+          "行",
+          "háng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "列",
+          "liè"
+        ],
+        [
+          "郡",
+          "jùn"
+        ],
+        [
+          "讴",
+          "ōu"
+        ],
+        [
+          "歌",
+          "gē"
+        ],
+        [
+          "惜",
+          "xī"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "出",
+          "chū"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "荣",
+          "róng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "将",
+          "jiāng"
+        ],
+        [
+          "村",
+          "cūn"
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "寂",
+          "jì"
+        ],
+        [
+          "寞",
+          "mò"
+        ],
+        [
+          "养",
+          "yǎng"
+        ],
+        [
+          "残",
+          "cán"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "送",
+          "sòng"
+        ],
+        [
+          "从",
+          "cóng"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "杯",
+          "bēi"
+        ],
+        [
+          "重",
+          "zhòng"
+        ],
+        [
+          "把",
+          "bǎ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "昨",
+          "zuó"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "同",
+          "tóng"
+        ],
+        [
+          "行",
+          "háng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "列",
+          "liè"
+        ],
+        [
+          "郡",
+          "jùn"
+        ],
+        [
+          "讴",
+          "ōu"
+        ],
+        [
+          "歌",
+          "gē"
+        ],
+        [
+          "惜",
+          "xī"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "出",
+          "chū"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "荣",
+          "róng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "将",
+          "jiāng"
+        ],
+        [
+          "村",
+          "cūn"
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "寂",
+          "jì"
+        ],
+        [
+          "寞",
+          "mò"
+        ],
+        [
+          "养",
+          "yǎng"
+        ],
+        [
+          "残",
+          "cán"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言律诗",
+      "送别",
+      "惜别"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseDuFuAFAREWELLATFENGJISTATIONTOGENERALYAN",
+      "translationRaw": "Thisiswhereyourcomrademustleaveyou，Turningatthefootofthesepurplemountains。。。。Whenshallweliftourcupsagain，Iwonder，Aswedidlastnightandwalkinthemoon？TheregionismurmuringfarewellToonewhowashonouredthroughthreereigns；AndbackIgonowtomyriver-village，Intothefinalsolitude。",
+      "translationClean": "Thisiswhereyourcomrademustleaveyou, Turningatthefootofthesepurplemountains.... Whenshallweliftourcupsagain, Iwonder, Aswedidlastnightandwalkinthemoon? TheregionismurmuringfarewellToonewhowashonouredthroughthreereigns; AndbackIgonowtomyriver-village, Intothefinalsolitude.",
+      "segments": [
+        "Thisiswhereyourcomrademustleaveyou, Turningatthefootofthesepurplemountains....",
+        "Whenshallweliftourcupsagain, Iwonder, Aswedidlastnightandwalkinthemoon?",
+        "TheregionismurmuringfarewellToonewhowashonouredthroughthreereigns;",
+        "AndbackIgonowtomyriver-village, Intothefinalsolitude."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 30,
+        "title": "奉济驿重送严公四韵",
+        "author": "杜甫"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9805
+      },
+      "ctext": {
+        "matched": true,
+        "order": 111,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 208,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "c2c83ee2-940f-4ae3-9ab3-4f509d2991f3",
+        "score": 0.975
+      }
+    }
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-244-jiang-xue",
+    "order": 244,
+    "section": "五言绝句",
+    "title": "江雪",
+    "titleTraditional": "江雪",
+    "author": "柳宗元",
+    "authorTraditional": "柳宗元",
+    "dynasty": "唐代",
+    "aliases": [
+      "江雪"
+    ],
+    "lines": [
+      "千山鸟飞绝，万径人踪灭。",
+      "孤舟蓑笠翁，独钓寒江雪。"
+    ],
+    "linesTraditional": [
+      "千山鳥飛絕，萬徑人蹤滅。",
+      "孤舟簑笠翁，獨釣寒江雪。"
+    ],
+    "text": "千山鸟飞绝，万径人踪灭。孤舟蓑笠翁，独钓寒江雪。",
+    "textTraditional": "千山鳥飛絕，萬徑人蹤滅。孤舟簑笠翁，獨釣寒江雪。",
+    "displayLines": [
+      "千山鸟飞绝，",
+      "万径人踪灭。",
+      "孤舟蓑笠翁，",
+      "独钓寒江雪。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "千",
+          "qiān"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "绝",
+          "jué"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "径",
+          "jìng"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "踪",
+          "zōng"
+        ],
+        [
+          "灭",
+          "miè"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "舟",
+          "zhōu"
+        ],
+        [
+          "蓑",
+          "suō"
+        ],
+        [
+          "笠",
+          "lì"
+        ],
+        [
+          "翁",
+          "wēng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "钓",
+          "diào"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "雪",
+          "xuě"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "千",
+          "qiān"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "绝",
+          "jué"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "径",
+          "jìng"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "踪",
+          "zōng"
+        ],
+        [
+          "灭",
+          "miè"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "舟",
+          "zhōu"
+        ],
+        [
+          "蓑",
+          "suō"
+        ],
+        [
+          "笠",
+          "lì"
+        ],
+        [
+          "翁",
+          "wēng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "钓",
+          "diào"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "雪",
+          "xuě"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言绝句",
+      "写雪",
+      "山水",
+      "冬天",
+      "雪",
+      "冬",
+      "写景",
+      "写鸟",
+      "鸟"
+    ],
+    "english": {
+      "headingRaw": "Five-character-quatrainLiuZongyuanRIVER-SNOW",
+      "translationRaw": "Ahundredmountainsandnobird，Athousandpathswithoutafootprint；Alittleboat，abamboocloak，Anoldmanfishinginthecoldriver-snow。",
+      "translationClean": "Ahundredmountainsandnobird, Athousandpathswithoutafootprint; Alittleboat, abamboocloak, Anoldmanfishinginthecoldriver-snow.",
+      "segments": [
+        "Ahundredmountainsandnobird, Athousandpathswithoutafootprint;",
+        "Alittleboat, abamboocloak, Anoldmanfishinginthecoldriver-snow."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 118,
+        "title": "江雪",
+        "author": "柳宗元"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 244,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 111,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "1f92134b-bca9-46eb-b2fe-87b30413041a",
+        "score": 0.95
+      }
+    }
+  }
+}

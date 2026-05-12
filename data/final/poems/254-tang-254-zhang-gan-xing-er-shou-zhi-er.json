@@ -1,0 +1,288 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-254-zhang-gan-xing-er-shou-zhi-er",
+    "order": 254,
+    "section": "乐府",
+    "title": "长干行二首之二",
+    "titleTraditional": "長幹行二首之二",
+    "author": "崔颢",
+    "authorTraditional": "崔顥",
+    "dynasty": "唐代",
+    "aliases": [
+      "长干行·家临九江水",
+      "长干行二首之二"
+    ],
+    "lines": [
+      "家临九江水，来去九江侧。",
+      "同是长干人，生小不相识。"
+    ],
+    "linesTraditional": [
+      "家臨九江水，來去九江側。",
+      "同是長干人，生小不相識。"
+    ],
+    "text": "家临九江水，来去九江侧。同是长干人，生小不相识。",
+    "textTraditional": "家臨九江水，來去九江側。同是長干人，生小不相識。",
+    "displayLines": [
+      "家临九江水，",
+      "来去九江侧。",
+      "同是长干人，",
+      "生小不相识。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "临",
+          "lín"
+        ],
+        [
+          "九",
+          "jiǔ"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "九",
+          "jiǔ"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "侧",
+          "cè"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "同",
+          "tóng"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "长",
+          "zhǎng"
+        ],
+        [
+          "干",
+          "gàn"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "小",
+          "xiǎo"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "识",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "临",
+          "lín"
+        ],
+        [
+          "九",
+          "jiǔ"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "九",
+          "jiǔ"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "侧",
+          "cè"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "同",
+          "tóng"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "长",
+          "zhǎng"
+        ],
+        [
+          "干",
+          "gàn"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "小",
+          "xiǎo"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "识",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "乐府",
+      "家乡",
+      "女子",
+      "热爱"
+    ],
+    "english": {
+      "headingRaw": "Folk-song-styled-verseCuiHaoASONGOFCHANGGANII",
+      "translationRaw": "\"Yes，Ilivehere，bytheriver；Ihavesailedonitmanyandmanyatime。BothofusborninChanggan，youandI！Whyhaven』twealwaysknowneachother？\"",
+      "translationClean": "\"Yes, Ilivehere, bytheriver; Ihavesailedonitmanyandmanyatime. BothofusborninChanggan, youandI! Whyhaven'twealwaysknowneachother? \"",
+      "segments": [
+        "\"Yes, Ilivehere, bytheriver;",
+        "Ihavesailedonitmanyandmanyatime.",
+        "BothofusborninChanggan, youandI!",
+        "Whyhaven'twealwaysknowneachother?",
+        "\""
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 106,
+        "title": "长干行·家临九江水",
+        "author": "崔颢"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.932
+      },
+      "ctext": {
+        "matched": true,
+        "order": 254,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 121,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "4a732464-35a5-4ffc-94d0-37d653eef2a1",
+        "score": 0.95
+      }
+    }
+  }
+}

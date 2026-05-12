@@ -1,0 +1,351 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-283-zeng-nei-ren",
+    "order": 283,
+    "section": "七言绝句",
+    "title": "赠内人",
+    "titleTraditional": "贈內人",
+    "author": "张祜",
+    "authorTraditional": "張祜",
+    "dynasty": "唐代",
+    "aliases": [
+      "赠内人"
+    ],
+    "lines": [
+      "禁门宫树月痕过，媚眼惟看宿鹭窠。",
+      "斜拔玉钗灯影畔，剔开红燄救飞蛾。"
+    ],
+    "linesTraditional": [
+      "禁門宮樹月痕過，媚眼惟看宿鷺窠。",
+      "斜拔玉釵燈影畔，剔開紅燄救飛蛾。"
+    ],
+    "text": "禁门宫树月痕过，媚眼惟看宿鹭窠。斜拔玉钗灯影畔，剔开红燄救飞蛾。",
+    "textTraditional": "禁門宮樹月痕過，媚眼惟看宿鷺窠。斜拔玉釵燈影畔，剔開紅燄救飛蛾。",
+    "displayLines": [
+      "禁门宫树月痕过，",
+      "媚眼惟看宿鹭窠。",
+      "斜拔玉钗灯影畔，",
+      "剔开红燄救飞蛾。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "禁",
+          "jìn"
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "树",
+          "shù"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "痕",
+          "hén"
+        ],
+        [
+          "过",
+          "guò"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "媚",
+          "mèi"
+        ],
+        [
+          "眼",
+          "yǎn"
+        ],
+        [
+          "惟",
+          "wéi"
+        ],
+        [
+          "看",
+          "kàn"
+        ],
+        [
+          "宿",
+          "sù"
+        ],
+        [
+          "鹭",
+          "lù"
+        ],
+        [
+          "窠",
+          "kē"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "斜",
+          "xié"
+        ],
+        [
+          "拔",
+          "bá"
+        ],
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "钗",
+          "chāi"
+        ],
+        [
+          "灯",
+          "dēng"
+        ],
+        [
+          "影",
+          "yǐng"
+        ],
+        [
+          "畔",
+          "pàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "剔",
+          "tī"
+        ],
+        [
+          "开",
+          "kāi"
+        ],
+        [
+          "红",
+          "hóng"
+        ],
+        [
+          "燄",
+          "yàn"
+        ],
+        [
+          "救",
+          "jiù"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "蛾",
+          "é"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "禁",
+          "jìn"
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "树",
+          "shù"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "痕",
+          "hén"
+        ],
+        [
+          "过",
+          "guò"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "媚",
+          "mèi"
+        ],
+        [
+          "眼",
+          "yǎn"
+        ],
+        [
+          "惟",
+          "wéi"
+        ],
+        [
+          "看",
+          "kàn"
+        ],
+        [
+          "宿",
+          "sù"
+        ],
+        [
+          "鹭",
+          "lù"
+        ],
+        [
+          "窠",
+          "kē"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "斜",
+          "xié"
+        ],
+        [
+          "拔",
+          "bá"
+        ],
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "钗",
+          "chāi"
+        ],
+        [
+          "灯",
+          "dēng"
+        ],
+        [
+          "影",
+          "yǐng"
+        ],
+        [
+          "畔",
+          "pàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "剔",
+          "tī"
+        ],
+        [
+          "开",
+          "kāi"
+        ],
+        [
+          "红",
+          "hóng"
+        ],
+        [
+          "燄",
+          "yàn"
+        ],
+        [
+          "救",
+          "jiù"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "蛾",
+          "é"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.内人：指宫女。"
+      }
+    ],
+    "tags": [
+      "七言绝句",
+      "宫怨",
+      "女子"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainZhangHuOFONEINTHEFORBIDDENCITY",
+      "translationRaw": "Whenthemoonlight，reachingatreebythegate，Showsheraquietbirdonitsnest，SheremovesherjadehairpinsandsitsintheshadowAndputsoutaflamewhereamothwasflying。",
+      "translationClean": "Whenthemoonlight, reachingatreebythegate, Showsheraquietbirdonitsnest, SheremovesherjadehairpinsandsitsintheshadowAndputsoutaflamewhereamothwasflying.",
+      "segments": [
+        "Whenthemoonlight, reachingatreebythegate, Showsheraquietbirdonitsnest, SheremovesherjadehairpinsandsitsintheshadowAndputsoutaflamewhereamothwasflying."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 206,
+        "title": "赠内人",
+        "author": "张祜"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9721
+      },
+      "ctext": {
+        "matched": true,
+        "order": 283,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 156,
+        "score": 0.9643,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "84bd91bd-11f7-4218-b9e2-b05b06ce8b99",
+        "score": 0.9286
+      }
+    }
+  }
+}

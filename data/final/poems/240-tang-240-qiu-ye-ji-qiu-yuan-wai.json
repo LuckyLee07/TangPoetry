@@ -1,0 +1,284 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-240-qiu-ye-ji-qiu-yuan-wai",
+    "order": 240,
+    "section": "五言绝句",
+    "title": "秋夜寄邱员外",
+    "titleTraditional": "秋夜寄邱員外",
+    "author": "韦应物",
+    "authorTraditional": "韋應物",
+    "dynasty": "唐代",
+    "aliases": [
+      "秋夜寄邱员外 / 秋夜寄丘二十二员外",
+      "秋夜寄邱员外"
+    ],
+    "lines": [
+      "怀君属秋夜，散步咏凉天。",
+      "空山松子落，幽人应未眠。"
+    ],
+    "linesTraditional": [
+      "懷君屬秋夜，散步詠涼天。",
+      "空山松子落，幽人應未眠。"
+    ],
+    "text": "怀君属秋夜，散步咏凉天。空山松子落，幽人应未眠。",
+    "textTraditional": "懷君屬秋夜，散步詠涼天。空山松子落，幽人應未眠。",
+    "displayLines": [
+      "怀君属秋夜，",
+      "散步咏凉天。",
+      "空山松子落，",
+      "幽人应未眠。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "怀",
+          "huái"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "属",
+          "shǔ"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "散",
+          "sàn"
+        ],
+        [
+          "步",
+          "bù"
+        ],
+        [
+          "咏",
+          "yǒng"
+        ],
+        [
+          "凉",
+          "liáng"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "松",
+          "sōng"
+        ],
+        [
+          "子",
+          "zi"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "幽",
+          "yōu"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "应",
+          "yīng"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "眠",
+          "mián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "怀",
+          "huái"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "属",
+          "shǔ"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "散",
+          "sàn"
+        ],
+        [
+          "步",
+          "bù"
+        ],
+        [
+          "咏",
+          "yǒng"
+        ],
+        [
+          "凉",
+          "liáng"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "松",
+          "sōng"
+        ],
+        [
+          "子",
+          "zi"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "幽",
+          "yōu"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "应",
+          "yīng"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "眠",
+          "mián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言绝句",
+      "秋天",
+      "怀人"
+    ],
+    "english": {
+      "headingRaw": "Five-character-quatrainWeiYingwuANAUTUMNNIGHTMESSAGETOQIU",
+      "translationRaw": "AsIwalkinthecooloftheautumnnight，Thinkingofyou，singingmypoem，Ihearamountainpine-conefall。。。。Youalsoseemtobeawake。",
+      "translationClean": "AsIwalkinthecooloftheautumnnight, Thinkingofyou, singingmypoem, Ihearamountainpine-conefall.... Youalsoseemtobeawake.",
+      "segments": [
+        "AsIwalkinthecooloftheautumnnight, Thinkingofyou, singingmypoem, Ihearamountainpine-conefall....",
+        "Youalsoseemtobeawake."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 22,
+        "title": "秋夜寄邱员外 / 秋夜寄丘二十二员外",
+        "author": "韦应物"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 240,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 107,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "96455db1-a0c6-402c-8892-05c6b9a3d029",
+        "score": 0.95
+      }
+    }
+  }
+}

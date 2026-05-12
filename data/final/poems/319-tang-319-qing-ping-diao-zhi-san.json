@@ -1,0 +1,345 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-319-qing-ping-diao-zhi-san",
+    "order": 319,
+    "section": "乐府",
+    "title": "清平调之三",
+    "titleTraditional": "清平調之三",
+    "author": "李白",
+    "authorTraditional": "李白",
+    "dynasty": "唐代",
+    "aliases": [
+      "清平调·名花倾国两相欢",
+      "清平调之三"
+    ],
+    "lines": [
+      "名花倾国两相欢，常得君王带笑看。",
+      "解释春风无限恨，沈香亭北倚阑干。"
+    ],
+    "linesTraditional": [
+      "名花傾國兩相歡，常得君王帶笑看。",
+      "解釋春風無限恨，沈香亭北倚闌幹。"
+    ],
+    "text": "名花倾国两相欢，常得君王带笑看。解释春风无限恨，沈香亭北倚阑干。",
+    "textTraditional": "名花傾國兩相歡，常得君王帶笑看。解釋春風無限恨，沈香亭北倚闌幹。",
+    "displayLines": [
+      "名花倾国两相欢，",
+      "常得君王带笑看。",
+      "解释春风无限恨，",
+      "沈香亭北倚阑干。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "名",
+          "míng"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "倾",
+          "qīng"
+        ],
+        [
+          "国",
+          "guó"
+        ],
+        [
+          "两",
+          "liǎng"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "欢",
+          "huān"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "常",
+          "cháng"
+        ],
+        [
+          "得",
+          "dé"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "王",
+          "wáng"
+        ],
+        [
+          "带",
+          "dài"
+        ],
+        [
+          "笑",
+          "xiào"
+        ],
+        [
+          "看",
+          "kàn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "解",
+          "jiě"
+        ],
+        [
+          "释",
+          "shì"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "限",
+          "xiàn"
+        ],
+        [
+          "恨",
+          "hèn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "沈",
+          "shěn"
+        ],
+        [
+          "香",
+          "xiāng"
+        ],
+        [
+          "亭",
+          "tíng"
+        ],
+        [
+          "北",
+          "běi"
+        ],
+        [
+          "倚",
+          "yǐ"
+        ],
+        [
+          "阑",
+          "lán"
+        ],
+        [
+          "干",
+          "gān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "名",
+          "míng"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "倾",
+          "qīng"
+        ],
+        [
+          "国",
+          "guó"
+        ],
+        [
+          "两",
+          "liǎng"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "欢",
+          "huān"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "常",
+          "cháng"
+        ],
+        [
+          "得",
+          "dé"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "王",
+          "wáng"
+        ],
+        [
+          "带",
+          "dài"
+        ],
+        [
+          "笑",
+          "xiào"
+        ],
+        [
+          "看",
+          "kàn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "解",
+          "jiě"
+        ],
+        [
+          "释",
+          "shì"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "限",
+          "xiàn"
+        ],
+        [
+          "恨",
+          "hèn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "沈",
+          "shěn"
+        ],
+        [
+          "香",
+          "xiāng"
+        ],
+        [
+          "亭",
+          "tíng"
+        ],
+        [
+          "北",
+          "běi"
+        ],
+        [
+          "倚",
+          "yǐ"
+        ],
+        [
+          "阑",
+          "lán"
+        ],
+        [
+          "干",
+          "gān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "乐府"
+    ],
+    "english": {
+      "headingRaw": "Folk-song-styled-verseLiBaiASONGOFPUREHAPPINESSIII",
+      "translationRaw": "Lovelynowtogether，hisladyandhisflowersLightenforevertheEmperor』seye，AshelistenstothesighingofthefarspringwindWheresheleansonarailingintheAloePavilion。",
+      "translationClean": "Lovelynowtogether, hisladyandhisflowersLightenforevertheEmperor'seye, AshelistenstothesighingofthefarspringwindWheresheleansonarailingintheAloePavilion.",
+      "segments": [
+        "Lovelynowtogether, hisladyandhisflowersLightenforevertheEmperor'seye, AshelistenstothesighingofthefarspringwindWheresheleansonarailingintheAloePavilion."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 51,
+        "title": "清平调·名花倾国两相欢",
+        "author": "李白"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.8739
+      },
+      "ctext": {
+        "matched": true,
+        "order": 319,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 142,
+        "score": 0.9286,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": false,
+        "id": null,
+        "score": null
+      }
+    }
+  }
+}

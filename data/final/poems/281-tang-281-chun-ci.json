@@ -1,0 +1,358 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-281-chun-ci",
+    "order": 281,
+    "section": "七言绝句",
+    "title": "春词",
+    "titleTraditional": "春詞",
+    "author": "刘禹锡",
+    "authorTraditional": "劉禹錫",
+    "dynasty": "唐代",
+    "aliases": [
+      "和乐天春词",
+      "春词"
+    ],
+    "lines": [
+      "新妆宜面下朱楼，深锁春光一院愁。",
+      "行到中庭数花朵，蜻蜓飞上玉搔头。"
+    ],
+    "linesTraditional": [
+      "新妝宜面下朱樓，深鎖春光一院愁。",
+      "行到中庭數花朵，蜻蜓飛上玉搔頭。"
+    ],
+    "text": "新妆宜面下朱楼，深锁春光一院愁。行到中庭数花朵，蜻蜓飞上玉搔头。",
+    "textTraditional": "新妝宜面下朱樓，深鎖春光一院愁。行到中庭數花朵，蜻蜓飛上玉搔頭。",
+    "displayLines": [
+      "新妆宜面下朱楼，",
+      "深锁春光一院愁。",
+      "行到中庭数花朵，",
+      "蜻蜓飞上玉搔头。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "妆",
+          "zhuāng"
+        ],
+        [
+          "宜",
+          "yí"
+        ],
+        [
+          "面",
+          "miàn"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "朱",
+          "zhū"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "锁",
+          "suǒ"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "光",
+          "guāng"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "院",
+          "yuàn"
+        ],
+        [
+          "愁",
+          "chóu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "到",
+          "dào"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "庭",
+          "tíng"
+        ],
+        [
+          "数",
+          "shù"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "朵",
+          "duǒ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "蜻",
+          "qīng"
+        ],
+        [
+          "蜓",
+          "tíng"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "搔",
+          "sāo"
+        ],
+        [
+          "头",
+          "tóu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "妆",
+          "zhuāng"
+        ],
+        [
+          "宜",
+          "yí"
+        ],
+        [
+          "面",
+          "miàn"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "朱",
+          "zhū"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "锁",
+          "suǒ"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "光",
+          "guāng"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "院",
+          "yuàn"
+        ],
+        [
+          "愁",
+          "chóu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "到",
+          "dào"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "庭",
+          "tíng"
+        ],
+        [
+          "数",
+          "shù"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "朵",
+          "duǒ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "蜻",
+          "qīng"
+        ],
+        [
+          "蜓",
+          "tíng"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "搔",
+          "sāo"
+        ],
+        [
+          "头",
+          "tóu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.朱楼：深红色的楼，称宫女所居的楼。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.玉搔头：用玉制的一种首饰。"
+      }
+    ],
+    "tags": [
+      "七言绝句",
+      "孤独",
+      "春天",
+      "女子"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainLiuYuxiASPRINGSONG",
+      "translationRaw": "IngalarobesshecomesdownfromherchamberIntohercourtyard，enclosureofspring。。。。Whenshetriesfromthecentretocounttheflowers，Onherhairpinofjadeadragon-flypoises。",
+      "translationClean": "IngalarobesshecomesdownfromherchamberIntohercourtyard, enclosureofspring.... Whenshetriesfromthecentretocounttheflowers, Onherhairpinofjadeadragon-flypoises.",
+      "segments": [
+        "IngalarobesshecomesdownfromherchamberIntohercourtyard, enclosureofspring....",
+        "Whenshetriesfromthecentretocounttheflowers, Onherhairpinofjadeadragon-flypoises."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 97,
+        "title": "和乐天春词",
+        "author": "刘禹锡"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9271
+      },
+      "ctext": {
+        "matched": true,
+        "order": 281,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 154,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "297dd100-6aab-4685-a52d-983fb0999c7a",
+        "score": 0.9643
+      }
+    }
+  }
+}

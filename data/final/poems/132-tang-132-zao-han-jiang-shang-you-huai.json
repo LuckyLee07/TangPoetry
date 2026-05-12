@@ -1,0 +1,503 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-132-zao-han-jiang-shang-you-huai",
+    "order": 132,
+    "section": "五言律诗",
+    "title": "早寒江上有怀",
+    "titleTraditional": "早寒江上有懷",
+    "author": "孟浩然",
+    "authorTraditional": "孟浩然",
+    "dynasty": "唐代",
+    "aliases": [
+      "早寒江上有怀 / 早寒有怀",
+      "早寒江上有怀"
+    ],
+    "lines": [
+      "木落雁南渡，北风江上寒。",
+      "我家襄水曲，遥隔楚云端。",
+      "乡泪客中尽，孤帆天际看。",
+      "迷津欲有问，平海夕漫漫。"
+    ],
+    "linesTraditional": [
+      "木落雁南渡，北風江上寒。",
+      "我家襄水曲，遙隔楚雲端。",
+      "鄉淚客中盡，孤帆天際看。",
+      "迷津欲有問，平海夕漫漫。"
+    ],
+    "text": "木落雁南渡，北风江上寒。我家襄水曲，遥隔楚云端。乡泪客中尽，孤帆天际看。迷津欲有问，平海夕漫漫。",
+    "textTraditional": "木落雁南渡，北風江上寒。我家襄水曲，遙隔楚雲端。鄉淚客中盡，孤帆天際看。迷津欲有問，平海夕漫漫。",
+    "displayLines": [
+      "木落雁南渡，",
+      "北风江上寒。",
+      "我家襄水曲，",
+      "遥隔楚云端。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "木",
+          "mù"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "雁",
+          "yàn"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "渡",
+          "dù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "北",
+          "běi"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "我",
+          "wǒ"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "襄",
+          "xiāng"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "曲",
+          "qū"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "遥",
+          "yáo"
+        ],
+        [
+          "隔",
+          "gé"
+        ],
+        [
+          "楚",
+          "chǔ"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "端",
+          "duān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "尽",
+          "jǐn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "帆",
+          "fān"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "际",
+          "jì"
+        ],
+        [
+          "看",
+          "kàn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "迷",
+          "mí"
+        ],
+        [
+          "津",
+          "jīn"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "平",
+          "píng"
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "夕",
+          "xī"
+        ],
+        [
+          "漫",
+          "màn"
+        ],
+        [
+          "漫",
+          "màn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "木",
+          "mù"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "雁",
+          "yàn"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "渡",
+          "dù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "北",
+          "běi"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "我",
+          "wǒ"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "襄",
+          "xiāng"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "曲",
+          "qū"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "遥",
+          "yáo"
+        ],
+        [
+          "隔",
+          "gé"
+        ],
+        [
+          "楚",
+          "chǔ"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "端",
+          "duān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "尽",
+          "jǐn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "帆",
+          "fān"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "际",
+          "jì"
+        ],
+        [
+          "看",
+          "kàn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "迷",
+          "mí"
+        ],
+        [
+          "津",
+          "jīn"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "平",
+          "píng"
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "夕",
+          "xī"
+        ],
+        [
+          "漫",
+          "màn"
+        ],
+        [
+          "漫",
+          "màn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "孤帆--一作 ：归帆"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "八年级上册(课外)",
+      "思归",
+      "初中古诗",
+      "思乡"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseMengHaoranMEMORIESINEARLYWINTER",
+      "translationRaw": "Southgothewildgesse，forleavesarenowfalling，Andthewateriscoldwithawindfromthenorth。Iremembermyhome；buttheXiangRiver』scurvesArewalledbythecloudsofthissoutherncountry。Igoforward。Iweeptillmytearsarespent。Iseeasailinthefarsky。Whereistheferry？Willsomebodytellme？It』sgrowingrough。It』sgrowingdark。",
+      "translationClean": "Southgothewildgesse, forleavesarenowfalling, Andthewateriscoldwithawindfromthenorth. Iremembermyhome; buttheXiangRiver'scurvesArewalledbythecloudsofthissoutherncountry. Igoforward. Iweeptillmytearsarespent. Iseeasailinthefarsky. Whereistheferry? Willsomebodytellme? It'sgrowingrough. It'sgrowingdark.",
+      "segments": [
+        "Southgothewildgesse, forleavesarenowfalling, Andthewateriscoldwithawindfromthenorth.",
+        "Iremembermyhome;",
+        "buttheXiangRiver'scurvesArewalledbythecloudsofthissoutherncountry.",
+        "Igoforward.",
+        "Iweeptillmytearsarespent.",
+        "Iseeasailinthefarsky.",
+        "Whereistheferry?",
+        "Willsomebodytellme?",
+        "It'sgrowingrough.",
+        "It'sgrowingdark."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 44,
+        "title": "早寒江上有怀 / 早寒有怀",
+        "author": "孟浩然"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9805
+      },
+      "ctext": {
+        "matched": true,
+        "order": 132,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 229,
+        "score": 0.975,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "8e18183e-5a58-4805-b672-1726969d6526",
+        "score": 0.975
+      }
+    }
+  }
+}

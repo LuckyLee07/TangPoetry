@@ -1,0 +1,292 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-237-song-ling-che",
+    "order": 237,
+    "section": "五言绝句",
+    "title": "送灵澈",
+    "titleTraditional": "送靈澈",
+    "author": "刘长卿",
+    "authorTraditional": "劉長卿",
+    "dynasty": "唐代",
+    "aliases": [
+      "送灵澈上人",
+      "送灵澈"
+    ],
+    "lines": [
+      "苍苍竹林寺，杳杳钟声晚。",
+      "荷笠带斜阳，青山独归远。"
+    ],
+    "linesTraditional": [
+      "蒼蒼竹林寺，杳杳鐘聲晚。",
+      "荷笠帶斜陽，青山獨歸遠。"
+    ],
+    "text": "苍苍竹林寺，杳杳钟声晚。荷笠带斜阳，青山独归远。",
+    "textTraditional": "蒼蒼竹林寺，杳杳鐘聲晚。荷笠帶斜陽，青山獨歸遠。",
+    "displayLines": [
+      "苍苍竹林寺，",
+      "杳杳钟声晚。",
+      "荷笠带斜阳，",
+      "青山独归远。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "苍",
+          "cāng"
+        ],
+        [
+          "苍",
+          "cāng"
+        ],
+        [
+          "竹",
+          "zhú"
+        ],
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "寺",
+          "sì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "杳",
+          "yǎo"
+        ],
+        [
+          "杳",
+          "yǎo"
+        ],
+        [
+          "钟",
+          "zhōng"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "晚",
+          "wǎn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "荷",
+          "hé"
+        ],
+        [
+          "笠",
+          "lì"
+        ],
+        [
+          "带",
+          "dài"
+        ],
+        [
+          "斜",
+          "xié"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "苍",
+          "cāng"
+        ],
+        [
+          "苍",
+          "cāng"
+        ],
+        [
+          "竹",
+          "zhú"
+        ],
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "寺",
+          "sì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "杳",
+          "yǎo"
+        ],
+        [
+          "杳",
+          "yǎo"
+        ],
+        [
+          "钟",
+          "zhōng"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "晚",
+          "wǎn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "荷",
+          "hé"
+        ],
+        [
+          "笠",
+          "lì"
+        ],
+        [
+          "带",
+          "dài"
+        ],
+        [
+          "斜",
+          "xié"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "斜阳--一作 ：夕阳"
+      }
+    ],
+    "tags": [
+      "五言绝句",
+      "山水",
+      "抒情",
+      "送别",
+      "初中古诗",
+      "即景抒情",
+      "七年级下册(课外)"
+    ],
+    "english": {
+      "headingRaw": "Five-character-quatrainLiuChangqingONPARTINGWITHTHEBUDDHISTPILGRIMLINGCHE",
+      "translationRaw": "Fromthetemple，deepinitstenderbamboos，Comesthelowsoundofaneveningbell，WhilethehatofapilgrimcarriesthesunsetFartherandfartherdownthegreenmountain。",
+      "translationClean": "Fromthetemple, deepinitstenderbamboos, Comesthelowsoundofaneveningbell, WhilethehatofapilgrimcarriesthesunsetFartherandfartherdownthegreenmountain.",
+      "segments": [
+        "Fromthetemple, deepinitstenderbamboos, Comesthelowsoundofaneveningbell, WhilethehatofapilgrimcarriesthesunsetFartherandfartherdownthegreenmountain."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 43,
+        "title": "送灵澈上人",
+        "author": "刘长卿"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9575
+      },
+      "ctext": {
+        "matched": true,
+        "order": 237,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 104,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "a746d1f0-a72c-44d2-8b1c-c5c990749257",
+        "score": 0.95
+      }
+    }
+  }
+}

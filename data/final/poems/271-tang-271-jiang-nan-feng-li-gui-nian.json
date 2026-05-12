@@ -1,0 +1,350 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-271-jiang-nan-feng-li-gui-nian",
+    "order": 271,
+    "section": "七言绝句",
+    "title": "江南逢李龟年",
+    "titleTraditional": "江南逢李龜年",
+    "author": "杜甫",
+    "authorTraditional": "杜甫",
+    "dynasty": "唐代",
+    "aliases": [
+      "江南逢李龟年"
+    ],
+    "lines": [
+      "岐王宅里寻常见，崔九堂前几度闻。",
+      "正是江南好风景，落花时节又逢君。"
+    ],
+    "linesTraditional": [
+      "岐王宅裡尋常見，崔九堂前幾度聞。",
+      "正是江南好風景，落花時節又逢君。"
+    ],
+    "text": "岐王宅里寻常见，崔九堂前几度闻。正是江南好风景，落花时节又逢君。",
+    "textTraditional": "岐王宅裡尋常見，崔九堂前幾度聞。正是江南好風景，落花時節又逢君。",
+    "displayLines": [
+      "岐王宅里寻常见，",
+      "崔九堂前几度闻。",
+      "正是江南好风景，",
+      "落花时节又逢君。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "岐",
+          "qí"
+        ],
+        [
+          "王",
+          "wáng"
+        ],
+        [
+          "宅",
+          "zhái"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "寻",
+          "xún"
+        ],
+        [
+          "常",
+          "cháng"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "崔",
+          "cuī"
+        ],
+        [
+          "九",
+          "jiǔ"
+        ],
+        [
+          "堂",
+          "táng"
+        ],
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "度",
+          "dù"
+        ],
+        [
+          "闻",
+          "wén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "正",
+          "zhèng"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "好",
+          "hǎo"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "景",
+          "jǐng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "节",
+          "jié"
+        ],
+        [
+          "又",
+          "yòu"
+        ],
+        [
+          "逢",
+          "féng"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "岐",
+          "qí"
+        ],
+        [
+          "王",
+          "wáng"
+        ],
+        [
+          "宅",
+          "zhái"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "寻",
+          "xún"
+        ],
+        [
+          "常",
+          "cháng"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "崔",
+          "cuī"
+        ],
+        [
+          "九",
+          "jiǔ"
+        ],
+        [
+          "堂",
+          "táng"
+        ],
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "度",
+          "dù"
+        ],
+        [
+          "闻",
+          "wén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "正",
+          "zhèng"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "好",
+          "hǎo"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "景",
+          "jǐng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "节",
+          "jié"
+        ],
+        [
+          "又",
+          "yòu"
+        ],
+        [
+          "逢",
+          "féng"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "七言绝句",
+      "初中古诗",
+      "怀念",
+      "感伤",
+      "七年级下册(课外)"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainDuFuONMEETINGLIGUINIANDOWNTHERIVER",
+      "translationRaw": "ImetyouoftenwhenyouwerevisitingprincesAndwhenyouwereplayinginnoblemen』shalls。。。。Springpasses。。。。Fardowntherivernow，Ifindyoualoneunderfallingpetals。",
+      "translationClean": "ImetyouoftenwhenyouwerevisitingprincesAndwhenyouwereplayinginnoblemen'shalls.... Springpasses.... Fardowntherivernow, Ifindyoualoneunderfallingpetals.",
+      "segments": [
+        "ImetyouoftenwhenyouwerevisitingprincesAndwhenyouwereplayinginnoblemen'shalls....",
+        "Springpasses....",
+        "Fardowntherivernow, Ifindyoualoneunderfallingpetals."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 107,
+        "title": "江南逢李龟年",
+        "author": "杜甫"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 271,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 144,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "ae5b1a15-0b5c-4578-8f31-1b60030633a4",
+        "score": 0.9643
+      }
+    }
+  }
+}

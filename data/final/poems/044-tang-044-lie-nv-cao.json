@@ -1,0 +1,394 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-044-lie-nv-cao",
+    "order": 44,
+    "section": "乐府",
+    "title": "烈女操",
+    "titleTraditional": "烈女操",
+    "author": "孟郊",
+    "authorTraditional": "孟郊",
+    "dynasty": "唐代",
+    "aliases": [
+      "烈女操"
+    ],
+    "lines": [
+      "梧桐相待老，鸳鸯会双死；",
+      "贞妇贵殉夫，舍生亦如此。",
+      "波澜誓不起，妾心井中水。"
+    ],
+    "linesTraditional": [
+      "梧桐相待老，鴛鴦會雙死；",
+      "貞婦貴殉夫，捨生亦如此。",
+      "波瀾誓不起，妾心井中水。"
+    ],
+    "text": "梧桐相待老，鸳鸯会双死；贞妇贵殉夫，舍生亦如此。波澜誓不起，妾心井中水。",
+    "textTraditional": "梧桐相待老，鴛鴦會雙死；貞婦貴殉夫，捨生亦如此。波瀾誓不起，妾心井中水。",
+    "displayLines": [
+      "梧桐相待老，",
+      "鸳鸯会双死；",
+      "贞妇贵殉夫，",
+      "舍生亦如此。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "梧",
+          "wú"
+        ],
+        [
+          "桐",
+          "tóng"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "待",
+          "dài"
+        ],
+        [
+          "老",
+          "lǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "鸳",
+          "yuān"
+        ],
+        [
+          "鸯",
+          "yāng"
+        ],
+        [
+          "会",
+          "huì"
+        ],
+        [
+          "双",
+          "shuāng"
+        ],
+        [
+          "死",
+          "sǐ"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "贞",
+          "zhēn"
+        ],
+        [
+          "妇",
+          "fù"
+        ],
+        [
+          "贵",
+          "guì"
+        ],
+        [
+          "殉",
+          "xùn"
+        ],
+        [
+          "夫",
+          "fū"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "舍",
+          "shě"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "亦",
+          "yì"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "波",
+          "bō"
+        ],
+        [
+          "澜",
+          "lán"
+        ],
+        [
+          "誓",
+          "shì"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "起",
+          "qǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "妾",
+          "qiè"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "井",
+          "jǐng"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "梧",
+          "wú"
+        ],
+        [
+          "桐",
+          "tóng"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "待",
+          "dài"
+        ],
+        [
+          "老",
+          "lǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "鸳",
+          "yuān"
+        ],
+        [
+          "鸯",
+          "yāng"
+        ],
+        [
+          "会",
+          "huì"
+        ],
+        [
+          "双",
+          "shuāng"
+        ],
+        [
+          "死",
+          "sǐ"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "贞",
+          "zhēn"
+        ],
+        [
+          "妇",
+          "fù"
+        ],
+        [
+          "贵",
+          "guì"
+        ],
+        [
+          "殉",
+          "xùn"
+        ],
+        [
+          "夫",
+          "fū"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "舍",
+          "shě"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "亦",
+          "yì"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "波",
+          "bō"
+        ],
+        [
+          "澜",
+          "lán"
+        ],
+        [
+          "誓",
+          "shì"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "起",
+          "qǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "妾",
+          "qiè"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "井",
+          "jǐng"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "古井水--一作 ：井中水"
+      },
+      {
+        "source": "chiuinan",
+        "text": "1.梧桐：指栖于其上之凤凰。"
+      }
+    ],
+    "tags": [
+      "乐府",
+      "赞颂",
+      "妇女"
+    ],
+    "english": {
+      "headingRaw": "Folk-song-styled-verseMengJiaoASONGOFAPURE-HEARTEDGIRL",
+      "translationRaw": "Lakka-treesripentwobytwoAndmandarin-ducksdiesidebyside。Ifatrue-heartedgirlwillloveonlyherhusband，Inalifeasfaithfullylivedastheirs，WhattroublingwavecanarrivetovexAspiritlikewaterinatimelesswell？",
+      "translationClean": "Lakka-treesripentwobytwoAndmandarin-ducksdiesidebyside. Ifatrue-heartedgirlwillloveonlyherhusband, Inalifeasfaithfullylivedastheirs, WhattroublingwavecanarrivetovexAspiritlikewaterinatimelesswell?",
+      "segments": [
+        "Lakka-treesripentwobytwoAndmandarin-ducksdiesidebyside.",
+        "Ifatrue-heartedgirlwillloveonlyherhusband, Inalifeasfaithfullylivedastheirs, WhattroublingwavecanarrivetovexAspiritlikewaterinatimelesswell?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 121,
+        "title": "烈女操",
+        "author": "孟郊"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.948
+      },
+      "ctext": {
+        "matched": true,
+        "order": 44,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 44,
+        "score": 0.9667,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "a9d3bfca-8402-4946-ad02-53db1964a3b2",
+        "score": 0.9333
+      }
+    }
+  }
+}

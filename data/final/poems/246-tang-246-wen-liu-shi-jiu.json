@@ -1,0 +1,288 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-246-wen-liu-shi-jiu",
+    "order": 246,
+    "section": "五言绝句",
+    "title": "问刘十九",
+    "titleTraditional": "問劉十九",
+    "author": "白居易",
+    "authorTraditional": "白居易",
+    "dynasty": "唐代",
+    "aliases": [
+      "问刘十九"
+    ],
+    "lines": [
+      "绿螘新醅酒，红泥小火炉。",
+      "晚来天欲雪，能饮一杯无。"
+    ],
+    "linesTraditional": [
+      "綠螘新醅酒，紅泥小火爐。",
+      "晚來天欲雪，能飲一杯無。"
+    ],
+    "text": "绿螘新醅酒，红泥小火炉。晚来天欲雪，能饮一杯无。",
+    "textTraditional": "綠螘新醅酒，紅泥小火爐。晚來天欲雪，能飲一杯無。",
+    "displayLines": [
+      "绿螘新醅酒，",
+      "红泥小火炉。",
+      "晚来天欲雪，",
+      "能饮一杯无。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "绿",
+          "lǜ"
+        ],
+        [
+          "螘",
+          "yǐ"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "醅",
+          "pēi"
+        ],
+        [
+          "酒",
+          "jiǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "红",
+          "hóng"
+        ],
+        [
+          "泥",
+          "ní"
+        ],
+        [
+          "小",
+          "xiǎo"
+        ],
+        [
+          "火",
+          "huǒ"
+        ],
+        [
+          "炉",
+          "lú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "晚",
+          "wǎn"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "雪",
+          "xuě"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "能",
+          "néng"
+        ],
+        [
+          "饮",
+          "yǐn"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "杯",
+          "bēi"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "绿",
+          "lǜ"
+        ],
+        [
+          "螘",
+          "yǐ"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "醅",
+          "pēi"
+        ],
+        [
+          "酒",
+          "jiǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "红",
+          "hóng"
+        ],
+        [
+          "泥",
+          "ní"
+        ],
+        [
+          "小",
+          "xiǎo"
+        ],
+        [
+          "火",
+          "huǒ"
+        ],
+        [
+          "炉",
+          "lú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "晚",
+          "wǎn"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "雪",
+          "xuě"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "能",
+          "néng"
+        ],
+        [
+          "饮",
+          "yǐn"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "杯",
+          "bēi"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.绿螘：酒名。螘，音以。"
+      }
+    ],
+    "tags": [
+      "五言绝句",
+      "生活",
+      "饮酒",
+      "友情"
+    ],
+    "english": {
+      "headingRaw": "Five-character-quatrainBaiJuyiASUGGESTIONTOMYFRIENDLIU",
+      "translationRaw": "There』sagleamofgreeninanoldbottle，There』sastirofredinthequietstove，There』safeelingofsnowintheduskoutside--Whataboutacupofwineinside？",
+      "translationClean": "There'sagleamofgreeninanoldbottle, There'sastirofredinthequietstove, There'safeelingofsnowintheduskoutside--Whataboutacupofwineinside?",
+      "segments": [
+        "There'sagleamofgreeninanoldbottle, There'sastirofredinthequietstove, There'safeelingofsnowintheduskoutside--Whataboutacupofwineinside?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 259,
+        "title": "问刘十九",
+        "author": "白居易"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.961
+      },
+      "ctext": {
+        "matched": true,
+        "order": 246,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 113,
+        "score": 0.95,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "9972f7bb-ae5b-49e4-87df-381386af66b6",
+        "score": 0.9
+      }
+    }
+  }
+}

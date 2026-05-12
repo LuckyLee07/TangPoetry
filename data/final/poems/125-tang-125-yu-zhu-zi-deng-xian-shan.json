@@ -1,0 +1,496 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-125-yu-zhu-zi-deng-xian-shan",
+    "order": 125,
+    "section": "五言律诗",
+    "title": "与诸子登岘山",
+    "titleTraditional": "與諸子登峴山",
+    "author": "孟浩然",
+    "authorTraditional": "孟浩然",
+    "dynasty": "唐代",
+    "aliases": [
+      "与诸子登岘山"
+    ],
+    "lines": [
+      "人事有代谢，往来成古今。",
+      "江山留胜迹，我辈复登临。",
+      "水落鱼梁浅，天寒梦泽深。",
+      "羊公碑字在，读罢泪沾襟。"
+    ],
+    "linesTraditional": [
+      "人事有代謝，往來成古今。",
+      "江山留勝跡，我輩復登臨。",
+      "水落魚梁淺，天寒夢澤深。",
+      "羊公碑字在，讀罷淚沾襟。"
+    ],
+    "text": "人事有代谢，往来成古今。江山留胜迹，我辈复登临。水落鱼梁浅，天寒梦泽深。羊公碑字在，读罢泪沾襟。",
+    "textTraditional": "人事有代謝，往來成古今。江山留勝跡，我輩復登臨。水落魚梁淺，天寒夢澤深。羊公碑字在，讀罷淚沾襟。",
+    "displayLines": [
+      "人事有代谢，",
+      "往来成古今。",
+      "江山留胜迹，",
+      "我辈复登临。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "代",
+          "dài"
+        ],
+        [
+          "谢",
+          "xiè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "往",
+          "wǎng"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "成",
+          "chéng"
+        ],
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "留",
+          "liú"
+        ],
+        [
+          "胜",
+          "shèng"
+        ],
+        [
+          "迹",
+          "jì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "我",
+          "wǒ"
+        ],
+        [
+          "辈",
+          "bèi"
+        ],
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "登",
+          "dēng"
+        ],
+        [
+          "临",
+          "lín"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "鱼",
+          "yú"
+        ],
+        [
+          "梁",
+          "liáng"
+        ],
+        [
+          "浅",
+          "qiǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "泽",
+          "zé"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "羊",
+          "yáng"
+        ],
+        [
+          "公",
+          "gōng"
+        ],
+        [
+          "碑",
+          "bēi"
+        ],
+        [
+          "字",
+          "zì"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "读",
+          "dú"
+        ],
+        [
+          "罢",
+          "bà"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "沾",
+          "zhān"
+        ],
+        [
+          "襟",
+          "jīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "代",
+          "dài"
+        ],
+        [
+          "谢",
+          "xiè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "往",
+          "wǎng"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "成",
+          "chéng"
+        ],
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "留",
+          "liú"
+        ],
+        [
+          "胜",
+          "shèng"
+        ],
+        [
+          "迹",
+          "jì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "我",
+          "wǒ"
+        ],
+        [
+          "辈",
+          "bèi"
+        ],
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "登",
+          "dēng"
+        ],
+        [
+          "临",
+          "lín"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "鱼",
+          "yú"
+        ],
+        [
+          "梁",
+          "liáng"
+        ],
+        [
+          "浅",
+          "qiǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "泽",
+          "zé"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "羊",
+          "yáng"
+        ],
+        [
+          "公",
+          "gōng"
+        ],
+        [
+          "碑",
+          "bēi"
+        ],
+        [
+          "字",
+          "zì"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "读",
+          "dú"
+        ],
+        [
+          "罢",
+          "bà"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "沾",
+          "zhān"
+        ],
+        [
+          "襟",
+          "jīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "尚在--一作 ：字在"
+      },
+      {
+        "source": "chiuinan",
+        "text": "1.羊公：指晋羊祜。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "吊古伤今"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseMengHaoranONCLIMBINGYANMOUNTAINWITHFRIENDS",
+      "translationRaw": "Whileworldlymatterstaketheirturn，Ancient，modern，toandfro，RiversandmountainsarechangelessintheirgloryAndstilltobewitnessedfromthistrail。Whereafisher-boatdipsbyawaterfall，Wheretheairgrowscolder，deepinthevalley，ThemonumentofYangremains；Andwehavewept，readingthewords。",
+      "translationClean": "Whileworldlymatterstaketheirturn, Ancient, modern, toandfro, RiversandmountainsarechangelessintheirgloryAndstilltobewitnessedfromthistrail. Whereafisher-boatdipsbyawaterfall, Wheretheairgrowscolder, deepinthevalley, ThemonumentofYangremains; Andwehavewept, readingthewords.",
+      "segments": [
+        "Whileworldlymatterstaketheirturn, Ancient, modern, toandfro, RiversandmountainsarechangelessintheirgloryAndstilltobewitnessedfromthistrail.",
+        "Whereafisher-boatdipsbyawaterfall, Wheretheairgrowscolder, deepinthevalley, ThemonumentofYangremains;",
+        "Andwehavewept, readingthewords."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 122,
+        "title": "与诸子登岘山",
+        "author": "孟浩然"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9805
+      },
+      "ctext": {
+        "matched": true,
+        "order": 125,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 222,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "b71d7c9c-7e92-4797-b2c9-8715dd0c2881",
+        "score": 0.975
+      }
+    }
+  }
+}

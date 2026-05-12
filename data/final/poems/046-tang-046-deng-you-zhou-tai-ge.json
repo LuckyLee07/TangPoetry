@@ -1,0 +1,301 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-046-deng-you-zhou-tai-ge",
+    "order": 46,
+    "section": "七言古诗",
+    "title": "登幽州台歌",
+    "titleTraditional": "登幽州臺歌",
+    "author": "陈子昂",
+    "authorTraditional": "陳子昂",
+    "dynasty": "唐代",
+    "aliases": [
+      "登幽州台歌"
+    ],
+    "lines": [
+      "前不见古人，后不见来者；",
+      "念天地之悠悠，独怆然而涕下。"
+    ],
+    "linesTraditional": [
+      "前不見古人，後不見來者；",
+      "念天地之悠悠，獨愴然而涕下。"
+    ],
+    "text": "前不见古人，后不见来者；念天地之悠悠，独怆然而涕下。",
+    "textTraditional": "前不見古人，後不見來者；念天地之悠悠，獨愴然而涕下。",
+    "displayLines": [
+      "前不见古人，",
+      "后不见来者；",
+      "念天地之悠悠，",
+      "独怆然而涕下。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "不",
+          "bú"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "后",
+          "hòu"
+        ],
+        [
+          "不",
+          "bú"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "者",
+          "zhě"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "念",
+          "niàn"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "地",
+          "dì"
+        ],
+        [
+          "之",
+          "zhī"
+        ],
+        [
+          "悠",
+          "yōu"
+        ],
+        [
+          "悠",
+          "yōu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "怆",
+          "chuàng"
+        ],
+        [
+          "然",
+          "rán"
+        ],
+        [
+          "而",
+          "ér"
+        ],
+        [
+          "涕",
+          "tì"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "不",
+          "bú"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "后",
+          "hòu"
+        ],
+        [
+          "不",
+          "bú"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "者",
+          "zhě"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "念",
+          "niàn"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "地",
+          "dì"
+        ],
+        [
+          "之",
+          "zhī"
+        ],
+        [
+          "悠",
+          "yōu"
+        ],
+        [
+          "悠",
+          "yōu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "怆",
+          "chuàng"
+        ],
+        [
+          "然",
+          "rán"
+        ],
+        [
+          "而",
+          "ér"
+        ],
+        [
+          "涕",
+          "tì"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "七言古诗",
+      "八年级下册(课外)",
+      "伤怀",
+      "初中古诗"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-ancient-verseChenZiangONAGATE-TOWERATYUZHOU",
+      "translationRaw": "Where，beforeme，aretheagesthathavegone？Andwhere，behindme，arethecominggenerations？Ithinkofheavenandearth，withoutlimit，withoutend，AndIamallaloneandmytearsfalldown。",
+      "translationClean": "Where, beforeme, aretheagesthathavegone? Andwhere, behindme, arethecominggenerations? Ithinkofheavenandearth, withoutlimit, withoutend, AndIamallaloneandmytearsfalldown.",
+      "segments": [
+        "Where, beforeme, aretheagesthathavegone?",
+        "Andwhere, behindme, arethecominggenerations?",
+        "Ithinkofheavenandearth, withoutlimit, withoutend, AndIamallaloneandmytearsfalldown."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 79,
+        "title": "登幽州台歌",
+        "author": "陈子昂"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 46,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 46,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "c244a5b4-0ed0-48fe-8694-95309acac184",
+        "score": 1
+      }
+    }
+  }
+}

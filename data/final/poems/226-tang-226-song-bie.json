@@ -1,0 +1,289 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-226-song-bie",
+    "order": 226,
+    "section": "五言绝句",
+    "title": "送别",
+    "titleTraditional": "送別",
+    "author": "王维",
+    "authorTraditional": "王維",
+    "dynasty": "唐代",
+    "aliases": [
+      "送别 / 山中送别",
+      "送别"
+    ],
+    "lines": [
+      "山中相送罢，日暮掩柴扉。",
+      "春草明年绿，王孙归不归。"
+    ],
+    "linesTraditional": [
+      "山中相送罷，日暮掩柴扉。",
+      "春草明年綠，王孫歸不歸。"
+    ],
+    "text": "山中相送罢，日暮掩柴扉。春草明年绿，王孙归不归。",
+    "textTraditional": "山中相送罷，日暮掩柴扉。春草明年綠，王孫歸不歸。",
+    "displayLines": [
+      "山中相送罢，",
+      "日暮掩柴扉。",
+      "春草明年绿，",
+      "王孙归不归。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "送",
+          "sòng"
+        ],
+        [
+          "罢",
+          "bà"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "掩",
+          "yǎn"
+        ],
+        [
+          "柴",
+          "chái"
+        ],
+        [
+          "扉",
+          "fēi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "绿",
+          "lǜ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "王",
+          "wáng"
+        ],
+        [
+          "孙",
+          "sūn"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "送",
+          "sòng"
+        ],
+        [
+          "罢",
+          "bà"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "掩",
+          "yǎn"
+        ],
+        [
+          "柴",
+          "chái"
+        ],
+        [
+          "扉",
+          "fēi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "绿",
+          "lǜ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "王",
+          "wáng"
+        ],
+        [
+          "孙",
+          "sūn"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "明年--一作 ：年年"
+      }
+    ],
+    "tags": [
+      "五言绝句",
+      "送别",
+      "友情"
+    ],
+    "english": {
+      "headingRaw": "Five-character-quatrainWangWeiAPARTING",
+      "translationRaw": "Friend，IhavewatchedyoudownthemountainTillnowinthedarkIclosemythatchdoor。。。。Grassesreturnagaingreeninthespring，ButOmyPrinceofFriends，doyou？",
+      "translationClean": "Friend, IhavewatchedyoudownthemountainTillnowinthedarkIclosemythatchdoor.... Grassesreturnagaingreeninthespring, ButOmyPrinceofFriends, doyou?",
+      "segments": [
+        "Friend, IhavewatchedyoudownthemountainTillnowinthedarkIclosemythatchdoor....",
+        "Grassesreturnagaingreeninthespring, ButOmyPrinceofFriends, doyou?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 132,
+        "title": "送别 / 山中送别",
+        "author": "王维"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 226,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 92,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "c8a4faa6-8666-44f9-b4c9-df78d7af844d",
+        "score": 1
+      }
+    }
+  }
+}

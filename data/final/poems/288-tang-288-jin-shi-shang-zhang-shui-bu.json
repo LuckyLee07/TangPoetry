@@ -1,0 +1,350 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-288-jin-shi-shang-zhang-shui-bu",
+    "order": 288,
+    "section": "七言绝句",
+    "title": "近试上张水部",
+    "titleTraditional": "近試上張水部",
+    "author": "朱庆余",
+    "authorTraditional": "朱慶餘",
+    "dynasty": "唐代",
+    "aliases": [
+      "近试上张籍水部 / 近试上张水部 / 闺意献张水部",
+      "近试上张水部"
+    ],
+    "lines": [
+      "洞房昨夜停红烛，待晓堂前拜舅姑。",
+      "妆罢低声问夫婿，画眉深浅入时无。"
+    ],
+    "linesTraditional": [
+      "洞房昨夜停紅燭，待曉堂前拜舅姑。",
+      "妝罷低聲問夫婿，畫眉深淺入時無。"
+    ],
+    "text": "洞房昨夜停红烛，待晓堂前拜舅姑。妆罢低声问夫婿，画眉深浅入时无。",
+    "textTraditional": "洞房昨夜停紅燭，待曉堂前拜舅姑。妝罷低聲問夫婿，畫眉深淺入時無。",
+    "displayLines": [
+      "洞房昨夜停红烛，",
+      "待晓堂前拜舅姑。",
+      "妆罢低声问夫婿，",
+      "画眉深浅入时无。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "洞",
+          "dòng"
+        ],
+        [
+          "房",
+          "fáng"
+        ],
+        [
+          "昨",
+          "zuó"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "停",
+          "tíng"
+        ],
+        [
+          "红",
+          "hóng"
+        ],
+        [
+          "烛",
+          "zhú"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "待",
+          "dài"
+        ],
+        [
+          "晓",
+          "xiǎo"
+        ],
+        [
+          "堂",
+          "táng"
+        ],
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "拜",
+          "bài"
+        ],
+        [
+          "舅",
+          "jiù"
+        ],
+        [
+          "姑",
+          "gū"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "妆",
+          "zhuāng"
+        ],
+        [
+          "罢",
+          "bà"
+        ],
+        [
+          "低",
+          "dī"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "夫",
+          "fū"
+        ],
+        [
+          "婿",
+          "xù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "画",
+          "huà"
+        ],
+        [
+          "眉",
+          "méi"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "浅",
+          "qiǎn"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "洞",
+          "dòng"
+        ],
+        [
+          "房",
+          "fáng"
+        ],
+        [
+          "昨",
+          "zuó"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "停",
+          "tíng"
+        ],
+        [
+          "红",
+          "hóng"
+        ],
+        [
+          "烛",
+          "zhú"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "待",
+          "dài"
+        ],
+        [
+          "晓",
+          "xiǎo"
+        ],
+        [
+          "堂",
+          "táng"
+        ],
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "拜",
+          "bài"
+        ],
+        [
+          "舅",
+          "jiù"
+        ],
+        [
+          "姑",
+          "gū"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "妆",
+          "zhuāng"
+        ],
+        [
+          "罢",
+          "bà"
+        ],
+        [
+          "低",
+          "dī"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "夫",
+          "fū"
+        ],
+        [
+          "婿",
+          "xù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "画",
+          "huà"
+        ],
+        [
+          "眉",
+          "méi"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "浅",
+          "qiǎn"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "七言绝句",
+      "新婚",
+      "考试"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainZhuQingyuONTHEEVEOFGOVERNMENTEXAMINATIONSTOSECRETARYZHANG",
+      "translationRaw": "Outgothegreatredwedding-chambercandles。Tomorrowinstatethebridefacesyourparents。Shehasfinishedpreparing；sheasksofyoumeeklyWhetherhereyebrowsarepaintedinfashion。",
+      "translationClean": "Outgothegreatredwedding-chambercandles. Tomorrowinstatethebridefacesyourparents. Shehasfinishedpreparing; sheasksofyoumeeklyWhetherhereyebrowsarepaintedinfashion.",
+      "segments": [
+        "Outgothegreatredwedding-chambercandles.",
+        "Tomorrowinstatethebridefacesyourparents.",
+        "Shehasfinishedpreparing;",
+        "sheasksofyoumeeklyWhetherhereyebrowsarepaintedinfashion."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 227,
+        "title": "近试上张籍水部 / 近试上张水部 / 闺意献张水部",
+        "author": "朱庆馀"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.95
+      },
+      "ctext": {
+        "matched": true,
+        "order": 288,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 161,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "27ff54ab-4861-43d8-b3c1-69113d2e4e10",
+        "score": 0.9643
+      }
+    }
+  }
+}

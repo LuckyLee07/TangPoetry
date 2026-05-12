@@ -1,0 +1,630 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-032-dong-jiao",
+    "order": 32,
+    "section": "五言古诗",
+    "title": "东郊",
+    "titleTraditional": "東郊",
+    "author": "韦应物",
+    "authorTraditional": "韋應物",
+    "dynasty": "唐代",
+    "aliases": [
+      "东郊"
+    ],
+    "lines": [
+      "吏舍跼终年，出郊旷清曙。",
+      "杨柳散和风，青山澹吾虑。",
+      "依丛适自憩，缘涧还复去。",
+      "微雨霭芳原，春鸠鸣何处？",
+      "乐幽心屡止，遵事迹犹遽；",
+      "终罢斯结庐，慕陶真可庶。"
+    ],
+    "linesTraditional": [
+      "吏舍跼終年，出郊曠清曙。",
+      "楊柳散和風，青山澹吾慮。",
+      "依叢適自憩，緣澗還復去。",
+      "微雨靄芳原，春鳩鳴何處？",
+      "樂幽心屢止，遵事跡猶遽；",
+      "終罷斯結廬，慕陶真可庶。"
+    ],
+    "text": "吏舍跼终年，出郊旷清曙。杨柳散和风，青山澹吾虑。依丛适自憩，缘涧还复去。微雨霭芳原，春鸠鸣何处？乐幽心屡止，遵事迹犹遽；终罢斯结庐，慕陶真可庶。",
+    "textTraditional": "吏舍跼終年，出郊曠清曙。楊柳散和風，青山澹吾慮。依叢適自憩，緣澗還復去。微雨靄芳原，春鳩鳴何處？樂幽心屢止，遵事跡猶遽；終罷斯結廬，慕陶真可庶。",
+    "displayLines": [
+      "吏舍跼终年，",
+      "出郊旷清曙。",
+      "杨柳散和风，",
+      "青山澹吾虑。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "吏",
+          "lì"
+        ],
+        [
+          "舍",
+          "shě"
+        ],
+        [
+          "跼",
+          "jú"
+        ],
+        [
+          "终",
+          "zhōng"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "出",
+          "chū"
+        ],
+        [
+          "郊",
+          "jiāo"
+        ],
+        [
+          "旷",
+          "kuàng"
+        ],
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "曙",
+          "shǔ"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "杨",
+          "yáng"
+        ],
+        [
+          "柳",
+          "liǔ"
+        ],
+        [
+          "散",
+          "sàn"
+        ],
+        [
+          "和",
+          "hé"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "澹",
+          "dàn"
+        ],
+        [
+          "吾",
+          "wú"
+        ],
+        [
+          "虑",
+          "lǜ"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "依",
+          "yī"
+        ],
+        [
+          "丛",
+          "cóng"
+        ],
+        [
+          "适",
+          "shì"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "憩",
+          "qì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "缘",
+          "yuán"
+        ],
+        [
+          "涧",
+          "jiàn"
+        ],
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "微",
+          "wēi"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "霭",
+          "ǎi"
+        ],
+        [
+          "芳",
+          "fāng"
+        ],
+        [
+          "原",
+          "yuán"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "鸠",
+          "jiū"
+        ],
+        [
+          "鸣",
+          "míng"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "吏",
+          "lì"
+        ],
+        [
+          "舍",
+          "shě"
+        ],
+        [
+          "跼",
+          "jú"
+        ],
+        [
+          "终",
+          "zhōng"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "出",
+          "chū"
+        ],
+        [
+          "郊",
+          "jiāo"
+        ],
+        [
+          "旷",
+          "kuàng"
+        ],
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "曙",
+          "shǔ"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "杨",
+          "yáng"
+        ],
+        [
+          "柳",
+          "liǔ"
+        ],
+        [
+          "散",
+          "sàn"
+        ],
+        [
+          "和",
+          "hé"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "澹",
+          "dàn"
+        ],
+        [
+          "吾",
+          "wú"
+        ],
+        [
+          "虑",
+          "lǜ"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "依",
+          "yī"
+        ],
+        [
+          "丛",
+          "cóng"
+        ],
+        [
+          "适",
+          "shì"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "憩",
+          "qì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "缘",
+          "yuán"
+        ],
+        [
+          "涧",
+          "jiàn"
+        ],
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "微",
+          "wēi"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "霭",
+          "ǎi"
+        ],
+        [
+          "芳",
+          "fāng"
+        ],
+        [
+          "原",
+          "yuán"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "鸠",
+          "jiū"
+        ],
+        [
+          "鸣",
+          "míng"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "乐",
+          "lè"
+        ],
+        [
+          "幽",
+          "yōu"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "屡",
+          "lǚ"
+        ],
+        [
+          "止",
+          "zhǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "遵",
+          "zūn"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "迹",
+          "jì"
+        ],
+        [
+          "犹",
+          "yóu"
+        ],
+        [
+          "遽",
+          "jù"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "终",
+          "zhōng"
+        ],
+        [
+          "罢",
+          "bà"
+        ],
+        [
+          "斯",
+          "sī"
+        ],
+        [
+          "结",
+          "jié"
+        ],
+        [
+          "庐",
+          "lú"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "慕",
+          "mù"
+        ],
+        [
+          "陶",
+          "táo"
+        ],
+        [
+          "真",
+          "zhēn"
+        ],
+        [
+          "可",
+          "kě"
+        ],
+        [
+          "庶",
+          "shù"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.跼：音\"局\"，拘束。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.霭：音\"矮\"，云集，喻盛多。"
+      }
+    ],
+    "tags": [
+      "五言古诗",
+      "春天",
+      "生活"
+    ],
+    "english": {
+      "headingRaw": "Five-character-ancient-verseWeiYingwuEASTOFTHETOWN",
+      "translationRaw": "Fromofficeconfinementallyearlong，IhavecomeoutoftowntobefreethismorningWherewillowsharmonizethewindAndgreenhillslightenthecaresoftheworld。IleanbyatreeandrestmyselfOrwanderupanddownastream。。。。Mistshavewetthefragrantmeadows；Aspringdovecallsfromsomehiddenplace。。。。Withquietsurroundings，themindisatpeace，Butbesetwithaffairs，itgrowsrestlessagain。。。。HereIshallfinallybuildmeacabin，AsTaoQianbuiltonelongago。",
+      "translationClean": "Fromofficeconfinementallyearlong, IhavecomeoutoftowntobefreethismorningWherewillowsharmonizethewindAndgreenhillslightenthecaresoftheworld. IleanbyatreeandrestmyselfOrwanderupanddownastream.... Mistshavewetthefragrantmeadows; Aspringdovecallsfromsomehiddenplace.... Withquietsurroundings, themindisatpeace, Butbesetwithaffairs, itgrowsrestlessagain.... HereIshallfinallybuildmeacabin, AsTaoQianbuiltonelongago.",
+      "segments": [
+        "Fromofficeconfinementallyearlong, IhavecomeoutoftowntobefreethismorningWherewillowsharmonizethewindAndgreenhillslightenthecaresoftheworld.",
+        "IleanbyatreeandrestmyselfOrwanderupanddownastream....",
+        "Mistshavewetthefragrantmeadows;",
+        "Aspringdovecallsfromsomehiddenplace....",
+        "Withquietsurroundings, themindisatpeace, Butbesetwithaffairs, itgrowsrestlessagain....",
+        "HereIshallfinallybuildmeacabin, AsTaoQianbuiltonelongago."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 99,
+        "title": "东郊",
+        "author": "韦应物"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.987
+      },
+      "ctext": {
+        "matched": true,
+        "order": 32,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 32,
+        "score": 0.9833,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "3e0e1d96-c249-47c4-b16d-4d91dd6e7cce",
+        "score": 0.9833
+      }
+    },
+    "visual": {
+      "image": "assets/illustrations-wuyan-gushi/032-tang-032-dong-jiao.png",
+      "coreImagery": [
+        "东郊",
+        "杨柳",
+        "青山",
+        "微雨",
+        "春鸠"
+      ],
+      "mood": [
+        "疏朗",
+        "释怀",
+        "春晴"
+      ],
+      "palette": [
+        "柳绿",
+        "山青",
+        "雨白",
+        "土黄"
+      ],
+      "composition": "东郊雨后，柳色明净，青山在远处展开，春鸠点在空中。",
+      "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+      "prompt": "东郊，韦应物。核心意象：东郊、杨柳、青山、微雨、春鸠；情绪：疏朗、释怀、春晴。东郊雨后，柳色明净，青山在远处展开，春鸠点在空中。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+      "generatedAt": "2026-05-10T15:05:28+00:00",
+      "generator": "procedural-watercolor"
+    }
+  }
+}

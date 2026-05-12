@@ -1,0 +1,501 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-103-ting-shu-seng-jun-tan-qin",
+    "order": 103,
+    "section": "五言律诗",
+    "title": "听蜀僧濬弹琴",
+    "titleTraditional": "聽蜀僧濬彈琴",
+    "author": "李白",
+    "authorTraditional": "李白",
+    "dynasty": "唐代",
+    "aliases": [
+      "听蜀僧濬弹琴 / 听蜀僧浚弹琴",
+      "听蜀僧濬弹琴"
+    ],
+    "lines": [
+      "蜀僧抱绿绮，西下峨眉峰；",
+      "为我一挥手，如听万壑松。",
+      "客心洗流水，余响入霜钟。",
+      "不觉碧山暮，秋云暗几重？"
+    ],
+    "linesTraditional": [
+      "蜀僧抱綠綺，西下峨眉峰；",
+      "為我一揮手，如聽萬壑松。",
+      "客心洗流水，餘響入霜鐘。",
+      "不覺碧山暮，秋雲暗幾重？"
+    ],
+    "text": "蜀僧抱绿绮，西下峨眉峰；为我一挥手，如听万壑松。客心洗流水，余响入霜钟。不觉碧山暮，秋云暗几重？",
+    "textTraditional": "蜀僧抱綠綺，西下峨眉峰；為我一揮手，如聽萬壑松。客心洗流水，餘響入霜鐘。不覺碧山暮，秋雲暗幾重？",
+    "displayLines": [
+      "蜀僧抱绿绮，",
+      "西下峨眉峰；",
+      "为我一挥手，",
+      "如听万壑松。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "蜀",
+          "shǔ"
+        ],
+        [
+          "僧",
+          "sēng"
+        ],
+        [
+          "抱",
+          "bào"
+        ],
+        [
+          "绿",
+          "lǜ"
+        ],
+        [
+          "绮",
+          "qǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "峨",
+          "é"
+        ],
+        [
+          "眉",
+          "méi"
+        ],
+        [
+          "峰",
+          "fēng"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "我",
+          "wǒ"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "挥",
+          "huī"
+        ],
+        [
+          "手",
+          "shǒu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "听",
+          "tīng"
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "壑",
+          "hè"
+        ],
+        [
+          "松",
+          "sōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "洗",
+          "xǐ"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "余",
+          "yú"
+        ],
+        [
+          "响",
+          "xiǎng"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "霜",
+          "shuāng"
+        ],
+        [
+          "钟",
+          "zhōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "觉",
+          "jué"
+        ],
+        [
+          "碧",
+          "bì"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "暗",
+          "àn"
+        ],
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "重",
+          "zhòng"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "蜀",
+          "shǔ"
+        ],
+        [
+          "僧",
+          "sēng"
+        ],
+        [
+          "抱",
+          "bào"
+        ],
+        [
+          "绿",
+          "lǜ"
+        ],
+        [
+          "绮",
+          "qǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "峨",
+          "é"
+        ],
+        [
+          "眉",
+          "méi"
+        ],
+        [
+          "峰",
+          "fēng"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "我",
+          "wǒ"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "挥",
+          "huī"
+        ],
+        [
+          "手",
+          "shǒu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "听",
+          "tīng"
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "壑",
+          "hè"
+        ],
+        [
+          "松",
+          "sōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "洗",
+          "xǐ"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "余",
+          "yú"
+        ],
+        [
+          "响",
+          "xiǎng"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "霜",
+          "shuāng"
+        ],
+        [
+          "钟",
+          "zhōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "觉",
+          "jué"
+        ],
+        [
+          "碧",
+          "bì"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "暗",
+          "àn"
+        ],
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "重",
+          "zhòng"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.绿绮：琴名。司马相如有绿绮，蔡邕有焦尾，皆名琴。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.流水：俞伯牙弹琴，志在流水，钟子期听后道\"洋洋乎，若江河\"。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "3.挥手：弹琴。嵇康：\"伯牙挥手，钟期听声\"。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "音乐"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseLiBaiONHEARINGJUNTHEBUDDHISTMONKFROMSHUPLAYHISLUTE",
+      "translationRaw": "ThemonkfromShuwithhisgreensilklute-case，WalkingwestdownOmeiMountain，HasbroughtmebyonetouchofthestringsThebreathofpinesinathousandvalleys。Ihearhiminthecleansingbrook，Ihearhimintheicybells；AndIfeelnochangethoughthemountaindarkenAndcloudyautumnheapsthesky。",
+      "translationClean": "ThemonkfromShuwithhisgreensilklute-case, WalkingwestdownOmeiMountain, HasbroughtmebyonetouchofthestringsThebreathofpinesinathousandvalleys. Ihearhiminthecleansingbrook, Ihearhimintheicybells; AndIfeelnochangethoughthemountaindarkenAndcloudyautumnheapsthesky.",
+      "segments": [
+        "ThemonkfromShuwithhisgreensilklute-case, WalkingwestdownOmeiMountain, HasbroughtmebyonetouchofthestringsThebreathofpinesinathousandvalleys.",
+        "Ihearhiminthecleansingbrook, Ihearhimintheicybells;",
+        "AndIfeelnochangethoughthemountaindarkenAndcloudyautumnheapsthesky."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 38,
+        "title": "听蜀僧濬弹琴 / 听蜀僧浚弹琴",
+        "author": "李白"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 103,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 200,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "71999aa1-55dd-4449-81b0-41f04686bf2e",
+        "score": 1
+      }
+    }
+  }
+}

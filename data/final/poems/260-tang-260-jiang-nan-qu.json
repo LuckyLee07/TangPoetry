@@ -1,0 +1,282 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-260-jiang-nan-qu",
+    "order": 260,
+    "section": "乐府",
+    "title": "江南曲",
+    "titleTraditional": "江南曲",
+    "author": "李益",
+    "authorTraditional": "李益",
+    "dynasty": "唐代",
+    "aliases": [
+      "江南曲"
+    ],
+    "lines": [
+      "嫁得瞿塘贾，朝朝误妾期。",
+      "早知潮有信，嫁与弄潮儿。"
+    ],
+    "linesTraditional": [
+      "嫁得瞿塘賈，朝朝誤妾期。",
+      "早知潮有信，嫁與弄潮兒。"
+    ],
+    "text": "嫁得瞿塘贾，朝朝误妾期。早知潮有信，嫁与弄潮儿。",
+    "textTraditional": "嫁得瞿塘賈，朝朝誤妾期。早知潮有信，嫁與弄潮兒。",
+    "displayLines": [
+      "嫁得瞿塘贾，",
+      "朝朝误妾期。",
+      "早知潮有信，",
+      "嫁与弄潮儿。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "嫁",
+          "jià"
+        ],
+        [
+          "得",
+          "dé"
+        ],
+        [
+          "瞿",
+          "qú"
+        ],
+        [
+          "塘",
+          "táng"
+        ],
+        [
+          "贾",
+          "jiǎ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "误",
+          "wù"
+        ],
+        [
+          "妾",
+          "qiè"
+        ],
+        [
+          "期",
+          "qī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "早",
+          "zǎo"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "潮",
+          "cháo"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "信",
+          "xìn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "嫁",
+          "jià"
+        ],
+        [
+          "与",
+          "yǔ"
+        ],
+        [
+          "弄",
+          "nòng"
+        ],
+        [
+          "潮",
+          "cháo"
+        ],
+        [
+          "儿",
+          "ér"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "嫁",
+          "jià"
+        ],
+        [
+          "得",
+          "dé"
+        ],
+        [
+          "瞿",
+          "qú"
+        ],
+        [
+          "塘",
+          "táng"
+        ],
+        [
+          "贾",
+          "jiǎ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "误",
+          "wù"
+        ],
+        [
+          "妾",
+          "qiè"
+        ],
+        [
+          "期",
+          "qī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "早",
+          "zǎo"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "潮",
+          "cháo"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "信",
+          "xìn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "嫁",
+          "jià"
+        ],
+        [
+          "与",
+          "yǔ"
+        ],
+        [
+          "弄",
+          "nòng"
+        ],
+        [
+          "潮",
+          "cháo"
+        ],
+        [
+          "儿",
+          "ér"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "乐府",
+      "闺怨"
+    ],
+    "english": {
+      "headingRaw": "Folk-song-styled-verseLiYiASONGOFTHESOUTHERNRIVER",
+      "translationRaw": "SinceImarriedthemerchantofQutangHehasfailedeachdaytokeephisword。。。。HadIthoughthowregularthetideis，Imightratherhavechosenariver-boy。",
+      "translationClean": "SinceImarriedthemerchantofQutangHehasfailedeachdaytokeephisword.... HadIthoughthowregularthetideis, Imightratherhavechosenariver-boy.",
+      "segments": [
+        "SinceImarriedthemerchantofQutangHehasfailedeachdaytokeephisword....",
+        "HadIthoughthowregularthetideis, Imightratherhavechosenariver-boy."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 1,
+        "title": "江南曲",
+        "author": "李益"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 260,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 126,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "bb111748-d8f1-4a5e-b618-b70272a7a642",
+        "score": 1
+      }
+    }
+  }
+}

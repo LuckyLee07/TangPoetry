@@ -1,0 +1,494 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-117-gui-song-shan-zuo",
+    "order": 117,
+    "section": "五言律诗",
+    "title": "归嵩山作",
+    "titleTraditional": "歸嵩山作",
+    "author": "王维",
+    "authorTraditional": "王維",
+    "dynasty": "唐代",
+    "aliases": [
+      "归嵩山作"
+    ],
+    "lines": [
+      "清川带长薄，车马去闲闲。",
+      "流水如有意，暮禽相与还。",
+      "荒城临古渡，落日满秋山。",
+      "迢递嵩高下，归来且闭关。"
+    ],
+    "linesTraditional": [
+      "清川帶長薄，車馬去閑閑。",
+      "流水如有意，暮禽相與還。",
+      "荒城臨古渡，落日滿秋山。",
+      "迢遞嵩高下，歸來且閉關。"
+    ],
+    "text": "清川带长薄，车马去闲闲。流水如有意，暮禽相与还。荒城临古渡，落日满秋山。迢递嵩高下，归来且闭关。",
+    "textTraditional": "清川帶長薄，車馬去閑閑。流水如有意，暮禽相與還。荒城臨古渡，落日滿秋山。迢遞嵩高下，歸來且閉關。",
+    "displayLines": [
+      "清川带长薄，",
+      "车马去闲闲。",
+      "流水如有意，",
+      "暮禽相与还。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "川",
+          "chuān"
+        ],
+        [
+          "带",
+          "dài"
+        ],
+        [
+          "长",
+          "zhǎng"
+        ],
+        [
+          "薄",
+          "báo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "车",
+          "chē"
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "闲",
+          "xián"
+        ],
+        [
+          "闲",
+          "xián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "意",
+          "yì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "禽",
+          "qín"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "与",
+          "yǔ"
+        ],
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "荒",
+          "huāng"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "临",
+          "lín"
+        ],
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "渡",
+          "dù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "满",
+          "mǎn"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "迢",
+          "tiáo"
+        ],
+        [
+          "递",
+          "dì"
+        ],
+        [
+          "嵩",
+          "sōng"
+        ],
+        [
+          "高",
+          "gāo"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "且",
+          "qiě"
+        ],
+        [
+          "闭",
+          "bì"
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "川",
+          "chuān"
+        ],
+        [
+          "带",
+          "dài"
+        ],
+        [
+          "长",
+          "zhǎng"
+        ],
+        [
+          "薄",
+          "báo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "车",
+          "chē"
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "闲",
+          "xián"
+        ],
+        [
+          "闲",
+          "xián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "意",
+          "yì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "禽",
+          "qín"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "与",
+          "yǔ"
+        ],
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "荒",
+          "huāng"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "临",
+          "lín"
+        ],
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "渡",
+          "dù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "满",
+          "mǎn"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "迢",
+          "tiáo"
+        ],
+        [
+          "递",
+          "dì"
+        ],
+        [
+          "嵩",
+          "sōng"
+        ],
+        [
+          "高",
+          "gāo"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "且",
+          "qiě"
+        ],
+        [
+          "闭",
+          "bì"
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.长薄：草泽。草木交错曰薄。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "山水",
+      "写景",
+      "抒情"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseWangWeiBOUNDHOMETOMOUNTSONG",
+      "translationRaw": "Thelimpidriver，pastitsbushesRunningslowlyasmychariot，BecomesafellowvoyagerReturninghomewiththeeveningbirds。Aruinedcity-wallovertopsanoldferry，Autumnsunsetfloodsthepeaks。。。。Faraway，besideMountSong，Ishallclosemydoorandbeatpeace。",
+      "translationClean": "Thelimpidriver, pastitsbushesRunningslowlyasmychariot, BecomesafellowvoyagerReturninghomewiththeeveningbirds. Aruinedcity-wallovertopsanoldferry, Autumnsunsetfloodsthepeaks.... Faraway, besideMountSong, Ishallclosemydoorandbeatpeace.",
+      "segments": [
+        "Thelimpidriver, pastitsbushesRunningslowlyasmychariot, BecomesafellowvoyagerReturninghomewiththeeveningbirds.",
+        "Aruinedcity-wallovertopsanoldferry, Autumnsunsetfloodsthepeaks....",
+        "Faraway, besideMountSong, Ishallclosemydoorandbeatpeace."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 203,
+        "title": "归嵩山作",
+        "author": "王维"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 117,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 214,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "40cd6eec-c6ce-4659-a225-61063cd210e9",
+        "score": 1
+      }
+    }
+  }
+}

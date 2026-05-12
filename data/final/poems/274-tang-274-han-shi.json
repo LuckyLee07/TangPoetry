@@ -1,0 +1,366 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-274-han-shi",
+    "order": 274,
+    "section": "七言绝句",
+    "title": "寒食",
+    "titleTraditional": "寒食",
+    "author": "韩翃",
+    "authorTraditional": "韓翃",
+    "dynasty": "唐代",
+    "aliases": [
+      "寒食"
+    ],
+    "lines": [
+      "春城无处不飞花，寒食东风御柳斜。",
+      "日暮汉宫传蜡烛，轻烟散入五侯家。"
+    ],
+    "linesTraditional": [
+      "春城無處不飛花，寒食東風禦柳斜。",
+      "日暮漢宮傳蠟燭，輕煙散入五侯家。"
+    ],
+    "text": "春城无处不飞花，寒食东风御柳斜。日暮汉宫传蜡烛，轻烟散入五侯家。",
+    "textTraditional": "春城無處不飛花，寒食東風禦柳斜。日暮漢宮傳蠟燭，輕煙散入五侯家。",
+    "displayLines": [
+      "春城无处不飞花，",
+      "寒食东风御柳斜。",
+      "日暮汉宫传蜡烛，",
+      "轻烟散入五侯家。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "处",
+          "chǔ"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "食",
+          "shí"
+        ],
+        [
+          "东",
+          "dōng"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "御",
+          "yù"
+        ],
+        [
+          "柳",
+          "liǔ"
+        ],
+        [
+          "斜",
+          "xié"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "传",
+          "chuán"
+        ],
+        [
+          "蜡",
+          "là"
+        ],
+        [
+          "烛",
+          "zhú"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "轻",
+          "qīng"
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "散",
+          "sàn"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "五",
+          "wǔ"
+        ],
+        [
+          "侯",
+          "hóu"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "处",
+          "chǔ"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "食",
+          "shí"
+        ],
+        [
+          "东",
+          "dōng"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "御",
+          "yù"
+        ],
+        [
+          "柳",
+          "liǔ"
+        ],
+        [
+          "斜",
+          "xié"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "传",
+          "chuán"
+        ],
+        [
+          "蜡",
+          "là"
+        ],
+        [
+          "烛",
+          "zhú"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "轻",
+          "qīng"
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "散",
+          "sàn"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "五",
+          "wǔ"
+        ],
+        [
+          "侯",
+          "hóu"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.寒食：春秋时介之推辅佐晋文公回国即位后，即隐居绵山不出。文公"
+      },
+      {
+        "source": "chiuinan",
+        "text": "烧山逼之，不料介之推竟抱树而死。文公为悼念他，遂于其忌"
+      },
+      {
+        "source": "chiuinan",
+        "text": "日禁火寒食。现约在清明节前一或二日。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.五侯：本指后汉桓帝所封五侯，此处喻唐代外戚、宦官。"
+      }
+    ],
+    "tags": [
+      "七言绝句",
+      "清明",
+      "寒食节",
+      "典故",
+      "讽刺"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainHanHongAFTERTHEDAYOFNOFIRE",
+      "translationRaw": "PetalsofspringflyallthroughthecityFromthewindinthewillowsoftheImperialRiver。Andatdusk，fromthepalace，candlesaregivenoutTolightfirstthemansionsoftheFiveGreatLords。",
+      "translationClean": "PetalsofspringflyallthroughthecityFromthewindinthewillowsoftheImperialRiver. Andatdusk, fromthepalace, candlesaregivenoutTolightfirstthemansionsoftheFiveGreatLords.",
+      "segments": [
+        "PetalsofspringflyallthroughthecityFromthewindinthewillowsoftheImperialRiver.",
+        "Andatdusk, fromthepalace, candlesaregivenoutTolightfirstthemansionsoftheFiveGreatLords."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 299,
+        "title": "寒食",
+        "author": "韩翃"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 274,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 147,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "77ac62ee-6396-4ac0-a3ab-cb84ba2e5cd0",
+        "score": 1
+      }
+    }
+  }
+}

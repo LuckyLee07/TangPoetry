@@ -1,0 +1,599 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-200-tong-ti-xian-you-guan",
+    "order": 200,
+    "section": "七言律诗",
+    "title": "同题仙游观",
+    "titleTraditional": "同題仙游觀",
+    "author": "韩翃",
+    "authorTraditional": "韓翃",
+    "dynasty": "唐代",
+    "aliases": [
+      "同题仙游观"
+    ],
+    "lines": [
+      "仙台初见五城楼，风物凄凄宿雨收。",
+      "山色遥连秦树晚，砧声近报汉宫秋。",
+      "疏松影落空坛静，细草香闲小洞幽。",
+      "何用别寻方外去？",
+      "人间亦自有丹丘。"
+    ],
+    "linesTraditional": [
+      "仙臺初見五城樓，風物淒淒宿雨收。",
+      "山色遙連秦樹晚，砧聲近報漢宮秋。",
+      "疏松影落空壇靜，細草香閑小洞幽。",
+      "何用別尋方外去？",
+      "人間亦自有丹丘。"
+    ],
+    "text": "仙台初见五城楼，风物凄凄宿雨收。山色遥连秦树晚，砧声近报汉宫秋。疏松影落空坛静，细草香闲小洞幽。何用别寻方外去？人间亦自有丹丘。",
+    "textTraditional": "仙臺初見五城樓，風物淒淒宿雨收。山色遙連秦樹晚，砧聲近報漢宮秋。疏松影落空壇靜，細草香閑小洞幽。何用別尋方外去？人間亦自有丹丘。",
+    "displayLines": [
+      "仙台初见五城楼，",
+      "风物凄凄宿雨收。",
+      "山色遥连秦树晚，",
+      "砧声近报汉宫秋。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "仙",
+          "xiān"
+        ],
+        [
+          "台",
+          "tái"
+        ],
+        [
+          "初",
+          "chū"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "五",
+          "wǔ"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "物",
+          "wù"
+        ],
+        [
+          "凄",
+          "qī"
+        ],
+        [
+          "凄",
+          "qī"
+        ],
+        [
+          "宿",
+          "sù"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "收",
+          "shōu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "遥",
+          "yáo"
+        ],
+        [
+          "连",
+          "lián"
+        ],
+        [
+          "秦",
+          "qín"
+        ],
+        [
+          "树",
+          "shù"
+        ],
+        [
+          "晚",
+          "wǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "砧",
+          "zhēn"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "近",
+          "jìn"
+        ],
+        [
+          "报",
+          "bào"
+        ],
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "疏",
+          "shū"
+        ],
+        [
+          "松",
+          "sōng"
+        ],
+        [
+          "影",
+          "yǐng"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "坛",
+          "tán"
+        ],
+        [
+          "静",
+          "jìng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "细",
+          "xì"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "香",
+          "xiāng"
+        ],
+        [
+          "闲",
+          "xián"
+        ],
+        [
+          "小",
+          "xiǎo"
+        ],
+        [
+          "洞",
+          "dòng"
+        ],
+        [
+          "幽",
+          "yōu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "用",
+          "yòng"
+        ],
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "寻",
+          "xún"
+        ],
+        [
+          "方",
+          "fāng"
+        ],
+        [
+          "外",
+          "wài"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "仙",
+          "xiān"
+        ],
+        [
+          "台",
+          "tái"
+        ],
+        [
+          "初",
+          "chū"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "五",
+          "wǔ"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "物",
+          "wù"
+        ],
+        [
+          "凄",
+          "qī"
+        ],
+        [
+          "凄",
+          "qī"
+        ],
+        [
+          "宿",
+          "sù"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "收",
+          "shōu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "遥",
+          "yáo"
+        ],
+        [
+          "连",
+          "lián"
+        ],
+        [
+          "秦",
+          "qín"
+        ],
+        [
+          "树",
+          "shù"
+        ],
+        [
+          "晚",
+          "wǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "砧",
+          "zhēn"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "近",
+          "jìn"
+        ],
+        [
+          "报",
+          "bào"
+        ],
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "疏",
+          "shū"
+        ],
+        [
+          "松",
+          "sōng"
+        ],
+        [
+          "影",
+          "yǐng"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "坛",
+          "tán"
+        ],
+        [
+          "静",
+          "jìng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "细",
+          "xì"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "香",
+          "xiāng"
+        ],
+        [
+          "闲",
+          "xián"
+        ],
+        [
+          "小",
+          "xiǎo"
+        ],
+        [
+          "洞",
+          "dòng"
+        ],
+        [
+          "幽",
+          "yōu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "用",
+          "yòng"
+        ],
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "寻",
+          "xún"
+        ],
+        [
+          "方",
+          "fāng"
+        ],
+        [
+          "外",
+          "wài"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "间",
+          "jiān"
+        ],
+        [
+          "亦",
+          "yì"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "丹",
+          "dān"
+        ],
+        [
+          "丘",
+          "qiū"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.五城楼：黄帝时为五城十二楼，以侯神人。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.丹邱：海外神仙所居地，昼夜常明。"
+      }
+    ],
+    "tags": [
+      "七言律诗",
+      "向往",
+      "游历"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-regular-verseHanHongINSCRIBEDINTHETEMPLEOFTHEWANDERINGGENIE",
+      "translationRaw": "Iface，highoverthisenchantedlodge，theCourtoftheFiveCitiesofHeaven，AndIseeacountrysideblueandstill，afterthelongrain。ThedistantpeaksandtreesofQinmergeintotwilight，AndHadPalacewashing-stonesmaketheirautumnalechoes。Thinpine-shadowsbrushtheoutdoorpulpit，Andgrassesblowtheirfragranceintomylittlecave。。。。Whoneedbecravingaworldbeyondthisone？Here，amongmen，arethePurpleHills",
+      "translationClean": "Iface, highoverthisenchantedlodge, theCourtoftheFiveCitiesofHeaven, AndIseeacountrysideblueandstill, afterthelongrain. ThedistantpeaksandtreesofQinmergeintotwilight, AndHadPalacewashing-stonesmaketheirautumnalechoes. Thinpine-shadowsbrushtheoutdoorpulpit, Andgrassesblowtheirfragranceintomylittlecave.... Whoneedbecravingaworldbeyondthisone? Here, amongmen, arethePurpleHills",
+      "segments": [
+        "Iface, highoverthisenchantedlodge, theCourtoftheFiveCitiesofHeaven, AndIseeacountrysideblueandstill, afterthelongrain.",
+        "ThedistantpeaksandtreesofQinmergeintotwilight, AndHadPalacewashing-stonesmaketheirautumnalechoes.",
+        "Thinpine-shadowsbrushtheoutdoorpulpit, Andgrassesblowtheirfragranceintomylittlecave....",
+        "Whoneedbecravingaworldbeyondthisone?",
+        "Here, amongmen, arethePurpleHills"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 129,
+        "title": "同题仙游观",
+        "author": "韩翃"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 200,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 297,
+        "score": 0.9643,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "b411ce1e-ac09-4427-ab32-f8dc7a57e566",
+        "score": 0.9643
+      }
+    }
+  }
+}

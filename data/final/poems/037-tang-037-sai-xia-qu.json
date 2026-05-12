@@ -1,0 +1,502 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-037-sai-xia-qu",
+    "order": 37,
+    "section": "乐府",
+    "title": "塞下曲",
+    "titleTraditional": "塞下曲",
+    "author": "王昌龄",
+    "authorTraditional": "王昌齡",
+    "dynasty": "唐代",
+    "aliases": [
+      "塞下曲"
+    ],
+    "lines": [
+      "饮马渡秋水，水寒风似刀。",
+      "平沙日未没，黯黯见临洮。",
+      "昔日长城战，咸言意气高；",
+      "黄尘足今古，白骨乱蓬蒿。"
+    ],
+    "linesTraditional": [
+      "飲馬渡秋水，水寒風似刀。",
+      "平沙日未沒，黯黯見臨洮。",
+      "昔日長城戰，咸言意氣高；",
+      "黃塵足今古，白骨亂蓬蒿。"
+    ],
+    "text": "饮马渡秋水，水寒风似刀。平沙日未没，黯黯见临洮。昔日长城战，咸言意气高；黄尘足今古，白骨乱蓬蒿。",
+    "textTraditional": "飲馬渡秋水，水寒風似刀。平沙日未沒，黯黯見臨洮。昔日長城戰，咸言意氣高；黃塵足今古，白骨亂蓬蒿。",
+    "displayLines": [
+      "饮马渡秋水，",
+      "水寒风似刀。",
+      "平沙日未没，",
+      "黯黯见临洮。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "饮",
+          "yǐn"
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "渡",
+          "dù"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "似",
+          "shì"
+        ],
+        [
+          "刀",
+          "dāo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "平",
+          "píng"
+        ],
+        [
+          "沙",
+          "shā"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "没",
+          "méi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "黯",
+          "àn"
+        ],
+        [
+          "黯",
+          "àn"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "临",
+          "lín"
+        ],
+        [
+          "洮",
+          "táo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "昔",
+          "xī"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "长",
+          "cháng"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "战",
+          "zhàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "咸",
+          "xián"
+        ],
+        [
+          "言",
+          "yán"
+        ],
+        [
+          "意",
+          "yì"
+        ],
+        [
+          "气",
+          "qì"
+        ],
+        [
+          "高",
+          "gāo"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "尘",
+          "chén"
+        ],
+        [
+          "足",
+          "zú"
+        ],
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "骨",
+          "gǔ"
+        ],
+        [
+          "乱",
+          "luàn"
+        ],
+        [
+          "蓬",
+          "péng"
+        ],
+        [
+          "蒿",
+          "hāo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "饮",
+          "yǐn"
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "渡",
+          "dù"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "似",
+          "shì"
+        ],
+        [
+          "刀",
+          "dāo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "平",
+          "píng"
+        ],
+        [
+          "沙",
+          "shā"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "没",
+          "méi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "黯",
+          "àn"
+        ],
+        [
+          "黯",
+          "àn"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "临",
+          "lín"
+        ],
+        [
+          "洮",
+          "táo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "昔",
+          "xī"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "长",
+          "cháng"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "战",
+          "zhàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "咸",
+          "xián"
+        ],
+        [
+          "言",
+          "yán"
+        ],
+        [
+          "意",
+          "yì"
+        ],
+        [
+          "气",
+          "qì"
+        ],
+        [
+          "高",
+          "gāo"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "尘",
+          "chén"
+        ],
+        [
+          "足",
+          "zú"
+        ],
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "骨",
+          "gǔ"
+        ],
+        [
+          "乱",
+          "luàn"
+        ],
+        [
+          "蓬",
+          "péng"
+        ],
+        [
+          "蒿",
+          "hāo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.洮：音\"摇\"。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.咸言：都说。咸，音\"闲\"。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "3.蒿：音ㄏㄠ，草名。"
+      }
+    ],
+    "tags": [
+      "乐府",
+      "战争",
+      "新乐府辞"
+    ],
+    "english": {
+      "headingRaw": "Folk-song-styled-verseWangChanglingUNDERABORDER-FORTRESS",
+      "translationRaw": "Drink，myhorse，whilewecrosstheautumnwater！-Thestreamiscoldandthewindlikeasword，Aswewatchagainstthesunsetonthesandyplain，Far，faraway，shadowyLingtao。Oldbattles，wagedbythoselongwalls，Oncewereproudonallmen』stongues。Butantiquitynowisayellowdust，Confusinginthegrassesitsruinsandwhitebones。",
+      "translationClean": "Drink, myhorse, whilewecrosstheautumnwater! -Thestreamiscoldandthewindlikeasword, Aswewatchagainstthesunsetonthesandyplain, Far, faraway, shadowyLingtao. Oldbattles, wagedbythoselongwalls, Oncewereproudonallmen'stongues. Butantiquitynowisayellowdust, Confusinginthegrassesitsruinsandwhitebones.",
+      "segments": [
+        "Drink, myhorse, whilewecrosstheautumnwater!",
+        "-Thestreamiscoldandthewindlikeasword, Aswewatchagainstthesunsetonthesandyplain, Far, faraway, shadowyLingtao.",
+        "Oldbattles, wagedbythoselongwalls, Oncewereproudonallmen'stongues.",
+        "Butantiquitynowisayellowdust, Confusinginthegrassesitsruinsandwhitebones."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 204,
+        "title": "塞下曲",
+        "author": "王昌龄"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 37,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 37,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "59fb3f01-65b2-416a-aefb-c13e502bfba1",
+        "score": 1
+      }
+    }
+  }
+}

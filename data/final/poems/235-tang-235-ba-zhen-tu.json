@@ -1,0 +1,290 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-235-ba-zhen-tu",
+    "order": 235,
+    "section": "五言绝句",
+    "title": "八阵图",
+    "titleTraditional": "八陣圖",
+    "author": "杜甫",
+    "authorTraditional": "杜甫",
+    "dynasty": "唐代",
+    "aliases": [
+      "八阵图"
+    ],
+    "lines": [
+      "功盖三分国，名成八阵图。",
+      "江流石不转，遗恨失吞吴。"
+    ],
+    "linesTraditional": [
+      "功蓋三分國，名成八陣圖。",
+      "江流石不轉，遺恨失吞吳。"
+    ],
+    "text": "功盖三分国，名成八阵图。江流石不转，遗恨失吞吴。",
+    "textTraditional": "功蓋三分國，名成八陣圖。江流石不轉，遺恨失吞吳。",
+    "displayLines": [
+      "功盖三分国，",
+      "名成八阵图。",
+      "江流石不转，",
+      "遗恨失吞吴。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "功",
+          "gōng"
+        ],
+        [
+          "盖",
+          "gài"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "分",
+          "fēn"
+        ],
+        [
+          "国",
+          "guó"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "名",
+          "míng"
+        ],
+        [
+          "成",
+          "chéng"
+        ],
+        [
+          "八",
+          "bā"
+        ],
+        [
+          "阵",
+          "zhèn"
+        ],
+        [
+          "图",
+          "tú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "石",
+          "shí"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "转",
+          "zhuǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "遗",
+          "yí"
+        ],
+        [
+          "恨",
+          "hèn"
+        ],
+        [
+          "失",
+          "shī"
+        ],
+        [
+          "吞",
+          "tūn"
+        ],
+        [
+          "吴",
+          "wú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "功",
+          "gōng"
+        ],
+        [
+          "盖",
+          "gài"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "分",
+          "fēn"
+        ],
+        [
+          "国",
+          "guó"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "名",
+          "míng"
+        ],
+        [
+          "成",
+          "chéng"
+        ],
+        [
+          "八",
+          "bā"
+        ],
+        [
+          "阵",
+          "zhèn"
+        ],
+        [
+          "图",
+          "tú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "石",
+          "shí"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "转",
+          "zhuǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "遗",
+          "yí"
+        ],
+        [
+          "恨",
+          "hèn"
+        ],
+        [
+          "失",
+          "shī"
+        ],
+        [
+          "吞",
+          "tūn"
+        ],
+        [
+          "吴",
+          "wú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "名成--一作 ：名高"
+      }
+    ],
+    "tags": [
+      "五言绝句",
+      "怀古",
+      "哲理",
+      "写人"
+    ],
+    "english": {
+      "headingRaw": "Five-character-quatrainDuFuTHEEIGHT-SIDEDFORTRESS",
+      "translationRaw": "TheThreeKingdoms，divided，havebeenboundbyhisgreatness。TheEight-SidedFortressisfoundedonhisfame；Besidethechangingriver，itstandsstonyashisgriefThatheneverconqueredtheKingdomofWu。",
+      "translationClean": "TheThreeKingdoms, divided, havebeenboundbyhisgreatness. TheEight-SidedFortressisfoundedonhisfame; Besidethechangingriver, itstandsstonyashisgriefThatheneverconqueredtheKingdomofWu.",
+      "segments": [
+        "TheThreeKingdoms, divided, havebeenboundbyhisgreatness.",
+        "TheEight-SidedFortressisfoundedonhisfame;",
+        "Besidethechangingriver, itstandsstonyashisgriefThatheneverconqueredtheKingdomofWu."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 196,
+        "title": "八阵图",
+        "author": "杜甫"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 235,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 102,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "927908c0-999f-4d3f-8192-d67d28f93576",
+        "score": 0.95
+      }
+    }
+  }
+}

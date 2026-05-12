@@ -1,0 +1,511 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-115-wang-chuan-xian-ju-zeng-pei-xiu-cai-di",
+    "order": 115,
+    "section": "五言律诗",
+    "title": "辋川闲居赠裴秀才迪",
+    "titleTraditional": "輞川閑居贈裴秀才迪",
+    "author": "王维",
+    "authorTraditional": "王維",
+    "dynasty": "唐代",
+    "aliases": [
+      "辋川闲居赠裴秀才迪"
+    ],
+    "lines": [
+      "寒山转苍翠，秋水日潺湲。",
+      "倚杖柴门外，临风听暮蝉。",
+      "渡头余落日，墟里上孤烟。",
+      "复值接舆醉，狂歌五柳前。"
+    ],
+    "linesTraditional": [
+      "寒山轉蒼翠，秋水日潺湲。",
+      "倚杖柴門外，臨風聽暮蟬。",
+      "渡頭餘落日，墟里上孤煙。",
+      "復值接輿醉，狂歌五柳前。"
+    ],
+    "text": "寒山转苍翠，秋水日潺湲。倚杖柴门外，临风听暮蝉。渡头余落日，墟里上孤烟。复值接舆醉，狂歌五柳前。",
+    "textTraditional": "寒山轉蒼翠，秋水日潺湲。倚杖柴門外，臨風聽暮蟬。渡頭餘落日，墟里上孤煙。復值接輿醉，狂歌五柳前。",
+    "displayLines": [
+      "寒山转苍翠，",
+      "秋水日潺湲。",
+      "倚杖柴门外，",
+      "临风听暮蝉。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "转",
+          "zhuǎn"
+        ],
+        [
+          "苍",
+          "cāng"
+        ],
+        [
+          "翠",
+          "cuì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "潺",
+          "chán"
+        ],
+        [
+          "湲",
+          "yuán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "倚",
+          "yǐ"
+        ],
+        [
+          "杖",
+          "zhàng"
+        ],
+        [
+          "柴",
+          "chái"
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "外",
+          "wài"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "临",
+          "lín"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "听",
+          "tīng"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "蝉",
+          "chán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "渡",
+          "dù"
+        ],
+        [
+          "头",
+          "tóu"
+        ],
+        [
+          "余",
+          "yú"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "墟",
+          "xū"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "值",
+          "zhí"
+        ],
+        [
+          "接",
+          "jiē"
+        ],
+        [
+          "舆",
+          "yú"
+        ],
+        [
+          "醉",
+          "zuì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "狂",
+          "kuáng"
+        ],
+        [
+          "歌",
+          "gē"
+        ],
+        [
+          "五",
+          "wǔ"
+        ],
+        [
+          "柳",
+          "liǔ"
+        ],
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "转",
+          "zhuǎn"
+        ],
+        [
+          "苍",
+          "cāng"
+        ],
+        [
+          "翠",
+          "cuì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "潺",
+          "chán"
+        ],
+        [
+          "湲",
+          "yuán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "倚",
+          "yǐ"
+        ],
+        [
+          "杖",
+          "zhàng"
+        ],
+        [
+          "柴",
+          "chái"
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "外",
+          "wài"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "临",
+          "lín"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "听",
+          "tīng"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "蝉",
+          "chán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "渡",
+          "dù"
+        ],
+        [
+          "头",
+          "tóu"
+        ],
+        [
+          "余",
+          "yú"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "墟",
+          "xū"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "值",
+          "zhí"
+        ],
+        [
+          "接",
+          "jiē"
+        ],
+        [
+          "舆",
+          "yú"
+        ],
+        [
+          "醉",
+          "zuì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "狂",
+          "kuáng"
+        ],
+        [
+          "歌",
+          "gē"
+        ],
+        [
+          "五",
+          "wǔ"
+        ],
+        [
+          "柳",
+          "liǔ"
+        ],
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "馀--一作 余"
+      },
+      {
+        "source": "chiuinan",
+        "text": "1.潺湲：音缠元，水流声。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.墟里：村落。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "3.接舆：楚狂。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "4.五柳：指陶渊明。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "写景",
+      "抒情",
+      "秋天"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseWangWeiAMESSAGEFROMMYLODGEATWANGCHUANTOPEIDI",
+      "translationRaw": "ThemountainsarecoldandbluenowAndtheautumnwatershaverunallday。Bymythatchdoor，leaningonmystaff，Ilistentocicadasintheeveningwind。Sunsetlingersattheferry，Supper-smokefloatsupfromthehouses。。。。Oh，whenshallIpledgethegreatHermitagainAndsingawildpoematFiveWillows？",
+      "translationClean": "ThemountainsarecoldandbluenowAndtheautumnwatershaverunallday. Bymythatchdoor, leaningonmystaff, Ilistentocicadasintheeveningwind. Sunsetlingersattheferry, Supper-smokefloatsupfromthehouses.... Oh, whenshallIpledgethegreatHermitagainAndsingawildpoematFiveWillows?",
+      "segments": [
+        "ThemountainsarecoldandbluenowAndtheautumnwatershaverunallday.",
+        "Bymythatchdoor, leaningonmystaff, Ilistentocicadasintheeveningwind.",
+        "Sunsetlingersattheferry, Supper-smokefloatsupfromthehouses....",
+        "Oh, whenshallIpledgethegreatHermitagainAndsingawildpoematFiveWillows?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 155,
+        "title": "辋川闲居赠裴秀才迪",
+        "author": "王维"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9805
+      },
+      "ctext": {
+        "matched": true,
+        "order": 115,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 212,
+        "score": 0.975,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "a2b4e8ca-92e3-4101-8a54-739b8f1d8184",
+        "score": 0.975
+      }
+    }
+  }
+}

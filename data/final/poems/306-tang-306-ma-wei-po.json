@@ -1,0 +1,356 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-306-ma-wei-po",
+    "order": 306,
+    "section": "七言绝句",
+    "title": "马嵬坡",
+    "titleTraditional": "馬嵬坡",
+    "author": "郑畋",
+    "authorTraditional": "鄭畋",
+    "dynasty": "唐代",
+    "aliases": [
+      "马嵬坡"
+    ],
+    "lines": [
+      "玄宗回马杨妃死，云雨难忘日月新。",
+      "终是圣明天子事，景阳宫井又何人。"
+    ],
+    "linesTraditional": [
+      "玄宗回馬楊妃死，雲雨難忘日月新。",
+      "終是聖明天子事，景陽宮井又何人。"
+    ],
+    "text": "玄宗回马杨妃死，云雨难忘日月新。终是圣明天子事，景阳宫井又何人。",
+    "textTraditional": "玄宗回馬楊妃死，雲雨難忘日月新。終是聖明天子事，景陽宮井又何人。",
+    "displayLines": [
+      "玄宗回马杨妃死，",
+      "云雨难忘日月新。",
+      "终是圣明天子事，",
+      "景阳宫井又何人。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "玄",
+          "xuán"
+        ],
+        [
+          "宗",
+          "zōng"
+        ],
+        [
+          "回",
+          "huí"
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "杨",
+          "yáng"
+        ],
+        [
+          "妃",
+          "fēi"
+        ],
+        [
+          "死",
+          "sǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "难",
+          "nán"
+        ],
+        [
+          "忘",
+          "wàng"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "终",
+          "zhōng"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "圣",
+          "shèng"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "子",
+          "zi"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "景",
+          "jǐng"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "井",
+          "jǐng"
+        ],
+        [
+          "又",
+          "yòu"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "玄",
+          "xuán"
+        ],
+        [
+          "宗",
+          "zōng"
+        ],
+        [
+          "回",
+          "huí"
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "杨",
+          "yáng"
+        ],
+        [
+          "妃",
+          "fēi"
+        ],
+        [
+          "死",
+          "sǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "难",
+          "nán"
+        ],
+        [
+          "忘",
+          "wàng"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "终",
+          "zhōng"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "圣",
+          "shèng"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "子",
+          "zi"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "景",
+          "jǐng"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "井",
+          "jǐng"
+        ],
+        [
+          "又",
+          "yòu"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.云雨：喻情爱。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.景阳宫井：陈后主与张丽华、孔贵嫔投其中，以避隋兵。"
+      }
+    ],
+    "tags": [
+      "七言绝句",
+      "带有地名",
+      "咏史",
+      "地名"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainZhengTianONMAWEISLOPE",
+      "translationRaw": "WhentheEmperorcamebackfromhisridetheyhadmurderedLadyYang--ThatpassionunforgettablethroughallthesunsandmoonsTheyhadledhimtoforsakeherbyremindinghimOfanemperorslainwithhisladyonce，inawellatJingyangPalace。",
+      "translationClean": "WhentheEmperorcamebackfromhisridetheyhadmurderedLadyYang--ThatpassionunforgettablethroughallthesunsandmoonsTheyhadledhimtoforsakeherbyremindinghimOfanemperorslainwithhisladyonce, inawellatJingyangPalace.",
+      "segments": [
+        "WhentheEmperorcamebackfromhisridetheyhadmurderedLadyYang--ThatpassionunforgettablethroughallthesunsandmoonsTheyhadledhimtoforsakeherbyremindinghimOfanemperorslainwithhisladyonce, inawellatJingyangPalace."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 201,
+        "title": "马嵬坡",
+        "author": "郑畋"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 306,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 179,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "7e75853a-bf7a-4d8d-b3e9-0537f4ed913a",
+        "score": 0.9286
+      }
+    }
+  }
+}

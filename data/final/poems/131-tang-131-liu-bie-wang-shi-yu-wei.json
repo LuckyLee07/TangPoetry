@@ -1,0 +1,492 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-131-liu-bie-wang-shi-yu-wei",
+    "order": 131,
+    "section": "五言律诗",
+    "title": "留别王侍御维",
+    "titleTraditional": "留別王侍禦維",
+    "author": "孟浩然",
+    "authorTraditional": "孟浩然",
+    "dynasty": "唐代",
+    "aliases": [
+      "留别王侍御维 / 留别王维",
+      "留别王侍御维"
+    ],
+    "lines": [
+      "寂寂竟何待，朝朝空自归。",
+      "欲寻芳草去，惜与故人违。",
+      "当路谁相假，知音世所稀。",
+      "祗应守寂寞，还掩故园扉。"
+    ],
+    "linesTraditional": [
+      "寂寂竟何待，朝朝空自歸。",
+      "欲尋芳草去，惜與故人違。",
+      "當路誰相假，知音世所稀。",
+      "祗應守寂寞，還掩故園扉。"
+    ],
+    "text": "寂寂竟何待，朝朝空自归。欲寻芳草去，惜与故人违。当路谁相假，知音世所稀。祗应守寂寞，还掩故园扉。",
+    "textTraditional": "寂寂竟何待，朝朝空自歸。欲尋芳草去，惜與故人違。當路誰相假，知音世所稀。祗應守寂寞，還掩故園扉。",
+    "displayLines": [
+      "寂寂竟何待，",
+      "朝朝空自归。",
+      "欲寻芳草去，",
+      "惜与故人违。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "寂",
+          "jì"
+        ],
+        [
+          "寂",
+          "jì"
+        ],
+        [
+          "竟",
+          "jìng"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "待",
+          "dài"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "寻",
+          "xún"
+        ],
+        [
+          "芳",
+          "fāng"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "惜",
+          "xī"
+        ],
+        [
+          "与",
+          "yǔ"
+        ],
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "违",
+          "wéi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "当",
+          "dāng"
+        ],
+        [
+          "路",
+          "lù"
+        ],
+        [
+          "谁",
+          "shuí"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "假",
+          "jiǎ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "音",
+          "yīn"
+        ],
+        [
+          "世",
+          "shì"
+        ],
+        [
+          "所",
+          "suǒ"
+        ],
+        [
+          "稀",
+          "xī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "祗",
+          "zhī"
+        ],
+        [
+          "应",
+          "yīng"
+        ],
+        [
+          "守",
+          "shǒu"
+        ],
+        [
+          "寂",
+          "jì"
+        ],
+        [
+          "寞",
+          "mò"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "掩",
+          "yǎn"
+        ],
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "园",
+          "yuán"
+        ],
+        [
+          "扉",
+          "fēi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "寂",
+          "jì"
+        ],
+        [
+          "寂",
+          "jì"
+        ],
+        [
+          "竟",
+          "jìng"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "待",
+          "dài"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "寻",
+          "xún"
+        ],
+        [
+          "芳",
+          "fāng"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "惜",
+          "xī"
+        ],
+        [
+          "与",
+          "yǔ"
+        ],
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "违",
+          "wéi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "当",
+          "dāng"
+        ],
+        [
+          "路",
+          "lù"
+        ],
+        [
+          "谁",
+          "shuí"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "假",
+          "jiǎ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "音",
+          "yīn"
+        ],
+        [
+          "世",
+          "shì"
+        ],
+        [
+          "所",
+          "suǒ"
+        ],
+        [
+          "稀",
+          "xī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "祗",
+          "zhī"
+        ],
+        [
+          "应",
+          "yīng"
+        ],
+        [
+          "守",
+          "shǒu"
+        ],
+        [
+          "寂",
+          "jì"
+        ],
+        [
+          "寞",
+          "mò"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "掩",
+          "yǎn"
+        ],
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "园",
+          "yuán"
+        ],
+        [
+          "扉",
+          "fēi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言律诗",
+      "归隐",
+      "友情",
+      "离别",
+      "哀怨"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseMengHaoranTAKINGLEAVEOFWANGWEI",
+      "translationRaw": "Slowandreluctant，IhavewaitedDayafterday，tillnowImustgo。Howsweettheroad-sideflowersmightbeIftheydidnotmeangood-bye，oldfriend。TheLordsoftheRealmareharshtousAndmenofaffairsarenotourkind。Iwillturnbackhome，Iwillsaynomore，Iwillclosethegateofmyoldgarden。",
+      "translationClean": "Slowandreluctant, IhavewaitedDayafterday, tillnowImustgo. Howsweettheroad-sideflowersmightbeIftheydidnotmeangood-bye, oldfriend. TheLordsoftheRealmareharshtousAndmenofaffairsarenotourkind. Iwillturnbackhome, Iwillsaynomore, Iwillclosethegateofmyoldgarden.",
+      "segments": [
+        "Slowandreluctant, IhavewaitedDayafterday, tillnowImustgo.",
+        "Howsweettheroad-sideflowersmightbeIftheydidnotmeangood-bye, oldfriend.",
+        "TheLordsoftheRealmareharshtousAndmenofaffairsarenotourkind.",
+        "Iwillturnbackhome, Iwillsaynomore, Iwillclosethegateofmyoldgarden."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 128,
+        "title": "留别王侍御维 / 留别王维",
+        "author": "孟浩然"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9805
+      },
+      "ctext": {
+        "matched": true,
+        "order": 131,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 228,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "7f4cacb5-cde8-40de-9b14-e223879cc2f4",
+        "score": 0.95
+      }
+    }
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-294-qiu-xi",
+    "order": 294,
+    "section": "七言绝句",
+    "title": "秋夕",
+    "titleTraditional": "秋夕",
+    "author": "杜牧",
+    "authorTraditional": "杜牧",
+    "dynasty": "唐代",
+    "aliases": [
+      "秋夕"
+    ],
+    "lines": [
+      "银烛秋光冷画屏，轻罗小扇扑流萤。",
+      "天阶夜色凉如水，坐看牵牛织女星。"
+    ],
+    "linesTraditional": [
+      "銀燭秋光冷畫屏，輕羅小扇撲流螢。",
+      "天階夜色涼如水，坐看牽牛織女星。"
+    ],
+    "text": "银烛秋光冷画屏，轻罗小扇扑流萤。天阶夜色凉如水，坐看牵牛织女星。",
+    "textTraditional": "銀燭秋光冷畫屏，輕羅小扇撲流螢。天階夜色涼如水，坐看牽牛織女星。",
+    "displayLines": [
+      "银烛秋光冷画屏，",
+      "轻罗小扇扑流萤。",
+      "天阶夜色凉如水，",
+      "坐看牵牛织女星。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "银",
+          "yín"
+        ],
+        [
+          "烛",
+          "zhú"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "光",
+          "guāng"
+        ],
+        [
+          "冷",
+          "lěng"
+        ],
+        [
+          "画",
+          "huà"
+        ],
+        [
+          "屏",
+          "píng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "轻",
+          "qīng"
+        ],
+        [
+          "罗",
+          "luó"
+        ],
+        [
+          "小",
+          "xiǎo"
+        ],
+        [
+          "扇",
+          "shàn"
+        ],
+        [
+          "扑",
+          "pū"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "萤",
+          "yíng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "阶",
+          "jiē"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "凉",
+          "liáng"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "坐",
+          "zuò"
+        ],
+        [
+          "看",
+          "kàn"
+        ],
+        [
+          "牵",
+          "qiān"
+        ],
+        [
+          "牛",
+          "niú"
+        ],
+        [
+          "织",
+          "zhī"
+        ],
+        [
+          "女",
+          "nǚ"
+        ],
+        [
+          "星",
+          "xīng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "银",
+          "yín"
+        ],
+        [
+          "烛",
+          "zhú"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "光",
+          "guāng"
+        ],
+        [
+          "冷",
+          "lěng"
+        ],
+        [
+          "画",
+          "huà"
+        ],
+        [
+          "屏",
+          "píng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "轻",
+          "qīng"
+        ],
+        [
+          "罗",
+          "luó"
+        ],
+        [
+          "小",
+          "xiǎo"
+        ],
+        [
+          "扇",
+          "shàn"
+        ],
+        [
+          "扑",
+          "pū"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "萤",
+          "yíng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "阶",
+          "jiē"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "凉",
+          "liáng"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "坐",
+          "zuò"
+        ],
+        [
+          "看",
+          "kàn"
+        ],
+        [
+          "牵",
+          "qiān"
+        ],
+        [
+          "牛",
+          "niú"
+        ],
+        [
+          "织",
+          "zhī"
+        ],
+        [
+          "女",
+          "nǚ"
+        ],
+        [
+          "星",
+          "xīng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "天阶--一作 ：天街"
+      },
+      {
+        "source": "唐诗三百首.json",
+        "text": "卧看--一作 ：坐看"
+      }
+    ],
+    "tags": [
+      "七言绝句"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainDuMuINTHEAUTUMNNIGHT",
+      "translationRaw": "Hercandle-lightissilveryonherchillbrightscreen。Herlittlesilkfanisforfireflies。。。。Shelieswatchingherstaircasecoldinthemoon，AndtwostarspartedbytheRiverofHeaven。",
+      "translationClean": "Hercandle-lightissilveryonherchillbrightscreen. Herlittlesilkfanisforfireflies.... Shelieswatchingherstaircasecoldinthemoon, AndtwostarspartedbytheRiverofHeaven.",
+      "segments": [
+        "Hercandle-lightissilveryonherchillbrightscreen.",
+        "Herlittlesilkfanisforfireflies....",
+        "Shelieswatchingherstaircasecoldinthemoon, AndtwostarspartedbytheRiverofHeaven."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 231,
+        "title": "秋夕",
+        "author": "杜牧"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9721
+      },
+      "ctext": {
+        "matched": true,
+        "order": 294,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 167,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "d12edd29-d467-4b19-b3f5-533fa5c8d56a",
+        "score": 0.9286
+      }
+    }
+  }
+}

@@ -1,0 +1,500 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-094-he-jin-ling-lu-cheng-zao-chun-you-wang",
+    "order": 94,
+    "section": "五言律诗",
+    "title": "和晋陵路丞早春游望",
+    "titleTraditional": "和晉陵路丞早春遊望",
+    "author": "杜审言",
+    "authorTraditional": "杜審言",
+    "dynasty": "唐代",
+    "aliases": [
+      "和晋陵陆丞早春游望",
+      "和晋陵路丞早春游望"
+    ],
+    "lines": [
+      "独有宦游人，偏惊物候新。",
+      "云霞出海曙，梅柳渡江春。",
+      "淑气催黄鸟，晴光转绿苹。",
+      "忽闻歌古调，归思欲沾巾。"
+    ],
+    "linesTraditional": [
+      "獨有宦遊人，偏驚物候新。",
+      "雲霞出海曙，梅柳渡江春。",
+      "淑氣催黃鳥，晴光轉綠蘋。",
+      "忽聞歌古調，歸思欲霑巾。"
+    ],
+    "text": "独有宦游人，偏惊物候新。云霞出海曙，梅柳渡江春。淑气催黄鸟，晴光转绿苹。忽闻歌古调，归思欲沾巾。",
+    "textTraditional": "獨有宦遊人，偏驚物候新。雲霞出海曙，梅柳渡江春。淑氣催黃鳥，晴光轉綠蘋。忽聞歌古調，歸思欲霑巾。",
+    "displayLines": [
+      "独有宦游人，",
+      "偏惊物候新。",
+      "云霞出海曙，",
+      "梅柳渡江春。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "宦",
+          "huàn"
+        ],
+        [
+          "游",
+          "yóu"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "偏",
+          "piān"
+        ],
+        [
+          "惊",
+          "jīng"
+        ],
+        [
+          "物",
+          "wù"
+        ],
+        [
+          "候",
+          "hòu"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "霞",
+          "xiá"
+        ],
+        [
+          "出",
+          "chū"
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "曙",
+          "shǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "梅",
+          "méi"
+        ],
+        [
+          "柳",
+          "liǔ"
+        ],
+        [
+          "渡",
+          "dù"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "淑",
+          "shū"
+        ],
+        [
+          "气",
+          "qì"
+        ],
+        [
+          "催",
+          "cuī"
+        ],
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "晴",
+          "qíng"
+        ],
+        [
+          "光",
+          "guāng"
+        ],
+        [
+          "转",
+          "zhuǎn"
+        ],
+        [
+          "绿",
+          "lǜ"
+        ],
+        [
+          "苹",
+          "píng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "忽",
+          "hū"
+        ],
+        [
+          "闻",
+          "wén"
+        ],
+        [
+          "歌",
+          "gē"
+        ],
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "调",
+          "diào"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "思",
+          "sī"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "沾",
+          "zhān"
+        ],
+        [
+          "巾",
+          "jīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "宦",
+          "huàn"
+        ],
+        [
+          "游",
+          "yóu"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "偏",
+          "piān"
+        ],
+        [
+          "惊",
+          "jīng"
+        ],
+        [
+          "物",
+          "wù"
+        ],
+        [
+          "候",
+          "hòu"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "霞",
+          "xiá"
+        ],
+        [
+          "出",
+          "chū"
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "曙",
+          "shǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "梅",
+          "méi"
+        ],
+        [
+          "柳",
+          "liǔ"
+        ],
+        [
+          "渡",
+          "dù"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "淑",
+          "shū"
+        ],
+        [
+          "气",
+          "qì"
+        ],
+        [
+          "催",
+          "cuī"
+        ],
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "晴",
+          "qíng"
+        ],
+        [
+          "光",
+          "guāng"
+        ],
+        [
+          "转",
+          "zhuǎn"
+        ],
+        [
+          "绿",
+          "lǜ"
+        ],
+        [
+          "苹",
+          "píng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "忽",
+          "hū"
+        ],
+        [
+          "闻",
+          "wén"
+        ],
+        [
+          "歌",
+          "gē"
+        ],
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "调",
+          "diào"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "思",
+          "sī"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "沾",
+          "zhān"
+        ],
+        [
+          "巾",
+          "jīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.淑气：春天温和的气候。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.黄鸟：即黄鹂，亦名仓庚、黄莺。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "春天",
+      "伤怀",
+      "和诗",
+      "思乡"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseDuShenyanONAWALKINTHEEARLYSPRINGHARMONIZINGAPOEMBYMYFRIENDLUSTATIONEDATCHANGZHOU",
+      "translationRaw": "OnlytowandererscancomeEvernewtheshockofbeauty，Ofwhitecloudandredclouddawningfromthesea，Ofspringinthewild-plumandriver-willow。。。。Iwatchayelloworioledartinthewarmair，Andagreenwater-plantreflectedbythesun。SuddenlyanoldsongfillsMyheartwithhome，myeyeswithtears。",
+      "translationClean": "OnlytowandererscancomeEvernewtheshockofbeauty, Ofwhitecloudandredclouddawningfromthesea, Ofspringinthewild-plumandriver-willow.... Iwatchayelloworioledartinthewarmair, Andagreenwater-plantreflectedbythesun. SuddenlyanoldsongfillsMyheartwithhome, myeyeswithtears.",
+      "segments": [
+        "OnlytowandererscancomeEvernewtheshockofbeauty, Ofwhitecloudandredclouddawningfromthesea, Ofspringinthewild-plumandriver-willow....",
+        "Iwatchayelloworioledartinthewarmair, Andagreenwater-plantreflectedbythesun.",
+        "SuddenlyanoldsongfillsMyheartwithhome, myeyeswithtears."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 112,
+        "title": "和晋陵陆丞早春游望",
+        "author": "杜审言"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9811
+      },
+      "ctext": {
+        "matched": true,
+        "order": 94,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 191,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "b881b056-6d92-45e8-9620-4710a375776f",
+        "score": 1
+      }
+    }
+  }
+}

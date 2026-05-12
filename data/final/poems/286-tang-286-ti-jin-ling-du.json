@@ -1,0 +1,346 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-286-ti-jin-ling-du",
+    "order": 286,
+    "section": "七言绝句",
+    "title": "题金陵渡",
+    "titleTraditional": "題金陵渡",
+    "author": "张祜",
+    "authorTraditional": "張祜",
+    "dynasty": "唐代",
+    "aliases": [
+      "题金陵渡"
+    ],
+    "lines": [
+      "金陵津渡小山楼，一宿行人自可愁。",
+      "潮落夜江斜月里，两三星火是瓜州。"
+    ],
+    "linesTraditional": [
+      "金陵津渡小山樓，一宿行人自可愁。",
+      "潮落夜江斜月裡，兩三星火是瓜州。"
+    ],
+    "text": "金陵津渡小山楼，一宿行人自可愁。潮落夜江斜月里，两三星火是瓜州。",
+    "textTraditional": "金陵津渡小山樓，一宿行人自可愁。潮落夜江斜月裡，兩三星火是瓜州。",
+    "displayLines": [
+      "金陵津渡小山楼，",
+      "一宿行人自可愁。",
+      "潮落夜江斜月里，",
+      "两三星火是瓜州。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "陵",
+          "líng"
+        ],
+        [
+          "津",
+          "jīn"
+        ],
+        [
+          "渡",
+          "dù"
+        ],
+        [
+          "小",
+          "xiǎo"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "宿",
+          "xiǔ"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "可",
+          "kě"
+        ],
+        [
+          "愁",
+          "chóu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "潮",
+          "cháo"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "斜",
+          "xié"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "两",
+          "liǎng"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "星",
+          "xīng"
+        ],
+        [
+          "火",
+          "huǒ"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "瓜",
+          "guā"
+        ],
+        [
+          "州",
+          "zhōu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "陵",
+          "líng"
+        ],
+        [
+          "津",
+          "jīn"
+        ],
+        [
+          "渡",
+          "dù"
+        ],
+        [
+          "小",
+          "xiǎo"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "宿",
+          "xiǔ"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "可",
+          "kě"
+        ],
+        [
+          "愁",
+          "chóu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "潮",
+          "cháo"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "斜",
+          "xié"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "两",
+          "liǎng"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "星",
+          "xīng"
+        ],
+        [
+          "火",
+          "huǒ"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "瓜",
+          "guā"
+        ],
+        [
+          "州",
+          "zhōu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "七言绝句",
+      "抒情",
+      "旅途"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainZhangHuATNANJINGFERRY",
+      "translationRaw": "Thisone-storyinnatNanjingferryIsamiserablelodging-placeforthenight--Butacrossthedeadmoon』sebbingtide，LightsfromGuazhoubeckonontheriver。",
+      "translationClean": "Thisone-storyinnatNanjingferryIsamiserablelodging-placeforthenight--Butacrossthedeadmoon'sebbingtide, LightsfromGuazhoubeckonontheriver.",
+      "segments": [
+        "Thisone-storyinnatNanjingferryIsamiserablelodging-placeforthenight--Butacrossthedeadmoon'sebbingtide, LightsfromGuazhoubeckonontheriver."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 17,
+        "title": "题金陵渡",
+        "author": "张祜"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 286,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 159,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "bce40ff4-816c-490c-be30-04de15f7c25e",
+        "score": 1
+      }
+    }
+  }
+}

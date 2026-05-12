@@ -1,0 +1,536 @@
+{
+  "generatedAt": "2026-05-10T14:36:44+00:00",
+  "output": "data/final/tang_poems_final.json",
+  "stats": {
+    "poemCount": 317,
+    "ctextMatched": 317,
+    "chiuinanMatched": 310,
+    "tang300NewMatched": 306,
+    "poemsWithNotes": 227,
+    "poemsWithTags": 317,
+    "missingCtextOrders": [
+      43,
+      134,
+      278
+    ]
+  },
+  "firstPoems": [
+    {
+      "order": 1,
+      "title": "感遇其一",
+      "author": "张九龄",
+      "section": "五言古诗",
+      "aliases": [
+        "感遇十二首·其四",
+        "感遇其一"
+      ]
+    },
+    {
+      "order": 2,
+      "title": "感遇其二",
+      "author": "张九龄",
+      "section": "五言古诗",
+      "aliases": [
+        "感遇十二首·其一",
+        "感遇其二"
+      ]
+    },
+    {
+      "order": 3,
+      "title": "感遇其三",
+      "author": "张九龄",
+      "section": "五言古诗",
+      "aliases": [
+        "感遇十二首·其二",
+        "感遇其三"
+      ]
+    },
+    {
+      "order": 4,
+      "title": "感遇其四",
+      "author": "张九龄",
+      "section": "五言古诗",
+      "aliases": [
+        "感遇·江南有丹橘",
+        "感遇其四"
+      ]
+    },
+    {
+      "order": 5,
+      "title": "下终南山过斛斯山人宿置酒",
+      "author": "李白",
+      "section": "五言古诗",
+      "aliases": [
+        "下终南山过斛斯山人宿置酒"
+      ]
+    },
+    {
+      "order": 6,
+      "title": "月下独酌",
+      "author": "李白",
+      "section": "五言古诗",
+      "aliases": [
+        "月下独酌四首·其一",
+        "月下独酌"
+      ]
+    },
+    {
+      "order": 7,
+      "title": "春思",
+      "author": "李白",
+      "section": "五言古诗",
+      "aliases": [
+        "春思"
+      ]
+    },
+    {
+      "order": 8,
+      "title": "望岳",
+      "author": "杜甫",
+      "section": "五言古诗",
+      "aliases": [
+        "望岳"
+      ]
+    },
+    {
+      "order": 9,
+      "title": "赠卫八处士",
+      "author": "杜甫",
+      "section": "五言古诗",
+      "aliases": [
+        "赠卫八处士"
+      ]
+    },
+    {
+      "order": 10,
+      "title": "佳人",
+      "author": "杜甫",
+      "section": "五言古诗",
+      "aliases": [
+        "佳人"
+      ]
+    },
+    {
+      "order": 11,
+      "title": "梦李白之一",
+      "author": "杜甫",
+      "section": "五言古诗",
+      "aliases": [
+        "梦李白二首·其一",
+        "梦李白之一"
+      ]
+    },
+    {
+      "order": 12,
+      "title": "梦李白之二",
+      "author": "杜甫",
+      "section": "五言古诗",
+      "aliases": [
+        "梦李白二首·其二",
+        "梦李白之二"
+      ]
+    }
+  ],
+  "poemsWithoutNotes": [
+    {
+      "order": 11,
+      "title": "梦李白之一",
+      "author": "杜甫"
+    },
+    {
+      "order": 12,
+      "title": "梦李白之二",
+      "author": "杜甫"
+    },
+    {
+      "order": 26,
+      "title": "贼退示官吏并序",
+      "author": "元结"
+    },
+    {
+      "order": 29,
+      "title": "寄全椒山中道士",
+      "author": "韦应物"
+    },
+    {
+      "order": 36,
+      "title": "塞上曲",
+      "author": "王昌龄"
+    },
+    {
+      "order": 39,
+      "title": "子夜四时歌春歌",
+      "author": "李白"
+    },
+    {
+      "order": 40,
+      "title": "子夜四时歌夏歌",
+      "author": "李白"
+    },
+    {
+      "order": 41,
+      "title": "子夜四时歌秋歌",
+      "author": "李白"
+    },
+    {
+      "order": 42,
+      "title": "子夜四时歌冬歌",
+      "author": "李白"
+    },
+    {
+      "order": 45,
+      "title": "游子吟",
+      "author": "孟郊"
+    },
+    {
+      "order": 46,
+      "title": "登幽州台歌",
+      "author": "陈子昂"
+    },
+    {
+      "order": 64,
+      "title": "观公孙大娘弟子舞剑器行并序",
+      "author": "杜甫"
+    },
+    {
+      "order": 65,
+      "title": "石鱼湖上醉歌并序",
+      "author": "元结"
+    },
+    {
+      "order": 91,
+      "title": "望月怀远",
+      "author": "张九龄"
+    },
+    {
+      "order": 95,
+      "title": "杂诗",
+      "author": "沈佺期"
+    },
+    {
+      "order": 108,
+      "title": "至德二载甫自京金光门出，问道归凤翔。乾元初从左拾遗移华州掾。与亲故别，因出此门。有悲往事。",
+      "author": "杜甫"
+    },
+    {
+      "order": 111,
+      "title": "奉济驿重送严公四韵",
+      "author": "杜甫"
+    },
+    {
+      "order": 116,
+      "title": "山居秋暝",
+      "author": "王维"
+    },
+    {
+      "order": 119,
+      "title": "酬张少府",
+      "author": "王维"
+    },
+    {
+      "order": 122,
+      "title": "汉江临眺",
+      "author": "王维"
+    },
+    {
+      "order": 123,
+      "title": "终南别业",
+      "author": "王维"
+    },
+    {
+      "order": 124,
+      "title": "望洞庭湖赠张丞相",
+      "author": "孟浩然"
+    },
+    {
+      "order": 128,
+      "title": "过故人庄",
+      "author": "孟浩然"
+    },
+    {
+      "order": 129,
+      "title": "秦中感秋寄远上人",
+      "author": "孟浩然"
+    },
+    {
+      "order": 131,
+      "title": "留别王侍御维",
+      "author": "孟浩然"
+    },
+    {
+      "order": 133,
+      "title": "秋日登吴公台上寺远眺",
+      "author": "刘长卿"
+    },
+    {
+      "order": 135,
+      "title": "饯别王十一南游",
+      "author": "刘长卿"
+    },
+    {
+      "order": 137,
+      "title": "新年作",
+      "author": "刘长卿"
+    },
+    {
+      "order": 138,
+      "title": "送僧归日本",
+      "author": "钱起"
+    },
+    {
+      "order": 141,
+      "title": "赋得暮雨送李胄",
+      "author": "韦应物"
+    },
+    {
+      "order": 143,
+      "title": "阙题",
+      "author": "刘脊虚"
+    },
+    {
+      "order": 146,
+      "title": "喜见外弟又言别",
+      "author": "李益"
+    },
+    {
+      "order": 147,
+      "title": "云阳馆与韩绅宿别",
+      "author": "司空曙"
+    },
+    {
+      "order": 149,
+      "title": "贼平后送人北归",
+      "author": "司空曙"
+    },
+    {
+      "order": 157,
+      "title": "风雨",
+      "author": "李商隐"
+    },
+    {
+      "order": 159,
+      "title": "凉思",
+      "author": "李商隐"
+    },
+    {
+      "order": 161,
+      "title": "送人东游",
+      "author": "温庭筠"
+    },
+    {
+      "order": 162,
+      "title": "灞上秋居",
+      "author": "马戴"
+    },
+    {
+      "order": 165,
+      "title": "巴山道中除夜有怀",
+      "author": "崔涂"
+    },
+    {
+      "order": 168,
+      "title": "章台夜思",
+      "author": "韦庄"
+    },
+    {
+      "order": 169,
+      "title": "寻陆鸿渐不遇",
+      "author": "僧皎然"
+    },
+    {
+      "order": 173,
+      "title": "送魏万之京",
+      "author": "李颀"
+    },
+    {
+      "order": 174,
+      "title": "九日登望仙台呈刘明府",
+      "author": "崔曙"
+    },
+    {
+      "order": 176,
+      "title": "送李少府贬峡中王少府贬长沙",
+      "author": "高适"
+    },
+    {
+      "order": 177,
+      "title": "奉和中书舍人贾至早朝大明宫",
+      "author": "岑参"
+    },
+    {
+      "order": 199,
+      "title": "寄李儋元锡",
+      "author": "韦应物"
+    },
+    {
+      "order": 210,
+      "title": "无题",
+      "author": "李商隐"
+    },
+    {
+      "order": 222,
+      "title": "贫女",
+      "author": "秦韬玉"
+    },
+    {
+      "order": 228,
+      "title": "杂诗",
+      "author": "王维"
+    },
+    {
+      "order": 230,
+      "title": "终南望余雪",
+      "author": "祖咏"
+    },
+    {
+      "order": 232,
+      "title": "春晓",
+      "author": "孟浩然"
+    },
+    {
+      "order": 233,
+      "title": "夜思",
+      "author": "李白"
+    },
+    {
+      "order": 236,
+      "title": "登鹳雀楼",
+      "author": "王之涣"
+    },
+    {
+      "order": 239,
+      "title": "送上人",
+      "author": "刘长卿"
+    },
+    {
+      "order": 240,
+      "title": "秋夜寄邱员外",
+      "author": "韦应物"
+    },
+    {
+      "order": 241,
+      "title": "听筝",
+      "author": "李端"
+    },
+    {
+      "order": 244,
+      "title": "江雪",
+      "author": "柳宗元"
+    },
+    {
+      "order": 245,
+      "title": "行宫",
+      "author": "元稹"
+    },
+    {
+      "order": 248,
+      "title": "登乐游原",
+      "author": "李商隐"
+    },
+    {
+      "order": 249,
+      "title": "寻隐者不遇",
+      "author": "贾岛"
+    },
+    {
+      "order": 250,
+      "title": "渡汉江",
+      "author": "李频"
+    },
+    {
+      "order": 251,
+      "title": "春怨",
+      "author": "金昌绪"
+    },
+    {
+      "order": 252,
+      "title": "哥舒歌",
+      "author": "西鄙人"
+    },
+    {
+      "order": 253,
+      "title": "长干行二首之一",
+      "author": "崔颢"
+    },
+    {
+      "order": 254,
+      "title": "长干行二首之二",
+      "author": "崔颢"
+    },
+    {
+      "order": 258,
+      "title": "塞下曲四首之三",
+      "author": "卢纶"
+    },
+    {
+      "order": 259,
+      "title": "塞下曲四首之四",
+      "author": "卢纶"
+    },
+    {
+      "order": 260,
+      "title": "江南曲",
+      "author": "李益"
+    },
+    {
+      "order": 262,
+      "title": "桃花谿",
+      "author": "张旭"
+    },
+    {
+      "order": 263,
+      "title": "九月九日忆山东兄弟",
+      "author": "王维"
+    },
+    {
+      "order": 267,
+      "title": "凉州词",
+      "author": "王翰"
+    },
+    {
+      "order": 269,
+      "title": "下江陵",
+      "author": "李白"
+    },
+    {
+      "order": 270,
+      "title": "逢入京使",
+      "author": "岑参"
+    },
+    {
+      "order": 271,
+      "title": "江南逢李龟年",
+      "author": "杜甫"
+    },
+    {
+      "order": 272,
+      "title": "滁州西涧",
+      "author": "韦应物"
+    },
+    {
+      "order": 273,
+      "title": "枫桥夜泊",
+      "author": "张继"
+    },
+    {
+      "order": 277,
+      "title": "征人怨",
+      "author": "柳中庸"
+    },
+    {
+      "order": 279,
+      "title": "夜上受降城闻笛",
+      "author": "李益"
+    },
+    {
+      "order": 286,
+      "title": "题金陵渡",
+      "author": "张祜"
+    },
+    {
+      "order": 288,
+      "title": "近试上张水部",
+      "author": "朱庆余"
+    }
+  ]
+}

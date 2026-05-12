@@ -1,0 +1,390 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-040-zi-ye-si-shi-ge-xia-ge",
+    "order": 40,
+    "section": "乐府",
+    "title": "子夜四时歌夏歌",
+    "titleTraditional": "子夜四時歌夏歌",
+    "author": "李白",
+    "authorTraditional": "李白",
+    "dynasty": "唐代",
+    "aliases": [
+      "子夜吴歌·夏歌",
+      "子夜四时歌夏歌"
+    ],
+    "lines": [
+      "镜湖三百里，菡萏发荷花。",
+      "五月西施采，人看隘若耶。",
+      "回舟不待月，归去越王家。"
+    ],
+    "linesTraditional": [
+      "鏡湖三百里，菡萏發荷花。",
+      "五月西施採，人看隘若耶。",
+      "回舟不待月，歸去越王家。"
+    ],
+    "text": "镜湖三百里，菡萏发荷花。五月西施采，人看隘若耶。回舟不待月，归去越王家。",
+    "textTraditional": "鏡湖三百里，菡萏發荷花。五月西施採，人看隘若耶。回舟不待月，歸去越王家。",
+    "displayLines": [
+      "镜湖三百里，",
+      "菡萏发荷花。",
+      "五月西施采，",
+      "人看隘若耶。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "镜",
+          "jìng"
+        ],
+        [
+          "湖",
+          "hú"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "百",
+          "bǎi"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "菡",
+          "hàn"
+        ],
+        [
+          "萏",
+          "dàn"
+        ],
+        [
+          "发",
+          "fā"
+        ],
+        [
+          "荷",
+          "hé"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "五",
+          "wǔ"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "施",
+          "shī"
+        ],
+        [
+          "采",
+          "cǎi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "看",
+          "kàn"
+        ],
+        [
+          "隘",
+          "ài"
+        ],
+        [
+          "若",
+          "ruò"
+        ],
+        [
+          "耶",
+          "yé"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "回",
+          "huí"
+        ],
+        [
+          "舟",
+          "zhōu"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "待",
+          "dài"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "越",
+          "yuè"
+        ],
+        [
+          "王",
+          "wáng"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "镜",
+          "jìng"
+        ],
+        [
+          "湖",
+          "hú"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "百",
+          "bǎi"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "菡",
+          "hàn"
+        ],
+        [
+          "萏",
+          "dàn"
+        ],
+        [
+          "发",
+          "fā"
+        ],
+        [
+          "荷",
+          "hé"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "五",
+          "wǔ"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "施",
+          "shī"
+        ],
+        [
+          "采",
+          "cǎi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "看",
+          "kàn"
+        ],
+        [
+          "隘",
+          "ài"
+        ],
+        [
+          "若",
+          "ruò"
+        ],
+        [
+          "耶",
+          "yé"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "回",
+          "huí"
+        ],
+        [
+          "舟",
+          "zhōu"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "待",
+          "dài"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "越",
+          "yuè"
+        ],
+        [
+          "王",
+          "wáng"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "乐府",
+      "清商曲辞",
+      "夏天",
+      "哲理",
+      "写人",
+      "荷花"
+    ],
+    "english": {
+      "headingRaw": "Folk-song-styled-verseLiBaiBALLADSOFFOURSEASONS：SUMMER",
+      "translationRaw": "OnMirrorLakeoutspreadformilesandmiles，Thelotusliliesinfullblossomteem。InfifthmoonXiShigathersthemwithsmiles，Watcherso』erwhelmthebankofYuoyeStream。HerboatturnsbackwithoutwaitingmoonriseToyoyalhouseamidamoroussighs。",
+      "translationClean": "OnMirrorLakeoutspreadformilesandmiles, Thelotusliliesinfullblossomteem. InfifthmoonXiShigathersthemwithsmiles, Watcherso'erwhelmthebankofYuoyeStream. HerboatturnsbackwithoutwaitingmoonriseToyoyalhouseamidamoroussighs.",
+      "segments": [
+        "OnMirrorLakeoutspreadformilesandmiles, Thelotusliliesinfullblossomteem.",
+        "InfifthmoonXiShigathersthemwithsmiles, Watcherso'erwhelmthebankofYuoyeStream.",
+        "HerboatturnsbackwithoutwaitingmoonriseToyoyalhouseamidamoroussighs."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 224,
+        "title": "子夜吴歌·夏歌",
+        "author": "李白"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9608
+      },
+      "ctext": {
+        "matched": true,
+        "order": 40,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 40,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "abb3e465-f10e-43dd-b564-a5de08010478",
+        "score": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,504 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-112-bie-fang-tai-wei-mu",
+    "order": 112,
+    "section": "五言律诗",
+    "title": "别房太尉墓",
+    "titleTraditional": "別房太尉墓",
+    "author": "杜甫",
+    "authorTraditional": "杜甫",
+    "dynasty": "唐代",
+    "aliases": [
+      "别房太尉墓"
+    ],
+    "lines": [
+      "他乡复行役，驻马别孤坟。",
+      "近泪无干土，低空有断云。",
+      "对棋陪谢傅，把剑觅徐君。",
+      "唯见林花落，莺啼送客闻。"
+    ],
+    "linesTraditional": [
+      "他鄉復行役，駐馬別孤墳。",
+      "近淚無乾土，低空有斷雲。",
+      "對棋陪謝傅，把劍覓徐君。",
+      "唯見林花落，鶯啼送客聞。"
+    ],
+    "text": "他乡复行役，驻马别孤坟。近泪无干土，低空有断云。对棋陪谢傅，把剑觅徐君。唯见林花落，莺啼送客闻。",
+    "textTraditional": "他鄉復行役，駐馬別孤墳。近淚無乾土，低空有斷雲。對棋陪謝傅，把劍覓徐君。唯見林花落，鶯啼送客聞。",
+    "displayLines": [
+      "他乡复行役，",
+      "驻马别孤坟。",
+      "近泪无干土，",
+      "低空有断云。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "他",
+          "tā"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "役",
+          "yì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "驻",
+          "zhù"
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "坟",
+          "fén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "近",
+          "jìn"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "干",
+          "gān"
+        ],
+        [
+          "土",
+          "tǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "低",
+          "dī"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "断",
+          "duàn"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "对",
+          "duì"
+        ],
+        [
+          "棋",
+          "qí"
+        ],
+        [
+          "陪",
+          "péi"
+        ],
+        [
+          "谢",
+          "xiè"
+        ],
+        [
+          "傅",
+          "fù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "把",
+          "bǎ"
+        ],
+        [
+          "剑",
+          "jiàn"
+        ],
+        [
+          "觅",
+          "mì"
+        ],
+        [
+          "徐",
+          "xú"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "唯",
+          "wéi"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "莺",
+          "yīng"
+        ],
+        [
+          "啼",
+          "tí"
+        ],
+        [
+          "送",
+          "sòng"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "闻",
+          "wén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "他",
+          "tā"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "役",
+          "yì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "驻",
+          "zhù"
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "坟",
+          "fén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "近",
+          "jìn"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "干",
+          "gān"
+        ],
+        [
+          "土",
+          "tǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "低",
+          "dī"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "断",
+          "duàn"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "对",
+          "duì"
+        ],
+        [
+          "棋",
+          "qí"
+        ],
+        [
+          "陪",
+          "péi"
+        ],
+        [
+          "谢",
+          "xiè"
+        ],
+        [
+          "傅",
+          "fù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "把",
+          "bǎ"
+        ],
+        [
+          "剑",
+          "jiàn"
+        ],
+        [
+          "觅",
+          "mì"
+        ],
+        [
+          "徐",
+          "xú"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "唯",
+          "wéi"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "莺",
+          "yīng"
+        ],
+        [
+          "啼",
+          "tí"
+        ],
+        [
+          "送",
+          "sòng"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "闻",
+          "wén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.谢传：指晋谢安，常与姪谢玄对棋。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.徐君：季札聘晋，过徐，心知徐君爱其宝剑。及还，徐君已殁，遂解剑"
+      },
+      {
+        "source": "chiuinan",
+        "text": "系其冢树而去。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "忧国忧民",
+      "感伤",
+      "悼亡"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseDuFuONLEAVINGTHETOMBOFPREMIERFANG",
+      "translationRaw": "Havingtotravelbacknowfromthisfarplace，Idismountbesideyourlonelytomb。ThegroundwhereIstandiswetwithmytears；Theskyisdarkwithbrokenclouds。。。。IwhoplayedchesswiththegreatPremierAmbringingtomylordthedaggerhedesired。ButIfindonlypetalsfallingdown，Ihearonlylinnetsanswering。",
+      "translationClean": "Havingtotravelbacknowfromthisfarplace, Idismountbesideyourlonelytomb. ThegroundwhereIstandiswetwithmytears; Theskyisdarkwithbrokenclouds.... IwhoplayedchesswiththegreatPremierAmbringingtomylordthedaggerhedesired. ButIfindonlypetalsfallingdown, Ihearonlylinnetsanswering.",
+      "segments": [
+        "Havingtotravelbacknowfromthisfarplace, Idismountbesideyourlonelytomb.",
+        "ThegroundwhereIstandiswetwithmytears;",
+        "Theskyisdarkwithbrokenclouds....",
+        "IwhoplayedchesswiththegreatPremierAmbringingtomylordthedaggerhedesired.",
+        "ButIfindonlypetalsfallingdown, Ihearonlylinnetsanswering."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 309,
+        "title": "别房太尉墓",
+        "author": "杜甫"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 112,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 209,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "c19e64b1-604b-40b7-9e41-6ef57b9c6f7b",
+        "score": 0.925
+      }
+    }
+  }
+}

@@ -1,0 +1,450 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-013-song-bie",
+    "order": 13,
+    "section": "五言古诗",
+    "title": "送别",
+    "titleTraditional": "送別",
+    "author": "王维",
+    "authorTraditional": "王維",
+    "dynasty": "唐代",
+    "aliases": [
+      "送别"
+    ],
+    "lines": [
+      "下马饮君酒，问君何所之？",
+      "君言不得意，归卧南山陲。",
+      "但去莫复闻，白云无尽时。",
+      "又作问"
+    ],
+    "linesTraditional": [
+      "下馬飲君酒，問君何所之？",
+      "君言不得意，歸臥南山陲。",
+      "但去莫復聞，白雲無盡時。",
+      "又作問"
+    ],
+    "text": "下马饮君酒，问君何所之？君言不得意，归卧南山陲。但去莫复闻，白云无尽时。又作问",
+    "textTraditional": "下馬飲君酒，問君何所之？君言不得意，歸臥南山陲。但去莫復聞，白雲無盡時。又作問",
+    "displayLines": [
+      "下马饮君酒，",
+      "问君何所之？",
+      "君言不得意，",
+      "归卧南山陲。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "饮",
+          "yǐn"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "酒",
+          "jiǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "所",
+          "suǒ"
+        ],
+        [
+          "之",
+          "zhī"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "言",
+          "yán"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "得",
+          "dé"
+        ],
+        [
+          "意",
+          "yì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "卧",
+          "wò"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "陲",
+          "chuí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "但",
+          "dàn"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "莫",
+          "mò"
+        ],
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "闻",
+          "wén"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "尽",
+          "jìn"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "又",
+          "yòu"
+        ],
+        [
+          "作",
+          "zuò"
+        ],
+        [
+          "问",
+          "wèn"
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "饮",
+          "yǐn"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "酒",
+          "jiǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "所",
+          "suǒ"
+        ],
+        [
+          "之",
+          "zhī"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "言",
+          "yán"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "得",
+          "dé"
+        ],
+        [
+          "意",
+          "yì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "卧",
+          "wò"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "陲",
+          "chuí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "但",
+          "dàn"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "莫",
+          "mò"
+        ],
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "闻",
+          "wén"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "尽",
+          "jìn"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "又",
+          "yòu"
+        ],
+        [
+          "作",
+          "zuò"
+        ],
+        [
+          "问",
+          "wèn"
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.陲：音\"垂\"，边。"
+      }
+    ],
+    "tags": [
+      "五言古诗",
+      "抒情",
+      "写景",
+      "友情",
+      "送别"
+    ],
+    "english": {
+      "headingRaw": "Five-character-quatrainWangWeiATPARTING",
+      "translationRaw": "IdismountfrommyhorseandIofferyouwine，AndIaskyouwhereyouaregoingandwhy。Andyouanswer：\"IamdiscontentAndwouldrestatthefootofthesouthernmountain。Sogivemeleaveandaskmenoquestions。Whitecloudspasstherewithoutend。\"",
+      "translationClean": "IdismountfrommyhorseandIofferyouwine, AndIaskyouwhereyouaregoingandwhy. Andyouanswer: \"IamdiscontentAndwouldrestatthefootofthesouthernmountain. Sogivemeleaveandaskmenoquestions. Whitecloudspasstherewithoutend. \"",
+      "segments": [
+        "IdismountfrommyhorseandIofferyouwine, AndIaskyouwhereyouaregoingandwhy.",
+        "Andyouanswer: \"IamdiscontentAndwouldrestatthefootofthesouthernmountain.",
+        "Sogivemeleaveandaskmenoquestions.",
+        "Whitecloudspasstherewithoutend.",
+        "\""
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 272,
+        "title": "送别",
+        "author": "王维"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9381
+      },
+      "ctext": {
+        "matched": true,
+        "order": 13,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 13,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "31cc87f3-da0f-421d-8674-8753530077e2",
+        "score": 1
+      }
+    },
+    "visual": {
+      "image": "assets/illustrations-wuyan-gushi/013-tang-013-song-bie.png",
+      "coreImagery": [
+        "下马饮酒",
+        "南山",
+        "白云",
+        "归隐"
+      ],
+      "mood": [
+        "送别",
+        "淡泊",
+        "释然"
+      ],
+      "palette": [
+        "山青",
+        "云白",
+        "酒褐",
+        "草绿"
+      ],
+      "composition": "山脚两人下马对饮，南山与白云在远处静静铺开。",
+      "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+      "prompt": "送别，王维。核心意象：下马饮酒、南山、白云、归隐；情绪：送别、淡泊、释然。山脚两人下马对饮，南山与白云在远处静静铺开。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+      "generatedAt": "2026-05-10T15:05:28+00:00",
+      "generator": "procedural-watercolor"
+    }
+  }
+}

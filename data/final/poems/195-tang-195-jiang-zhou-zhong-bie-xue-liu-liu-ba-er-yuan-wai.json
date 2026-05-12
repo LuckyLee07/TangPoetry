@@ -1,0 +1,576 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-195-jiang-zhou-zhong-bie-xue-liu-liu-ba-er-yuan-wai",
+    "order": 195,
+    "section": "七言律诗",
+    "title": "江州重别薛六柳八二员外",
+    "titleTraditional": "江州重別薛六柳八二員外",
+    "author": "刘长卿",
+    "authorTraditional": "劉長卿",
+    "dynasty": "唐代",
+    "aliases": [
+      "江州重别薛六柳八二员外"
+    ],
+    "lines": [
+      "生涯岂料承优诏？",
+      "世事空知学醉歌。",
+      "江上月明胡雁过，淮南木落楚山多。",
+      "寄身且喜沧洲近，顾影无如白发何！",
+      "今日龙钟人共老，媿君犹遣慎风波。"
+    ],
+    "linesTraditional": [
+      "生涯豈料承優詔？",
+      "世事空知學醉歌。",
+      "江上月明胡雁過，淮南木落楚山多。",
+      "寄身且喜滄洲近，顧影無如白髮何！",
+      "今日龍鐘人共老，媿君猶遣慎風波。"
+    ],
+    "text": "生涯岂料承优诏？世事空知学醉歌。江上月明胡雁过，淮南木落楚山多。寄身且喜沧洲近，顾影无如白发何！今日龙钟人共老，媿君犹遣慎风波。",
+    "textTraditional": "生涯豈料承優詔？世事空知學醉歌。江上月明胡雁過，淮南木落楚山多。寄身且喜滄洲近，顧影無如白髮何！今日龍鐘人共老，媿君猶遣慎風波。",
+    "displayLines": [
+      "生涯岂料承优诏？",
+      "世事空知学醉歌。",
+      "江上月明胡雁过，",
+      "淮南木落楚山多。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "涯",
+          "yá"
+        ],
+        [
+          "岂",
+          "qǐ"
+        ],
+        [
+          "料",
+          "liào"
+        ],
+        [
+          "承",
+          "chéng"
+        ],
+        [
+          "优",
+          "yōu"
+        ],
+        [
+          "诏",
+          "zhào"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "世",
+          "shì"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "学",
+          "xué"
+        ],
+        [
+          "醉",
+          "zuì"
+        ],
+        [
+          "歌",
+          "gē"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "胡",
+          "hú"
+        ],
+        [
+          "雁",
+          "yàn"
+        ],
+        [
+          "过",
+          "guò"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "淮",
+          "huái"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "木",
+          "mù"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "楚",
+          "chǔ"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "多",
+          "duō"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "寄",
+          "jì"
+        ],
+        [
+          "身",
+          "shēn"
+        ],
+        [
+          "且",
+          "qiě"
+        ],
+        [
+          "喜",
+          "xǐ"
+        ],
+        [
+          "沧",
+          "cāng"
+        ],
+        [
+          "洲",
+          "zhōu"
+        ],
+        [
+          "近",
+          "jìn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "顾",
+          "gù"
+        ],
+        [
+          "影",
+          "yǐng"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "发",
+          "fà"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "！",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "涯",
+          "yá"
+        ],
+        [
+          "岂",
+          "qǐ"
+        ],
+        [
+          "料",
+          "liào"
+        ],
+        [
+          "承",
+          "chéng"
+        ],
+        [
+          "优",
+          "yōu"
+        ],
+        [
+          "诏",
+          "zhào"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "世",
+          "shì"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "学",
+          "xué"
+        ],
+        [
+          "醉",
+          "zuì"
+        ],
+        [
+          "歌",
+          "gē"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "胡",
+          "hú"
+        ],
+        [
+          "雁",
+          "yàn"
+        ],
+        [
+          "过",
+          "guò"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "淮",
+          "huái"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "木",
+          "mù"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "楚",
+          "chǔ"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "多",
+          "duō"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "寄",
+          "jì"
+        ],
+        [
+          "身",
+          "shēn"
+        ],
+        [
+          "且",
+          "qiě"
+        ],
+        [
+          "喜",
+          "xǐ"
+        ],
+        [
+          "沧",
+          "cāng"
+        ],
+        [
+          "洲",
+          "zhōu"
+        ],
+        [
+          "近",
+          "jìn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "顾",
+          "gù"
+        ],
+        [
+          "影",
+          "yǐng"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "发",
+          "fà"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "！",
+          ""
+        ]
+      ],
+      [
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "龙",
+          "lóng"
+        ],
+        [
+          "钟",
+          "zhōng"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "共",
+          "gòng"
+        ],
+        [
+          "老",
+          "lǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "媿",
+          "kuì"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "犹",
+          "yóu"
+        ],
+        [
+          "遣",
+          "qiǎn"
+        ],
+        [
+          "慎",
+          "shèn"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "波",
+          "bō"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.醉歌：醉酒放歌。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.沧洲：犹言水滨，为隐者所居。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "3.龙钟：老年身体衰惫的状态。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "4.风波：喻意外不测的事。"
+      }
+    ],
+    "tags": [
+      "七言律诗",
+      "送别"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-regular-verseLiuChangquingONLEAVINGGUIJIANGAGAINTOXUEANDLIU",
+      "translationRaw": "DareI，atmyage，acceptmysummons，Knowingoftheworld』swaysonlywineandsong？。。。。Overthemoon-edgedrivercomewildgeesefromtheTartars；AndthethinnertheleavesalongtheHuai，thewiderthesouthernmountains。。。。Ioughttobegladtotakemyoldbonesbacktothecapital，ButwhatamIgoodforinthatworld，withmyfewwhitehairs？。。。。Asbentanddecrepitasyouare，Iamashamedtothankyou，WhenyoucautionmethatImayencounterthunderbolts。",
+      "translationClean": "DareI, atmyage, acceptmysummons, Knowingoftheworld'swaysonlywineandsong? .... Overthemoon-edgedrivercomewildgeesefromtheTartars; AndthethinnertheleavesalongtheHuai, thewiderthesouthernmountains.... Ioughttobegladtotakemyoldbonesbacktothecapital, ButwhatamIgoodforinthatworld, withmyfewwhitehairs? .... Asbentanddecrepitasyouare, Iamashamedtothankyou, WhenyoucautionmethatImayencounterthunderbolts.",
+      "segments": [
+        "DareI, atmyage, acceptmysummons, Knowingoftheworld'swaysonlywineandsong?",
+        "....",
+        "Overthemoon-edgedrivercomewildgeesefromtheTartars;",
+        "AndthethinnertheleavesalongtheHuai, thewiderthesouthernmountains....",
+        "Ioughttobegladtotakemyoldbonesbacktothecapital, ButwhatamIgoodforinthatworld, withmyfewwhitehairs?",
+        "....",
+        "Asbentanddecrepitasyouare, Iamashamedtothankyou, WhenyoucautionmethatImayencounterthunderbolts."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 273,
+        "title": "江州重别薛六柳八二员外",
+        "author": "刘长卿"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9721
+      },
+      "ctext": {
+        "matched": true,
+        "order": 195,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 292,
+        "score": 0.9643,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "d9dd3520-9aab-4b1b-bd57-810f29391667",
+        "score": 0.9643
+      }
+    }
+  }
+}

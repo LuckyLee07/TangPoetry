@@ -1,0 +1,498 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-102-song-you-ren",
+    "order": 102,
+    "section": "五言律诗",
+    "title": "送友人",
+    "titleTraditional": "送友人",
+    "author": "李白",
+    "authorTraditional": "李白",
+    "dynasty": "唐代",
+    "aliases": [
+      "送友人"
+    ],
+    "lines": [
+      "青山横北郭，白水遶东城。",
+      "此地一为别，孤蓬万里征。",
+      "浮云游子意，落日故人情。",
+      "挥手自兹去，萧萧班马鸣。"
+    ],
+    "linesTraditional": [
+      "青山橫北郭，白水遶東城。",
+      "此地一為別，孤蓬萬里征。",
+      "浮雲游子意，落日故人情。",
+      "揮手自茲去，蕭蕭班馬鳴。"
+    ],
+    "text": "青山横北郭，白水遶东城。此地一为别，孤蓬万里征。浮云游子意，落日故人情。挥手自兹去，萧萧班马鸣。",
+    "textTraditional": "青山橫北郭，白水遶東城。此地一為別，孤蓬萬里征。浮雲游子意，落日故人情。揮手自茲去，蕭蕭班馬鳴。",
+    "displayLines": [
+      "青山横北郭，",
+      "白水遶东城。",
+      "此地一为别，",
+      "孤蓬万里征。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "横",
+          "héng"
+        ],
+        [
+          "北",
+          "běi"
+        ],
+        [
+          "郭",
+          "guō"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "遶",
+          "rào"
+        ],
+        [
+          "东",
+          "dōng"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "地",
+          "dì"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "蓬",
+          "péng"
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "征",
+          "zhēng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "浮",
+          "fú"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "游",
+          "yóu"
+        ],
+        [
+          "子",
+          "zi"
+        ],
+        [
+          "意",
+          "yì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "挥",
+          "huī"
+        ],
+        [
+          "手",
+          "shǒu"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "兹",
+          "zī"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "萧",
+          "xiāo"
+        ],
+        [
+          "萧",
+          "xiāo"
+        ],
+        [
+          "班",
+          "bān"
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "鸣",
+          "míng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "横",
+          "héng"
+        ],
+        [
+          "北",
+          "běi"
+        ],
+        [
+          "郭",
+          "guō"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "遶",
+          "rào"
+        ],
+        [
+          "东",
+          "dōng"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "地",
+          "dì"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "蓬",
+          "péng"
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "征",
+          "zhēng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "浮",
+          "fú"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "游",
+          "yóu"
+        ],
+        [
+          "子",
+          "zi"
+        ],
+        [
+          "意",
+          "yì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "挥",
+          "huī"
+        ],
+        [
+          "手",
+          "shǒu"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "兹",
+          "zī"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "萧",
+          "xiāo"
+        ],
+        [
+          "萧",
+          "xiāo"
+        ],
+        [
+          "班",
+          "bān"
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "鸣",
+          "míng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.蓬：水面无根的草，随流飘转。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "八年级上册(课外)",
+      "友情",
+      "写景",
+      "送别",
+      "初中古诗",
+      "惜别"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseLiBaiAFAREWELLTOAFRIEND",
+      "translationRaw": "Withabluelineofmountainsnorthofthewall，Andeastofthecityawhitecurveofwater，HereyoumustleavemeanddriftawayLikealoosenedwater-planthundredsofmiles。。。。Ishallthinkofyouinafloatingcloud；Sointhesunsetthinkofme。。。。Wewaveourhandstosaygood-bye，Andmyhorseisneighingagainandagain。",
+      "translationClean": "Withabluelineofmountainsnorthofthewall, Andeastofthecityawhitecurveofwater, HereyoumustleavemeanddriftawayLikealoosenedwater-planthundredsofmiles.... Ishallthinkofyouinafloatingcloud; Sointhesunsetthinkofme.... Wewaveourhandstosaygood-bye, Andmyhorseisneighingagainandagain.",
+      "segments": [
+        "Withabluelineofmountainsnorthofthewall, Andeastofthecityawhitecurveofwater, HereyoumustleavemeanddriftawayLikealoosenedwater-planthundredsofmiles....",
+        "Ishallthinkofyouinafloatingcloud;",
+        "Sointhesunsetthinkofme....",
+        "Wewaveourhandstosaygood-bye, Andmyhorseisneighingagainandagain."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 241,
+        "title": "送友人",
+        "author": "李白"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9805
+      },
+      "ctext": {
+        "matched": true,
+        "order": 102,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 199,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "1f83fccf-7476-464b-8cd4-8a2b4569c7a0",
+        "score": 0.975
+      }
+    }
+  }
+}

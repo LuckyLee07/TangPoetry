@@ -1,0 +1,490 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-055-jin-ling-jiu-si-liu-bie",
+    "order": 55,
+    "section": "七言古诗",
+    "title": "金陵酒肆留别",
+    "titleTraditional": "金陵酒肆留別",
+    "author": "李白",
+    "authorTraditional": "李白",
+    "dynasty": "唐代",
+    "aliases": [
+      "金陵酒肆留别"
+    ],
+    "lines": [
+      "风吹柳花满店香，吴姬压酒唤客尝；",
+      "金陵子弟来相送，欲行不行各尽觞。",
+      "请君试问东流水，别意与之谁短长？"
+    ],
+    "linesTraditional": [
+      "風吹柳花滿店香，吳姬壓酒喚客嘗；",
+      "金陵子弟來相送，欲行不行各盡觴。",
+      "請君試問東流水，別意與之誰短長？"
+    ],
+    "text": "风吹柳花满店香，吴姬压酒唤客尝；金陵子弟来相送，欲行不行各尽觞。请君试问东流水，别意与之谁短长？",
+    "textTraditional": "風吹柳花滿店香，吳姬壓酒喚客嘗；金陵子弟來相送，欲行不行各盡觴。請君試問東流水，別意與之誰短長？",
+    "displayLines": [
+      "风吹柳花满店香，",
+      "吴姬压酒唤客尝；",
+      "金陵子弟来相送，",
+      "欲行不行各尽觞。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "吹",
+          "chuī"
+        ],
+        [
+          "柳",
+          "liǔ"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "满",
+          "mǎn"
+        ],
+        [
+          "店",
+          "diàn"
+        ],
+        [
+          "香",
+          "xiāng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "吴",
+          "wú"
+        ],
+        [
+          "姬",
+          "jī"
+        ],
+        [
+          "压",
+          "yā"
+        ],
+        [
+          "酒",
+          "jiǔ"
+        ],
+        [
+          "唤",
+          "huàn"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "尝",
+          "cháng"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "陵",
+          "líng"
+        ],
+        [
+          "子",
+          "zǐ"
+        ],
+        [
+          "弟",
+          "dì"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "送",
+          "sòng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "各",
+          "gè"
+        ],
+        [
+          "尽",
+          "jǐn"
+        ],
+        [
+          "觞",
+          "shāng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "请",
+          "qǐng"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "试",
+          "shì"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "东",
+          "dōng"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "意",
+          "yì"
+        ],
+        [
+          "与",
+          "yǔ"
+        ],
+        [
+          "之",
+          "zhī"
+        ],
+        [
+          "谁",
+          "shuí"
+        ],
+        [
+          "短",
+          "duǎn"
+        ],
+        [
+          "长",
+          "cháng"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "吹",
+          "chuī"
+        ],
+        [
+          "柳",
+          "liǔ"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "满",
+          "mǎn"
+        ],
+        [
+          "店",
+          "diàn"
+        ],
+        [
+          "香",
+          "xiāng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "吴",
+          "wú"
+        ],
+        [
+          "姬",
+          "jī"
+        ],
+        [
+          "压",
+          "yā"
+        ],
+        [
+          "酒",
+          "jiǔ"
+        ],
+        [
+          "唤",
+          "huàn"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "尝",
+          "cháng"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "陵",
+          "líng"
+        ],
+        [
+          "子",
+          "zǐ"
+        ],
+        [
+          "弟",
+          "dì"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "送",
+          "sòng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "各",
+          "gè"
+        ],
+        [
+          "尽",
+          "jǐn"
+        ],
+        [
+          "觞",
+          "shāng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "请",
+          "qǐng"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "试",
+          "shì"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "东",
+          "dōng"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "意",
+          "yì"
+        ],
+        [
+          "与",
+          "yǔ"
+        ],
+        [
+          "之",
+          "zhī"
+        ],
+        [
+          "谁",
+          "shuí"
+        ],
+        [
+          "短",
+          "duǎn"
+        ],
+        [
+          "长",
+          "cháng"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "劝客--一作 ：唤客"
+      },
+      {
+        "source": "chiuinan",
+        "text": "1.觞：音\"伤\"，酒杯。"
+      }
+    ],
+    "tags": [
+      "七言古诗",
+      "离别",
+      "饮酒"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-ancient-verseLiBaiPARTINGATAWINE-SHOPINNANJING",
+      "translationRaw": "Awind，bringingwillow-cotton，sweetenstheshop，AndagirlfromWu，pouringwine，urgesmetoshareitWithmycomradesofthecitywhoareheretoseemeoff；Andaseachofthemdrainshiscup，Isaytohiminparting，Oh，goandaskthisriverrunningtotheeastIfitcantravelfartherthanafriend』slove！",
+      "translationClean": "Awind, bringingwillow-cotton, sweetenstheshop, AndagirlfromWu, pouringwine, urgesmetoshareitWithmycomradesofthecitywhoareheretoseemeoff; Andaseachofthemdrainshiscup, Isaytohiminparting, Oh, goandaskthisriverrunningtotheeastIfitcantravelfartherthanafriend'slove!",
+      "segments": [
+        "Awind, bringingwillow-cotton, sweetenstheshop, AndagirlfromWu, pouringwine, urgesmetoshareitWithmycomradesofthecitywhoareheretoseemeoff;",
+        "Andaseachofthemdrainshiscup, Isaytohiminparting, Oh, goandaskthisriverrunningtotheeastIfitcantravelfartherthanafriend'slove!"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 31,
+        "title": "金陵酒肆留别",
+        "author": "李白"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 55,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 55,
+        "score": 0.9762,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "809ad73b-9a8e-436e-9874-f9295b624af0",
+        "score": 1
+      }
+    }
+  }
+}

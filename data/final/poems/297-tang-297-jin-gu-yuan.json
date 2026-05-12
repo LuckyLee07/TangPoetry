@@ -1,0 +1,359 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-297-jin-gu-yuan",
+    "order": 297,
+    "section": "七言绝句",
+    "title": "金谷园",
+    "titleTraditional": "金穀園",
+    "author": "杜牧",
+    "authorTraditional": "杜牧",
+    "dynasty": "唐代",
+    "aliases": [
+      "金谷园"
+    ],
+    "lines": [
+      "繁华事散逐香尘，流水无情草自春。",
+      "日暮东风怨啼鸟，落花犹似坠楼人。"
+    ],
+    "linesTraditional": [
+      "繁華事散逐香塵，流水無情草自春。",
+      "日暮東風怨啼鳥，落花猶似墜樓人。"
+    ],
+    "text": "繁华事散逐香尘，流水无情草自春。日暮东风怨啼鸟，落花犹似坠楼人。",
+    "textTraditional": "繁華事散逐香塵，流水無情草自春。日暮東風怨啼鳥，落花猶似墜樓人。",
+    "displayLines": [
+      "繁华事散逐香尘，",
+      "流水无情草自春。",
+      "日暮东风怨啼鸟，",
+      "落花犹似坠楼人。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "繁",
+          "fán"
+        ],
+        [
+          "华",
+          "huá"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "散",
+          "sàn"
+        ],
+        [
+          "逐",
+          "zhú"
+        ],
+        [
+          "香",
+          "xiāng"
+        ],
+        [
+          "尘",
+          "chén"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "东",
+          "dōng"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "怨",
+          "yuàn"
+        ],
+        [
+          "啼",
+          "tí"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "犹",
+          "yóu"
+        ],
+        [
+          "似",
+          "shì"
+        ],
+        [
+          "坠",
+          "zhuì"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "繁",
+          "fán"
+        ],
+        [
+          "华",
+          "huá"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "散",
+          "sàn"
+        ],
+        [
+          "逐",
+          "zhú"
+        ],
+        [
+          "香",
+          "xiāng"
+        ],
+        [
+          "尘",
+          "chén"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "东",
+          "dōng"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "怨",
+          "yuàn"
+        ],
+        [
+          "啼",
+          "tí"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "犹",
+          "yóu"
+        ],
+        [
+          "似",
+          "shì"
+        ],
+        [
+          "坠",
+          "zhuì"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.坠楼人：称晋石崇妓。崇有妓名绿珠，孙秀欲得她，崇不与。秀怒，"
+      },
+      {
+        "source": "chiuinan",
+        "text": "矫诏收崇，崇对绿珠说，我今为尔得罪。珠泣道当效死于君"
+      },
+      {
+        "source": "chiuinan",
+        "text": "前，因坠楼死。"
+      }
+    ],
+    "tags": [
+      "七言绝句",
+      "怀古"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainDuMuTHEGARDENOFTHEGOLDENVALLEY",
+      "translationRaw": "Storiesofpassionmakesweetdust，Calmwater，grassesunconcerned。Atsunset，whenbirdscryinthewind，Petalsarefallinglikeagirlsrobelongago。",
+      "translationClean": "Storiesofpassionmakesweetdust, Calmwater, grassesunconcerned. Atsunset, whenbirdscryinthewind, Petalsarefallinglikeagirlsrobelongago.",
+      "segments": [
+        "Storiesofpassionmakesweetdust, Calmwater, grassesunconcerned.",
+        "Atsunset, whenbirdscryinthewind, Petalsarefallinglikeagirlsrobelongago."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 92,
+        "title": "金谷园",
+        "author": "杜牧"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 297,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 170,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "80159919-0b66-4956-a563-ef9bcf6a05c0",
+        "score": 0.9643
+      }
+    }
+  }
+}

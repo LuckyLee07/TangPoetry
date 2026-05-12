@@ -1,0 +1,505 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-106-chun-wang",
+    "order": 106,
+    "section": "五言律诗",
+    "title": "春望",
+    "titleTraditional": "春望",
+    "author": "杜甫",
+    "authorTraditional": "杜甫",
+    "dynasty": "唐代",
+    "aliases": [
+      "春望"
+    ],
+    "lines": [
+      "国破山河在，城春草木深。",
+      "感时花溅泪，恨别鸟惊心。",
+      "烽火连三月，家书抵万金。",
+      "白头搔更短，浑欲不胜簪。"
+    ],
+    "linesTraditional": [
+      "國破山河在，城春草木深。",
+      "感時花濺淚，恨別鳥驚心。",
+      "烽火連三月，家書抵萬金。",
+      "白頭搔更短，渾欲不勝簪。"
+    ],
+    "text": "国破山河在，城春草木深。感时花溅泪，恨别鸟惊心。烽火连三月，家书抵万金。白头搔更短，浑欲不胜簪。",
+    "textTraditional": "國破山河在，城春草木深。感時花濺淚，恨別鳥驚心。烽火連三月，家書抵萬金。白頭搔更短，渾欲不勝簪。",
+    "displayLines": [
+      "国破山河在，",
+      "城春草木深。",
+      "感时花溅泪，",
+      "恨别鸟惊心。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "国",
+          "guó"
+        ],
+        [
+          "破",
+          "pò"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "河",
+          "hé"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "木",
+          "mù"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "感",
+          "gǎn"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "溅",
+          "jiàn"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "恨",
+          "hèn"
+        ],
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "惊",
+          "jīng"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "烽",
+          "fēng"
+        ],
+        [
+          "火",
+          "huǒ"
+        ],
+        [
+          "连",
+          "lián"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "书",
+          "shū"
+        ],
+        [
+          "抵",
+          "dǐ"
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "头",
+          "tóu"
+        ],
+        [
+          "搔",
+          "sāo"
+        ],
+        [
+          "更",
+          "gèng"
+        ],
+        [
+          "短",
+          "duǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "浑",
+          "hún"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "胜",
+          "shèng"
+        ],
+        [
+          "簪",
+          "zān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "国",
+          "guó"
+        ],
+        [
+          "破",
+          "pò"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "河",
+          "hé"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "木",
+          "mù"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "感",
+          "gǎn"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "溅",
+          "jiàn"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "恨",
+          "hèn"
+        ],
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "惊",
+          "jīng"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "烽",
+          "fēng"
+        ],
+        [
+          "火",
+          "huǒ"
+        ],
+        [
+          "连",
+          "lián"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "书",
+          "shū"
+        ],
+        [
+          "抵",
+          "dǐ"
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "头",
+          "tóu"
+        ],
+        [
+          "搔",
+          "sāo"
+        ],
+        [
+          "更",
+          "gèng"
+        ],
+        [
+          "短",
+          "duǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "浑",
+          "hún"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "胜",
+          "shèng"
+        ],
+        [
+          "簪",
+          "zān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.浑：差不多。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.簪：音ㄗㄣ（又音ㄗㄢ），用以束发的首笄。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "战争",
+      "忧国忧民",
+      "爱国",
+      "初中古诗",
+      "八年级上册(课内)",
+      "思乡",
+      "写鸟",
+      "鸟"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseDuFuASPRINGVIEW",
+      "translationRaw": "Thoughacountrybesundered，hillsandriversendure；AndspringcomesgreenagaintotreesandgrassesWherepetalshavebeenshedliketearsAndlonelybirdshavesungtheirgrief。。。。Afterthewar-firesofthreemonths，Onemessagefromhomeisworthatonofgold。。。。Istrokemywhitehair。IthasgrowntoothinToholdthehairpinsanymore。",
+      "translationClean": "Thoughacountrybesundered, hillsandriversendure; AndspringcomesgreenagaintotreesandgrassesWherepetalshavebeenshedliketearsAndlonelybirdshavesungtheirgrief.... Afterthewar-firesofthreemonths, Onemessagefromhomeisworthatonofgold.... Istrokemywhitehair. IthasgrowntoothinToholdthehairpinsanymore.",
+      "segments": [
+        "Thoughacountrybesundered, hillsandriversendure;",
+        "AndspringcomesgreenagaintotreesandgrassesWherepetalshavebeenshedliketearsAndlonelybirdshavesungtheirgrief....",
+        "Afterthewar-firesofthreemonths, Onemessagefromhomeisworthatonofgold....",
+        "Istrokemywhitehair.",
+        "IthasgrowntoothinToholdthehairpinsanymore."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 168,
+        "title": "春望",
+        "author": "杜甫"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 106,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 203,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "e9e6425c-6c14-4f69-8694-87a8b96a43de",
+        "score": 1
+      }
+    }
+  }
+}

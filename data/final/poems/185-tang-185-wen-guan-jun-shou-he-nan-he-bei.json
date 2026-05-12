@@ -1,0 +1,564 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-185-wen-guan-jun-shou-he-nan-he-bei",
+    "order": 185,
+    "section": "七言律诗",
+    "title": "闻官军收河南河北",
+    "titleTraditional": "聞官軍收河南河北",
+    "author": "杜甫",
+    "authorTraditional": "杜甫",
+    "dynasty": "唐代",
+    "aliases": [
+      "闻官军收河南河北"
+    ],
+    "lines": [
+      "剑外忽传收蓟北，初闻涕泪满衣裳。",
+      "却看妻子愁何在？",
+      "漫卷诗书喜欲狂。",
+      "白日放歌须纵酒，青春作伴好还乡。",
+      "即从巴峡穿巫峡，便下襄阳向洛阳。"
+    ],
+    "linesTraditional": [
+      "劍外忽傳收薊北，初聞涕淚滿衣裳。",
+      "卻看妻子愁何在？",
+      "漫卷詩書喜欲狂。",
+      "白日放歌須縱酒，青春作伴好還鄉。",
+      "即從巴峽穿巫峽，便下襄陽向洛陽。"
+    ],
+    "text": "剑外忽传收蓟北，初闻涕泪满衣裳。却看妻子愁何在？漫卷诗书喜欲狂。白日放歌须纵酒，青春作伴好还乡。即从巴峡穿巫峡，便下襄阳向洛阳。",
+    "textTraditional": "劍外忽傳收薊北，初聞涕淚滿衣裳。卻看妻子愁何在？漫卷詩書喜欲狂。白日放歌須縱酒，青春作伴好還鄉。即從巴峽穿巫峽，便下襄陽向洛陽。",
+    "displayLines": [
+      "剑外忽传收蓟北，",
+      "初闻涕泪满衣裳。",
+      "却看妻子愁何在？",
+      "漫卷诗书喜欲狂。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "剑",
+          "jiàn"
+        ],
+        [
+          "外",
+          "wài"
+        ],
+        [
+          "忽",
+          "hū"
+        ],
+        [
+          "传",
+          "chuán"
+        ],
+        [
+          "收",
+          "shōu"
+        ],
+        [
+          "蓟",
+          "jì"
+        ],
+        [
+          "北",
+          "běi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "初",
+          "chū"
+        ],
+        [
+          "闻",
+          "wén"
+        ],
+        [
+          "涕",
+          "tì"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "满",
+          "mǎn"
+        ],
+        [
+          "衣",
+          "yī"
+        ],
+        [
+          "裳",
+          "shang"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "却",
+          "què"
+        ],
+        [
+          "看",
+          "kàn"
+        ],
+        [
+          "妻",
+          "qī"
+        ],
+        [
+          "子",
+          "zǐ"
+        ],
+        [
+          "愁",
+          "chóu"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "漫",
+          "màn"
+        ],
+        [
+          "卷",
+          "juǎn"
+        ],
+        [
+          "诗",
+          "shī"
+        ],
+        [
+          "书",
+          "shū"
+        ],
+        [
+          "喜",
+          "xǐ"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "狂",
+          "kuáng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "放",
+          "fàng"
+        ],
+        [
+          "歌",
+          "gē"
+        ],
+        [
+          "须",
+          "xū"
+        ],
+        [
+          "纵",
+          "zòng"
+        ],
+        [
+          "酒",
+          "jiǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "作",
+          "zuò"
+        ],
+        [
+          "伴",
+          "bàn"
+        ],
+        [
+          "好",
+          "hǎo"
+        ],
+        [
+          "还",
+          "huán"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "剑",
+          "jiàn"
+        ],
+        [
+          "外",
+          "wài"
+        ],
+        [
+          "忽",
+          "hū"
+        ],
+        [
+          "传",
+          "chuán"
+        ],
+        [
+          "收",
+          "shōu"
+        ],
+        [
+          "蓟",
+          "jì"
+        ],
+        [
+          "北",
+          "běi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "初",
+          "chū"
+        ],
+        [
+          "闻",
+          "wén"
+        ],
+        [
+          "涕",
+          "tì"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "满",
+          "mǎn"
+        ],
+        [
+          "衣",
+          "yī"
+        ],
+        [
+          "裳",
+          "shang"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "却",
+          "què"
+        ],
+        [
+          "看",
+          "kàn"
+        ],
+        [
+          "妻",
+          "qī"
+        ],
+        [
+          "子",
+          "zǐ"
+        ],
+        [
+          "愁",
+          "chóu"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "漫",
+          "màn"
+        ],
+        [
+          "卷",
+          "juǎn"
+        ],
+        [
+          "诗",
+          "shī"
+        ],
+        [
+          "书",
+          "shū"
+        ],
+        [
+          "喜",
+          "xǐ"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "狂",
+          "kuáng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "放",
+          "fàng"
+        ],
+        [
+          "歌",
+          "gē"
+        ],
+        [
+          "须",
+          "xū"
+        ],
+        [
+          "纵",
+          "zòng"
+        ],
+        [
+          "酒",
+          "jiǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "作",
+          "zuò"
+        ],
+        [
+          "伴",
+          "bàn"
+        ],
+        [
+          "好",
+          "hǎo"
+        ],
+        [
+          "还",
+          "huán"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "即",
+          "jí"
+        ],
+        [
+          "从",
+          "cóng"
+        ],
+        [
+          "巴",
+          "bā"
+        ],
+        [
+          "峡",
+          "xiá"
+        ],
+        [
+          "穿",
+          "chuān"
+        ],
+        [
+          "巫",
+          "wū"
+        ],
+        [
+          "峡",
+          "xiá"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "便",
+          "biàn"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "襄",
+          "xiāng"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "向",
+          "xiàng"
+        ],
+        [
+          "洛",
+          "luò"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.剑外：剑阁外面。"
+      }
+    ],
+    "tags": [
+      "七言律诗",
+      "思归",
+      "六年级下册",
+      "小学古诗"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-regular-verseDuFuBOTHSIDESOFTHEYELLOWRIVERRECAPTUREDBYTHEIMPERIALARMY",
+      "translationRaw": "Newsatthisfarwesternstation！Thenorthhasbeenrecaptured！AtfirstIcannotcheckthetearsfrompouringonmycoat--Whereismywife？Wherearemysons？Yetcrazilysureoffindingthem，Ipackmybooksandpoems--AndloudmysonganddeepmydrinkOnthegreenspring-daythatstartsmehome，Backfromthismountain，pastanothermountain，Upfromthesouth，northagain-tomyowntown！",
+      "translationClean": "Newsatthisfarwesternstation! Thenorthhasbeenrecaptured! AtfirstIcannotcheckthetearsfrompouringonmycoat--Whereismywife? Wherearemysons? Yetcrazilysureoffindingthem, Ipackmybooksandpoems--AndloudmysonganddeepmydrinkOnthegreenspring-daythatstartsmehome, Backfromthismountain, pastanothermountain, Upfromthesouth, northagain-tomyowntown!",
+      "segments": [
+        "Newsatthisfarwesternstation!",
+        "Thenorthhasbeenrecaptured!",
+        "AtfirstIcannotcheckthetearsfrompouringonmycoat--Whereismywife?",
+        "Wherearemysons?",
+        "Yetcrazilysureoffindingthem, Ipackmybooksandpoems--AndloudmysonganddeepmydrinkOnthegreenspring-daythatstartsmehome, Backfromthismountain, pastanothermountain, Upfromthesouth, northagain-tomyowntown!"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 109,
+        "title": "闻官军收河南河北",
+        "author": "杜甫"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 185,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 282,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "22e90c0d-2b59-4500-8e5d-80d38ec4692c",
+        "score": 0.9821
+      }
+    }
+  }
+}

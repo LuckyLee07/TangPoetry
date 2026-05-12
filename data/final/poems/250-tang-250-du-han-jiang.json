@@ -1,0 +1,283 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-250-du-han-jiang",
+    "order": 250,
+    "section": "五言绝句",
+    "title": "渡汉江",
+    "titleTraditional": "渡漢江",
+    "author": "李频",
+    "authorTraditional": "李頻",
+    "dynasty": "唐代",
+    "aliases": [
+      "渡汉江"
+    ],
+    "lines": [
+      "岭外音书绝，经冬复立春。",
+      "近乡情更怯，不敢问来人。"
+    ],
+    "linesTraditional": [
+      "嶺外音書絕，經冬復立春。",
+      "近鄉情更怯，不敢問來人。"
+    ],
+    "text": "岭外音书绝，经冬复立春。近乡情更怯，不敢问来人。",
+    "textTraditional": "嶺外音書絕，經冬復立春。近鄉情更怯，不敢問來人。",
+    "displayLines": [
+      "岭外音书绝，",
+      "经冬复立春。",
+      "近乡情更怯，",
+      "不敢问来人。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "岭",
+          "lǐng"
+        ],
+        [
+          "外",
+          "wài"
+        ],
+        [
+          "音",
+          "yīn"
+        ],
+        [
+          "书",
+          "shū"
+        ],
+        [
+          "绝",
+          "jué"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "经",
+          "jīng"
+        ],
+        [
+          "冬",
+          "dōng"
+        ],
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "立",
+          "lì"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "近",
+          "jìn"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "更",
+          "gèng"
+        ],
+        [
+          "怯",
+          "qiè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "敢",
+          "gǎn"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "岭",
+          "lǐng"
+        ],
+        [
+          "外",
+          "wài"
+        ],
+        [
+          "音",
+          "yīn"
+        ],
+        [
+          "书",
+          "shū"
+        ],
+        [
+          "绝",
+          "jué"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "经",
+          "jīng"
+        ],
+        [
+          "冬",
+          "dōng"
+        ],
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "立",
+          "lì"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "近",
+          "jìn"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "更",
+          "gèng"
+        ],
+        [
+          "怯",
+          "qiè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "敢",
+          "gǎn"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言绝句",
+      "思乡",
+      "渡江"
+    ],
+    "english": {
+      "headingRaw": "Five-character-quatrainLiPinCROSSINGTHEHANRIVER",
+      "translationRaw": "Awayfromhome，IwaslongingfornewsWinterafterwinter，springafterspring。Now，nearingmyvillage，meetingpeople，Idarenotaskasinglequestion。",
+      "translationClean": "Awayfromhome, IwaslongingfornewsWinterafterwinter, springafterspring. Now, nearingmyvillage, meetingpeople, Idarenotaskasinglequestion.",
+      "segments": [
+        "Awayfromhome, IwaslongingfornewsWinterafterwinter, springafterspring.",
+        "Now, nearingmyvillage, meetingpeople, Idarenotaskasinglequestion."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 105,
+        "title": "渡汉江",
+        "author": "宋之问"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.872
+      },
+      "ctext": {
+        "matched": true,
+        "order": 250,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 117,
+        "score": 0.9,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "eb9530d2-e4c7-4c34-9214-06c28ca586bf",
+        "score": 1
+      }
+    }
+  }
+}

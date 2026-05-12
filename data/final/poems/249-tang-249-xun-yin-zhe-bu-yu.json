@@ -1,0 +1,284 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-249-xun-yin-zhe-bu-yu",
+    "order": 249,
+    "section": "五言绝句",
+    "title": "寻隐者不遇",
+    "titleTraditional": "尋隱者不遇",
+    "author": "贾岛",
+    "authorTraditional": "賈島",
+    "dynasty": "唐代",
+    "aliases": [
+      "寻隐者不遇 / 孙革访羊尊师诗",
+      "寻隐者不遇"
+    ],
+    "lines": [
+      "松下问童子，言师采药去。",
+      "只在此山中，云深不知处。"
+    ],
+    "linesTraditional": [
+      "松下問童子，言師採藥去。",
+      "只在此山中，雲深不知處。"
+    ],
+    "text": "松下问童子，言师采药去。只在此山中，云深不知处。",
+    "textTraditional": "松下問童子，言師採藥去。只在此山中，雲深不知處。",
+    "displayLines": [
+      "松下问童子，",
+      "言师采药去。",
+      "只在此山中，",
+      "云深不知处。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "松",
+          "sōng"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "童",
+          "tóng"
+        ],
+        [
+          "子",
+          "zi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "言",
+          "yán"
+        ],
+        [
+          "师",
+          "shī"
+        ],
+        [
+          "采",
+          "cǎi"
+        ],
+        [
+          "药",
+          "yào"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "只",
+          "zhǐ"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "松",
+          "sōng"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "童",
+          "tóng"
+        ],
+        [
+          "子",
+          "zi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "言",
+          "yán"
+        ],
+        [
+          "师",
+          "shī"
+        ],
+        [
+          "采",
+          "cǎi"
+        ],
+        [
+          "药",
+          "yào"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "只",
+          "zhǐ"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言绝句",
+      "写人",
+      "寻访"
+    ],
+    "english": {
+      "headingRaw": "Five-character-quatrainJiaDaoANOTELEFTFORANABSENTECLUSE",
+      "translationRaw": "WhenIquestionedyourpupil，underapine-tree，\"Myteacher，\"heanswered，\"wentforherbs，Buttowardwhichcornerofthemountain，HowcanItell，throughalltheseclouds？\"",
+      "translationClean": "WhenIquestionedyourpupil, underapine-tree, \"Myteacher, \"heanswered, \"wentforherbs, Buttowardwhichcornerofthemountain, HowcanItell, throughalltheseclouds? \"",
+      "segments": [
+        "WhenIquestionedyourpupil, underapine-tree, \"Myteacher, \"heanswered, \"wentforherbs, Buttowardwhichcornerofthemountain, HowcanItell, throughalltheseclouds?",
+        "\""
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 81,
+        "title": "寻隐者不遇 / 孙革访羊尊师诗",
+        "author": "贾岛"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 249,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 116,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "4f6575cc-12cc-4986-8bfc-5cedac7bb68f",
+        "score": 1
+      }
+    }
+  }
+}

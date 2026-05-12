@@ -1,0 +1,352 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-269-xia-jiang-ling",
+    "order": 269,
+    "section": "七言绝句",
+    "title": "下江陵",
+    "titleTraditional": "下江陵",
+    "author": "李白",
+    "authorTraditional": "李白",
+    "dynasty": "唐代",
+    "aliases": [
+      "早发白帝城 / 白帝下江陵",
+      "下江陵"
+    ],
+    "lines": [
+      "朝辞白帝彩云间，千里江陵一日还。",
+      "两岸猿声啼不住，轻舟已过万重山。"
+    ],
+    "linesTraditional": [
+      "朝辭白帝彩雲間，千里江陵一日還。",
+      "兩岸猿聲啼不住，輕舟已過萬重山。"
+    ],
+    "text": "朝辞白帝彩云间，千里江陵一日还。两岸猿声啼不住，轻舟已过万重山。",
+    "textTraditional": "朝辭白帝彩雲間，千里江陵一日還。兩岸猿聲啼不住，輕舟已過萬重山。",
+    "displayLines": [
+      "朝辞白帝彩云间，",
+      "千里江陵一日还。",
+      "两岸猿声啼不住，",
+      "轻舟已过万重山。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "辞",
+          "cí"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "帝",
+          "dì"
+        ],
+        [
+          "彩",
+          "cǎi"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "间",
+          "jiān"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "千",
+          "qiān"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "陵",
+          "líng"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "两",
+          "liǎng"
+        ],
+        [
+          "岸",
+          "àn"
+        ],
+        [
+          "猿",
+          "yuán"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "啼",
+          "tí"
+        ],
+        [
+          "不",
+          "bú"
+        ],
+        [
+          "住",
+          "zhù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "轻",
+          "qīng"
+        ],
+        [
+          "舟",
+          "zhōu"
+        ],
+        [
+          "已",
+          "yǐ"
+        ],
+        [
+          "过",
+          "guò"
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "重",
+          "zhòng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "辞",
+          "cí"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "帝",
+          "dì"
+        ],
+        [
+          "彩",
+          "cǎi"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "间",
+          "jiān"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "千",
+          "qiān"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "陵",
+          "líng"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "两",
+          "liǎng"
+        ],
+        [
+          "岸",
+          "àn"
+        ],
+        [
+          "猿",
+          "yuán"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "啼",
+          "tí"
+        ],
+        [
+          "不",
+          "bú"
+        ],
+        [
+          "住",
+          "zhù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "轻",
+          "qīng"
+        ],
+        [
+          "舟",
+          "zhōu"
+        ],
+        [
+          "已",
+          "yǐ"
+        ],
+        [
+          "过",
+          "guò"
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "重",
+          "zhòng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "七言绝句",
+      "长江",
+      "山",
+      "喜悦",
+      "描写山",
+      "写山",
+      "带有地名",
+      "地名"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainLiBaiTHROUGHTHEYANGZIGORGES",
+      "translationRaw": "FromthewallsofBaidihighinthecoloureddawnToJianglingbynight-fallisthreehundredmiles，YetmonkeysarestillcallingonbothbanksbehindmeTomyboatthesetenthousandmountainsaway。",
+      "translationClean": "FromthewallsofBaidihighinthecoloureddawnToJianglingbynight-fallisthreehundredmiles, YetmonkeysarestillcallingonbothbanksbehindmeTomyboatthesetenthousandmountainsaway.",
+      "segments": [
+        "FromthewallsofBaidihighinthecoloureddawnToJianglingbynight-fallisthreehundredmiles, YetmonkeysarestillcallingonbothbanksbehindmeTomyboatthesetenthousandmountainsaway."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 23,
+        "title": "早发白帝城 / 白帝下江陵",
+        "author": "李白"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9575
+      },
+      "ctext": {
+        "matched": true,
+        "order": 269,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 139,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "9525f99d-39cb-4d04-8650-263493d223e0",
+        "score": 0.9286
+      }
+    }
+  }
+}

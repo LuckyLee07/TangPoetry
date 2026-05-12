@@ -1,0 +1,628 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-208-zi-he-nan-jing-luan-guan-nei-zu-ji-xiong-di-li-san-ge-zai-yi-chu-yin-wang-yue-yo",
+    "order": 208,
+    "section": "七言律诗",
+    "title": "自河南经乱，关内阻饥，兄弟离散，各在一处。因望月有感，聊书所怀，寄上浮梁大兄，於潜七兄，乌江十五兄，兼示符离及下邽弟妹。",
+    "titleTraditional": "自河南經亂，關內阻饑，兄弟離散，各在一處。因望月有感，聊書所懷，寄上浮梁大兄，於潛七兄，烏江十五兄，兼示符離及下邽弟妹。",
+    "author": "白居易",
+    "authorTraditional": "白居易",
+    "dynasty": "唐代",
+    "aliases": [
+      "望月有感",
+      "自河南经乱，关内阻饥，兄弟离散，各在一处。因望月有感，聊书所怀，寄上浮梁大兄，于潜七兄，乌江十五兄，兼示符离及下邽弟妹。"
+    ],
+    "lines": [
+      "时难年荒世业空，弟兄羁旅各西东。",
+      "田园寥落干戈后，骨肉流离道路中。",
+      "吊影分为千里雁，辞根散作九秋蓬。",
+      "共看明月应垂泪，一夜乡心五处同。"
+    ],
+    "linesTraditional": [
+      "時難年荒世業空，弟兄羈旅各西東。",
+      "田園寥落干戈後，骨肉流離道路中。",
+      "弔影分為千里雁，辭根散作九秋蓬。",
+      "共看明月應垂淚，一夜鄉心五處同。"
+    ],
+    "text": "时难年荒世业空，弟兄羁旅各西东。田园寥落干戈后，骨肉流离道路中。吊影分为千里雁，辞根散作九秋蓬。共看明月应垂泪，一夜乡心五处同。",
+    "textTraditional": "時難年荒世業空，弟兄羈旅各西東。田園寥落干戈後，骨肉流離道路中。弔影分為千里雁，辭根散作九秋蓬。共看明月應垂淚，一夜鄉心五處同。",
+    "displayLines": [
+      "时难年荒世业空，",
+      "弟兄羁旅各西东。",
+      "田园寥落干戈后，",
+      "骨肉流离道路中。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "难",
+          "nán"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "荒",
+          "huāng"
+        ],
+        [
+          "世",
+          "shì"
+        ],
+        [
+          "业",
+          "yè"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "弟",
+          "dì"
+        ],
+        [
+          "兄",
+          "xiōng"
+        ],
+        [
+          "羁",
+          "jī"
+        ],
+        [
+          "旅",
+          "lǚ"
+        ],
+        [
+          "各",
+          "gè"
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "东",
+          "dōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "田",
+          "tián"
+        ],
+        [
+          "园",
+          "yuán"
+        ],
+        [
+          "寥",
+          "liáo"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "干",
+          "gān"
+        ],
+        [
+          "戈",
+          "gē"
+        ],
+        [
+          "后",
+          "hòu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "骨",
+          "gǔ"
+        ],
+        [
+          "肉",
+          "ròu"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "离",
+          "lí"
+        ],
+        [
+          "道",
+          "dào"
+        ],
+        [
+          "路",
+          "lù"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "吊",
+          "diào"
+        ],
+        [
+          "影",
+          "yǐng"
+        ],
+        [
+          "分",
+          "fēn"
+        ],
+        [
+          "为",
+          "wéi"
+        ],
+        [
+          "千",
+          "qiān"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "雁",
+          "yàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "辞",
+          "cí"
+        ],
+        [
+          "根",
+          "gēn"
+        ],
+        [
+          "散",
+          "sàn"
+        ],
+        [
+          "作",
+          "zuò"
+        ],
+        [
+          "九",
+          "jiǔ"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "蓬",
+          "péng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "共",
+          "gòng"
+        ],
+        [
+          "看",
+          "kàn"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "应",
+          "yīng"
+        ],
+        [
+          "垂",
+          "chuí"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "五",
+          "wǔ"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "同",
+          "tóng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "难",
+          "nán"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "荒",
+          "huāng"
+        ],
+        [
+          "世",
+          "shì"
+        ],
+        [
+          "业",
+          "yè"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "弟",
+          "dì"
+        ],
+        [
+          "兄",
+          "xiōng"
+        ],
+        [
+          "羁",
+          "jī"
+        ],
+        [
+          "旅",
+          "lǚ"
+        ],
+        [
+          "各",
+          "gè"
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "东",
+          "dōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "田",
+          "tián"
+        ],
+        [
+          "园",
+          "yuán"
+        ],
+        [
+          "寥",
+          "liáo"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "干",
+          "gān"
+        ],
+        [
+          "戈",
+          "gē"
+        ],
+        [
+          "后",
+          "hòu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "骨",
+          "gǔ"
+        ],
+        [
+          "肉",
+          "ròu"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "离",
+          "lí"
+        ],
+        [
+          "道",
+          "dào"
+        ],
+        [
+          "路",
+          "lù"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "吊",
+          "diào"
+        ],
+        [
+          "影",
+          "yǐng"
+        ],
+        [
+          "分",
+          "fēn"
+        ],
+        [
+          "为",
+          "wéi"
+        ],
+        [
+          "千",
+          "qiān"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "雁",
+          "yàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "辞",
+          "cí"
+        ],
+        [
+          "根",
+          "gēn"
+        ],
+        [
+          "散",
+          "sàn"
+        ],
+        [
+          "作",
+          "zuò"
+        ],
+        [
+          "九",
+          "jiǔ"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "蓬",
+          "péng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "共",
+          "gòng"
+        ],
+        [
+          "看",
+          "kàn"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "应",
+          "yīng"
+        ],
+        [
+          "垂",
+          "chuí"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "五",
+          "wǔ"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "同",
+          "tóng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.千里雁：喻兄弟分散。雁行有序，古人以之喻兄弟姐妹。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.根：古人以同根喻兄弟。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "3.九秋：秋季三个月共九旬，故称九秋。"
+      }
+    ],
+    "tags": [
+      "七言律诗"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-regular-verseBaiJuyiTOMYBROTHERSANDSISTERSADRIFTINTROUBLEDTIMESTHISPOEMOFTHEMOON",
+      "translationRaw": "SincethedisordersinHenanandthefamineinGuannei，mybrothersandsistershavebeenscattered。Lookingatthemoon，Iexpressmythoughtsinthispoem，whichIsendtomyeldestbrotheratFuliang，myseventhbrotheratYuqian，MyfifteenbrotheratWujiangandmyyoungerbrothersandsistersatFuliandXiagui。 Myheritagelostthroughdisorderandfamine，Mybrothersandsistersflungeastwardandwestward，Myfieldsandgardenswreckedbythewar，Myownfleshandbloodbecomescumofthestreet，Imoantomyshadowlikealone-wanderingwildgoose，Iamtornfrommyrootlikeawater-plantinautumn：Igazeatthemoon，andmytearsrundownForhearts，infiveplaces，allsickwithonewish。",
+      "translationClean": "SincethedisordersinHenanandthefamineinGuannei, mybrothersandsistershavebeenscattered. Lookingatthemoon, Iexpressmythoughtsinthispoem, whichIsendtomyeldestbrotheratFuliang, myseventhbrotheratYuqian, MyfifteenbrotheratWujiangandmyyoungerbrothersandsistersatFuliandXiagui. Myheritagelostthroughdisorderandfamine, Mybrothersandsistersflungeastwardandwestward, Myfieldsandgardenswreckedbythewar, Myownfleshandbloodbecomescumofthestreet, Imoantomyshadowlikealone-wanderingwildgoose, Iamtornfrommyrootlikeawater-plantinautumn: Igazeatthemoon, andmytearsrundownForhearts, infiveplaces, allsickwithonewish.",
+      "segments": [
+        "SincethedisordersinHenanandthefamineinGuannei, mybrothersandsistershavebeenscattered.",
+        "Lookingatthemoon, Iexpressmythoughtsinthispoem, whichIsendtomyeldestbrotheratFuliang, myseventhbrotheratYuqian, MyfifteenbrotheratWujiangandmyyoungerbrothersandsistersatFuliandXiagui.",
+        "Myheritagelostthroughdisorderandfamine, Mybrothersandsistersflungeastwardandwestward, Myfieldsandgardenswreckedbythewar, Myownfleshandbloodbecomescumofthestreet, Imoantomyshadowlikealone-wanderingwildgoose, Iamtornfrommyrootlikeawater-plantinautumn: Igazeatthemoon, andmytearsrundownForhearts, infiveplaces, allsickwithonewish."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 126,
+        "title": "望月有感",
+        "author": "白居易"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.8318
+      },
+      "ctext": {
+        "matched": true,
+        "order": 208,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 305,
+        "score": 0.97,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": false,
+        "id": null,
+        "score": null
+      }
+    }
+  }
+}

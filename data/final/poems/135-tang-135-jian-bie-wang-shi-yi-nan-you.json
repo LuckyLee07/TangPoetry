@@ -1,0 +1,445 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-135-jian-bie-wang-shi-yi-nan-you",
+    "order": 135,
+    "section": "五言律诗",
+    "title": "饯别王十一南游",
+    "titleTraditional": "餞別王十一南遊",
+    "author": "刘长卿",
+    "authorTraditional": "劉長卿",
+    "dynasty": "唐代",
+    "aliases": [
+      "饯别王十一南游"
+    ],
+    "lines": [
+      "望君烟水阔，挥手泪沾巾。",
+      "飞鸟没何处？",
+      "青山空向人。",
+      "长江一帆远，落日五湖春。",
+      "谁见汀洲上，相思愁白苹？"
+    ],
+    "linesTraditional": [
+      "望君煙水闊，揮手淚霑巾。",
+      "飛鳥沒何處？",
+      "青山空向人。",
+      "長江一帆遠，落日五湖春。",
+      "誰見汀洲上，相思愁白蘋？"
+    ],
+    "text": "望君烟水阔，挥手泪沾巾。飞鸟没何处？青山空向人。长江一帆远，落日五湖春。谁见汀洲上，相思愁白苹？",
+    "textTraditional": "望君煙水闊，揮手淚霑巾。飛鳥沒何處？青山空向人。長江一帆遠，落日五湖春。誰見汀洲上，相思愁白蘋？",
+    "displayLines": [
+      "望君烟水阔，",
+      "挥手泪沾巾。",
+      "飞鸟没何处？",
+      "青山空向人。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "望",
+          "wàng"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "阔",
+          "kuò"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "挥",
+          "huī"
+        ],
+        [
+          "手",
+          "shǒu"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "沾",
+          "zhān"
+        ],
+        [
+          "巾",
+          "jīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "没",
+          "méi"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "向",
+          "xiàng"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "长",
+          "cháng"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "帆",
+          "fān"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "五",
+          "wǔ"
+        ],
+        [
+          "湖",
+          "hú"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "望",
+          "wàng"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "阔",
+          "kuò"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "挥",
+          "huī"
+        ],
+        [
+          "手",
+          "shǒu"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "沾",
+          "zhān"
+        ],
+        [
+          "巾",
+          "jīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "没",
+          "méi"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "向",
+          "xiàng"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "长",
+          "cháng"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "帆",
+          "fān"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "五",
+          "wǔ"
+        ],
+        [
+          "湖",
+          "hú"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "谁",
+          "shuí"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "汀",
+          "tīng"
+        ],
+        [
+          "洲",
+          "zhōu"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "相",
+          "xiàng"
+        ],
+        [
+          "思",
+          "sī"
+        ],
+        [
+          "愁",
+          "chóu"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "苹",
+          "píng"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言律诗",
+      "长江",
+      "友情",
+      "送别"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseLiuChangingONSEEINGWANGLEAVEFORTHESOUTH",
+      "translationRaw": "TowardamistuponthewaterStillIwavemyhandandsob，FortheflyingbirdislostinspaceBeyondadesolategreenmountain。。。。Butnowthelongriver，thefarlonesail，fivelakes，gleamlikespringinthesunset；AnddownanislandwhitewithduckweedComesthequietofcommunion。",
+      "translationClean": "TowardamistuponthewaterStillIwavemyhandandsob, FortheflyingbirdislostinspaceBeyondadesolategreenmountain.... Butnowthelongriver, thefarlonesail, fivelakes, gleamlikespringinthesunset; AnddownanislandwhitewithduckweedComesthequietofcommunion.",
+      "segments": [
+        "TowardamistuponthewaterStillIwavemyhandandsob, FortheflyingbirdislostinspaceBeyondadesolategreenmountain....",
+        "Butnowthelongriver, thefarlonesail, fivelakes, gleamlikespringinthesunset;",
+        "AnddownanislandwhitewithduckweedComesthequietofcommunion."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 216,
+        "title": "饯别王十一南游",
+        "author": "刘长卿"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 135,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 232,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "1487452b-5f49-4f4f-9913-1f3ec1cddf95",
+        "score": 1
+      }
+    }
+  }
+}

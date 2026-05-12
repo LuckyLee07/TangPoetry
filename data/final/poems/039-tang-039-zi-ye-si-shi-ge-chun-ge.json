@@ -1,0 +1,392 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-039-zi-ye-si-shi-ge-chun-ge",
+    "order": 39,
+    "section": "乐府",
+    "title": "子夜四时歌春歌",
+    "titleTraditional": "子夜四時歌春歌",
+    "author": "李白",
+    "authorTraditional": "李白",
+    "dynasty": "唐代",
+    "aliases": [
+      "子夜吴歌·春歌",
+      "子夜四时歌春歌"
+    ],
+    "lines": [
+      "秦地罗敷女，采桑绿水边。",
+      "素手青条上，红妆白日鲜。",
+      "蚕饥妾欲去，五马莫留连。"
+    ],
+    "linesTraditional": [
+      "秦地羅敷女，採桑綠水邊。",
+      "素手青條上，紅妝白日鮮。",
+      "蠶飢妾欲去，五馬莫留連。"
+    ],
+    "text": "秦地罗敷女，采桑绿水边。素手青条上，红妆白日鲜。蚕饥妾欲去，五马莫留连。",
+    "textTraditional": "秦地羅敷女，採桑綠水邊。素手青條上，紅妝白日鮮。蠶飢妾欲去，五馬莫留連。",
+    "displayLines": [
+      "秦地罗敷女，",
+      "采桑绿水边。",
+      "素手青条上，",
+      "红妆白日鲜。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "秦",
+          "qín"
+        ],
+        [
+          "地",
+          "dì"
+        ],
+        [
+          "罗",
+          "luó"
+        ],
+        [
+          "敷",
+          "fū"
+        ],
+        [
+          "女",
+          "nǚ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "采",
+          "cǎi"
+        ],
+        [
+          "桑",
+          "sāng"
+        ],
+        [
+          "绿",
+          "lǜ"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "边",
+          "biān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "素",
+          "sù"
+        ],
+        [
+          "手",
+          "shǒu"
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "条",
+          "tiáo"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "红",
+          "hóng"
+        ],
+        [
+          "妆",
+          "zhuāng"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "鲜",
+          "xiān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "蚕",
+          "cán"
+        ],
+        [
+          "饥",
+          "jī"
+        ],
+        [
+          "妾",
+          "qiè"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "五",
+          "wǔ"
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "莫",
+          "mò"
+        ],
+        [
+          "留",
+          "liú"
+        ],
+        [
+          "连",
+          "lián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "秦",
+          "qín"
+        ],
+        [
+          "地",
+          "dì"
+        ],
+        [
+          "罗",
+          "luó"
+        ],
+        [
+          "敷",
+          "fū"
+        ],
+        [
+          "女",
+          "nǚ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "采",
+          "cǎi"
+        ],
+        [
+          "桑",
+          "sāng"
+        ],
+        [
+          "绿",
+          "lǜ"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "边",
+          "biān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "素",
+          "sù"
+        ],
+        [
+          "手",
+          "shǒu"
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "条",
+          "tiáo"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "红",
+          "hóng"
+        ],
+        [
+          "妆",
+          "zhuāng"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "鲜",
+          "xiān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "蚕",
+          "cán"
+        ],
+        [
+          "饥",
+          "jī"
+        ],
+        [
+          "妾",
+          "qiè"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "五",
+          "wǔ"
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "莫",
+          "mò"
+        ],
+        [
+          "留",
+          "liú"
+        ],
+        [
+          "连",
+          "lián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "乐府",
+      "清商曲辞",
+      "春天",
+      "女子",
+      "赞美"
+    ],
+    "english": {
+      "headingRaw": "Folk-song-styled-verseLiBaiBALLADSOFFOURSEASONS：SPRING",
+      "translationRaw": "ThelovelyLoFoofthewesternlandPlucksmulberryleavesbythewaterside。Acrossthegreenboughsstretchesoutherwhitehand；Ingoldensunshineherrosyrobeisdyed。\"mysilkwormsarehungry，Icannotstay。Tarrynotwithyourfive-horsecab，Ipray。\"",
+      "translationClean": "ThelovelyLoFoofthewesternlandPlucksmulberryleavesbythewaterside. Acrossthegreenboughsstretchesoutherwhitehand; Ingoldensunshineherrosyrobeisdyed. \"mysilkwormsarehungry, Icannotstay. Tarrynotwithyourfive-horsecab, Ipray. \"",
+      "segments": [
+        "ThelovelyLoFoofthewesternlandPlucksmulberryleavesbythewaterside.",
+        "Acrossthegreenboughsstretchesoutherwhitehand;",
+        "Ingoldensunshineherrosyrobeisdyed.",
+        "\"mysilkwormsarehungry, Icannotstay.",
+        "Tarrynotwithyourfive-horsecab, Ipray.",
+        "\""
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 45,
+        "title": "子夜吴歌·春歌",
+        "author": "李白"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9608
+      },
+      "ctext": {
+        "matched": true,
+        "order": 39,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 39,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "57203d7f-380c-4052-b21b-d1ea79fbe231",
+        "score": 1
+      }
+    }
+  }
+}

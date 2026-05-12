@@ -1,0 +1,356 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-318-qing-ping-diao-zhi-er",
+    "order": 318,
+    "section": "乐府",
+    "title": "清平调之二",
+    "titleTraditional": "清平調之二",
+    "author": "李白",
+    "authorTraditional": "李白",
+    "dynasty": "唐代",
+    "aliases": [
+      "清平调·其二",
+      "清平调之二"
+    ],
+    "lines": [
+      "一枝红艳露凝香，云雨巫山枉断肠。",
+      "借问汉宫谁得似，可怜飞燕倚新妆。"
+    ],
+    "linesTraditional": [
+      "一枝紅豔露凝香，雲雨巫山枉斷腸。",
+      "借問漢宮誰得似，可憐飛燕倚新妝。"
+    ],
+    "text": "一枝红艳露凝香，云雨巫山枉断肠。借问汉宫谁得似，可怜飞燕倚新妆。",
+    "textTraditional": "一枝紅豔露凝香，雲雨巫山枉斷腸。借問漢宮誰得似，可憐飛燕倚新妝。",
+    "displayLines": [
+      "一枝红艳露凝香，",
+      "云雨巫山枉断肠。",
+      "借问汉宫谁得似，",
+      "可怜飞燕倚新妆。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "枝",
+          "zhī"
+        ],
+        [
+          "红",
+          "hóng"
+        ],
+        [
+          "艳",
+          "yàn"
+        ],
+        [
+          "露",
+          "lù"
+        ],
+        [
+          "凝",
+          "níng"
+        ],
+        [
+          "香",
+          "xiāng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "巫",
+          "wū"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "枉",
+          "wǎng"
+        ],
+        [
+          "断",
+          "duàn"
+        ],
+        [
+          "肠",
+          "cháng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "借",
+          "jiè"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "谁",
+          "shuí"
+        ],
+        [
+          "得",
+          "dé"
+        ],
+        [
+          "似",
+          "shì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "可",
+          "kě"
+        ],
+        [
+          "怜",
+          "lián"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "燕",
+          "yàn"
+        ],
+        [
+          "倚",
+          "yǐ"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "妆",
+          "zhuāng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "枝",
+          "zhī"
+        ],
+        [
+          "红",
+          "hóng"
+        ],
+        [
+          "艳",
+          "yàn"
+        ],
+        [
+          "露",
+          "lù"
+        ],
+        [
+          "凝",
+          "níng"
+        ],
+        [
+          "香",
+          "xiāng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "巫",
+          "wū"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "枉",
+          "wǎng"
+        ],
+        [
+          "断",
+          "duàn"
+        ],
+        [
+          "肠",
+          "cháng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "借",
+          "jiè"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "谁",
+          "shuí"
+        ],
+        [
+          "得",
+          "dé"
+        ],
+        [
+          "似",
+          "shì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "可",
+          "kě"
+        ],
+        [
+          "怜",
+          "lián"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "燕",
+          "yàn"
+        ],
+        [
+          "倚",
+          "yǐ"
+        ],
+        [
+          "新",
+          "xīn"
+        ],
+        [
+          "妆",
+          "zhuāng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.云雨巫山：称男女幽会。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.飞燕：指赵飞燕，汉成帝立为后。"
+      }
+    ],
+    "tags": [
+      "乐府",
+      "女子",
+      "近代曲辞"
+    ],
+    "english": {
+      "headingRaw": "Folk-song-styled-verseLiBaiASONGOFPUREHAPPINESSII",
+      "translationRaw": "There』saperfumestealingmoistfromashaftofredblossom，Andamist，throughtheheart，fromthemagicalHillofWu--ThepalacesofChinahaveneverknownsuchbeauty-NotevenFlyingSwallowwithallherglitteringgarments。",
+      "translationClean": "There'saperfumestealingmoistfromashaftofredblossom, Andamist, throughtheheart, fromthemagicalHillofWu--ThepalacesofChinahaveneverknownsuchbeauty-NotevenFlyingSwallowwithallherglitteringgarments.",
+      "segments": [
+        "There'saperfumestealingmoistfromashaftofredblossom, Andamist, throughtheheart, fromthemagicalHillofWu--ThepalacesofChinahaveneverknownsuchbeauty-NotevenFlyingSwallowwithallherglitteringgarments."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 101,
+        "title": "清平调·其二",
+        "author": "李白"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 318,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 141,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "59063901-7dbc-4f22-974f-ddccab675cbc",
+        "score": 1
+      }
+    }
+  }
+}

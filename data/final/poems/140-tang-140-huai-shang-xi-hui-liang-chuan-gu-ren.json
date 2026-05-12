@@ -1,0 +1,474 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-140-huai-shang-xi-hui-liang-chuan-gu-ren",
+    "order": 140,
+    "section": "五言律诗",
+    "title": "淮上喜会梁川故人",
+    "titleTraditional": "淮上喜會梁川故人",
+    "author": "韦应物",
+    "authorTraditional": "韋應物",
+    "dynasty": "唐代",
+    "aliases": [
+      "淮上喜会梁川故人 / 淮上喜会梁州故人",
+      "淮上喜会梁川故人"
+    ],
+    "lines": [
+      "江汉曾为客，相逢每醉还。",
+      "浮云一别后，流水十年间。",
+      "欢笑情如旧，萧疏鬓已斑。",
+      "何因北归去？",
+      "淮上对秋山。"
+    ],
+    "linesTraditional": [
+      "江漢曾為客，相逢每醉還。",
+      "浮雲一別後，流水十年間。",
+      "歡笑情如舊，蕭疏鬢已斑。",
+      "何因北歸去？",
+      "淮上對秋山。"
+    ],
+    "text": "江汉曾为客，相逢每醉还。浮云一别后，流水十年间。欢笑情如旧，萧疏鬓已斑。何因北归去？淮上对秋山。",
+    "textTraditional": "江漢曾為客，相逢每醉還。浮雲一別後，流水十年間。歡笑情如舊，蕭疏鬢已斑。何因北歸去？淮上對秋山。",
+    "displayLines": [
+      "江汉曾为客，",
+      "相逢每醉还。",
+      "浮云一别后，",
+      "流水十年间。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "曾",
+          "céng"
+        ],
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "逢",
+          "féng"
+        ],
+        [
+          "每",
+          "měi"
+        ],
+        [
+          "醉",
+          "zuì"
+        ],
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "浮",
+          "fú"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "后",
+          "hòu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "十",
+          "shí"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "间",
+          "jiān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "欢",
+          "huān"
+        ],
+        [
+          "笑",
+          "xiào"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "旧",
+          "jiù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "萧",
+          "xiāo"
+        ],
+        [
+          "疏",
+          "shū"
+        ],
+        [
+          "鬓",
+          "bìn"
+        ],
+        [
+          "已",
+          "yǐ"
+        ],
+        [
+          "斑",
+          "bān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "因",
+          "yīn"
+        ],
+        [
+          "北",
+          "běi"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "曾",
+          "céng"
+        ],
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "逢",
+          "féng"
+        ],
+        [
+          "每",
+          "měi"
+        ],
+        [
+          "醉",
+          "zuì"
+        ],
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "浮",
+          "fú"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "后",
+          "hòu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "十",
+          "shí"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "间",
+          "jiān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "欢",
+          "huān"
+        ],
+        [
+          "笑",
+          "xiào"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "旧",
+          "jiù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "萧",
+          "xiāo"
+        ],
+        [
+          "疏",
+          "shū"
+        ],
+        [
+          "鬓",
+          "bìn"
+        ],
+        [
+          "已",
+          "yǐ"
+        ],
+        [
+          "斑",
+          "bān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "因",
+          "yīn"
+        ],
+        [
+          "北",
+          "běi"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "淮",
+          "huái"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "对",
+          "duì"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.萧疏：零落。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "友情"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseWeiYingwuAGREETINGONTHEHUAIRIVERTOMYOLDFRIENDSFROMLIANGCHUAN",
+      "translationRaw": "WeusedtobecompanionsontheJiangandtheHan，Andasoftenaswemet，wewerelikelytobetipsy。Sinceweleftoneanother，floatingapartlikeclouds，Tenyearshaverunlikewater-tillatlastwejoinagain。Andwetalkagainandlaughagainjustasinearlierdays，Exceptthatthehaironourheadsistingednowwithgrey。Whynotcomealong，then，allofustogether，AndfacetheautumnmountainsandsailalongtheHuai？",
+      "translationClean": "WeusedtobecompanionsontheJiangandtheHan, Andasoftenaswemet, wewerelikelytobetipsy. Sinceweleftoneanother, floatingapartlikeclouds, Tenyearshaverunlikewater-tillatlastwejoinagain. Andwetalkagainandlaughagainjustasinearlierdays, Exceptthatthehaironourheadsistingednowwithgrey. Whynotcomealong, then, allofustogether, AndfacetheautumnmountainsandsailalongtheHuai?",
+      "segments": [
+        "WeusedtobecompanionsontheJiangandtheHan, Andasoftenaswemet, wewerelikelytobetipsy.",
+        "Sinceweleftoneanother, floatingapartlikeclouds, Tenyearshaverunlikewater-tillatlastwejoinagain.",
+        "Andwetalkagainandlaughagainjustasinearlierdays, Exceptthatthehaironourheadsistingednowwithgrey.",
+        "Whynotcomealong, then, allofustogether, AndfacetheautumnmountainsandsailalongtheHuai?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 86,
+        "title": "淮上喜会梁川故人 / 淮上喜会梁州故人",
+        "author": "韦应物"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.961
+      },
+      "ctext": {
+        "matched": true,
+        "order": 140,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 237,
+        "score": 0.975,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "a68013c8-4630-41c6-a5ee-a658b57f58fe",
+        "score": 0.925
+      }
+    }
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-299-ji-ling-hu-lang-zhong",
+    "order": 299,
+    "section": "七言绝句",
+    "title": "寄令狐郎中",
+    "titleTraditional": "寄令狐郎中",
+    "author": "李商隐",
+    "authorTraditional": "李商隱",
+    "dynasty": "唐代",
+    "aliases": [
+      "寄令狐郎中"
+    ],
+    "lines": [
+      "嵩云秦树久离居，双鲤迢迢一纸笔。",
+      "休问梁园旧宾客，茂陵秋雨病相如。"
+    ],
+    "linesTraditional": [
+      "嵩雲秦樹久離居，雙鯉迢迢一紙筆。",
+      "休問梁園舊賓客，茂陵秋雨病相如。"
+    ],
+    "text": "嵩云秦树久离居，双鲤迢迢一纸笔。休问梁园旧宾客，茂陵秋雨病相如。",
+    "textTraditional": "嵩雲秦樹久離居，雙鯉迢迢一紙筆。休問梁園舊賓客，茂陵秋雨病相如。",
+    "displayLines": [
+      "嵩云秦树久离居，",
+      "双鲤迢迢一纸笔。",
+      "休问梁园旧宾客，",
+      "茂陵秋雨病相如。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "嵩",
+          "sōng"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "秦",
+          "qín"
+        ],
+        [
+          "树",
+          "shù"
+        ],
+        [
+          "久",
+          "jiǔ"
+        ],
+        [
+          "离",
+          "lí"
+        ],
+        [
+          "居",
+          "jū"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "双",
+          "shuāng"
+        ],
+        [
+          "鲤",
+          "lǐ"
+        ],
+        [
+          "迢",
+          "tiáo"
+        ],
+        [
+          "迢",
+          "tiáo"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "纸",
+          "zhǐ"
+        ],
+        [
+          "笔",
+          "bǐ"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "休",
+          "xiū"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "梁",
+          "liáng"
+        ],
+        [
+          "园",
+          "yuán"
+        ],
+        [
+          "旧",
+          "jiù"
+        ],
+        [
+          "宾",
+          "bīn"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "茂",
+          "mào"
+        ],
+        [
+          "陵",
+          "líng"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "病",
+          "bìng"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "嵩",
+          "sōng"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "秦",
+          "qín"
+        ],
+        [
+          "树",
+          "shù"
+        ],
+        [
+          "久",
+          "jiǔ"
+        ],
+        [
+          "离",
+          "lí"
+        ],
+        [
+          "居",
+          "jū"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "双",
+          "shuāng"
+        ],
+        [
+          "鲤",
+          "lǐ"
+        ],
+        [
+          "迢",
+          "tiáo"
+        ],
+        [
+          "迢",
+          "tiáo"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "纸",
+          "zhǐ"
+        ],
+        [
+          "笔",
+          "bǐ"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "休",
+          "xiū"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "梁",
+          "liáng"
+        ],
+        [
+          "园",
+          "yuán"
+        ],
+        [
+          "旧",
+          "jiù"
+        ],
+        [
+          "宾",
+          "bīn"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "茂",
+          "mào"
+        ],
+        [
+          "陵",
+          "líng"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "病",
+          "bìng"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.嵩云秦树：嵩山的云，秦川的树。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.双鲤：称书信。"
+      }
+    ],
+    "tags": [
+      "七言绝句",
+      "思念",
+      "写景",
+      "友情"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainLiShangyinAMESSAGETOSECRETARYLINGHU",
+      "translationRaw": "IamfarfromthecloudsofSungMountain，alongwayfromtreesinQin；AndIsendtoyouamessagecarriedbytwocarp：--AbsentthisautumnfromthePrince』sgarden，There』sapoetatMaolingsickintherain。",
+      "translationClean": "IamfarfromthecloudsofSungMountain, alongwayfromtreesinQin; AndIsendtoyouamessagecarriedbytwocarp: --AbsentthisautumnfromthePrince'sgarden, There'sapoetatMaolingsickintherain.",
+      "segments": [
+        "IamfarfromthecloudsofSungMountain, alongwayfromtreesinQin;",
+        "AndIsendtoyouamessagecarriedbytwocarp: --AbsentthisautumnfromthePrince'sgarden, There'sapoetatMaolingsickintherain."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 82,
+        "title": "寄令狐郎中",
+        "author": "李商隐"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9721
+      },
+      "ctext": {
+        "matched": true,
+        "order": 299,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 172,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "fb376b71-91c6-44ee-b2e4-40f5b3f71b8f",
+        "score": 1
+      }
+    }
+  }
+}

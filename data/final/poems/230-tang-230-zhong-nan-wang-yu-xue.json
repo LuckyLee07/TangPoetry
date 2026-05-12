@@ -1,0 +1,285 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-230-zhong-nan-wang-yu-xue",
+    "order": 230,
+    "section": "五言绝句",
+    "title": "终南望余雪",
+    "titleTraditional": "終南望餘雪",
+    "author": "祖咏",
+    "authorTraditional": "祖詠",
+    "dynasty": "唐代",
+    "aliases": [
+      "终南望余雪"
+    ],
+    "lines": [
+      "终南阴岭秀，积雪浮云端。",
+      "林表明霁色，城中增暮寒。"
+    ],
+    "linesTraditional": [
+      "終南陰嶺秀，積雪浮雲端。",
+      "林表明霽色，城中增暮寒。"
+    ],
+    "text": "终南阴岭秀，积雪浮云端。林表明霁色，城中增暮寒。",
+    "textTraditional": "終南陰嶺秀，積雪浮雲端。林表明霽色，城中增暮寒。",
+    "displayLines": [
+      "终南阴岭秀，",
+      "积雪浮云端。",
+      "林表明霁色，",
+      "城中增暮寒。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "终",
+          "zhōng"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "阴",
+          "yīn"
+        ],
+        [
+          "岭",
+          "lǐng"
+        ],
+        [
+          "秀",
+          "xiù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "积",
+          "jī"
+        ],
+        [
+          "雪",
+          "xuě"
+        ],
+        [
+          "浮",
+          "fú"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "端",
+          "duān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "表",
+          "biǎo"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "霁",
+          "jì"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "增",
+          "zēng"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "终",
+          "zhōng"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "阴",
+          "yīn"
+        ],
+        [
+          "岭",
+          "lǐng"
+        ],
+        [
+          "秀",
+          "xiù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "积",
+          "jī"
+        ],
+        [
+          "雪",
+          "xuě"
+        ],
+        [
+          "浮",
+          "fú"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "端",
+          "duān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "表",
+          "biǎo"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "霁",
+          "jì"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "增",
+          "zēng"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言绝句",
+      "写雪",
+      "冬天",
+      "写景",
+      "雪",
+      "冬"
+    ],
+    "english": {
+      "headingRaw": "Five-character-quatrainZuYoungONSEEINGTHESNOW-PEAKOFZHONGNAN",
+      "translationRaw": "SeehowZhongnanMountainsoarsWithitswhitetopoverfloatingclouds--Andawarmskyopeningatthesnow-lineWhilethetowninthevalleygrowscolderandcolder。",
+      "translationClean": "SeehowZhongnanMountainsoarsWithitswhitetopoverfloatingclouds--Andawarmskyopeningatthesnow-lineWhilethetowninthevalleygrowscolderandcolder.",
+      "segments": [
+        "SeehowZhongnanMountainsoarsWithitswhitetopoverfloatingclouds--Andawarmskyopeningatthesnow-lineWhilethetowninthevalleygrowscolderandcolder."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 3,
+        "title": "终南望余雪",
+        "author": "祖咏"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 230,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 96,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "b4780bd1-1703-4bce-a801-d5ed566826b5",
+        "score": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-301-sui-gong",
+    "order": 301,
+    "section": "七言绝句",
+    "title": "隋宫",
+    "titleTraditional": "隋宮",
+    "author": "李商隐",
+    "authorTraditional": "李商隱",
+    "dynasty": "唐代",
+    "aliases": [
+      "隋宫"
+    ],
+    "lines": [
+      "乘兴南游不戒严，九重谁省谏书函。",
+      "春风举国裁宫锦，半作障泥半作帆。"
+    ],
+    "linesTraditional": [
+      "乘興南遊不戒嚴，九重誰省諫書函。",
+      "春風舉國裁宮錦，半作障泥半作帆。"
+    ],
+    "text": "乘兴南游不戒严，九重谁省谏书函。春风举国裁宫锦，半作障泥半作帆。",
+    "textTraditional": "乘興南遊不戒嚴，九重誰省諫書函。春風舉國裁宮錦，半作障泥半作帆。",
+    "displayLines": [
+      "乘兴南游不戒严，",
+      "九重谁省谏书函。",
+      "春风举国裁宫锦，",
+      "半作障泥半作帆。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "乘",
+          "chéng"
+        ],
+        [
+          "兴",
+          "xìng"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "游",
+          "yóu"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "戒",
+          "jiè"
+        ],
+        [
+          "严",
+          "yán"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "九",
+          "jiǔ"
+        ],
+        [
+          "重",
+          "chóng"
+        ],
+        [
+          "谁",
+          "shuí"
+        ],
+        [
+          "省",
+          "shěng"
+        ],
+        [
+          "谏",
+          "jiàn"
+        ],
+        [
+          "书",
+          "shū"
+        ],
+        [
+          "函",
+          "hán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "举",
+          "jǔ"
+        ],
+        [
+          "国",
+          "guó"
+        ],
+        [
+          "裁",
+          "cái"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "锦",
+          "jǐn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "半",
+          "bàn"
+        ],
+        [
+          "作",
+          "zuò"
+        ],
+        [
+          "障",
+          "zhàng"
+        ],
+        [
+          "泥",
+          "ní"
+        ],
+        [
+          "半",
+          "bàn"
+        ],
+        [
+          "作",
+          "zuò"
+        ],
+        [
+          "帆",
+          "fān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "乘",
+          "chéng"
+        ],
+        [
+          "兴",
+          "xìng"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "游",
+          "yóu"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "戒",
+          "jiè"
+        ],
+        [
+          "严",
+          "yán"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "九",
+          "jiǔ"
+        ],
+        [
+          "重",
+          "chóng"
+        ],
+        [
+          "谁",
+          "shuí"
+        ],
+        [
+          "省",
+          "shěng"
+        ],
+        [
+          "谏",
+          "jiàn"
+        ],
+        [
+          "书",
+          "shū"
+        ],
+        [
+          "函",
+          "hán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "举",
+          "jǔ"
+        ],
+        [
+          "国",
+          "guó"
+        ],
+        [
+          "裁",
+          "cái"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "锦",
+          "jǐn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "半",
+          "bàn"
+        ],
+        [
+          "作",
+          "zuò"
+        ],
+        [
+          "障",
+          "zhàng"
+        ],
+        [
+          "泥",
+          "ní"
+        ],
+        [
+          "半",
+          "bàn"
+        ],
+        [
+          "作",
+          "zuò"
+        ],
+        [
+          "帆",
+          "fān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.九重：指朝庭。"
+      }
+    ],
+    "tags": [
+      "七言绝句",
+      "咏史怀古",
+      "讽刺"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainLiShangyinTHESUIPALACE",
+      "translationRaw": "WhengailytheEmperortouredthesouthContrarytoeverywarning，Hiswholeempirecutbrocades，Halfforwheel-guards，halfforsails。",
+      "translationClean": "WhengailytheEmperortouredthesouthContrarytoeverywarning, Hiswholeempirecutbrocades, Halfforwheel-guards, halfforsails.",
+      "segments": [
+        "WhengailytheEmperortouredthesouthContrarytoeverywarning, Hiswholeempirecutbrocades, Halfforwheel-guards, halfforsails."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 18,
+        "title": "隋宫",
+        "author": "李商隐"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 301,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 174,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "91f95b30-c42f-470a-9df8-dd6284fca474",
+        "score": 1
+      }
+    }
+  }
+}

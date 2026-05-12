@@ -1,0 +1,560 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-176-song-li-shao-fu-bian-xia-zhong-wang-shao-fu-bian-chang-sha",
+    "order": 176,
+    "section": "七言律诗",
+    "title": "送李少府贬峡中王少府贬长沙",
+    "titleTraditional": "送李少府貶峽中王少府貶長沙",
+    "author": "高适",
+    "authorTraditional": "高適",
+    "dynasty": "唐代",
+    "aliases": [
+      "送李少府贬峡中王少府贬长沙"
+    ],
+    "lines": [
+      "嗟君此别意何如？",
+      "驻马衔杯问谪居。",
+      "巫峡啼猿数行泪，衡阳归雁几封书。",
+      "青枫江上秋帆远，白帝城边古木疏。",
+      "圣代即今多雨露，暂时分手莫踌躇。"
+    ],
+    "linesTraditional": [
+      "嗟君此別意何如？",
+      "駐馬銜杯問謫居。",
+      "巫峽啼猿數行淚，衡陽歸雁幾封書。",
+      "青楓江上秋帆遠，白帝城邊古木疏。",
+      "聖代即今多雨露，暫時分手莫躊躇。"
+    ],
+    "text": "嗟君此别意何如？驻马衔杯问谪居。巫峡啼猿数行泪，衡阳归雁几封书。青枫江上秋帆远，白帝城边古木疏。圣代即今多雨露，暂时分手莫踌躇。",
+    "textTraditional": "嗟君此別意何如？駐馬銜杯問謫居。巫峽啼猿數行淚，衡陽歸雁幾封書。青楓江上秋帆遠，白帝城邊古木疏。聖代即今多雨露，暫時分手莫躊躇。",
+    "displayLines": [
+      "嗟君此别意何如？",
+      "驻马衔杯问谪居。",
+      "巫峡啼猿数行泪，",
+      "衡阳归雁几封书。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "嗟",
+          "jiē"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "意",
+          "yì"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "驻",
+          "zhù"
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "衔",
+          "xián"
+        ],
+        [
+          "杯",
+          "bēi"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "谪",
+          "zhé"
+        ],
+        [
+          "居",
+          "jū"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "巫",
+          "wū"
+        ],
+        [
+          "峡",
+          "xiá"
+        ],
+        [
+          "啼",
+          "tí"
+        ],
+        [
+          "猿",
+          "yuán"
+        ],
+        [
+          "数",
+          "shù"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "衡",
+          "héng"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "雁",
+          "yàn"
+        ],
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "封",
+          "fēng"
+        ],
+        [
+          "书",
+          "shū"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "枫",
+          "fēng"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "帆",
+          "fān"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "帝",
+          "dì"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "边",
+          "biān"
+        ],
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "木",
+          "mù"
+        ],
+        [
+          "疏",
+          "shū"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "嗟",
+          "jiē"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "意",
+          "yì"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "驻",
+          "zhù"
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "衔",
+          "xián"
+        ],
+        [
+          "杯",
+          "bēi"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "谪",
+          "zhé"
+        ],
+        [
+          "居",
+          "jū"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "巫",
+          "wū"
+        ],
+        [
+          "峡",
+          "xiá"
+        ],
+        [
+          "啼",
+          "tí"
+        ],
+        [
+          "猿",
+          "yuán"
+        ],
+        [
+          "数",
+          "shù"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "衡",
+          "héng"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "雁",
+          "yàn"
+        ],
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "封",
+          "fēng"
+        ],
+        [
+          "书",
+          "shū"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "枫",
+          "fēng"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "帆",
+          "fān"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "帝",
+          "dì"
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "边",
+          "biān"
+        ],
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "木",
+          "mù"
+        ],
+        [
+          "疏",
+          "shū"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "圣",
+          "shèng"
+        ],
+        [
+          "代",
+          "dài"
+        ],
+        [
+          "即",
+          "jí"
+        ],
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "多",
+          "duō"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "露",
+          "lù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "暂",
+          "zàn"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "分",
+          "fēn"
+        ],
+        [
+          "手",
+          "shǒu"
+        ],
+        [
+          "莫",
+          "mò"
+        ],
+        [
+          "踌",
+          "chóu"
+        ],
+        [
+          "躇",
+          "chú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "七言律诗",
+      "同情",
+      "送别",
+      "贬谪",
+      "边塞"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-regular-verseGaoShiTOVICE-PREFECTSLIANDWANGDEGRADEDANDTRANSFERREDTOXIAZHONGANDCHANGSHA",
+      "translationRaw": "Whatareyouthinkingaswepartfromoneanother，Pullinginourhorsesforthestirrup-cups？Dothesetear-streaksmeanWuValleymonkeysallweeping，OrwildgeesereturningwithnewsfromHengMountain？。。。。Ontheriverbetweengreenmaplesanautumnsailgrowsdim，ThereareonlyafewoldtreesbythewalloftheWhiteGodCity。。。。Buttheyearisboundtofreshenuswithadewofheavenlyfavour--Takeheart，weshallsoonbetogetheragain！",
+      "translationClean": "Whatareyouthinkingaswepartfromoneanother, Pullinginourhorsesforthestirrup-cups? Dothesetear-streaksmeanWuValleymonkeysallweeping, OrwildgeesereturningwithnewsfromHengMountain? .... Ontheriverbetweengreenmaplesanautumnsailgrowsdim, ThereareonlyafewoldtreesbythewalloftheWhiteGodCity.... Buttheyearisboundtofreshenuswithadewofheavenlyfavour--Takeheart, weshallsoonbetogetheragain!",
+      "segments": [
+        "Whatareyouthinkingaswepartfromoneanother, Pullinginourhorsesforthestirrup-cups?",
+        "Dothesetear-streaksmeanWuValleymonkeysallweeping, OrwildgeesereturningwithnewsfromHengMountain?",
+        "....",
+        "Ontheriverbetweengreenmaplesanautumnsailgrowsdim, ThereareonlyafewoldtreesbythewalloftheWhiteGodCity....",
+        "Buttheyearisboundtofreshenuswithadewofheavenlyfavour--Takeheart, weshallsoonbetogetheragain!"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 282,
+        "title": "送李少府贬峡中王少府贬长沙",
+        "author": "高适"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 176,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 273,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "2c24cec1-4105-4511-bf8b-bc6d5d8d48c7",
+        "score": 0.9464
+      }
+    }
+  }
+}

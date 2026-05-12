@@ -1,0 +1,499 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-101-du-jing-men-song-bie",
+    "order": 101,
+    "section": "五言律诗",
+    "title": "渡荆门送别",
+    "titleTraditional": "渡荊門送別",
+    "author": "李白",
+    "authorTraditional": "李白",
+    "dynasty": "唐代",
+    "aliases": [
+      "渡荆门送别"
+    ],
+    "lines": [
+      "渡远荆门外，来从楚国游。",
+      "山随平野尽，江入大荒流。",
+      "月下飞天镜，云生结海楼。",
+      "仍怜故乡水，万里送行舟。"
+    ],
+    "linesTraditional": [
+      "渡遠荊門外，來從楚國遊。",
+      "山隨平野盡，江入大荒流。",
+      "月下飛天鏡，雲生結海樓。",
+      "仍憐故鄉水，萬里送行舟。"
+    ],
+    "text": "渡远荆门外，来从楚国游。山随平野尽，江入大荒流。月下飞天镜，云生结海楼。仍怜故乡水，万里送行舟。",
+    "textTraditional": "渡遠荊門外，來從楚國遊。山隨平野盡，江入大荒流。月下飛天鏡，雲生結海樓。仍憐故鄉水，萬里送行舟。",
+    "displayLines": [
+      "渡远荆门外，",
+      "来从楚国游。",
+      "山随平野尽，",
+      "江入大荒流。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "渡",
+          "dù"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "荆",
+          "jīng"
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "外",
+          "wài"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "从",
+          "cóng"
+        ],
+        [
+          "楚",
+          "chǔ"
+        ],
+        [
+          "国",
+          "guó"
+        ],
+        [
+          "游",
+          "yóu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "随",
+          "suí"
+        ],
+        [
+          "平",
+          "píng"
+        ],
+        [
+          "野",
+          "yě"
+        ],
+        [
+          "尽",
+          "jǐn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "大",
+          "dà"
+        ],
+        [
+          "荒",
+          "huāng"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "镜",
+          "jìng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "结",
+          "jié"
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "仍",
+          "réng"
+        ],
+        [
+          "怜",
+          "lián"
+        ],
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "送",
+          "sòng"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "舟",
+          "zhōu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "渡",
+          "dù"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "荆",
+          "jīng"
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "外",
+          "wài"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "从",
+          "cóng"
+        ],
+        [
+          "楚",
+          "chǔ"
+        ],
+        [
+          "国",
+          "guó"
+        ],
+        [
+          "游",
+          "yóu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "随",
+          "suí"
+        ],
+        [
+          "平",
+          "píng"
+        ],
+        [
+          "野",
+          "yě"
+        ],
+        [
+          "尽",
+          "jǐn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "大",
+          "dà"
+        ],
+        [
+          "荒",
+          "huāng"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "镜",
+          "jìng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "结",
+          "jié"
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "仍",
+          "réng"
+        ],
+        [
+          "怜",
+          "lián"
+        ],
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "送",
+          "sòng"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "舟",
+          "zhōu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.天镜：称月。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.海楼：海市蜃楼。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "长江",
+      "送别",
+      "初中古诗",
+      "八年级上册(课内)",
+      "思乡"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseLiBaiBIDDINGAFRIENDFAREWELLATJINGMENFERRY",
+      "translationRaw": "SailingfarofffromJingmenFerry，Soonyouwillbewithpeopleinthesouth，WherethemountainsendandtheplainsbeginAndtheriverwindsthroughwilderness。。。。Themoonisliftedlikeamirror，Sea-cloudsgleamlikepalaces，AndthewaterhasbroughtyouatouchofhomeTodrawyourboatthreehundredmiles。",
+      "translationClean": "SailingfarofffromJingmenFerry, Soonyouwillbewithpeopleinthesouth, WherethemountainsendandtheplainsbeginAndtheriverwindsthroughwilderness.... Themoonisliftedlikeamirror, Sea-cloudsgleamlikepalaces, AndthewaterhasbroughtyouatouchofhomeTodrawyourboatthreehundredmiles.",
+      "segments": [
+        "SailingfarofffromJingmenFerry, Soonyouwillbewithpeopleinthesouth, WherethemountainsendandtheplainsbeginAndtheriverwindsthroughwilderness....",
+        "Themoonisliftedlikeamirror, Sea-cloudsgleamlikepalaces, AndthewaterhasbroughtyouatouchofhomeTodrawyourboatthreehundredmiles."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 262,
+        "title": "渡荆门送别",
+        "author": "李白"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 101,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 198,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "bf8918b8-a05a-4ccf-bb2e-3f9b81f6bbfc",
+        "score": 0.975
+      }
+    }
+  }
+}

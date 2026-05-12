@@ -1,0 +1,297 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-227-xiang-si",
+    "order": 227,
+    "section": "五言绝句",
+    "title": "相思",
+    "titleTraditional": "相思",
+    "author": "王维",
+    "authorTraditional": "王維",
+    "dynasty": "唐代",
+    "aliases": [
+      "相思"
+    ],
+    "lines": [
+      "红豆生南国，春来发几枝。",
+      "愿君多采撷，此物最相思。"
+    ],
+    "linesTraditional": [
+      "紅豆生南國，春來發幾枝。",
+      "願君多採擷，此物最相思。"
+    ],
+    "text": "红豆生南国，春来发几枝。愿君多采撷，此物最相思。",
+    "textTraditional": "紅豆生南國，春來發幾枝。願君多採擷，此物最相思。",
+    "displayLines": [
+      "红豆生南国，",
+      "春来发几枝。",
+      "愿君多采撷，",
+      "此物最相思。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "红",
+          "hóng"
+        ],
+        [
+          "豆",
+          "dòu"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "国",
+          "guó"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "发",
+          "fā"
+        ],
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "枝",
+          "zhī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "愿",
+          "yuàn"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "多",
+          "duō"
+        ],
+        [
+          "采",
+          "cǎi"
+        ],
+        [
+          "撷",
+          "xié"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "物",
+          "wù"
+        ],
+        [
+          "最",
+          "zuì"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "思",
+          "sī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "红",
+          "hóng"
+        ],
+        [
+          "豆",
+          "dòu"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "国",
+          "guó"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "发",
+          "fā"
+        ],
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "枝",
+          "zhī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "愿",
+          "yuàn"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "多",
+          "duō"
+        ],
+        [
+          "采",
+          "cǎi"
+        ],
+        [
+          "撷",
+          "xié"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "物",
+          "wù"
+        ],
+        [
+          "最",
+          "zuì"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "思",
+          "sī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.春字应作秋字，否则和红豆结实的季节不符。万首唐人绝句：\"红杏生"
+      },
+      {
+        "source": "chiuinan",
+        "text": "南国，春来发几枝\"，红豆变成了红杏，原是红杏在春来时发故枝，因"
+      },
+      {
+        "source": "chiuinan",
+        "text": "此有些版本误为春字。"
+      }
+    ],
+    "tags": [
+      "五言绝句",
+      "思念",
+      "咏物",
+      "抒情",
+      "咏物诗"
+    ],
+    "english": {
+      "headingRaw": "Five-character-quatrainWangWeiONE-HEARTED",
+      "translationRaw": "Whenthoseredberriescomeinspringtime，Flushingonyoursouthlandbranches，Takehomeanarmful，formysake，Asasymbolofourlove。",
+      "translationClean": "Whenthoseredberriescomeinspringtime, Flushingonyoursouthlandbranches, Takehomeanarmful, formysake, Asasymbolofourlove.",
+      "segments": [
+        "Whenthoseredberriescomeinspringtime, Flushingonyoursouthlandbranches, Takehomeanarmful, formysake, Asasymbolofourlove."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 301,
+        "title": "相思",
+        "author": "王维"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 227,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 93,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "8baa7c35-9afb-40bf-b5e4-41d9895e2710",
+        "score": 0.9
+      }
+    }
+  }
+}

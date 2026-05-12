@@ -1,0 +1,496 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-144-jiang-xiang-gu-ren-ou-ji-ke-she",
+    "order": 144,
+    "section": "五言律诗",
+    "title": "江乡故人偶集客舍",
+    "titleTraditional": "江鄉故人偶集客舍",
+    "author": "戴叔伦",
+    "authorTraditional": "戴叔倫",
+    "dynasty": "唐代",
+    "aliases": [
+      "客夜与故人偶集 / 江乡故人偶集客舍",
+      "江乡故人偶集客舍"
+    ],
+    "lines": [
+      "天秋月又满，城阙夜千重。",
+      "还作江南会，翻疑梦里逢。",
+      "风枝惊暗鹊，露草覆寒虫。",
+      "羁旅长堪醉，相留畏晓钟。"
+    ],
+    "linesTraditional": [
+      "天秋月又滿，城闕夜千重。",
+      "還作江南會，翻疑夢裡逢。",
+      "風枝驚暗鵲，露草覆寒蟲。",
+      "羈旅長堪醉，相留畏曉鐘。"
+    ],
+    "text": "天秋月又满，城阙夜千重。还作江南会，翻疑梦里逢。风枝惊暗鹊，露草覆寒虫。羁旅长堪醉，相留畏晓钟。",
+    "textTraditional": "天秋月又滿，城闕夜千重。還作江南會，翻疑夢裡逢。風枝驚暗鵲，露草覆寒蟲。羈旅長堪醉，相留畏曉鐘。",
+    "displayLines": [
+      "天秋月又满，",
+      "城阙夜千重。",
+      "还作江南会，",
+      "翻疑梦里逢。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "又",
+          "yòu"
+        ],
+        [
+          "满",
+          "mǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "阙",
+          "què"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "千",
+          "qiān"
+        ],
+        [
+          "重",
+          "zhòng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "作",
+          "zuò"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "会",
+          "huì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "翻",
+          "fān"
+        ],
+        [
+          "疑",
+          "yí"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "逢",
+          "féng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "枝",
+          "zhī"
+        ],
+        [
+          "惊",
+          "jīng"
+        ],
+        [
+          "暗",
+          "àn"
+        ],
+        [
+          "鹊",
+          "què"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "露",
+          "lù"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "覆",
+          "fù"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "虫",
+          "chóng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "羁",
+          "jī"
+        ],
+        [
+          "旅",
+          "lǚ"
+        ],
+        [
+          "长",
+          "zhǎng"
+        ],
+        [
+          "堪",
+          "kān"
+        ],
+        [
+          "醉",
+          "zuì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "留",
+          "liú"
+        ],
+        [
+          "畏",
+          "wèi"
+        ],
+        [
+          "晓",
+          "xiǎo"
+        ],
+        [
+          "钟",
+          "zhōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "又",
+          "yòu"
+        ],
+        [
+          "满",
+          "mǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "城",
+          "chéng"
+        ],
+        [
+          "阙",
+          "què"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "千",
+          "qiān"
+        ],
+        [
+          "重",
+          "zhòng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "作",
+          "zuò"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "会",
+          "huì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "翻",
+          "fān"
+        ],
+        [
+          "疑",
+          "yí"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "逢",
+          "féng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "枝",
+          "zhī"
+        ],
+        [
+          "惊",
+          "jīng"
+        ],
+        [
+          "暗",
+          "àn"
+        ],
+        [
+          "鹊",
+          "què"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "露",
+          "lù"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "覆",
+          "fù"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "虫",
+          "chóng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "羁",
+          "jī"
+        ],
+        [
+          "旅",
+          "lǚ"
+        ],
+        [
+          "长",
+          "zhǎng"
+        ],
+        [
+          "堪",
+          "kān"
+        ],
+        [
+          "醉",
+          "zuì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "留",
+          "liú"
+        ],
+        [
+          "畏",
+          "wèi"
+        ],
+        [
+          "晓",
+          "xiǎo"
+        ],
+        [
+          "钟",
+          "zhōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.暗鹊：宿于巢中的鹊。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "友情",
+      "写景",
+      "秋天",
+      "相聚"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseDaiShulunCHANGINGONOLDFRIENDSINAVILLAGEINN",
+      "translationRaw": "WhiletheautumnmoonispouringfullOnathousandnight-levelsamongtownsandvillages，Theremeetbychance，southoftheriver，Dreamingdoubtersofadream。。。。Inthetreesawindhasstartledthebirds，Andinsectscowerfromcoldinthegrass；ButwayfarersatleasthavewineAndnothingtofear--tillthemorningbell。",
+      "translationClean": "WhiletheautumnmoonispouringfullOnathousandnight-levelsamongtownsandvillages, Theremeetbychance, southoftheriver, Dreamingdoubtersofadream.... Inthetreesawindhasstartledthebirds, Andinsectscowerfromcoldinthegrass; ButwayfarersatleasthavewineAndnothingtofear--tillthemorningbell.",
+      "segments": [
+        "WhiletheautumnmoonispouringfullOnathousandnight-levelsamongtownsandvillages, Theremeetbychance, southoftheriver, Dreamingdoubtersofadream....",
+        "Inthetreesawindhasstartledthebirds, Andinsectscowerfromcoldinthegrass;",
+        "ButwayfarersatleasthavewineAndnothingtofear--tillthemorningbell."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 270,
+        "title": "客夜与故人偶集 / 江乡故人偶集客舍",
+        "author": "戴叔伦"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9805
+      },
+      "ctext": {
+        "matched": true,
+        "order": 144,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 241,
+        "score": 0.975,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "94ae3e7e-eb5d-414c-bfd6-124f50687ce5",
+        "score": 1
+      }
+    }
+  }
+}

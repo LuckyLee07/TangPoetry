@@ -1,0 +1,356 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-320-jin-lv-yi",
+    "order": 320,
+    "section": "乐府",
+    "title": "金缕衣",
+    "titleTraditional": "金縷衣",
+    "author": "杜秋娘",
+    "authorTraditional": "杜秋娘",
+    "dynasty": "唐代",
+    "aliases": [
+      "金缕衣"
+    ],
+    "lines": [
+      "劝君莫惜金缕衣，劝君惜取少年时。",
+      "花开堪折直须折，莫待无花空折枝。"
+    ],
+    "linesTraditional": [
+      "勸君莫惜金縷衣，勸君惜取少年時。",
+      "花開堪折直須折，莫待無花空折枝。"
+    ],
+    "text": "劝君莫惜金缕衣，劝君惜取少年时。花开堪折直须折，莫待无花空折枝。",
+    "textTraditional": "勸君莫惜金縷衣，勸君惜取少年時。花開堪折直須折，莫待無花空折枝。",
+    "displayLines": [
+      "劝君莫惜金缕衣，",
+      "劝君惜取少年时。",
+      "花开堪折直须折，",
+      "莫待无花空折枝。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "劝",
+          "quàn"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "莫",
+          "mò"
+        ],
+        [
+          "惜",
+          "xī"
+        ],
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "缕",
+          "lǚ"
+        ],
+        [
+          "衣",
+          "yī"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "劝",
+          "quàn"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "惜",
+          "xī"
+        ],
+        [
+          "取",
+          "qǔ"
+        ],
+        [
+          "少",
+          "shào"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "开",
+          "kāi"
+        ],
+        [
+          "堪",
+          "kān"
+        ],
+        [
+          "折",
+          "zhé"
+        ],
+        [
+          "直",
+          "zhí"
+        ],
+        [
+          "须",
+          "xū"
+        ],
+        [
+          "折",
+          "zhé"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "莫",
+          "mò"
+        ],
+        [
+          "待",
+          "dài"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "折",
+          "zhé"
+        ],
+        [
+          "枝",
+          "zhī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "劝",
+          "quàn"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "莫",
+          "mò"
+        ],
+        [
+          "惜",
+          "xī"
+        ],
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "缕",
+          "lǚ"
+        ],
+        [
+          "衣",
+          "yī"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "劝",
+          "quàn"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "惜",
+          "xī"
+        ],
+        [
+          "取",
+          "qǔ"
+        ],
+        [
+          "少",
+          "shào"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "开",
+          "kāi"
+        ],
+        [
+          "堪",
+          "kān"
+        ],
+        [
+          "折",
+          "zhé"
+        ],
+        [
+          "直",
+          "zhí"
+        ],
+        [
+          "须",
+          "xū"
+        ],
+        [
+          "折",
+          "zhé"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "莫",
+          "mò"
+        ],
+        [
+          "待",
+          "dài"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "折",
+          "zhé"
+        ],
+        [
+          "枝",
+          "zhī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "惜取--一作 ：须取"
+      },
+      {
+        "source": "唐诗三百首.json",
+        "text": "花开--一作 ：有花"
+      }
+    ],
+    "tags": [
+      "乐府",
+      "惜时",
+      "励志"
+    ],
+    "english": {
+      "headingRaw": "Folk-song-styled-verseDuQiuniangTHEGOLD-THREADEDROBE",
+      "translationRaw": "Covetnotagold-threadedrobe，Cherishonlyyouryoungdays！Ifabudopen，gatherit--Lestyoubutwaitforanemptybough。",
+      "translationClean": "Covetnotagold-threadedrobe, Cherishonlyyouryoungdays! Ifabudopen, gatherit--Lestyoubutwaitforanemptybough.",
+      "segments": [
+        "Covetnotagold-threadedrobe, Cherishonlyyouryoungdays!",
+        "Ifabudopen, gatherit--Lestyoubutwaitforanemptybough."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 265,
+        "title": "金缕衣",
+        "author": "佚名"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.95
+      },
+      "ctext": {
+        "matched": true,
+        "order": 320,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 186,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "a8617715-ad59-4da8-8071-e9aeb1760e6a",
+        "score": 1
+      }
+    }
+  }
+}

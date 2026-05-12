@@ -1,0 +1,641 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-205-qian-bei-huai-zhi-yi",
+    "order": 205,
+    "section": "七言律诗",
+    "title": "遣悲怀之一",
+    "titleTraditional": "遣悲懷之一",
+    "author": "元稹",
+    "authorTraditional": "元稹",
+    "dynasty": "唐代",
+    "aliases": [
+      "遣悲怀三首·其一",
+      "遣悲怀之一"
+    ],
+    "lines": [
+      "谢公最小偏怜女，自嫁黔娄百事乖。",
+      "顾我无衣搜荩箧，泥他沽酒拔金钗。",
+      "野蔬充膳甘长藿，落叶添薪仰古槐。",
+      "今日俸钱过十万，与君营奠复营斋。"
+    ],
+    "linesTraditional": [
+      "謝公最小偏憐女，自嫁黔婁百事乖。",
+      "顧我無衣搜藎篋，泥他沽酒拔金釵。",
+      "野蔬充膳甘長藿，落葉添薪仰古槐。",
+      "今日俸錢過十萬，與君營奠復營齋。"
+    ],
+    "text": "谢公最小偏怜女，自嫁黔娄百事乖。顾我无衣搜荩箧，泥他沽酒拔金钗。野蔬充膳甘长藿，落叶添薪仰古槐。今日俸钱过十万，与君营奠复营斋。",
+    "textTraditional": "謝公最小偏憐女，自嫁黔婁百事乖。顧我無衣搜藎篋，泥他沽酒拔金釵。野蔬充膳甘長藿，落葉添薪仰古槐。今日俸錢過十萬，與君營奠復營齋。",
+    "displayLines": [
+      "谢公最小偏怜女，",
+      "自嫁黔娄百事乖。",
+      "顾我无衣搜荩箧，",
+      "泥他沽酒拔金钗。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "谢",
+          "xiè"
+        ],
+        [
+          "公",
+          "gōng"
+        ],
+        [
+          "最",
+          "zuì"
+        ],
+        [
+          "小",
+          "xiǎo"
+        ],
+        [
+          "偏",
+          "piān"
+        ],
+        [
+          "怜",
+          "lián"
+        ],
+        [
+          "女",
+          "nǚ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "嫁",
+          "jià"
+        ],
+        [
+          "黔",
+          "qián"
+        ],
+        [
+          "娄",
+          "lóu"
+        ],
+        [
+          "百",
+          "bǎi"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "乖",
+          "guāi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "顾",
+          "gù"
+        ],
+        [
+          "我",
+          "wǒ"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "衣",
+          "yī"
+        ],
+        [
+          "搜",
+          "sōu"
+        ],
+        [
+          "荩",
+          "jìn"
+        ],
+        [
+          "箧",
+          "qiè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "泥",
+          "ní"
+        ],
+        [
+          "他",
+          "tā"
+        ],
+        [
+          "沽",
+          "gū"
+        ],
+        [
+          "酒",
+          "jiǔ"
+        ],
+        [
+          "拔",
+          "bá"
+        ],
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "钗",
+          "chāi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "野",
+          "yě"
+        ],
+        [
+          "蔬",
+          "shū"
+        ],
+        [
+          "充",
+          "chōng"
+        ],
+        [
+          "膳",
+          "shàn"
+        ],
+        [
+          "甘",
+          "gān"
+        ],
+        [
+          "长",
+          "zhǎng"
+        ],
+        [
+          "藿",
+          "huò"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "叶",
+          "yè"
+        ],
+        [
+          "添",
+          "tiān"
+        ],
+        [
+          "薪",
+          "xīn"
+        ],
+        [
+          "仰",
+          "yǎng"
+        ],
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "槐",
+          "huái"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "俸",
+          "fèng"
+        ],
+        [
+          "钱",
+          "qián"
+        ],
+        [
+          "过",
+          "guò"
+        ],
+        [
+          "十",
+          "shí"
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "与",
+          "yǔ"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "营",
+          "yíng"
+        ],
+        [
+          "奠",
+          "diàn"
+        ],
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "营",
+          "yíng"
+        ],
+        [
+          "斋",
+          "zhāi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "谢",
+          "xiè"
+        ],
+        [
+          "公",
+          "gōng"
+        ],
+        [
+          "最",
+          "zuì"
+        ],
+        [
+          "小",
+          "xiǎo"
+        ],
+        [
+          "偏",
+          "piān"
+        ],
+        [
+          "怜",
+          "lián"
+        ],
+        [
+          "女",
+          "nǚ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "嫁",
+          "jià"
+        ],
+        [
+          "黔",
+          "qián"
+        ],
+        [
+          "娄",
+          "lóu"
+        ],
+        [
+          "百",
+          "bǎi"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "乖",
+          "guāi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "顾",
+          "gù"
+        ],
+        [
+          "我",
+          "wǒ"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "衣",
+          "yī"
+        ],
+        [
+          "搜",
+          "sōu"
+        ],
+        [
+          "荩",
+          "jìn"
+        ],
+        [
+          "箧",
+          "qiè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "泥",
+          "ní"
+        ],
+        [
+          "他",
+          "tā"
+        ],
+        [
+          "沽",
+          "gū"
+        ],
+        [
+          "酒",
+          "jiǔ"
+        ],
+        [
+          "拔",
+          "bá"
+        ],
+        [
+          "金",
+          "jīn"
+        ],
+        [
+          "钗",
+          "chāi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "野",
+          "yě"
+        ],
+        [
+          "蔬",
+          "shū"
+        ],
+        [
+          "充",
+          "chōng"
+        ],
+        [
+          "膳",
+          "shàn"
+        ],
+        [
+          "甘",
+          "gān"
+        ],
+        [
+          "长",
+          "zhǎng"
+        ],
+        [
+          "藿",
+          "huò"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "叶",
+          "yè"
+        ],
+        [
+          "添",
+          "tiān"
+        ],
+        [
+          "薪",
+          "xīn"
+        ],
+        [
+          "仰",
+          "yǎng"
+        ],
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "槐",
+          "huái"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "俸",
+          "fèng"
+        ],
+        [
+          "钱",
+          "qián"
+        ],
+        [
+          "过",
+          "guò"
+        ],
+        [
+          "十",
+          "shí"
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "与",
+          "yǔ"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "营",
+          "yíng"
+        ],
+        [
+          "奠",
+          "diàn"
+        ],
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "营",
+          "yíng"
+        ],
+        [
+          "斋",
+          "zhāi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "荩箧--一作 ：画箧"
+      },
+      {
+        "source": "chiuinan",
+        "text": "1.黔娄：齐高士，家极贫苦。鲁恭公赐粟三千钟，不受；齐王礼之，以"
+      },
+      {
+        "source": "chiuinan",
+        "text": "黄金百斤聘为卿，又不就。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.荩箧：音尽妾，衣箱用草编成的称荩，用竹编成的称箧。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "3.泥他：用柔言要求他、撒娇。泥，音逆。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "4.藿：荳叶。"
+      }
+    ],
+    "tags": [
+      "七言律诗",
+      "悼亡"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-regular-verseYuanZhenANELEGYI",
+      "translationRaw": "Oyoungest，best-loveddaughterofXie，Whounluckilymarriedthispennilessscholar，Youpatchedmyclothesfromyourownwickerbasket，AndIcoaxedoffyourhairpinsofgold，tobuywinewith；Fordinnerwehadtopickwildherbs--Andtousedrylocust-leavesforourkindling。。。。Todaytheyarepayingmeahundredthousand--AndallthatIcanbringtoyouisatemplesacrifice。",
+      "translationClean": "Oyoungest, best-loveddaughterofXie, Whounluckilymarriedthispennilessscholar, Youpatchedmyclothesfromyourownwickerbasket, AndIcoaxedoffyourhairpinsofgold, tobuywinewith; Fordinnerwehadtopickwildherbs--Andtousedrylocust-leavesforourkindling.... Todaytheyarepayingmeahundredthousand--AndallthatIcanbringtoyouisatemplesacrifice.",
+      "segments": [
+        "Oyoungest, best-loveddaughterofXie, Whounluckilymarriedthispennilessscholar, Youpatchedmyclothesfromyourownwickerbasket, AndIcoaxedoffyourhairpinsofgold, tobuywinewith;",
+        "Fordinnerwehadtopickwildherbs--Andtousedrylocust-leavesforourkindling....",
+        "Todaytheyarepayingmeahundredthousand--AndallthatIcanbringtoyouisatemplesacrifice."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 239,
+        "title": "遣悲怀三首·其一",
+        "author": "元稹"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9811
+      },
+      "ctext": {
+        "matched": true,
+        "order": 205,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 302,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "8b57e03d-6d1f-4a4a-ba34-1f58e2551ca1",
+        "score": 0.9643
+      }
+    }
+  }
+}

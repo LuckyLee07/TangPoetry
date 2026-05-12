@@ -1,0 +1,495 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-108-zhi-de-er-zai-fu-zi-jing-jin-guang-men-chu-wen-dao-gui-feng-xiang-qian-yuan-chu-",
+    "order": 108,
+    "section": "五言律诗",
+    "title": "至德二载甫自京金光门出，问道归凤翔。乾元初从左拾遗移华州掾。与亲故别，因出此门。有悲往事。",
+    "titleTraditional": "至德二載甫自京金光門出，問道歸鳳翔。乾元初從左拾遺移華州掾。與親故別，因出此門。有悲往事。",
+    "author": "杜甫",
+    "authorTraditional": "杜甫",
+    "dynasty": "唐代",
+    "aliases": [
+      "至德二载甫自京金光门出问道归凤翔乾元初…有悲往事",
+      "至德二载甫自京金光门出，问道归凤翔。乾元初从左拾遗移华州掾。与亲故别，因出此门。有悲往事。"
+    ],
+    "lines": [
+      "此道昔归顺，西郊胡正繁。",
+      "至今残破胆，应有未招魂。",
+      "近得归京邑，移官岂至尊。",
+      "无才日衰老，驻马望千门。"
+    ],
+    "linesTraditional": [
+      "此道昔歸順，西郊胡正繁。",
+      "至今殘破膽，應有未招魂。",
+      "近得歸京邑，移官豈至尊。",
+      "無才日衰老，駐馬望千門。"
+    ],
+    "text": "此道昔归顺，西郊胡正繁。至今残破胆，应有未招魂。近得归京邑，移官岂至尊。无才日衰老，驻马望千门。",
+    "textTraditional": "此道昔歸順，西郊胡正繁。至今殘破膽，應有未招魂。近得歸京邑，移官豈至尊。無才日衰老，駐馬望千門。",
+    "displayLines": [
+      "此道昔归顺，",
+      "西郊胡正繁。",
+      "至今残破胆，",
+      "应有未招魂。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "道",
+          "dào"
+        ],
+        [
+          "昔",
+          "xī"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "顺",
+          "shùn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "郊",
+          "jiāo"
+        ],
+        [
+          "胡",
+          "hú"
+        ],
+        [
+          "正",
+          "zhèng"
+        ],
+        [
+          "繁",
+          "fán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "至",
+          "zhì"
+        ],
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "残",
+          "cán"
+        ],
+        [
+          "破",
+          "pò"
+        ],
+        [
+          "胆",
+          "dǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "应",
+          "yīng"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "招",
+          "zhāo"
+        ],
+        [
+          "魂",
+          "hún"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "近",
+          "jìn"
+        ],
+        [
+          "得",
+          "dé"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "京",
+          "jīng"
+        ],
+        [
+          "邑",
+          "yì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "移",
+          "yí"
+        ],
+        [
+          "官",
+          "guān"
+        ],
+        [
+          "岂",
+          "qǐ"
+        ],
+        [
+          "至",
+          "zhì"
+        ],
+        [
+          "尊",
+          "zūn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "才",
+          "cái"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "衰",
+          "shuāi"
+        ],
+        [
+          "老",
+          "lǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "驻",
+          "zhù"
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "望",
+          "wàng"
+        ],
+        [
+          "千",
+          "qiān"
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "道",
+          "dào"
+        ],
+        [
+          "昔",
+          "xī"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "顺",
+          "shùn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "郊",
+          "jiāo"
+        ],
+        [
+          "胡",
+          "hú"
+        ],
+        [
+          "正",
+          "zhèng"
+        ],
+        [
+          "繁",
+          "fán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "至",
+          "zhì"
+        ],
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "残",
+          "cán"
+        ],
+        [
+          "破",
+          "pò"
+        ],
+        [
+          "胆",
+          "dǎn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "应",
+          "yīng"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "招",
+          "zhāo"
+        ],
+        [
+          "魂",
+          "hún"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "近",
+          "jìn"
+        ],
+        [
+          "得",
+          "dé"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "京",
+          "jīng"
+        ],
+        [
+          "邑",
+          "yì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "移",
+          "yí"
+        ],
+        [
+          "官",
+          "guān"
+        ],
+        [
+          "岂",
+          "qǐ"
+        ],
+        [
+          "至",
+          "zhì"
+        ],
+        [
+          "尊",
+          "zūn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "才",
+          "cái"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "衰",
+          "shuāi"
+        ],
+        [
+          "老",
+          "lǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "驻",
+          "zhù"
+        ],
+        [
+          "马",
+          "mǎ"
+        ],
+        [
+          "望",
+          "wàng"
+        ],
+        [
+          "千",
+          "qiān"
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言律诗",
+      "岁月",
+      "怀念"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseDuFuTAKINGLEAVEOFFRIENDSONMYWAYTOHUAZHOU",
+      "translationRaw": "InthesecondyearofZhide，IescapedfromthecapitalthroughtheGateofGoldenLightandwenttoFengxiang。InthefirstyearofQianyuan，IwasappointedasofficialtoHuazhoufrommyformerpostofCensor。Friendsandrelativesgatheredandsawmeleavebythesamegate。AndIwrotethispoem。 ThisistheroadbywhichIfled，Whentherebelshadreachedthewestendofthecity；Andterror，eversince，hasclutchedatmyvitalsLestsomeofmysoulshouldneverreturn。。。。Thecourthascomebacknow，fillingthecapital；ButtheEmperorsendsmeawayagain。Uselessandold，IreininmyhorseForonelastlookatthethousandgates。",
+      "translationClean": "InthesecondyearofZhide, IescapedfromthecapitalthroughtheGateofGoldenLightandwenttoFengxiang. InthefirstyearofQianyuan, IwasappointedasofficialtoHuazhoufrommyformerpostofCensor. Friendsandrelativesgatheredandsawmeleavebythesamegate. AndIwrotethispoem. ThisistheroadbywhichIfled, Whentherebelshadreachedthewestendofthecity; Andterror, eversince, hasclutchedatmyvitalsLestsomeofmysoulshouldneverreturn.... Thecourthascomebacknow, fillingthecapital; ButtheEmperorsendsmeawayagain. Uselessandold, IreininmyhorseForonelastlookatthethousandgates.",
+      "segments": [
+        "InthesecondyearofZhide, IescapedfromthecapitalthroughtheGateofGoldenLightandwenttoFengxiang.",
+        "InthefirstyearofQianyuan, IwasappointedasofficialtoHuazhoufrommyformerpostofCensor.",
+        "Friendsandrelativesgatheredandsawmeleavebythesamegate.",
+        "AndIwrotethispoem.",
+        "ThisistheroadbywhichIfled, Whentherebelshadreachedthewestendofthecity;",
+        "Andterror, eversince, hasclutchedatmyvitalsLestsomeofmysoulshouldneverreturn....",
+        "Thecourthascomebacknow, fillingthecapital;",
+        "ButtheEmperorsendsmeawayagain.",
+        "Uselessandold, IreininmyhorseForonelastlookatthethousandgates."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 246,
+        "title": "至德二载甫自京金光门出问道归凤翔乾元初…有悲往事",
+        "author": "杜甫"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9561
+      },
+      "ctext": {
+        "matched": true,
+        "order": 108,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 205,
+        "score": 0.975,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "f88a6dbd-bf83-458c-b5e2-85fdd1ed98b2",
+        "score": 1
+      }
+    }
+  }
+}

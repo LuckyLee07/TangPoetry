@@ -1,0 +1,492 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-130-su-tong-lu-jiang-ji-guang-ling-jiu-you",
+    "order": 130,
+    "section": "五言律诗",
+    "title": "宿桐庐江寄广陵旧游",
+    "titleTraditional": "宿桐廬江寄廣陵舊遊",
+    "author": "孟浩然",
+    "authorTraditional": "孟浩然",
+    "dynasty": "唐代",
+    "aliases": [
+      "宿桐庐江寄广陵旧游"
+    ],
+    "lines": [
+      "山暝听猿愁，沧江急夜流。",
+      "风鸣两岸叶，月照一孤舟。",
+      "建德非吾土，维扬忆旧游。",
+      "还将两行泪，遥寄海西头。"
+    ],
+    "linesTraditional": [
+      "山暝聽猿愁，滄江急夜流。",
+      "風鳴兩岸葉，月照一孤舟。",
+      "建德非吾土，維揚憶舊遊。",
+      "還將兩行淚，遙寄海西頭。"
+    ],
+    "text": "山暝听猿愁，沧江急夜流。风鸣两岸叶，月照一孤舟。建德非吾土，维扬忆旧游。还将两行泪，遥寄海西头。",
+    "textTraditional": "山暝聽猿愁，滄江急夜流。風鳴兩岸葉，月照一孤舟。建德非吾土，維揚憶舊遊。還將兩行淚，遙寄海西頭。",
+    "displayLines": [
+      "山暝听猿愁，",
+      "沧江急夜流。",
+      "风鸣两岸叶，",
+      "月照一孤舟。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "暝",
+          "míng"
+        ],
+        [
+          "听",
+          "tīng"
+        ],
+        [
+          "猿",
+          "yuán"
+        ],
+        [
+          "愁",
+          "chóu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "沧",
+          "cāng"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "急",
+          "jí"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "鸣",
+          "míng"
+        ],
+        [
+          "两",
+          "liǎng"
+        ],
+        [
+          "岸",
+          "àn"
+        ],
+        [
+          "叶",
+          "yè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "照",
+          "zhào"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "舟",
+          "zhōu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "建",
+          "jiàn"
+        ],
+        [
+          "德",
+          "dé"
+        ],
+        [
+          "非",
+          "fēi"
+        ],
+        [
+          "吾",
+          "wú"
+        ],
+        [
+          "土",
+          "tǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "维",
+          "wéi"
+        ],
+        [
+          "扬",
+          "yáng"
+        ],
+        [
+          "忆",
+          "yì"
+        ],
+        [
+          "旧",
+          "jiù"
+        ],
+        [
+          "游",
+          "yóu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "将",
+          "jiāng"
+        ],
+        [
+          "两",
+          "liǎng"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "遥",
+          "yáo"
+        ],
+        [
+          "寄",
+          "jì"
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "头",
+          "tóu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "暝",
+          "míng"
+        ],
+        [
+          "听",
+          "tīng"
+        ],
+        [
+          "猿",
+          "yuán"
+        ],
+        [
+          "愁",
+          "chóu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "沧",
+          "cāng"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "急",
+          "jí"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "鸣",
+          "míng"
+        ],
+        [
+          "两",
+          "liǎng"
+        ],
+        [
+          "岸",
+          "àn"
+        ],
+        [
+          "叶",
+          "yè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "照",
+          "zhào"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "舟",
+          "zhōu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "建",
+          "jiàn"
+        ],
+        [
+          "德",
+          "dé"
+        ],
+        [
+          "非",
+          "fēi"
+        ],
+        [
+          "吾",
+          "wú"
+        ],
+        [
+          "土",
+          "tǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "维",
+          "wéi"
+        ],
+        [
+          "扬",
+          "yáng"
+        ],
+        [
+          "忆",
+          "yì"
+        ],
+        [
+          "旧",
+          "jiù"
+        ],
+        [
+          "游",
+          "yóu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "还",
+          "hái"
+        ],
+        [
+          "将",
+          "jiāng"
+        ],
+        [
+          "两",
+          "liǎng"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "遥",
+          "yáo"
+        ],
+        [
+          "寄",
+          "jì"
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "头",
+          "tóu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "闻--一作 ：听"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "描写水",
+      "怀人",
+      "写水"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseMengHaoranFROMAMOORINGONTHETONGLUTOAFRIENDINYANGZHOU",
+      "translationRaw": "Withmonkeyswhimperingontheshadowymountain，Andtheriverrushingthroughthenight，Andawindintheleavesalongbothbanks，Andthemoonathwartmysolitarysail，I，astrangerinthisinlanddistrict，HomesickformyYangzhoufriends，SendeastwardtwolongstreamsoftearsTofindthenearesttouchofthesea。",
+      "translationClean": "Withmonkeyswhimperingontheshadowymountain, Andtheriverrushingthroughthenight, Andawindintheleavesalongbothbanks, Andthemoonathwartmysolitarysail, I, astrangerinthisinlanddistrict, HomesickformyYangzhoufriends, SendeastwardtwolongstreamsoftearsTofindthenearesttouchofthesea.",
+      "segments": [
+        "Withmonkeyswhimperingontheshadowymountain, Andtheriverrushingthroughthenight, Andawindintheleavesalongbothbanks, Andthemoonathwartmysolitarysail, I, astrangerinthisinlanddistrict, HomesickformyYangzhoufriends, SendeastwardtwolongstreamsoftearsTofindthenearesttouchofthesea."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 53,
+        "title": "宿桐庐江寄广陵旧游",
+        "author": "孟浩然"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9805
+      },
+      "ctext": {
+        "matched": true,
+        "order": 130,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 227,
+        "score": 0.975,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "b1dad78c-4dd8-4b99-b37b-741ed761f26a",
+        "score": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-158-luo-hua",
+    "order": 158,
+    "section": "五言律诗",
+    "title": "落花",
+    "titleTraditional": "落花",
+    "author": "李商隐",
+    "authorTraditional": "李商隱",
+    "dynasty": "唐代",
+    "aliases": [
+      "落花"
+    ],
+    "lines": [
+      "高阁客竟去，小园花乱飞。",
+      "参差连曲陌，迢递送斜晖。",
+      "肠断未忍扫，眼穿仍欲归。",
+      "芳心向春尽，所得是沾衣。"
+    ],
+    "linesTraditional": [
+      "高閣客竟去，小園花亂飛。",
+      "參差連曲陌，迢遞送斜暉。",
+      "腸斷未忍掃，眼穿仍欲歸。",
+      "芳心向春盡，所得是沾衣。"
+    ],
+    "text": "高阁客竟去，小园花乱飞。参差连曲陌，迢递送斜晖。肠断未忍扫，眼穿仍欲归。芳心向春尽，所得是沾衣。",
+    "textTraditional": "高閣客竟去，小園花亂飛。參差連曲陌，迢遞送斜暉。腸斷未忍掃，眼穿仍欲歸。芳心向春盡，所得是沾衣。",
+    "displayLines": [
+      "高阁客竟去，",
+      "小园花乱飞。",
+      "参差连曲陌，",
+      "迢递送斜晖。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "高",
+          "gāo"
+        ],
+        [
+          "阁",
+          "gé"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "竟",
+          "jìng"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "小",
+          "xiǎo"
+        ],
+        [
+          "园",
+          "yuán"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "乱",
+          "luàn"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "参",
+          "cēn"
+        ],
+        [
+          "差",
+          "cī"
+        ],
+        [
+          "连",
+          "lián"
+        ],
+        [
+          "曲",
+          "qū"
+        ],
+        [
+          "陌",
+          "mò"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "迢",
+          "tiáo"
+        ],
+        [
+          "递",
+          "dì"
+        ],
+        [
+          "送",
+          "sòng"
+        ],
+        [
+          "斜",
+          "xié"
+        ],
+        [
+          "晖",
+          "huī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "肠",
+          "cháng"
+        ],
+        [
+          "断",
+          "duàn"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "忍",
+          "rěn"
+        ],
+        [
+          "扫",
+          "sǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "眼",
+          "yǎn"
+        ],
+        [
+          "穿",
+          "chuān"
+        ],
+        [
+          "仍",
+          "réng"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "芳",
+          "fāng"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "向",
+          "xiàng"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "尽",
+          "jǐn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "所",
+          "suǒ"
+        ],
+        [
+          "得",
+          "de"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "沾",
+          "zhān"
+        ],
+        [
+          "衣",
+          "yī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "高",
+          "gāo"
+        ],
+        [
+          "阁",
+          "gé"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "竟",
+          "jìng"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "小",
+          "xiǎo"
+        ],
+        [
+          "园",
+          "yuán"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "乱",
+          "luàn"
+        ],
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "参",
+          "cēn"
+        ],
+        [
+          "差",
+          "cī"
+        ],
+        [
+          "连",
+          "lián"
+        ],
+        [
+          "曲",
+          "qū"
+        ],
+        [
+          "陌",
+          "mò"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "迢",
+          "tiáo"
+        ],
+        [
+          "递",
+          "dì"
+        ],
+        [
+          "送",
+          "sòng"
+        ],
+        [
+          "斜",
+          "xié"
+        ],
+        [
+          "晖",
+          "huī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "肠",
+          "cháng"
+        ],
+        [
+          "断",
+          "duàn"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "忍",
+          "rěn"
+        ],
+        [
+          "扫",
+          "sǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "眼",
+          "yǎn"
+        ],
+        [
+          "穿",
+          "chuān"
+        ],
+        [
+          "仍",
+          "réng"
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "芳",
+          "fāng"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "向",
+          "xiàng"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "尽",
+          "jǐn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "所",
+          "suǒ"
+        ],
+        [
+          "得",
+          "de"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "沾",
+          "zhān"
+        ],
+        [
+          "衣",
+          "yī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.迢递：长远。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "咏物",
+      "写花",
+      "抒怀",
+      "花",
+      "咏物诗"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseLiShangyinFALLINGPETALS",
+      "translationRaw": "GoneistheguestfromtheChamberofRank，Andpetals，confusedinmylittlegarden，Zigzaggingdownmycrookedpath，Escortlikedancersthesettingsun。Oh，howcanIbeartosweepthemaway？Toasad-eyedwatchertheyneverreturn。Heart』sfragranceisspentwiththeendingofspringAndnothingleftbutatear-stainedrobe。",
+      "translationClean": "GoneistheguestfromtheChamberofRank, Andpetals, confusedinmylittlegarden, Zigzaggingdownmycrookedpath, Escortlikedancersthesettingsun. Oh, howcanIbeartosweepthemaway? Toasad-eyedwatchertheyneverreturn. Heart'sfragranceisspentwiththeendingofspringAndnothingleftbutatear-stainedrobe.",
+      "segments": [
+        "GoneistheguestfromtheChamberofRank, Andpetals, confusedinmylittlegarden, Zigzaggingdownmycrookedpath, Escortlikedancersthesettingsun.",
+        "Oh, howcanIbeartosweepthemaway?",
+        "Toasad-eyedwatchertheyneverreturn.",
+        "Heart'sfragranceisspentwiththeendingofspringAndnothingleftbutatear-stainedrobe."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 24,
+        "title": "落花",
+        "author": "李商隐"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 158,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 255,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "da157c27-d317-4205-9cdc-a254445659fc",
+        "score": 0.975
+      }
+    }
+  }
+}

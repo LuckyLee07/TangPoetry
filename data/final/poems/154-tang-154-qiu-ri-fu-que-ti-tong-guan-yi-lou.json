@@ -1,0 +1,499 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-154-qiu-ri-fu-que-ti-tong-guan-yi-lou",
+    "order": 154,
+    "section": "五言律诗",
+    "title": "秋日赴阙题潼关驿楼",
+    "titleTraditional": "秋日赴闕題潼關驛樓",
+    "author": "许浑",
+    "authorTraditional": "許渾",
+    "dynasty": "唐代",
+    "aliases": [
+      "秋日赴阙题潼关驿楼 / 行次潼关逢魏扶东归",
+      "秋日赴阙题潼关驿楼"
+    ],
+    "lines": [
+      "红叶晚萧萧，长亭酒一瓢。",
+      "残云归太华，疏雨过中条。",
+      "树色随山迥，河声入海遥。",
+      "帝乡明日到，犹自梦渔樵。"
+    ],
+    "linesTraditional": [
+      "紅葉晚蕭蕭，長亭酒一瓢。",
+      "殘雲歸太華，疏雨過中條。",
+      "樹色隨山迥，河聲入海遙。",
+      "帝鄉明日到，猶自夢漁樵。"
+    ],
+    "text": "红叶晚萧萧，长亭酒一瓢。残云归太华，疏雨过中条。树色随山迥，河声入海遥。帝乡明日到，犹自梦渔樵。",
+    "textTraditional": "紅葉晚蕭蕭，長亭酒一瓢。殘雲歸太華，疏雨過中條。樹色隨山迥，河聲入海遙。帝鄉明日到，猶自夢漁樵。",
+    "displayLines": [
+      "红叶晚萧萧，",
+      "长亭酒一瓢。",
+      "残云归太华，",
+      "疏雨过中条。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "红",
+          "hóng"
+        ],
+        [
+          "叶",
+          "yè"
+        ],
+        [
+          "晚",
+          "wǎn"
+        ],
+        [
+          "萧",
+          "xiāo"
+        ],
+        [
+          "萧",
+          "xiāo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "长",
+          "cháng"
+        ],
+        [
+          "亭",
+          "tíng"
+        ],
+        [
+          "酒",
+          "jiǔ"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "瓢",
+          "piáo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "残",
+          "cán"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "太",
+          "tài"
+        ],
+        [
+          "华",
+          "huá"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "疏",
+          "shū"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "过",
+          "guò"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "条",
+          "tiáo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "树",
+          "shù"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "随",
+          "suí"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "迥",
+          "jiǒng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "河",
+          "hé"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "遥",
+          "yáo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "帝",
+          "dì"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "到",
+          "dào"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "犹",
+          "yóu"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "渔",
+          "yú"
+        ],
+        [
+          "樵",
+          "qiáo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "红",
+          "hóng"
+        ],
+        [
+          "叶",
+          "yè"
+        ],
+        [
+          "晚",
+          "wǎn"
+        ],
+        [
+          "萧",
+          "xiāo"
+        ],
+        [
+          "萧",
+          "xiāo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "长",
+          "cháng"
+        ],
+        [
+          "亭",
+          "tíng"
+        ],
+        [
+          "酒",
+          "jiǔ"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "瓢",
+          "piáo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "残",
+          "cán"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "太",
+          "tài"
+        ],
+        [
+          "华",
+          "huá"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "疏",
+          "shū"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "过",
+          "guò"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "条",
+          "tiáo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "树",
+          "shù"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "随",
+          "suí"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "迥",
+          "jiǒng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "河",
+          "hé"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "遥",
+          "yáo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "帝",
+          "dì"
+        ],
+        [
+          "乡",
+          "xiāng"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "到",
+          "dào"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "犹",
+          "yóu"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "渔",
+          "yú"
+        ],
+        [
+          "樵",
+          "qiáo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.太华：即华山。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.中条：山名。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "写景",
+      "送别"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseXuHunINSCRIBEDINTHEINNATTONGGATEONANAUTUMNTRIPTOTHECAPITAL",
+      "translationRaw": "RedleavesareflutteringdownthetwilightPastthisarbourwhereItakemywine；Cloud-riftsareblowingtowardGreatFlowerMountain，AndashoweriscrossingtheMiddleRidge。Icanseetreescolouringadistantwall。Icanheartheriverseekingthesea，AsItheImperialCitytomorrow--ButIdreamofwoodsmenandfishermen。",
+      "translationClean": "RedleavesareflutteringdownthetwilightPastthisarbourwhereItakemywine; Cloud-riftsareblowingtowardGreatFlowerMountain, AndashoweriscrossingtheMiddleRidge. Icanseetreescolouringadistantwall. Icanheartheriverseekingthesea, AsItheImperialCitytomorrow--ButIdreamofwoodsmenandfishermen.",
+      "segments": [
+        "RedleavesareflutteringdownthetwilightPastthisarbourwhereItakemywine;",
+        "Cloud-riftsareblowingtowardGreatFlowerMountain, AndashoweriscrossingtheMiddleRidge.",
+        "Icanseetreescolouringadistantwall.",
+        "Icanheartheriverseekingthesea, AsItheImperialCitytomorrow--ButIdreamofwoodsmenandfishermen."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 221,
+        "title": "秋日赴阙题潼关驿楼 / 行次潼关逢魏扶东归",
+        "author": "许浑"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 154,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 251,
+        "score": 0.975,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "292c14cd-151f-4321-a94c-46fc86693eb3",
+        "score": 0.975
+      }
+    }
+  }
+}

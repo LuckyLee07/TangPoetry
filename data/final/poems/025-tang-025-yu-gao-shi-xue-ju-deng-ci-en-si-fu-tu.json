@@ -1,0 +1,941 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-025-yu-gao-shi-xue-ju-deng-ci-en-si-fu-tu",
+    "order": 25,
+    "section": "五言古诗",
+    "title": "与高适薛据登慈恩寺浮图",
+    "titleTraditional": "與高適薛據登慈恩寺浮圖",
+    "author": "岑参",
+    "authorTraditional": "岑參",
+    "dynasty": "唐代",
+    "aliases": [
+      "与高适薛据同登慈恩寺浮图",
+      "与高适薛据登慈恩寺浮图"
+    ],
+    "lines": [
+      "塔势如涌出，孤高耸天宫；",
+      "登临出世界，磴道盘虚空。",
+      "突兀压神州，峥嵘如鬼工；",
+      "四角碍白日，七层摩苍穹。",
+      "下窥指高鸟，俯听闻惊风。",
+      "连山若波涛，奔凑如朝东。",
+      "青槐夹驰道，宫馆何玲珑？",
+      "秋色从西来，苍然满关中。",
+      "五陵北原上，万古青蒙蒙。",
+      "净理了可悟，胜因夙所宗。",
+      "誓将挂冠去，觉道资无穷。"
+    ],
+    "linesTraditional": [
+      "塔勢如湧出，孤高聳天宮；",
+      "登臨出世界，磴道盤虛空。",
+      "突兀壓神州，崢嶸如鬼工；",
+      "四角礙白日，七層摩蒼穹。",
+      "下窺指高鳥，俯聽聞驚風。",
+      "連山若波濤，奔湊如朝東。",
+      "青槐夾馳道，宮館何玲瓏？",
+      "秋色從西來，蒼然滿關中。",
+      "五陵北原上，萬古青濛濛。",
+      "淨理了可悟，勝因夙所宗。",
+      "誓將掛冠去，覺道資無窮。"
+    ],
+    "text": "塔势如涌出，孤高耸天宫；登临出世界，磴道盘虚空。突兀压神州，峥嵘如鬼工；四角碍白日，七层摩苍穹。下窥指高鸟，俯听闻惊风。连山若波涛，奔凑如朝东。青槐夹驰道，宫馆何玲珑？秋色从西来，苍然满关中。五陵北原上，万古青蒙蒙。净理了可悟，胜因夙所宗。誓将挂冠去，觉道资无穷。",
+    "textTraditional": "塔勢如湧出，孤高聳天宮；登臨出世界，磴道盤虛空。突兀壓神州，崢嶸如鬼工；四角礙白日，七層摩蒼穹。下窺指高鳥，俯聽聞驚風。連山若波濤，奔湊如朝東。青槐夾馳道，宮館何玲瓏？秋色從西來，蒼然滿關中。五陵北原上，萬古青濛濛。淨理了可悟，勝因夙所宗。誓將掛冠去，覺道資無窮。",
+    "displayLines": [
+      "塔势如涌出，",
+      "孤高耸天宫；",
+      "登临出世界，",
+      "磴道盘虚空。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "塔",
+          "tǎ"
+        ],
+        [
+          "势",
+          "shì"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "涌",
+          "yǒng"
+        ],
+        [
+          "出",
+          "chū"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "高",
+          "gāo"
+        ],
+        [
+          "耸",
+          "sǒng"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "登",
+          "dēng"
+        ],
+        [
+          "临",
+          "lín"
+        ],
+        [
+          "出",
+          "chū"
+        ],
+        [
+          "世",
+          "shì"
+        ],
+        [
+          "界",
+          "jiè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "磴",
+          "dèng"
+        ],
+        [
+          "道",
+          "dào"
+        ],
+        [
+          "盘",
+          "pán"
+        ],
+        [
+          "虚",
+          "xū"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "突",
+          "tū"
+        ],
+        [
+          "兀",
+          "wù"
+        ],
+        [
+          "压",
+          "yā"
+        ],
+        [
+          "神",
+          "shén"
+        ],
+        [
+          "州",
+          "zhōu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "峥",
+          "zhēng"
+        ],
+        [
+          "嵘",
+          "róng"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "鬼",
+          "guǐ"
+        ],
+        [
+          "工",
+          "gōng"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "四",
+          "sì"
+        ],
+        [
+          "角",
+          "jiǎo"
+        ],
+        [
+          "碍",
+          "ài"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "七",
+          "qī"
+        ],
+        [
+          "层",
+          "céng"
+        ],
+        [
+          "摩",
+          "mó"
+        ],
+        [
+          "苍",
+          "cāng"
+        ],
+        [
+          "穹",
+          "qióng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "塔",
+          "tǎ"
+        ],
+        [
+          "势",
+          "shì"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "涌",
+          "yǒng"
+        ],
+        [
+          "出",
+          "chū"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "高",
+          "gāo"
+        ],
+        [
+          "耸",
+          "sǒng"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "登",
+          "dēng"
+        ],
+        [
+          "临",
+          "lín"
+        ],
+        [
+          "出",
+          "chū"
+        ],
+        [
+          "世",
+          "shì"
+        ],
+        [
+          "界",
+          "jiè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "磴",
+          "dèng"
+        ],
+        [
+          "道",
+          "dào"
+        ],
+        [
+          "盘",
+          "pán"
+        ],
+        [
+          "虚",
+          "xū"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "突",
+          "tū"
+        ],
+        [
+          "兀",
+          "wù"
+        ],
+        [
+          "压",
+          "yā"
+        ],
+        [
+          "神",
+          "shén"
+        ],
+        [
+          "州",
+          "zhōu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "峥",
+          "zhēng"
+        ],
+        [
+          "嵘",
+          "róng"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "鬼",
+          "guǐ"
+        ],
+        [
+          "工",
+          "gōng"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "四",
+          "sì"
+        ],
+        [
+          "角",
+          "jiǎo"
+        ],
+        [
+          "碍",
+          "ài"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "七",
+          "qī"
+        ],
+        [
+          "层",
+          "céng"
+        ],
+        [
+          "摩",
+          "mó"
+        ],
+        [
+          "苍",
+          "cāng"
+        ],
+        [
+          "穹",
+          "qióng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "窥",
+          "kuī"
+        ],
+        [
+          "指",
+          "zhǐ"
+        ],
+        [
+          "高",
+          "gāo"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "俯",
+          "fǔ"
+        ],
+        [
+          "听",
+          "tīng"
+        ],
+        [
+          "闻",
+          "wén"
+        ],
+        [
+          "惊",
+          "jīng"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "连",
+          "lián"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "若",
+          "ruò"
+        ],
+        [
+          "波",
+          "bō"
+        ],
+        [
+          "涛",
+          "tāo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "奔",
+          "bēn"
+        ],
+        [
+          "凑",
+          "còu"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "东",
+          "dōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "槐",
+          "huái"
+        ],
+        [
+          "夹",
+          "jiā"
+        ],
+        [
+          "驰",
+          "chí"
+        ],
+        [
+          "道",
+          "dào"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "馆",
+          "guǎn"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "玲",
+          "líng"
+        ],
+        [
+          "珑",
+          "lóng"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "从",
+          "cóng"
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "苍",
+          "cāng"
+        ],
+        [
+          "然",
+          "rán"
+        ],
+        [
+          "满",
+          "mǎn"
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "五",
+          "wǔ"
+        ],
+        [
+          "陵",
+          "líng"
+        ],
+        [
+          "北",
+          "běi"
+        ],
+        [
+          "原",
+          "yuán"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "蒙",
+          "méng"
+        ],
+        [
+          "蒙",
+          "méng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "净",
+          "jìng"
+        ],
+        [
+          "理",
+          "lǐ"
+        ],
+        [
+          "了",
+          "le"
+        ],
+        [
+          "可",
+          "kě"
+        ],
+        [
+          "悟",
+          "wù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "胜",
+          "shèng"
+        ],
+        [
+          "因",
+          "yīn"
+        ],
+        [
+          "夙",
+          "sù"
+        ],
+        [
+          "所",
+          "suǒ"
+        ],
+        [
+          "宗",
+          "zōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "誓",
+          "shì"
+        ],
+        [
+          "将",
+          "jiāng"
+        ],
+        [
+          "挂",
+          "guà"
+        ],
+        [
+          "冠",
+          "guān"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "觉",
+          "jué"
+        ],
+        [
+          "道",
+          "dào"
+        ],
+        [
+          "资",
+          "zī"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "穷",
+          "qióng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "凑--一作 ：走"
+      },
+      {
+        "source": "唐诗三百首.json",
+        "text": "似--一作 ：如"
+      },
+      {
+        "source": "唐诗三百首.json",
+        "text": "馆--一作 ：观"
+      },
+      {
+        "source": "chiuinan",
+        "text": "1.浮图：塔。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.磴道：石阶。磴，音\"邓\"。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "3.突兀：高起。兀，音\"勿\"。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "4.驰道：马路。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "5.玲珑：精巧。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "6.五陵：汉高帝葬长陵，惠帝葬安陵，景帝葬阳陵，武帝葬茂陵，昭帝"
+      },
+      {
+        "source": "chiuinan",
+        "text": "葬平陵，合称五陵。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "7.蒙蒙：不明。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "8.胜因：（梁书）农桑者今日济育，功德者将来胜因。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "9.挂冠：辞官。"
+      }
+    ],
+    "tags": [
+      "五言古诗",
+      "景点",
+      "写景",
+      "忧思",
+      "写塔"
+    ],
+    "english": {
+      "headingRaw": "Five-character-ancient-verseCenCanASCENDINGTHEPAGODAATTHETEMPLEOFKINDFAVOURWITHGAOSHIANDXUEJU",
+      "translationRaw": "Thepagoda，risingabruptlyfromearth，ReachestotheveryPalaceofHeaven。。。。Climbing，weseemtohavelefttheworldbehindus，Withthestepswelookdownonhungfromspace。ItovertopsaholylandAndcanonlyhavebeenbuiltbytoilofthespirit。Itsfoursidesdarkenthebrightsun，Itssevenstoriescutthegreyclouds；Birdsflydownbeyondoursight，Andtherapidwindbelowourhearing；Mountain-ranges，towardtheeast，Appeartobecurvingandflowinglikerivers；Fargreenlocust-treeslinebroadroadsTowardclusteredpalacesandmansions；Coloursofautumn，outofthewest，Enteradvancingthroughthecity；Andnorthwardtherelie，infivegraveyards，Calmforeverunderdewygreengrass，Thosewhoknowlife』sfinalmeaningWhichallhumankindmustlearn。。。。HenceforthIputmyofficialhataside。TofindtheEternalWayistheonlyhappiness。",
+      "translationClean": "Thepagoda, risingabruptlyfromearth, ReachestotheveryPalaceofHeaven.... Climbing, weseemtohavelefttheworldbehindus, Withthestepswelookdownonhungfromspace. ItovertopsaholylandAndcanonlyhavebeenbuiltbytoilofthespirit. Itsfoursidesdarkenthebrightsun, Itssevenstoriescutthegreyclouds; Birdsflydownbeyondoursight, Andtherapidwindbelowourhearing; Mountain-ranges, towardtheeast, Appeartobecurvingandflowinglikerivers; Fargreenlocust-treeslinebroadroadsTowardclusteredpalacesandmansions; Coloursofautumn, outofthewest, Enteradvancingthroughthecity; Andnorthwardtherelie, infivegraveyards, Calmforeverunderdewygreengrass, Thosewhoknowlife'sfinalmeaningWhichallhumankindmustlearn.... HenceforthIputmyofficialhataside. TofindtheEternalWayistheonlyhappiness.",
+      "segments": [
+        "Thepagoda, risingabruptlyfromearth, ReachestotheveryPalaceofHeaven....",
+        "Climbing, weseemtohavelefttheworldbehindus, Withthestepswelookdownonhungfromspace.",
+        "ItovertopsaholylandAndcanonlyhavebeenbuiltbytoilofthespirit.",
+        "Itsfoursidesdarkenthebrightsun, Itssevenstoriescutthegreyclouds;",
+        "Birdsflydownbeyondoursight, Andtherapidwindbelowourhearing;",
+        "Mountain-ranges, towardtheeast, Appeartobecurvingandflowinglikerivers;",
+        "Fargreenlocust-treeslinebroadroadsTowardclusteredpalacesandmansions;",
+        "Coloursofautumn, outofthewest, Enteradvancingthroughthecity;",
+        "Andnorthwardtherelie, infivegraveyards, Calmforeverunderdewygreengrass, Thosewhoknowlife'sfinalmeaningWhichallhumankindmustlearn....",
+        "HenceforthIputmyofficialhataside.",
+        "TofindtheEternalWayistheonlyhappiness."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 29,
+        "title": "与高适薛据同登慈恩寺浮图",
+        "author": "岑参"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9844
+      },
+      "ctext": {
+        "matched": true,
+        "order": 25,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 25,
+        "score": 0.9895,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "93d82a12-5e4d-45c2-b837-d0c54447fba3",
+        "score": 1
+      }
+    },
+    "visual": {
+      "image": "assets/illustrations-wuyan-gushi/025-tang-025-yu-gao-shi-xue-ju-deng-ci-en-si-fu-tu.png",
+      "coreImagery": [
+        "慈恩寺浮图",
+        "高塔",
+        "天宫",
+        "长安"
+      ],
+      "mood": [
+        "登临",
+        "苍茫",
+        "肃穆"
+      ],
+      "palette": [
+        "塔灰",
+        "天青",
+        "城褐",
+        "云白"
+      ],
+      "composition": "高塔贯穿画面纵轴，长安城低伏在云雾下，视线向天际提升。",
+      "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+      "prompt": "与高适薛据登慈恩寺浮图，岑参。核心意象：慈恩寺浮图、高塔、天宫、长安；情绪：登临、苍茫、肃穆。高塔贯穿画面纵轴，长安城低伏在云雾下，视线向天际提升。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+      "generatedAt": "2026-05-10T15:05:28+00:00",
+      "generator": "procedural-watercolor"
+    }
+  }
+}

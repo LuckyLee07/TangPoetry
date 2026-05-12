@@ -1,0 +1,498 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-090-jing-zou-lu-ji-kong-zi-er-tan-zhi",
+    "order": 90,
+    "section": "五言律诗",
+    "title": "经邹鲁祭孔子而叹之",
+    "titleTraditional": "經鄒魯祭孔子而歎之",
+    "author": "唐玄宗",
+    "authorTraditional": "唐玄宗",
+    "dynasty": "唐代",
+    "aliases": [
+      "经邹鲁祭孔子而叹之"
+    ],
+    "lines": [
+      "夫子何为者，栖栖一代中。",
+      "地犹鄹氏邑，宅即鲁王宫。",
+      "叹凤嗟身否，伤麟怨道穷。",
+      "今看两楹奠，当与梦时同。"
+    ],
+    "linesTraditional": [
+      "夫子何為者，棲棲一代中。",
+      "地猶鄹氏邑，宅即魯王宮。",
+      "歎鳳嗟身否，傷麟怨道窮。",
+      "今看兩楹奠，當與夢時同。"
+    ],
+    "text": "夫子何为者，栖栖一代中。地犹鄹氏邑，宅即鲁王宫。叹凤嗟身否，伤麟怨道穷。今看两楹奠，当与梦时同。",
+    "textTraditional": "夫子何為者，棲棲一代中。地猶鄹氏邑，宅即魯王宮。歎鳳嗟身否，傷麟怨道窮。今看兩楹奠，當與夢時同。",
+    "displayLines": [
+      "夫子何为者，",
+      "栖栖一代中。",
+      "地犹鄹氏邑，",
+      "宅即鲁王宫。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "夫",
+          "fū"
+        ],
+        [
+          "子",
+          "zǐ"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "者",
+          "zhě"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "栖",
+          "xī"
+        ],
+        [
+          "栖",
+          "xī"
+        ],
+        [
+          "一",
+          "yí"
+        ],
+        [
+          "代",
+          "dài"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "地",
+          "dì"
+        ],
+        [
+          "犹",
+          "yóu"
+        ],
+        [
+          "鄹",
+          "zōu"
+        ],
+        [
+          "氏",
+          "shì"
+        ],
+        [
+          "邑",
+          "yì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "宅",
+          "zhái"
+        ],
+        [
+          "即",
+          "jí"
+        ],
+        [
+          "鲁",
+          "lǔ"
+        ],
+        [
+          "王",
+          "wáng"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "叹",
+          "tàn"
+        ],
+        [
+          "凤",
+          "fèng"
+        ],
+        [
+          "嗟",
+          "jiē"
+        ],
+        [
+          "身",
+          "shēn"
+        ],
+        [
+          "否",
+          "fǒu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "伤",
+          "shāng"
+        ],
+        [
+          "麟",
+          "lín"
+        ],
+        [
+          "怨",
+          "yuàn"
+        ],
+        [
+          "道",
+          "dào"
+        ],
+        [
+          "穷",
+          "qióng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "看",
+          "kàn"
+        ],
+        [
+          "两",
+          "liǎng"
+        ],
+        [
+          "楹",
+          "yíng"
+        ],
+        [
+          "奠",
+          "diàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "当",
+          "dāng"
+        ],
+        [
+          "与",
+          "yǔ"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "同",
+          "tóng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "夫",
+          "fū"
+        ],
+        [
+          "子",
+          "zǐ"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "为",
+          "wèi"
+        ],
+        [
+          "者",
+          "zhě"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "栖",
+          "xī"
+        ],
+        [
+          "栖",
+          "xī"
+        ],
+        [
+          "一",
+          "yí"
+        ],
+        [
+          "代",
+          "dài"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "地",
+          "dì"
+        ],
+        [
+          "犹",
+          "yóu"
+        ],
+        [
+          "鄹",
+          "zōu"
+        ],
+        [
+          "氏",
+          "shì"
+        ],
+        [
+          "邑",
+          "yì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "宅",
+          "zhái"
+        ],
+        [
+          "即",
+          "jí"
+        ],
+        [
+          "鲁",
+          "lǔ"
+        ],
+        [
+          "王",
+          "wáng"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "叹",
+          "tàn"
+        ],
+        [
+          "凤",
+          "fèng"
+        ],
+        [
+          "嗟",
+          "jiē"
+        ],
+        [
+          "身",
+          "shēn"
+        ],
+        [
+          "否",
+          "fǒu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "伤",
+          "shāng"
+        ],
+        [
+          "麟",
+          "lín"
+        ],
+        [
+          "怨",
+          "yuàn"
+        ],
+        [
+          "道",
+          "dào"
+        ],
+        [
+          "穷",
+          "qióng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "看",
+          "kàn"
+        ],
+        [
+          "两",
+          "liǎng"
+        ],
+        [
+          "楹",
+          "yíng"
+        ],
+        [
+          "奠",
+          "diàn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "当",
+          "dāng"
+        ],
+        [
+          "与",
+          "yǔ"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "同",
+          "tóng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.栖栖：音\"妻\"，急迫貌。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.叹凤：孔子以凤鸟不至，自叹生不逢辰。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "伤怀",
+      "写人"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseTangXunzongIPASSTHROUGHTHELUDUKEDOMWITHASIGHANDASACRIFICEFORCONFUCIUS",
+      "translationRaw": "OMaster，howdidtheworldrepayYourlifeoflongsolicitude？--TheLordsofZouhavemisprizedyourland，AndyourhomehasbeenusedasthepalaceofLu。。。。Youforetoldthatwhenphoenixesvanished，yourfortunestoowouldend，Youknewthatthecapturedunicornwouldbeasignofthedoseofyourteaching。。。。CanthissacrificeIwatch，herebetweentwotemplepillars，Betheselfsameomenofdeathyoudreamedoflongago？",
+      "translationClean": "OMaster, howdidtheworldrepayYourlifeoflongsolicitude? --TheLordsofZouhavemisprizedyourland, AndyourhomehasbeenusedasthepalaceofLu.... Youforetoldthatwhenphoenixesvanished, yourfortunestoowouldend, Youknewthatthecapturedunicornwouldbeasignofthedoseofyourteaching.... CanthissacrificeIwatch, herebetweentwotemplepillars, Betheselfsameomenofdeathyoudreamedoflongago?",
+      "segments": [
+        "OMaster, howdidtheworldrepayYourlifeoflongsolicitude?",
+        "--TheLordsofZouhavemisprizedyourland, AndyourhomehasbeenusedasthepalaceofLu....",
+        "Youforetoldthatwhenphoenixesvanished, yourfortunestoowouldend, Youknewthatthecapturedunicornwouldbeasignofthedoseofyourteaching....",
+        "CanthissacrificeIwatch, herebetweentwotemplepillars, Betheselfsameomenofdeathyoudreamedoflongago?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 64,
+        "title": "经邹鲁祭孔子而叹之",
+        "author": "李隆基"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.95
+      },
+      "ctext": {
+        "matched": true,
+        "order": 90,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 187,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "a1824eb8-4e2e-4d53-9a33-e1dcfe7d1c73",
+        "score": 1
+      }
+    }
+  }
+}

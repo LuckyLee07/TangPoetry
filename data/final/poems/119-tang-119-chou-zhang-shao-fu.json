@@ -1,0 +1,492 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-119-chou-zhang-shao-fu",
+    "order": 119,
+    "section": "五言律诗",
+    "title": "酬张少府",
+    "titleTraditional": "酬張少府",
+    "author": "王维",
+    "authorTraditional": "王維",
+    "dynasty": "唐代",
+    "aliases": [
+      "酬张少府"
+    ],
+    "lines": [
+      "晚年惟好静，万事不关心。",
+      "自顾无长策，空知返旧林。",
+      "松风吹解带，山月照弹琴。",
+      "君问穷通理，渔歌入浦深。"
+    ],
+    "linesTraditional": [
+      "晚年惟好靜，萬事不關心。",
+      "自顧無長策，空知返舊林。",
+      "松風吹解帶，山月照彈琴。",
+      "君問窮通理，漁歌入浦深。"
+    ],
+    "text": "晚年惟好静，万事不关心。自顾无长策，空知返旧林。松风吹解带，山月照弹琴。君问穷通理，渔歌入浦深。",
+    "textTraditional": "晚年惟好靜，萬事不關心。自顧無長策，空知返舊林。松風吹解帶，山月照彈琴。君問窮通理，漁歌入浦深。",
+    "displayLines": [
+      "晚年惟好静，",
+      "万事不关心。",
+      "自顾无长策，",
+      "空知返旧林。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "晚",
+          "wǎn"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "惟",
+          "wéi"
+        ],
+        [
+          "好",
+          "hǎo"
+        ],
+        [
+          "静",
+          "jìng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "顾",
+          "gù"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "长",
+          "cháng"
+        ],
+        [
+          "策",
+          "cè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "返",
+          "fǎn"
+        ],
+        [
+          "旧",
+          "jiù"
+        ],
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "松",
+          "sōng"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "吹",
+          "chuī"
+        ],
+        [
+          "解",
+          "jiě"
+        ],
+        [
+          "带",
+          "dài"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "照",
+          "zhào"
+        ],
+        [
+          "弹",
+          "tán"
+        ],
+        [
+          "琴",
+          "qín"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "穷",
+          "qióng"
+        ],
+        [
+          "通",
+          "tōng"
+        ],
+        [
+          "理",
+          "lǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "渔",
+          "yú"
+        ],
+        [
+          "歌",
+          "gē"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "浦",
+          "pǔ"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "晚",
+          "wǎn"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "惟",
+          "wéi"
+        ],
+        [
+          "好",
+          "hǎo"
+        ],
+        [
+          "静",
+          "jìng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "顾",
+          "gù"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "长",
+          "cháng"
+        ],
+        [
+          "策",
+          "cè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "返",
+          "fǎn"
+        ],
+        [
+          "旧",
+          "jiù"
+        ],
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "松",
+          "sōng"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "吹",
+          "chuī"
+        ],
+        [
+          "解",
+          "jiě"
+        ],
+        [
+          "带",
+          "dài"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "照",
+          "zhào"
+        ],
+        [
+          "弹",
+          "tán"
+        ],
+        [
+          "琴",
+          "qín"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "穷",
+          "qióng"
+        ],
+        [
+          "通",
+          "tōng"
+        ],
+        [
+          "理",
+          "lǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "渔",
+          "yú"
+        ],
+        [
+          "歌",
+          "gē"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "浦",
+          "pǔ"
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言律诗",
+      "赠别",
+      "友情",
+      "规劝"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseWangWeiANSWERINGVICE-PREFECTZHANG",
+      "translationRaw": "Astheyearsgoby，givemebutpeace，Freedomfromtenthousandmatters。Iaskmyselfandalwaysanswer：Whatcanbebetterthancominghome？Awindfromthepine-treesblowsmysash，Andmyluteisbrightwiththemountainmoon。Youaskmeaboutgoodandevilfortune？。。。。Hark，onthelakethere』safishermansinging！",
+      "translationClean": "Astheyearsgoby, givemebutpeace, Freedomfromtenthousandmatters. Iaskmyselfandalwaysanswer: Whatcanbebetterthancominghome? Awindfromthepine-treesblowsmysash, Andmyluteisbrightwiththemountainmoon. Youaskmeaboutgoodandevilfortune? .... Hark, onthelakethere'safishermansinging!",
+      "segments": [
+        "Astheyearsgoby, givemebutpeace, Freedomfromtenthousandmatters.",
+        "Iaskmyselfandalwaysanswer: Whatcanbebetterthancominghome?",
+        "Awindfromthepine-treesblowsmysash, Andmyluteisbrightwiththemountainmoon.",
+        "Youaskmeaboutgoodandevilfortune?",
+        "....",
+        "Hark, onthelakethere'safishermansinging!"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 215,
+        "title": "酬张少府",
+        "author": "王维"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9805
+      },
+      "ctext": {
+        "matched": true,
+        "order": 119,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 216,
+        "score": 0.975,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "65e9c24b-bdbd-4ef9-9e14-012c8fde79b8",
+        "score": 1
+      }
+    }
+  }
+}

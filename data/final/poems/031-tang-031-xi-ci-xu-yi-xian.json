@@ -1,0 +1,526 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-031-xi-ci-xu-yi-xian",
+    "order": 31,
+    "section": "五言古诗",
+    "title": "夕次盱眙县",
+    "titleTraditional": "夕次盱眙縣",
+    "author": "韦应物",
+    "authorTraditional": "韋應物",
+    "dynasty": "唐代",
+    "aliases": [
+      "夕次盱眙县"
+    ],
+    "lines": [
+      "落帆逗淮镇，停舫临孤驿。",
+      "浩浩风起波，冥冥日沈夕。",
+      "人归山郭暗，雁下芦洲白。",
+      "独夜忆秦关，听钟未眠客。"
+    ],
+    "linesTraditional": [
+      "落帆逗淮鎮，停舫臨孤驛。",
+      "浩浩風起波，冥冥日沈夕。",
+      "人歸山郭暗，雁下蘆洲白。",
+      "獨夜憶秦關，聽鐘未眠客。"
+    ],
+    "text": "落帆逗淮镇，停舫临孤驿。浩浩风起波，冥冥日沈夕。人归山郭暗，雁下芦洲白。独夜忆秦关，听钟未眠客。",
+    "textTraditional": "落帆逗淮鎮，停舫臨孤驛。浩浩風起波，冥冥日沈夕。人歸山郭暗，雁下蘆洲白。獨夜憶秦關，聽鐘未眠客。",
+    "displayLines": [
+      "落帆逗淮镇，",
+      "停舫临孤驿。",
+      "浩浩风起波，",
+      "冥冥日沈夕。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "帆",
+          "fān"
+        ],
+        [
+          "逗",
+          "dòu"
+        ],
+        [
+          "淮",
+          "huái"
+        ],
+        [
+          "镇",
+          "zhèn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "停",
+          "tíng"
+        ],
+        [
+          "舫",
+          "fǎng"
+        ],
+        [
+          "临",
+          "lín"
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "驿",
+          "yì"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "浩",
+          "hào"
+        ],
+        [
+          "浩",
+          "hào"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "起",
+          "qǐ"
+        ],
+        [
+          "波",
+          "bō"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "冥",
+          "míng"
+        ],
+        [
+          "冥",
+          "míng"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "沈",
+          "shěn"
+        ],
+        [
+          "夕",
+          "xī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "郭",
+          "guō"
+        ],
+        [
+          "暗",
+          "àn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "雁",
+          "yàn"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "芦",
+          "lú"
+        ],
+        [
+          "洲",
+          "zhōu"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "忆",
+          "yì"
+        ],
+        [
+          "秦",
+          "qín"
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "听",
+          "tīng"
+        ],
+        [
+          "钟",
+          "zhōng"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "眠",
+          "mián"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "帆",
+          "fān"
+        ],
+        [
+          "逗",
+          "dòu"
+        ],
+        [
+          "淮",
+          "huái"
+        ],
+        [
+          "镇",
+          "zhèn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "停",
+          "tíng"
+        ],
+        [
+          "舫",
+          "fǎng"
+        ],
+        [
+          "临",
+          "lín"
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "驿",
+          "yì"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "浩",
+          "hào"
+        ],
+        [
+          "浩",
+          "hào"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "起",
+          "qǐ"
+        ],
+        [
+          "波",
+          "bō"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "冥",
+          "míng"
+        ],
+        [
+          "冥",
+          "míng"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "沈",
+          "shěn"
+        ],
+        [
+          "夕",
+          "xī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "郭",
+          "guō"
+        ],
+        [
+          "暗",
+          "àn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "雁",
+          "yàn"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "芦",
+          "lú"
+        ],
+        [
+          "洲",
+          "zhōu"
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "忆",
+          "yì"
+        ],
+        [
+          "秦",
+          "qín"
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "听",
+          "tīng"
+        ],
+        [
+          "钟",
+          "zhōng"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "眠",
+          "mián"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.次：宿。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.盱眙：音\"虚赤\"。"
+      }
+    ],
+    "tags": [
+      "五言古诗",
+      "写景",
+      "抒情",
+      "思乡"
+    ],
+    "english": {
+      "headingRaw": "Five-character-ancient-verseWeiYingwuMOORINGATTWILIGHTINYUYIDISTRICT",
+      "translationRaw": "FurlingmysailnearthetownofHuai，IfindforharbouralittlecoveWhereasuddenbreezewhipsupthewaves。Thesunisgrowingdimnowandsinksinthedusk。Peoplearecominghome。Thebrightmountain-peakdarkens。Wildgeeseflydowntoanislandofwhiteweeds。。。。AtmidnightIthinkofanortherncity-gate，AndIhearabelltollingbetweenmeandsleep。",
+      "translationClean": "FurlingmysailnearthetownofHuai, IfindforharbouralittlecoveWhereasuddenbreezewhipsupthewaves. Thesunisgrowingdimnowandsinksinthedusk. Peoplearecominghome. Thebrightmountain-peakdarkens. Wildgeeseflydowntoanislandofwhiteweeds.... AtmidnightIthinkofanortherncity-gate, AndIhearabelltollingbetweenmeandsleep.",
+      "segments": [
+        "FurlingmysailnearthetownofHuai, IfindforharbouralittlecoveWhereasuddenbreezewhipsupthewaves.",
+        "Thesunisgrowingdimnowandsinksinthedusk.",
+        "Peoplearecominghome.",
+        "Thebrightmountain-peakdarkens.",
+        "Wildgeeseflydowntoanislandofwhiteweeds....",
+        "AtmidnightIthinkofanortherncity-gate, AndIhearabelltollingbetweenmeandsleep."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 191,
+        "title": "夕次盱眙县",
+        "author": "韦应物"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9805
+      },
+      "ctext": {
+        "matched": true,
+        "order": 31,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 31,
+        "score": 0.975,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "11424603-9a22-4564-89a4-95e1766f9685",
+        "score": 0.975
+      }
+    },
+    "visual": {
+      "image": "assets/illustrations-wuyan-gushi/031-tang-031-xi-ci-xu-yi-xian.png",
+      "coreImagery": [
+        "淮镇孤驿",
+        "风波",
+        "暗山",
+        "芦洲雁"
+      ],
+      "mood": [
+        "羁旅",
+        "乡思",
+        "凄清"
+      ],
+      "palette": [
+        "芦白",
+        "水灰",
+        "山青",
+        "暮紫"
+      ],
+      "composition": "孤驿临水，芦洲雁影掠过暗山，风波使江面略带不安。",
+      "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+      "prompt": "夕次盱眙县，韦应物。核心意象：淮镇孤驿、风波、暗山、芦洲雁；情绪：羁旅、乡思、凄清。孤驿临水，芦洲雁影掠过暗山，风波使江面略带不安。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+      "generatedAt": "2026-05-10T15:05:28+00:00",
+      "generator": "procedural-watercolor"
+    }
+  }
+}

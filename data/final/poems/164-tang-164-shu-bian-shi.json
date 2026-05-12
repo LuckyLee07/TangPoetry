@@ -1,0 +1,493 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-164-shu-bian-shi",
+    "order": 164,
+    "section": "五言律诗",
+    "title": "书边事",
+    "titleTraditional": "書邊事",
+    "author": "张乔",
+    "authorTraditional": "張喬",
+    "dynasty": "唐代",
+    "aliases": [
+      "书边事"
+    ],
+    "lines": [
+      "调角断清秋，征人倚戍楼。",
+      "春风对青冢，白日落梁州。",
+      "大漠无兵阻，穷边有客游。",
+      "蕃情似此水，长愿向南流。"
+    ],
+    "linesTraditional": [
+      "調角斷清秋，征人倚戍樓。",
+      "春風對青塚，白日落梁州。",
+      "大漠無兵阻，窮邊有客遊。",
+      "蕃情似此水，長願向南流。"
+    ],
+    "text": "调角断清秋，征人倚戍楼。春风对青冢，白日落梁州。大漠无兵阻，穷边有客游。蕃情似此水，长愿向南流。",
+    "textTraditional": "調角斷清秋，征人倚戍樓。春風對青塚，白日落梁州。大漠無兵阻，窮邊有客遊。蕃情似此水，長願向南流。",
+    "displayLines": [
+      "调角断清秋，",
+      "征人倚戍楼。",
+      "春风对青冢，",
+      "白日落梁州。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "调",
+          "diào"
+        ],
+        [
+          "角",
+          "jiǎo"
+        ],
+        [
+          "断",
+          "duàn"
+        ],
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "征",
+          "zhēng"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "倚",
+          "yǐ"
+        ],
+        [
+          "戍",
+          "shù"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "对",
+          "duì"
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "冢",
+          "zhǒng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "梁",
+          "liáng"
+        ],
+        [
+          "州",
+          "zhōu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "大",
+          "dà"
+        ],
+        [
+          "漠",
+          "mò"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "兵",
+          "bīng"
+        ],
+        [
+          "阻",
+          "zǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "穷",
+          "qióng"
+        ],
+        [
+          "边",
+          "biān"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "游",
+          "yóu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "蕃",
+          "fān"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "似",
+          "shì"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "长",
+          "zhǎng"
+        ],
+        [
+          "愿",
+          "yuàn"
+        ],
+        [
+          "向",
+          "xiàng"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "调",
+          "diào"
+        ],
+        [
+          "角",
+          "jiǎo"
+        ],
+        [
+          "断",
+          "duàn"
+        ],
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "征",
+          "zhēng"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "倚",
+          "yǐ"
+        ],
+        [
+          "戍",
+          "shù"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "对",
+          "duì"
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "冢",
+          "zhǒng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "梁",
+          "liáng"
+        ],
+        [
+          "州",
+          "zhōu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "大",
+          "dà"
+        ],
+        [
+          "漠",
+          "mò"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "兵",
+          "bīng"
+        ],
+        [
+          "阻",
+          "zǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "穷",
+          "qióng"
+        ],
+        [
+          "边",
+          "biān"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "游",
+          "yóu"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "蕃",
+          "fān"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "似",
+          "shì"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "长",
+          "zhǎng"
+        ],
+        [
+          "愿",
+          "yuàn"
+        ],
+        [
+          "向",
+          "xiàng"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.青冢：王昭君墓。昭君死，葬胡中，地多白草，惟昭君冢独青。"
+      }
+    ],
+    "tags": [
+      "五言律诗",
+      "生活",
+      "边塞"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseZhangQiaoONTHEBORDER",
+      "translationRaw": "Thoughabuglebreaksthecrystalairofautumn，Soldiers，inthelook-out，watchateasetodayThespringwindblowingacrossgreengravesAndthepalesunsettingbeyondLiangzhou。Fornow，ongreyplainsdonewithwar，Theborderisopentotravelagain；AndTartarscannomorechoosethanrivers：Theyarerunning，allofthem，towardthesouth。",
+      "translationClean": "Thoughabuglebreaksthecrystalairofautumn, Soldiers, inthelook-out, watchateasetodayThespringwindblowingacrossgreengravesAndthepalesunsettingbeyondLiangzhou. Fornow, ongreyplainsdonewithwar, Theborderisopentotravelagain; AndTartarscannomorechoosethanrivers: Theyarerunning, allofthem, towardthesouth.",
+      "segments": [
+        "Thoughabuglebreaksthecrystalairofautumn, Soldiers, inthelook-out, watchateasetodayThespringwindblowingacrossgreengravesAndthepalesunsettingbeyondLiangzhou.",
+        "Fornow, ongreyplainsdonewithwar, Theborderisopentotravelagain;",
+        "AndTartarscannomorechoosethanrivers: Theyarerunning, allofthem, towardthesouth."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 111,
+        "title": "书边事",
+        "author": "张乔"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9805
+      },
+      "ctext": {
+        "matched": true,
+        "order": 164,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 261,
+        "score": 0.975,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "8324db66-b75a-40ff-9469-cba276d2f88f",
+        "score": 1
+      }
+    }
+  }
+}

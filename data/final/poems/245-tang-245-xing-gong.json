@@ -1,0 +1,283 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-245-xing-gong",
+    "order": 245,
+    "section": "五言绝句",
+    "title": "行宫",
+    "titleTraditional": "行宮",
+    "author": "元稹",
+    "authorTraditional": "元稹",
+    "dynasty": "唐代",
+    "aliases": [
+      "行宫"
+    ],
+    "lines": [
+      "寥落古行宫，宫花寂寞红。",
+      "白头宫女在，闲坐说玄宗。"
+    ],
+    "linesTraditional": [
+      "寥落古行宮，宮花寂寞紅。",
+      "白頭宮女在，閒坐說玄宗。"
+    ],
+    "text": "寥落古行宫，宫花寂寞红。白头宫女在，闲坐说玄宗。",
+    "textTraditional": "寥落古行宮，宮花寂寞紅。白頭宮女在，閒坐說玄宗。",
+    "displayLines": [
+      "寥落古行宫，",
+      "宫花寂寞红。",
+      "白头宫女在，",
+      "闲坐说玄宗。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "寥",
+          "liáo"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "寂",
+          "jì"
+        ],
+        [
+          "寞",
+          "mò"
+        ],
+        [
+          "红",
+          "hóng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "头",
+          "tóu"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "女",
+          "nǚ"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "闲",
+          "xián"
+        ],
+        [
+          "坐",
+          "zuò"
+        ],
+        [
+          "说",
+          "shuō"
+        ],
+        [
+          "玄",
+          "xuán"
+        ],
+        [
+          "宗",
+          "zōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "寥",
+          "liáo"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "寂",
+          "jì"
+        ],
+        [
+          "寞",
+          "mò"
+        ],
+        [
+          "红",
+          "hóng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "白",
+          "bái"
+        ],
+        [
+          "头",
+          "tóu"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "女",
+          "nǚ"
+        ],
+        [
+          "在",
+          "zài"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "闲",
+          "xián"
+        ],
+        [
+          "坐",
+          "zuò"
+        ],
+        [
+          "说",
+          "shuō"
+        ],
+        [
+          "玄",
+          "xuán"
+        ],
+        [
+          "宗",
+          "zōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言绝句",
+      "怀古",
+      "宫怨"
+    ],
+    "english": {
+      "headingRaw": "Five-character-quatrainYuanZhenTHESUMMERPALACE",
+      "translationRaw": "Inthefadedoldimperialpalace，Peoniesarered，butnoonecomestoseethem。。。。Theladies-in-waitinghavegrownwhite-hairedDebatingthepompsofEmperorXuanzong。",
+      "translationClean": "Inthefadedoldimperialpalace, Peoniesarered, butnoonecomestoseethem.... Theladies-in-waitinghavegrownwhite-hairedDebatingthepompsofEmperorXuanzong.",
+      "segments": [
+        "Inthefadedoldimperialpalace, Peoniesarered, butnoonecomestoseethem....",
+        "Theladies-in-waitinghavegrownwhite-hairedDebatingthepompsofEmperorXuanzong."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 91,
+        "title": "行宫",
+        "author": "元稹"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 245,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 112,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "a6c85d29-ad02-4f54-a347-63800213a7b4",
+        "score": 1
+      }
+    }
+  }
+}

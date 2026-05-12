@@ -1,0 +1,633 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-196-chang-sha-guo-jia-yi-zhai",
+    "order": 196,
+    "section": "七言律诗",
+    "title": "长沙过贾谊宅",
+    "titleTraditional": "長沙過賈誼宅",
+    "author": "刘长卿",
+    "authorTraditional": "劉長卿",
+    "dynasty": "唐代",
+    "aliases": [
+      "长沙过贾谊宅"
+    ],
+    "lines": [
+      "三年谪宦此栖迟，万古惟留楚客悲。",
+      "秋草独寻人去后，寒林空见日斜时。",
+      "汉文有道恩犹薄，湘水无情吊岂知？",
+      "寂寂江山摇落处，怜君何事到天涯？"
+    ],
+    "linesTraditional": [
+      "三年謫宦此棲遲，萬古惟留楚客悲。",
+      "秋草獨尋人去後，寒林空見日斜時。",
+      "漢文有道恩猶薄，湘水無情弔豈知？",
+      "寂寂江山搖落處，憐君何事到天涯？"
+    ],
+    "text": "三年谪宦此栖迟，万古惟留楚客悲。秋草独寻人去后，寒林空见日斜时。汉文有道恩犹薄，湘水无情吊岂知？寂寂江山摇落处，怜君何事到天涯？",
+    "textTraditional": "三年謫宦此棲遲，萬古惟留楚客悲。秋草獨尋人去後，寒林空見日斜時。漢文有道恩猶薄，湘水無情弔豈知？寂寂江山搖落處，憐君何事到天涯？",
+    "displayLines": [
+      "三年谪宦此栖迟，",
+      "万古惟留楚客悲。",
+      "秋草独寻人去后，",
+      "寒林空见日斜时。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "谪",
+          "zhé"
+        ],
+        [
+          "宦",
+          "huàn"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "栖",
+          "qī"
+        ],
+        [
+          "迟",
+          "chí"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "惟",
+          "wéi"
+        ],
+        [
+          "留",
+          "liú"
+        ],
+        [
+          "楚",
+          "chǔ"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "悲",
+          "bēi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "寻",
+          "xún"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "后",
+          "hòu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "斜",
+          "xié"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "文",
+          "wén"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "道",
+          "dào"
+        ],
+        [
+          "恩",
+          "ēn"
+        ],
+        [
+          "犹",
+          "yóu"
+        ],
+        [
+          "薄",
+          "báo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "湘",
+          "xiāng"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "吊",
+          "diào"
+        ],
+        [
+          "岂",
+          "qǐ"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "寂",
+          "jì"
+        ],
+        [
+          "寂",
+          "jì"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "摇",
+          "yáo"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "怜",
+          "lián"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "到",
+          "dào"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "涯",
+          "yá"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "谪",
+          "zhé"
+        ],
+        [
+          "宦",
+          "huàn"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "栖",
+          "qī"
+        ],
+        [
+          "迟",
+          "chí"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "惟",
+          "wéi"
+        ],
+        [
+          "留",
+          "liú"
+        ],
+        [
+          "楚",
+          "chǔ"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "悲",
+          "bēi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "寻",
+          "xún"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "后",
+          "hòu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "斜",
+          "xié"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "文",
+          "wén"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "道",
+          "dào"
+        ],
+        [
+          "恩",
+          "ēn"
+        ],
+        [
+          "犹",
+          "yóu"
+        ],
+        [
+          "薄",
+          "báo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "湘",
+          "xiāng"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "吊",
+          "diào"
+        ],
+        [
+          "岂",
+          "qǐ"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "寂",
+          "jì"
+        ],
+        [
+          "寂",
+          "jì"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "摇",
+          "yáo"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "怜",
+          "lián"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "事",
+          "shì"
+        ],
+        [
+          "到",
+          "dào"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "涯",
+          "yá"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.栖迟：停留。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.楚客：指屈原。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "3.汉文：指汉文帝。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "4.摇落：零落。"
+      }
+    ],
+    "tags": [
+      "七言律诗",
+      "迁谪",
+      "生活",
+      "怀古"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-regular-verseLiuChangqingONPASSINGJIAYI』SHOUSEINCHANGSHA",
+      "translationRaw": "Here，whereyouspentyourthreeyears』exile，TobemournedinChutenthousandyears，CanItraceyourfootprintintheautumngrass--Oronlyslantingsunlightthroughthebleakwoods？IfevengoodEmperorWenwascold-hearted，CouldyouhopethatthedullriverXiangwouldunderstandyou，Thesedesolatewaters，thesetaciturnmountains，Whenyoucame，likeme，sofaraway？",
+      "translationClean": "Here, whereyouspentyourthreeyears'exile, TobemournedinChutenthousandyears, CanItraceyourfootprintintheautumngrass--Oronlyslantingsunlightthroughthebleakwoods? IfevengoodEmperorWenwascold-hearted, CouldyouhopethatthedullriverXiangwouldunderstandyou, Thesedesolatewaters, thesetaciturnmountains, Whenyoucame, likeme, sofaraway?",
+      "segments": [
+        "Here, whereyouspentyourthreeyears'exile, TobemournedinChutenthousandyears, CanItraceyourfootprintintheautumngrass--Oronlyslantingsunlightthroughthebleakwoods?",
+        "IfevengoodEmperorWenwascold-hearted, CouldyouhopethatthedullriverXiangwouldunderstandyou, Thesedesolatewaters, thesetaciturnmountains, Whenyoucame, likeme, sofaraway?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 208,
+        "title": "长沙过贾谊宅",
+        "author": "刘长卿"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 196,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 293,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "8cefa67f-2b9a-4e13-8158-4d38cbfb331b",
+        "score": 1
+      }
+    }
+  }
+}

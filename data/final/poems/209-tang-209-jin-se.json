@@ -1,0 +1,634 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-209-jin-se",
+    "order": 209,
+    "section": "七言律诗",
+    "title": "锦瑟",
+    "titleTraditional": "錦瑟",
+    "author": "李商隐",
+    "authorTraditional": "李商隱",
+    "dynasty": "唐代",
+    "aliases": [
+      "锦瑟"
+    ],
+    "lines": [
+      "锦瑟无端五十弦，一弦一柱思华年。",
+      "庄生晓梦迷蝴蝶，望帝春心托杜鹃。",
+      "沧海月明珠有泪，蓝田日暖玉生烟。",
+      "此情可待成追忆，只是当时已惘然。"
+    ],
+    "linesTraditional": [
+      "錦瑟無端五十絃，一絃一柱思華年。",
+      "莊生曉夢迷蝴蝶，望帝春心託杜鵑。",
+      "滄海月明珠有淚，藍田日暖玉生煙。",
+      "此情可待成追憶，只是當時已惘然。"
+    ],
+    "text": "锦瑟无端五十弦，一弦一柱思华年。庄生晓梦迷蝴蝶，望帝春心托杜鹃。沧海月明珠有泪，蓝田日暖玉生烟。此情可待成追忆，只是当时已惘然。",
+    "textTraditional": "錦瑟無端五十絃，一絃一柱思華年。莊生曉夢迷蝴蝶，望帝春心託杜鵑。滄海月明珠有淚，藍田日暖玉生煙。此情可待成追憶，只是當時已惘然。",
+    "displayLines": [
+      "锦瑟无端五十弦，",
+      "一弦一柱思华年。",
+      "庄生晓梦迷蝴蝶，",
+      "望帝春心托杜鹃。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "锦",
+          "jǐn"
+        ],
+        [
+          "瑟",
+          "sè"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "端",
+          "duān"
+        ],
+        [
+          "五",
+          "wǔ"
+        ],
+        [
+          "十",
+          "shí"
+        ],
+        [
+          "弦",
+          "xián"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "弦",
+          "xián"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "柱",
+          "zhù"
+        ],
+        [
+          "思",
+          "sī"
+        ],
+        [
+          "华",
+          "huá"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "庄",
+          "zhuāng"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "晓",
+          "xiǎo"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "迷",
+          "mí"
+        ],
+        [
+          "蝴",
+          "hú"
+        ],
+        [
+          "蝶",
+          "dié"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "望",
+          "wàng"
+        ],
+        [
+          "帝",
+          "dì"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "托",
+          "tuō"
+        ],
+        [
+          "杜",
+          "dù"
+        ],
+        [
+          "鹃",
+          "juān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "沧",
+          "cāng"
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "珠",
+          "zhū"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "蓝",
+          "lán"
+        ],
+        [
+          "田",
+          "tián"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "暖",
+          "nuǎn"
+        ],
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "可",
+          "kě"
+        ],
+        [
+          "待",
+          "dài"
+        ],
+        [
+          "成",
+          "chéng"
+        ],
+        [
+          "追",
+          "zhuī"
+        ],
+        [
+          "忆",
+          "yì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "只",
+          "zhǐ"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "当",
+          "dāng"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "已",
+          "yǐ"
+        ],
+        [
+          "惘",
+          "wǎng"
+        ],
+        [
+          "然",
+          "rán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "锦",
+          "jǐn"
+        ],
+        [
+          "瑟",
+          "sè"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "端",
+          "duān"
+        ],
+        [
+          "五",
+          "wǔ"
+        ],
+        [
+          "十",
+          "shí"
+        ],
+        [
+          "弦",
+          "xián"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "弦",
+          "xián"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "柱",
+          "zhù"
+        ],
+        [
+          "思",
+          "sī"
+        ],
+        [
+          "华",
+          "huá"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "庄",
+          "zhuāng"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "晓",
+          "xiǎo"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "迷",
+          "mí"
+        ],
+        [
+          "蝴",
+          "hú"
+        ],
+        [
+          "蝶",
+          "dié"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "望",
+          "wàng"
+        ],
+        [
+          "帝",
+          "dì"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "托",
+          "tuō"
+        ],
+        [
+          "杜",
+          "dù"
+        ],
+        [
+          "鹃",
+          "juān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "沧",
+          "cāng"
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "珠",
+          "zhū"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "蓝",
+          "lán"
+        ],
+        [
+          "田",
+          "tián"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "暖",
+          "nuǎn"
+        ],
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "可",
+          "kě"
+        ],
+        [
+          "待",
+          "dài"
+        ],
+        [
+          "成",
+          "chéng"
+        ],
+        [
+          "追",
+          "zhuī"
+        ],
+        [
+          "忆",
+          "yì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "只",
+          "zhǐ"
+        ],
+        [
+          "是",
+          "shì"
+        ],
+        [
+          "当",
+          "dāng"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "已",
+          "yǐ"
+        ],
+        [
+          "惘",
+          "wǎng"
+        ],
+        [
+          "然",
+          "rán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.庄生：即庄周，曾梦为蝴蝶。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.望帝：古蜀帝杜宇，号望帝，淫其相妻，惭亡去，死后魂化杜鹃（又"
+      },
+      {
+        "source": "chiuinan",
+        "text": "名子规），声音凄楚。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "3.蓝田：山名，出美玉。"
+      }
+    ],
+    "tags": [
+      "七言律诗",
+      "思念",
+      "抒情",
+      "爱情"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-regular-verseLiShangyinTHEINLAIDHARP",
+      "translationRaw": "Iwonderwhymyinlaidharphasfiftystrings，Eachwithitsflower-likefretanintervalofyouth。。。。ThesageChuangziisday-dreaming，bewitchedbybutterflies，Thespring-heartofEmperorWangiscryinginacuckoo，Mermenweeptheirpearlytearsdownamoon-greensea，Bluefieldsarebreathingtheirjadetothesun。。。。AndamomentthatoughttohavelastedforeverHascomeandgonebeforeIknew。",
+      "translationClean": "Iwonderwhymyinlaidharphasfiftystrings, Eachwithitsflower-likefretanintervalofyouth.... ThesageChuangziisday-dreaming, bewitchedbybutterflies, Thespring-heartofEmperorWangiscryinginacuckoo, Mermenweeptheirpearlytearsdownamoon-greensea, Bluefieldsarebreathingtheirjadetothesun.... AndamomentthatoughttohavelastedforeverHascomeandgonebeforeIknew.",
+      "segments": [
+        "Iwonderwhymyinlaidharphasfiftystrings, Eachwithitsflower-likefretanintervalofyouth....",
+        "ThesageChuangziisday-dreaming, bewitchedbybutterflies, Thespring-heartofEmperorWangiscryinginacuckoo, Mermenweeptheirpearlytearsdownamoon-greensea, Bluefieldsarebreathingtheirjadetothesun....",
+        "AndamomentthatoughttohavelastedforeverHascomeandgonebeforeIknew."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 34,
+        "title": "锦瑟",
+        "author": "李商隐"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 209,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 306,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "e0eb3016-9288-4dc0-9257-3de36e5ad73c",
+        "score": 1
+      }
+    }
+  }
+}

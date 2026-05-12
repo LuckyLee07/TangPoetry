@@ -1,0 +1,488 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-122-han-jiang-lin-tiao",
+    "order": 122,
+    "section": "五言律诗",
+    "title": "汉江临眺",
+    "titleTraditional": "漢江臨眺",
+    "author": "王维",
+    "authorTraditional": "王維",
+    "dynasty": "唐代",
+    "aliases": [
+      "汉江临泛 / 汉江临眺",
+      "汉江临眺"
+    ],
+    "lines": [
+      "楚塞三湘接，荆门九派通。",
+      "江流天地外，山色有无中。",
+      "郡邑浮前浦，波澜动远空。",
+      "襄阳好风日，留醉与山翁。"
+    ],
+    "linesTraditional": [
+      "楚塞三湘接，荊門九派通。",
+      "江流天地外，山色有無中。",
+      "郡邑浮前浦，波瀾動遠空。",
+      "襄陽好風日，留醉與山翁。"
+    ],
+    "text": "楚塞三湘接，荆门九派通。江流天地外，山色有无中。郡邑浮前浦，波澜动远空。襄阳好风日，留醉与山翁。",
+    "textTraditional": "楚塞三湘接，荊門九派通。江流天地外，山色有無中。郡邑浮前浦，波瀾動遠空。襄陽好風日，留醉與山翁。",
+    "displayLines": [
+      "楚塞三湘接，",
+      "荆门九派通。",
+      "江流天地外，",
+      "山色有无中。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "楚",
+          "chǔ"
+        ],
+        [
+          "塞",
+          "sāi"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "湘",
+          "xiāng"
+        ],
+        [
+          "接",
+          "jiē"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "荆",
+          "jīng"
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "九",
+          "jiǔ"
+        ],
+        [
+          "派",
+          "pài"
+        ],
+        [
+          "通",
+          "tōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "地",
+          "dì"
+        ],
+        [
+          "外",
+          "wài"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "郡",
+          "jùn"
+        ],
+        [
+          "邑",
+          "yì"
+        ],
+        [
+          "浮",
+          "fú"
+        ],
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "浦",
+          "pǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "波",
+          "bō"
+        ],
+        [
+          "澜",
+          "lán"
+        ],
+        [
+          "动",
+          "dòng"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "襄",
+          "xiāng"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "好",
+          "hǎo"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "留",
+          "liú"
+        ],
+        [
+          "醉",
+          "zuì"
+        ],
+        [
+          "与",
+          "yǔ"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "翁",
+          "wēng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "楚",
+          "chǔ"
+        ],
+        [
+          "塞",
+          "sāi"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "湘",
+          "xiāng"
+        ],
+        [
+          "接",
+          "jiē"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "荆",
+          "jīng"
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "九",
+          "jiǔ"
+        ],
+        [
+          "派",
+          "pài"
+        ],
+        [
+          "通",
+          "tōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "地",
+          "dì"
+        ],
+        [
+          "外",
+          "wài"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "色",
+          "sè"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "郡",
+          "jùn"
+        ],
+        [
+          "邑",
+          "yì"
+        ],
+        [
+          "浮",
+          "fú"
+        ],
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "浦",
+          "pǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "波",
+          "bō"
+        ],
+        [
+          "澜",
+          "lán"
+        ],
+        [
+          "动",
+          "dòng"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "襄",
+          "xiāng"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "好",
+          "hǎo"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "留",
+          "liú"
+        ],
+        [
+          "醉",
+          "zuì"
+        ],
+        [
+          "与",
+          "yǔ"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "翁",
+          "wēng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言律诗",
+      "山水",
+      "抒情"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseWangWeiAVIEWOFTHEHANRIVER",
+      "translationRaw": "WithitsthreesouthernbranchesreachingtheChuborder，AnditsninestreamstouchingthegatewayofJing，Thisriverrunsbeyondheavenandearth，Wherethecolourofmountainsbothisandisnot。ThedwellingsofmenseemfloatingalongOnripplesofthedistantsky--ThesebeautifuldayshereinXiangyangMakedrunkenmyoldmountainheart！",
+      "translationClean": "WithitsthreesouthernbranchesreachingtheChuborder, AnditsninestreamstouchingthegatewayofJing, Thisriverrunsbeyondheavenandearth, Wherethecolourofmountainsbothisandisnot. ThedwellingsofmenseemfloatingalongOnripplesofthedistantsky--ThesebeautifuldayshereinXiangyangMakedrunkenmyoldmountainheart!",
+      "segments": [
+        "WithitsthreesouthernbranchesreachingtheChuborder, AnditsninestreamstouchingthegatewayofJing, Thisriverrunsbeyondheavenandearth, Wherethecolourofmountainsbothisandisnot.",
+        "ThedwellingsofmenseemfloatingalongOnripplesofthedistantsky--ThesebeautifuldayshereinXiangyangMakedrunkenmyoldmountainheart!"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 260,
+        "title": "汉江临泛 / 汉江临眺",
+        "author": "王维"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 122,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 219,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "9080a103-2750-4b9b-a4fa-1167cd670a0c",
+        "score": 1
+      }
+    }
+  }
+}

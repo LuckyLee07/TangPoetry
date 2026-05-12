@@ -1,0 +1,291 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-247-he-man-zi",
+    "order": 247,
+    "section": "五言绝句",
+    "title": "何满子",
+    "titleTraditional": "何滿子",
+    "author": "张祜",
+    "authorTraditional": "張祜",
+    "dynasty": "唐代",
+    "aliases": [
+      "宫词·故国三千里",
+      "何满子"
+    ],
+    "lines": [
+      "故国三千里，深宫二十年。",
+      "一声何满子，双泪落君前。"
+    ],
+    "linesTraditional": [
+      "故國三千里，深宮二十年。",
+      "一聲何滿子，雙淚落君前。"
+    ],
+    "text": "故国三千里，深宫二十年。一声何满子，双泪落君前。",
+    "textTraditional": "故國三千里，深宮二十年。一聲何滿子，雙淚落君前。",
+    "displayLines": [
+      "故国三千里，",
+      "深宫二十年。",
+      "一声何满子，",
+      "双泪落君前。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "国",
+          "guó"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "千",
+          "qiān"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "二",
+          "èr"
+        ],
+        [
+          "十",
+          "shí"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "满",
+          "mǎn"
+        ],
+        [
+          "子",
+          "zi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "双",
+          "shuāng"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "国",
+          "guó"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "千",
+          "qiān"
+        ],
+        [
+          "里",
+          "lǐ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "二",
+          "èr"
+        ],
+        [
+          "十",
+          "shí"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "满",
+          "mǎn"
+        ],
+        [
+          "子",
+          "zi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "双",
+          "shuāng"
+        ],
+        [
+          "泪",
+          "lèi"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "君",
+          "jūn"
+        ],
+        [
+          "前",
+          "qián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.何满子：词曲名，本唐开元中沧洲歌者，临刑进此曲以赎死，竟不得"
+      },
+      {
+        "source": "chiuinan",
+        "text": "免。"
+      }
+    ],
+    "tags": [
+      "五言绝句",
+      "宫怨"
+    ],
+    "english": {
+      "headingRaw": "Five-character-quatrainZhangHuSHESINGSANOLDSONG",
+      "translationRaw": "Aladyofthepalacethesetwentyyears，Shehaslivedhereathousandmilesfromherhome-Yetaskherforthissongand，withthefirstfewwordsofit，Seehowshetriestoholdbackhertears。",
+      "translationClean": "Aladyofthepalacethesetwentyyears, Shehaslivedhereathousandmilesfromherhome-Yetaskherforthissongand, withthefirstfewwordsofit, Seehowshetriestoholdbackhertears.",
+      "segments": [
+        "Aladyofthepalacethesetwentyyears, Shehaslivedhereathousandmilesfromherhome-Yetaskherforthissongand, withthefirstfewwordsofit, Seehowshetriestoholdbackhertears."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 5,
+        "title": "宫词·故国三千里",
+        "author": "张祜"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.83
+      },
+      "ctext": {
+        "matched": true,
+        "order": 247,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 114,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "d850db6a-e07b-4fee-b642-57a70bdbbed2",
+        "score": 0.95
+      }
+    }
+  }
+}

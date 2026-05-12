@@ -1,0 +1,601 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-016-wei-chuan-tian-jia",
+    "order": 16,
+    "section": "五言古诗",
+    "title": "渭川田家",
+    "titleTraditional": "渭川田家",
+    "author": "王维",
+    "authorTraditional": "王維",
+    "dynasty": "唐代",
+    "aliases": [
+      "渭川田家"
+    ],
+    "lines": [
+      "斜光照墟落，穷巷牛羊归。",
+      "野老念牧童，倚杖候荆扉。",
+      "雉雊麦苗秀，蚕眠桑叶稀。",
+      "田夫荷锄立，相见语依依。",
+      "即此羡闲逸，怅然吟式微。",
+      "又作至"
+    ],
+    "linesTraditional": [
+      "斜光照墟落，窮巷牛羊歸。",
+      "野老念牧童，倚杖候荊扉。",
+      "雉雊麥苗秀，蠶眠桑葉稀。",
+      "田夫荷鋤立，相見語依依。",
+      "即此羨閒逸，悵然吟式微。",
+      "又作至"
+    ],
+    "text": "斜光照墟落，穷巷牛羊归。野老念牧童，倚杖候荆扉。雉雊麦苗秀，蚕眠桑叶稀。田夫荷锄立，相见语依依。即此羡闲逸，怅然吟式微。又作至",
+    "textTraditional": "斜光照墟落，窮巷牛羊歸。野老念牧童，倚杖候荊扉。雉雊麥苗秀，蠶眠桑葉稀。田夫荷鋤立，相見語依依。即此羨閒逸，悵然吟式微。又作至",
+    "displayLines": [
+      "斜光照墟落，",
+      "穷巷牛羊归。",
+      "野老念牧童，",
+      "倚杖候荆扉。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "斜",
+          "xié"
+        ],
+        [
+          "光",
+          "guāng"
+        ],
+        [
+          "照",
+          "zhào"
+        ],
+        [
+          "墟",
+          "xū"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "穷",
+          "qióng"
+        ],
+        [
+          "巷",
+          "xiàng"
+        ],
+        [
+          "牛",
+          "niú"
+        ],
+        [
+          "羊",
+          "yáng"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "野",
+          "yě"
+        ],
+        [
+          "老",
+          "lǎo"
+        ],
+        [
+          "念",
+          "niàn"
+        ],
+        [
+          "牧",
+          "mù"
+        ],
+        [
+          "童",
+          "tóng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "倚",
+          "yǐ"
+        ],
+        [
+          "杖",
+          "zhàng"
+        ],
+        [
+          "候",
+          "hòu"
+        ],
+        [
+          "荆",
+          "jīng"
+        ],
+        [
+          "扉",
+          "fēi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "雉",
+          "zhì"
+        ],
+        [
+          "雊",
+          "gòu"
+        ],
+        [
+          "麦",
+          "mài"
+        ],
+        [
+          "苗",
+          "miáo"
+        ],
+        [
+          "秀",
+          "xiù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "蚕",
+          "cán"
+        ],
+        [
+          "眠",
+          "mián"
+        ],
+        [
+          "桑",
+          "sāng"
+        ],
+        [
+          "叶",
+          "yè"
+        ],
+        [
+          "稀",
+          "xī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "田",
+          "tián"
+        ],
+        [
+          "夫",
+          "fū"
+        ],
+        [
+          "荷",
+          "hè"
+        ],
+        [
+          "锄",
+          "chú"
+        ],
+        [
+          "立",
+          "lì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "语",
+          "yǔ"
+        ],
+        [
+          "依",
+          "yī"
+        ],
+        [
+          "依",
+          "yī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "斜",
+          "xié"
+        ],
+        [
+          "光",
+          "guāng"
+        ],
+        [
+          "照",
+          "zhào"
+        ],
+        [
+          "墟",
+          "xū"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "穷",
+          "qióng"
+        ],
+        [
+          "巷",
+          "xiàng"
+        ],
+        [
+          "牛",
+          "niú"
+        ],
+        [
+          "羊",
+          "yáng"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "野",
+          "yě"
+        ],
+        [
+          "老",
+          "lǎo"
+        ],
+        [
+          "念",
+          "niàn"
+        ],
+        [
+          "牧",
+          "mù"
+        ],
+        [
+          "童",
+          "tóng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "倚",
+          "yǐ"
+        ],
+        [
+          "杖",
+          "zhàng"
+        ],
+        [
+          "候",
+          "hòu"
+        ],
+        [
+          "荆",
+          "jīng"
+        ],
+        [
+          "扉",
+          "fēi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "雉",
+          "zhì"
+        ],
+        [
+          "雊",
+          "gòu"
+        ],
+        [
+          "麦",
+          "mài"
+        ],
+        [
+          "苗",
+          "miáo"
+        ],
+        [
+          "秀",
+          "xiù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "蚕",
+          "cán"
+        ],
+        [
+          "眠",
+          "mián"
+        ],
+        [
+          "桑",
+          "sāng"
+        ],
+        [
+          "叶",
+          "yè"
+        ],
+        [
+          "稀",
+          "xī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "田",
+          "tián"
+        ],
+        [
+          "夫",
+          "fū"
+        ],
+        [
+          "荷",
+          "hè"
+        ],
+        [
+          "锄",
+          "chú"
+        ],
+        [
+          "立",
+          "lì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "语",
+          "yǔ"
+        ],
+        [
+          "依",
+          "yī"
+        ],
+        [
+          "依",
+          "yī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "即",
+          "jí"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "羡",
+          "xiàn"
+        ],
+        [
+          "闲",
+          "xián"
+        ],
+        [
+          "逸",
+          "yì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "怅",
+          "chàng"
+        ],
+        [
+          "然",
+          "rán"
+        ],
+        [
+          "吟",
+          "yín"
+        ],
+        [
+          "式",
+          "shì"
+        ],
+        [
+          "微",
+          "wēi"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "又",
+          "yòu"
+        ],
+        [
+          "作",
+          "zuò"
+        ],
+        [
+          "至",
+          "zhì"
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "斜阳--一作 ：斜光"
+      },
+      {
+        "source": "chiuinan",
+        "text": "：1.墟落：村落。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.雉雊：音\"智购\"，野鸡鸣叫。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "3.式微：（诗经篇名）式微式微胡不归。"
+      }
+    ],
+    "tags": [
+      "五言古诗",
+      "归隐",
+      "田园"
+    ],
+    "english": {
+      "headingRaw": "Five-character-quatrainWangWeiAFARM-HOUSEONTHEWEIRIVER",
+      "translationRaw": "Intheslantofthesunonthecountry-side，Cattleandsheeptrailhomealongthelane；AndaruggedoldmaninathatchdoorLeansonastaffandthinksofhisson，theherdboy。Therearewhirringpheasants？fullwheat-ears，Silk-wormsasleep，paredmulberry-leaves。Andthefarmers，returningwithhoesontheirshoulders，Hailoneanotherfamiliarly。。。。NowonderIlongforthesimplelifeAndamsighingtheoldsong，Oh，togoBackAgain！",
+      "translationClean": "Intheslantofthesunonthecountry-side, Cattleandsheeptrailhomealongthelane; AndaruggedoldmaninathatchdoorLeansonastaffandthinksofhisson, theherdboy. Therearewhirringpheasants? fullwheat-ears, Silk-wormsasleep, paredmulberry-leaves. Andthefarmers, returningwithhoesontheirshoulders, Hailoneanotherfamiliarly.... NowonderIlongforthesimplelifeAndamsighingtheoldsong, Oh, togoBackAgain!",
+      "segments": [
+        "Intheslantofthesunonthecountry-side, Cattleandsheeptrailhomealongthelane;",
+        "AndaruggedoldmaninathatchdoorLeansonastaffandthinksofhisson, theherdboy.",
+        "Therearewhirringpheasants?",
+        "fullwheat-ears, Silk-wormsasleep, paredmulberry-leaves.",
+        "Andthefarmers, returningwithhoesontheirshoulders, Hailoneanotherfamiliarly....",
+        "NowonderIlongforthesimplelifeAndamsighingtheoldsong, Oh, togoBackAgain!"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 164,
+        "title": "渭川田家",
+        "author": "王维"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.947
+      },
+      "ctext": {
+        "matched": true,
+        "order": 16,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 16,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "204e287b-8194-4c2d-808b-11cc260412ae",
+        "score": 1
+      }
+    },
+    "visual": {
+      "image": "assets/illustrations-wuyan-gushi/016-tang-016-wei-chuan-tian-jia.png",
+      "coreImagery": [
+        "渭川田家",
+        "牛羊归",
+        "麦苗",
+        "蚕眠"
+      ],
+      "mood": [
+        "田园",
+        "羡闲",
+        "安稳"
+      ],
+      "palette": [
+        "麦绿",
+        "暮金",
+        "土褐",
+        "烟白"
+      ],
+      "composition": "暮色中的田畴低平展开，牛羊沿小径归来，村烟在远处升起。",
+      "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+      "prompt": "渭川田家，王维。核心意象：渭川田家、牛羊归、麦苗、蚕眠；情绪：田园、羡闲、安稳。暮色中的田畴低平展开，牛羊沿小径归来，村烟在远处升起。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+      "generatedAt": "2026-05-10T15:05:28+00:00",
+      "generator": "procedural-watercolor"
+    }
+  }
+}

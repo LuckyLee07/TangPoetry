@@ -1,0 +1,488 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-070-yu-weng",
+    "order": 70,
+    "section": "七言古诗",
+    "title": "渔翁",
+    "titleTraditional": "漁翁",
+    "author": "柳宗元",
+    "authorTraditional": "柳宗元",
+    "dynasty": "唐代",
+    "aliases": [
+      "渔翁"
+    ],
+    "lines": [
+      "渔翁夜傍西岩宿，晓汲清湘燃楚烛。",
+      "烟销日出不见人，欸乃一声山水绿。",
+      "回看天际下中流，岩上无心云相逐。"
+    ],
+    "linesTraditional": [
+      "漁翁夜傍西巖宿，曉汲清湘燃楚燭。",
+      "煙銷日出不見人，欸乃一聲山水綠。",
+      "迴看天際下中流，巖上無心雲相逐。"
+    ],
+    "text": "渔翁夜傍西岩宿，晓汲清湘燃楚烛。烟销日出不见人，欸乃一声山水绿。回看天际下中流，岩上无心云相逐。",
+    "textTraditional": "漁翁夜傍西巖宿，曉汲清湘燃楚燭。煙銷日出不見人，欸乃一聲山水綠。迴看天際下中流，巖上無心雲相逐。",
+    "displayLines": [
+      "渔翁夜傍西岩宿，",
+      "晓汲清湘燃楚烛。",
+      "烟销日出不见人，",
+      "欸乃一声山水绿。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "渔",
+          "yú"
+        ],
+        [
+          "翁",
+          "wēng"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "傍",
+          "bàng"
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "岩",
+          "yán"
+        ],
+        [
+          "宿",
+          "sù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "晓",
+          "xiǎo"
+        ],
+        [
+          "汲",
+          "jí"
+        ],
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "湘",
+          "xiāng"
+        ],
+        [
+          "燃",
+          "rán"
+        ],
+        [
+          "楚",
+          "chǔ"
+        ],
+        [
+          "烛",
+          "zhú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "销",
+          "xiāo"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "出",
+          "chū"
+        ],
+        [
+          "不",
+          "bú"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "欸",
+          "āi"
+        ],
+        [
+          "乃",
+          "nǎi"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "绿",
+          "lǜ"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "回",
+          "huí"
+        ],
+        [
+          "看",
+          "kàn"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "际",
+          "jì"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "岩",
+          "yán"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "逐",
+          "zhú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "渔",
+          "yú"
+        ],
+        [
+          "翁",
+          "wēng"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "傍",
+          "bàng"
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "岩",
+          "yán"
+        ],
+        [
+          "宿",
+          "sù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "晓",
+          "xiǎo"
+        ],
+        [
+          "汲",
+          "jí"
+        ],
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "湘",
+          "xiāng"
+        ],
+        [
+          "燃",
+          "rán"
+        ],
+        [
+          "楚",
+          "chǔ"
+        ],
+        [
+          "烛",
+          "zhú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "销",
+          "xiāo"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "出",
+          "chū"
+        ],
+        [
+          "不",
+          "bú"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "欸",
+          "āi"
+        ],
+        [
+          "乃",
+          "nǎi"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "声",
+          "shēng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "绿",
+          "lǜ"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "回",
+          "huí"
+        ],
+        [
+          "看",
+          "kàn"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "际",
+          "jì"
+        ],
+        [
+          "下",
+          "xià"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "岩",
+          "yán"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "心",
+          "xīn"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "逐",
+          "zhú"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.欸乃：行船橹声。欸，音\"矮\"。"
+      }
+    ],
+    "tags": [
+      "七言古诗",
+      "写人",
+      "山水"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-ancient-verseLiuZongyuanANOLDFISHERMAN",
+      "translationRaw": "Anoldfishermanspentthenighthere，underthewesterncliff；HedippedupwaterfromthepureHsiangandmadeabamboofire；Andthen，atsunrise，hewenthiswaythroughtheclovenmist，Withonlythecreakofhispaddleleft，inthegreennessofmountainandriver。。。。Iturnandseethewavesmovingasfromheaven，Andcloudsabovethecliffscomingidly，onebyone。",
+      "translationClean": "Anoldfishermanspentthenighthere, underthewesterncliff; HedippedupwaterfromthepureHsiangandmadeabamboofire; Andthen, atsunrise, hewenthiswaythroughtheclovenmist, Withonlythecreakofhispaddleleft, inthegreennessofmountainandriver.... Iturnandseethewavesmovingasfromheaven, Andcloudsabovethecliffscomingidly, onebyone.",
+      "segments": [
+        "Anoldfishermanspentthenighthere, underthewesterncliff;",
+        "HedippedupwaterfromthepureHsiangandmadeabamboofire;",
+        "Andthen, atsunrise, hewenthiswaythroughtheclovenmist, Withonlythecreakofhispaddleleft, inthegreennessofmountainandriver....",
+        "Iturnandseethewavesmovingasfromheaven, Andcloudsabovethecliffscomingidly, onebyone."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 71,
+        "title": "渔翁",
+        "author": "柳宗元"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9814
+      },
+      "ctext": {
+        "matched": true,
+        "order": 70,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 70,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "51b1aeeb-9a66-412d-b15c-4afaa6c6b1d7",
+        "score": 1
+      }
+    }
+  }
+}

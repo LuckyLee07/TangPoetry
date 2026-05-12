@@ -1,0 +1,489 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-147-yun-yang-guan-yu-han-shen-su-bie",
+    "order": 147,
+    "section": "五言律诗",
+    "title": "云阳馆与韩绅宿别",
+    "titleTraditional": "雲陽館與韓紳宿別",
+    "author": "司空曙",
+    "authorTraditional": "司空曙",
+    "dynasty": "唐代",
+    "aliases": [
+      "云阳馆与韩绅宿别"
+    ],
+    "lines": [
+      "故人江海别，几度隔山川。",
+      "乍见翻疑梦，相悲各问年。",
+      "孤灯寒照雨，深竹暗浮烟。",
+      "更有明朝恨，离杯惜共传。"
+    ],
+    "linesTraditional": [
+      "故人江海別，幾度隔山川。",
+      "乍見翻疑夢，相悲各問年。",
+      "孤燈寒照雨，深竹暗浮煙。",
+      "更有明朝恨，離杯惜共傳。"
+    ],
+    "text": "故人江海别，几度隔山川。乍见翻疑梦，相悲各问年。孤灯寒照雨，深竹暗浮烟。更有明朝恨，离杯惜共传。",
+    "textTraditional": "故人江海別，幾度隔山川。乍見翻疑夢，相悲各問年。孤燈寒照雨，深竹暗浮煙。更有明朝恨，離杯惜共傳。",
+    "displayLines": [
+      "故人江海别，",
+      "几度隔山川。",
+      "乍见翻疑梦，",
+      "相悲各问年。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "度",
+          "dù"
+        ],
+        [
+          "隔",
+          "gé"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "川",
+          "chuān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "乍",
+          "zhà"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "翻",
+          "fān"
+        ],
+        [
+          "疑",
+          "yí"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "悲",
+          "bēi"
+        ],
+        [
+          "各",
+          "gè"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "灯",
+          "dēng"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "照",
+          "zhào"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "竹",
+          "zhú"
+        ],
+        [
+          "暗",
+          "àn"
+        ],
+        [
+          "浮",
+          "fú"
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "更",
+          "gèng"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "恨",
+          "hèn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "离",
+          "lí"
+        ],
+        [
+          "杯",
+          "bēi"
+        ],
+        [
+          "惜",
+          "xī"
+        ],
+        [
+          "共",
+          "gòng"
+        ],
+        [
+          "传",
+          "chuán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "故",
+          "gù"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "海",
+          "hǎi"
+        ],
+        [
+          "别",
+          "bié"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "几",
+          "jǐ"
+        ],
+        [
+          "度",
+          "dù"
+        ],
+        [
+          "隔",
+          "gé"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "川",
+          "chuān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "乍",
+          "zhà"
+        ],
+        [
+          "见",
+          "jiàn"
+        ],
+        [
+          "翻",
+          "fān"
+        ],
+        [
+          "疑",
+          "yí"
+        ],
+        [
+          "梦",
+          "mèng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "悲",
+          "bēi"
+        ],
+        [
+          "各",
+          "gè"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "年",
+          "nián"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "灯",
+          "dēng"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "照",
+          "zhào"
+        ],
+        [
+          "雨",
+          "yǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "深",
+          "shēn"
+        ],
+        [
+          "竹",
+          "zhú"
+        ],
+        [
+          "暗",
+          "àn"
+        ],
+        [
+          "浮",
+          "fú"
+        ],
+        [
+          "烟",
+          "yān"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "更",
+          "gèng"
+        ],
+        [
+          "有",
+          "yǒu"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "朝",
+          "cháo"
+        ],
+        [
+          "恨",
+          "hèn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "离",
+          "lí"
+        ],
+        [
+          "杯",
+          "bēi"
+        ],
+        [
+          "惜",
+          "xī"
+        ],
+        [
+          "共",
+          "gòng"
+        ],
+        [
+          "传",
+          "chuán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言律诗",
+      "友情",
+      "惜别"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseSikongShuAFAREWELLTOHANSHENATTHEYUNYANGINN",
+      "translationRaw": "Longdividedbyriverandsea，Foryearswetwohavefailedtomeet--Andsuddenlytofindyouseemslikeadream。。。。Withacatchinthethroat，weaskhowoldweare。。。。Oursinglelampshines，throughcoldandwet，Onabamboo-thicketsheathedinrain；Butforgettingthesadnessthatwillcomewithtomorrow，Letussharethecomfortofthisfarewellwine。",
+      "translationClean": "Longdividedbyriverandsea, Foryearswetwohavefailedtomeet--Andsuddenlytofindyouseemslikeadream.... Withacatchinthethroat, weaskhowoldweare.... Oursinglelampshines, throughcoldandwet, Onabamboo-thicketsheathedinrain; Butforgettingthesadnessthatwillcomewithtomorrow, Letussharethecomfortofthisfarewellwine.",
+      "segments": [
+        "Longdividedbyriverandsea, Foryearswetwohavefailedtomeet--Andsuddenlytofindyouseemslikeadream....",
+        "Withacatchinthethroat, weaskhowoldweare....",
+        "Oursinglelampshines, throughcoldandwet, Onabamboo-thicketsheathedinrain;",
+        "Butforgettingthesadnessthatwillcomewithtomorrow, Letussharethecomfortofthisfarewellwine."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 289,
+        "title": "云阳馆与韩绅宿别",
+        "author": "司空曙"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 147,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 244,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "3138fe30-6cf6-45b0-a441-2d5398107a9a",
+        "score": 0.975
+      }
+    }
+  }
+}

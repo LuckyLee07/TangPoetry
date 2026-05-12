@@ -1,0 +1,698 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-006-yue-xia-du-zhuo",
+    "order": 6,
+    "section": "五言古诗",
+    "title": "月下独酌",
+    "titleTraditional": "月下獨酌",
+    "author": "李白",
+    "authorTraditional": "李白",
+    "dynasty": "唐代",
+    "aliases": [
+      "月下独酌四首·其一",
+      "月下独酌"
+    ],
+    "lines": [
+      "花间一壶酒，独酌无相亲；",
+      "举杯邀明月，对影成三人。",
+      "月既不解饮，影徒随我身；",
+      "暂伴月将影，行乐须及春。",
+      "我歌月徘徊，我舞影零乱；",
+      "醒时同交欢，醉后各分散。",
+      "永结无情游，相期邈云汉。"
+    ],
+    "linesTraditional": [
+      "花間一壺酒，獨酌無相親；",
+      "舉杯邀明月，對影成三人。",
+      "月既不解飲，影徒隨我身；",
+      "暫伴月將影，行樂須及春。",
+      "我歌月徘徊，我舞影零亂；",
+      "醒時同交歡，醉後各分散。",
+      "永結無情遊，相期邈雲漢。"
+    ],
+    "text": "花间一壶酒，独酌无相亲；举杯邀明月，对影成三人。月既不解饮，影徒随我身；暂伴月将影，行乐须及春。我歌月徘徊，我舞影零乱；醒时同交欢，醉后各分散。永结无情游，相期邈云汉。",
+    "textTraditional": "花間一壺酒，獨酌無相親；舉杯邀明月，對影成三人。月既不解飲，影徒隨我身；暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂；醒時同交歡，醉後各分散。永結無情遊，相期邈雲漢。",
+    "displayLines": [
+      "花间一壶酒，",
+      "独酌无相亲；",
+      "举杯邀明月，",
+      "对影成三人。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "间",
+          "jiān"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "壶",
+          "hú"
+        ],
+        [
+          "酒",
+          "jiǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "酌",
+          "zhuó"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "亲",
+          "qīn"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "举",
+          "jǔ"
+        ],
+        [
+          "杯",
+          "bēi"
+        ],
+        [
+          "邀",
+          "yāo"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "对",
+          "duì"
+        ],
+        [
+          "影",
+          "yǐng"
+        ],
+        [
+          "成",
+          "chéng"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "既",
+          "jì"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "解",
+          "jiě"
+        ],
+        [
+          "饮",
+          "yǐn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "影",
+          "yǐng"
+        ],
+        [
+          "徒",
+          "tú"
+        ],
+        [
+          "随",
+          "suí"
+        ],
+        [
+          "我",
+          "wǒ"
+        ],
+        [
+          "身",
+          "shēn"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "暂",
+          "zàn"
+        ],
+        [
+          "伴",
+          "bàn"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "将",
+          "jiāng"
+        ],
+        [
+          "影",
+          "yǐng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "乐",
+          "lè"
+        ],
+        [
+          "须",
+          "xū"
+        ],
+        [
+          "及",
+          "jí"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "间",
+          "jiān"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "壶",
+          "hú"
+        ],
+        [
+          "酒",
+          "jiǔ"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "酌",
+          "zhuó"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "亲",
+          "qīn"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "举",
+          "jǔ"
+        ],
+        [
+          "杯",
+          "bēi"
+        ],
+        [
+          "邀",
+          "yāo"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "对",
+          "duì"
+        ],
+        [
+          "影",
+          "yǐng"
+        ],
+        [
+          "成",
+          "chéng"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "既",
+          "jì"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "解",
+          "jiě"
+        ],
+        [
+          "饮",
+          "yǐn"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "影",
+          "yǐng"
+        ],
+        [
+          "徒",
+          "tú"
+        ],
+        [
+          "随",
+          "suí"
+        ],
+        [
+          "我",
+          "wǒ"
+        ],
+        [
+          "身",
+          "shēn"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "暂",
+          "zàn"
+        ],
+        [
+          "伴",
+          "bàn"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "将",
+          "jiāng"
+        ],
+        [
+          "影",
+          "yǐng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "行",
+          "xíng"
+        ],
+        [
+          "乐",
+          "lè"
+        ],
+        [
+          "须",
+          "xū"
+        ],
+        [
+          "及",
+          "jí"
+        ],
+        [
+          "春",
+          "chūn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "我",
+          "wǒ"
+        ],
+        [
+          "歌",
+          "gē"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "徘",
+          "pái"
+        ],
+        [
+          "徊",
+          "huái"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "我",
+          "wǒ"
+        ],
+        [
+          "舞",
+          "wǔ"
+        ],
+        [
+          "影",
+          "yǐng"
+        ],
+        [
+          "零",
+          "líng"
+        ],
+        [
+          "乱",
+          "luàn"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "醒",
+          "xǐng"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "同",
+          "tóng"
+        ],
+        [
+          "交",
+          "jiāo"
+        ],
+        [
+          "欢",
+          "huān"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "醉",
+          "zuì"
+        ],
+        [
+          "后",
+          "hòu"
+        ],
+        [
+          "各",
+          "gè"
+        ],
+        [
+          "分",
+          "fēn"
+        ],
+        [
+          "散",
+          "sàn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "永",
+          "yǒng"
+        ],
+        [
+          "结",
+          "jié"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "游",
+          "yóu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "相",
+          "xiāng"
+        ],
+        [
+          "期",
+          "qī"
+        ],
+        [
+          "邈",
+          "miǎo"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "同交欢--一作 ：相交欢"
+      },
+      {
+        "source": "chiuinan",
+        "text": "1.邈：音\"秒\"，远、轻视。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.云汉：天河。"
+      }
+    ],
+    "tags": [
+      "五言古诗",
+      "孤独",
+      "景中情",
+      "抒情",
+      "中秋",
+      "初中古诗",
+      "月下",
+      "饮酒",
+      "九年级下册(课外)"
+    ],
+    "english": {
+      "headingRaw": "Five-character-ancient-verseLiBaiDRINKINGALONEWITHTHEMOON",
+      "translationRaw": "FromapotofwineamongtheflowersIdrankalone。Therewasnoonewithme--Till，raisingmycup，IaskedthebrightmoonTobringmemyshadowandmakeusthree。Alas，themoonwasunabletodrinkAndmyshadowtaggedmevacantly；ButstillforawhileIhadthesefriendsTocheermethroughtheendofspring。。。。Isang。Themoonencouragedme。Idanced。Myshadowtumbledafter。AslongasIknew，wewerebooncompanions。AndthenIwasdrunk，andwelostoneanother。。。。Shallgoodwilleverbesecure？IwatchthelongroadoftheRiverofStars。",
+      "translationClean": "FromapotofwineamongtheflowersIdrankalone. Therewasnoonewithme--Till, raisingmycup, IaskedthebrightmoonTobringmemyshadowandmakeusthree. Alas, themoonwasunabletodrinkAndmyshadowtaggedmevacantly; ButstillforawhileIhadthesefriendsTocheermethroughtheendofspring.... Isang. Themoonencouragedme. Idanced. Myshadowtumbledafter. AslongasIknew, wewerebooncompanions. AndthenIwasdrunk, andwelostoneanother.... Shallgoodwilleverbesecure? IwatchthelongroadoftheRiverofStars.",
+      "segments": [
+        "FromapotofwineamongtheflowersIdrankalone.",
+        "Therewasnoonewithme--Till, raisingmycup, IaskedthebrightmoonTobringmemyshadowandmakeusthree.",
+        "Alas, themoonwasunabletodrinkAndmyshadowtaggedmevacantly;",
+        "ButstillforawhileIhadthesefriendsTocheermethroughtheendofspring....",
+        "Isang.",
+        "Themoonencouragedme.",
+        "Idanced.",
+        "Myshadowtumbledafter.",
+        "AslongasIknew, wewerebooncompanions.",
+        "AndthenIwasdrunk, andwelostoneanother....",
+        "Shallgoodwilleverbesecure?",
+        "IwatchthelongroadoftheRiverofStars."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 62,
+        "title": "月下独酌四首·其一",
+        "author": "李白"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9811
+      },
+      "ctext": {
+        "matched": true,
+        "order": 6,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 6,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "83e70b6e-ff59-4a3b-8e81-249ab0cda0c3",
+        "score": 0.9714
+      }
+    },
+    "visual": {
+      "image": "assets/illustrations-wuyan-gushi/006-tang-006-yue-xia-du-zhuo.png",
+      "coreImagery": [
+        "花间酒",
+        "明月",
+        "身影",
+        "独酌"
+      ],
+      "mood": [
+        "孤独",
+        "旷达",
+        "微醺"
+      ],
+      "palette": [
+        "月白",
+        "花粉",
+        "酒金",
+        "夜青"
+      ],
+      "composition": "花影低垂，一壶酒置于月下，人物与影子相对而坐。",
+      "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+      "prompt": "月下独酌，李白。核心意象：花间酒、明月、身影、独酌；情绪：孤独、旷达、微醺。花影低垂，一壶酒置于月下，人物与影子相对而坐。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+      "generatedAt": "2026-05-10T15:05:28+00:00",
+      "generator": "procedural-watercolor"
+    }
+  }
+}

@@ -1,0 +1,491 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-169-xun-lu-hong-jian-bu-yu",
+    "order": 169,
+    "section": "五言律诗",
+    "title": "寻陆鸿渐不遇",
+    "titleTraditional": "尋陸鴻漸不遇",
+    "author": "僧皎然",
+    "authorTraditional": "僧皎然",
+    "dynasty": "唐代",
+    "aliases": [
+      "寻陆鸿渐不遇"
+    ],
+    "lines": [
+      "移家虽带郭，野径入桑麻。",
+      "近种篱边菊，秋来未著花。",
+      "扣门无犬吠，欲去问西家。",
+      "报到山中去，归来每日斜。"
+    ],
+    "linesTraditional": [
+      "移家雖帶郭，野徑入桑麻。",
+      "近種籬邊菊，秋來未著花。",
+      "扣門無犬吠，欲去問西家。",
+      "報到山中去，歸來每日斜。"
+    ],
+    "text": "移家虽带郭，野径入桑麻。近种篱边菊，秋来未著花。扣门无犬吠，欲去问西家。报到山中去，归来每日斜。",
+    "textTraditional": "移家雖帶郭，野徑入桑麻。近種籬邊菊，秋來未著花。扣門無犬吠，欲去問西家。報到山中去，歸來每日斜。",
+    "displayLines": [
+      "移家虽带郭，",
+      "野径入桑麻。",
+      "近种篱边菊，",
+      "秋来未著花。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "移",
+          "yí"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "虽",
+          "suī"
+        ],
+        [
+          "带",
+          "dài"
+        ],
+        [
+          "郭",
+          "guō"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "野",
+          "yě"
+        ],
+        [
+          "径",
+          "jìng"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "桑",
+          "sāng"
+        ],
+        [
+          "麻",
+          "má"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "近",
+          "jìn"
+        ],
+        [
+          "种",
+          "zhǒng"
+        ],
+        [
+          "篱",
+          "lí"
+        ],
+        [
+          "边",
+          "biān"
+        ],
+        [
+          "菊",
+          "jú"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "著",
+          "zhù"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "扣",
+          "kòu"
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "犬",
+          "quǎn"
+        ],
+        [
+          "吠",
+          "fèi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "报",
+          "bào"
+        ],
+        [
+          "到",
+          "dào"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "每",
+          "měi"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "斜",
+          "xié"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "移",
+          "yí"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "虽",
+          "suī"
+        ],
+        [
+          "带",
+          "dài"
+        ],
+        [
+          "郭",
+          "guō"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "野",
+          "yě"
+        ],
+        [
+          "径",
+          "jìng"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "桑",
+          "sāng"
+        ],
+        [
+          "麻",
+          "má"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "近",
+          "jìn"
+        ],
+        [
+          "种",
+          "zhǒng"
+        ],
+        [
+          "篱",
+          "lí"
+        ],
+        [
+          "边",
+          "biān"
+        ],
+        [
+          "菊",
+          "jú"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "著",
+          "zhù"
+        ],
+        [
+          "花",
+          "huā"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "扣",
+          "kòu"
+        ],
+        [
+          "门",
+          "mén"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "犬",
+          "quǎn"
+        ],
+        [
+          "吠",
+          "fèi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "欲",
+          "yù"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "问",
+          "wèn"
+        ],
+        [
+          "西",
+          "xī"
+        ],
+        [
+          "家",
+          "jiā"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "报",
+          "bào"
+        ],
+        [
+          "到",
+          "dào"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "中",
+          "zhōng"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "每",
+          "měi"
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "斜",
+          "xié"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言律诗",
+      "隐士",
+      "访友",
+      "生活"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseSengJiaoranNOTFINDINGLUHONGXIANATHOME",
+      "translationRaw": "Tofindyou，movedbeyondthecity，Awidepathledme，bymulberryandhemp，Toanew-sethedgeofchrysanthemums--Notyetbloomingalthoughautumnhadcome。。。。Iknocked；noanswer，notevenadog。Iwaitedtoaskyourwesternneighbour；Buthetoldmethatdailyyouclimbthemountain，Neverreturninguntilsunset。",
+      "translationClean": "Tofindyou, movedbeyondthecity, Awidepathledme, bymulberryandhemp, Toanew-sethedgeofchrysanthemums--Notyetbloomingalthoughautumnhadcome.... Iknocked; noanswer, notevenadog. Iwaitedtoaskyourwesternneighbour; Buthetoldmethatdailyyouclimbthemountain, Neverreturninguntilsunset.",
+      "segments": [
+        "Tofindyou, movedbeyondthecity, Awidepathledme, bymulberryandhemp, Toanew-sethedgeofchrysanthemums--Notyetbloomingalthoughautumnhadcome....",
+        "Iknocked;",
+        "noanswer, notevenadog.",
+        "Iwaitedtoaskyourwesternneighbour;",
+        "Buthetoldmethatdailyyouclimbthemountain, Neverreturninguntilsunset."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 156,
+        "title": "寻陆鸿渐不遇",
+        "author": "皎然"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.961
+      },
+      "ctext": {
+        "matched": true,
+        "order": 169,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 266,
+        "score": 0.975,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "565d931a-ff49-4f37-b633-524b48c2f4f0",
+        "score": 1
+      }
+    }
+  }
+}

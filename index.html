@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>唐诗三百首</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="reader" data-home="true" aria-label="唐诗三百首">
+      <section class="home-screen" id="homeScreen" aria-label="唐诗三百首首页">
+        <div class="home-art" aria-hidden="true">
+          <img class="home-art-main" src="./assets/illustrations-portrait/song-yuan-er.png" alt="" />
+          <img class="home-art-side home-art-top" src="./assets/illustrations-portrait/lu-zhai.png" alt="" />
+          <img class="home-art-side home-art-bottom" src="./assets/illustrations-portrait/jing-ye-si.png" alt="" />
+        </div>
+        <div class="home-copy">
+          <span class="home-kicker">孙洙选本</span>
+          <h1>唐诗三百首</h1>
+          <p>熟读唐诗三百首，不会作诗也会吟。</p>
+        </div>
+        <div class="home-meta">
+          <span id="homeCount">三百首</span>
+          <span>按原书顺序</span>
+          <span>诗画笺读</span>
+        </div>
+        <div class="home-actions">
+          <button class="home-primary" id="startReading">入卷</button>
+          <button class="home-secondary" id="homeLibrary">目录</button>
+          <button class="home-secondary" id="homeFeatured">精选</button>
+        </div>
+      </section>
+
+      <div class="topbar" data-visible="false">
+        <button class="icon-button" id="openLibrary" aria-label="目录">目</button>
+        <div class="book-title">唐诗三百首</div>
+        <div class="top-actions">
+          <button class="text-pill" id="featuredButton" aria-label="精选">精选</button>
+          <button class="icon-button seal-button" id="favoriteButton" aria-label="收藏">印</button>
+        </div>
+      </div>
+
+      <section class="pages" id="pages" aria-live="polite"></section>
+      <div class="page-dots" id="pageDots" aria-hidden="true"></div>
+
+      <div class="bottombar" data-visible="false">
+        <button class="text-button" id="togglePinyin">拼音</button>
+        <span class="page-mark" id="pageMark">1 / 5</span>
+        <button class="text-button" id="toggleNotes">简注</button>
+      </div>
+
+      <aside class="library" id="library" aria-hidden="true">
+        <div class="library-panel">
+          <div class="library-head">
+            <div>
+              <span class="library-kicker">诗笺目录</span>
+              <h1>一页一诗</h1>
+            </div>
+            <button class="icon-button" id="closeLibrary" aria-label="关闭">×</button>
+          </div>
+          <div class="category-row" aria-label="分类">
+            <button data-theme="all" class="active">全部</button>
+            <button data-theme="思乡">思乡</button>
+            <button data-theme="山水">山水</button>
+            <button data-theme="春日">春日</button>
+            <button data-theme="送别">送别</button>
+          </div>
+          <div class="poem-list" id="poemList"></div>
+        </div>
+      </aside>
+    </main>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

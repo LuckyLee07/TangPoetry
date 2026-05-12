@@ -1,0 +1,561 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-003-gan-yu-qi-san",
+    "order": 3,
+    "section": "五言古诗",
+    "title": "感遇其三",
+    "titleTraditional": "感遇其三",
+    "author": "张九龄",
+    "authorTraditional": "張九齡",
+    "dynasty": "唐代",
+    "aliases": [
+      "感遇十二首·其二",
+      "感遇其三"
+    ],
+    "lines": [
+      "幽人归独卧，滞虑洗孤清，持此谢高鸟，因之传远情。",
+      "日夕怀空意，人谁感至精？",
+      "飞沈理自隔，何所慰吾诚？"
+    ],
+    "linesTraditional": [
+      "幽人歸獨臥，滯慮洗孤清，持此謝高鳥，因之傳遠情。",
+      "日夕懷空意，人誰感至精？",
+      "飛沈理自隔，何所慰吾誠？"
+    ],
+    "text": "幽人归独卧，滞虑洗孤清，持此谢高鸟，因之传远情。日夕怀空意，人谁感至精？飞沈理自隔，何所慰吾诚？",
+    "textTraditional": "幽人歸獨臥，滯慮洗孤清，持此謝高鳥，因之傳遠情。日夕懷空意，人誰感至精？飛沈理自隔，何所慰吾誠？",
+    "displayLines": [
+      "幽人归独卧，",
+      "滞虑洗孤清，",
+      "持此谢高鸟，",
+      "因之传远情。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "幽",
+          "yōu"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "卧",
+          "wò"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "滞",
+          "zhì"
+        ],
+        [
+          "虑",
+          "lǜ"
+        ],
+        [
+          "洗",
+          "xǐ"
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "持",
+          "chí"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "谢",
+          "xiè"
+        ],
+        [
+          "高",
+          "gāo"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "因",
+          "yīn"
+        ],
+        [
+          "之",
+          "zhī"
+        ],
+        [
+          "传",
+          "chuán"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "夕",
+          "xī"
+        ],
+        [
+          "怀",
+          "huái"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "意",
+          "yì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "谁",
+          "shuí"
+        ],
+        [
+          "感",
+          "gǎn"
+        ],
+        [
+          "至",
+          "zhì"
+        ],
+        [
+          "精",
+          "jīng"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "沈",
+          "shěn"
+        ],
+        [
+          "理",
+          "lǐ"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "隔",
+          "gé"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "所",
+          "suǒ"
+        ],
+        [
+          "慰",
+          "wèi"
+        ],
+        [
+          "吾",
+          "wú"
+        ],
+        [
+          "诚",
+          "chéng"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "幽",
+          "yōu"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "卧",
+          "wò"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "滞",
+          "zhì"
+        ],
+        [
+          "虑",
+          "lǜ"
+        ],
+        [
+          "洗",
+          "xǐ"
+        ],
+        [
+          "孤",
+          "gū"
+        ],
+        [
+          "清",
+          "qīng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "持",
+          "chí"
+        ],
+        [
+          "此",
+          "cǐ"
+        ],
+        [
+          "谢",
+          "xiè"
+        ],
+        [
+          "高",
+          "gāo"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "因",
+          "yīn"
+        ],
+        [
+          "之",
+          "zhī"
+        ],
+        [
+          "传",
+          "chuán"
+        ],
+        [
+          "远",
+          "yuǎn"
+        ],
+        [
+          "情",
+          "qíng"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "夕",
+          "xī"
+        ],
+        [
+          "怀",
+          "huái"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "意",
+          "yì"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "谁",
+          "shuí"
+        ],
+        [
+          "感",
+          "gǎn"
+        ],
+        [
+          "至",
+          "zhì"
+        ],
+        [
+          "精",
+          "jīng"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "飞",
+          "fēi"
+        ],
+        [
+          "沈",
+          "shěn"
+        ],
+        [
+          "理",
+          "lǐ"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "隔",
+          "gé"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "所",
+          "suǒ"
+        ],
+        [
+          "慰",
+          "wèi"
+        ],
+        [
+          "吾",
+          "wú"
+        ],
+        [
+          "诚",
+          "chéng"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.高鸟：喻高位之人。"
+      }
+    ],
+    "tags": [
+      "五言古诗",
+      "寓人",
+      "哲理",
+      "写鸟",
+      "寓言",
+      "鸟"
+    ],
+    "english": {
+      "headingRaw": "Five-character-ancient-verseZhangJiulingTHOUGHTSIII",
+      "translationRaw": "ThehermitinhisloneabodeNurseshisthoughtscleansedofcare，ThemheprojectstothewildgooseForittohisdistantSovereigntobear。WhowillbemovedbythesincerityOfmyvainday-and-nightprayer？WhatcomfortisformyloyaltyWhenfliersandsinkerscancompare？",
+      "translationClean": "ThehermitinhisloneabodeNurseshisthoughtscleansedofcare, ThemheprojectstothewildgooseForittohisdistantSovereigntobear. WhowillbemovedbythesincerityOfmyvainday-and-nightprayer? WhatcomfortisformyloyaltyWhenfliersandsinkerscancompare?",
+      "segments": [
+        "ThehermitinhisloneabodeNurseshisthoughtscleansedofcare, ThemheprojectstothewildgooseForittohisdistantSovereigntobear.",
+        "WhowillbemovedbythesincerityOfmyvainday-and-nightprayer?",
+        "WhatcomfortisformyloyaltyWhenfliersandsinkerscancompare?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 127,
+        "title": "感遇十二首·其二",
+        "author": "张九龄"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9227
+      },
+      "ctext": {
+        "matched": true,
+        "order": 3,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 3,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "6df38a77-6e5d-43ae-a115-7de36475f53e",
+        "score": 0.975
+      }
+    },
+    "visual": {
+      "image": "assets/illustrations-wuyan-gushi/003-tang-003-gan-yu-qi-san-feng-v1.png",
+      "coreImagery": [
+        "幽人",
+        "独卧",
+        "高鸟",
+        "远情",
+        "孤清"
+      ],
+      "mood": [
+        "孤清",
+        "自省",
+        "诚意无慰",
+        "不遇",
+        "清醒"
+      ],
+      "palette": [
+        "米色纸面",
+        "淡墨",
+        "灰蓝",
+        "苔绿",
+        "浅赭"
+      ],
+      "composition": "幽人处于画面下方小室或低榻旁，高鸟飞在上方空白里，中部留出大片未被回应的距离。",
+      "style": "民国诗意线描，稀疏墨线，淡彩，米色纸面，大面积留白，温厚含蓄，适合诗文叠加",
+      "prompt": "民国诗意线描插图，唐诗《感遇其三》意境：画面下方一个幽人独坐或独卧在简朴小室旁，心境洗净而孤清；上方空白天空里一只高鸟远飞，人与鸟之间留出大片距离。线条稀疏、温厚、克制，淡彩点染，表达孤清、自省、诚意无慰。不要文字、印章、现代建筑、写实摄影、宏大山水。",
+      "generatedAt": "2026-05-10T15:05:28+00:00",
+      "generator": "procedural-watercolor",
+      "assetVersion": "feng-v1",
+      "visualStyle": "民国诗意线描；丰子恺启发的温厚留白小品，不复刻具体作品",
+      "assetSource": "imagegen built-in; copied from generated preview into project assets",
+      "assetUpdatedAt": "2026-05-12T02:15:26+00:00",
+      "illustrationBrief": {
+        "updatedAt": "2026-05-12T02:15:26+00:00",
+        "themeStatement": "以幽人自况，写孤清之心无人感应，高鸟与幽人飞沉相隔，真诚无从传达。",
+        "keywords": {
+          "coreImagery": [
+            "幽人",
+            "独卧",
+            "高鸟",
+            "远情",
+            "孤清"
+          ],
+          "emotionalTone": [
+            "孤清",
+            "自省",
+            "诚意无慰",
+            "不遇",
+            "清醒"
+          ],
+          "atmosphere": [
+            "米色纸面",
+            "淡墨",
+            "灰蓝",
+            "苔绿",
+            "浅赭"
+          ]
+        },
+        "composition": "幽人处于画面下方小室或低榻旁，高鸟飞在上方空白里，中部留出大片未被回应的距离。",
+        "stylePrompt": "民国诗意线描，稀疏墨线，淡彩，米色纸面，大面积留白，温厚含蓄，适合诗文叠加",
+        "generationPrompt": "民国诗意线描插图，唐诗《感遇其三》意境：画面下方一个幽人独坐或独卧在简朴小室旁，心境洗净而孤清；上方空白天空里一只高鸟远飞，人与鸟之间留出大片距离。线条稀疏、温厚、克制，淡彩点染，表达孤清、自省、诚意无慰。不要文字、印章、现代建筑、写实摄影、宏大山水。",
+        "avoid": [
+          "文字",
+          "印章",
+          "现代建筑",
+          "写实摄影",
+          "拥挤构图"
+        ]
+      }
+    }
+  }
+}

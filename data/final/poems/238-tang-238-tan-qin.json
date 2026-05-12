@@ -1,0 +1,292 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-238-tan-qin",
+    "order": 238,
+    "section": "五言绝句",
+    "title": "弹琴",
+    "titleTraditional": "彈琴",
+    "author": "刘长卿",
+    "authorTraditional": "劉長卿",
+    "dynasty": "唐代",
+    "aliases": [
+      "听弹琴",
+      "弹琴"
+    ],
+    "lines": [
+      "泠泠七弦上，静听松风寒。",
+      "古调虽自爱，今人多不弹。"
+    ],
+    "linesTraditional": [
+      "泠泠七絃上，靜聽松風寒。",
+      "古調雖自愛，今人多不彈。"
+    ],
+    "text": "泠泠七弦上，静听松风寒。古调虽自爱，今人多不弹。",
+    "textTraditional": "泠泠七絃上，靜聽松風寒。古調雖自愛，今人多不彈。",
+    "displayLines": [
+      "泠泠七弦上，",
+      "静听松风寒。",
+      "古调虽自爱，",
+      "今人多不弹。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "泠",
+          "líng"
+        ],
+        [
+          "泠",
+          "líng"
+        ],
+        [
+          "七",
+          "qī"
+        ],
+        [
+          "弦",
+          "xián"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "静",
+          "jìng"
+        ],
+        [
+          "听",
+          "tīng"
+        ],
+        [
+          "松",
+          "sōng"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "调",
+          "diào"
+        ],
+        [
+          "虽",
+          "suī"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "爱",
+          "ài"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "多",
+          "duō"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "弹",
+          "dàn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "泠",
+          "líng"
+        ],
+        [
+          "泠",
+          "líng"
+        ],
+        [
+          "七",
+          "qī"
+        ],
+        [
+          "弦",
+          "xián"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "静",
+          "jìng"
+        ],
+        [
+          "听",
+          "tīng"
+        ],
+        [
+          "松",
+          "sōng"
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "寒",
+          "hán"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "古",
+          "gǔ"
+        ],
+        [
+          "调",
+          "diào"
+        ],
+        [
+          "虽",
+          "suī"
+        ],
+        [
+          "自",
+          "zì"
+        ],
+        [
+          "爱",
+          "ài"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "今",
+          "jīn"
+        ],
+        [
+          "人",
+          "rén"
+        ],
+        [
+          "多",
+          "duō"
+        ],
+        [
+          "不",
+          "bù"
+        ],
+        [
+          "弹",
+          "dàn"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "七弦--一作 ：七丝"
+      },
+      {
+        "source": "chiuinan",
+        "text": "1.泠泠：音玲玲，清越之声。"
+      }
+    ],
+    "tags": [
+      "五言绝句",
+      "抒情",
+      "音乐"
+    ],
+    "english": {
+      "headingRaw": "Five-character-quatrainLiuChangqingONHEARINGALUTE-PLAYER",
+      "translationRaw": "YoursevenstringsarelikethevoiceOfacoldwindinthepines，SingingoldbelovedsongsWhichnoonecaresforanymore。",
+      "translationClean": "YoursevenstringsarelikethevoiceOfacoldwindinthepines, SingingoldbelovedsongsWhichnoonecaresforanymore.",
+      "segments": [
+        "YoursevenstringsarelikethevoiceOfacoldwindinthepines, SingingoldbelovedsongsWhichnoonecaresforanymore."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 158,
+        "title": "听弹琴",
+        "author": "刘长卿"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.966
+      },
+      "ctext": {
+        "matched": true,
+        "order": 238,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 105,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "72aab9ef-65a9-4a8a-b36b-61932c09ce85",
+        "score": 0.95
+      }
+    }
+  }
+}

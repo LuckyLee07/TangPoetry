@@ -1,0 +1,516 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-036-sai-shang-qu",
+    "order": 36,
+    "section": "乐府",
+    "title": "塞上曲",
+    "titleTraditional": "塞上曲",
+    "author": "王昌龄",
+    "authorTraditional": "王昌齡",
+    "dynasty": "唐代",
+    "aliases": [
+      "塞上曲·其一",
+      "塞上曲"
+    ],
+    "lines": [
+      "蝉鸣空桑林，八月萧关道；",
+      "出塞复入塞，处处黄芦草。",
+      "从来幽并客，皆向沙场老；",
+      "莫学游侠儿，矜夸紫骝好。",
+      "又作共尘沙"
+    ],
+    "linesTraditional": [
+      "蟬鳴空桑林，八月蕭關道；",
+      "出塞復入塞，處處黃蘆草。",
+      "從來幽並客，皆向沙場老；",
+      "莫學遊俠兒，矜誇紫騮好。",
+      "又作共塵沙"
+    ],
+    "text": "蝉鸣空桑林，八月萧关道；出塞复入塞，处处黄芦草。从来幽并客，皆向沙场老；莫学游侠儿，矜夸紫骝好。又作共尘沙",
+    "textTraditional": "蟬鳴空桑林，八月蕭關道；出塞復入塞，處處黃蘆草。從來幽並客，皆向沙場老；莫學遊俠兒，矜誇紫騮好。又作共塵沙",
+    "displayLines": [
+      "蝉鸣空桑林，",
+      "八月萧关道；",
+      "出塞复入塞，",
+      "处处黄芦草。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "蝉",
+          "chán"
+        ],
+        [
+          "鸣",
+          "míng"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "桑",
+          "sāng"
+        ],
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "八",
+          "bā"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "萧",
+          "xiāo"
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "道",
+          "dào"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "出",
+          "chū"
+        ],
+        [
+          "塞",
+          "sài"
+        ],
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "塞",
+          "sāi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "芦",
+          "lú"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "从",
+          "cóng"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "幽",
+          "yōu"
+        ],
+        [
+          "并",
+          "bìng"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "皆",
+          "jiē"
+        ],
+        [
+          "向",
+          "xiàng"
+        ],
+        [
+          "沙",
+          "shā"
+        ],
+        [
+          "场",
+          "chǎng"
+        ],
+        [
+          "老",
+          "lǎo"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "莫",
+          "mò"
+        ],
+        [
+          "学",
+          "xué"
+        ],
+        [
+          "游",
+          "yóu"
+        ],
+        [
+          "侠",
+          "xiá"
+        ],
+        [
+          "儿",
+          "ér"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "矜",
+          "jīn"
+        ],
+        [
+          "夸",
+          "kuā"
+        ],
+        [
+          "紫",
+          "zǐ"
+        ],
+        [
+          "骝",
+          "liú"
+        ],
+        [
+          "好",
+          "hǎo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "蝉",
+          "chán"
+        ],
+        [
+          "鸣",
+          "míng"
+        ],
+        [
+          "空",
+          "kōng"
+        ],
+        [
+          "桑",
+          "sāng"
+        ],
+        [
+          "林",
+          "lín"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "八",
+          "bā"
+        ],
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "萧",
+          "xiāo"
+        ],
+        [
+          "关",
+          "guān"
+        ],
+        [
+          "道",
+          "dào"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "出",
+          "chū"
+        ],
+        [
+          "塞",
+          "sài"
+        ],
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "塞",
+          "sāi"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "处",
+          "chù"
+        ],
+        [
+          "黄",
+          "huáng"
+        ],
+        [
+          "芦",
+          "lú"
+        ],
+        [
+          "草",
+          "cǎo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "从",
+          "cóng"
+        ],
+        [
+          "来",
+          "lái"
+        ],
+        [
+          "幽",
+          "yōu"
+        ],
+        [
+          "并",
+          "bìng"
+        ],
+        [
+          "客",
+          "kè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "皆",
+          "jiē"
+        ],
+        [
+          "向",
+          "xiàng"
+        ],
+        [
+          "沙",
+          "shā"
+        ],
+        [
+          "场",
+          "chǎng"
+        ],
+        [
+          "老",
+          "lǎo"
+        ],
+        [
+          "；",
+          ""
+        ]
+      ],
+      [
+        [
+          "莫",
+          "mò"
+        ],
+        [
+          "学",
+          "xué"
+        ],
+        [
+          "游",
+          "yóu"
+        ],
+        [
+          "侠",
+          "xiá"
+        ],
+        [
+          "儿",
+          "ér"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "矜",
+          "jīn"
+        ],
+        [
+          "夸",
+          "kuā"
+        ],
+        [
+          "紫",
+          "zǐ"
+        ],
+        [
+          "骝",
+          "liú"
+        ],
+        [
+          "好",
+          "hǎo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "又",
+          "yòu"
+        ],
+        [
+          "作",
+          "zuò"
+        ],
+        [
+          "共",
+          "gòng"
+        ],
+        [
+          "尘",
+          "chén"
+        ],
+        [
+          "沙",
+          "shā"
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "乐府",
+      "写景",
+      "游侠",
+      "讽刺",
+      "边塞",
+      "新乐府辞"
+    ],
+    "english": {
+      "headingRaw": "Folk-song-styled-verseWangChanglingATABORDER-FORTRESS",
+      "translationRaw": "Cicadascomplainofthinmulberry-treesIntheEighth-monthchillatthefrontierpass。Throughthegateandbackagain，allalongtheroad，ThereisnothinganywherebutyellowreedsandgrassesAndthebonesofsoldiersfromYouandfromBingWhohaveburiedtheirlivesinthedustysand。。。。LetneveracavalierstiryoutoenvyWithboastsofhishorseandhishorsemanship",
+      "translationClean": "Cicadascomplainofthinmulberry-treesIntheEighth-monthchillatthefrontierpass. Throughthegateandbackagain, allalongtheroad, ThereisnothinganywherebutyellowreedsandgrassesAndthebonesofsoldiersfromYouandfromBingWhohaveburiedtheirlivesinthedustysand.... LetneveracavalierstiryoutoenvyWithboastsofhishorseandhishorsemanship",
+      "segments": [
+        "Cicadascomplainofthinmulberry-treesIntheEighth-monthchillatthefrontierpass.",
+        "Throughthegateandbackagain, allalongtheroad, ThereisnothinganywherebutyellowreedsandgrassesAndthebonesofsoldiersfromYouandfromBingWhohaveburiedtheirlivesinthedustysand....",
+        "LetneveracavalierstiryoutoenvyWithboastsofhishorseandhishorsemanship"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 314,
+        "title": "塞上曲·其一",
+        "author": "王昌龄"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.9
+      },
+      "ctext": {
+        "matched": true,
+        "order": 36,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 36,
+        "score": 0.95,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "8d58a158-1a9b-4085-8ef7-b7b4e6adb66d",
+        "score": 0.975
+      }
+    }
+  }
+}

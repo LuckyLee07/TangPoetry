@@ -1,0 +1,508 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-008-wang-yue",
+    "order": 8,
+    "section": "五言古诗",
+    "title": "望岳",
+    "titleTraditional": "望嶽",
+    "author": "杜甫",
+    "authorTraditional": "杜甫",
+    "dynasty": "唐代",
+    "aliases": [
+      "望岳"
+    ],
+    "lines": [
+      "岱宗夫如何？",
+      "齐鲁青未了。",
+      "造化钟神秀，阴阳割昏晓。",
+      "荡胸生层云，决眦入归鸟。",
+      "会当凌绝顶，一览众山小。",
+      "又作岳"
+    ],
+    "linesTraditional": [
+      "岱宗夫如何？",
+      "齊魯青未了。",
+      "造化鍾神秀，陰陽割昏曉。",
+      "盪胸生層雲，決眥入歸鳥。",
+      "會當凌絕頂，一覽眾山小。",
+      "又作岳"
+    ],
+    "text": "岱宗夫如何？齐鲁青未了。造化钟神秀，阴阳割昏晓。荡胸生层云，决眦入归鸟。会当凌绝顶，一览众山小。又作岳",
+    "textTraditional": "岱宗夫如何？齊魯青未了。造化鍾神秀，陰陽割昏曉。盪胸生層雲，決眥入歸鳥。會當凌絕頂，一覽眾山小。又作岳",
+    "displayLines": [
+      "岱宗夫如何？",
+      "齐鲁青未了。",
+      "造化钟神秀，",
+      "阴阳割昏晓。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "岱",
+          "dài"
+        ],
+        [
+          "宗",
+          "zōng"
+        ],
+        [
+          "夫",
+          "fū"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "齐",
+          "qí"
+        ],
+        [
+          "鲁",
+          "lǔ"
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "了",
+          "liǎo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "造",
+          "zào"
+        ],
+        [
+          "化",
+          "huà"
+        ],
+        [
+          "钟",
+          "zhōng"
+        ],
+        [
+          "神",
+          "shén"
+        ],
+        [
+          "秀",
+          "xiù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "阴",
+          "yīn"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "割",
+          "gē"
+        ],
+        [
+          "昏",
+          "hūn"
+        ],
+        [
+          "晓",
+          "xiǎo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "荡",
+          "dàng"
+        ],
+        [
+          "胸",
+          "xiōng"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "层",
+          "céng"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "决",
+          "jué"
+        ],
+        [
+          "眦",
+          "zì"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "岱",
+          "dài"
+        ],
+        [
+          "宗",
+          "zōng"
+        ],
+        [
+          "夫",
+          "fū"
+        ],
+        [
+          "如",
+          "rú"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "？",
+          ""
+        ]
+      ],
+      [
+        [
+          "齐",
+          "qí"
+        ],
+        [
+          "鲁",
+          "lǔ"
+        ],
+        [
+          "青",
+          "qīng"
+        ],
+        [
+          "未",
+          "wèi"
+        ],
+        [
+          "了",
+          "liǎo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "造",
+          "zào"
+        ],
+        [
+          "化",
+          "huà"
+        ],
+        [
+          "钟",
+          "zhōng"
+        ],
+        [
+          "神",
+          "shén"
+        ],
+        [
+          "秀",
+          "xiù"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "阴",
+          "yīn"
+        ],
+        [
+          "阳",
+          "yáng"
+        ],
+        [
+          "割",
+          "gē"
+        ],
+        [
+          "昏",
+          "hūn"
+        ],
+        [
+          "晓",
+          "xiǎo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "荡",
+          "dàng"
+        ],
+        [
+          "胸",
+          "xiōng"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "层",
+          "céng"
+        ],
+        [
+          "云",
+          "yún"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "决",
+          "jué"
+        ],
+        [
+          "眦",
+          "zì"
+        ],
+        [
+          "入",
+          "rù"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "鸟",
+          "niǎo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "会",
+          "huì"
+        ],
+        [
+          "当",
+          "dāng"
+        ],
+        [
+          "凌",
+          "líng"
+        ],
+        [
+          "绝",
+          "jué"
+        ],
+        [
+          "顶",
+          "dǐng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "览",
+          "lǎn"
+        ],
+        [
+          "众",
+          "zhòng"
+        ],
+        [
+          "山",
+          "shān"
+        ],
+        [
+          "小",
+          "xiǎo"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "又",
+          "yòu"
+        ],
+        [
+          "作",
+          "zuò"
+        ],
+        [
+          "岳",
+          "yuè"
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "唐诗三百首.json",
+        "text": "曾--通 ：层"
+      },
+      {
+        "source": "chiuinan",
+        "text": "1.岳、岱宗：均指泰山。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.决眦：张开眼睛。眦，音\"自\"。"
+      }
+    ],
+    "tags": [
+      "五言古诗",
+      "泰山",
+      "励志",
+      "写景",
+      "初中古诗",
+      "山",
+      "哲理",
+      "八年级上册(课内)",
+      "写鸟",
+      "写山",
+      "描写山",
+      "鸟"
+    ],
+    "english": {
+      "headingRaw": "Five-character-ancient-verseDuFuAVIEWOFTAISHAN",
+      "translationRaw": "WhatshallIsayoftheGreatPeak？--Theancientdukedomsareeverywheregreen，Inspiredandstirredbythebreathofcreation，WiththeTwinForcesbalancingdayandnight。。。。Ibaremybreasttowardopeningclouds，Istrainmysightafterbirdsflyinghome。WhenshallIreachthetopandholdAllmountainsinasingleglance？",
+      "translationClean": "WhatshallIsayoftheGreatPeak? --Theancientdukedomsareeverywheregreen, Inspiredandstirredbythebreathofcreation, WiththeTwinForcesbalancingdayandnight.... Ibaremybreasttowardopeningclouds, Istrainmysightafterbirdsflyinghome. WhenshallIreachthetopandholdAllmountainsinasingleglance?",
+      "segments": [
+        "WhatshallIsayoftheGreatPeak?",
+        "--Theancientdukedomsareeverywheregreen, Inspiredandstirredbythebreathofcreation, WiththeTwinForcesbalancingdayandnight....",
+        "Ibaremybreasttowardopeningclouds, Istrainmysightafterbirdsflyinghome.",
+        "WhenshallIreachthetopandholdAllmountainsinasingleglance?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "唐诗三百首.json",
+        "index": 293,
+        "title": "望岳",
+        "author": "杜甫"
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "high",
+        "score": 0.953
+      },
+      "ctext": {
+        "matched": true,
+        "order": 8,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 8,
+        "score": 0.975,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "12fdaad8-b197-4526-b56d-c7c713267248",
+        "score": 0.975
+      }
+    },
+    "visual": {
+      "image": "assets/illustrations-wuyan-gushi/008-tang-008-wang-yue.png",
+      "coreImagery": [
+        "泰山",
+        "层云",
+        "归鸟",
+        "日色"
+      ],
+      "mood": [
+        "壮阔",
+        "昂扬",
+        "开张"
+      ],
+      "palette": [
+        "岱青",
+        "云白",
+        "日金",
+        "深墨"
+      ],
+      "composition": "泰山自画面底部拔起，层云从峰腰裂开，归鸟穿过日光。",
+      "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+      "prompt": "望岳，杜甫。核心意象：泰山、层云、归鸟、日色；情绪：壮阔、昂扬、开张。泰山自画面底部拔起，层云从峰腰裂开，归鸟穿过日光。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+      "generatedAt": "2026-05-10T15:05:28+00:00",
+      "generator": "procedural-watercolor"
+    }
+  }
+}
