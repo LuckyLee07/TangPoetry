@@ -48,22 +48,22 @@ struct PoemLayout {
         case .quatrain:
             baseSize = isFiveCharacter ? 26 : 24
             minimumSize = isFiveCharacter ? 22 : 21
-            topFraction = 0.48
+            topFraction = 0.45
             gapRatio = 0.30
         case .regulated:
             baseSize = isFiveCharacter ? 22 : 21
             minimumSize = 20
-            topFraction = 0.42
+            topFraction = 0.39
             gapRatio = 0.19
         case .medium:
             baseSize = 20
             minimumSize = 19
-            topFraction = 0.42
+            topFraction = 0.39
             gapRatio = 0.20
         case .long:
             baseSize = isFiveCharacter ? 20 : 19
             minimumSize = 18
-            topFraction = 0.42
+            topFraction = 0.39
             gapRatio = 0.24
         }
 
@@ -109,7 +109,7 @@ struct PoemLayout {
         }
 
         // Short forms may shrink within their readable range, but the illustration's
-        // upper half stays clear. Notes follow the verses inside the same scroll view.
+        // upper illustration area stays clear. Notes follow the verses inside the same scroll view.
         if length != .long && contentHeight(at: fontSize) > contentBottom - preferredTop {
             var lower = minimum
             var upper = fontSize

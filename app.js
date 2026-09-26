@@ -1,4 +1,4 @@
-import { parseStored, sanitizeSettings, migrateFavorites, filterPoems, initialIndex, createPoemLoader, readingLayout } from './reader-core.js?v=0.3.3';
+import { parseStored, sanitizeSettings, migrateFavorites, filterPoems, initialIndex, createPoemLoader, readingLayout } from './reader-core.js?v=0.3.4';
 
 const $ = selector => document.querySelector(selector);
 const escapeHTML = value => String(value ?? '').replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));

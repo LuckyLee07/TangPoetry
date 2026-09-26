@@ -28,8 +28,8 @@ final class ReaderTests: XCTestCase {
         XCTAssertEqual(medium.length, .medium)
         XCTAssertEqual(ballad.length, .long)
         XCTAssertLessThan(fiveRegulated.contentTop, fiveQuatrain.contentTop)
-        XCTAssertEqual(fiveQuatrain.contentTop, 760 * 0.48, accuracy: 0.01)
-        XCTAssertEqual(fiveRegulated.contentTop, 760 * 0.42, accuracy: 0.01)
+        XCTAssertEqual(fiveQuatrain.contentTop, 760 * 0.45, accuracy: 0.01)
+        XCTAssertEqual(fiveRegulated.contentTop, 760 * 0.39, accuracy: 0.01)
         XCTAssertEqual(medium.contentTop, fiveRegulated.contentTop, accuracy: 0.01)
         XCTAssertEqual(ballad.contentTop, fiveRegulated.contentTop, accuracy: 0.01)
         XCTAssertLessThan(fiveRegulated.lineSpacing, fiveQuatrain.lineSpacing)
@@ -40,8 +40,8 @@ final class ReaderTests: XCTestCase {
     func testCompactPagesScrollWithinWhitespaceInsteadOfMovingOverArtwork() {
         let quatrain = layout(characters: 7, verses: 4, width: 320, height: 568)
         let regulated = layout(characters: 7, verses: 8, width: 320, height: 568)
-        XCTAssertEqual(quatrain.contentTop, 568 * 0.48, accuracy: 0.01)
-        XCTAssertEqual(regulated.contentTop, 568 * 0.42, accuracy: 0.01)
+        XCTAssertEqual(quatrain.contentTop, 568 * 0.45, accuracy: 0.01)
+        XCTAssertEqual(regulated.contentTop, 568 * 0.39, accuracy: 0.01)
         XCTAssertGreaterThanOrEqual(regulated.fontSize, 20)
         XCTAssertGreaterThan(regulated.estimatedContentHeight, 568 - regulated.contentTop - 65)
         XCTAssertLessThanOrEqual(regulated.fontSize * (7 * 1.18 + 2), 320 - regulated.horizontalPadding * 2)
@@ -64,11 +64,11 @@ final class ReaderTests: XCTestCase {
     }
 
     func testArtworkSpecificTextStartCanMoveDownButNeverBackIntoThePainting() {
-        let lower = layout(characters: 5, verses: 4, textStart: 0.55)
+        let lower = layout(characters: 5, verses: 4, textStart: 0.52)
         let aboveReadingArea = layout(characters: 5, verses: 4, textStart: 0.20)
         let belowPage = layout(characters: 5, verses: 4, textStart: 1)
-        XCTAssertEqual(lower.contentTop, 760 * 0.55, accuracy: 0.01)
-        XCTAssertEqual(aboveReadingArea.contentTop, 760 * 0.48, accuracy: 0.01)
+        XCTAssertEqual(lower.contentTop, 760 * 0.52, accuracy: 0.01)
+        XCTAssertEqual(aboveReadingArea.contentTop, 760 * 0.45, accuracy: 0.01)
         XCTAssertEqual(belowPage.contentTop, 760 * 0.7, accuracy: 0.01)
         XCTAssertGreaterThanOrEqual(belowPage.fontSize, 22)
     }
@@ -84,7 +84,7 @@ final class ReaderTests: XCTestCase {
         }
         let quietNight = try XCTUnwrap(catalog.poems.first { $0.id == "tang-233-ye-si" })
         XCTAssertNil(quietNight.artworkMode)
-        XCTAssertEqual(try XCTUnwrap(quietNight.textStart), 0.55, accuracy: 0.001)
+        XCTAssertEqual(try XCTUnwrap(quietNight.textStart), 0.52, accuracy: 0.001)
         let mountainAutumn = try XCTUnwrap(catalog.poems.first { $0.id == "tang-116-shan-ju-qiu-ming" })
         XCTAssertNil(mountainAutumn.artworkMode)
         XCTAssertNil(mountainAutumn.textStart)
