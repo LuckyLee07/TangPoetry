@@ -24,7 +24,7 @@
     </div>
     <section class="pages" id="pages" aria-label="诗页，可左右滑动" tabindex="0"></section>
     <button class="reveal-button" id="revealControls" aria-label="显示阅读工具" hidden>· · ·</button>
-    <div class="bottombar" id="bottombar" data-visible="true"><button class="text-button" id="togglePinyin" aria-pressed="true">拼音</button><div class="page-navigation"><button id="previousPoem" aria-label="上一首">‹</button><span class="page-mark" id="pageMark"></span><button id="nextPoem" aria-label="下一首">›</button></div><button class="text-button" id="toggleNotes" aria-pressed="true">简注</button></div>
+    <div class="bottombar" id="bottombar" data-visible="true"><div class="page-navigation"><button id="previousPoem" aria-label="上一首">‹</button><span class="page-mark" id="pageMark"></span><button id="nextPoem" aria-label="下一首">›</button></div><button class="text-button" id="toggleNotes" aria-pressed="true">简注</button></div>
   </div>
   <p class="sr-only" id="readerStatus" role="status" aria-live="polite"></p>
   <div class="storage-notice" id="storageNotice" role="status" hidden></div>
@@ -38,12 +38,11 @@
 </dialog>
 <dialog id="settings" class="sheet settings-sheet" aria-labelledby="settingsTitle">
   <div class="sheet-header"><div><span class="library-kicker">依你的习惯</span><h2 id="settingsTitle">阅读设置</h2></div><button class="icon-button" data-close="settings" aria-label="关闭设置">×</button></div>
-  <label class="setting-row"><span>显示拼音</span><input type="checkbox" id="settingPinyin" role="switch" /></label>
   <label class="setting-row"><span>显示简注</span><input type="checkbox" id="settingNotes" role="switch" /></label>
   <label class="setting-row"><span>诗文字号</span><select id="fontSize"><option value="20">小</option><option value="22">标准</option><option value="26">大</option><option value="30">特大</option></select></label>
   <fieldset class="paper-picker"><legend>纸色</legend><label><input type="radio" name="paper" value="warm" />暖纸</label><label><input type="radio" name="paper" value="ivory" />素白</label><label><input type="radio" name="paper" value="sage" />青笺</label></fieldset>
   <button class="setting-row setting-link" id="manageFavorites"><span>我的收藏</span><span id="favoriteCount">0 首 ›</span></button>
-  <div class="about"><h3>唐诗三百首 · 诗画笺</h3><p>一页一诗，一诗一画。</p><p>阅读位置、收藏与设置仅保存在当前设备。无需账号，无广告、无统计追踪。</p><p>诗文按选本书序整理，部分题名保留常用别名。简注与拼音持续校订。版本 0.2</p></div>
+  <div class="about"><h3>唐诗三百首 · 诗画笺</h3><p>一页一诗，一诗一画。</p><p>阅读位置、收藏与设置仅保存在当前设备。无需账号，无广告、无统计追踪。</p><p>诗文按选本书序整理，部分题名保留常用别名。文字与简注持续校订。版本 0.2</p></div>
 </dialog>
 <dialog id="notesDialog" class="sheet" aria-labelledby="notesTitle"><div class="sheet-header"><h2 id="notesTitle">诗意与注释</h2><button class="icon-button" data-close="notesDialog" aria-label="关闭注释">×</button></div><div id="fullNotes" class="full-notes"></div></dialog>
 <noscript>请开启 JavaScript 后阅读诗笺。</noscript>

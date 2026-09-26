@@ -1,4 +1,4 @@
-export const DEFAULT_SETTINGS = Object.freeze({ pinyin: true, notes: true, fontSize: 22, paper: "warm" });
+export const DEFAULT_SETTINGS = Object.freeze({ pinyin: false, notes: true, fontSize: 22, paper: "warm" });
 
 export function parseStored(value, fallback) {
   try { return value == null ? fallback : JSON.parse(value); } catch { return fallback; }
@@ -7,7 +7,8 @@ export function parseStored(value, fallback) {
 export function sanitizeSettings(value) {
   const input = value && typeof value === "object" ? value : {};
   return {
-    pinyin: typeof input.pinyin === "boolean" ? input.pinyin : true,
+    // The current reading edition omits pronunciation, including older saved preferences.
+    pinyin: false,
     notes: typeof input.notes === "boolean" ? input.notes : true,
     fontSize: [20, 22, 26, 30].includes(input.fontSize) ? input.fontSize : 22,
     paper: ["warm", "ivory", "sage"].includes(input.paper) ? input.paper : "warm"

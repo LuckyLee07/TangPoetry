@@ -23,11 +23,8 @@ const loader = createPoemLoader(id => fetchJSON(`./data/reader/poems/${encodeURI
 function applySettings() {
   document.body.dataset.paper = settings.paper;
   $('.reader').style.setProperty('--reader-size', `${settings.fontSize}px`);
-  pages.classList.toggle('pinyin-off', !settings.pinyin);
   pages.classList.toggle('notes-off', !settings.notes);
-  $('#togglePinyin').setAttribute('aria-pressed', settings.pinyin);
   $('#toggleNotes').setAttribute('aria-pressed', settings.notes);
-  $('#settingPinyin').checked = settings.pinyin;
   $('#settingNotes').checked = settings.notes;
   $('#fontSize').value = settings.fontSize;
   document.querySelectorAll('[name="paper"]').forEach(input => { input.checked = input.value === settings.paper; });
@@ -49,18 +46,34 @@ function setHome(visible) {
   if (visible) { $('#startReading').textContent = currentIndex ? '续读' : '入卷'; $('#startReading').focus(); }
 }
 
-function ruby(lines) {
-  return lines.map(line => `<div class="verse-line">${line.map(([text, pronunciation]) => pronunciation
-    ? `<ruby>${escapeHTML(text)}<rt>${escapeHTML(pronunciation)}</rt></ruby>` : escapeHTML(text)).join('')}</div>`).join('');
+function verses(lines) {
+  return lines.map(line => {
+    const text = line.map(([character]) => character).join('');
+    const characters = [...text];
+    const lastCharacter = characters.findLastIndex(character => !/\p{Punctuation}/u.test(character));
+    const cells = [];
+    for (const [index, character] of characters.entries()) {
+      if (index > lastCharacter && cells.length) cells.at(-1).marks += character;
+      else cells.push({ character, marks: '' });
+    }
+    const endSpace = Math.max(1, [...(cells.at(-1)?.marks || '')].length);
+    return `<div class="verse-line" role="group" style="--end-space:${endSpace}em" aria-label="${escapeHTML(text)}">${cells.map(cell => `<span class="verse-cell" aria-hidden="true">${escapeHTML(cell.character)}${cell.marks ? `<span class="verse-punctuation">${escapeHTML(cell.marks)}</span>` : ''}</span>`).join('')}</div>`;
+  }).join('');
+}
+function revealArt(image) {
+  const reveal = () => { if (image.naturalWidth) image.classList.add('art-ready'); };
+  if (image.complete) reveal();
+  else image.addEventListener('load', reveal, { once: true });
 }
 function renderPage(element, poem, detail) {
   element.classList.toggle('no-note', !detail.note);
   element.innerHTML = `<figure class="scene" aria-hidden="true"><img src="./${escapeHTML(poem.image)}" alt="" decoding="async" /></figure>
     <div class="book-ribbon">第${poem.order}首 · ${escapeHTML(poem.section)}</div>
-    <div class="poem-body" tabindex="0" aria-label="${escapeHTML(poem.title)}全文"><h2 class="poem-title">${escapeHTML(poem.title)}</h2><p class="poem-author">唐 · ${escapeHTML(poem.author)}</p><div class="poem-lines">${ruby(detail.rubyLines)}</div></div>
+    <div class="poem-body" tabindex="0" aria-label="${escapeHTML(poem.title)}全文"><h2 class="poem-title">${escapeHTML(poem.title)}</h2><p class="poem-author">唐 · ${escapeHTML(poem.author)}</p><div class="poem-lines">${verses(detail.rubyLines)}</div></div>
     ${detail.note ? `<section class="note"><h3>${escapeHTML(detail.noteTitle)}</h3><p>${escapeHTML(detail.note)}</p><button class="note-more" data-notes="${poem.id}" aria-label="查看${escapeHTML(poem.title)}的完整诗意和注释">展开</button></section>` : ''}`;
   const image = element.querySelector('img');
   image.addEventListener('error', () => image.remove(), { once: true });
+  revealArt(image);
 }
 async function mountPage(index) {
   const poem = poems[index], element = shells[index];
@@ -172,9 +185,7 @@ $('#favoriteButton').addEventListener('click', () => {
   storage.write(keys.favorites, [...favorites]); updateState();
   $('#readerStatus').textContent = favorites.has(id) ? '已收藏' : '已取消收藏';
 });
-$('#togglePinyin').addEventListener('click', () => changeSetting('pinyin', !settings.pinyin));
 $('#toggleNotes').addEventListener('click', () => changeSetting('notes', !settings.notes));
-$('#settingPinyin').addEventListener('change', event => changeSetting('pinyin', event.target.checked));
 $('#settingNotes').addEventListener('change', event => changeSetting('notes', event.target.checked));
 $('#fontSize').addEventListener('change', event => changeSetting('fontSize', Number(event.target.value)));
 for (const input of document.querySelectorAll('[name="paper"]')) input.addEventListener('change', () => changeSetting('paper', input.value));
@@ -204,4 +215,5 @@ window.addEventListener('keydown', event => {
 });
 new ResizeObserver(() => { if (poems.length) pages.scrollTo({ left: currentIndex * pages.clientWidth, behavior: 'instant' }); }).observe(pages);
 applySettings();
+revealArt($('.home-art-main'));
 void init();

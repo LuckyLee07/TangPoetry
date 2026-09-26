@@ -28,8 +28,19 @@ private enum ArtworkCache {
 
 struct Artwork: View {
     let path: String
+    var fadeIn = false
+    @Environment(\.accessibilityReduceMotion) private var reduceMotion
+    @State private var appeared = false
+
     var body: some View {
-        if let image = ArtworkCache.image(path) { Image(uiImage: image).resizable().scaledToFill().accessibilityHidden(true) }
+        if let image = ArtworkCache.image(path) {
+            Image(uiImage: image).resizable().scaledToFill().accessibilityHidden(true)
+                .opacity(!fadeIn || reduceMotion || appeared ? 1 : 0)
+                .onAppear {
+                    guard fadeIn && !appeared else { return }
+                    withAnimation(reduceMotion ? nil : .easeOut(duration: 0.24)) { appeared = true }
+                }
+        }
         else { Color.clear }
     }
 }
@@ -81,7 +92,7 @@ struct ReaderView: View {
     private var cover: some View {
         GeometryReader { geometry in
             ZStack(alignment: .topTrailing) {
-                Artwork(path: "Art/song-yuan-er-page.jpg").frame(width: geometry.size.width, height: geometry.size.height).clipped()
+                Artwork(path: "Art/song-yuan-er-page.jpg", fadeIn: true).frame(width: geometry.size.width, height: geometry.size.height).clipped()
                 LinearGradient(colors: [.clear, store.settings.paperColor], startPoint: .center, endPoint: .bottom)
                 VStack(alignment: .trailing, spacing: 16) {
                     Text("唐\n诗\n三\n百\n首").font(.custom("STSongti-SC-Regular", size: 40, relativeTo: .largeTitle)).lineSpacing(4)
@@ -122,14 +133,16 @@ struct ReaderView: View {
                         tool(store.favorites.contains(store.selectedID) ? "已藏" : "藏", label: store.favorites.contains(store.selectedID) ? "取消收藏此诗" : "收藏此诗") { store.toggleFavorite(store.selectedID) }
                     }
                     Spacer()
-                    HStack(spacing: 2) {
-                        tool("拼音", label: store.settings.pinyin ? "隐藏拼音" : "显示拼音") { store.settings.pinyin.toggle() }
-                        Spacer(minLength: 4)
-                        Button { store.turn(-1) } label: { Image(systemName: "chevron.left").frame(width: 32, height: 44) }.disabled(store.currentIndex == 0).accessibilityLabel("上一首")
-                        Text("\(store.currentIndex + 1) / \(store.poems.count)").font(.caption2).monospacedDigit().fixedSize()
-                        Button { store.turn(1) } label: { Image(systemName: "chevron.right").frame(width: 32, height: 44) }.disabled(store.currentIndex == store.poems.count - 1).accessibilityLabel("下一首")
-                        Spacer(minLength: 4)
-                        tool("简注", label: store.settings.notes ? "隐藏简注" : "显示简注") { store.settings.notes.toggle() }
+                    ZStack {
+                        HStack(spacing: 2) {
+                            Button { store.turn(-1) } label: { Image(systemName: "chevron.left").frame(width: 44, height: 44) }.disabled(store.currentIndex == 0).accessibilityLabel("上一首")
+                            Text("\(store.currentIndex + 1) / \(store.poems.count)").font(.caption2).monospacedDigit().fixedSize()
+                            Button { store.turn(1) } label: { Image(systemName: "chevron.right").frame(width: 44, height: 44) }.disabled(store.currentIndex == store.poems.count - 1).accessibilityLabel("下一首")
+                        }
+                        HStack {
+                            Spacer()
+                            tool("简注", label: store.settings.notes ? "隐藏简注" : "显示简注") { store.settings.notes.toggle() }
+                        }
                     }
                 }.padding(.horizontal, 22).padding(.vertical, 10)
             } else {
@@ -155,7 +168,7 @@ struct PoemPageView: View {
     var body: some View {
         GeometryReader { geometry in
             ZStack {
-                Artwork(path: poem.image).frame(width: geometry.size.width, height: geometry.size.height).clipped()
+                Artwork(path: poem.image, fadeIn: true).frame(width: geometry.size.width, height: geometry.size.height).clipped()
                 LinearGradient(stops: [.init(color: .clear, location: 0.16), .init(color: store.settings.paperColor.opacity(0.95), location: 0.65)], startPoint: .top, endPoint: .bottom)
                 VStack(spacing: 0) {
                     Text("第\(poem.order)首 · \(poem.section)").font(.caption2).foregroundStyle(.secondary).frame(maxWidth: .infinity, alignment: .leading).padding(.top, 68)
@@ -167,7 +180,7 @@ struct PoemPageView: View {
                                 Text("唐 · \(poem.author)").font(.caption).foregroundStyle(.secondary).padding(.bottom, 4)
                                 VStack(spacing: 10) {
                                     ForEach(detail.rubyLines.indices, id: \.self) { index in
-                                        RubyLine(tokens: detail.rubyLines[index], pinyin: store.settings.pinyin, size: store.settings.fontSize)
+                                        VerseLine(tokens: detail.rubyLines[index], size: store.settings.fontSize)
                                     }
                                 }
                             }.frame(maxWidth: .infinity).padding(.vertical, 6).padding(.bottom, 20)
@@ -198,70 +211,91 @@ struct PoemPageView: View {
     }
 }
 
-private struct RubyGroup {
-    let token: RubyToken
+private struct VerseGlyph {
+    let text: String
     var punctuation = ""
 }
 
-struct RubyLine: View {
+struct VerseLine: View {
     let tokens: [RubyToken]
-    let pinyin: Bool
     let size: Int
     @ScaledMetric(relativeTo: .title2) private var scaledBase: CGFloat = 22
     private var fontSize: CGFloat { scaledBase * CGFloat(size) / 22 }
-    private var groups: [RubyGroup] {
-        var result: [RubyGroup] = []
-        for token in tokens {
-            if token.pinyin.isEmpty && !result.isEmpty { result[result.count - 1].punctuation += token.text }
-            else { result.append(RubyGroup(token: token)) }
+    private var cellWidth: CGFloat { fontSize * 1.18 }
+    private var glyphs: [VerseGlyph] {
+        let characters = tokens.flatMap { Array($0.text) }
+        let isPunctuation: (Character) -> Bool = { character in
+            character.unicodeScalars.allSatisfy { CharacterSet.punctuationCharacters.contains($0) }
+        }
+        let lastTextIndex = characters.lastIndex { !isPunctuation($0) } ?? -1
+        var result: [VerseGlyph] = []
+        for (index, character) in characters.enumerated() {
+            if index > lastTextIndex && !result.isEmpty {
+                result[result.count - 1].punctuation.append(character)
+            } else {
+                result.append(VerseGlyph(text: String(character)))
+            }
         }
         return result
     }
+
     var body: some View {
-        CenteredFlow(spacing: 3) {
-            ForEach(Array(groups.enumerated()), id: \.offset) { _, group in
-                HStack(alignment: .bottom, spacing: 0) {
-                    VStack(spacing: 5) {
-                        if pinyin { Text(group.token.pinyin).font(.system(size: max(10, fontSize * 0.43))).foregroundStyle(.secondary).fixedSize() }
-                        Text(group.token.text).font(.custom("STSongti-SC-Regular", size: fontSize))
-                    }.frame(minWidth: fontSize)
-                    if !group.punctuation.isEmpty { Text(group.punctuation).font(.custom("STSongti-SC-Regular", size: fontSize)) }
-                }
+        let glyphs = self.glyphs
+        // Punctuation hangs outside the character grid, so all five- or seven-character
+        // lines share the same columns regardless of their final punctuation.
+        VerseGrid(cellWidth: cellWidth, hangingWidth: CGFloat(glyphs.map { $0.punctuation.count }.max() ?? 0) * fontSize, rowSpacing: fontSize * 0.35) {
+            ForEach(Array(glyphs.enumerated()), id: \.offset) { _, glyph in
+                Text(glyph.text)
+                    .font(.custom("STSongti-SC-Regular", size: fontSize))
+                    .fixedSize()
+                    .frame(width: cellWidth, height: fontSize * 1.45)
+                    .overlay(alignment: .leading) {
+                        if !glyph.punctuation.isEmpty {
+                            Text(glyph.punctuation)
+                                .font(.custom("STSongti-SC-Regular", size: fontSize))
+                                .fixedSize()
+                                .offset(x: cellWidth)
+                        }
+                    }
             }
-        }.accessibilityElement(children: .ignore).accessibilityLabel(tokens.map(\.text).joined())
+        }
+        .accessibilityElement(children: .ignore)
+        .accessibilityLabel(tokens.map(\.text).joined())
     }
 }
 
-struct CenteredFlow: Layout {
-    var spacing: CGFloat
-    private func rows(_ subviews: Subviews, width: CGFloat) -> [[Int]] {
-        var result: [[Int]] = [], row: [Int] = [], used: CGFloat = 0
-        for index in subviews.indices {
-            let size = subviews[index].sizeThatFits(.unspecified)
-            if !row.isEmpty && used + spacing + size.width > width { result.append(row); row = []; used = 0 }
-            used += (row.isEmpty ? 0 : spacing) + size.width
-            row.append(index)
-        }
-        if !row.isEmpty { result.append(row) }
-        return result
+struct VerseGrid: Layout {
+    let cellWidth: CGFloat
+    let hangingWidth: CGFloat
+    let rowSpacing: CGFloat
+
+    private func columns(for width: CGFloat, count: Int) -> Int {
+        min(max(1, count), max(1, Int((max(0, width - hangingWidth * 2) / cellWidth).rounded(.down))))
     }
+
     func sizeThatFits(proposal: ProposedViewSize, subviews: Subviews, cache: inout ()) -> CGSize {
-        let width = proposal.width ?? 320
-        let heights = rows(subviews, width: width).map { row in row.map { subviews[$0].sizeThatFits(.unspecified).height }.max() ?? 0 }
-        return CGSize(width: width, height: heights.reduce(0, +) + CGFloat(max(0, heights.count - 1)) * 12)
+        let width = proposal.width ?? CGFloat(subviews.count) * cellWidth + hangingWidth * 2
+        guard !subviews.isEmpty else { return CGSize(width: width, height: 0) }
+        let columns = columns(for: width, count: subviews.count)
+        let rowCount = (subviews.count + columns - 1) / columns
+        let cellHeight = subviews.map { $0.sizeThatFits(.unspecified).height }.max() ?? 0
+        return CGSize(width: width, height: CGFloat(rowCount) * cellHeight + CGFloat(rowCount - 1) * rowSpacing)
     }
+
     func placeSubviews(in bounds: CGRect, proposal: ProposedViewSize, subviews: Subviews, cache: inout ()) {
-        var y = bounds.minY
-        for row in rows(subviews, width: bounds.width) {
-            let sizes = row.map { subviews[$0].sizeThatFits(.unspecified) }
-            let width = sizes.map(\.width).reduce(0, +) + CGFloat(max(0, row.count - 1)) * spacing
-            let height = sizes.map(\.height).max() ?? 0
-            var x = bounds.midX - width / 2
-            for (offset, index) in row.enumerated() {
-                subviews[index].place(at: CGPoint(x: x, y: y + height - sizes[offset].height), proposal: ProposedViewSize(sizes[offset]))
-                x += sizes[offset].width + spacing
+        guard !subviews.isEmpty else { return }
+        let columns = columns(for: bounds.width, count: subviews.count)
+        let cellHeight = subviews.map { $0.sizeThatFits(.unspecified).height }.max() ?? 0
+        for start in stride(from: 0, to: subviews.count, by: columns) {
+            let count = min(columns, subviews.count - start)
+            let x = bounds.midX - CGFloat(count) * cellWidth / 2
+            let y = bounds.minY + CGFloat(start / columns) * (cellHeight + rowSpacing)
+            for offset in 0..<count {
+                subviews[start + offset].place(
+                    at: CGPoint(x: x + CGFloat(offset) * cellWidth, y: y),
+                    proposal: ProposedViewSize(width: cellWidth, height: cellHeight)
+                )
             }
-            y += height + 12
         }
     }
 }

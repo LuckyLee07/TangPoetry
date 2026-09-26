@@ -21,6 +21,7 @@ test('corrupt or incompatible saved state cannot break startup', () => {
   assert.equal(parseStored('{broken', null), null);
   assert.deepEqual(sanitizeSettings({ pinyin: 'false', fontSize: 999, paper: 'unknown' }), sanitizeSettings(null));
   assert.equal(sanitizeSettings({ pinyin: false }).pinyin, false);
+  assert.equal(sanitizeSettings({ pinyin: true }).pinyin, false);
   assert.equal(initialIndex(poems, 'missing', '#p=NaN'), 0);
   assert.equal(initialIndex(poems, '', '#p=-12'), 0);
   assert.equal(initialIndex(poems, '', '#p=9999'), poems.length - 1);

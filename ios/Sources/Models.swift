@@ -42,13 +42,15 @@ struct PoemDetail: Decodable, Sendable {
 }
 
 struct ReaderSettings: Codable, Equatable {
-    var pinyin = true
+    // Keep the stored key compatible with earlier versions; pronunciation is paused in the reader.
+    var pinyin = false
     var notes = true
     var fontSize = 22
     var paper = "warm"
 
     func validated() -> Self {
         var copy = self
+        copy.pinyin = false
         if ![20, 22, 26, 30].contains(copy.fontSize) { copy.fontSize = 22 }
         if !["warm", "ivory", "sage"].contains(copy.paper) { copy.paper = "warm" }
         return copy

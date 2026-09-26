@@ -35,7 +35,8 @@ final class ReaderTests: XCTestCase {
         store.toggleFavorite("tang-095-za-shi")
         XCTAssertFalse(store.favorites.contains("tang-228-za-shi"))
         store.settings.fontSize = 30
-        store.settings.pinyin = false
+        // Existing installations may have saved pronunciation as enabled.
+        store.settings.pinyin = true
         store.selectedID = "tang-233-ye-si"
         let restored = PoemStore(defaults: defaults)
         XCTAssertEqual(restored.selectedID, "tang-233-ye-si")
