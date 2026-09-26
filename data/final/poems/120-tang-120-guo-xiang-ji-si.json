@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-120-guo-xiang-ji-si",
@@ -28,6 +28,11 @@
     ],
     "text": "不知香积寺，数里入云峰。古木无人径，深山何处钟。泉声咽危石，日色冷青松。薄暮空潭曲，安禅制毒龙。",
     "textTraditional": "不知香積寺，數里入雲峰。古木無人徑，深山何處鐘。泉聲咽危石，日色冷青松。薄暮空潭曲，安禪制毒龍。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "不知香积寺，",
       "数里入云峰。",
@@ -465,7 +470,8 @@
         "file": "唐诗三百首.json",
         "index": 78,
         "title": "过香积寺",
-        "author": "王维"
+        "author": "王维",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

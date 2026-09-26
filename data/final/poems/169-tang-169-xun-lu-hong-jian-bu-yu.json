@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-169-xun-lu-hong-jian-bu-yu",
@@ -28,6 +28,11 @@
     ],
     "text": "移家虽带郭，野径入桑麻。近种篱边菊，秋来未著花。扣门无犬吠，欲去问西家。报到山中去，归来每日斜。",
     "textTraditional": "移家雖帶郭，野徑入桑麻。近種籬邊菊，秋來未著花。扣門無犬吠，欲去問西家。報到山中去，歸來每日斜。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "移家虽带郭，",
       "野径入桑麻。",
@@ -463,7 +468,8 @@
         "file": "唐诗三百首.json",
         "index": 156,
         "title": "寻陆鸿渐不遇",
-        "author": "皎然"
+        "author": "皎然",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

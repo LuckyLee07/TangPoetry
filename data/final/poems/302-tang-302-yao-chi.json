@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-302-yao-chi",
@@ -24,6 +24,11 @@
     ],
     "text": "瑶池阿母绮窗开，黄竹歌声动地哀。八骏日行三万里，穆王何事不重来。",
     "textTraditional": "瑤池阿母綺窗開，黃竹歌聲動地哀。八駿日行三萬里，穆王何事不重來。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "瑶池阿母绮窗开，",
       "黄竹歌声动地哀。",
@@ -333,7 +338,8 @@
         "file": "唐诗三百首.json",
         "index": 307,
         "title": "瑶池",
-        "author": "李商隐"
+        "author": "李商隐",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

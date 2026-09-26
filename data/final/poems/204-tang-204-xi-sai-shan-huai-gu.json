@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-204-xi-sai-shan-huai-gu",
@@ -28,6 +28,11 @@
     ],
     "text": "王濬楼船下益州，金陵王气黯然收。千寻铁锁沈江底，一片降旛出石头。人世几回伤往事，山形依旧枕寒流。从今四海为家日，故垒萧萧芦荻秋。",
     "textTraditional": "王濬樓船下益州，金陵王氣黯然收。千尋鐵鎖沈江底，一片降旛出石頭。人世幾回傷往事，山形依舊枕寒流。從今四海為家日，故壘蕭蕭蘆荻秋。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "王濬楼船下益州，",
       "金陵王气黯然收。",
@@ -597,7 +602,8 @@
         "file": "唐诗三百首.json",
         "index": 37,
         "title": "西塞山怀古",
-        "author": "刘禹锡"
+        "author": "刘禹锡",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

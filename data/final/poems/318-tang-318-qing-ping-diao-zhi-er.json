@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-318-qing-ping-diao-zhi-er",
@@ -25,6 +25,11 @@
     ],
     "text": "一枝红艳露凝香，云雨巫山枉断肠。借问汉宫谁得似，可怜飞燕倚新妆。",
     "textTraditional": "一枝紅豔露凝香，雲雨巫山枉斷腸。借問漢宮誰得似，可憐飛燕倚新妝。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "一枝红艳露凝香，",
       "云雨巫山枉断肠。",
@@ -328,7 +333,8 @@
         "file": "唐诗三百首.json",
         "index": 101,
         "title": "清平调·其二",
-        "author": "李白"
+        "author": "李白",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

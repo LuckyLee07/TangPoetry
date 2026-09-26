@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "policy": "只修订阅读展示中的明确占位、讹字与解析残片；归档 notes 保持来源原文。",
+  "poems": {
+    "tang-087-li-ren-xing": [
+      {
+        "source": "chiuinan",
+        "original": "□叶：妇女髻上的花饰。",
+        "replacement": "盍叶：妇女髻上的花饰。",
+        "reason": "词头缺字，按同诗所采用正文的字形补齐，保留原有词义。",
+        "evidence": {
+          "file": "data/final/tang_poems_final.json",
+          "excerpt": "翠微盍叶垂鬓唇。"
+        }
+      },
+      {
+        "source": "chiuinan",
+        "original": "翠微：裴翠。",
+        "replacement": "翠微：翡翠。",
+        "reason": "翡翠被误录为裴翠。",
+        "evidence": {
+          "url": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=34493&q=1&word=%E7%BF%A0",
+          "title": "教育部重编国语辞典修订本：翡翠"
+        }
+      }
+    ],
+    "tang-178-he-jia-she-ren-zao-chao-da-ming-gong-zhi-zuo": [
+      {
+        "source": "chiuinan",
+        "original": "衮龙：卷曲的龙，此处指龙袍。奉和圣制从蓬莱向兴庆阁道",
+        "replacement": "衮龙：卷曲的龙，此处指龙袍。",
+        "reason": "后半为下一首179题名前段，属于来源标题跨行解析残片。",
+        "evidence": {
+          "file": "data/sources/chiuinan_clean.json",
+          "sourceOrders": [
+            275,
+            276
+          ]
+        }
+      }
+    ],
+    "tang-207-qian-bei-huai-zhi-san": [
+      {
+        "source": "chiuinan",
+        "original": "常开眼：喻己之鳏不再娶。自河南经乱，关内阻饥，兄弟离散，各在一处。因望月有感，聊书所怀，寄上浮梁大兄、於潜七兄、乌江十五",
+        "replacement": "常开眼：喻己之鳏不再娶。",
+        "reason": "后半为下一首208题名前段，属于来源标题跨行解析残片。",
+        "evidence": {
+          "file": "data/sources/chiuinan_clean.json",
+          "sourceOrders": [
+            304,
+            305
+          ]
+        }
+      }
+    ],
+    "tang-079-shu-dao-nan": [
+      {
+        "source": "chiuinan",
+        "original": "参、井：均为参宿名。",
+        "replacement": "参、井：均为星宿名。",
+        "reason": "井宿与参宿均为星宿，井不是参宿的名字。",
+        "evidence": {
+          "url": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=96064&la=1&powerMode=0",
+          "title": "教育部辞典：井宿"
+        }
+      }
+    ],
+    "tang-112-bie-fang-tai-wei-mu": [
+      {
+        "source": "chiuinan",
+        "original": "谢传：指晋谢安，常与姪谢玄对棋。",
+        "replacement": "谢傅：指晋谢安，常与姪谢玄对棋。",
+        "reason": "词头按本诗正文和已核编辑词解恢复为谢傅。",
+        "evidence": {
+          "file": "data/final/tang_poems_final.json",
+          "excerpt": "对棋陪谢傅"
+        }
+      }
+    ],
+    "tang-148-xi-wai-di-lu-lun-jian-su": [
+      {
+        "source": "chiuinan",
+        "original": "霍家亲：汉霍去病为卫青的姊夫，故以霍家亲称表亲。",
+        "replacement": "霍家亲：汉霍去病为卫青的外甥，故以霍家亲称表亲。",
+        "reason": "修正明确的亲属关系错误。",
+        "evidence": {
+          "url": "https://ctext.org/shiji/wei-jiang-jun-piao-qi-lie-zhuan/zh",
+          "title": "史记·卫将军骠骑列传",
+          "excerpt": "大将军姊子霍去病"
+        }
+      }
+    ],
+    "tang-193-yong-huai-gu-ji-wu-shou-zhi-si": [
+      {
+        "source": "chiuinan",
+        "original": "武候：诸葛亮封号。",
+        "replacement": "武侯：诸葛亮封号。",
+        "reason": "按正文修正封号的字形。",
+        "evidence": {
+          "file": "data/final/tang_poems_final.json",
+          "excerpt": "武侯祠屋常邻近"
+        }
+      }
+    ],
+    "tang-213-wu-ti-zhi-er": [
+      {
+        "source": "chiuinan",
+        "original": "韩掾：即三国魏韩寿，美姿容，贾允辟以为掾。贾女见寿悦之，与之私通。掾，音院。",
+        "replacement": "韩掾：即西晋韩寿，美姿容，贾充辟以为掾。贾女见寿悦之，与之私通。掾，音院。",
+        "reason": "修正典故人物的朝代与姓名。",
+        "evidence": {
+          "url": "https://zh.wikisource.org/zh-hant/晉書/卷040",
+          "title": "晋书卷四十：贾充传",
+          "excerpt": "贾充辟为司空掾"
+        }
+      }
+    ],
+    "tang-218-wu-ti-zhi-wu": [
+      {
+        "source": "chiuinan",
+        "original": "神女：巫山神女。楚襄王与宋玉游于云夜之泽，使玉赋高唐事，其夜王寝，梦与神女遇。",
+        "replacement": "神女：巫山神女。楚襄王与宋玉游于云梦之泽，使玉赋高唐事，其夜王寝，梦与神女遇。",
+        "reason": "恢复典故地名云梦。",
+        "evidence": {
+          "url": "https://zh.wikisource.org/wiki/神女賦_(宋玉)",
+          "title": "宋玉：神女赋"
+        }
+      }
+    ]
+  }
+}

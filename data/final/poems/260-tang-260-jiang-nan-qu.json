@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-260-jiang-nan-qu",
@@ -24,6 +24,11 @@
     ],
     "text": "嫁得瞿塘贾，朝朝误妾期。早知潮有信，嫁与弄潮儿。",
     "textTraditional": "嫁得瞿塘賈，朝朝誤妾期。早知潮有信，嫁與弄潮兒。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "嫁得瞿塘贾，",
       "朝朝误妾期。",
@@ -254,7 +259,8 @@
         "file": "唐诗三百首.json",
         "index": 1,
         "title": "江南曲",
-        "author": "李益"
+        "author": "李益",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

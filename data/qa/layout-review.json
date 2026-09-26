@@ -1,0 +1,257 @@
+{
+  "version": "0.4.0",
+  "date": "2026-09-26",
+  "status": "passed",
+  "artworkReview": "对原317首真实共享渲染器缩览逐组检查；新增3张内置imagegen插画已逐张检查。",
+  "adjustments": [
+    {
+      "id": "tang-008-wang-yue",
+      "title": "望岳",
+      "textStart": 0.47,
+      "reason": "缩览发现标题或首行落在画景边缘；将此诗的阅读起点单独移入留白，保留全局位置与可读字号下限。"
+    },
+    {
+      "id": "tang-009-zeng-wei-ba-chu-shi",
+      "title": "赠卫八处士",
+      "textStart": 0.47,
+      "reason": "缩览发现标题或首行落在画景边缘；将此诗的阅读起点单独移入留白，保留全局位置与可读字号下限。"
+    },
+    {
+      "id": "tang-010-jia-ren",
+      "title": "佳人",
+      "textStart": 0.5,
+      "reason": "缩览发现标题或首行落在画景边缘；将此诗的阅读起点单独移入留白，保留全局位置与可读字号下限。"
+    },
+    {
+      "id": "tang-050-ting-dong-da-dan-hu-jia-sheng-jian-ji-yu-nong-fang-gei-shi",
+      "title": "听董大弹胡笳声兼寄语弄房给事",
+      "textStart": 0.5,
+      "reason": "缩览发现标题或首行落在画景边缘；将此诗的阅读起点单独移入留白，保留全局位置与可读字号下限。"
+    },
+    {
+      "id": "tang-063-gu-bai-xing",
+      "title": "古柏行",
+      "textStart": 0.49,
+      "reason": "缩览发现标题或首行落在画景边缘；将此诗的阅读起点单独移入留白，保留全局位置与可读字号下限。"
+    },
+    {
+      "id": "tang-076-luo-yang-nv-er-xing",
+      "title": "洛阳女儿行",
+      "textStart": 0.53,
+      "reason": "缩览发现标题或首行落在画景边缘；将此诗的阅读起点单独移入留白，保留全局位置与可读字号下限。"
+    },
+    {
+      "id": "tang-079-shu-dao-nan",
+      "title": "蜀道难",
+      "textStart": 0.48,
+      "reason": "缩览发现标题或首行落在画景边缘；将此诗的阅读起点单独移入留白，保留全局位置与可读字号下限。"
+    },
+    {
+      "id": "tang-118-zhong-nan-shan",
+      "title": "终南山",
+      "textStart": 0.49,
+      "reason": "缩览发现标题或首行落在画景边缘；将此诗的阅读起点单独移入留白，保留全局位置与可读字号下限。"
+    },
+    {
+      "id": "tang-144-jiang-xiang-gu-ren-ou-ji-ke-she",
+      "title": "江乡故人偶集客舍",
+      "textStart": 0.46,
+      "reason": "缩览发现标题或首行落在画景边缘；将此诗的阅读起点单独移入留白，保留全局位置与可读字号下限。"
+    },
+    {
+      "id": "tang-154-qiu-ri-fu-que-ti-tong-guan-yi-lou",
+      "title": "秋日赴阙题潼关驿楼",
+      "textStart": 0.5,
+      "reason": "缩览发现标题或首行落在画景边缘；将此诗的阅读起点单独移入留白，保留全局位置与可读字号下限。"
+    },
+    {
+      "id": "tang-175-deng-jin-ling-feng-huang-tai",
+      "title": "登金陵凤凰台",
+      "textStart": 0.52,
+      "reason": "缩览发现标题或首行落在画景边缘；将此诗的阅读起点单独移入留白，保留全局位置与可读字号下限。"
+    },
+    {
+      "id": "tang-180-ji-yu-wang-chuan-zhuang-zuo",
+      "title": "积雨辋川庄作",
+      "textStart": 0.51,
+      "reason": "缩览发现标题或首行落在画景边缘；将此诗的阅读起点单独移入留白，保留全局位置与可读字号下限。"
+    },
+    {
+      "id": "tang-182-shu-xiang",
+      "title": "蜀相",
+      "textStart": 0.48,
+      "reason": "缩览发现标题或首行落在画景边缘；将此诗的阅读起点单独移入留白，保留全局位置与可读字号下限。"
+    },
+    {
+      "id": "tang-185-wen-guan-jun-shou-he-nan-he-bei",
+      "title": "闻官军收河南河北",
+      "textStart": 0.46,
+      "reason": "缩览发现标题或首行落在画景边缘；将此诗的阅读起点单独移入留白，保留全局位置与可读字号下限。"
+    },
+    {
+      "id": "tang-190-yong-huai-gu-ji-wu-shou-zhi-yi",
+      "title": "咏怀古迹五首之一",
+      "textStart": 0.47,
+      "reason": "缩览发现标题或首行落在画景边缘；将此诗的阅读起点单独移入留白，保留全局位置与可读字号下限。"
+    },
+    {
+      "id": "tang-194-yong-huai-gu-ji-wu-shou-zhi-wu",
+      "title": "咏怀古迹五首之五",
+      "textStart": 0.47,
+      "reason": "缩览发现标题或首行落在画景边缘；将此诗的阅读起点单独移入留白，保留全局位置与可读字号下限。"
+    },
+    {
+      "id": "tang-212-wu-ti-zhi-yi",
+      "title": "无题之一",
+      "textStart": 0.47,
+      "reason": "缩览发现标题或首行落在画景边缘；将此诗的阅读起点单独移入留白，保留全局位置与可读字号下限。"
+    },
+    {
+      "id": "tang-214-chou-bi-yi",
+      "title": "筹笔驿",
+      "textStart": 0.48,
+      "reason": "缩览发现标题或首行落在画景边缘；将此诗的阅读起点单独移入留白，保留全局位置与可读字号下限。"
+    },
+    {
+      "id": "tang-215-wu-ti-zhi-san",
+      "title": "无题之三",
+      "textStart": 0.46,
+      "reason": "缩览发现标题或首行落在画景边缘；将此诗的阅读起点单独移入留白，保留全局位置与可读字号下限。"
+    },
+    {
+      "id": "tang-218-wu-ti-zhi-wu",
+      "title": "无题之五",
+      "textStart": 0.5,
+      "reason": "缩览发现标题或首行落在画景边缘；将此诗的阅读起点单独移入留白，保留全局位置与可读字号下限。"
+    },
+    {
+      "id": "tang-026-zei-tui-shi-guan-li-bing-xu",
+      "title": "贼退示官吏并序",
+      "textStart": 0.46,
+      "reason": "序文分离后复查诗页，原标题仍在画景下沿；单独移入留白。"
+    },
+    {
+      "id": "tang-064-guan-gong-sun-da-niang-di-zi-wu-jian-qi-xing-bing-xu",
+      "title": "观公孙大娘弟子舞剑器行并序",
+      "textStart": 0.46,
+      "reason": "序文分离后复查诗页，原标题仍在画景下沿；单独移入留白。"
+    },
+    {
+      "id": "tang-072-pi-pa-xing-bing-xu",
+      "title": "琵琶行并序",
+      "textStart": 0.47,
+      "reason": "序文分离后复查诗页，原标题仍在画景下沿；单独移入留白。"
+    },
+    {
+      "id": "tang-093-zai-yu-yong-chan-bing-xu",
+      "title": "在狱咏蝉并序",
+      "textStart": 0.46,
+      "reason": "序文分离后复查诗页，原标题仍在画景下沿；单独移入留白。"
+    }
+  ],
+  "titles": [
+    {
+      "id": "tang-108-zhi-de-er-zai-fu-zi-jing-jin-guang-men-chu-wen-dao-gui-feng-xiang-qian-yuan-chu-",
+      "displayTitle": "至德二载甫自京金光门出…有悲往事",
+      "originalTitleAvailableInNotes": true
+    },
+    {
+      "id": "tang-208-zi-he-nan-jing-luan-guan-nei-zu-ji-xiong-di-li-san-ge-zai-yi-chu-yin-wang-yue-yo",
+      "displayTitle": "望月有感",
+      "originalTitleAvailableInNotes": true
+    }
+  ],
+  "webMatrix": {
+    "poems": 320,
+    "checked": 10240,
+    "phoneSizes": [
+      [
+        320,
+        568
+      ],
+      [
+        375,
+        667
+      ],
+      [
+        390,
+        844
+      ],
+      [
+        430,
+        932
+      ]
+    ],
+    "fontSettings": [
+      20,
+      22,
+      26,
+      30
+    ],
+    "notes": [
+      true,
+      false
+    ],
+    "scrollingCombinations": 6013,
+    "issues": [],
+    "method": "在Codex内置浏览器通过检查页运行，共用真实阅读器HTML/CSS/字体及DOM布局函数。",
+    "completed": true
+  },
+  "nativeMatrix": {
+    "poems": 320,
+    "layoutResolutions": 20480,
+    "readingAreaSizes": [
+      [
+        320,
+        480
+      ],
+      [
+        375,
+        580
+      ],
+      [
+        390,
+        760
+      ],
+      [
+        430,
+        840
+      ]
+    ],
+    "fontSettings": [
+      20,
+      22,
+      26,
+      30
+    ],
+    "dynamicScales": [
+      1,
+      1.6
+    ],
+    "notes": [
+      true,
+      false
+    ],
+    "method": "XCTest直接调用原生PoemLayout，检查可读字号下限、有限计算值、阅读区高度及无简注下移边界；不代替真机截图测试。",
+    "fullSuiteTests": 12,
+    "failures": 0,
+    "logs": [
+      "/tmp/tangpoetry-v040-test.log",
+      "/tmp/tangpoetry-v040-layout-final.log"
+    ],
+    "finalAdjustmentRetested": true
+  },
+  "manualReview": {
+    "scope": "原317首共享真实渲染器逐组缩览；新增3幅原图及诗页逐张查看；24首图文交界个别调整，另复查6首带序诗。",
+    "keyCases": [
+      "登金陵凤凰台（网页全尺寸调整前后对照）",
+      "在狱咏蝉（最终原生正文、异文和题序）",
+      "凉州词（原生简注开关及半屏弹层）"
+    ],
+    "simulator": "iPhone 17 / iOS 26.2",
+    "restoredPoem": "tang-267-liang-zhou-ci",
+    "restoredNotesEnabled": true,
+    "notesSheetFraction": 0.58,
+    "limits": "未完成真机、VoiceOver和最大辅助字号专项；插画检查不代表服饰、建筑、器物的学术考证。"
+  }
+}

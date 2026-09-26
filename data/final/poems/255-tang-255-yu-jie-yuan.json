@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-255-yu-jie-yuan",
@@ -24,6 +24,11 @@
     ],
     "text": "玉阶生白露，夜久侵罗袜。却下水晶帘，玲珑望秋月。",
     "textTraditional": "玉階生白露，夜久侵羅襪。卻下水晶簾，玲瓏望秋月。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "玉阶生白露，",
       "夜久侵罗袜。",
@@ -261,7 +266,8 @@
         "file": "唐诗三百首.json",
         "index": 296,
         "title": "玉阶怨",
-        "author": "李白"
+        "author": "李白",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-265-gui-yuan",
@@ -24,6 +24,11 @@
     ],
     "text": "闺中少妇不知愁，春日凝妆上翠楼。忽见陌头杨柳色，悔教夫婿觅封侯。",
     "textTraditional": "閨中少婦不知愁，春日凝妝上翠樓。忽見陌頭楊柳色，悔教夫婿覓封侯。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "闺中少妇不知愁，",
       "春日凝妆上翠楼。",
@@ -325,7 +330,8 @@
         "file": "唐诗三百首.json",
         "index": 234,
         "title": "闺怨",
-        "author": "王昌龄"
+        "author": "王昌龄",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

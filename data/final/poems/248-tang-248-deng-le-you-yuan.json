@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-248-deng-le-you-yuan",
@@ -25,6 +25,11 @@
     ],
     "text": "向晚意不适，驱车登古原。夕阳无限好，只是近黄昏。",
     "textTraditional": "向晚意不適，驅車登古原。夕陽無限好，只是近黃昏。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "向晚意不适，",
       "驱车登古原。",
@@ -255,7 +260,8 @@
         "file": "唐诗三百首.json",
         "index": 291,
         "title": "乐游原 / 登乐游原",
-        "author": "李商隐"
+        "author": "李商隐",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

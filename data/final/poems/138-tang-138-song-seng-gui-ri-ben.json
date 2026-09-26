@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-138-song-seng-gui-ri-ben",
@@ -28,6 +28,11 @@
     ],
     "text": "上国随缘住，来途若梦行。浮天沧海远，去世法舟轻。水月通禅寂，鱼龙听梵声。惟怜一灯影，万里眼中明。",
     "textTraditional": "上國隨緣住，來途若夢行。浮天滄海遠，去世法舟輕。水月通禪寂，魚龍聽梵聲。惟憐一燈影，萬里眼中明。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "上国随缘住，",
       "来途若梦行。",
@@ -460,7 +465,8 @@
         "file": "唐诗三百首.json",
         "index": 275,
         "title": "送僧归日本",
-        "author": "钱起"
+        "author": "钱起",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

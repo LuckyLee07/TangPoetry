@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-096-ti-da-yu-ling-bei-yi",
@@ -26,6 +26,11 @@
     ],
     "text": "阳月南飞雁，传闻至此回，我行殊未已，何日复归来？江静潮初落，林昏瘴不开。明朝望乡处，应见陇头梅。",
     "textTraditional": "陽月南飛雁，傳聞至此回，我行殊未已，何日復歸來？江靜潮初落，林昏瘴不開。明朝望鄉處，應見隴頭梅。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "阳月南飞雁，",
       "传闻至此回，",
@@ -467,7 +472,8 @@
         "file": "唐诗三百首.json",
         "index": 298,
         "title": "题大庾岭北驿",
-        "author": "宋之问"
+        "author": "宋之问",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

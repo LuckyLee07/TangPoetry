@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-319-qing-ping-diao-zhi-san",
@@ -25,6 +25,11 @@
     ],
     "text": "名花倾国两相欢，常得君王带笑看。解释春风无限恨，沈香亭北倚阑干。",
     "textTraditional": "名花傾國兩相歡，常得君王帶笑看。解釋春風無限恨，沈香亭北倚闌幹。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "名花倾国两相欢，",
       "常得君王带笑看。",
@@ -317,7 +322,8 @@
         "file": "唐诗三百首.json",
         "index": 51,
         "title": "清平调·名花倾国两相欢",
-        "author": "李白"
+        "author": "李白",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

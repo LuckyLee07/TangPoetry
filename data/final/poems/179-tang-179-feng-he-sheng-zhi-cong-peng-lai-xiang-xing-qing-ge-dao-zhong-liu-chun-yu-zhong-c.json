@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-179-feng-he-sheng-zhi-cong-peng-lai-xiang-xing-qing-ge-dao-zhong-liu-chun-yu-zhong-c",
@@ -28,6 +28,11 @@
     ],
     "text": "渭水自萦秦塞曲，黄山旧遶汉宫斜。銮舆迥出千门柳，阁道回看上苑花。云里帝城双凤阙，雨中春树万人家。为乘阳气行时令，不是宸游玩物华。",
     "textTraditional": "渭水自縈秦塞曲，黃山舊遶漢宮斜。鑾輿迥出千門柳，閣道迴看上苑花。雲裡帝城雙鳳闕，雨中春樹萬人家。為乘陽氣行時令，不是宸遊玩物華。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "渭水自萦秦塞曲，",
       "黄山旧遶汉宫斜。",
@@ -599,7 +604,8 @@
         "file": "唐诗三百首.json",
         "index": 186,
         "title": "奉和圣制从蓬莱向兴庆阁道中留春雨中春望之作应制",
-        "author": "王维"
+        "author": "王维",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-287-gong-ci",
@@ -25,6 +25,11 @@
     ],
     "text": "寂寂花时闭院门，美人相并立琼轩。含情欲说宫中事，鹦鹉前头不敢言。",
     "textTraditional": "寂寂花時閉院門，美人相並立瓊軒。含情欲說宮中事，鸚鵡前頭不敢言。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "寂寂花时闭院门，",
       "美人相并立琼轩。",
@@ -324,7 +329,8 @@
         "file": "唐诗三百首.json",
         "index": 294,
         "title": "宫词 / 宫中词",
-        "author": "朱庆馀"
+        "author": "朱庆馀",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

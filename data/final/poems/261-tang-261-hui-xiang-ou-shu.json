@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-261-hui-xiang-ou-shu",
@@ -25,6 +25,11 @@
     ],
     "text": "少小离家老大回，乡音无改鬓毛衰；儿童相见不相识，笑问客从何处来。",
     "textTraditional": "少小離家老大回，鄉音無改鬢毛衰；兒童相見不相識，笑問客從何處來。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "少小离家老大回，",
       "乡音无改鬓毛衰；",
@@ -336,7 +341,8 @@
         "file": "唐诗三百首.json",
         "index": 304,
         "title": "回乡偶书二首·其一",
-        "author": "贺知章"
+        "author": "贺知章",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

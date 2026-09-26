@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-313-qiu-ye-qu",
@@ -24,6 +24,11 @@
     ],
     "text": "桂魄初生秋露微，轻罗已薄未更衣。银筝夜久殷勤弄，心怯空房不忍归。",
     "textTraditional": "桂魄初生秋露微，輕羅已薄未更衣。銀箏夜久殷勤弄，心怯空房不忍歸。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "桂魄初生秋露微，",
       "轻罗已薄未更衣。",
@@ -324,7 +329,8 @@
         "file": "唐诗三百首.json",
         "index": 94,
         "title": "秋夜曲",
-        "author": "王维"
+        "author": "王维",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

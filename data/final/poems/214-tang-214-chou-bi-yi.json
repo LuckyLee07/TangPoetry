@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-214-chou-bi-yi",
@@ -28,6 +28,11 @@
     ],
     "text": "猿鸟犹疑畏简书，风云常为护储胥。徒令上将挥神笔，终见降王走传车。管乐有才原不忝，关张无命欲何如？他年锦里经祠庙，梁父吟成恨有余。",
     "textTraditional": "猿鳥猶疑畏簡書，風雲常為護儲胥。徒令上將揮神筆，終見降王走傳車。管樂有才原不忝，關張無命欲何如？他年錦裏經祠廟，梁父吟成恨有餘。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "猿鸟犹疑畏简书，",
       "风云常为护储胥。",
@@ -599,7 +604,8 @@
         "file": "唐诗三百首.json",
         "index": 39,
         "title": "筹笔驿",
-        "author": "李商隐"
+        "author": "李商隐",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-237-song-ling-che",
@@ -25,6 +25,11 @@
     ],
     "text": "苍苍竹林寺，杳杳钟声晚。荷笠带斜阳，青山独归远。",
     "textTraditional": "蒼蒼竹林寺，杳杳鐘聲晚。荷笠帶斜陽，青山獨歸遠。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "苍苍竹林寺，",
       "杳杳钟声晚。",
@@ -264,7 +269,8 @@
         "file": "唐诗三百首.json",
         "index": 43,
         "title": "送灵澈上人",
-        "author": "刘长卿"
+        "author": "刘长卿",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

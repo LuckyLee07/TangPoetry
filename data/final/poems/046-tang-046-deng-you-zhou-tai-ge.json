@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-046-deng-you-zhou-tai-ge",
@@ -24,6 +24,11 @@
     ],
     "text": "前不见古人，后不见来者；念天地之悠悠，独怆然而涕下。",
     "textTraditional": "前不見古人，後不見來者；念天地之悠悠，獨愴然而涕下。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "前不见古人，",
       "后不见来者；",
@@ -273,7 +278,8 @@
         "file": "唐诗三百首.json",
         "index": 79,
         "title": "登幽州台歌",
-        "author": "陈子昂"
+        "author": "陈子昂",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

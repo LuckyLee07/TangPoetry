@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-013-song-bie",
@@ -17,17 +17,30 @@
     "lines": [
       "下马饮君酒，问君何所之？",
       "君言不得意，归卧南山陲。",
-      "但去莫复闻，白云无尽时。",
-      "又作问"
+      "但去莫复闻，白云无尽时。"
     ],
     "linesTraditional": [
       "下馬飲君酒，問君何所之？",
       "君言不得意，歸臥南山陲。",
-      "但去莫復聞，白雲無盡時。",
-      "又作問"
+      "但去莫復聞，白雲無盡時。"
     ],
-    "text": "下马饮君酒，问君何所之？君言不得意，归卧南山陲。但去莫复闻，白云无尽时。又作问",
-    "textTraditional": "下馬飲君酒，問君何所之？君言不得意，歸臥南山陲。但去莫復聞，白雲無盡時。又作問",
+    "text": "下马饮君酒，问君何所之？君言不得意，归卧南山陲。但去莫复闻，白云无尽时。",
+    "textTraditional": "下馬飲君酒，問君何所之？君言不得意，歸臥南山陲。但去莫復聞，白雲無盡時。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [
+      {
+        "text": "又作问",
+        "textTraditional": "又作問",
+        "source": "ctext",
+        "sourceUrl": "https://ctext.org/wiki.pl?if=en&chapter=820428",
+        "originalLine": "又作问",
+        "originalLineTraditional": "又作問",
+        "locationStatus": "source-does-not-identify-target"
+      }
+    ],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "下马饮君酒，",
       "问君何所之？",
@@ -184,20 +197,6 @@
           "。",
           ""
         ]
-      ],
-      [
-        [
-          "又",
-          "yòu"
-        ],
-        [
-          "作",
-          "zuò"
-        ],
-        [
-          "问",
-          "wèn"
-        ]
       ]
     ],
     "rubyLines": [
@@ -350,20 +349,6 @@
           "。",
           ""
         ]
-      ],
-      [
-        [
-          "又",
-          "yòu"
-        ],
-        [
-          "作",
-          "zuò"
-        ],
-        [
-          "问",
-          "wèn"
-        ]
       ]
     ],
     "notes": [
@@ -397,7 +382,8 @@
         "file": "唐诗三百首.json",
         "index": 272,
         "title": "送别",
-        "author": "王维"
+        "author": "王维",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

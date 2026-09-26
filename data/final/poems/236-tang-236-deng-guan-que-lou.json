@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-236-deng-guan-que-lou",
@@ -24,6 +24,11 @@
     ],
     "text": "白日依山尽，黄河入海流。欲穷千里目，更上一层楼。",
     "textTraditional": "白日依山盡，黃河入海流。欲窮千里目，更上一層樓。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "白日依山尽，",
       "黄河入海流。",
@@ -260,7 +265,8 @@
         "file": "唐诗三百首.json",
         "index": 249,
         "title": "登鹳雀楼",
-        "author": "王之涣"
+        "author": "王之涣",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-295-zeng-bie-zhi-yi",
@@ -25,6 +25,11 @@
     ],
     "text": "娉娉袅袅十三余，豆蔻梢头二月初。春风十里扬州路，卷上珠帘总不如。",
     "textTraditional": "娉娉嫋嫋十三餘，豆蔻梢頭二月初。春風十里揚州路，卷上珠簾總不如。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "娉娉袅袅十三余，",
       "豆蔻梢头二月初。",
@@ -324,7 +329,8 @@
         "file": "唐诗三百首.json",
         "index": 200,
         "title": "赠别二首",
-        "author": "杜牧"
+        "author": "杜牧",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

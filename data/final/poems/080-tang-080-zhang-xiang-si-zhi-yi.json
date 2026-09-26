@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-080-zhang-xiang-si-zhi-yi",
@@ -33,6 +33,11 @@
     ],
     "text": "长相思，在长安。络纬秋啼金井阑，微霜凄凄簟色寒。孤灯不明思欲绝，卷帷望月空长叹。美人如花隔云端，上有青冥之长天，下有渌水之波澜。天长路远魂飞苦，梦魂不到关山难。长相思，摧心肝。",
     "textTraditional": "長相思，在長安。絡緯秋啼金井闌，微霜淒淒簟色寒。孤燈不明思欲絕，卷帷望月空長歎。美人如花隔雲端，上有青冥之長天，下有淥水之波瀾。天長路遠魂飛苦，夢魂不到關山難。長相思，摧心肝。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "长相思，",
       "在长安。",
@@ -722,7 +727,8 @@
         "file": "唐诗三百首.json",
         "index": 176,
         "title": "长相思·其一",
-        "author": "李白"
+        "author": "李白",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-146-xi-jian-wai-di-you-yan-bie",
@@ -28,6 +28,11 @@
     ],
     "text": "十年离乱后，长大一相逢。问姓惊初见，称名忆旧容。别来沧海事，语罢暮天钟。明日巴陵道，秋山又几重。",
     "textTraditional": "十年離亂後，長大一相逢。問姓驚初見，稱名憶舊容。別來滄海事，語罷暮天鐘。明日巴陵道，秋山又幾重。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "十年离乱后，",
       "长大一相逢。",
@@ -460,7 +465,8 @@
         "file": "唐诗三百首.json",
         "index": 188,
         "title": "喜见外弟又言别",
-        "author": "李益"
+        "author": "李益",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

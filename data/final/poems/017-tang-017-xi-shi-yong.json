@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-017-xi-shi-yong",
@@ -34,6 +34,11 @@
     ],
     "text": "艳色天下重，西施宁久微？朝为越溪女，暮作吴宫妃。贱日岂殊众？贵来方悟稀。邀人傅脂粉，不自著罗衣，君宠益娇态，君怜无是非。当时浣纱伴，莫得同车归。持谢邻家子，效颦安可希？",
     "textTraditional": "艷色天下重，西施寧久微？朝為越溪女，暮作吳宮妃。賤日豈殊眾？貴來方悟稀。邀人傅脂粉，不自著羅衣，君寵益嬌態，君憐無是非。當時浣紗伴，莫得同車歸。持謝鄰家子，效顰安可希？",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "艳色天下重，",
       "西施宁久微？",
@@ -577,7 +582,8 @@
         "file": "唐诗三百首.json",
         "index": 312,
         "title": "西施咏",
-        "author": "王维"
+        "author": "王维",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

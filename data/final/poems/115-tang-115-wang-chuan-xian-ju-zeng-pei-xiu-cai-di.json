@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-115-wang-chuan-xian-ju-zeng-pei-xiu-cai-di",
@@ -28,6 +28,11 @@
     ],
     "text": "寒山转苍翠，秋水日潺湲。倚杖柴门外，临风听暮蝉。渡头余落日，墟里上孤烟。复值接舆醉，狂歌五柳前。",
     "textTraditional": "寒山轉蒼翠，秋水日潺湲。倚杖柴門外，臨風聽暮蟬。渡頭餘落日，墟里上孤煙。復值接輿醉，狂歌五柳前。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "寒山转苍翠，",
       "秋水日潺湲。",
@@ -483,7 +488,8 @@
         "file": "唐诗三百首.json",
         "index": 155,
         "title": "辋川闲居赠裴秀才迪",
-        "author": "王维"
+        "author": "王维",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

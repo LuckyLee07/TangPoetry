@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-090-jing-zou-lu-ji-kong-zi-er-tan-zhi",
@@ -28,6 +28,11 @@
     ],
     "text": "夫子何为者，栖栖一代中。地犹鄹氏邑，宅即鲁王宫。叹凤嗟身否，伤麟怨道穷。今看两楹奠，当与梦时同。",
     "textTraditional": "夫子何為者，棲棲一代中。地猶鄹氏邑，宅即魯王宮。歎鳳嗟身否，傷麟怨道窮。今看兩楹奠，當與夢時同。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "夫子何为者，",
       "栖栖一代中。",
@@ -470,7 +475,8 @@
         "file": "唐诗三百首.json",
         "index": 64,
         "title": "经邹鲁祭孔子而叹之",
-        "author": "李隆基"
+        "author": "李隆基",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

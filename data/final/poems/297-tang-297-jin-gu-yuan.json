@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-297-jin-gu-yuan",
@@ -24,6 +24,11 @@
     ],
     "text": "繁华事散逐香尘，流水无情草自春。日暮东风怨啼鸟，落花犹似坠楼人。",
     "textTraditional": "繁華事散逐香塵，流水無情草自春。日暮東風怨啼鳥，落花猶似墜樓人。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "繁华事散逐香尘，",
       "流水无情草自春。",
@@ -331,7 +336,8 @@
         "file": "唐诗三百首.json",
         "index": 92,
         "title": "金谷园",
-        "author": "杜牧"
+        "author": "杜牧",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

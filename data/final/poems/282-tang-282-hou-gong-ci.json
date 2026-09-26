@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-282-hou-gong-ci",
@@ -24,6 +24,11 @@
     ],
     "text": "泪湿罗巾梦不成，夜深前殿按歌声。红颜未老恩先断，斜倚薰笼坐到明。",
     "textTraditional": "淚濕羅巾夢不成，夜深前殿按歌聲。紅顏未老恩先斷，斜倚薰籠坐到明。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "泪湿罗巾梦不成，",
       "夜深前殿按歌声。",
@@ -329,7 +334,8 @@
         "file": "唐诗三百首.json",
         "index": 145,
         "title": "后宫词",
-        "author": "白居易"
+        "author": "白居易",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

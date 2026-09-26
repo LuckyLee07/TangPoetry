@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-041-zi-ye-si-shi-ge-qiu-ge",
@@ -29,6 +29,11 @@
     ],
     "text": "长安一片月，万户捣衣声；秋风吹不尽，总是玉关情。何日平胡虏？良人罢远征。",
     "textTraditional": "長安一片月，萬戶擣衣聲；秋風吹不盡，總是玉關情。何日平胡虜？良人罷遠征。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "长安一片月，",
       "万户捣衣声；",
@@ -370,7 +375,8 @@
         "file": "唐诗三百首.json",
         "index": 286,
         "title": "子夜吴歌·秋歌",
-        "author": "李白"
+        "author": "李白",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-249-xun-yin-zhe-bu-yu",
@@ -25,6 +25,11 @@
     ],
     "text": "松下问童子，言师采药去。只在此山中，云深不知处。",
     "textTraditional": "松下問童子，言師採藥去。只在此山中，雲深不知處。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "松下问童子，",
       "言师采药去。",
@@ -256,7 +261,8 @@
         "file": "唐诗三百首.json",
         "index": 81,
         "title": "寻隐者不遇 / 孙革访羊尊师诗",
-        "author": "贾岛"
+        "author": "贾岛",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

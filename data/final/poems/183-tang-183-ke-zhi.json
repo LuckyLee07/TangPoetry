@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-183-ke-zhi",
@@ -28,6 +28,11 @@
     ],
     "text": "舍南舍北皆春水，但见群鸥日日来。花径不曾缘客扫，蓬门今始为君开。盘飧市远无兼味，樽酒家贫只旧醅。肯与邻翁相对饮，隔篱呼取尽余杯。",
     "textTraditional": "舍南舍北皆春水，但見群鷗日日來。花徑不曾緣客掃，蓬門今始為君開。盤飧市遠無兼味，樽酒家貧只舊醅。肯與鄰翁相對飲，隔籬呼取盡餘杯。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "舍南舍北皆春水，",
       "但见群鸥日日来。",
@@ -597,7 +602,8 @@
         "file": "唐诗三百首.json",
         "index": 60,
         "title": "客至",
-        "author": "杜甫"
+        "author": "杜甫",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

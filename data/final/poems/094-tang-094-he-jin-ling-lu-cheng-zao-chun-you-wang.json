@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-094-he-jin-ling-lu-cheng-zao-chun-you-wang",
@@ -29,6 +29,11 @@
     ],
     "text": "独有宦游人，偏惊物候新。云霞出海曙，梅柳渡江春。淑气催黄鸟，晴光转绿苹。忽闻歌古调，归思欲沾巾。",
     "textTraditional": "獨有宦遊人，偏驚物候新。雲霞出海曙，梅柳渡江春。淑氣催黃鳥，晴光轉綠蘋。忽聞歌古調，歸思欲霑巾。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "独有宦游人，",
       "偏惊物候新。",
@@ -472,7 +477,8 @@
         "file": "唐诗三百首.json",
         "index": 112,
         "title": "和晋陵陆丞早春游望",
-        "author": "杜审言"
+        "author": "杜审言",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

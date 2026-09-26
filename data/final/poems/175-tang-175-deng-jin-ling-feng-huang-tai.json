@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-175-deng-jin-ling-feng-huang-tai",
@@ -17,17 +17,49 @@
     "lines": [
       "凤凰台上凤凰游，凤去台空江自流。",
       "吴宫花草埋幽径，晋代衣冠成古邱。",
-      "三台半落青山外，二水中分白鹭洲。",
+      "三山半落青天外，二水中分白鹭洲。",
       "总为浮云能蔽日，长安不见使人愁。"
     ],
     "linesTraditional": [
       "鳳凰臺上鳳凰游，鳳去臺空江自流。",
       "吳宮花草埋幽徑，晉代衣冠成古邱。",
-      "三臺半落青山外，二水中分白鷺洲。",
+      "三山半落青天外，二水中分白鷺洲。",
       "總為浮雲能蔽日，長安不見使人愁。"
     ],
-    "text": "凤凰台上凤凰游，凤去台空江自流。吴宫花草埋幽径，晋代衣冠成古邱。三台半落青山外，二水中分白鹭洲。总为浮云能蔽日，长安不见使人愁。",
-    "textTraditional": "鳳凰臺上鳳凰游，鳳去臺空江自流。吳宮花草埋幽徑，晉代衣冠成古邱。三臺半落青山外，二水中分白鷺洲。總為浮雲能蔽日，長安不見使人愁。",
+    "text": "凤凰台上凤凰游，凤去台空江自流。吴宫花草埋幽径，晋代衣冠成古邱。三山半落青天外，二水中分白鹭洲。总为浮云能蔽日，长安不见使人愁。",
+    "textTraditional": "鳳凰臺上鳳凰游，鳳去臺空江自流。吳宮花草埋幽徑，晉代衣冠成古邱。三山半落青天外，二水中分白鷺洲。總為浮雲能蔽日，長安不見使人愁。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [
+      {
+        "original": "三台半落青山外",
+        "replacement": "三山半落青天外",
+        "originalTraditional": "三臺半落青山外",
+        "replacementTraditional": "三山半落青天外",
+        "expectedCount": 1,
+        "reason": "三山为金陵地名，基础源、chiuinan与地方志引诗一致。",
+        "evidence": [
+          {
+            "file": "唐诗三百首.json",
+            "index": 165,
+            "excerpt": "三山半落青天外，二水中分白鹭洲。"
+          },
+          {
+            "file": "data/sources/chiuinan_clean.json",
+            "order": 272,
+            "excerpt": "三山半落青天外，二水中分白鹭洲。"
+          },
+          {
+            "url": "https://dfz.nanjing.gov.cn/gzdt/202403/t20240314_4186060.html",
+            "title": "南京市地方志办公室《文学作品与南京形象（二）》",
+            "excerpt": "三山半落青天外",
+            "checkedAt": "2026-09-26"
+          }
+        ]
+      }
+    ],
+    "metadataCorrections": {},
     "displayLines": [
       "凤凰台上凤凰游，",
       "凤去台空江自流。",
@@ -173,8 +205,8 @@
           "sān"
         ],
         [
-          "台",
-          "tái"
+          "山",
+          "shān"
         ],
         [
           "半",
@@ -189,8 +221,8 @@
           "qīng"
         ],
         [
-          "山",
-          "shān"
+          "天",
+          "tiān"
         ],
         [
           "外",
@@ -439,8 +471,8 @@
           "sān"
         ],
         [
-          "台",
-          "tái"
+          "山",
+          "shān"
         ],
         [
           "半",
@@ -455,8 +487,8 @@
           "qīng"
         ],
         [
-          "山",
-          "shān"
+          "天",
+          "tiān"
         ],
         [
           "外",
@@ -603,7 +635,8 @@
         "file": "唐诗三百首.json",
         "index": 165,
         "title": "登金陵凤凰台",
-        "author": "李白"
+        "author": "李白",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

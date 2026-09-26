@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-238-tan-qin",
@@ -25,6 +25,11 @@
     ],
     "text": "泠泠七弦上，静听松风寒。古调虽自爱，今人多不弹。",
     "textTraditional": "泠泠七絃上，靜聽松風寒。古調雖自愛，今人多不彈。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "泠泠七弦上，",
       "静听松风寒。",
@@ -264,7 +269,8 @@
         "file": "唐诗三百首.json",
         "index": 158,
         "title": "听弹琴",
-        "author": "刘长卿"
+        "author": "刘长卿",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-168-zhang-tai-ye-si",
@@ -28,6 +28,11 @@
     ],
     "text": "清瑟怨遥夜，绕弦风雨哀。孤灯闻楚角，残月下章台。芳草已云暮，故人殊未来。乡书不可寄，秋雁又南回。",
     "textTraditional": "清瑟怨遙夜，繞絃風雨哀。孤燈聞楚角，殘月下章臺。芳草已雲暮，故人殊未來。鄉書不可寄，秋雁又南迴。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "清瑟怨遥夜，",
       "绕弦风雨哀。",
@@ -461,7 +466,8 @@
         "file": "唐诗三百首.json",
         "index": 166,
         "title": "章台夜思",
-        "author": "韦庄"
+        "author": "韦庄",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

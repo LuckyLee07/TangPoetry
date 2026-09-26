@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-225-zhu-li-guan",
@@ -24,6 +24,11 @@
     ],
     "text": "独坐幽篁里，弹琴复长啸。深林人不知，明月来相照。",
     "textTraditional": "獨坐幽篁裡，彈琴復長嘯。深林人不知，明月來相照。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "独坐幽篁里，",
       "弹琴复长啸。",
@@ -263,7 +268,8 @@
         "file": "唐诗三百首.json",
         "index": 96,
         "title": "竹里馆",
-        "author": "王维"
+        "author": "王维",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

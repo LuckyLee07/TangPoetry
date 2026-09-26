@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-259-sai-xia-qu-si-shou-zhi-si",
@@ -25,6 +25,11 @@
     ],
     "text": "野幕蔽琼筵，羌戎贺劳旋。醉和金甲舞，雷鼓动山川。",
     "textTraditional": "野幕蔽瓊筵，羌戎賀勞旋。醉和金甲舞，雷鼓動山川。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "野幕蔽琼筵，",
       "羌戎贺劳旋。",
@@ -260,7 +265,8 @@
         "file": "唐诗三百首.json",
         "index": 257,
         "title": "和张仆射塞下曲·其四",
-        "author": "卢纶"
+        "author": "卢纶",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

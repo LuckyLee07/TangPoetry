@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-140-huai-shang-xi-hui-liang-chuan-gu-ren",
@@ -31,6 +31,11 @@
     ],
     "text": "江汉曾为客，相逢每醉还。浮云一别后，流水十年间。欢笑情如旧，萧疏鬓已斑。何因北归去？淮上对秋山。",
     "textTraditional": "江漢曾為客，相逢每醉還。浮雲一別後，流水十年間。歡笑情如舊，蕭疏鬢已斑。何因北歸去？淮上對秋山。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "江汉曾为客，",
       "相逢每醉还。",
@@ -446,7 +451,8 @@
         "file": "唐诗三百首.json",
         "index": 86,
         "title": "淮上喜会梁川故人 / 淮上喜会梁州故人",
-        "author": "韦应物"
+        "author": "韦应物",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

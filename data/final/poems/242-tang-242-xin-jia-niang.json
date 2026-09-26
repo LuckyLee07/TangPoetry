@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-242-xin-jia-niang",
@@ -25,6 +25,11 @@
     ],
     "text": "三日入厨下，洗手作羹汤。未谙姑食性，先遣小姑尝。",
     "textTraditional": "三日入廚下，洗手作羹湯。未諳姑食性，先遣小姑嘗。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "三日入厨下，",
       "洗手作羹汤。",
@@ -261,7 +266,8 @@
         "file": "唐诗三百首.json",
         "index": 119,
         "title": "新嫁娘词",
-        "author": "王建"
+        "author": "王建",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

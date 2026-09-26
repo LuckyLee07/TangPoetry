@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-142-chou-cheng-yan-qiu-ye-ji-shi-jian-zeng",
@@ -28,6 +28,11 @@
     ],
     "text": "长簟迎风早，空城澹月华。星河秋一雁，砧杵夜千家。节候看应晚，心期卧亦赊。向来吟秀句，不觉已鸣鸦。",
     "textTraditional": "長簟迎風早，空城澹月華。星河秋一雁，砧杵夜千家。節候看應晚，心期臥亦賒。向來吟秀句，不覺已鳴鴉。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "长簟迎风早，",
       "空城澹月华。",
@@ -468,7 +473,8 @@
         "file": "唐诗三百首.json",
         "index": 230,
         "title": "酬程延秋夜即事见赠",
-        "author": "韩翃"
+        "author": "韩翃",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

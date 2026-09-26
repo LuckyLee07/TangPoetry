@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-178-he-jia-she-ren-zao-chao-da-ming-gong-zhi-zuo",
@@ -28,6 +28,11 @@
     ],
     "text": "绛帻鸡人送晓筹，尚衣方进翠云裘。九天阊阖开宫殿，万国衣冠拜冕旒。日色才临仙掌动，香烟欲傍衮龙浮。朝罢须裁五色诏，珮声归向凤池头。",
     "textTraditional": "絳幘雞人送曉籌，尚衣方進翠雲裘。九天閶闔開宮殿，萬國衣冠拜冕旒。日色纔臨仙掌動，香煙欲傍袞龍浮。朝罷須裁五色詔，珮聲歸向鳳池頭。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "绛帻鸡人送晓筹，",
       "尚衣方进翠云裘。",
@@ -628,7 +633,8 @@
         "file": "唐诗三百首.json",
         "index": 313,
         "title": "和贾舍人早朝大明宫之作",
-        "author": "王维"
+        "author": "王维",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

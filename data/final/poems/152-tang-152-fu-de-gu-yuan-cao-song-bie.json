@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-152-fu-de-gu-yuan-cao-song-bie",
@@ -29,6 +29,11 @@
     ],
     "text": "离离原上草，一岁一枯荣。野火烧不尽，春风吹又生。远芳侵古道，晴翠接荒城。又送王孙去，萋萋满别情。",
     "textTraditional": "離離原上草，一歲一枯榮。野火燒不盡，春風吹又生。遠芳侵古道，晴翠接荒城。又送王孫去，萋萋滿別情。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "离离原上草，",
       "一岁一枯荣。",
@@ -476,7 +481,8 @@
         "file": "唐诗三百首.json",
         "index": 225,
         "title": "草 / 赋得古原草送别",
-        "author": "白居易"
+        "author": "白居易",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-170-huang-he-lou",
@@ -31,6 +31,11 @@
     ],
     "text": "昔人已乘黄鹤去，此地空余黄鹤楼。黄鹤一去不复返，白云千载空悠悠。晴川历历汉阳树，芳草萋萋鹦鹉洲。日暮乡关何处是？烟波江上使人愁。",
     "textTraditional": "昔人已乘黃鶴去，此地空餘黃鶴樓。黃鶴一去不復返，白雲千載空悠悠。晴川歷歷漢陽樹，芳草萋萋鸚鵡洲。日暮鄉關何處是？煙波江上使人愁。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "昔人已乘黄鹤去，",
       "此地空余黄鹤楼。",
@@ -578,7 +583,8 @@
         "file": "唐诗三百首.json",
         "index": 217,
         "title": "黄鹤楼 / 登黄鹤楼",
-        "author": "崔颢"
+        "author": "崔颢",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

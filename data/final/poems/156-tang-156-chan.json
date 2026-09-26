@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-156-chan",
@@ -28,6 +28,11 @@
     ],
     "text": "本以高难饱，徒劳恨费声。五更疏欲断，一树碧无情。薄宦梗犹泛，故园芜已平。烦君最相警，我亦举家清。",
     "textTraditional": "本以高難飽，徒勞恨費聲。五更疏欲斷，一樹碧無情。薄宦梗猶汎，故園蕪已平。煩君最相警，我亦舉家清。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "本以高难饱，",
       "徒劳恨费声。",
@@ -473,7 +478,8 @@
         "file": "唐诗三百首.json",
         "index": 84,
         "title": "蝉",
-        "author": "李商隐"
+        "author": "李商隐",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

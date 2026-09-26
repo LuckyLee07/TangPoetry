@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-222-pin-nv",
@@ -28,6 +28,11 @@
     ],
     "text": "蓬门未识绮罗香，拟托良媒益自伤。谁爱风流高格调，共怜时世俭梳妆。敢将十指夸针巧，不把双眉斗画长。苦恨年年压金线，为他人作嫁衣裳。",
     "textTraditional": "蓬門未識綺羅香，擬託良媒益自傷。誰愛風流高格調，共憐時世儉梳妝。敢將十指誇鍼巧，不把雙眉鬥畫長。苦恨年年壓金線，為他人作嫁衣裳。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "蓬门未识绮罗香，",
       "拟托良媒益自伤。",
@@ -591,7 +596,8 @@
         "file": "唐诗三百首.json",
         "index": 87,
         "title": "贫女",
-        "author": "秦韬玉"
+        "author": "秦韬玉",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

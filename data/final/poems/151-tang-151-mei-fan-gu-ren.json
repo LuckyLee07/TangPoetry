@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-151-mei-fan-gu-ren",
@@ -18,18 +18,31 @@
       "前年伐月支，城下没全师。",
       "蕃汉断消息，死生长别离。",
       "无人收废帐，归马识残旗。",
-      "欲祭疑君在，天涯哭此时。",
-      "又作戎"
+      "欲祭疑君在，天涯哭此时。"
     ],
     "linesTraditional": [
       "前年伐月支，城下沒全師。",
       "蕃漢斷消息，死生長別離。",
       "無人收廢帳，歸馬識殘旗。",
-      "欲祭疑君在，天涯哭此時。",
-      "又作戎"
+      "欲祭疑君在，天涯哭此時。"
     ],
-    "text": "前年伐月支，城下没全师。蕃汉断消息，死生长别离。无人收废帐，归马识残旗。欲祭疑君在，天涯哭此时。又作戎",
-    "textTraditional": "前年伐月支，城下沒全師。蕃漢斷消息，死生長別離。無人收廢帳，歸馬識殘旗。欲祭疑君在，天涯哭此時。又作戎",
+    "text": "前年伐月支，城下没全师。蕃汉断消息，死生长别离。无人收废帐，归马识残旗。欲祭疑君在，天涯哭此时。",
+    "textTraditional": "前年伐月支，城下沒全師。蕃漢斷消息，死生長別離。無人收廢帳，歸馬識殘旗。欲祭疑君在，天涯哭此時。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [
+      {
+        "text": "又作戎",
+        "textTraditional": "又作戎",
+        "source": "ctext",
+        "sourceUrl": "https://ctext.org/wiki.pl?if=en&chapter=820428",
+        "originalLine": "又作戎",
+        "originalLineTraditional": "又作戎",
+        "locationStatus": "source-does-not-identify-target"
+      }
+    ],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "前年伐月支，",
       "城下没全师。",
@@ -438,20 +451,6 @@
           "。",
           ""
         ]
-      ],
-      [
-        [
-          "又",
-          "yòu"
-        ],
-        [
-          "作",
-          "zuò"
-        ],
-        [
-          "戎",
-          "róng"
-        ]
       ]
     ],
     "notes": [
@@ -481,7 +480,8 @@
         "file": "唐诗三百首.json",
         "index": 135,
         "title": "没蕃故人",
-        "author": "张籍"
+        "author": "张籍",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

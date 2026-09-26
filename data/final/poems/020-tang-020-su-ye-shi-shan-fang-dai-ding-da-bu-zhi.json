@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-020-su-ye-shi-shan-fang-dai-ding-da-bu-zhi",
@@ -29,6 +29,11 @@
     ],
     "text": "夕阳度西岭，群壑倏已暝；松月生夜凉，风泉满清听。樵人归欲尽，烟鸟栖初定。之子期宿来，孤琴候萝径。",
     "textTraditional": "夕陽度西嶺，群壑倏已暝；松月生夜涼，風泉滿清聽。樵人歸欲盡，煙鳥棲初定。之子期宿來，孤琴候蘿徑。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "夕阳度西岭，",
       "群壑倏已暝；",
@@ -469,7 +474,8 @@
         "file": "唐诗三百首.json",
         "index": 55,
         "title": "宿业师山房期丁大不至 / 宿业师山房待丁大不至",
-        "author": "孟浩然"
+        "author": "孟浩然",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

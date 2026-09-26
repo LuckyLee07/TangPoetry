@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-231-su-jian-de-jiang",
@@ -24,6 +24,11 @@
     ],
     "text": "移舟泊烟渚，日暮客愁新。野旷天低树，江清月近人。",
     "textTraditional": "移舟泊煙渚，日暮客愁新。野曠天低樹，江清月近人。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "移舟泊烟渚，",
       "日暮客愁新。",
@@ -264,7 +269,8 @@
         "file": "唐诗三百首.json",
         "index": 133,
         "title": "宿建德江",
-        "author": "孟浩然"
+        "author": "孟浩然",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

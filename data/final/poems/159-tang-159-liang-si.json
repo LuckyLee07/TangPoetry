@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-159-liang-si",
@@ -28,6 +28,11 @@
     ],
     "text": "客去波平槛，蝉休露满枝。永怀当此节，倚立自移时。北斗兼春远，南陵寓使迟。天涯占梦数，疑误有新知。",
     "textTraditional": "客去波平檻，蟬休露滿枝。永懷當此節，倚立自移時。北斗兼春遠，南陵寓使遲。天涯占夢數，疑誤有新知。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "客去波平槛，",
       "蝉休露满枝。",
@@ -462,7 +467,8 @@
         "file": "唐诗三百首.json",
         "index": 267,
         "title": "凉思",
-        "author": "李商隐"
+        "author": "李商隐",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

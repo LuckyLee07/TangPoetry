@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-158-luo-hua",
@@ -28,6 +28,11 @@
     ],
     "text": "高阁客竟去，小园花乱飞。参差连曲陌，迢递送斜晖。肠断未忍扫，眼穿仍欲归。芳心向春尽，所得是沾衣。",
     "textTraditional": "高閣客竟去，小園花亂飛。參差連曲陌，迢遞送斜暉。腸斷未忍掃，眼穿仍欲歸。芳心向春盡，所得是沾衣。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "高阁客竟去，",
       "小园花乱飞。",
@@ -469,7 +474,8 @@
         "file": "唐诗三百首.json",
         "index": 24,
         "title": "落花",
-        "author": "李商隐"
+        "author": "李商隐",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-212-wu-ti-zhi-yi",
@@ -29,6 +29,11 @@
     ],
     "text": "来是空言去绝踪，月斜楼上五更钟。梦为远别啼难唤，书被催成墨未浓。蜡照半笼金翡翠，麝熏微度绣芙蓉。刘郎已恨蓬山远，更隔蓬山一万重。",
     "textTraditional": "來是空言去絕蹤，月斜樓上五更鐘。夢為遠別啼難喚，書被催成墨未濃。蠟照半籠金翡翠，麝熏微度繡芙蓉。劉郎已恨蓬山遠，更隔蓬山一萬重。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "来是空言去绝踪，",
       "月斜楼上五更钟。",
@@ -608,7 +613,8 @@
         "file": "唐诗三百首.json",
         "index": 300,
         "title": "无题·来是空言去绝踪",
-        "author": "李商隐"
+        "author": "李商隐",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-123-zhong-nan-bie-ye",
@@ -16,22 +16,54 @@
     ],
     "lines": [
       "中岁颇好道，晚家南山陲。",
-      "兴来美独往，胜事空自知。",
+      "兴来每独往，胜事空自知。",
       "行到水穷处，坐看云起时。",
       "偶然值林叟，谈笑无还期。"
     ],
     "linesTraditional": [
       "中歲頗好道，晚家南山陲。",
-      "興來美獨往，勝事空自知。",
+      "興來每獨往，勝事空自知。",
       "行到水窮處，坐看雲起時。",
       "偶然值林叟，談笑無還期。"
     ],
-    "text": "中岁颇好道，晚家南山陲。兴来美独往，胜事空自知。行到水穷处，坐看云起时。偶然值林叟，谈笑无还期。",
-    "textTraditional": "中歲頗好道，晚家南山陲。興來美獨往，勝事空自知。行到水窮處，坐看雲起時。偶然值林叟，談笑無還期。",
+    "text": "中岁颇好道，晚家南山陲。兴来每独往，胜事空自知。行到水穷处，坐看云起时。偶然值林叟，谈笑无还期。",
+    "textTraditional": "中歲頗好道，晚家南山陲。興來每獨往，勝事空自知。行到水窮處，坐看雲起時。偶然值林叟，談笑無還期。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [
+      {
+        "original": "兴来美独往",
+        "replacement": "兴来每独往",
+        "originalTraditional": "興來美獨往",
+        "replacementTraditional": "興來每獨往",
+        "expectedCount": 1,
+        "reason": "每独往意为兴起时常独自出游，美为误录。",
+        "evidence": [
+          {
+            "file": "唐诗三百首.json",
+            "index": 255,
+            "excerpt": "兴来每独往，胜事空自知。"
+          },
+          {
+            "file": "data/sources/chiuinan_clean.json",
+            "order": 220,
+            "excerpt": "兴来每独往，胜事空自知。"
+          },
+          {
+            "url": "https://www.zijin.gov.cn/hd/zsk/content/post_303669.html",
+            "title": "紫金县人民政府转载《咬文嚼字》引《终南别业》",
+            "excerpt": "兴来每独往",
+            "checkedAt": "2026-09-26"
+          }
+        ]
+      }
+    ],
+    "metadataCorrections": {},
     "displayLines": [
       "中岁颇好道，",
       "晚家南山陲。",
-      "兴来美独往，",
+      "兴来每独往，",
       "胜事空自知。"
     ],
     "displayRubyLines": [
@@ -95,7 +127,7 @@
           "lái"
         ],
         [
-          "美",
+          "每",
           "měi"
         ],
         [
@@ -297,7 +329,7 @@
           "lái"
         ],
         [
-          "美",
+          "每",
           "měi"
         ],
         [
@@ -463,7 +495,8 @@
         "file": "唐诗三百首.json",
         "index": 255,
         "title": "终南别业",
-        "author": "王维"
+        "author": "王维",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

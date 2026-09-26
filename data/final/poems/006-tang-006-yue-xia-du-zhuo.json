@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-006-yue-xia-du-zhuo",
@@ -35,6 +35,11 @@
     ],
     "text": "花间一壶酒，独酌无相亲；举杯邀明月，对影成三人。月既不解饮，影徒随我身；暂伴月将影，行乐须及春。我歌月徘徊，我舞影零乱；醒时同交欢，醉后各分散。永结无情游，相期邈云汉。",
     "textTraditional": "花間一壺酒，獨酌無相親；舉杯邀明月，對影成三人。月既不解飲，影徒隨我身；暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂；醒時同交歡，醉後各分散。永結無情遊，相期邈雲漢。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "花间一壶酒，",
       "独酌无相亲；",
@@ -645,7 +650,8 @@
         "file": "唐诗三百首.json",
         "index": 62,
         "title": "月下独酌四首·其一",
-        "author": "李白"
+        "author": "李白",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-095-za-shi",
@@ -29,6 +29,11 @@
     ],
     "text": "闻道黄龙戍，频年不解兵。可怜闺里月，长在汉家营。少妇今春意，良人昨夜情。谁能将旗鼓，一为取龙城？",
     "textTraditional": "聞道黃龍戍，頻年不解兵。可憐閨裡月，長在漢家營。少婦今春意，良人昨夜情。誰能將旗鼓，一為取龍城？",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "闻道黄龙戍，",
       "频年不解兵。",
@@ -460,7 +465,8 @@
         "file": "唐诗三百首.json",
         "index": 10,
         "title": "杂诗三首·其三",
-        "author": "沈佺期"
+        "author": "沈佺期",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-125-yu-zhu-zi-deng-xian-shan",
@@ -28,6 +28,11 @@
     ],
     "text": "人事有代谢，往来成古今。江山留胜迹，我辈复登临。水落鱼梁浅，天寒梦泽深。羊公碑字在，读罢泪沾襟。",
     "textTraditional": "人事有代謝，往來成古今。江山留勝跡，我輩復登臨。水落魚梁淺，天寒夢澤深。羊公碑字在，讀罷淚沾襟。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "人事有代谢，",
       "往来成古今。",
@@ -468,7 +473,8 @@
         "file": "唐诗三百首.json",
         "index": 122,
         "title": "与诸子登岘山",
-        "author": "孟浩然"
+        "author": "孟浩然",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

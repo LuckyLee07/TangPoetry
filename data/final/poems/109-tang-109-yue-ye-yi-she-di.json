@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-109-yue-ye-yi-she-di",
@@ -28,6 +28,11 @@
     ],
     "text": "戍鼓断人行，秋边一雁声。露从今夜白，月是故乡明。有弟皆分散，无家问死生。寄书长不达，况乃未休兵。",
     "textTraditional": "戍鼓斷人行，秋邊一雁聲。露從今夜白，月是故鄉明。有弟皆分散，無家問死生。寄書長不達，況乃未休兵。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "戍鼓断人行，",
       "秋边一雁声。",
@@ -471,7 +476,8 @@
         "file": "唐诗三百首.json",
         "index": 213,
         "title": "月夜忆舍弟",
-        "author": "杜甫"
+        "author": "杜甫",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

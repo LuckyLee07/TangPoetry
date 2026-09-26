@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-296-zeng-bie-zhi-er",
@@ -25,6 +25,11 @@
     ],
     "text": "多情却似总无情，唯觉樽前笑不成。蜡烛有心还惜别，替人垂泪到天明。",
     "textTraditional": "多情卻似總無情，唯覺樽前笑不成。蠟燭有心還惜別，替人垂淚到天明。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "多情却似总无情，",
       "唯觉樽前笑不成。",
@@ -320,7 +325,8 @@
         "file": "唐诗三百首.json",
         "index": 223,
         "title": "赠别",
-        "author": "杜牧"
+        "author": "杜牧",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

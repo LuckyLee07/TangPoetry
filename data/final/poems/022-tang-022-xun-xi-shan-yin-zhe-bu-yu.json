@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-022-xun-xi-shan-yin-zhe-bu-yu",
@@ -38,6 +38,11 @@
     ],
     "text": "绝顶一茅茨，直上三十里；扣关无僮仆，窥室惟案几。若非巾柴车？应是钓秋水。差池不相见，黾勉空仰止。草色新雨中，松声晚窗里；及兹契幽绝，自足荡心耳。虽无宾主意，颇得清净理。兴尽方下山，何必待之子。",
     "textTraditional": "絕頂一茅茨，直上三十里；扣關無僮僕，窺室惟案幾。若非巾柴車？應是釣秋水。差池不相見，黽勉空仰止。草色新雨中，松聲晚窗裡；及茲契幽絕，自足蕩心耳。雖無賓主意，頗得清淨理。興盡方下山，何必待之子。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "绝顶一茅茨，",
       "直上三十里；",
@@ -645,7 +650,8 @@
         "file": "唐诗三百首.json",
         "index": 47,
         "title": "寻西山隐者不遇",
-        "author": "丘为"
+        "author": "丘为",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

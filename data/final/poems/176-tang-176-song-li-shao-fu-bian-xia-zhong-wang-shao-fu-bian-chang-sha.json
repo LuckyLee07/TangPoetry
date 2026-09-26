@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-176-song-li-shao-fu-bian-xia-zhong-wang-shao-fu-bian-chang-sha",
@@ -30,6 +30,11 @@
     ],
     "text": "嗟君此别意何如？驻马衔杯问谪居。巫峡啼猿数行泪，衡阳归雁几封书。青枫江上秋帆远，白帝城边古木疏。圣代即今多雨露，暂时分手莫踌躇。",
     "textTraditional": "嗟君此別意何如？駐馬銜杯問謫居。巫峽啼猿數行淚，衡陽歸雁幾封書。青楓江上秋帆遠，白帝城邊古木疏。聖代即今多雨露，暫時分手莫躊躇。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "嗟君此别意何如？",
       "驻马衔杯问谪居。",
@@ -532,7 +537,8 @@
         "file": "唐诗三百首.json",
         "index": 282,
         "title": "送李少府贬峡中王少府贬长沙",
-        "author": "高适"
+        "author": "高适",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

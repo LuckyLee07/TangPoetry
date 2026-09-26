@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-165-ba-shan-dao-zhong-chu-ye-you-huai",
@@ -19,18 +19,31 @@
       "迢递三巴路，羁危万里身。",
       "乱山残雪夜，孤独异乡春。",
       "渐与骨肉远，转于僮仆亲。",
-      "那堪正飘泊，明日岁华新。",
-      "又作人"
+      "那堪正飘泊，明日岁华新。"
     ],
     "linesTraditional": [
       "迢遞三巴路，羈危萬里身。",
       "亂山殘雪夜，孤獨異鄉春。",
       "漸與骨肉遠，轉於僮僕親。",
-      "那堪正飄泊，明日歲華新。",
-      "又作人"
+      "那堪正飄泊，明日歲華新。"
     ],
-    "text": "迢递三巴路，羁危万里身。乱山残雪夜，孤独异乡春。渐与骨肉远，转于僮仆亲。那堪正飘泊，明日岁华新。又作人",
-    "textTraditional": "迢遞三巴路，羈危萬里身。亂山殘雪夜，孤獨異鄉春。漸與骨肉遠，轉於僮僕親。那堪正飄泊，明日歲華新。又作人",
+    "text": "迢递三巴路，羁危万里身。乱山残雪夜，孤独异乡春。渐与骨肉远，转于僮仆亲。那堪正飘泊，明日岁华新。",
+    "textTraditional": "迢遞三巴路，羈危萬里身。亂山殘雪夜，孤獨異鄉春。漸與骨肉遠，轉於僮僕親。那堪正飄泊，明日歲華新。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [
+      {
+        "text": "又作人",
+        "textTraditional": "又作人",
+        "source": "ctext",
+        "sourceUrl": "https://ctext.org/wiki.pl?if=en&chapter=820428",
+        "originalLine": "又作人",
+        "originalLineTraditional": "又作人",
+        "locationStatus": "source-does-not-identify-target"
+      }
+    ],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "迢递三巴路，",
       "羁危万里身。",
@@ -439,20 +452,6 @@
           "。",
           ""
         ]
-      ],
-      [
-        [
-          "又",
-          "yòu"
-        ],
-        [
-          "作",
-          "zuò"
-        ],
-        [
-          "人",
-          "rén"
-        ]
       ]
     ],
     "notes": [],
@@ -477,7 +476,8 @@
         "file": "唐诗三百首.json",
         "index": 240,
         "title": "除夜 / 巴山道中除夜书怀",
-        "author": "崔涂"
+        "author": "崔涂",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

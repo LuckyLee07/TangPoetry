@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-049-qin-ge",
@@ -30,6 +30,11 @@
     ],
     "text": "主人有酒欢今夕，请奏鸣琴广陵客。月照城头乌半飞，霜凄万树风入衣；铜𬬻华烛烛增辉，初弹渌水后楚妃。一声已动物皆静，四座无言星欲稀。清淮奉使千余里，敢告云山从此始。",
     "textTraditional": "主人有酒歡今夕，請奏鳴琴廣陵客。月照城頭烏半飛，霜淒萬樹風入衣；銅鑪華燭燭增輝，初彈淥水後楚妃。一聲已動物皆靜，四座無言星欲稀。清淮奉使千餘里，敢告雲山從此始。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "主人有酒欢今夕，",
       "请奏鸣琴广陵客。",
@@ -671,7 +676,8 @@
         "file": "唐诗三百首.json",
         "index": 138,
         "title": "琴歌",
-        "author": "李颀"
+        "author": "李颀",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

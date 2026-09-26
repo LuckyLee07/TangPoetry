@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-253-zhang-gan-xing-er-shou-zhi-yi",
@@ -25,6 +25,11 @@
     ],
     "text": "君家何处住，妾住在横塘。停船暂借问，或恐是同乡。",
     "textTraditional": "君家何處住，妾住在橫塘。停船暫借問，或恐是同鄉。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "君家何处住，",
       "妾住在横塘。",
@@ -259,7 +264,8 @@
         "file": "唐诗三百首.json",
         "index": 276,
         "title": "长干行·君家何处住",
-        "author": "崔颢"
+        "author": "崔颢",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

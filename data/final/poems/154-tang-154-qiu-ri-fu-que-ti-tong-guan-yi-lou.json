@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-154-qiu-ri-fu-que-ti-tong-guan-yi-lou",
@@ -29,6 +29,11 @@
     ],
     "text": "红叶晚萧萧，长亭酒一瓢。残云归太华，疏雨过中条。树色随山迥，河声入海遥。帝乡明日到，犹自梦渔樵。",
     "textTraditional": "紅葉晚蕭蕭，長亭酒一瓢。殘雲歸太華，疏雨過中條。樹色隨山迥，河聲入海遙。帝鄉明日到，猶自夢漁樵。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "红叶晚萧萧，",
       "长亭酒一瓢。",
@@ -471,7 +476,8 @@
         "file": "唐诗三百首.json",
         "index": 221,
         "title": "秋日赴阙题潼关驿楼 / 行次潼关逢魏扶东归",
-        "author": "许浑"
+        "author": "许浑",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

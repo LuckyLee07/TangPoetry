@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-119-chou-zhang-shao-fu",
@@ -28,6 +28,11 @@
     ],
     "text": "晚年惟好静，万事不关心。自顾无长策，空知返旧林。松风吹解带，山月照弹琴。君问穷通理，渔歌入浦深。",
     "textTraditional": "晚年惟好靜，萬事不關心。自顧無長策，空知返舊林。松風吹解帶，山月照彈琴。君問窮通理，漁歌入浦深。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "晚年惟好静，",
       "万事不关心。",
@@ -464,7 +469,8 @@
         "file": "唐诗三百首.json",
         "index": 215,
         "title": "酬张少府",
-        "author": "王维"
+        "author": "王维",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

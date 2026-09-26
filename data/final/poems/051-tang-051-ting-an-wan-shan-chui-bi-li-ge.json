@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-051-ting-an-wan-shan-chui-bi-li-ge",
@@ -38,6 +38,11 @@
     ],
     "text": "南山截竹为觱篥，此乐本自龟兹出。流传汉地曲转奇，凉州胡人为我吹；傍邻闻者多叹息，远客思乡皆泪垂。世人解听不解赏，长飙风中自来往。枯桑老柏寒飕飗，九雏鸣凤乱啾啾。龙吟虎啸一时发，万籁百泉相与秋。忽然更作渔阳掺，黄云萧条白日暗。变调如闻杨柳春，上林繁花照眼新。岁夜高堂列明烛，美酒一杯声一曲。",
     "textTraditional": "南山截竹為觱篥，此樂本自龜茲出。流傳漢地曲轉奇，涼州胡人為我吹；傍鄰聞者多歎息，遠客思鄉皆淚垂。世人解聽不解賞，長飆風中自來往。枯桑老柏寒颼飀，九雛鳴鳳亂啾啾。龍吟虎嘯一時發，萬籟百泉相與秋。忽然更作漁陽摻，黃雲蕭條白日暗。變調如聞楊柳春，上林繁花照眼新。歲夜高堂列明燭，美酒一杯聲一曲。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "南山截竹为觱篥，",
       "此乐本自龟兹出。",
@@ -952,7 +957,8 @@
         "file": "唐诗三百首.json",
         "index": 250,
         "title": "听安万善吹觱篥歌",
-        "author": "李颀"
+        "author": "李颀",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

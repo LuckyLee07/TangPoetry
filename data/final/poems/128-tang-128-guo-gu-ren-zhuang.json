@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-128-guo-gu-ren-zhuang",
@@ -28,6 +28,11 @@
     ],
     "text": "故人具鸡黍，邀我至田家。绿树村边合，青山郭外斜。开轩面场圃，把酒话桑麻。待到重阳日，还来就菊花。",
     "textTraditional": "故人具雞黍，邀我至田家。綠樹村邊合，青山郭外斜。開軒面場圃，把酒話桑麻。待到重陽日，還來就菊花。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "故人具鸡黍，",
       "邀我至田家。",
@@ -466,7 +471,8 @@
         "file": "唐诗三百首.json",
         "index": 100,
         "title": "过故人庄",
-        "author": "孟浩然"
+        "author": "孟浩然",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

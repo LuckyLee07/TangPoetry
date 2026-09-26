@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-033-song-yang-shi-nv",
@@ -44,6 +44,11 @@
     ],
     "text": "永日方戚戚，出行复悠悠。女子今有行，大江溯轻舟。尔辈苦无恃，抚念益慈柔；幼为长所育，两别泣不休。对此结中肠，义往难复留。自小阙内训，事姑贻我忧；赖兹托令门，仁恤庶无尤。贫俭诚所尚，资从岂待周！孝恭遵妇道，容止顺其猷。别离在今晨，见尔当何秋？居闲始自遣，临感忽难收。归来视幼女，零泪缘缨流。",
     "textTraditional": "永日方慼慼，出行復悠悠。女子今有行，大江泝輕舟。爾輩苦無恃，撫念益慈柔；幼為長所育，兩別泣不休。對此結中腸，義往難復留。自小闕內訓，事姑貽我憂；賴茲託令門，仁卹庶無尤。貧儉誠所尚，資從豈待周！孝恭遵婦道，容止順其猷。別離在今晨，見爾當何秋？居閑始自遣，臨感忽難收。歸來視幼女，零淚緣纓流。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "永日方戚戚，",
       "出行复悠悠。",
@@ -910,7 +915,8 @@
         "file": "唐诗三百首.json",
         "index": 163,
         "title": "送杨氏女",
-        "author": "韦应物"
+        "author": "韦应物",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

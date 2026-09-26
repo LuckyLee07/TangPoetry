@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-016-wei-chuan-tian-jia",
@@ -19,19 +19,32 @@
       "野老念牧童，倚杖候荆扉。",
       "雉雊麦苗秀，蚕眠桑叶稀。",
       "田夫荷锄立，相见语依依。",
-      "即此羡闲逸，怅然吟式微。",
-      "又作至"
+      "即此羡闲逸，怅然吟式微。"
     ],
     "linesTraditional": [
       "斜光照墟落，窮巷牛羊歸。",
       "野老念牧童，倚杖候荊扉。",
       "雉雊麥苗秀，蠶眠桑葉稀。",
       "田夫荷鋤立，相見語依依。",
-      "即此羨閒逸，悵然吟式微。",
-      "又作至"
+      "即此羨閒逸，悵然吟式微。"
     ],
-    "text": "斜光照墟落，穷巷牛羊归。野老念牧童，倚杖候荆扉。雉雊麦苗秀，蚕眠桑叶稀。田夫荷锄立，相见语依依。即此羡闲逸，怅然吟式微。又作至",
-    "textTraditional": "斜光照墟落，窮巷牛羊歸。野老念牧童，倚杖候荊扉。雉雊麥苗秀，蠶眠桑葉稀。田夫荷鋤立，相見語依依。即此羨閒逸，悵然吟式微。又作至",
+    "text": "斜光照墟落，穷巷牛羊归。野老念牧童，倚杖候荆扉。雉雊麦苗秀，蚕眠桑叶稀。田夫荷锄立，相见语依依。即此羡闲逸，怅然吟式微。",
+    "textTraditional": "斜光照墟落，窮巷牛羊歸。野老念牧童，倚杖候荊扉。雉雊麥苗秀，蠶眠桑葉稀。田夫荷鋤立，相見語依依。即此羨閒逸，悵然吟式微。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [
+      {
+        "text": "又作至",
+        "textTraditional": "又作至",
+        "source": "ctext",
+        "sourceUrl": "https://ctext.org/wiki.pl?if=en&chapter=820428",
+        "originalLine": "又作至",
+        "originalLineTraditional": "又作至",
+        "locationStatus": "source-does-not-identify-target"
+      }
+    ],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "斜光照墟落，",
       "穷巷牛羊归。",
@@ -490,20 +503,6 @@
           "。",
           ""
         ]
-      ],
-      [
-        [
-          "又",
-          "yòu"
-        ],
-        [
-          "作",
-          "zuò"
-        ],
-        [
-          "至",
-          "zhì"
-        ]
       ]
     ],
     "notes": [
@@ -548,7 +547,8 @@
         "file": "唐诗三百首.json",
         "index": 164,
         "title": "渭川田家",
-        "author": "王维"
+        "author": "王维",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

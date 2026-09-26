@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-263-jiu-yue-jiu-ri-yi-shan-dong-xiong-di",
@@ -24,6 +24,11 @@
     ],
     "text": "独在异乡为异客，每逢佳节倍思亲。遥知兄弟登高处，遍插茱萸少一人。",
     "textTraditional": "獨在異鄉為異客，每逢佳節倍思親。遙知兄弟登高處，遍插茱萸少一人。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "独在异乡为异客，",
       "每逢佳节倍思亲。",
@@ -320,7 +325,8 @@
         "file": "唐诗三百首.json",
         "index": 266,
         "title": "九月九日忆山东兄弟",
-        "author": "王维"
+        "author": "王维",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

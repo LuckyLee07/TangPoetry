@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-104-ye-po-niu-zhu-huai-gu",
@@ -28,6 +28,11 @@
     ],
     "text": "牛渚西江夜，青天无片云；登舟望秋月，空忆谢将军。余亦能高咏，斯人不可闻。明朝挂帆席，枫叶落纷纷。",
     "textTraditional": "牛渚西江夜，青天無片雲；登舟望秋月，空憶謝將軍。餘亦能高詠，斯人不可聞。明朝掛帆席，楓葉落紛紛。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "牛渚西江夜，",
       "青天无片云；",
@@ -471,7 +476,8 @@
         "file": "唐诗三百首.json",
         "index": 235,
         "title": "夜泊牛渚怀古",
-        "author": "李白"
+        "author": "李白",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

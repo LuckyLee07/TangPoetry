@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-188-su-fu",
@@ -18,18 +18,31 @@
       "清秋幕府井梧寒，独宿江城蜡炬残。",
       "永夜角声悲自语，中天月色好谁看？",
       "风尘荏苒音书绝，关塞萧条行陆难。",
-      "已忍伶俜十年事，强移栖息一枝安。",
-      "又作路"
+      "已忍伶俜十年事，强移栖息一枝安。"
     ],
     "linesTraditional": [
       "清秋幕府井梧寒，獨宿江城蠟炬殘。",
       "永夜角聲悲自語，中天月色好誰看？",
       "風塵荏苒音書絕，關塞蕭條行陸難。",
-      "已忍伶俜十年事，強移棲息一枝安。",
-      "又作路"
+      "已忍伶俜十年事，強移棲息一枝安。"
     ],
-    "text": "清秋幕府井梧寒，独宿江城蜡炬残。永夜角声悲自语，中天月色好谁看？风尘荏苒音书绝，关塞萧条行陆难。已忍伶俜十年事，强移栖息一枝安。又作路",
-    "textTraditional": "清秋幕府井梧寒，獨宿江城蠟炬殘。永夜角聲悲自語，中天月色好誰看？風塵荏苒音書絕，關塞蕭條行陸難。已忍伶俜十年事，強移棲息一枝安。又作路",
+    "text": "清秋幕府井梧寒，独宿江城蜡炬残。永夜角声悲自语，中天月色好谁看？风尘荏苒音书绝，关塞萧条行陆难。已忍伶俜十年事，强移栖息一枝安。",
+    "textTraditional": "清秋幕府井梧寒，獨宿江城蠟炬殘。永夜角聲悲自語，中天月色好誰看？風塵荏苒音書絕，關塞蕭條行陸難。已忍伶俜十年事，強移棲息一枝安。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [
+      {
+        "text": "又作路",
+        "textTraditional": "又作路",
+        "source": "ctext",
+        "sourceUrl": "https://ctext.org/wiki.pl?if=en&chapter=820428",
+        "originalLine": "又作路",
+        "originalLineTraditional": "又作路",
+        "locationStatus": "source-does-not-identify-target"
+      }
+    ],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "清秋幕府井梧寒，",
       "独宿江城蜡炬残。",
@@ -566,20 +579,6 @@
           "。",
           ""
         ]
-      ],
-      [
-        [
-          "又",
-          "yòu"
-        ],
-        [
-          "作",
-          "zuò"
-        ],
-        [
-          "路",
-          "lù"
-        ]
       ]
     ],
     "notes": [
@@ -618,7 +617,8 @@
         "file": "唐诗三百首.json",
         "index": 202,
         "title": "宿府",
-        "author": "杜甫"
+        "author": "杜甫",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

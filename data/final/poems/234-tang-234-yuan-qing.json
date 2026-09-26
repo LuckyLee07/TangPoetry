@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-234-yuan-qing",
@@ -24,6 +24,11 @@
     ],
     "text": "美人卷珠帘，深坐蹙蛾眉。但见泪痕湿，不知心恨谁。",
     "textTraditional": "美人捲珠簾，深坐蹙蛾眉。但見淚痕濕，不知心恨誰。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "美人卷珠帘，",
       "深坐蹙蛾眉。",
@@ -259,7 +264,8 @@
         "file": "唐诗三百首.json",
         "index": 137,
         "title": "怨情",
-        "author": "李白"
+        "author": "李白",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

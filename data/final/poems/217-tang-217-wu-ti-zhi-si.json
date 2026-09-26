@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-217-wu-ti-zhi-si",
@@ -29,6 +29,11 @@
     ],
     "text": "凤尾香罗薄几重，碧文圆顶夜深缝。扇裁月魄羞难掩，车走雷声语未通。曾是寂寥金烬暗，断无消息石榴红。斑骓只系垂杨岸，何处西南任好风？",
     "textTraditional": "鳳尾香羅薄幾重，碧文圓頂夜深縫。扇裁月魄羞難掩，車走雷聲語未通。曾是寂寥金燼暗，斷無消息石榴紅。斑騅只繫垂楊岸，何處西南任好風？",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "凤尾香罗薄几重，",
       "碧文圆顶夜深缝。",
@@ -601,7 +606,8 @@
         "file": "唐诗三百首.json",
         "index": 58,
         "title": "无题·凤尾香罗薄几重",
-        "author": "李商隐"
+        "author": "李商隐",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

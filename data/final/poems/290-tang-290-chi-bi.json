@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-290-chi-bi",
@@ -24,6 +24,11 @@
     ],
     "text": "折戟沈沙铁未销，自将磨洗认前朝。东风不与周郎便，铜雀春深锁二乔。",
     "textTraditional": "折戟沈沙鐵未銷，自將磨洗認前朝。東風不與周郎便，銅雀春深鎖二喬。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "折戟沈沙铁未销，",
       "自将磨洗认前朝。",
@@ -322,7 +327,8 @@
         "file": "唐诗三百首.json",
         "index": 75,
         "title": "赤壁",
-        "author": "杜牧"
+        "author": "杜牧",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-121-song-zi-zhou-li-shi-jun",
@@ -28,6 +28,11 @@
     ],
     "text": "万壑树参天，千山响杜鹃。山中一夜雨，树杪百重泉。汉女输橦布，巴人讼芋田。文翁翻教授，不敢倚先贤。",
     "textTraditional": "萬壑樹參天，千山響杜鵑。山中一夜雨，樹杪百重泉。漢女輸橦布，巴人訟芋田。文翁翻教授，不敢倚先賢。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "万壑树参天，",
       "千山响杜鹃。",
@@ -467,7 +472,8 @@
         "file": "唐诗三百首.json",
         "index": 12,
         "title": "送梓州李使君",
-        "author": "王维"
+        "author": "王维",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

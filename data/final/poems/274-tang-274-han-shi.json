@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-274-han-shi",
@@ -24,6 +24,11 @@
     ],
     "text": "春城无处不飞花，寒食东风御柳斜。日暮汉宫传蜡烛，轻烟散入五侯家。",
     "textTraditional": "春城無處不飛花，寒食東風禦柳斜。日暮漢宮傳蠟燭，輕煙散入五侯家。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "春城无处不飞花，",
       "寒食东风御柳斜。",
@@ -338,7 +343,8 @@
         "file": "唐诗三百首.json",
         "index": 299,
         "title": "寒食",
-        "author": "韩翃"
+        "author": "韩翃",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

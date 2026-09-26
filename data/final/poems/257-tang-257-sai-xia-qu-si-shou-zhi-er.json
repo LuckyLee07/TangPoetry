@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-257-sai-xia-qu-si-shou-zhi-er",
@@ -25,6 +25,11 @@
     ],
     "text": "林暗草惊风，将军夜引弓。平明寻白羽，没在石棱中。",
     "textTraditional": "林暗草驚風，將軍夜引弓。平明尋白羽，沒在石稜中。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "林暗草惊风，",
       "将军夜引弓。",
@@ -266,7 +271,8 @@
         "file": "唐诗三百首.json",
         "index": 182,
         "title": "和张仆射塞下曲·其二",
-        "author": "卢纶"
+        "author": "卢纶",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

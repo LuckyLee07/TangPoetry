@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-034-chen-yi-chao-shi-yuan-du-chan-jing",
@@ -32,6 +32,11 @@
     ],
     "text": "汲井漱寒齿，清心拂尘服，闲持贝叶书，步出东斋读。真源了无取，忘迹世所逐；遗言冀可冥，缮性何由熟？道人庭宇静，苔色连深竹；日出雾露余，青松如膏沐。澹然离言说，悟悦心自足。",
     "textTraditional": "汲井漱寒齒，清心拂塵服，閒持貝葉書，步出東齋讀。真源了無取，忘跡世所逐；遺言冀可冥，繕性何由熟？道人庭宇靜，苔色連深竹；日出霧露餘，青松如膏沐。澹然離言說，悟悅心自足。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "汲井漱寒齿，",
       "清心拂尘服，",
@@ -674,7 +679,8 @@
         "file": "唐诗三百首.json",
         "index": 159,
         "title": "晨诣超师院读禅经",
-        "author": "柳宗元"
+        "author": "柳宗元",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

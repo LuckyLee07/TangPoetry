@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-007-chun-si",
@@ -26,6 +26,11 @@
     ],
     "text": "燕草如碧丝，秦桑低绿枝；当君怀归日，是妾断肠时。春风不相识，何事入罗帏？",
     "textTraditional": "燕草如碧絲，秦桑低綠枝；當君懷歸日，是妾斷腸時。春風不相識，何事入羅幃？",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "燕草如碧丝，",
       "秦桑低绿枝；",
@@ -365,7 +370,8 @@
         "file": "唐诗三百首.json",
         "index": 144,
         "title": "春思",
-        "author": "李白"
+        "author": "李白",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

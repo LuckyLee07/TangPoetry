@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-008-wang-yue",
@@ -19,19 +19,32 @@
       "齐鲁青未了。",
       "造化钟神秀，阴阳割昏晓。",
       "荡胸生层云，决眦入归鸟。",
-      "会当凌绝顶，一览众山小。",
-      "又作岳"
+      "会当凌绝顶，一览众山小。"
     ],
     "linesTraditional": [
       "岱宗夫如何？",
       "齊魯青未了。",
       "造化鍾神秀，陰陽割昏曉。",
       "盪胸生層雲，決眥入歸鳥。",
-      "會當凌絕頂，一覽眾山小。",
-      "又作岳"
+      "會當凌絕頂，一覽眾山小。"
     ],
-    "text": "岱宗夫如何？齐鲁青未了。造化钟神秀，阴阳割昏晓。荡胸生层云，决眦入归鸟。会当凌绝顶，一览众山小。又作岳",
-    "textTraditional": "岱宗夫如何？齊魯青未了。造化鍾神秀，陰陽割昏曉。盪胸生層雲，決眥入歸鳥。會當凌絕頂，一覽眾山小。又作岳",
+    "text": "岱宗夫如何？齐鲁青未了。造化钟神秀，阴阳割昏晓。荡胸生层云，决眦入归鸟。会当凌绝顶，一览众山小。",
+    "textTraditional": "岱宗夫如何？齊魯青未了。造化鍾神秀，陰陽割昏曉。盪胸生層雲，決眥入歸鳥。會當凌絕頂，一覽眾山小。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [
+      {
+        "text": "又作岳",
+        "textTraditional": "又作岳",
+        "source": "ctext",
+        "sourceUrl": "https://ctext.org/wiki.pl?if=en&chapter=820428",
+        "originalLine": "又作岳",
+        "originalLineTraditional": "又作岳",
+        "locationStatus": "source-does-not-identify-target"
+      }
+    ],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "岱宗夫如何？",
       "齐鲁青未了。",
@@ -394,20 +407,6 @@
           "。",
           ""
         ]
-      ],
-      [
-        [
-          "又",
-          "yòu"
-        ],
-        [
-          "作",
-          "zuò"
-        ],
-        [
-          "岳",
-          "yuè"
-        ]
       ]
     ],
     "notes": [
@@ -455,7 +454,8 @@
         "file": "唐诗三百首.json",
         "index": 293,
         "title": "望岳",
-        "author": "杜甫"
+        "author": "杜甫",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-161-song-ren-dong-you",
@@ -32,6 +32,11 @@
     ],
     "text": "荒戍落黄叶，浩然离故关。高风汉阳渡，初日郢门山。江上几人在？天涯孤棹还。何当重相见？樽酒慰离颜。",
     "textTraditional": "荒戍落黃葉，浩然離故關。高風漢陽渡，初日郢門山。江上幾人在？天涯孤棹還。何當重相見？樽酒慰離顏。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "荒戍落黄叶，",
       "浩然离故关。",
@@ -424,7 +429,8 @@
         "file": "唐诗三百首.json",
         "index": 117,
         "title": "送人东游",
-        "author": "温庭筠"
+        "author": "温庭筠",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

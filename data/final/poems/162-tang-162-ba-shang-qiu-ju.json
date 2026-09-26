@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-162-ba-shang-qiu-ju",
@@ -28,6 +28,11 @@
     ],
     "text": "灞原风雨定，晚见雁行频。落叶他乡树，寒灯独夜人。空园白露滴，孤壁野僧邻。寄卧郊扉久，何年致此身？",
     "textTraditional": "灞原風雨定，晚見雁行頻。落葉他鄉樹，寒燈獨夜人。空園白露滴，孤壁野僧鄰。寄臥郊扉久，何年致此身？",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "灞原风雨定，",
       "晚见雁行频。",
@@ -461,7 +466,8 @@
         "file": "唐诗三百首.json",
         "index": 125,
         "title": "灞上秋居",
-        "author": "马戴"
+        "author": "马戴",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

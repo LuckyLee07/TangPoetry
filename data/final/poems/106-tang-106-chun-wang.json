@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-106-chun-wang",
@@ -28,6 +28,11 @@
     ],
     "text": "国破山河在，城春草木深。感时花溅泪，恨别鸟惊心。烽火连三月，家书抵万金。白头搔更短，浑欲不胜簪。",
     "textTraditional": "國破山河在，城春草木深。感時花濺淚，恨別鳥驚心。烽火連三月，家書抵萬金。白頭搔更短，渾欲不勝簪。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "国破山河在，",
       "城春草木深。",
@@ -477,7 +482,8 @@
         "file": "唐诗三百首.json",
         "index": 168,
         "title": "春望",
-        "author": "杜甫"
+        "author": "杜甫",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

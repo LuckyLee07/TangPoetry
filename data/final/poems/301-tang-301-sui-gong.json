@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-301-sui-gong",
@@ -24,6 +24,11 @@
     ],
     "text": "乘兴南游不戒严，九重谁省谏书函。春风举国裁宫锦，半作障泥半作帆。",
     "textTraditional": "乘興南遊不戒嚴，九重誰省諫書函。春風舉國裁宮錦，半作障泥半作帆。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "乘兴南游不戒严，",
       "九重谁省谏书函。",
@@ -323,7 +328,8 @@
         "file": "唐诗三百首.json",
         "index": 18,
         "title": "隋宫",
-        "author": "李商隐"
+        "author": "李商隐",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

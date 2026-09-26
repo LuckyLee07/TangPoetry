@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-149-zei-ping-hou-song-ren-bei-gui",
@@ -28,6 +28,11 @@
     ],
     "text": "世乱同南去，时清独北还。他乡生白发，旧国见青山。晓月过残垒，繁星宿故关。寒禽与衰草，处处伴愁颜。",
     "textTraditional": "世亂同南去，時清獨北還。他鄉生白髮，舊國見青山。曉月過殘壘，繁星宿故關。寒禽與衰草，處處伴愁顏。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "世乱同南去，",
       "时清独北还。",
@@ -462,7 +467,8 @@
         "file": "唐诗三百首.json",
         "index": 113,
         "title": "贼平后送人北归",
-        "author": "司空曙"
+        "author": "司空曙",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

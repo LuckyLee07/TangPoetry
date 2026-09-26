@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-082-xing-lu-nan-zhi-yi",
@@ -37,6 +37,11 @@
     ],
     "text": "金樽清酒斗十千，玉盘珍羞值万钱。停杯投箸不能食，拔剑四顾心茫然。欲渡黄河冰塞川，将登太行雪暗天。闲来垂钓碧溪上，忽复乘舟梦日边。行路难！行路难！多歧路，今安在？长风破浪会有时，直挂云帆济沧海。",
     "textTraditional": "金樽清酒鬥十千，玉盤珍羞值萬錢。停杯投箸不能食，拔劍四顧心茫然。欲渡黃河冰塞川，將登太行雪暗天。閑來垂釣碧溪上，忽復乘舟夢日邊。行路難！行路難！多歧路，今安在？長風破浪會有時，直掛雲帆濟滄海。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "金樽清酒斗十千，",
       "玉盘珍羞值万钱。",
@@ -763,7 +768,8 @@
         "file": "唐诗三百首.json",
         "index": 162,
         "title": "行路难·其一",
-        "author": "李白"
+        "author": "李白",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

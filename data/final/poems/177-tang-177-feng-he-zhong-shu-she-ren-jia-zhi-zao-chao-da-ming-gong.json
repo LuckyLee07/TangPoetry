@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-177-feng-he-zhong-shu-she-ren-jia-zhi-zao-chao-da-ming-gong",
@@ -28,6 +28,11 @@
     ],
     "text": "鸡鸣紫陌曙光寒，莺啭皇州春色阑。金阙晓钟开万户，玉阶仙仗拥千官。花迎剑珮星初落，柳拂旌旗露未干。独有凤凰池上客，阳春一曲和皆难。",
     "textTraditional": "雞鳴紫陌曙光寒，鶯囀皇州春色闌。金闕曉鐘開萬戶，玉階仙仗擁千官。花迎劍珮星初落，柳拂旌旗露未乾。獨有鳳凰池上客，陽春一曲和皆難。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "鸡鸣紫陌曙光寒，",
       "莺啭皇州春色阑。",
@@ -589,7 +594,8 @@
         "file": "唐诗三百首.json",
         "index": 279,
         "title": "奉和中书舍人贾至早朝大明宫",
-        "author": "岑参"
+        "author": "岑参",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

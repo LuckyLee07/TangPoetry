@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-153-lv-su",
@@ -28,6 +28,11 @@
     ],
     "text": "旅馆无良伴，凝情自悄然。寒灯思旧事，断雁警愁眠。远梦归侵晓，家书到隔年。沧江好烟月，门系钓鱼船。",
     "textTraditional": "旅館無良伴，凝情自悄然。寒燈思舊事，斷雁警愁眠。遠夢歸侵曉，家書到隔年。滄江好煙月，門繫釣魚船。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "旅馆无良伴，",
       "凝情自悄然。",
@@ -478,7 +483,8 @@
         "file": "唐诗三百首.json",
         "index": 20,
         "title": "旅宿",
-        "author": "杜牧"
+        "author": "杜牧",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

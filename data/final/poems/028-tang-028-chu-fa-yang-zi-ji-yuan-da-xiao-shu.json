@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-028-chu-fa-yang-zi-ji-yuan-da-xiao-shu",
@@ -28,6 +28,11 @@
     ],
     "text": "凄凄去亲爱，泛泛入烟雾；归棹洛阳人，残钟广陵树。今朝为此别，何处还相遇？世事波上舟，沿洄安得住。",
     "textTraditional": "悽悽去親愛，泛泛入煙霧；歸棹洛陽人，殘鐘廣陵樹。今朝為此別，何處還相遇？世事波上舟，沿洄安得住。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "凄凄去亲爱，",
       "泛泛入烟雾；",
@@ -473,7 +478,8 @@
         "file": "唐诗三百首.json",
         "index": 192,
         "title": "初发扬子寄元大校书",
-        "author": "韦应物"
+        "author": "韦应物",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-252-ge-shu-ge",
@@ -24,6 +24,11 @@
     ],
     "text": "北斗七星高，哥舒夜带刀。至今窥牧马，不敢过临洮。",
     "textTraditional": "北斗七星高，哥舒夜帶刀。至今窺牧馬，不敢過臨洮。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "北斗七星高，",
       "哥舒夜带刀。",
@@ -254,7 +259,8 @@
         "file": "唐诗三百首.json",
         "index": 183,
         "title": "哥舒歌",
-        "author": "西鄙人"
+        "author": "西鄙人",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

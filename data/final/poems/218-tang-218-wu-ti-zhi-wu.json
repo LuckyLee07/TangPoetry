@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-218-wu-ti-zhi-wu",
@@ -29,6 +29,11 @@
     ],
     "text": "重帷深下莫愁堂，卧后清宵细细长。神女生涯原是梦，小姑居处本无郎。风波不信菱枝弱，月露谁教桂叶香。直道相思了无益，未妨惆怅是清狂。",
     "textTraditional": "重帷深下莫愁堂，臥後清宵細細長。神女生涯原是夢，小姑居處本無郎。風波不信菱枝弱，月露誰教桂葉香。直道相思了無益，未妨惆悵是清狂。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "重帷深下莫愁堂，",
       "卧后清宵细细长。",
@@ -606,7 +611,8 @@
         "file": "唐诗三百首.json",
         "index": 251,
         "title": "无题·重帏深下莫愁堂",
-        "author": "李商隐"
+        "author": "李商隐",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

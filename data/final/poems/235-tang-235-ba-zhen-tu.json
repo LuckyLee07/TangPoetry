@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-235-ba-zhen-tu",
@@ -24,6 +24,11 @@
     ],
     "text": "功盖三分国，名成八阵图。江流石不转，遗恨失吞吴。",
     "textTraditional": "功蓋三分國，名成八陣圖。江流石不轉，遺恨失吞吳。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "功盖三分国，",
       "名成八阵图。",
@@ -262,7 +267,8 @@
         "file": "唐诗三百首.json",
         "index": 196,
         "title": "八阵图",
-        "author": "杜甫"
+        "author": "杜甫",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-081-zhang-xiang-si-zhi-er",
@@ -31,6 +31,11 @@
     ],
     "text": "日色已尽花含烟，月明欲素愁不眠。赵瑟初停凤凰柱，蜀琴欲奏鸳鸯弦。此曲有意无人传，愿随春风寄燕然。忆君迢迢隔青天，昔日横波目，今成流泪泉。不信妾肠断，归来看取明镜前。",
     "textTraditional": "日色已盡花含煙，月明欲素愁不眠。趙瑟初停鳳凰柱，蜀琴欲奏鴛鴦絃。此曲有意無人傳，願隨春風寄燕然。憶君迢迢隔青天，昔日橫波目，今成流淚泉。不信妾腸斷，歸來看取明鏡前。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "日色已尽花含烟，",
       "月明欲素愁不眠。",
@@ -701,7 +706,8 @@
         "file": "唐诗三百首.json",
         "index": 288,
         "title": "长相思·其二",
-        "author": "李白"
+        "author": "李白",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

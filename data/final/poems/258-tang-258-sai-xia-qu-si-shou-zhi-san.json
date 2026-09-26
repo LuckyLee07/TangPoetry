@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-258-sai-xia-qu-si-shou-zhi-san",
@@ -25,6 +25,11 @@
     ],
     "text": "月黑雁飞高，单于夜遁逃。欲将轻骑逐，大雪满弓刀。",
     "textTraditional": "月黑雁飛高，單于夜遁逃。欲將輕騎逐，大雪滿弓刀。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "月黑雁飞高，",
       "单于夜遁逃。",
@@ -259,7 +264,8 @@
         "file": "唐诗三百首.json",
         "index": 193,
         "title": "和张仆射塞下曲·其三",
-        "author": "卢纶"
+        "author": "卢纶",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

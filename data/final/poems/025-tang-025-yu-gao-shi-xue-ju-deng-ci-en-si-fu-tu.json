@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-025-yu-gao-shi-xue-ju-deng-ci-en-si-fu-tu",
@@ -43,6 +43,11 @@
     ],
     "text": "塔势如涌出，孤高耸天宫；登临出世界，磴道盘虚空。突兀压神州，峥嵘如鬼工；四角碍白日，七层摩苍穹。下窥指高鸟，俯听闻惊风。连山若波涛，奔凑如朝东。青槐夹驰道，宫馆何玲珑？秋色从西来，苍然满关中。五陵北原上，万古青蒙蒙。净理了可悟，胜因夙所宗。誓将挂冠去，觉道资无穷。",
     "textTraditional": "塔勢如湧出，孤高聳天宮；登臨出世界，磴道盤虛空。突兀壓神州，崢嶸如鬼工；四角礙白日，七層摩蒼穹。下窺指高鳥，俯聽聞驚風。連山若波濤，奔湊如朝東。青槐夾馳道，宮館何玲瓏？秋色從西來，蒼然滿關中。五陵北原上，萬古青濛濛。淨理了可悟，勝因夙所宗。誓將掛冠去，覺道資無窮。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "塔势如涌出，",
       "孤高耸天宫；",
@@ -888,7 +893,8 @@
         "file": "唐诗三百首.json",
         "index": 29,
         "title": "与高适薛据同登慈恩寺浮图",
-        "author": "岑参"
+        "author": "岑参",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

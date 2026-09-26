@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><base href="../"><meta name="viewport" content="width=device-width,initial-scale=1"><title>诗笺排版检查</title><link rel="stylesheet" href="styles.css?v=0.4.0"><style>
+body{display:block;overflow:auto;background:#e3ded3;font:13px var(--sans);padding:10px}header{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin-bottom:8px}button,select,input{font:inherit;min-height:36px;border:1px solid #aaa08f;border-radius:6px;padding:6px;background:#fffaf1}h1{font-size:17px;margin:0}#status{white-space:pre-wrap;margin:8px 0}#reviewGrid{display:grid;grid-template-columns:repeat(8,129px);gap:10px;width:max-content}.sample{margin:0;width:129px}.frame{width:129px;height:279px;overflow:hidden}.frame .reader{width:390px;height:844px;transform:scale(.33);transform-origin:top left;box-shadow:none}.sample figcaption{height:22px;padding:2px 0;font-size:9px}.reader .poem-page{width:100%}#matrixHost{position:absolute;left:-10000px;top:0;overflow:hidden}#report{max-width:850px;white-space:pre-wrap}a{color:inherit}
+</style></head><body><header><h1>诗笺排版检查</h1><label>范围 <select id="scope"><option value="all">全部</option><option value="layout">版式例外</option><option value="new">新增三首</option><option value="preface">有序文</option></select></label><label>批次 <select id="batch"></select></label><button id="previous">上一组</button><button id="next">下一组</button><label>字号 <select id="font"><option>20</option><option selected>22</option><option>26</option><option>30</option></select></label><label><input type="checkbox" id="notes" checked>简注</label><button id="audit">检查全库多尺寸排版</button></header><p id="status">载入诗库…</p><main id="reviewGrid"></main><pre id="report"></pre><div id="matrixHost"></div><script type="module">
+import {poemMarkup,layoutReadingPage,escapeHTML} from './reader-renderer.js?v=0.4.0';
+const $=s=>document.querySelector(s);
+const catalog=await fetch('./data/reader/catalog.json',{cache:'no-store'}).then(r=>r.json());
+const allPoems=await Promise.all(catalog.poems.map(async p=>({...p,...await fetch(`./data/reader/poems/${p.id}.json`,{cache:'no-store'}).then(r=>r.json())})));
+let poems=allPoems;
+function batches(){ $('#batch').replaceChildren(); for(let i=0;i<Math.ceil(poems.length/16);i++)$('#batch').add(new Option(`${i+1} / ${Math.ceil(poems.length/16)}`,i)); }
+batches();
+$('#scope').onchange=()=>{const scope=$('#scope').value;poems=allPoems.filter(p=>scope==='all'||scope==='layout'&&(p.textStart||p.title!==p.sourceTitle)||scope==='new'&&[43,134,278].includes(p.order)||scope==='preface'&&p.preface?.length);batches();render();};
+function page(poem,width,height,font,notes){
+ const reader=document.createElement('div');reader.className=`reader ${notes?'':'notes-off'}`;reader.style.width=`${width}px`;reader.style.height=`${height}px`;
+ const article=document.createElement('article');article.className='poem-page';article.dataset.id=poem.id;article.innerHTML=poemMarkup(poem,poem);reader.append(article);
+ article.insertAdjacentHTML('beforeend',`<div class="topbar" data-visible="true"><span class="text-pill">卷</span><span class="text-pill">目录</span><span class="text-pill">Aa</span><span class="text-pill">藏</span></div><div class="bottombar" data-visible="true"><div class="page-navigation">‹ &nbsp; ${poems.indexOf(poem)+1} / ${poems.length} &nbsp; ›</div><span class="text-button">简注</span></div>`);
+ return {reader,article,layout:()=>layoutReadingPage(article,poem,{width,height,fontSize:font,notesEnabled:notes})};
+}
+async function render(){
+ const start=Number($('#batch').value)*16;$('#reviewGrid').replaceChildren();
+ for(const p of poems.slice(start,start+16)){
+  const f=document.createElement('figure');f.className='sample';const frame=document.createElement('div');frame.className='frame';
+  const sample=page(p,390,844,Number($('#font').value),$('#notes').checked);frame.append(sample.reader);f.append(frame);
+  f.insertAdjacentHTML('beforeend',`<figcaption>${p.order} · ${escapeHTML(p.title)}<br>${escapeHTML(p.section)} · ${p.rubyLines.length} 句</figcaption>`);$('#reviewGrid').append(f);sample.layout();
+ }
+ await document.fonts.ready;
+ await Promise.all([...$('#reviewGrid').querySelectorAll('img')].map(img=>img.decode().catch(()=>{})));
+ $('#status').textContent=`已载入 ${start+1}–${Math.min(start+16,poems.length)} / ${poems.length} 首 · 390×844 · 字号 ${$('#font').value} · ${$('#notes').checked?'有':'无'}简注。与阅读器共用 HTML、字体、样式和排版函数。`;
+}
+$('#batch').onchange=render;$('#font').onchange=render;$('#notes').onchange=render;
+for(const [id,step] of [['previous',-1],['next',1]])$('#'+id).onclick=()=>{$('#batch').selectedIndex=Math.max(0,Math.min($('#batch').options.length-1,$('#batch').selectedIndex+step));render()};
+$('#audit').onclick=async()=>{
+ $('#audit').disabled=true;const host=$('#matrixHost');const issues=[];let checked=0,scrolling=0;
+ for(const [width,height] of [[320,568],[375,667],[390,844],[430,932]])for(const font of [20,22,26,30])for(const notes of [true,false]){
+  for(const p of allPoems){
+   const sample=page(p,width,height,font,notes);host.replaceChildren(sample.reader);sample.layout();
+   const body=sample.article.querySelector('.poem-body'), title=sample.article.querySelector('.poem-title'), firstLine=sample.article.querySelector('.verse-line');
+   const bodyRect=body.getBoundingClientRect(),lineRect=firstLine.getBoundingClientRect();
+   const failures=[];
+   if(body.scrollWidth>body.clientWidth+1)failures.push('横向溢出');
+   if(body.clientHeight<80)failures.push('阅读区不足80像素');
+   if(lineRect.top>=bodyRect.bottom)failures.push('首屏无诗句');
+   if(title.scrollWidth>title.clientWidth+1)failures.push('标题截断');
+   for(const mark of sample.article.querySelectorAll('.verse-punctuation')){const r=mark.getBoundingClientRect();if(r.right>bodyRect.right-2||r.left<bodyRect.left+2){failures.push('句尾标点越界');break;}}
+   if(failures.length)issues.push({id:p.id,title:p.title,width,height,font,notes,failures});
+   if(body.scrollHeight>body.clientHeight+1)scrolling++;
+   checked++;
+  }
+  $('#status').textContent=`已检查 ${checked} 个实际 DOM 排版，发现 ${issues.length} 个异常组合。`;
+  await new Promise(resolve=>requestAnimationFrame(resolve));
+ }
+ host.replaceChildren();const report={poems:allPoems.length,checked,scrolling,issues,completed:true};
+ $('#report').textContent=JSON.stringify(report,null,2);$('#report').dataset.complete='true';$('#audit').disabled=false;
+};
+await render();
+</script></body></html>

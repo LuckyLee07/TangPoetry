@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-192-yong-huai-gu-ji-wu-shou-zhi-san",
@@ -29,6 +29,11 @@
     ],
     "text": "群山万壑赴荆门，生长明妃尚有村。一去紫台连朔漠，独留青冢向黄昏。画图省识春风面，环珮空归月下魂。千载琵琶作胡语，分明怨恨曲中论。",
     "textTraditional": "群山萬壑赴荊門，生長明妃尚有村。一去紫臺連朔漠，獨留青塚向黃昏。畫圖省識春風面，環珮空歸月下魂。千載琵琶作胡語，分明怨恨曲中論。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "群山万壑赴荆门，",
       "生长明妃尚有村。",
@@ -601,7 +606,8 @@
         "file": "唐诗三百首.json",
         "index": 40,
         "title": "咏怀古迹五首·其三",
-        "author": "杜甫"
+        "author": "杜甫",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

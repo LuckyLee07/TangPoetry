@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-213-wu-ti-zhi-er",
@@ -19,16 +19,48 @@
       "飒飒东风细雨来，芙蓉塘外有轻雷。",
       "金蟾啮璅烧香入，玉虎牵丝汲井回。",
       "贾氏窥帘韩掾少，宓妃留枕魏王才。",
-      "春心莫共花争发，一寸想思一寸灰。"
+      "春心莫共花争发，一寸相思一寸灰。"
     ],
     "linesTraditional": [
       "颯颯東風細雨來，芙蓉塘外有輕雷。",
       "金蟾齧璅燒香入，玉虎牽絲汲井迴。",
       "賈氏窺簾韓掾少，宓妃留枕魏王才。",
-      "春心莫共花爭發，一寸想思一寸灰。"
+      "春心莫共花爭發，一寸相思一寸灰。"
     ],
-    "text": "飒飒东风细雨来，芙蓉塘外有轻雷。金蟾啮璅烧香入，玉虎牵丝汲井回。贾氏窥帘韩掾少，宓妃留枕魏王才。春心莫共花争发，一寸想思一寸灰。",
-    "textTraditional": "颯颯東風細雨來，芙蓉塘外有輕雷。金蟾齧璅燒香入，玉虎牽絲汲井迴。賈氏窺簾韓掾少，宓妃留枕魏王才。春心莫共花爭發，一寸想思一寸灰。",
+    "text": "飒飒东风细雨来，芙蓉塘外有轻雷。金蟾啮璅烧香入，玉虎牵丝汲井回。贾氏窥帘韩掾少，宓妃留枕魏王才。春心莫共花争发，一寸相思一寸灰。",
+    "textTraditional": "颯颯東風細雨來，芙蓉塘外有輕雷。金蟾齧璅燒香入，玉虎牽絲汲井迴。賈氏窺簾韓掾少，宓妃留枕魏王才。春心莫共花爭發，一寸相思一寸灰。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [
+      {
+        "original": "一寸想思一寸灰",
+        "replacement": "一寸相思一寸灰",
+        "originalTraditional": "一寸想思一寸灰",
+        "replacementTraditional": "一寸相思一寸灰",
+        "expectedCount": 1,
+        "reason": "相思为本句核心词语，基础源与学术引文一致。",
+        "evidence": [
+          {
+            "file": "唐诗三百首.json",
+            "index": 285,
+            "excerpt": "春心莫共花争发，一寸相思一寸灰！"
+          },
+          {
+            "file": "data/sources/chiuinan_clean.json",
+            "order": 310,
+            "excerpt": "春心莫共花争发，一寸相思一寸灰。"
+          },
+          {
+            "url": "https://dflt.qdu.edu.cn/__local/D/39/69/ABD32BCA7EA6295E0E9DC6AC08E_CDCC3A22_27AD7F.pdf",
+            "title": "《东方论坛》2012年第5期〈试论李商隐诗对苏轼词的影响〉",
+            "excerpt": "一寸相思一寸灰",
+            "checkedAt": "2026-09-26"
+          }
+        ]
+      }
+    ],
+    "metadataCorrections": {},
     "displayLines": [
       "飒飒东风细雨来，",
       "芙蓉塘外有轻雷。",
@@ -276,8 +308,8 @@
           "cùn"
         ],
         [
-          "想",
-          "xiǎng"
+          "相",
+          "xiāng"
         ],
         [
           "思",
@@ -542,8 +574,8 @@
           "cùn"
         ],
         [
-          "想",
-          "xiǎng"
+          "相",
+          "xiāng"
         ],
         [
           "思",
@@ -610,7 +642,8 @@
         "file": "唐诗三百首.json",
         "index": 285,
         "title": "无题·飒飒东风细雨来",
-        "author": "李商隐"
+        "author": "李商隐",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

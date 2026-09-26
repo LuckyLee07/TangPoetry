@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-012-meng-li-bai-zhi-er",
@@ -39,6 +39,11 @@
     ],
     "text": "浮云终日行，游子久不至；三夜频梦君，情亲见君意。告归常局促，苦道来不易。江湖多风波，舟楫恐失坠。出门搔白首，若负平生志。冠盖满京华，斯人独憔悴。孰云网恢恢？将老身反累！千秋万岁名，寂寞身后事。",
     "textTraditional": "浮雲終日行，遊子久不至；三夜頻夢君，情親見君意。告歸常局促，苦道來不易。江湖多風波，舟楫恐失墜。出門搔白首，若負平生志。冠蓋滿京華，斯人獨憔悴。孰雲網恢恢？將老身反累！千秋萬歲名，寂寞身後事。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "浮云终日行，",
       "游子久不至；",
@@ -679,7 +684,8 @@
         "file": "唐诗三百首.json",
         "index": 28,
         "title": "梦李白二首·其二",
-        "author": "杜甫"
+        "author": "杜甫",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

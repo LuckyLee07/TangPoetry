@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-210-wu-ti",
@@ -29,6 +29,11 @@
     ],
     "text": "昨夜星辰昨夜风，画楼西畔桂堂东。身无彩凤双飞翼，心有灵犀一点通。隔座送钩春酒暖，分曹射复蜡灯红。嗟余听鼓应官去，走马兰台类转蓬。",
     "textTraditional": "昨夜星辰昨夜風，畫樓西畔桂堂東。身無綵鳳雙飛翼，心有靈犀一點通。隔座送鉤春酒暖，分曹射覆蠟燈紅。嗟余聽鼓應官去，走馬蘭臺類轉蓬。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "昨夜星辰昨夜风，",
       "画楼西畔桂堂东。",
@@ -593,7 +598,8 @@
         "file": "唐诗三百首.json",
         "index": 7,
         "title": "无题·昨夜星辰昨夜风",
-        "author": "李商隐"
+        "author": "李商隐",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

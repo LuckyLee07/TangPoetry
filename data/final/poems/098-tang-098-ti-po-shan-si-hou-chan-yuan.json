@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-098-ti-po-shan-si-hou-chan-yuan",
@@ -28,6 +28,11 @@
     ],
     "text": "清晨入古寺，初日照高林。曲径通幽处，禅房花木深。山光悦鸟性，潭影空人心。万籁此俱寂，惟余钟磬音。",
     "textTraditional": "清晨入古寺，初日照高林。曲徑通幽處，禪房花木深。山光悅鳥性，潭影空人心。萬籟此俱寂，惟餘鐘磬音。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "清晨入古寺，",
       "初日照高林。",
@@ -466,7 +471,8 @@
         "file": "唐诗三百首.json",
         "index": 277,
         "title": "题破山寺后禅院",
-        "author": "常建"
+        "author": "常建",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

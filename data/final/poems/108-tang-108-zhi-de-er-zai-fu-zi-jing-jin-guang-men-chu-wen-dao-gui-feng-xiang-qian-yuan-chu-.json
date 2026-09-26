@@ -1,13 +1,13 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-108-zhi-de-er-zai-fu-zi-jing-jin-guang-men-chu-wen-dao-gui-feng-xiang-qian-yuan-chu-",
     "order": 108,
     "section": "五言律诗",
-    "title": "至德二载甫自京金光门出，问道归凤翔。乾元初从左拾遗移华州掾。与亲故别，因出此门。有悲往事。",
-    "titleTraditional": "至德二載甫自京金光門出，問道歸鳳翔。乾元初從左拾遺移華州掾。與親故別，因出此門。有悲往事。",
+    "title": "至德二载甫自京金光门出，间道归凤翔。乾元初从左拾遗移华州掾。与亲故别，因出此门。有悲往事。",
+    "titleTraditional": "至德二載甫自京金光門出，間道歸鳳翔。乾元初從左拾遺移華州掾。與親故別，因出此門。有悲往事。",
     "author": "杜甫",
     "authorTraditional": "杜甫",
     "dynasty": "唐代",
@@ -29,6 +29,39 @@
     ],
     "text": "此道昔归顺，西郊胡正繁。至今残破胆，应有未招魂。近得归京邑，移官岂至尊。无才日衰老，驻马望千门。",
     "textTraditional": "此道昔歸順，西郊胡正繁。至今殘破膽，應有未招魂。近得歸京邑，移官豈至尊。無才日衰老，駐馬望千門。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {
+      "title": {
+        "original": "至德二载甫自京金光门出，问道归凤翔。乾元初从左拾遗移华州掾。与亲故别，因出此门。有悲往事。",
+        "replacement": "至德二载甫自京金光门出，间道归凤翔。乾元初从左拾遗移华州掾。与亲故别，因出此门。有悲往事。",
+        "originalTraditional": "至德二載甫自京金光門出，問道歸鳳翔。乾元初從左拾遺移華州掾。與親故別，因出此門。有悲往事。",
+        "replacementTraditional": "至德二載甫自京金光門出，間道歸鳳翔。乾元初從左拾遺移華州掾。與親故別，因出此門。有悲往事。",
+        "reason": "间道指小路；本地选本把间误录为问。据杜诗选本原题修正，保留原始标题所生成的稳定 ID。",
+        "evidence": [
+          {
+            "file": "data/sources/ctext_clean.json",
+            "bookOrder": 108,
+            "excerpt": "金光门出，问道归凤翔。",
+            "role": "archived-original"
+          },
+          {
+            "url": "https://ctext.org/wiki.pl?chapter=73277&if=gb&remap=gb",
+            "title": "《杜诗会粹》卷六目录",
+            "excerpt": "至德二载甫自京金光门出间道归凤翔",
+            "checkedAt": "2026-09-26"
+          },
+          {
+            "url": "https://zh.wikisource.org/zh-hans/至德二載甫自京金光門出_間道歸鳳翔_乾元初從左拾遺移華州掾_與親故別_因出此門_有悲往事",
+            "title": "杜甫《至德二载甫自京金光门出 间道归凤翔……》",
+            "excerpt": "至德二载甫自京金光门出 间道归凤翔",
+            "checkedAt": "2026-09-26"
+          }
+        ]
+      }
+    },
     "displayLines": [
       "此道昔归顺，",
       "西郊胡正繁。",
@@ -467,7 +500,8 @@
         "file": "唐诗三百首.json",
         "index": 246,
         "title": "至德二载甫自京金光门出问道归凤翔乾元初…有悲往事",
-        "author": "杜甫"
+        "author": "杜甫",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

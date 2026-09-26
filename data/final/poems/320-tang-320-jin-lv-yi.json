@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-320-jin-lv-yi",
@@ -24,6 +24,11 @@
     ],
     "text": "劝君莫惜金缕衣，劝君惜取少年时。花开堪折直须折，莫待无花空折枝。",
     "textTraditional": "勸君莫惜金縷衣，勸君惜取少年時。花開堪折直須折，莫待無花空折枝。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "劝君莫惜金缕衣，",
       "劝君惜取少年时。",
@@ -328,7 +333,8 @@
         "file": "唐诗三百首.json",
         "index": 265,
         "title": "金缕衣",
-        "author": "佚名"
+        "author": "佚名",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

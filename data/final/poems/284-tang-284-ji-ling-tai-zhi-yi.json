@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-284-ji-ling-tai-zhi-yi",
@@ -25,6 +25,11 @@
     ],
     "text": "日光斜照集灵台，红树花迎晓露开。昨夜上皇新授箓，太真含笑入帘来。",
     "textTraditional": "日光斜照集靈臺，紅樹花迎曉露開。昨夜上皇新授籙，太真含笑入簾來。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "日光斜照集灵台，",
       "红树花迎晓露开。",
@@ -328,7 +333,8 @@
         "file": "唐诗三百首.json",
         "index": 207,
         "title": "集灵台·其一",
-        "author": "张祜"
+        "author": "张祜",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

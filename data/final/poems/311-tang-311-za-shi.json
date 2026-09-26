@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-311-za-shi",
@@ -24,6 +24,11 @@
     ],
     "text": "尽寒食雨草萋萋，著麦苗风柳映堤。等是有家归未得，杜鹃休向耳边啼。",
     "textTraditional": "盡寒食雨草萋萋，著麥苗風柳映堤。等是有家歸未得，杜鵑休向耳邊啼。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "尽寒食雨草萋萋，",
       "著麦苗风柳映堤。",
@@ -325,7 +330,8 @@
         "file": "唐诗三百首.json",
         "index": 90,
         "title": "杂诗",
-        "author": "佚名"
+        "author": "佚名",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

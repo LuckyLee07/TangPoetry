@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-172-wang-ji-men",
@@ -28,6 +28,11 @@
     ],
     "text": "燕台一去客心惊，箫鼓喧喧汉将营。万里寒光生积雪，三边曙色动危旌。沙场烽火侵胡月，海畔云山拥蓟城。少小虽非投笔吏，论功还欲请长缨。",
     "textTraditional": "燕臺一去客心驚，簫鼓喧喧漢將營。萬里寒光生積雪，三邊曙色動危旌。沙場烽火侵胡月，海畔雲山擁薊城。少小雖非投筆吏，論功還欲請長纓。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "燕台一去客心惊，",
       "箫鼓喧喧汉将营。",
@@ -606,7 +611,8 @@
         "file": "唐诗三百首.json",
         "index": 21,
         "title": "望蓟门",
-        "author": "祖咏"
+        "author": "祖咏",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

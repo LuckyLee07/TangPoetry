@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-133-qiu-ri-deng-wu-gong-tai-shang-si-yuan-tiao",
@@ -28,6 +28,11 @@
     ],
     "text": "古台摇落后，秋日望乡心。野寺人来少，云峰水隔深。夕阳依旧垒，寒磬满空林。惆怅南朝事，长江独至今。",
     "textTraditional": "古臺搖落後，秋日望鄉心。野寺人來少，雲峰水隔深。夕陽依舊壘，寒磬滿空林。惆悵南朝事，長江獨至今。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "古台摇落后，",
       "秋日望乡心。",
@@ -463,7 +468,8 @@
         "file": "唐诗三百首.json",
         "index": 56,
         "title": "秋日登吴公台上寺远眺",
-        "author": "刘长卿"
+        "author": "刘长卿",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-246-wen-liu-shi-jiu",
@@ -24,6 +24,11 @@
     ],
     "text": "绿螘新醅酒，红泥小火炉。晚来天欲雪，能饮一杯无。",
     "textTraditional": "綠螘新醅酒，紅泥小火爐。晚來天欲雪，能飲一杯無。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "绿螘新醅酒，",
       "红泥小火炉。",
@@ -260,7 +265,8 @@
         "file": "唐诗三百首.json",
         "index": 259,
         "title": "问刘十九",
-        "author": "白居易"
+        "author": "白居易",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

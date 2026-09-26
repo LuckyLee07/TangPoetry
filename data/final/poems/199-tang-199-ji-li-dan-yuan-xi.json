@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-199-ji-li-dan-yuan-xi",
@@ -28,6 +28,11 @@
     ],
     "text": "去年花里逢君别，今日花开又一年。世事茫茫难自料，春愁黯黯独成眠。身多疾病思田里，邑有流亡愧俸钱。闻道欲来相问讯，西楼望月几回圆。",
     "textTraditional": "去年花裡逢君別，今日花開又一年。世事茫茫難自料，春愁黯黯獨成眠。身多疾病思田里，邑有流亡愧俸錢。聞道欲來相問訊，西樓望月幾回圓。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "去年花里逢君别，",
       "今日花开又一年。",
@@ -590,7 +595,8 @@
         "file": "唐诗三百首.json",
         "index": 189,
         "title": "寄李儋元锡",
-        "author": "韦应物"
+        "author": "韦应物",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

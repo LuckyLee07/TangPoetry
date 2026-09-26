@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-228-za-shi",
@@ -25,6 +25,11 @@
     ],
     "text": "君自故乡来，应知故乡事。来日绮窗前，寒梅著花未。",
     "textTraditional": "君自故鄉來，應知故鄉事。來日綺窗前，寒梅著花未。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "君自故乡来，",
       "应知故乡事。",
@@ -259,7 +264,8 @@
         "file": "唐诗三百首.json",
         "index": 173,
         "title": "杂诗三首·其二",
-        "author": "王维"
+        "author": "王维",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

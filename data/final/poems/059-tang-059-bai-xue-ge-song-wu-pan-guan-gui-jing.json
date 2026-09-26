@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-059-bai-xue-ge-song-wu-pan-guan-gui-jing",
@@ -38,6 +38,11 @@
     ],
     "text": "北风卷地白草折，胡天八月即飞雪；忽如一夜春风来，千树万树梨花开。散入珠帘湿罗幕，狐裘不煖锦衾薄。将军角弓不得控，都护铁衣冷犹著。瀚海阑干百丈冰，愁云黪淡万里凝。中军置酒饮归客，胡琴琵琶与羌笛。纷纷暮雪下辕门，风掣红旗冻不翻。轮台东门送君去，去时雪满天山路；山回路转不见君，雪上空留马行处。",
     "textTraditional": "北風捲地白草折，胡天八月即飛雪；忽如一夜春風來，千樹萬樹梨花開。散入珠簾濕羅幕，狐裘不煖錦衾薄。將軍角弓不得控，都護鐵衣冷猶著。瀚海闌幹百丈冰，愁雲黲淡萬里凝。中軍置酒飲歸客，胡琴琵琶與羌笛。紛紛暮雪下轅門，風掣紅旗凍不翻。輪臺東門送君去，去時雪滿天山路；山迴路轉不見君，雪上空留馬行處。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "北风卷地白草折，",
       "胡天八月即飞雪；",
@@ -972,7 +977,8 @@
         "file": "唐诗三百首.json",
         "index": 88,
         "title": "白雪歌送武判官归京",
-        "author": "岑参"
+        "author": "岑参",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

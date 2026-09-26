@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-247-he-man-zi",
@@ -25,6 +25,11 @@
     ],
     "text": "故国三千里，深宫二十年。一声何满子，双泪落君前。",
     "textTraditional": "故國三千里，深宮二十年。一聲何滿子，雙淚落君前。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "故国三千里，",
       "深宫二十年。",
@@ -263,7 +268,8 @@
         "file": "唐诗三百首.json",
         "index": 5,
         "title": "宫词·故国三千里",
-        "author": "张祜"
+        "author": "张祜",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

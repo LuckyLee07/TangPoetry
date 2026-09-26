@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-018-qiu-deng-lan-shan-ji-zhang-wu",
@@ -33,6 +33,11 @@
     ],
     "text": "北山白云里，隐者自怡悦；相望始登高，心随雁飞灭。愁因薄暮起，兴是清秋发。时见归村人，沙行渡头歇。天边树若荠，江畔洲如月。何当载酒来，共醉重阳节。",
     "textTraditional": "北山白雲裡，隱者自怡悅；相望始登高，心隨雁飛滅。愁因薄暮起，興是清秋發。時見歸村人，沙行渡頭歇。天邊樹若薺，江畔洲如月。何當載酒來，共醉重陽節。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "北山白云里，",
       "隐者自怡悦；",
@@ -578,7 +583,8 @@
         "file": "唐诗三百首.json",
         "index": 120,
         "title": "秋登兰山寄张五 / 九月九日岘山寄张子容",
-        "author": "孟浩然"
+        "author": "孟浩然",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

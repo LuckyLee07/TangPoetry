@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-185-wen-guan-jun-shou-he-nan-he-bei",
@@ -30,6 +30,11 @@
     ],
     "text": "剑外忽传收蓟北，初闻涕泪满衣裳。却看妻子愁何在？漫卷诗书喜欲狂。白日放歌须纵酒，青春作伴好还乡。即从巴峡穿巫峡，便下襄阳向洛阳。",
     "textTraditional": "劍外忽傳收薊北，初聞涕淚滿衣裳。卻看妻子愁何在？漫卷詩書喜欲狂。白日放歌須縱酒，青春作伴好還鄉。即從巴峽穿巫峽，便下襄陽向洛陽。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "剑外忽传收蓟北，",
       "初闻涕泪满衣裳。",
@@ -536,7 +541,8 @@
         "file": "唐诗三百首.json",
         "index": 109,
         "title": "闻官军收河南河北",
-        "author": "杜甫"
+        "author": "杜甫",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

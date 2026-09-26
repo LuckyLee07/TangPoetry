@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-276-chun-yuan",
@@ -24,6 +24,11 @@
     ],
     "text": "纱窗日落渐黄昏，金屋无人见泪痕。寂寞空庭春欲晚，梨花满地不开门。",
     "textTraditional": "紗窗日落漸黃昏，金屋無人見淚痕。寂寞空庭春欲晚，梨花滿地不開門。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "纱窗日落渐黄昏，",
       "金屋无人见泪痕。",
@@ -323,7 +328,8 @@
         "file": "唐诗三百首.json",
         "index": 169,
         "title": "春怨",
-        "author": "刘方平"
+        "author": "刘方平",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

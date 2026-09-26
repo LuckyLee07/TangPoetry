@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-171-xing-jing-hua-yin",
@@ -28,6 +28,11 @@
     ],
     "text": "岧峣太华俯咸京，天外三峰削不成。武帝祠前云欲散，仙人掌上雨初晴。河山北枕秦关险，驿树西连汉畤平。借问路傍名利客，无如此处学长生。",
     "textTraditional": "岧嶢太華俯咸京，天外三峰削不成。武帝祠前雲欲散，仙人掌上雨初晴。河山北枕秦關險，驛樹西連漢畤平。借問路傍名利客，無如此處學長生。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "岧峣太华俯咸京，",
       "天外三峰削不成。",
@@ -602,7 +607,8 @@
         "file": "唐诗三百首.json",
         "index": 19,
         "title": "行经华阴",
-        "author": "崔颢"
+        "author": "崔颢",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

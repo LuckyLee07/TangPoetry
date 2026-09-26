@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-240-qiu-ye-ji-qiu-yuan-wai",
@@ -25,6 +25,11 @@
     ],
     "text": "怀君属秋夜，散步咏凉天。空山松子落，幽人应未眠。",
     "textTraditional": "懷君屬秋夜，散步詠涼天。空山松子落，幽人應未眠。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "怀君属秋夜，",
       "散步咏凉天。",
@@ -256,7 +261,8 @@
         "file": "唐诗三百首.json",
         "index": 22,
         "title": "秋夜寄邱员外 / 秋夜寄丘二十二员外",
-        "author": "韦应物"
+        "author": "韦应物",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

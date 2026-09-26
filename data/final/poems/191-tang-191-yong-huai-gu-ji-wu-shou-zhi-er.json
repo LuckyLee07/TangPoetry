@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-191-yong-huai-gu-ji-wu-shou-zhi-er",
@@ -29,6 +29,11 @@
     ],
     "text": "摇落深知宋玉悲，风流儒雅亦吾师。怅望千秋一洒泪，萧条异代不同时。江山故宅空文藻，云雨荒台岂梦思。最是楚宫俱泯灭，舟人指点到今疑。",
     "textTraditional": "搖落深知宋玉悲，風流儒雅亦吾師。悵望千秋一灑淚，蕭條異代不同時。江山故宅空文藻，雲雨荒臺豈夢思。最是楚宮俱泯滅，舟人指點到今疑。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "摇落深知宋玉悲，",
       "风流儒雅亦吾师。",
@@ -605,7 +610,8 @@
         "file": "唐诗三百首.json",
         "index": 68,
         "title": "咏怀古迹五首·其二",
-        "author": "杜甫"
+        "author": "杜甫",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-038-guan-shan-yue",
@@ -32,6 +32,11 @@
     ],
     "text": "明月出天山，苍茫云海间；长风几万里，吹度玉门关。汉下白登道，胡窥青海湾。由来征战地，不见有人还。戍客望边色，思归多苦颜；高楼当此夜，叹息未应闲。",
     "textTraditional": "明月出天山，蒼茫雲海間；長風幾萬里，吹度玉門關。漢下白登道，胡窺青海灣。由來征戰地，不見有人還。戍客望邊色，思歸多苦顏；高樓當此夜，歎息未應閑。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "明月出天山，",
       "苍茫云海间；",
@@ -578,7 +583,8 @@
         "file": "唐诗三百首.json",
         "index": 220,
         "title": "关山月",
-        "author": "李白"
+        "author": "李白",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

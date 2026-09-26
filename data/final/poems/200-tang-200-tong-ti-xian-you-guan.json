@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-200-tong-ti-xian-you-guan",
@@ -30,6 +30,11 @@
     ],
     "text": "仙台初见五城楼，风物凄凄宿雨收。山色遥连秦树晚，砧声近报汉宫秋。疏松影落空坛静，细草香闲小洞幽。何用别寻方外去？人间亦自有丹丘。",
     "textTraditional": "仙臺初見五城樓，風物淒淒宿雨收。山色遙連秦樹晚，砧聲近報漢宮秋。疏松影落空壇靜，細草香閑小洞幽。何用別尋方外去？人間亦自有丹丘。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "仙台初见五城楼，",
       "风物凄凄宿雨收。",
@@ -571,7 +576,8 @@
         "file": "唐诗三百首.json",
         "index": 129,
         "title": "同题仙游观",
-        "author": "韩翃"
+        "author": "韩翃",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

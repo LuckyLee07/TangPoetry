@@ -1,0 +1,494 @@
+{
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-134-song-li-zhong-cheng-gui-han-yang-bie-ye",
+    "order": 134,
+    "section": "五言律诗",
+    "title": "送李中丞归汉阳别业",
+    "titleTraditional": "送李中丞歸漢陽別業",
+    "author": "刘长卿",
+    "authorTraditional": "劉長卿",
+    "dynasty": "唐代",
+    "aliases": [
+      "送李中丞归汉阳别业"
+    ],
+    "lines": [
+      "流落征南将，曾驱十万师。",
+      "罢归无旧业，老去恋明时。",
+      "独立三边静，轻生一剑知。",
+      "茫茫江汉上，日暮复何之。"
+    ],
+    "linesTraditional": [
+      "流落征南將，曾驅十萬師。",
+      "罷歸無舊業，老去戀明時。",
+      "獨立三邊靜，輕生一劍知。",
+      "茫茫江漢上，日暮復何之。"
+    ],
+    "text": "流落征南将，曾驱十万师。罢归无旧业，老去恋明时。独立三边静，轻生一剑知。茫茫江汉上，日暮复何之。",
+    "textTraditional": "流落征南將，曾驅十萬師。罷歸無舊業，老去戀明時。獨立三邊靜，輕生一劍知。茫茫江漢上，日暮復何之。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
+    "displayLines": [
+      "流落征南将，",
+      "曾驱十万师。",
+      "罢归无旧业，",
+      "老去恋明时。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "征",
+          "zhēng"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "将",
+          "jiāng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "曾",
+          "céng"
+        ],
+        [
+          "驱",
+          "qū"
+        ],
+        [
+          "十",
+          "shí"
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "师",
+          "shī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "罢",
+          "bà"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "旧",
+          "jiù"
+        ],
+        [
+          "业",
+          "yè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "老",
+          "lǎo"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "恋",
+          "liàn"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "立",
+          "lì"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "边",
+          "biān"
+        ],
+        [
+          "静",
+          "jìng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "轻",
+          "qīng"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "剑",
+          "jiàn"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "茫",
+          "máng"
+        ],
+        [
+          "茫",
+          "máng"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "之",
+          "zhī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "流",
+          "liú"
+        ],
+        [
+          "落",
+          "luò"
+        ],
+        [
+          "征",
+          "zhēng"
+        ],
+        [
+          "南",
+          "nán"
+        ],
+        [
+          "将",
+          "jiāng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "曾",
+          "céng"
+        ],
+        [
+          "驱",
+          "qū"
+        ],
+        [
+          "十",
+          "shí"
+        ],
+        [
+          "万",
+          "wàn"
+        ],
+        [
+          "师",
+          "shī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "罢",
+          "bà"
+        ],
+        [
+          "归",
+          "guī"
+        ],
+        [
+          "无",
+          "wú"
+        ],
+        [
+          "旧",
+          "jiù"
+        ],
+        [
+          "业",
+          "yè"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "老",
+          "lǎo"
+        ],
+        [
+          "去",
+          "qù"
+        ],
+        [
+          "恋",
+          "liàn"
+        ],
+        [
+          "明",
+          "míng"
+        ],
+        [
+          "时",
+          "shí"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "独",
+          "dú"
+        ],
+        [
+          "立",
+          "lì"
+        ],
+        [
+          "三",
+          "sān"
+        ],
+        [
+          "边",
+          "biān"
+        ],
+        [
+          "静",
+          "jìng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "轻",
+          "qīng"
+        ],
+        [
+          "生",
+          "shēng"
+        ],
+        [
+          "一",
+          "yī"
+        ],
+        [
+          "剑",
+          "jiàn"
+        ],
+        [
+          "知",
+          "zhī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "茫",
+          "máng"
+        ],
+        [
+          "茫",
+          "máng"
+        ],
+        [
+          "江",
+          "jiāng"
+        ],
+        [
+          "汉",
+          "hàn"
+        ],
+        [
+          "上",
+          "shàng"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "日",
+          "rì"
+        ],
+        [
+          "暮",
+          "mù"
+        ],
+        [
+          "复",
+          "fù"
+        ],
+        [
+          "何",
+          "hé"
+        ],
+        [
+          "之",
+          "zhī"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [],
+    "tags": [
+      "五言律诗"
+    ],
+    "english": {
+      "headingRaw": "Five-character-regular-verseLiuChanqingAFAREWELLTOGOVERNORLIONHISWAYHOMETOHANYANG",
+      "translationRaw": "Sadwanderer，onceyouconqueredtheSouth，Commandingahundredthousandmen；Today，dismissedanddispossessed，Inyouroldageyourememberglory。Once，whenyoustood，threeborderswerestill；Yourdaggerwasthescaleoflife。Now，watchingthegreatrivers，theJiangandtheHan，Ontheirwaysintheevening，wheredoyougo？",
+      "translationClean": "Sadwanderer, onceyouconqueredtheSouth, Commandingahundredthousandmen; Today, dismissedanddispossessed, Inyouroldageyourememberglory. Once, whenyoustood, threeborderswerestill; Yourdaggerwasthescaleoflife. Now, watchingthegreatrivers, theJiangandtheHan, Ontheirwaysintheevening, wheredoyougo?",
+      "segments": [
+        "Sadwanderer, onceyouconqueredtheSouth, Commandingahundredthousandmen;",
+        "Today, dismissedanddispossessed, Inyouroldageyourememberglory.",
+        "Once, whenyoustood, threeborderswerestill;",
+        "Yourdaggerwasthescaleoflife.",
+        "Now, watchingthegreatrivers, theJiangandtheHan, Ontheirwaysintheevening, wheredoyougo?"
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "data/sources/ctext_clean.json",
+        "index": null,
+        "title": "送李中丞归汉阳别业",
+        "author": "刘长卿",
+        "supplemented": true
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "direct-source",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 134,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 231,
+        "score": 0.975,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": false,
+        "id": null,
+        "score": null
+      }
+    }
+  }
+}

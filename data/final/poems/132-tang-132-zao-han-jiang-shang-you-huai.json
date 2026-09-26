@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-132-zao-han-jiang-shang-you-huai",
@@ -29,6 +29,11 @@
     ],
     "text": "木落雁南渡，北风江上寒。我家襄水曲，遥隔楚云端。乡泪客中尽，孤帆天际看。迷津欲有问，平海夕漫漫。",
     "textTraditional": "木落雁南渡，北風江上寒。我家襄水曲，遙隔楚雲端。鄉淚客中盡，孤帆天際看。迷津欲有問，平海夕漫漫。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "木落雁南渡，",
       "北风江上寒。",
@@ -475,7 +480,8 @@
         "file": "唐诗三百首.json",
         "index": 44,
         "title": "早寒江上有怀 / 早寒有怀",
-        "author": "孟浩然"
+        "author": "孟浩然",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

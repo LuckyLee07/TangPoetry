@@ -1,0 +1,40 @@
+{
+  "batch": "edition-completion",
+  "created": "2026-09-26",
+  "method": "built-in image_gen",
+  "records": [
+    {
+      "id": "tang-043-chang-gan-xing",
+      "title": "长干行",
+      "prompt": "Use case: illustration-story. Asset type: one full-page background for a Chinese Tang poetry reading app, not a UI mockup. Generate ONE portrait 9:16 image. Refined traditional Chinese watercolor and ink on warm ivory xuan paper, gentle handmade paper grain, restrained grey-green, warm muted ochre. CRITICAL COMPOSITION: ALL painted subjects and details are confined to a shallow vignette in the TOP 20-25% of the whole tall page, dissolving completely into ivory paper by 28% height. The CENTER AND LOWER 70% must be nearly uniform blank warm ivory paper, intentionally empty for typeset poetry. No objects, shadows, branches, clouds or bottom decoration below 30%. Full bleed without borders, picture frames or rectangular boundaries. No text, calligraphy, signature, seal, logos, watermark or UI. Scene: Li Bai's Chang Gan Xing. In an old Jiangnan lane a young adult Tang-dynasty woman in plain graceful hanfu waits beside the threshold of her home for her merchant husband to return. A faint river lane beyond, a little green moss at the doorstep, two tiny butterflies near sparse autumn grasses. Quiet longing and the passage of time. One adult woman only, no children. Keep the figure, doorway, moss and butterflies entirely in the upper quarter; let the bottom of the shallow scene melt into untouched warm paper.",
+      "destination": "assets/poem-art-additions/tang-043-chang-gan-xing-v1.png",
+      "status": "accepted",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-c6c1fd9b-ca0c-4ca2-810e-589f6f211167.png",
+      "method": "built-in image_gen",
+      "visualReview": "门前等候的女子、青苔、两只蝴蝶与远处河巷均限于上方约三成；下方约七成连续暖纸留白，无文字或边框。",
+      "sha256": "5884703491cd3fb68c11cd2d4b5bec520c0398bee5c436e4e8e526c279987f2b"
+    },
+    {
+      "id": "tang-134-song-li-zhong-cheng-gui-han-yang-bie-ye",
+      "title": "送李中丞归汉阳别业",
+      "prompt": "Use case: illustration-story. Asset type: one full-page background for a Chinese Tang poetry reading app, not a UI mockup. Generate ONE portrait 9:16 image. Refined traditional Chinese watercolor and ink on warm ivory xuan paper, gentle handmade paper grain, restrained grey-green, warm muted ochre. CRITICAL COMPOSITION: ALL painted subjects and details are confined to a shallow vignette in the TOP 20-25% of the whole tall page, dissolving completely into ivory paper by 28% height. The CENTER AND LOWER 70% must be nearly uniform blank warm ivory paper, intentionally empty for typeset poetry. No objects, shadows, branches, clouds or bottom decoration below 30%. Full bleed without borders, picture frames or rectangular boundaries. No text, calligraphy, signature, seal, logos, watermark or UI. Scene: Liu Changqing's farewell to the retired General Li returning to Hanyang. A lone older Tang-dynasty man in simple travel robes carrying a sheathed sword stands beside a small riverside landing, gazing into the wide misty Han river at dusk. A quiet empty wooden ferry beside him, distant faint shoreline, compassionate and dignified mood, no battlefield and no modern objects. Everything including the standing man, boat, landing and horizon remains only in the upper quarter, dissolving into blank ivory paper by 28%.",
+      "destination": "assets/poem-art-additions/tang-134-song-li-zhong-cheng-gui-han-yang-bie-ye-v1.png",
+      "status": "accepted",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-57d51089-dde2-43d9-9df1-b1595f3fd493.png",
+      "method": "built-in image_gen",
+      "visualReview": "暮色江面、佩剑老将与渡口小舟限于上方约四分之一，中央及底部留白，无文字或边框。",
+      "sha256": "c487e43def8b0c66978f1e1ef77dbed813c4f4df7e652abebffdb946b539f806"
+    },
+    {
+      "id": "tang-278-gong-ci",
+      "title": "宫词",
+      "prompt": "Use case: illustration-story. Asset type: one full-page background for a Chinese Tang poetry reading app, not a UI mockup. Generate ONE portrait 9:16 image. Refined traditional Chinese watercolor and ink on warm ivory xuan paper, gentle handmade paper grain, restrained grey-green, warm muted ochre. CRITICAL COMPOSITION: ALL painted subjects and details are confined to a shallow vignette in the TOP 20-25% of the whole tall page, dissolving completely into ivory paper by 28% height. The CENTER AND LOWER 70% must be nearly uniform blank warm ivory paper, intentionally empty for typeset poetry. No objects, shadows, branches, clouds or bottom decoration below 30%. Full bleed without borders, picture frames or rectangular boundaries. No text, calligraphy, signature, seal, logos, watermark or UI. Scene: Gu Kuang's palace poem. A high Tang palace pavilion under a delicate starry autumn night, a rolled translucent bead curtain and a small crescent moon, a few tiny distant women in Tang hanfu seated in warm lamplight suggesting quiet music and conversation. The Milky Way is a very faint soft ink wash only in the upper vignette. Lyrical historical Chinese watercolor, not photoreal, intimate palace details only at the top. The night colors, palace, people, curtain, stars and all architecture MUST fade out completely by 28% page height. Lower 70% stays warm ivory paper, never dark sky.",
+      "destination": "assets/poem-art-additions/tang-278-gong-ci-v1.png",
+      "status": "accepted",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-e5c5860d-1174-4735-80c1-b8952c8e6518.png",
+      "method": "built-in image_gen",
+      "visualReview": "宫楼、珠帘、乐舞女子与秋夜星河限于上方约四分之一；夜色在上部消融，下方保持暖纸留白，无文字或边框。",
+      "sha256": "7e34038453604f6a08913e8c3f511cbbb56f3ebeff669982ed8aa3778b6de607"
+    }
+  ]
+}

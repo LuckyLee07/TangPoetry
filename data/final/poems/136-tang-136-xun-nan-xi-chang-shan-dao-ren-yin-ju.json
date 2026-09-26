@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-136-xun-nan-xi-chang-shan-dao-ren-yin-ju",
@@ -29,6 +29,11 @@
     ],
     "text": "一路经行处，莓苔见履痕。白云依静渚，春草闭闲门。过雨看松色，随山到水源。溪花与禅意，相对亦忘言。",
     "textTraditional": "一路經行處，莓苔見履痕。白雲依靜渚，春草閉閑門。過雨看松色，隨山到水源。溪花與禪意，相對亦忘言。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "一路经行处，",
       "莓苔见履痕。",
@@ -463,7 +468,8 @@
         "file": "唐诗三百首.json",
         "index": 67,
         "title": "寻南溪常山道人隐居 / 寻南溪常道士",
-        "author": "刘长卿"
+        "author": "刘长卿",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-113-lv-ye-shu-huai",
@@ -28,6 +28,11 @@
     ],
     "text": "细草微风岸，危樯独夜舟。星垂平野阔，月涌大江流。名岂文章著，官应老病休。飘飘何所似，天地一沙鸥。",
     "textTraditional": "細草微風岸，危檣獨夜舟。星垂平野闊，月湧大江流。名豈文章著，官應老病休。飄飄何所似，天地一沙鷗。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "细草微风岸，",
       "危樯独夜舟。",
@@ -467,7 +472,8 @@
         "file": "唐诗三百首.json",
         "index": 61,
         "title": "旅夜书怀",
-        "author": "杜甫"
+        "author": "杜甫",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

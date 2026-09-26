@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-285-ji-ling-tai-zhi-er",
@@ -25,6 +25,11 @@
     ],
     "text": "虢国夫人承主恩，平明骑马入宫门。却嫌脂粉污颜色，淡扫蛾眉朝至尊。",
     "textTraditional": "虢國夫人承主恩，平明騎馬入宮門。卻嫌脂粉污顏色，淡掃蛾眉朝至尊。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "虢国夫人承主恩，",
       "平明骑马入宫门。",
@@ -325,7 +330,8 @@
         "file": "唐诗三百首.json",
         "index": 226,
         "title": "集灵台·其二",
-        "author": "张祜"
+        "author": "张祜",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-283-zeng-nei-ren",
@@ -24,6 +24,11 @@
     ],
     "text": "禁门宫树月痕过，媚眼惟看宿鹭窠。斜拔玉钗灯影畔，剔开红燄救飞蛾。",
     "textTraditional": "禁門宮樹月痕過，媚眼惟看宿鷺窠。斜拔玉釵燈影畔，剔開紅燄救飛蛾。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "禁门宫树月痕过，",
       "媚眼惟看宿鹭窠。",
@@ -323,7 +328,8 @@
         "file": "唐诗三百首.json",
         "index": 206,
         "title": "赠内人",
-        "author": "张祜"
+        "author": "张祜",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

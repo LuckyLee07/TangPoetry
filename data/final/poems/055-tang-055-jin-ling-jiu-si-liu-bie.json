@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-055-jin-ling-jiu-si-liu-bie",
@@ -26,6 +26,11 @@
     ],
     "text": "风吹柳花满店香，吴姬压酒唤客尝；金陵子弟来相送，欲行不行各尽觞。请君试问东流水，别意与之谁短长？",
     "textTraditional": "風吹柳花滿店香，吳姬壓酒喚客嘗；金陵子弟來相送，欲行不行各盡觴。請君試問東流水，別意與之誰短長？",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "风吹柳花满店香，",
       "吴姬压酒唤客尝；",
@@ -462,7 +467,8 @@
         "file": "唐诗三百首.json",
         "index": 31,
         "title": "金陵酒肆留别",
-        "author": "李白"
+        "author": "李白",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

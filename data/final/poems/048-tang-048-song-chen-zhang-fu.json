@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-048-song-chen-zhang-fu",
@@ -38,6 +38,11 @@
     ],
     "text": "四月南风大麦黄，枣花未落桐叶长。青山朝别暮还见，嘶马出门思故乡。陈侯立身何坦荡？虬须虎眉仍大颡。腹中贮书一万卷，不肯低头在草莽。东门酤酒饮我曹，心轻万事皆鸿毛，醉卧不知白日暮，有时空望孤云高。长河浪头连天黑，津口停舟渡不得；郑国游人未及家，洛阳行子空叹息。闻道故林相识多，罢官昨日今如何。",
     "textTraditional": "四月南風大麥黃，棗花未落桐葉長。青山朝別暮還見，嘶馬出門思故鄉。陳侯立身何坦蕩？虯鬚虎眉仍大顙。腹中貯書一萬卷，不肯低頭在草莽。東門酤酒飲我曹，心輕萬事皆鴻毛，醉臥不知白日暮，有時空望孤雲高。長河浪頭連天黑，津口停舟渡不得；鄭國遊人未及家，洛陽行子空嘆息。聞道故林相識多，罷官昨日今如何。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "四月南风大麦黄，",
       "枣花未落桐叶长。",
@@ -883,7 +888,8 @@
         "file": "唐诗三百首.json",
         "index": 171,
         "title": "送陈章甫",
-        "author": "李颀"
+        "author": "李颀",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

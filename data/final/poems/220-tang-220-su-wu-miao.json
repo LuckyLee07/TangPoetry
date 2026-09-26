@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-220-su-wu-miao",
@@ -28,6 +28,11 @@
     ],
     "text": "苏武魂销汉使前，古祠高树两茫然。云边雁断胡天月，陇上羊归塞草烟。回日楼台非甲帐，去时冠剑是丁年。茂陵不见封侯印，空向秋波哭逝川。",
     "textTraditional": "蘇武魂銷漢使前，古祠高樹兩茫然。雲邊雁斷胡天月，隴上羊歸塞草煙。迴日樓臺非甲帳，去時冠劍是丁年。茂陵不見封侯印，空向秋波哭逝川。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "苏武魂销汉使前，",
       "古祠高树两茫然。",
@@ -596,7 +601,8 @@
         "file": "唐诗三百首.json",
         "index": 110,
         "title": "苏武庙",
-        "author": "温庭筠"
+        "author": "温庭筠",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

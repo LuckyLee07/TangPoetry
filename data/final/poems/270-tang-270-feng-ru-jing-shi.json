@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-270-feng-ru-jing-shi",
@@ -24,6 +24,11 @@
     ],
     "text": "故园东望路漫漫，双袖龙钟泪不干。马上相逢无纸笔，凭君传语报平安。",
     "textTraditional": "故園東望路漫漫，雙袖龍鐘淚不乾。馬上相逢無紙筆，憑君傳語報平安。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "故园东望路漫漫，",
       "双袖龙钟泪不干。",
@@ -326,7 +331,8 @@
         "file": "唐诗三百首.json",
         "index": 25,
         "title": "逢入京使",
-        "author": "岑参"
+        "author": "岑参",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

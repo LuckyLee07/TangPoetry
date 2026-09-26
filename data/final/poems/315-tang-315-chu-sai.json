@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-315-chu-sai",
@@ -25,6 +25,11 @@
     ],
     "text": "秦时明月汉时关，万里长征人未还。但使龙城飞将在，不教胡马渡阴山。",
     "textTraditional": "秦時明月漢時關，萬里長征人未還。但使龍城飛將在，不教胡馬渡陰山。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "秦时明月汉时关，",
       "万里长征人未还。",
@@ -329,7 +334,8 @@
         "file": "唐诗三百首.json",
         "index": 229,
         "title": "出塞二首·其一",
-        "author": "王昌龄"
+        "author": "王昌龄",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

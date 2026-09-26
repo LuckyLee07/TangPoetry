@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-289-jiang-fu-wu-xing-deng-le-you-yuan",
@@ -25,6 +25,11 @@
     ],
     "text": "清时有味是无能，闲爱孤云静爱僧。欲把一麾江海去，乐游原上望昭陵。",
     "textTraditional": "清時有味是無能，閒愛孤雲靜愛僧。欲把一麾江海去，樂遊原上望昭陵。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "清时有味是无能，",
       "闲爱孤云静爱僧。",
@@ -325,7 +330,8 @@
         "file": "唐诗三百首.json",
         "index": 66,
         "title": "将赴吴兴登乐游原一绝",
-        "author": "杜牧"
+        "author": "杜牧",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

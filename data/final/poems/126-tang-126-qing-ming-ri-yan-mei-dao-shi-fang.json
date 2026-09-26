@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-126-qing-ming-ri-yan-mei-dao-shi-fang",
@@ -28,6 +28,11 @@
     ],
     "text": "林卧愁春尽，开轩览物华。忽逢青鸟使，邀入赤松家。丹灶初开火，仙桃正发花。童颜若可驻，何惜醉流霞。",
     "textTraditional": "林臥愁春盡，開軒覽物華。忽逢青鳥使，邀入赤松家。丹灶初開火，仙桃正發花。童顏若可駐，何惜醉流霞。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "林卧愁春尽，",
       "开轩览物华。",
@@ -471,7 +476,8 @@
         "file": "唐诗三百首.json",
         "index": 77,
         "title": "清明日宴梅道士房",
-        "author": "孟浩然"
+        "author": "孟浩然",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

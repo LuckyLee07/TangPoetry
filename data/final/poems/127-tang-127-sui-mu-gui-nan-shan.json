@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-127-sui-mu-gui-nan-shan",
@@ -19,16 +19,48 @@
       "北阙休上书，南山归敝庐。",
       "不才明主弃，多病故人疏。",
       "白发催年老，青阳逼岁除。",
-      "永怀愁不寐，松月夜窗墟。"
+      "永怀愁不寐，松月夜窗虚。"
     ],
     "linesTraditional": [
       "北闕休上書，南山歸敝廬。",
       "不才明主棄，多病故人疏。",
       "白髮催年老，青陽逼歲除。",
-      "永懷愁不寐，松月夜窗墟。"
+      "永懷愁不寐，松月夜窗虛。"
     ],
-    "text": "北阙休上书，南山归敝庐。不才明主弃，多病故人疏。白发催年老，青阳逼岁除。永怀愁不寐，松月夜窗墟。",
-    "textTraditional": "北闕休上書，南山歸敝廬。不才明主棄，多病故人疏。白髮催年老，青陽逼歲除。永懷愁不寐，松月夜窗墟。",
+    "text": "北阙休上书，南山归敝庐。不才明主弃，多病故人疏。白发催年老，青阳逼岁除。永怀愁不寐，松月夜窗虚。",
+    "textTraditional": "北闕休上書，南山歸敝廬。不才明主棄，多病故人疏。白髮催年老，青陽逼歲除。永懷愁不寐，松月夜窗虛。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [
+      {
+        "original": "松月夜窗墟",
+        "replacement": "松月夜窗虚",
+        "originalTraditional": "松月夜窗墟",
+        "replacementTraditional": "松月夜窗虛",
+        "expectedCount": 1,
+        "reason": "虚写空寂，基础源和典籍引诗一致。",
+        "evidence": [
+          {
+            "file": "唐诗三百首.json",
+            "index": 154,
+            "excerpt": "白发催年老，青阳逼岁除。永怀愁不寐，松月夜窗虚。"
+          },
+          {
+            "file": "data/sources/chiuinan_clean.json",
+            "order": 224,
+            "excerpt": "永怀愁不寐，松月夜窗虚。"
+          },
+          {
+            "url": "https://ctext.org/wiki.pl?chapter=330499&if=en&remap=gb",
+            "title": "《竹庄诗话》卷十五",
+            "excerpt": "松月夜窗虚",
+            "checkedAt": "2026-09-26"
+          }
+        ]
+      }
+    ],
+    "metadataCorrections": {},
     "displayLines": [
       "北阙休上书，",
       "南山归敝庐。",
@@ -228,7 +260,7 @@
           "chuāng"
         ],
         [
-          "墟",
+          "虚",
           "xū"
         ],
         [
@@ -430,7 +462,7 @@
           "chuāng"
         ],
         [
-          "墟",
+          "虚",
           "xū"
         ],
         [
@@ -468,7 +500,8 @@
         "file": "唐诗三百首.json",
         "index": 154,
         "title": "岁暮归南山 / 归故园作 / 归终南山",
-        "author": "孟浩然"
+        "author": "孟浩然",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

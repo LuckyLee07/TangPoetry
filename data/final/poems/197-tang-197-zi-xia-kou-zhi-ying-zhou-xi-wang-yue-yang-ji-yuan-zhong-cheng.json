@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-197-zi-xia-kou-zhi-ying-zhou-xi-wang-yue-yang-ji-yuan-zhong-cheng",
@@ -29,6 +29,11 @@
     ],
     "text": "汀洲无浪复无烟，楚客相思益渺然。汉口夕阳斜渡鸟，洞庭秋水远连天。孤城背岭寒吹角，独戍临江夜泊船。贾谊上书忧汉室，长沙谪去古今怜。",
     "textTraditional": "汀洲無浪復無煙，楚客相思益渺然。漢口夕陽斜渡鳥，洞庭秋水遠連天。孤城背嶺寒吹角，獨戍臨江夜泊船。賈誼上書憂漢室，長沙謫去古今憐。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "汀洲无浪复无烟，",
       "楚客相思益渺然。",
@@ -607,7 +612,8 @@
         "file": "唐诗三百首.json",
         "index": 281,
         "title": "自夏口至鹦鹉洲夕望岳阳寄源中丞",
-        "author": "刘长卿"
+        "author": "刘长卿",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

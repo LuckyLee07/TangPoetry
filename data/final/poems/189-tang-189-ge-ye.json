@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-189-ge-ye",
@@ -28,6 +28,11 @@
     ],
     "text": "岁暮阴阳催短景，天涯霜雪霁寒霄。五更鼓角声悲壮，三峡星河影动摇。野哭千家闻战伐，夷歌数处起渔樵。卧龙跃马终黄土，人事音书漫寂寥。",
     "textTraditional": "歲暮陰陽催短景，天涯霜雪霽寒霄。五更鼓角聲悲壯，三峽星河影動搖。野哭千家聞戰伐，夷歌數處起漁樵。臥龍躍馬終黃土，人事音書漫寂寥。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "岁暮阴阳催短景，",
       "天涯霜雪霁寒霄。",
@@ -605,7 +610,8 @@
         "file": "唐诗三百首.json",
         "index": 302,
         "title": "阁夜",
-        "author": "杜甫"
+        "author": "杜甫",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-286-ti-jin-ling-du",
@@ -24,6 +24,11 @@
     ],
     "text": "金陵津渡小山楼，一宿行人自可愁。潮落夜江斜月里，两三星火是瓜州。",
     "textTraditional": "金陵津渡小山樓，一宿行人自可愁。潮落夜江斜月裡，兩三星火是瓜州。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "金陵津渡小山楼，",
       "一宿行人自可愁。",
@@ -318,7 +323,8 @@
         "file": "唐诗三百首.json",
         "index": 17,
         "title": "题金陵渡",
-        "author": "张祜"
+        "author": "张祜",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

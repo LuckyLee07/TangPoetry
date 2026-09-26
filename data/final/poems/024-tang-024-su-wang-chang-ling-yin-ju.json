@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-024-su-wang-chang-ling-yin-ju",
@@ -28,6 +28,11 @@
     ],
     "text": "清溪深不测，隐处唯孤云；松际露微月，清光犹为君。茅亭宿花影，药院滋苔纹。余亦谢时去，西山鸾鹤群。",
     "textTraditional": "清溪深不測，隱處唯孤雲；松際露微月，清光猶為君。茅亭宿花影，藥院滋苔紋。餘亦謝時去，西山鸞鶴群。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "清溪深不测，",
       "隐处唯孤云；",
@@ -467,7 +472,8 @@
         "file": "唐诗三百首.json",
         "index": 15,
         "title": "宿王昌龄隐居",
-        "author": "常建"
+        "author": "常建",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

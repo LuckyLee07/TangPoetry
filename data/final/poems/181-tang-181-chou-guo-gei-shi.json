@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-181-chou-guo-gei-shi",
@@ -28,6 +28,11 @@
     ],
     "text": "洞门高阁霭余辉，桃李阴阴柳絮飞。禁里疏钟官舍晚，省中啼鸟吏人稀。晨摇玉珮趋金殿，夕奉天书拜琐闱。强欲从君无那老，将因卧病解朝衣。",
     "textTraditional": "洞門高閣靄餘輝，桃李陰陰柳絮飛。禁裡疏鐘官舍晚，省中啼鳥吏人稀。晨搖玉珮趨金殿，夕奉天書拜瑣闈。強欲從君無那老，將因臥病解朝衣。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "洞门高阁霭余辉，",
       "桃李阴阴柳絮飞。",
@@ -608,7 +613,8 @@
         "file": "唐诗三百首.json",
         "index": 95,
         "title": "酬郭给事",
-        "author": "王维"
+        "author": "王维",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

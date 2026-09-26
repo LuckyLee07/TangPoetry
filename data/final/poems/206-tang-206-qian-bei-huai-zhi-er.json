@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-206-qian-bei-huai-zhi-er",
@@ -29,6 +29,11 @@
     ],
     "text": "昔日戏言身后事，今朝都到眼前来。衣裳已施行看尽，针线犹存未忍开。尚想旧情怜婢仆，也曾因梦送钱财。诚知此恨人人有，贫贱夫妻百事哀。",
     "textTraditional": "昔日戲言身後事，今朝都到眼前來。衣裳已施行看盡，針線猶存未忍開。尚想舊情憐婢僕，也曾因夢送錢財。誠知此恨人人有，貧賤夫妻百事哀。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "昔日戏言身后事，",
       "今朝都到眼前来。",
@@ -597,7 +602,8 @@
         "file": "唐诗三百首.json",
         "index": 172,
         "title": "遣悲怀三首·其二",
-        "author": "元稹"
+        "author": "元稹",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

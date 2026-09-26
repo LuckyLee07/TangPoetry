@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-208-zi-he-nan-jing-luan-guan-nei-zu-ji-xiong-di-li-san-ge-zai-yi-chu-yin-wang-yue-yo",
@@ -29,6 +29,11 @@
     ],
     "text": "时难年荒世业空，弟兄羁旅各西东。田园寥落干戈后，骨肉流离道路中。吊影分为千里雁，辞根散作九秋蓬。共看明月应垂泪，一夜乡心五处同。",
     "textTraditional": "時難年荒世業空，弟兄羈旅各西東。田園寥落干戈後，骨肉流離道路中。弔影分為千里雁，辭根散作九秋蓬。共看明月應垂淚，一夜鄉心五處同。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "时难年荒世业空，",
       "弟兄羁旅各西东。",
@@ -600,7 +605,8 @@
         "file": "唐诗三百首.json",
         "index": 126,
         "title": "望月有感",
-        "author": "白居易"
+        "author": "白居易",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-205-qian-bei-huai-zhi-yi",
@@ -29,6 +29,11 @@
     ],
     "text": "谢公最小偏怜女，自嫁黔娄百事乖。顾我无衣搜荩箧，泥他沽酒拔金钗。野蔬充膳甘长藿，落叶添薪仰古槐。今日俸钱过十万，与君营奠复营斋。",
     "textTraditional": "謝公最小偏憐女，自嫁黔婁百事乖。顧我無衣搜藎篋，泥他沽酒拔金釵。野蔬充膳甘長藿，落葉添薪仰古槐。今日俸錢過十萬，與君營奠復營齋。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "谢公最小偏怜女，",
       "自嫁黔娄百事乖。",
@@ -613,7 +618,8 @@
         "file": "唐诗三百首.json",
         "index": 239,
         "title": "遣悲怀三首·其一",
-        "author": "元稹"
+        "author": "元稹",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -33,14 +33,32 @@ struct RubyToken: Decodable, Sendable {
     }
 }
 
+struct PoemAnnotation: Decodable, Sendable {
+    let text: String
+    let source: String
+    var sourceName: String {
+        switch source {
+        case "ctext": "中国哲学书电子化计划"
+        case "chiuinan": "唐诗选本附注"
+        case "唐诗三百首.json": "基础选本"
+        default: source
+        }
+    }
+}
+
 struct PoemDetail: Decodable, Sendable {
     let id: String
     let title: String
     let author: String
+    let sourceTitle: String
     let rubyLines: [[RubyToken]]
     let noteTitle: String
     let note: String
     let notes: [String]
+    let interpretation: [String]
+    let annotations: [PoemAnnotation]
+    let variants: [PoemAnnotation]
+    let preface: [String]
     var text: String { rubyLines.flatMap { $0 }.map(\.text).joined() }
 }
 

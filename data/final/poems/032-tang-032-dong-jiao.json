@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-032-dong-jiao",
@@ -32,6 +32,11 @@
     ],
     "text": "吏舍跼终年，出郊旷清曙。杨柳散和风，青山澹吾虑。依丛适自憩，缘涧还复去。微雨霭芳原，春鸠鸣何处？乐幽心屡止，遵事迹犹遽；终罢斯结庐，慕陶真可庶。",
     "textTraditional": "吏舍跼終年，出郊曠清曙。楊柳散和風，青山澹吾慮。依叢適自憩，緣澗還復去。微雨靄芳原，春鳩鳴何處？樂幽心屢止，遵事跡猶遽；終罷斯結廬，慕陶真可庶。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "吏舍跼终年，",
       "出郊旷清曙。",
@@ -576,7 +581,8 @@
         "file": "唐诗三百首.json",
         "index": 99,
         "title": "东郊",
-        "author": "韦应物"
+        "author": "韦应物",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-058-lun-tai-ge-feng-song-feng-da-fu-chu-shi-xi-zheng",
@@ -40,6 +40,11 @@
     ],
     "text": "轮台城头夜吹角，轮台城北旄头落。羽书昨夜过渠黎，单于已在金山西。戍楼西望烟尘黑，汉兵屯在轮台北。上将拥旄西出征，平明吹笛大军行。四边伐鼓雪海涌，三军大呼阴山动。虏塞兵气连云屯，战场白骨缠草根。剑河风急雪片阔，沙口石冻马蹄脱。亚相勤王甘苦辛，誓将报主静边尘。古来青史谁不见？今见功名胜古人。",
     "textTraditional": "輪臺城頭夜吹角，輪臺城北旄頭落。羽書昨夜過渠黎，單于已在金山西。戍樓西望煙塵黑，漢兵屯在輪臺北。上將擁旄西出征，平明吹笛大軍行。四邊伐鼓雪海湧，三軍大呼陰山動。虜塞兵氣連雲屯，戰場白骨纏草根。劍河風急雪片闊，沙口石凍馬蹄脫。亞相勤王甘苦辛，誓將報主靜邊塵。古來青史誰不見？今見功名勝古人。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "轮台城头夜吹角，",
       "轮台城北旄头落。",
@@ -965,7 +970,8 @@
         "file": "唐诗三百首.json",
         "index": 195,
         "title": "轮台歌奉送封大夫出师西征",
-        "author": "岑参"
+        "author": "岑参",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

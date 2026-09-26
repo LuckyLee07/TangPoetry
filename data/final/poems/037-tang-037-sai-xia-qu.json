@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-037-sai-xia-qu",
@@ -28,6 +28,11 @@
     ],
     "text": "饮马渡秋水，水寒风似刀。平沙日未没，黯黯见临洮。昔日长城战，咸言意气高；黄尘足今古，白骨乱蓬蒿。",
     "textTraditional": "飲馬渡秋水，水寒風似刀。平沙日未沒，黯黯見臨洮。昔日長城戰，咸言意氣高；黃塵足今古，白骨亂蓬蒿。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "饮马渡秋水，",
       "水寒风似刀。",
@@ -474,7 +479,8 @@
         "file": "唐诗三百首.json",
         "index": 204,
         "title": "塞下曲",
-        "author": "王昌龄"
+        "author": "王昌龄",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

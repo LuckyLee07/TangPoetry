@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-107-chun-su-zuo-sheng",
@@ -28,6 +28,11 @@
     ],
     "text": "花隐掖垣暮，啾啾栖鸟过。星临万户动，月傍九霄多。不寝听金钥，因风想玉珂。明朝有封事，数问夜如何。",
     "textTraditional": "花隱掖垣暮，啾啾棲鳥過。星臨萬戶動，月傍九霄多。不寢聽金鑰，因風想玉珂。明朝有封事，數問夜如何。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "花隐掖垣暮，",
       "啾啾栖鸟过。",
@@ -474,7 +479,8 @@
         "file": "唐诗三百首.json",
         "index": 59,
         "title": "春宿左省",
-        "author": "杜甫"
+        "author": "杜甫",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-273-feng-qiao-ye-po",
@@ -24,6 +24,11 @@
     ],
     "text": "月落乌啼霜满天，江枫渔火对愁眠。姑苏城外寒山寺，夜半钟声到客船。",
     "textTraditional": "月落烏啼霜滿天，江楓漁火對愁眠。姑蘇城外寒山寺，夜半鐘聲到客船。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "月落乌啼霜满天，",
       "江枫渔火对愁眠。",
@@ -322,7 +327,8 @@
         "file": "唐诗三百首.json",
         "index": 139,
         "title": "枫桥夜泊",
-        "author": "张继"
+        "author": "张继",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

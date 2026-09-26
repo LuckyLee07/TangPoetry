@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-166-gu-yan",
@@ -29,6 +29,11 @@
     ],
     "text": "几行归塞尽，片影独何之？暮雨相呼失，寒塘欲下迟。渚云低暗渡，关月冷相随。未必逢矰缴，孤飞自可疑。",
     "textTraditional": "幾行歸塞盡，片影獨何之？暮雨相呼失，寒塘欲下遲。渚雲低暗渡，關月冷相隨。未必逢矰繳，孤飛自可疑。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "几行归塞尽，",
       "片影独何之？",
@@ -471,7 +476,8 @@
         "file": "唐诗三百首.json",
         "index": 205,
         "title": "孤雁二首·其二",
-        "author": "崔涂"
+        "author": "崔涂",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

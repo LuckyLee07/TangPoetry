@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-167-chun-gong-yuan",
@@ -28,6 +28,11 @@
     ],
     "text": "早被婵娟误，欲妆临镜慵。承恩不在貌，教妾若为容？风暖鸟声碎，日高花影重。年年越溪女，相忆采芙蓉。",
     "textTraditional": "早被嬋娟誤，欲妝臨鏡慵。承恩不在貌，教妾若為容？風暖鳥聲碎，日高花影重。年年越溪女，相憶採芙蓉。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "早被婵娟误，",
       "欲妆临镜慵。",
@@ -468,7 +473,8 @@
         "file": "唐诗三百首.json",
         "index": 245,
         "title": "春宫怨",
-        "author": "杜荀鹤"
+        "author": "杜荀鹤",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

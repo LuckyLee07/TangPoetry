@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-112-bie-fang-tai-wei-mu",
@@ -28,6 +28,11 @@
     ],
     "text": "他乡复行役，驻马别孤坟。近泪无干土，低空有断云。对棋陪谢傅，把剑觅徐君。唯见林花落，莺啼送客闻。",
     "textTraditional": "他鄉復行役，駐馬別孤墳。近淚無乾土，低空有斷雲。對棋陪謝傅，把劍覓徐君。唯見林花落，鶯啼送客聞。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "他乡复行役，",
       "驻马别孤坟。",
@@ -476,7 +481,8 @@
         "file": "唐诗三百首.json",
         "index": 309,
         "title": "别房太尉墓",
-        "author": "杜甫"
+        "author": "杜甫",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

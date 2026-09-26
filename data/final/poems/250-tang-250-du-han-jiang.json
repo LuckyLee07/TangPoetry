@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-250-du-han-jiang",
@@ -15,18 +15,45 @@
       "渡汉江"
     ],
     "lines": [
-      "岭外音书绝，经冬复立春。",
+      "岭外音书绝，经冬复历春。",
       "近乡情更怯，不敢问来人。"
     ],
     "linesTraditional": [
-      "嶺外音書絕，經冬復立春。",
+      "嶺外音書絕，經冬復歷春。",
       "近鄉情更怯，不敢問來人。"
     ],
-    "text": "岭外音书绝，经冬复立春。近乡情更怯，不敢问来人。",
-    "textTraditional": "嶺外音書絕，經冬復立春。近鄉情更怯，不敢問來人。",
+    "text": "岭外音书绝，经冬复历春。近乡情更怯，不敢问来人。",
+    "textTraditional": "嶺外音書絕，經冬復歷春。近鄉情更怯，不敢問來人。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [
+      {
+        "original": "经冬复立春",
+        "replacement": "经冬复历春",
+        "originalTraditional": "經冬復立春",
+        "replacementTraditional": "經冬復歷春",
+        "expectedCount": 1,
+        "reason": "历春指又经历春天，基础源与典籍引诗一致；作者归属仍依当前选本保留李频。",
+        "evidence": [
+          {
+            "file": "唐诗三百首.json",
+            "index": 105,
+            "excerpt": "岭外音书断，经冬复历春。"
+          },
+          {
+            "url": "https://ctext.org/wiki.pl?chapter=3954297&if=en&remap=gb",
+            "title": "《唐诗类苑》十八",
+            "excerpt": "岭外音书断经冬复历春近乡情更怯不敢问来人",
+            "checkedAt": "2026-09-26"
+          }
+        ]
+      }
+    ],
+    "metadataCorrections": {},
     "displayLines": [
       "岭外音书绝，",
-      "经冬复立春。",
+      "经冬复历春。",
       "近乡情更怯，",
       "不敢问来人。"
     ],
@@ -69,7 +96,7 @@
           "fù"
         ],
         [
-          "立",
+          "历",
           "lì"
         ],
         [
@@ -171,7 +198,7 @@
           "fù"
         ],
         [
-          "立",
+          "历",
           "lì"
         ],
         [
@@ -255,7 +282,8 @@
         "file": "唐诗三百首.json",
         "index": 105,
         "title": "渡汉江",
-        "author": "宋之问"
+        "author": "宋之问",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

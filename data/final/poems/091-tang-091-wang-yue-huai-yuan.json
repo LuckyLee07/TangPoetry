@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-091-wang-yue-huai-yuan",
@@ -29,6 +29,11 @@
     ],
     "text": "海上生明月，天涯共此时。情人怨遥夜，竟夕起相思。灭烛怜光满，披衣觉露滋。不堪盈手赠，还寝梦佳期。",
     "textTraditional": "海上生明月，天涯共此時。情人怨遙夜，竟夕起相思。滅燭憐光滿，披衣覺露滋。不堪盈手贈，還寢夢佳期。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "海上生明月，",
       "天涯共此时。",
@@ -465,7 +470,8 @@
         "file": "唐诗三百首.json",
         "index": 152,
         "title": "望月怀远 / 望月怀古",
-        "author": "张九龄"
+        "author": "张九龄",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

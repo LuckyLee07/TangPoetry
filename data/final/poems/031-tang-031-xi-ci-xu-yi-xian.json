@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-031-xi-ci-xu-yi-xian",
@@ -28,6 +28,11 @@
     ],
     "text": "落帆逗淮镇，停舫临孤驿。浩浩风起波，冥冥日沈夕。人归山郭暗，雁下芦洲白。独夜忆秦关，听钟未眠客。",
     "textTraditional": "落帆逗淮鎮，停舫臨孤驛。浩浩風起波，冥冥日沈夕。人歸山郭暗，雁下蘆洲白。獨夜憶秦關，聽鐘未眠客。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "落帆逗淮镇，",
       "停舫临孤驿。",
@@ -473,7 +478,8 @@
         "file": "唐诗三百首.json",
         "index": 191,
         "title": "夕次盱眙县",
-        "author": "韦应物"
+        "author": "韦应物",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

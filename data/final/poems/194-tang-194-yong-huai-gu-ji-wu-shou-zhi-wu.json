@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-194-yong-huai-gu-ji-wu-shou-zhi-wu",
@@ -29,6 +29,11 @@
     ],
     "text": "诸葛大名垂宇宙，宗臣遗像肃清高。三分割据纡筹策，万古云霄一羽毛。伯仲之间见伊吕，指挥若定失萧曹。运移汉祚终难复，志决身歼军务劳。",
     "textTraditional": "諸葛大名垂宇宙，宗臣遺像肅清高。三分割據紆籌策，萬古雲霄一羽毛。伯仲之間見伊呂，指揮若定失蕭曹。運移漢祚終難復，志決身殲軍務勞。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "诸葛大名垂宇宙，",
       "宗臣遗像肃清高。",
@@ -604,7 +609,8 @@
         "file": "唐诗三百首.json",
         "index": 142,
         "title": "咏怀古迹五首·其五",
-        "author": "杜甫"
+        "author": "杜甫",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

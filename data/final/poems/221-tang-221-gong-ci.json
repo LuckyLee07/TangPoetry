@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-221-gong-ci",
@@ -28,6 +28,11 @@
     ],
     "text": "十二楼中尽晓妆，望仙楼上望君王。锁衔金兽连环冷，水滴铜龙昼漏长。云髻罢梳还对镜，罗衣欲换更添香。遥窥正殿帘开处，袍裤宫人扫御床。",
     "textTraditional": "十二樓中盡曉妝，望仙樓上望君王。鎖銜金獸連環冷，水滴銅龍晝漏長。雲髻罷梳還對鏡，羅衣欲換更添香。遙窺正殿簾開處，袍褲宮人掃御床。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "十二楼中尽晓妆，",
       "望仙楼上望君王。",
@@ -596,7 +601,8 @@
         "file": "唐诗三百首.json",
         "index": 157,
         "title": "宫词",
-        "author": "薛逢"
+        "author": "薛逢",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-137-xin-nian-zuo",
@@ -28,6 +28,11 @@
     ],
     "text": "乡心新岁切，天畔独潸然。老至居人下，春归在客先。岭猿同旦暮，江柳共风烟。已似长沙傅，从今又几年。",
     "textTraditional": "鄉心新歲切，天畔獨潸然。老至居人下，春歸在客先。嶺猿同旦暮，江柳共風煙。已似長沙傅，從今又幾年。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "乡心新岁切，",
       "天畔独潸然。",
@@ -461,7 +466,8 @@
         "file": "唐诗三百首.json",
         "index": 11,
         "title": "新年作",
-        "author": "刘长卿"
+        "author": "刘长卿",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

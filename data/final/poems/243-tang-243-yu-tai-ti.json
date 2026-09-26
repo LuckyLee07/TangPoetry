@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-243-yu-tai-ti",
@@ -16,19 +16,45 @@
     ],
     "lines": [
       "昨夜裙带解，今朝蟢子飞。",
-      "铅华不可弃，莫是□砧归。"
+      "铅华不可弃，莫是藁砧归。"
     ],
     "linesTraditional": [
       "昨夜裙帶解，今朝蟢子飛。",
-      "鉛華不可棄，莫是□砧歸。"
+      "鉛華不可棄，莫是藁砧歸。"
     ],
-    "text": "昨夜裙带解，今朝蟢子飞。铅华不可弃，莫是□砧归。",
-    "textTraditional": "昨夜裙帶解，今朝蟢子飛。鉛華不可棄，莫是□砧歸。",
+    "text": "昨夜裙带解，今朝蟢子飞。铅华不可弃，莫是藁砧归。",
+    "textTraditional": "昨夜裙帶解，今朝蟢子飛。鉛華不可棄，莫是藁砧歸。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [
+      {
+        "original": "□",
+        "replacement": "藁",
+        "originalTraditional": "□",
+        "replacementTraditional": "藁",
+        "expectedCount": 1,
+        "reason": "恢复CText缺字占位；本地基础正文为藁，chiuinan保留的字形说明为蒿在木之上，与藁字一致。",
+        "evidence": [
+          {
+            "file": "唐诗三百首.json",
+            "index": 49,
+            "excerpt": "铅华不可弃，莫是藁砧归。"
+          },
+          {
+            "file": "data/sources/chiuinan_clean.json",
+            "order": 110,
+            "excerpt": "鉛華不可棄，莫是□砧歸。    □ = 蒿在木之上"
+          }
+        ]
+      }
+    ],
+    "metadataCorrections": {},
     "displayLines": [
       "昨夜裙带解，",
       "今朝蟢子飞。",
       "铅华不可弃，",
-      "莫是□砧归。"
+      "莫是藁砧归。"
     ],
     "displayRubyLines": [
       [
@@ -115,8 +141,8 @@
           "shì"
         ],
         [
-          "□",
-          ""
+          "藁",
+          "gǎo"
         ],
         [
           "砧",
@@ -217,8 +243,8 @@
           "shì"
         ],
         [
-          "□",
-          ""
+          "藁",
+          "gǎo"
         ],
         [
           "砧",
@@ -264,7 +290,8 @@
         "file": "唐诗三百首.json",
         "index": 49,
         "title": "玉台体",
-        "author": "权德舆"
+        "author": "权德舆",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -9,7 +9,8 @@ catalog_data = json.loads((ROOT / "data/reader/catalog.json").read_text())
 catalog = catalog_data["poems"]
 source = {p["id"]: p for p in json.loads((ROOT / "data/final/tang_poems_final.json").read_text())["poems"]}
 editorial = json.loads((ROOT / "data/editorial.json").read_text())["poems"]
-assert len(catalog) == len(source) == 317
+assert len(catalog) == len(source) == 320
+assert {p["order"] for p in catalog} == set(range(1, 321)), "The chosen edition must have all 320 source orders"
 assert {p["id"] for p in catalog} == source.keys(), "Source poem identities must be preserved"
 assert catalog_data["sections"] == SECTION_ORDER, "Unexpected genre sequence"
 assert list(dict.fromkeys(p["section"] for p in catalog)) == SECTION_ORDER, "Genres must form ordered groups"
@@ -19,8 +20,8 @@ for section in SECTION_ORDER:
     orders = [p["order"] for p in catalog if p["section"] == section]
     assert orders == sorted(orders), f"Source order changed within {section}"
 assert all(p["dedicatedArt"] for p in catalog), "Every poem must have its own illustration"
-assert len({p["image"] for p in catalog}) == 317
-assert len({p["thumbnail"] for p in catalog}) == 317
+assert len({p["image"] for p in catalog}) == 320
+assert len({p["thumbnail"] for p in catalog}) == 320
 for poem in catalog:
     original = source[poem["id"]]
     edit = editorial.get(poem["id"], {})
@@ -42,6 +43,15 @@ for poem in catalog:
     detail = json.loads((ROOT / "data/reader/poems" / f"{poem['id']}.json").read_text())
     actual = "".join(pair[0] for line in detail["rubyLines"] for pair in line)
     assert actual == "".join(source[poem["id"]]["lines"]), poem["id"]
+    assert "□" not in actual and "又作" not in actual, f"Editorial markers in poetry: {poem['id']}"
+    assert detail["note"].strip() and detail["interpretation"], f"Missing meaning: {poem['id']}"
+    assert all(text.strip() for text in detail["interpretation"]), poem["id"]
+    assert detail["note"] not in detail["notes"], f"Summary duplicated as a word note: {poem['id']}"
+    assert detail["notes"] == [note["text"] for note in detail["annotations"]]
+    assert len(detail["notes"]) == len(set(detail["notes"])), f"Repeated notes: {poem['id']}"
+    assert all("□" not in note for note in detail["notes"]), f"Unresolved placeholder in notes: {poem['id']}"
+    assert detail["preface"] == original.get("preface", []), f"Missing preface: {poem['id']}"
+    assert all(variant in detail["variants"] for variant in original.get("variants", [])), f"Missing variant: {poem['id']}"
     if poem["featured"]:
         assert poem["dedicatedArt"] and detail["note"]
         assert detail["contentStatus"] == "editorial-draft"

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-135-jian-bie-wang-shi-yi-nan-you",
@@ -30,6 +30,11 @@
     ],
     "text": "望君烟水阔，挥手泪沾巾。飞鸟没何处？青山空向人。长江一帆远，落日五湖春。谁见汀洲上，相思愁白苹？",
     "textTraditional": "望君煙水闊，揮手淚霑巾。飛鳥沒何處？青山空向人。長江一帆遠，落日五湖春。誰見汀洲上，相思愁白蘋？",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "望君烟水阔，",
       "挥手泪沾巾。",
@@ -417,7 +422,8 @@
         "file": "唐诗三百首.json",
         "index": 216,
         "title": "饯别王十一南游",
-        "author": "刘长卿"
+        "author": "刘长卿",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

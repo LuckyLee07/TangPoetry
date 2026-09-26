@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-316-chu-sai",
@@ -25,6 +25,11 @@
     ],
     "text": "黄河远上白云间，一片孤城万仞山。羌笛何须怨杨柳，春风不度玉门关。",
     "textTraditional": "黃河遠上白雲間，一片孤城萬仞山。羌笛何須怨楊柳，春風不度玉門關。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "黄河远上白云间，",
       "一片孤城万仞山。",
@@ -323,7 +328,8 @@
         "file": "唐诗三百首.json",
         "index": 70,
         "title": "凉州词二首·其一",
-        "author": "王之涣"
+        "author": "王之涣",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

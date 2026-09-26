@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-193-yong-huai-gu-ji-wu-shou-zhi-si",
@@ -29,6 +29,11 @@
     ],
     "text": "蜀主征吴幸三峡，崩年亦在永安宫。翠华想像空山里，玉殿虚无野寺中。古庙杉松巢水鹤，岁时伏腊走村翁。武侯祠屋常邻近，一体君臣祭祀同。",
     "textTraditional": "蜀主征吳幸三峽，崩年亦在永安宮。翠華想像空山裡，玉殿虛無野寺中。古廟杉松巢水鶴，歲時伏臘走村翁。武侯祠屋常鄰近，一體君臣祭祀同。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "蜀主征吴幸三峡，",
       "崩年亦在永安宫。",
@@ -602,7 +607,8 @@
         "file": "唐诗三百首.json",
         "index": 134,
         "title": "咏怀古迹五首·其四",
-        "author": "杜甫"
+        "author": "杜甫",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

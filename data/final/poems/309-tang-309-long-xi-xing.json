@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-309-long-xi-xing",
@@ -25,6 +25,11 @@
     ],
     "text": "誓扫匈奴不顾身，五千貂锦丧胡尘。可怜无定河边骨，犹是深闺梦里人。",
     "textTraditional": "誓掃匈奴不顧身，五千貂錦喪胡塵。可憐無定河邊骨，猶是深閨夢裡人。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "誓扫匈奴不顾身，",
       "五千貂锦丧胡尘。",
@@ -327,7 +332,8 @@
         "file": "唐诗三百首.json",
         "index": 85,
         "title": "陇西行四首·其二",
-        "author": "陈陶"
+        "author": "陈陶",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

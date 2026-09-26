@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-103-ting-shu-seng-jun-tan-qin",
@@ -29,6 +29,11 @@
     ],
     "text": "蜀僧抱绿绮，西下峨眉峰；为我一挥手，如听万壑松。客心洗流水，余响入霜钟。不觉碧山暮，秋云暗几重？",
     "textTraditional": "蜀僧抱綠綺，西下峨眉峰；為我一揮手，如聽萬壑松。客心洗流水，餘響入霜鐘。不覺碧山暮，秋雲暗幾重？",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "蜀僧抱绿绮，",
       "西下峨眉峰；",
@@ -473,7 +478,8 @@
         "file": "唐诗三百首.json",
         "index": 38,
         "title": "听蜀僧濬弹琴 / 听蜀僧浚弹琴",
-        "author": "李白"
+        "author": "李白",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

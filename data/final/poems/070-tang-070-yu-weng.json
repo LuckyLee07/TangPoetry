@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-070-yu-weng",
@@ -15,20 +15,52 @@
       "渔翁"
     ],
     "lines": [
-      "渔翁夜傍西岩宿，晓汲清湘燃楚烛。",
+      "渔翁夜傍西岩宿，晓汲清湘燃楚竹。",
       "烟销日出不见人，欸乃一声山水绿。",
       "回看天际下中流，岩上无心云相逐。"
     ],
     "linesTraditional": [
-      "漁翁夜傍西巖宿，曉汲清湘燃楚燭。",
+      "漁翁夜傍西巖宿，曉汲清湘燃楚竹。",
       "煙銷日出不見人，欸乃一聲山水綠。",
       "迴看天際下中流，巖上無心雲相逐。"
     ],
-    "text": "渔翁夜傍西岩宿，晓汲清湘燃楚烛。烟销日出不见人，欸乃一声山水绿。回看天际下中流，岩上无心云相逐。",
-    "textTraditional": "漁翁夜傍西巖宿，曉汲清湘燃楚燭。煙銷日出不見人，欸乃一聲山水綠。迴看天際下中流，巖上無心雲相逐。",
+    "text": "渔翁夜傍西岩宿，晓汲清湘燃楚竹。烟销日出不见人，欸乃一声山水绿。回看天际下中流，岩上无心云相逐。",
+    "textTraditional": "漁翁夜傍西巖宿，曉汲清湘燃楚竹。煙銷日出不見人，欸乃一聲山水綠。迴看天際下中流，巖上無心雲相逐。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [
+      {
+        "original": "晓汲清湘燃楚烛",
+        "replacement": "晓汲清湘燃楚竹",
+        "originalTraditional": "曉汲清湘燃楚燭",
+        "replacementTraditional": "曉汲清湘燃楚竹",
+        "expectedCount": 1,
+        "reason": "地名楚与燃竹为炊的意象对应，烛为误录。",
+        "evidence": [
+          {
+            "file": "唐诗三百首.json",
+            "index": 71,
+            "excerpt": "渔翁夜傍西岩宿，晓汲清湘燃楚竹。"
+          },
+          {
+            "file": "data/sources/chiuinan_clean.json",
+            "order": 70,
+            "excerpt": "渔翁夜傍西岩宿，晓汲清湘燃楚竹。"
+          },
+          {
+            "url": "https://www.yzcity.gov.cn/cnyz/lwh/200509/37b51e9fe572490198cb943bf2fe5478.shtml",
+            "title": "永州市人民政府《渔翁》",
+            "excerpt": "晓汲清湘燃楚竹",
+            "checkedAt": "2026-09-26"
+          }
+        ]
+      }
+    ],
+    "metadataCorrections": {},
     "displayLines": [
       "渔翁夜傍西岩宿，",
-      "晓汲清湘燃楚烛。",
+      "晓汲清湘燃楚竹。",
       "烟销日出不见人，",
       "欸乃一声山水绿。"
     ],
@@ -91,7 +123,7 @@
           "chǔ"
         ],
         [
-          "烛",
+          "竹",
           "zhú"
         ],
         [
@@ -291,7 +323,7 @@
           "chǔ"
         ],
         [
-          "烛",
+          "竹",
           "zhú"
         ],
         [
@@ -460,7 +492,8 @@
         "file": "唐诗三百首.json",
         "index": 71,
         "title": "渔翁",
-        "author": "柳宗元"
+        "author": "柳宗元",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

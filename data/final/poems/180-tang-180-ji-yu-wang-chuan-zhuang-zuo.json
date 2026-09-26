@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-180-ji-yu-wang-chuan-zhuang-zuo",
@@ -29,6 +29,11 @@
     ],
     "text": "积雨空林烟火迟，蒸藜炊黍饷东菑。漠漠水田飞白鹭，阴阴夏木啭黄鹂。山中习静观朝槿，松下清斋折露葵。野老与人争席罢，海鸥何事更相疑？",
     "textTraditional": "積雨空林煙火遲，蒸藜炊黍餉東菑。漠漠水田飛白鷺，陰陰夏木囀黃鸝。山中習靜觀朝槿，松下清齋折露葵。野老與人爭席罷，海鷗何事更相疑？",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "积雨空林烟火迟，",
       "蒸藜炊黍饷东菑。",
@@ -610,7 +615,8 @@
         "file": "唐诗三百首.json",
         "index": 130,
         "title": "积雨辋川庄作 / 秋归辋川庄作",
-        "author": "王维"
+        "author": "王维",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-299-ji-ling-hu-lang-zhong",
@@ -15,18 +15,50 @@
       "寄令狐郎中"
     ],
     "lines": [
-      "嵩云秦树久离居，双鲤迢迢一纸笔。",
+      "嵩云秦树久离居，双鲤迢迢一纸书。",
       "休问梁园旧宾客，茂陵秋雨病相如。"
     ],
     "linesTraditional": [
-      "嵩雲秦樹久離居，雙鯉迢迢一紙筆。",
+      "嵩雲秦樹久離居，雙鯉迢迢一紙書。",
       "休問梁園舊賓客，茂陵秋雨病相如。"
     ],
-    "text": "嵩云秦树久离居，双鲤迢迢一纸笔。休问梁园旧宾客，茂陵秋雨病相如。",
-    "textTraditional": "嵩雲秦樹久離居，雙鯉迢迢一紙筆。休問梁園舊賓客，茂陵秋雨病相如。",
+    "text": "嵩云秦树久离居，双鲤迢迢一纸书。休问梁园旧宾客，茂陵秋雨病相如。",
+    "textTraditional": "嵩雲秦樹久離居，雙鯉迢迢一紙書。休問梁園舊賓客，茂陵秋雨病相如。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [
+      {
+        "original": "双鲤迢迢一纸笔",
+        "replacement": "双鲤迢迢一纸书",
+        "originalTraditional": "雙鯉迢迢一紙筆",
+        "replacementTraditional": "雙鯉迢迢一紙書",
+        "expectedCount": 1,
+        "reason": "双鲤是书信的典故；本地源与《全唐诗》一致，笔为误录。",
+        "evidence": [
+          {
+            "file": "唐诗三百首.json",
+            "index": 82,
+            "excerpt": "嵩云秦树久离居，双鲤迢迢一纸书。"
+          },
+          {
+            "file": "data/sources/chiuinan_clean.json",
+            "order": 172,
+            "excerpt": "嵩云秦树久离居，双鲤迢迢一纸书。"
+          },
+          {
+            "url": "https://ctext.org/wiki.pl?chapter=344855&if=en&remap=gb",
+            "title": "《御定全唐诗》卷539",
+            "excerpt": "双鲤迢迢一纸书",
+            "checkedAt": "2026-09-26"
+          }
+        ]
+      }
+    ],
+    "metadataCorrections": {},
     "displayLines": [
       "嵩云秦树久离居，",
-      "双鲤迢迢一纸笔。",
+      "双鲤迢迢一纸书。",
       "休问梁园旧宾客，",
       "茂陵秋雨病相如。"
     ],
@@ -89,8 +121,8 @@
           "zhǐ"
         ],
         [
-          "笔",
-          "bǐ"
+          "书",
+          "shū"
         ],
         [
           "。",
@@ -223,8 +255,8 @@
           "zhǐ"
         ],
         [
-          "笔",
-          "bǐ"
+          "书",
+          "shū"
         ],
         [
           "。",
@@ -329,7 +361,8 @@
         "file": "唐诗三百首.json",
         "index": 82,
         "title": "寄令狐郎中",
-        "author": "李商隐"
+        "author": "李商隐",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

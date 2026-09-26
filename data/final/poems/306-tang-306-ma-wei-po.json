@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-306-ma-wei-po",
@@ -24,6 +24,11 @@
     ],
     "text": "玄宗回马杨妃死，云雨难忘日月新。终是圣明天子事，景阳宫井又何人。",
     "textTraditional": "玄宗回馬楊妃死，雲雨難忘日月新。終是聖明天子事，景陽宮井又何人。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "玄宗回马杨妃死，",
       "云雨难忘日月新。",
@@ -328,7 +333,8 @@
         "file": "唐诗三百首.json",
         "index": 201,
         "title": "马嵬坡",
-        "author": "郑畋"
+        "author": "郑畋",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

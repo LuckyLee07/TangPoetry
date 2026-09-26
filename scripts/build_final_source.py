@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+import hashlib
 import json
 import re
 from datetime import datetime, timezone
@@ -20,6 +21,7 @@ CHIUINAN_SOURCE = ROOT / "data" / "sources" / "chiuinan_clean.json"
 NEW_DEDUP_SOURCE = ROOT / "data" / "sources" / "tang300_new_dedup.json"
 OUT = ROOT / "data" / "final" / "tang_poems_final.json"
 REPORT_OUT = ROOT / "data" / "final" / "tang_poems_final_report.json"
+CORRECTIONS_SOURCE = ROOT / "data" / "content-corrections.json"
 
 t2s = OpenCC("t2s")
 s2t = OpenCC("s2t")
@@ -102,23 +104,98 @@ def source_aliases(*titles: str) -> list[str]:
     return aliases
 
 
+def separate_content(
+    lines: list[str],
+    lines_traditional: list[str],
+    correction: dict[str, Any],
+    source_url: str,
+) -> tuple[list[str], list[str], list[str], list[str], list[dict[str, Any]]]:
+    """Keep source annotations and prose outside verse without discarding either."""
+    assert len(lines) == len(lines_traditional), "Simplified/traditional source alignment changed"
+    verse, verse_traditional, variants = [], [], []
+    for line, traditional in zip(lines, lines_traditional):
+        if line.strip().startswith("又作"):
+            variants.append({
+                "text": line,
+                "textTraditional": traditional,
+                "source": "ctext",
+                "sourceUrl": source_url,
+                "originalLine": line,
+                "originalLineTraditional": traditional,
+                "locationStatus": "source-does-not-identify-target",
+            })
+        else:
+            verse.append(line)
+            verse_traditional.append(traditional)
+
+    preface, preface_traditional = [], []
+    if preface_rule := correction.get("preface"):
+        starts_with = preface_rule["bodyStartsWith"]
+        positions = [i for i, line in enumerate(verse) if line.startswith(starts_with)]
+        assert len(positions) == 1, f"Cannot identify verse after preface: {starts_with}"
+        index = positions[0]
+        assert index > 0, f"Expected a preface before {starts_with}"
+        preface, verse = verse[:index], verse[index:]
+        preface_traditional, verse_traditional = verse_traditional[:index], verse_traditional[index:]
+
+    for replacement in correction.get("replacements", []):
+        old, new = replacement["original"], replacement["replacement"]
+        old_traditional = replacement.get("originalTraditional", old)
+        new_traditional = replacement.get("replacementTraditional", new)
+        assert sum(line.count(old) for line in verse) == replacement.get("expectedCount", 1), old
+        assert sum(line.count(old_traditional) for line in verse_traditional) == replacement.get("expectedCount", 1), old_traditional
+        verse = [line.replace(old, new) for line in verse]
+        verse_traditional = [line.replace(old_traditional, new_traditional) for line in verse_traditional]
+    return verse, verse_traditional, preface, preface_traditional, variants
+
+
 def build_poem(
     base: dict[str, Any],
-    source_index: int,
+    source_index: int | None,
     order_sources: list[tuple[str, list[dict[str, Any]]]],
     ctext_by_order: dict[int, dict[str, Any]],
     chiuinan: list[dict[str, Any]],
     new_dedup: list[dict[str, Any]],
+    corrections: dict[str, Any],
+    supplement: dict[str, Any] | None = None,
 ) -> dict[str, Any]:
-    order_info = best_order_match(base, order_sources)
+    if supplement:
+        ctext = ctext_by_order[supplement["order"]]
+        order_info = {
+            "bookOrder": ctext["bookOrder"], "bookSection": ctext["sectionSimplified"],
+            "externalTitle": ctext["titleSimplified"], "externalAuthor": ctext["authorSimplified"],
+            "orderSource": "ctext", "orderConfidence": "direct-source", "orderScore": 1.0,
+        }
+    else:
+        order_info = best_order_match(base, order_sources)
     ctext = ctext_by_order.get(order_info["bookOrder"])
     chiuinan_match = best_text_match(base, chiuinan, 0.86)
     new_match = best_text_match(base, new_dedup, 0.86)
 
     canonical_title = order_info["externalTitle"] or t2s.convert(base["title"])
     canonical_author = order_info["externalAuthor"] or t2s.convert(base["author"])
-    canonical_lines = ctext["linesSimplified"] if ctext else base["paragraphs"]
-    canonical_lines_traditional = ctext["linesTraditional"] if ctext else [s2t.convert(line) for line in base["paragraphs"]]
+    poem_id = supplement["id"] if supplement else f"tang-{order_info['bookOrder']:03d}-{slugify(canonical_title)}"
+    correction = corrections.get(poem_id, {})
+    canonical_title_traditional = ctext["titleTraditional"] if ctext else s2t.convert(canonical_title)
+    canonical_author_traditional = ctext["authorTraditional"] if ctext else s2t.convert(canonical_author)
+    # Apply title corrections only after deriving the ID from the archived title.
+    # Existing reader positions, favorites, and artwork references must stay valid.
+    if title_correction := correction.get("metadata", {}).get("title"):
+        assert canonical_title == title_correction["original"]
+        assert canonical_title_traditional == title_correction["originalTraditional"]
+        canonical_title = title_correction["replacement"]
+        canonical_title_traditional = title_correction["replacementTraditional"]
+    if author_correction := correction.get("metadata", {}).get("author"):
+        assert canonical_author == author_correction["original"]
+        assert canonical_author_traditional == author_correction["originalTraditional"]
+        canonical_author = author_correction["replacement"]
+        canonical_author_traditional = author_correction["replacementTraditional"]
+    canonical_lines, canonical_lines_traditional, preface, preface_traditional, variants = separate_content(
+        ctext["linesSimplified"] if ctext else base["paragraphs"],
+        ctext["linesTraditional"] if ctext else [s2t.convert(line) for line in base["paragraphs"]],
+        correction,
+        ctext.get("sourceUrl", "") if ctext else "",
+    )
 
     notes = []
     for note in base.get("notes") or []:
@@ -137,22 +214,26 @@ def build_poem(
 
     display_lines = split_display_lines(canonical_lines)
     ruby_lines = [line_to_pinyin(line) for line in canonical_lines]
-    poem_id = f"tang-{order_info['bookOrder']:03d}-{slugify(canonical_title)}"
 
     return {
         "id": poem_id,
         "order": order_info["bookOrder"],
         "section": order_info["bookSection"],
         "title": canonical_title,
-        "titleTraditional": ctext["titleTraditional"] if ctext else s2t.convert(canonical_title),
+        "titleTraditional": canonical_title_traditional,
         "author": canonical_author,
-        "authorTraditional": ctext["authorTraditional"] if ctext else s2t.convert(canonical_author),
+        "authorTraditional": canonical_author_traditional,
         "dynasty": base.get("dynasty", "唐代"),
         "aliases": source_aliases(base.get("title", ""), ctext.get("titleSimplified", "") if ctext else ""),
         "lines": canonical_lines,
         "linesTraditional": canonical_lines_traditional,
         "text": chinese_text(canonical_lines),
         "textTraditional": chinese_text(canonical_lines_traditional),
+        "preface": preface,
+        "prefaceTraditional": preface_traditional,
+        "variants": variants,
+        "corrections": correction.get("replacements", []),
+        "metadataCorrections": correction.get("metadata", {}),
         "displayLines": display_lines,
         "displayRubyLines": ruby_lines[: len(display_lines)],
         "rubyLines": ruby_lines,
@@ -167,10 +248,11 @@ def build_poem(
         },
         "sourceRefs": {
             "base": {
-                "file": "唐诗三百首.json",
+                "file": "data/sources/ctext_clean.json" if supplement else "唐诗三百首.json",
                 "index": source_index,
                 "title": base.get("title", ""),
                 "author": base.get("author", ""),
+                "supplemented": bool(supplement),
             },
             "order": {
                 "source": order_info["orderSource"],
@@ -202,15 +284,32 @@ def build() -> None:
     ctext_poems = read_json(CTEXT_SOURCE, [])
     chiuinan_poems = read_json(CHIUINAN_SOURCE, [])
     new_dedup_poems = read_json(NEW_DEDUP_SOURCE, [])
+    correction_data = read_json(CORRECTIONS_SOURCE, {})
+    corrections = correction_data.get("poems", {})
 
     order_sources = load_order_sources()
     ctext_by_order = {poem["bookOrder"]: poem for poem in ctext_poems}
 
     poems = [
-        build_poem(base, index, order_sources, ctext_by_order, chiuinan_poems, new_dedup_poems)
+        build_poem(base, index, order_sources, ctext_by_order, chiuinan_poems, new_dedup_poems, corrections)
         for index, base in enumerate(base_poems, start=1)
     ]
+    for supplement in correction_data.get("supplements", []):
+        assert supplement["order"] not in {poem["order"] for poem in poems}, "Supplement is already present in the base"
+        source = ctext_by_order[supplement["order"]]
+        base = {"title": source["titleSimplified"], "author": source["authorSimplified"],
+                "paragraphs": source["linesSimplified"], "dynasty": "唐代"}
+        poems.append(build_poem(base, None, order_sources, ctext_by_order, chiuinan_poems,
+                                new_dedup_poems, corrections, supplement))
     poems.sort(key=lambda poem: poem["order"])
+    assert len({poem["id"] for poem in poems}) == len(poems), "Duplicate poem ID"
+    assert len({poem["order"] for poem in poems}) == len(poems), "Duplicate source order"
+    if identity_baseline := correction_data.get("identityBaseline"):
+        original_identities = {poem["id"]: poem["order"] for poem in poems
+                               if not poem["sourceRefs"]["base"]["supplemented"]}
+        identity_hash = hashlib.sha256(json.dumps(original_identities, sort_keys=True, separators=(",", ":")).encode()).hexdigest()
+        assert len(original_identities) == identity_baseline["poemCount"]
+        assert identity_hash == identity_baseline["sha256"], "Existing poem IDs or source orders changed"
 
     # Visual briefs are editorial work, not disposable build output.
     visuals = read_json(ROOT / "data" / "visuals.json", {})
@@ -220,7 +319,7 @@ def build() -> None:
 
     missing_orders = [order for order in range(1, 321) if order not in {poem["order"] for poem in poems}]
     payload = {
-        "schemaVersion": "1.0.0",
+        "schemaVersion": "1.1.0",
         "generatedAt": now_iso(),
         "name": "唐诗三百首最终内容源",
         "sourcePolicy": {
@@ -229,6 +328,8 @@ def build() -> None:
             "traditionalTextAndEnglish": "data/sources/ctext_clean.json",
             "notesFallback": ["唐诗三百首.json", "data/sources/chiuinan_clean.json"],
             "tagsSupplement": "data/sources/tang300_new_dedup.json",
+            "contentCorrectionsAndSupplements": "data/content-corrections.json",
+            "structure": "序文与未定位的原选本异文从正文中分离；来源原文件保留不变。",
         },
         "stats": {
             "poemCount": len(poems),
@@ -238,6 +339,11 @@ def build() -> None:
             "poemsWithNotes": sum(1 for poem in poems if poem["notes"]),
             "poemsWithTags": sum(1 for poem in poems if poem["tags"]),
             "missingCtextOrders": missing_orders,
+            "supplementedPoems": sum(1 for poem in poems if poem["sourceRefs"]["base"]["supplemented"]),
+            "poemsWithPreface": sum(1 for poem in poems if poem["preface"]),
+            "poemsWithVariants": sum(1 for poem in poems if poem["variants"]),
+            "correctedPoems": sum(1 for poem in poems if poem["corrections"] or poem["metadataCorrections"]),
+            "correctedTextPassages": sum(len(poem["corrections"]) for poem in poems),
         },
         "poems": poems,
     }
@@ -263,6 +369,12 @@ def build() -> None:
             {"order": poem["order"], "title": poem["title"], "author": poem["author"]}
             for poem in poems
             if not poem["notes"]
+        ],
+        "structuralChanges": [
+            {"id": poem["id"], "title": poem["title"], "prefaceParagraphCount": len(poem["preface"]),
+             "variantSourceLines": [variant["originalLine"] for variant in poem["variants"]],
+             "corrections": poem["corrections"], "metadataCorrections": poem["metadataCorrections"]}
+            for poem in poems if poem["preface"] or poem["variants"] or poem["corrections"] or poem["metadataCorrections"]
         ],
     }
     REPORT_OUT.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

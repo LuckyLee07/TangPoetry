@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-144-jiang-xiang-gu-ren-ou-ji-ke-she",
@@ -29,6 +29,11 @@
     ],
     "text": "天秋月又满，城阙夜千重。还作江南会，翻疑梦里逢。风枝惊暗鹊，露草覆寒虫。羁旅长堪醉，相留畏晓钟。",
     "textTraditional": "天秋月又滿，城闕夜千重。還作江南會，翻疑夢裡逢。風枝驚暗鵲，露草覆寒蟲。羈旅長堪醉，相留畏曉鐘。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "天秋月又满，",
       "城阙夜千重。",
@@ -468,7 +473,8 @@
         "file": "唐诗三百首.json",
         "index": 270,
         "title": "客夜与故人偶集 / 江乡故人偶集客舍",
-        "author": "戴叔伦"
+        "author": "戴叔伦",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

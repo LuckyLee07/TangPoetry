@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-251-chun-yuan",
@@ -25,6 +25,11 @@
     ],
     "text": "打起黄莺儿，莫教枝上啼。啼时惊妾梦，不得到辽西。",
     "textTraditional": "打起黃鶯兒，莫教枝上啼。啼時驚妾夢，不得到遼西。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "打起黄莺儿，",
       "莫教枝上啼。",
@@ -256,7 +261,8 @@
         "file": "唐诗三百首.json",
         "index": 26,
         "title": "春怨 / 伊州歌",
-        "author": "金昌绪"
+        "author": "金昌绪",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

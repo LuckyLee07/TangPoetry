@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-219-li-zhou-nan-du",
@@ -31,6 +31,11 @@
     ],
     "text": "澹然空水对斜晖，曲岛苍茫接翠微。波上马嘶看棹去，柳边人歇待船归。数丛沙草群鸥散，万顷江田一鹭飞。谁解乘舟寻范蠡？五湖烟水独忘机。",
     "textTraditional": "澹然空水對斜暉，曲島蒼茫接翠微。波上馬嘶看棹去，柳邊人歇待船歸。數叢沙草群鷗散，萬頃江田一鷺飛。誰解乘舟尋範蠡？五湖煙水獨忘機。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "澹然空水对斜晖，",
       "曲岛苍茫接翠微。",
@@ -574,7 +579,8 @@
         "file": "唐诗三百首.json",
         "index": 74,
         "title": "利州南渡",
-        "author": "温庭筠"
+        "author": "温庭筠",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

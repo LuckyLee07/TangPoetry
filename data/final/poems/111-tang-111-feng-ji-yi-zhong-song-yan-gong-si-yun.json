@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-111-feng-ji-yi-zhong-song-yan-gong-si-yun",
@@ -18,16 +18,48 @@
       "远送从此别，青山空复情。",
       "几时杯重把，昨夜月同行。",
       "列郡讴歌惜，三朝出入荣。",
-      "将村独归处，寂寞养残生。"
+      "江村独归处，寂寞养残生。"
     ],
     "linesTraditional": [
       "遠送從此別，青山空復情。",
       "幾時杯重把，昨夜月同行。",
       "列郡謳歌惜，三朝出入榮。",
-      "將村獨歸處，寂寞養殘生。"
+      "江村獨歸處，寂寞養殘生。"
     ],
-    "text": "远送从此别，青山空复情。几时杯重把，昨夜月同行。列郡讴歌惜，三朝出入荣。将村独归处，寂寞养残生。",
-    "textTraditional": "遠送從此別，青山空復情。幾時杯重把，昨夜月同行。列郡謳歌惜，三朝出入榮。將村獨歸處，寂寞養殘生。",
+    "text": "远送从此别，青山空复情。几时杯重把，昨夜月同行。列郡讴歌惜，三朝出入荣。江村独归处，寂寞养残生。",
+    "textTraditional": "遠送從此別，青山空復情。幾時杯重把，昨夜月同行。列郡謳歌惜，三朝出入榮。江村獨歸處，寂寞養殘生。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [
+      {
+        "original": "将村独归处",
+        "replacement": "江村独归处",
+        "originalTraditional": "將村獨歸處",
+        "replacementTraditional": "江村獨歸處",
+        "expectedCount": 1,
+        "reason": "江村为送别后归居处，与基础源和引诗一致。",
+        "evidence": [
+          {
+            "file": "唐诗三百首.json",
+            "index": 30,
+            "excerpt": "列郡讴歌惜，三朝出入荣。江村独归处，寂寞养残生。"
+          },
+          {
+            "file": "data/sources/chiuinan_clean.json",
+            "order": 208,
+            "excerpt": "江村独归处，寂寞养残生。"
+          },
+          {
+            "url": "https://m.ccdi.gov.cn/content/fe/82/31231.html",
+            "title": "中央纪委国家监委网站《每日一字·送》引诗",
+            "excerpt": "江村独归处",
+            "checkedAt": "2026-09-26"
+          }
+        ]
+      }
+    ],
+    "metadataCorrections": {},
     "displayLines": [
       "远送从此别，",
       "青山空复情。",
@@ -187,7 +219,7 @@
       ],
       [
         [
-          "将",
+          "江",
           "jiāng"
         ],
         [
@@ -389,7 +421,7 @@
       ],
       [
         [
-          "将",
+          "江",
           "jiāng"
         ],
         [
@@ -461,7 +493,8 @@
         "file": "唐诗三百首.json",
         "index": 30,
         "title": "奉济驿重送严公四韵",
-        "author": "杜甫"
+        "author": "杜甫",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

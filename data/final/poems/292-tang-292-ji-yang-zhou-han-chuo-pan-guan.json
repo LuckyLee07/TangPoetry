@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-292-ji-yang-zhou-han-chuo-pan-guan",
@@ -24,6 +24,11 @@
     ],
     "text": "青山隐隐水迢迢，秋尽江南草未凋。二十四桥明月夜，玉人何处教吹箫。",
     "textTraditional": "青山隱隱水迢迢，秋盡江南草未凋。二十四橋明月夜，玉人何處教吹簫。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "青山隐隐水迢迢，",
       "秋尽江南草未凋。",
@@ -317,7 +322,8 @@
         "file": "唐诗三百首.json",
         "index": 48,
         "title": "寄扬州韩绰判官",
-        "author": "杜牧"
+        "author": "杜牧",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

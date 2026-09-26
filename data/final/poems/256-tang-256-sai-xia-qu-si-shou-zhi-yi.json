@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-256-sai-xia-qu-si-shou-zhi-yi",
@@ -25,6 +25,11 @@
     ],
     "text": "鹫翎金仆姑，燕尾绣蝥弧。独立扬新令，千营共一呼。",
     "textTraditional": "鷲翎金僕姑，燕尾繡蝥弧。獨立揚新令，千營共一呼。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "鹫翎金仆姑，",
       "燕尾绣蝥弧。",
@@ -267,7 +272,8 @@
         "file": "唐诗三百首.json",
         "index": 310,
         "title": "和张仆射塞下曲·其一",
-        "author": "卢纶"
+        "author": "卢纶",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,0 +1,765 @@
+{
+  "schemaVersion": "1.0.0",
+  "reviewedAt": "2026-09-26",
+  "policy": "不改写归档来源；结构清理与有依据的缺字恢复在构建阶段显式应用。异文不据猜测替换正文，原文及来源独立保留。",
+  "automaticStructuralRules": [
+    {
+      "rule": "trailing-variant-lines",
+      "match": "整行以又作开头",
+      "action": "从诗句移到variants，保留简繁原行及CText来源；原文没有标明对应字句时不推断。"
+    }
+  ],
+  "supplements": [
+    {
+      "id": "tang-043-chang-gan-xing",
+      "order": 43,
+      "title": "长干行",
+      "author": "李白",
+      "source": "data/sources/ctext_clean.json",
+      "sourceUrl": "https://ctext.org/wiki.pl?if=en&chapter=820428",
+      "reason": "基础317首未包含本地CText书序043；采用已归档的选本文字。ID中chang对应长干地名。"
+    },
+    {
+      "id": "tang-134-song-li-zhong-cheng-gui-han-yang-bie-ye",
+      "order": 134,
+      "title": "送李中丞归汉阳别业",
+      "author": "刘长卿",
+      "source": "data/sources/ctext_clean.json",
+      "sourceUrl": "https://ctext.org/wiki.pl?if=en&chapter=820428",
+      "reason": "基础317首未包含本地CText书序134；采用已归档的选本文字。"
+    },
+    {
+      "id": "tang-278-gong-ci",
+      "order": 278,
+      "title": "宫词",
+      "author": "顾况",
+      "source": "data/sources/ctext_clean.json",
+      "sourceUrl": "https://ctext.org/wiki.pl?if=en&chapter=820428",
+      "reason": "基础317首未包含本地CText书序278；采用已归档的选本文字。"
+    }
+  ],
+  "poems": {
+    "tang-026-zei-tui-shi-guan-li-bing-xu": {
+      "preface": {
+        "bodyStartsWith": "昔岁逢太平",
+        "reason": "原选本标题标明并序；将首句之前的散文序独立保存，避免被计为诗句。",
+        "source": "data/sources/ctext_clean.json",
+        "sourceOrder": 26,
+        "sourceUrl": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      }
+    },
+    "tang-065-shi-yu-hu-shang-zui-ge-bing-xu": {
+      "preface": {
+        "bodyStartsWith": "石鱼湖，似洞庭",
+        "reason": "原选本标题标明并序；将首句之前的散文序独立保存，避免被计为诗句。",
+        "source": "data/sources/ctext_clean.json",
+        "sourceOrder": 65,
+        "sourceUrl": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      }
+    },
+    "tang-093-zai-yu-yong-chan-bing-xu": {
+      "preface": {
+        "bodyStartsWith": "西路蝉声唱",
+        "reason": "原选本标题标明并序；将首句之前的散文序独立保存，避免被计为诗句。",
+        "source": "data/sources/ctext_clean.json",
+        "sourceOrder": 93,
+        "sourceUrl": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "replacements": [
+        {
+          "original": "西路蝉声唱",
+          "replacement": "西陆蝉声唱",
+          "originalTraditional": "西路蟬聲唱",
+          "replacementTraditional": "西陸蟬聲唱",
+          "expectedCount": 1,
+          "reason": "西陆指秋天；路为误录。客思侵/深、那堪/不堪属于异文，不因选本差异改动。",
+          "evidence": [
+            {
+              "file": "唐诗三百首.json",
+              "index": 258,
+              "excerpt": "西陆蝉声唱，南冠客思深。"
+            },
+            {
+              "file": "data/sources/chiuinan_clean.json",
+              "order": 190,
+              "excerpt": "西陆蝉声唱，南冠客思深。"
+            },
+            {
+              "url": "https://sxss.ntu.edu.cn/2018/0124/c6266a165735/page.htm",
+              "title": "南通大学《骆宾王〈在狱咏蝉〉鉴赏》",
+              "excerpt": "西陆蝉声唱",
+              "checkedAt": "2026-09-26"
+            }
+          ]
+        }
+      ]
+    },
+    "tang-243-yu-tai-ti": {
+      "replacements": [
+        {
+          "original": "□",
+          "replacement": "藁",
+          "originalTraditional": "□",
+          "replacementTraditional": "藁",
+          "expectedCount": 1,
+          "reason": "恢复CText缺字占位；本地基础正文为藁，chiuinan保留的字形说明为蒿在木之上，与藁字一致。",
+          "evidence": [
+            {
+              "file": "唐诗三百首.json",
+              "index": 49,
+              "excerpt": "铅华不可弃，莫是藁砧归。"
+            },
+            {
+              "file": "data/sources/chiuinan_clean.json",
+              "order": 110,
+              "excerpt": "鉛華不可棄，莫是□砧歸。    □ = 蒿在木之上"
+            }
+          ]
+        }
+      ]
+    },
+    "tang-064-guan-gong-sun-da-niang-di-zi-wu-jian-qi-xing-bing-xu": {
+      "preface": {
+        "bodyStartsWith": "昔有佳人公孙氏",
+        "reason": "原选本标题标明并序；已与基础来源中空行后的诗歌首句核对，将此前散文独立保存。",
+        "source": "data/sources/ctext_clean.json",
+        "sourceOrder": 64,
+        "sourceUrl": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      }
+    },
+    "tang-072-pi-pa-xing-bing-xu": {
+      "preface": {
+        "bodyStartsWith": "浔言江头",
+        "reason": "原选本标题标明并序；已与基础来源中空行后的诗歌首句核对，将此前散文独立保存。",
+        "source": "data/sources/ctext_clean.json",
+        "sourceOrder": 72,
+        "sourceUrl": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "replacements": [
+        {
+          "original": "浔言江头",
+          "replacement": "浔阳江头",
+          "originalTraditional": "潯言江頭",
+          "replacementTraditional": "潯陽江頭",
+          "expectedCount": 1,
+          "reason": "浔阳为地名，与序中九江对应；言为误录。",
+          "evidence": [
+            {
+              "file": "唐诗三百首.json",
+              "index": 6,
+              "excerpt": "浔阳江头夜送客，枫叶荻花秋瑟瑟。"
+            },
+            {
+              "url": "https://lib.ncpu.edu.cn/index/Meishuguan/image_show.html?c_id=2&id=143",
+              "title": "南昌工学院图书馆《琵琶行》",
+              "excerpt": "浔阳江头夜送客",
+              "checkedAt": "2026-09-26"
+            }
+          ]
+        },
+        {
+          "original": "间官莺语",
+          "replacement": "间关莺语",
+          "originalTraditional": "間官鶯語",
+          "replacementTraditional": "間關鶯語",
+          "expectedCount": 1,
+          "reason": "间关形容鸟声，官为误录；其他泉流句版本异文保留。",
+          "evidence": [
+            {
+              "file": "唐诗三百首.json",
+              "index": 6,
+              "excerpt": "间关莺语花底滑，幽咽泉流冰下难。"
+            },
+            {
+              "url": "https://lib.ncpu.edu.cn/index/Meishuguan/image_show.html?c_id=2&id=143",
+              "title": "南昌工学院图书馆《琵琶行》",
+              "excerpt": "间关莺语花底滑",
+              "checkedAt": "2026-09-26"
+            }
+          ]
+        }
+      ]
+    },
+    "tang-074-yan-ge-xing-bing-xu": {
+      "preface": {
+        "bodyStartsWith": "汉家烟尘在东北",
+        "reason": "原选本标题标明并序；已与基础来源中空行后的诗歌首句核对，将此前散文独立保存。",
+        "source": "data/sources/ctext_clean.json",
+        "sourceOrder": 74,
+        "sourceUrl": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "replacements": [
+        {
+          "original": "玉筋应啼",
+          "replacement": "玉箸应啼",
+          "originalTraditional": "玉筋應啼",
+          "replacementTraditional": "玉箸應啼",
+          "expectedCount": 1,
+          "reason": "玉箸比喻思妇双泪；基础源与校对文本一致，筋为误录。",
+          "evidence": [
+            {
+              "file": "唐诗三百首.json",
+              "index": 102,
+              "excerpt": "铁衣远戍辛勤久，玉箸应啼别离后。"
+            },
+            {
+              "url": "https://zh.wikisource.org/zh-hans/燕歌行_(高適)",
+              "title": "《燕歌行》高适（维基文库）",
+              "excerpt": "玉箸应啼别离后",
+              "checkedAt": "2026-09-26"
+            }
+          ]
+        }
+      ]
+    },
+    "tang-050-ting-dong-da-dan-hu-jia-sheng-jian-ji-yu-nong-fang-gei-shi": {
+      "replacements": [
+        {
+          "original": "先拂声弦",
+          "replacement": "先拂商弦",
+          "originalTraditional": "先拂聲絃",
+          "replacementTraditional": "先拂商弦",
+          "expectedCount": 1,
+          "reason": "商弦、角羽为弦声，声弦系误录。",
+          "evidence": [
+            {
+              "file": "唐诗三百首.json",
+              "index": 177,
+              "excerpt": "先拂商弦后角羽，四郊秋叶惊摵摵。"
+            },
+            {
+              "file": "data/sources/chiuinan_clean.json",
+              "order": 50,
+              "excerpt": "先拂商弦后角羽，四郊秋叶惊摵摵。"
+            },
+            {
+              "url": "https://ctext.org/wiki.pl?chapter=580210&if=gb&remap=gb",
+              "title": "《文苑英华》卷334",
+              "excerpt": "先拂商弦后角羽",
+              "checkedAt": "2026-09-26"
+            }
+          ]
+        }
+      ]
+    },
+    "tang-053-lu-shan-yao-ji-lu-shi-yu-xu-zhou": {
+      "replacements": [
+        {
+          "original": "大江茫茫去不黄",
+          "replacement": "大江茫茫去不还",
+          "originalTraditional": "大江茫茫去不黃",
+          "replacementTraditional": "大江茫茫去不還",
+          "expectedCount": 1,
+          "reason": "本地两源及《全唐诗》均为还；与CText尾部又作还的记录一并保留。",
+          "evidence": [
+            {
+              "file": "唐诗三百首.json",
+              "index": 57,
+              "excerpt": "登高壮观天地间，大江茫茫去不还。"
+            },
+            {
+              "file": "data/sources/chiuinan_clean.json",
+              "order": 53,
+              "excerpt": "登高壮观天地间，大江茫茫去不还。"
+            },
+            {
+              "url": "https://ctext.org/text.pl?if=en&node=138273&remap=gb",
+              "title": "《全唐诗》卷173",
+              "excerpt": "大江茫茫去不还",
+              "checkedAt": "2026-09-26"
+            }
+          ]
+        }
+      ]
+    },
+    "tang-068-ye-heng-yue-miao-sui-su-yue-si-ti-men-lou": {
+      "replacements": [
+        {
+          "original": "纷墙丹柱",
+          "replacement": "粉墙丹柱",
+          "originalTraditional": "紛牆丹柱",
+          "replacementTraditional": "粉牆丹柱",
+          "expectedCount": 1,
+          "reason": "粉墙与丹柱相对，纷为误录。",
+          "evidence": [
+            {
+              "file": "唐诗三百首.json",
+              "index": 108,
+              "excerpt": "粉墙丹柱动光彩，鬼物图画填青红。"
+            },
+            {
+              "file": "data/sources/chiuinan_clean.json",
+              "order": 68,
+              "excerpt": "粉墙丹柱动光彩，鬼物图画填青红。"
+            },
+            {
+              "url": "https://ctext.org/wiki.pl?chapter=246590&if=en&remap=gb",
+              "title": "《广阳杂记》卷二引韩愈诗",
+              "excerpt": "粉墙丹柱动光彩",
+              "checkedAt": "2026-09-26"
+            }
+          ]
+        }
+      ]
+    },
+    "tang-069-shi-gu-ge": {
+      "replacements": [
+        {
+          "original": "劝我识作",
+          "replacement": "劝我试作",
+          "originalTraditional": "勸我識作",
+          "replacementTraditional": "勸我試作",
+          "expectedCount": 1,
+          "reason": "典籍引诗和基础源均为试作。",
+          "evidence": [
+            {
+              "file": "唐诗三百首.json",
+              "index": 42,
+              "excerpt": "张生手持石鼓文，劝我试作石鼓歌。"
+            },
+            {
+              "file": "data/sources/chiuinan_clean.json",
+              "order": 69,
+              "excerpt": "张生手持石鼓文，劝我试作石鼓歌。"
+            },
+            {
+              "url": "https://ctext.org/wiki.pl?chapter=915306&if=gb&remap=gb",
+              "title": "《竹庄诗话》卷十九",
+              "excerpt": "劝我试作石鼓歌",
+              "checkedAt": "2026-09-26"
+            }
+          ]
+        }
+      ]
+    },
+    "tang-070-yu-weng": {
+      "replacements": [
+        {
+          "original": "晓汲清湘燃楚烛",
+          "replacement": "晓汲清湘燃楚竹",
+          "originalTraditional": "曉汲清湘燃楚燭",
+          "replacementTraditional": "曉汲清湘燃楚竹",
+          "expectedCount": 1,
+          "reason": "地名楚与燃竹为炊的意象对应，烛为误录。",
+          "evidence": [
+            {
+              "file": "唐诗三百首.json",
+              "index": 71,
+              "excerpt": "渔翁夜傍西岩宿，晓汲清湘燃楚竹。"
+            },
+            {
+              "file": "data/sources/chiuinan_clean.json",
+              "order": 70,
+              "excerpt": "渔翁夜傍西岩宿，晓汲清湘燃楚竹。"
+            },
+            {
+              "url": "https://www.yzcity.gov.cn/cnyz/lwh/200509/37b51e9fe572490198cb943bf2fe5478.shtml",
+              "title": "永州市人民政府《渔翁》",
+              "excerpt": "晓汲清湘燃楚竹",
+              "checkedAt": "2026-09-26"
+            }
+          ]
+        }
+      ]
+    },
+    "tang-071-chang-hen-ge": {
+      "replacements": [
+        {
+          "original": "金星妆成",
+          "replacement": "金屋妆成",
+          "originalTraditional": "金星妝成",
+          "replacementTraditional": "金屋妝成",
+          "expectedCount": 1,
+          "reason": "本地两源与《全唐诗》同为金屋，星为误录。",
+          "evidence": [
+            {
+              "file": "唐诗三百首.json",
+              "index": 13,
+              "excerpt": "金屋妆成娇侍夜，玉楼宴罢醉和春。"
+            },
+            {
+              "file": "data/sources/chiuinan_clean.json",
+              "order": 71,
+              "excerpt": "金屋妆成娇侍夜，玉楼宴罢醉和春。"
+            },
+            {
+              "url": "https://ctext.org/text.pl?if=en&node=191153&remap=gb",
+              "title": "《全唐诗》卷435《长恨歌》",
+              "excerpt": "金屋妆成娇侍夜",
+              "checkedAt": "2026-09-26"
+            }
+          ]
+        },
+        {
+          "original": "姊妹弟兄皆列士",
+          "replacement": "姊妹弟兄皆列土",
+          "originalTraditional": "姊妹弟兄皆列士",
+          "replacementTraditional": "姊妹弟兄皆列土",
+          "expectedCount": 1,
+          "reason": "列土指分封土地；基础源与《全唐诗》一致，士为误录。",
+          "evidence": [
+            {
+              "file": "唐诗三百首.json",
+              "index": 13,
+              "excerpt": "姊妹弟兄皆列土，可怜光彩生门户。"
+            },
+            {
+              "url": "https://ctext.org/text.pl?if=en&node=191153&remap=gb",
+              "title": "《全唐诗》卷435《长恨歌》",
+              "excerpt": "姊妹弟兄皆列土",
+              "checkedAt": "2026-09-26"
+            }
+          ]
+        }
+      ]
+    },
+    "tang-088-ai-jiang-tou": {
+      "replacements": [
+        {
+          "original": "少陵野老吞生哭",
+          "replacement": "少陵野老吞声哭",
+          "originalTraditional": "少陵野老吞生哭",
+          "replacementTraditional": "少陵野老吞聲哭",
+          "expectedCount": 1,
+          "reason": "吞声写不敢出声的痛哭；基础源与《全唐诗》一致。",
+          "evidence": [
+            {
+              "file": "唐诗三百首.json",
+              "index": 123,
+              "excerpt": "少陵野老吞声哭，春日潜行曲江曲。"
+            },
+            {
+              "file": "data/sources/chiuinan_clean.json",
+              "order": 88,
+              "excerpt": "少陵野老吞声哭，春日潜行曲江曲。"
+            },
+            {
+              "url": "https://ctext.org/quantangshi/216/ens",
+              "title": "《全唐诗》卷216《哀江头》",
+              "excerpt": "少陵野老吞声哭",
+              "checkedAt": "2026-09-26"
+            }
+          ]
+        }
+      ]
+    },
+    "tang-111-feng-ji-yi-zhong-song-yan-gong-si-yun": {
+      "replacements": [
+        {
+          "original": "将村独归处",
+          "replacement": "江村独归处",
+          "originalTraditional": "將村獨歸處",
+          "replacementTraditional": "江村獨歸處",
+          "expectedCount": 1,
+          "reason": "江村为送别后归居处，与基础源和引诗一致。",
+          "evidence": [
+            {
+              "file": "唐诗三百首.json",
+              "index": 30,
+              "excerpt": "列郡讴歌惜，三朝出入荣。江村独归处，寂寞养残生。"
+            },
+            {
+              "file": "data/sources/chiuinan_clean.json",
+              "order": 208,
+              "excerpt": "江村独归处，寂寞养残生。"
+            },
+            {
+              "url": "https://m.ccdi.gov.cn/content/fe/82/31231.html",
+              "title": "中央纪委国家监委网站《每日一字·送》引诗",
+              "excerpt": "江村独归处",
+              "checkedAt": "2026-09-26"
+            }
+          ]
+        }
+      ]
+    },
+    "tang-123-zhong-nan-bie-ye": {
+      "replacements": [
+        {
+          "original": "兴来美独往",
+          "replacement": "兴来每独往",
+          "originalTraditional": "興來美獨往",
+          "replacementTraditional": "興來每獨往",
+          "expectedCount": 1,
+          "reason": "每独往意为兴起时常独自出游，美为误录。",
+          "evidence": [
+            {
+              "file": "唐诗三百首.json",
+              "index": 255,
+              "excerpt": "兴来每独往，胜事空自知。"
+            },
+            {
+              "file": "data/sources/chiuinan_clean.json",
+              "order": 220,
+              "excerpt": "兴来每独往，胜事空自知。"
+            },
+            {
+              "url": "https://www.zijin.gov.cn/hd/zsk/content/post_303669.html",
+              "title": "紫金县人民政府转载《咬文嚼字》引《终南别业》",
+              "excerpt": "兴来每独往",
+              "checkedAt": "2026-09-26"
+            }
+          ]
+        }
+      ]
+    },
+    "tang-127-sui-mu-gui-nan-shan": {
+      "replacements": [
+        {
+          "original": "松月夜窗墟",
+          "replacement": "松月夜窗虚",
+          "originalTraditional": "松月夜窗墟",
+          "replacementTraditional": "松月夜窗虛",
+          "expectedCount": 1,
+          "reason": "虚写空寂，基础源和典籍引诗一致。",
+          "evidence": [
+            {
+              "file": "唐诗三百首.json",
+              "index": 154,
+              "excerpt": "白发催年老，青阳逼岁除。永怀愁不寐，松月夜窗虚。"
+            },
+            {
+              "file": "data/sources/chiuinan_clean.json",
+              "order": 224,
+              "excerpt": "永怀愁不寐，松月夜窗虚。"
+            },
+            {
+              "url": "https://ctext.org/wiki.pl?chapter=330499&if=en&remap=gb",
+              "title": "《竹庄诗话》卷十五",
+              "excerpt": "松月夜窗虚",
+              "checkedAt": "2026-09-26"
+            }
+          ]
+        }
+      ]
+    },
+    "tang-143-que-ti": {
+      "replacements": [
+        {
+          "original": "远隋流水香",
+          "replacement": "远随流水香",
+          "originalTraditional": "遠隋流水香",
+          "replacementTraditional": "遠隨流水香",
+          "expectedCount": 1,
+          "reason": "随表示落花随水而至；隋为误录。",
+          "evidence": [
+            {
+              "file": "唐诗三百首.json",
+              "index": 167,
+              "excerpt": "时有落花至，远随流水香。"
+            },
+            {
+              "url": "https://zh.wikisource.org/zh-hans/闕題_(劉眘虛)",
+              "title": "《全唐诗》卷256《阙题》（维基文库）",
+              "excerpt": "时有落花至，远随流水香",
+              "checkedAt": "2026-09-26"
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "author": {
+          "original": "刘脊虚",
+          "replacement": "刘昚虚",
+          "originalTraditional": "劉脊虛",
+          "replacementTraditional": "劉昚虛",
+          "reason": "脊为选本录入讹字；昚与眘为异写，采用本地基础源作者名。",
+          "evidence": [
+            {
+              "file": "唐诗三百首.json",
+              "index": 167,
+              "excerpt": "刘昚虚"
+            },
+            {
+              "url": "https://www.gushiwen.cn/shiwenv_888beab9cc48.aspx",
+              "title": "刘昚虚《阙题》",
+              "excerpt": "刘昚虚",
+              "checkedAt": "2026-09-26"
+            }
+          ]
+        }
+      }
+    },
+    "tang-175-deng-jin-ling-feng-huang-tai": {
+      "replacements": [
+        {
+          "original": "三台半落青山外",
+          "replacement": "三山半落青天外",
+          "originalTraditional": "三臺半落青山外",
+          "replacementTraditional": "三山半落青天外",
+          "expectedCount": 1,
+          "reason": "三山为金陵地名，基础源、chiuinan与地方志引诗一致。",
+          "evidence": [
+            {
+              "file": "唐诗三百首.json",
+              "index": 165,
+              "excerpt": "三山半落青天外，二水中分白鹭洲。"
+            },
+            {
+              "file": "data/sources/chiuinan_clean.json",
+              "order": 272,
+              "excerpt": "三山半落青天外，二水中分白鹭洲。"
+            },
+            {
+              "url": "https://dfz.nanjing.gov.cn/gzdt/202403/t20240314_4186060.html",
+              "title": "南京市地方志办公室《文学作品与南京形象（二）》",
+              "excerpt": "三山半落青天外",
+              "checkedAt": "2026-09-26"
+            }
+          ]
+        }
+      ]
+    },
+    "tang-201-chun-si": {
+      "replacements": [
+        {
+          "original": "为问天戎",
+          "replacement": "为问元戎",
+          "originalTraditional": "為問天戎",
+          "replacementTraditional": "爲問元戎",
+          "expectedCount": 1,
+          "reason": "元戎意为主帅；本地两源同文，天为误录。",
+          "evidence": [
+            {
+              "file": "唐诗三百首.json",
+              "index": 140,
+              "excerpt": "为问元戎窦车骑，何时返旆勒燕然。"
+            },
+            {
+              "file": "data/sources/chiuinan_clean.json",
+              "order": 298,
+              "excerpt": "为问元戎窦车骑，何时返旆勒燕然？"
+            },
+            {
+              "url": "https://www.gushiwen.cn/shiwenv_703276b8042c.aspx",
+              "title": "《春思》皇甫冉（古诗文网）",
+              "excerpt": "为问元戎窦车骑",
+              "checkedAt": "2026-09-26"
+            }
+          ]
+        }
+      ]
+    },
+    "tang-213-wu-ti-zhi-er": {
+      "replacements": [
+        {
+          "original": "一寸想思一寸灰",
+          "replacement": "一寸相思一寸灰",
+          "originalTraditional": "一寸想思一寸灰",
+          "replacementTraditional": "一寸相思一寸灰",
+          "expectedCount": 1,
+          "reason": "相思为本句核心词语，基础源与学术引文一致。",
+          "evidence": [
+            {
+              "file": "唐诗三百首.json",
+              "index": 285,
+              "excerpt": "春心莫共花争发，一寸相思一寸灰！"
+            },
+            {
+              "file": "data/sources/chiuinan_clean.json",
+              "order": 310,
+              "excerpt": "春心莫共花争发，一寸相思一寸灰。"
+            },
+            {
+              "url": "https://dflt.qdu.edu.cn/__local/D/39/69/ABD32BCA7EA6295E0E9DC6AC08E_CDCC3A22_27AD7F.pdf",
+              "title": "《东方论坛》2012年第5期〈试论李商隐诗对苏轼词的影响〉",
+              "excerpt": "一寸相思一寸灰",
+              "checkedAt": "2026-09-26"
+            }
+          ]
+        }
+      ]
+    },
+    "tang-250-du-han-jiang": {
+      "replacements": [
+        {
+          "original": "经冬复立春",
+          "replacement": "经冬复历春",
+          "originalTraditional": "經冬復立春",
+          "replacementTraditional": "經冬復歷春",
+          "expectedCount": 1,
+          "reason": "历春指又经历春天，基础源与典籍引诗一致；作者归属仍依当前选本保留李频。",
+          "evidence": [
+            {
+              "file": "唐诗三百首.json",
+              "index": 105,
+              "excerpt": "岭外音书断，经冬复历春。"
+            },
+            {
+              "url": "https://ctext.org/wiki.pl?chapter=3954297&if=en&remap=gb",
+              "title": "《唐诗类苑》十八",
+              "excerpt": "岭外音书断经冬复历春近乡情更怯不敢问来人",
+              "checkedAt": "2026-09-26"
+            }
+          ]
+        }
+      ]
+    },
+    "tang-299-ji-ling-hu-lang-zhong": {
+      "replacements": [
+        {
+          "original": "双鲤迢迢一纸笔",
+          "replacement": "双鲤迢迢一纸书",
+          "originalTraditional": "雙鯉迢迢一紙筆",
+          "replacementTraditional": "雙鯉迢迢一紙書",
+          "expectedCount": 1,
+          "reason": "双鲤是书信的典故；本地源与《全唐诗》一致，笔为误录。",
+          "evidence": [
+            {
+              "file": "唐诗三百首.json",
+              "index": 82,
+              "excerpt": "嵩云秦树久离居，双鲤迢迢一纸书。"
+            },
+            {
+              "file": "data/sources/chiuinan_clean.json",
+              "order": 172,
+              "excerpt": "嵩云秦树久离居，双鲤迢迢一纸书。"
+            },
+            {
+              "url": "https://ctext.org/wiki.pl?chapter=344855&if=en&remap=gb",
+              "title": "《御定全唐诗》卷539",
+              "excerpt": "双鲤迢迢一纸书",
+              "checkedAt": "2026-09-26"
+            }
+          ]
+        }
+      ]
+    },
+    "tang-108-zhi-de-er-zai-fu-zi-jing-jin-guang-men-chu-wen-dao-gui-feng-xiang-qian-yuan-chu-": {
+      "metadata": {
+        "title": {
+          "original": "至德二载甫自京金光门出，问道归凤翔。乾元初从左拾遗移华州掾。与亲故别，因出此门。有悲往事。",
+          "replacement": "至德二载甫自京金光门出，间道归凤翔。乾元初从左拾遗移华州掾。与亲故别，因出此门。有悲往事。",
+          "originalTraditional": "至德二載甫自京金光門出，問道歸鳳翔。乾元初從左拾遺移華州掾。與親故別，因出此門。有悲往事。",
+          "replacementTraditional": "至德二載甫自京金光門出，間道歸鳳翔。乾元初從左拾遺移華州掾。與親故別，因出此門。有悲往事。",
+          "reason": "间道指小路；本地选本把间误录为问。据杜诗选本原题修正，保留原始标题所生成的稳定 ID。",
+          "evidence": [
+            {
+              "file": "data/sources/ctext_clean.json",
+              "bookOrder": 108,
+              "excerpt": "金光门出，问道归凤翔。",
+              "role": "archived-original"
+            },
+            {
+              "url": "https://ctext.org/wiki.pl?chapter=73277&if=gb&remap=gb",
+              "title": "《杜诗会粹》卷六目录",
+              "excerpt": "至德二载甫自京金光门出间道归凤翔",
+              "checkedAt": "2026-09-26"
+            },
+            {
+              "url": "https://zh.wikisource.org/zh-hans/至德二載甫自京金光門出_間道歸鳳翔_乾元初從左拾遺移華州掾_與親故別_因出此門_有悲往事",
+              "title": "杜甫《至德二载甫自京金光门出 间道归凤翔……》",
+              "excerpt": "至德二载甫自京金光门出 间道归凤翔",
+              "checkedAt": "2026-09-26"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "identityBaseline": {
+    "poemCount": 317,
+    "sha256": "1890ea0e0545575fbd39b30d957d29c9b6d1cef2f97f4792474f9de4b1eb1d9d",
+    "encoding": "sha256 of JSON {stableId: originalOrder}, keys sorted, separators comma/colon, UTF-8; exclude explicitly listed supplements"
+  }
+}

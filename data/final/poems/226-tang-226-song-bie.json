@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-226-song-bie",
@@ -25,6 +25,11 @@
     ],
     "text": "山中相送罢，日暮掩柴扉。春草明年绿，王孙归不归。",
     "textTraditional": "山中相送罷，日暮掩柴扉。春草明年綠，王孫歸不歸。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "山中相送罢，",
       "日暮掩柴扉。",
@@ -261,7 +266,8 @@
         "file": "唐诗三百首.json",
         "index": 132,
         "title": "送别 / 山中送别",
-        "author": "王维"
+        "author": "王维",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

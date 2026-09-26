@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-047-gu-yi",
@@ -28,6 +28,11 @@
     ],
     "text": "男儿事长征，少小幽燕客，赌胜马蹄下，由来轻七尺；杀人莫敢前，须如猬毛磔。黄云陇底白雪飞，未得报恩不能归。辽东小妇年十五，惯弹琵琶解歌舞，今为羌笛出塞声，使我三军泪如雨。",
     "textTraditional": "男兒事長征，少小幽燕客，賭勝馬蹄下，由來輕七尺；殺人莫敢前，鬚如蝟毛磔。黃雲隴底白雪飛，未得報恩不能歸。遼東小婦年十五，慣彈琵琶解歌舞，今為羌笛出塞聲，使我三軍淚如雨。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "男儿事长征，",
       "少小幽燕客，",
@@ -761,7 +766,8 @@
         "file": "唐诗三百首.json",
         "index": 36,
         "title": "古意",
-        "author": "李颀"
+        "author": "李颀",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

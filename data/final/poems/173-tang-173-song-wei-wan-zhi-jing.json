@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-173-song-wei-wan-zhi-jing",
@@ -28,6 +28,11 @@
     ],
     "text": "朝闻游子唱骊歌，昨夜微霜初度河。鸿雁不堪愁里听，云山况是客中过。关城树色催寒近，御苑砧声向晚多。莫见长安行乐处，空令岁月易蹉跎。",
     "textTraditional": "朝聞遊子唱驪歌，昨夜微霜初度河。鴻雁不堪愁裡聽，雲山況是客中過。關城樹色催寒近，御苑砧聲向晚多。莫見長安行樂處，空令歲月易蹉跎。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "朝闻游子唱骊歌，",
       "昨夜微霜初度河。",
@@ -592,7 +597,8 @@
         "file": "唐诗三百首.json",
         "index": 136,
         "title": "送魏万之京",
-        "author": "李颀"
+        "author": "李颀",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-118-zhong-nan-shan",
@@ -28,6 +28,11 @@
     ],
     "text": "太乙近天都，连山接海隅。白云回望合，青霭入看无。分野中峰变，阴晴众壑殊。欲投人处宿，隔水问樵夫。",
     "textTraditional": "太乙近天都，連山接海隅。白雲迴望合，青靄入看無。分野中峰變，陰晴眾壑殊。欲投人處宿，隔水問樵夫。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "太乙近天都，",
       "连山接海隅。",
@@ -469,7 +474,8 @@
         "file": "唐诗三百首.json",
         "index": 222,
         "title": "终南山",
-        "author": "王维"
+        "author": "王维",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

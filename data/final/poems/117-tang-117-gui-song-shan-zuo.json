@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-117-gui-song-shan-zuo",
@@ -28,6 +28,11 @@
     ],
     "text": "清川带长薄，车马去闲闲。流水如有意，暮禽相与还。荒城临古渡，落日满秋山。迢递嵩高下，归来且闭关。",
     "textTraditional": "清川帶長薄，車馬去閑閑。流水如有意，暮禽相與還。荒城臨古渡，落日滿秋山。迢遞嵩高下，歸來且閉關。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "清川带长薄，",
       "车马去闲闲。",
@@ -466,7 +471,8 @@
         "file": "唐诗三百首.json",
         "index": 203,
         "title": "归嵩山作",
-        "author": "王维"
+        "author": "王维",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

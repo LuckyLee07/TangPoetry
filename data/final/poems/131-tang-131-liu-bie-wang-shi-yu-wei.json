@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-131-liu-bie-wang-shi-yu-wei",
@@ -29,6 +29,11 @@
     ],
     "text": "寂寂竟何待，朝朝空自归。欲寻芳草去，惜与故人违。当路谁相假，知音世所稀。祗应守寂寞，还掩故园扉。",
     "textTraditional": "寂寂竟何待，朝朝空自歸。欲尋芳草去，惜與故人違。當路誰相假，知音世所稀。祗應守寂寞，還掩故園扉。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "寂寂竟何待，",
       "朝朝空自归。",
@@ -464,7 +469,8 @@
         "file": "唐诗三百首.json",
         "index": 128,
         "title": "留别王侍御维 / 留别王维",
-        "author": "孟浩然"
+        "author": "孟浩然",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

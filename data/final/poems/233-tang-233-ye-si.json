@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-233-ye-si",
@@ -25,6 +25,11 @@
     ],
     "text": "床前明月光，疑是地上霜。举头望明月，低头思故乡。",
     "textTraditional": "床前明月光，疑是地上霜。舉頭望明月，低頭思故鄉。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "床前明月光，",
       "疑是地上霜。",
@@ -261,7 +266,8 @@
         "file": "唐诗三百首.json",
         "index": 242,
         "title": "静夜思",
-        "author": "李白"
+        "author": "李白",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

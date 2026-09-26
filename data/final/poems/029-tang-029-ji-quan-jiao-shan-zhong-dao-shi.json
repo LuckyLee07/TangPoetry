@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-029-ji-quan-jiao-shan-zhong-dao-shi",
@@ -28,6 +28,11 @@
     ],
     "text": "今朝郡斋冷，忽念山中客；涧底束荆薪，归来煮白石。欲持一瓢酒，远慰风雨夕；落叶满空山，何处寻行迹。",
     "textTraditional": "今朝郡齋冷，忽念山中客；澗底束荊薪，歸來煮白石。欲持一瓢酒，遠慰風雨夕；落葉滿空山，何處尋行跡。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "今朝郡斋冷，",
       "忽念山中客；",
@@ -460,7 +465,8 @@
         "file": "唐诗三百首.json",
         "index": 233,
         "title": "寄全椒山中道士",
-        "author": "韦应物"
+        "author": "韦应物",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

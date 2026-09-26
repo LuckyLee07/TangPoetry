@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-293-qian-huai",
@@ -24,6 +24,11 @@
     ],
     "text": "落魄江湖载酒行，楚腰纤细掌中轻。十年一觉扬州梦，赢得青楼薄幸名。",
     "textTraditional": "落魄江湖載酒行，楚腰纖細掌中輕。十年一覺揚州夢，贏得青樓薄倖名。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "落魄江湖载酒行，",
       "楚腰纤细掌中轻。",
@@ -330,7 +335,8 @@
         "file": "唐诗三百首.json",
         "index": 83,
         "title": "遣怀",
-        "author": "杜牧"
+        "author": "杜牧",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

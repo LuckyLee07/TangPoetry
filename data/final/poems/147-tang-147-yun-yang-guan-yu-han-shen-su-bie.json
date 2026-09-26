@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-147-yun-yang-guan-yu-han-shen-su-bie",
@@ -28,6 +28,11 @@
     ],
     "text": "故人江海别，几度隔山川。乍见翻疑梦，相悲各问年。孤灯寒照雨，深竹暗浮烟。更有明朝恨，离杯惜共传。",
     "textTraditional": "故人江海別，幾度隔山川。乍見翻疑夢，相悲各問年。孤燈寒照雨，深竹暗浮煙。更有明朝恨，離杯惜共傳。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "故人江海别，",
       "几度隔山川。",
@@ -461,7 +466,8 @@
         "file": "唐诗三百首.json",
         "index": 289,
         "title": "云阳馆与韩绅宿别",
-        "author": "司空曙"
+        "author": "司空曙",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

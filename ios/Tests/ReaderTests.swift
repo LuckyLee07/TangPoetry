@@ -132,11 +132,11 @@ final class ReaderTests: XCTestCase {
 
     func testBundledLibraryHasCompleteIllustratedContent() throws {
         let catalog: PoemCatalog = try BundledContent.decode("catalog.json")
-        XCTAssertEqual(catalog.poems.count, 317)
+        XCTAssertEqual(catalog.poems.count, 320)
         XCTAssertEqual(catalog.poems.filter(\.featured).count, 20)
-        XCTAssertEqual(catalog.poems.filter(\.dedicatedArt).count, 317)
-        XCTAssertEqual(Set(catalog.poems.map(\.image)).count, 317)
-        XCTAssertEqual(Set(catalog.poems.map(\.id)).count, 317)
+        XCTAssertEqual(catalog.poems.filter(\.dedicatedArt).count, 320)
+        XCTAssertEqual(Set(catalog.poems.map(\.image)).count, 320)
+        XCTAssertEqual(Set(catalog.poems.map(\.id)).count, 320)
         XCTAssertNoThrow(try BundledContent.url("Art/song-yuan-er-page.jpg"))
         for poem in catalog.poems {
             let detail: PoemDetail = try BundledContent.decode("poems/\(poem.id).json")
@@ -144,7 +144,50 @@ final class ReaderTests: XCTestCase {
             XCTAssertFalse(detail.text.isEmpty)
             XCTAssertNoThrow(try BundledContent.url(poem.image))
             XCTAssertNoThrow(try BundledContent.url(poem.thumbnail))
-            if poem.featured { XCTAssertFalse(detail.note.isEmpty) }
+            XCTAssertFalse(detail.note.isEmpty)
+            XCTAssertFalse(detail.interpretation.isEmpty)
+            XCTAssertFalse(detail.notes.contains(detail.note))
+            XCTAssertEqual(detail.notes, detail.annotations.map(\.text))
+        }
+    }
+
+    func testPrefacesAndVariantsRemainAccessibleOutsideTheVerses() throws {
+        let cicada: PoemDetail = try BundledContent.decode("poems/tang-093-zai-yu-yong-chan-bing-xu.json")
+        XCTAssertEqual(cicada.rubyLines.count, 8)
+        XCTAssertFalse(cicada.preface.isEmpty)
+        let stream: PoemDetail = try BundledContent.decode("poems/tang-262-tao-hua-xi.json")
+        XCTAssertEqual(stream.rubyLines.count, 4)
+        XCTAssertFalse(stream.variants.isEmpty)
+        XCTAssertFalse(stream.text.contains("又作"))
+        let homecoming: PoemDetail = try BundledContent.decode("poems/tang-261-hui-xiang-ou-shu.json")
+        XCTAssertFalse(homecoming.note.contains("一作"))
+        XCTAssertTrue(homecoming.variants.contains { $0.text.contains("一作") || $0.text.contains("又作") })
+    }
+
+    func testEveryPoemHasReadableLayoutAcrossPhoneSizesAndAccessibilityText() throws {
+        let catalog: PoemCatalog = try BundledContent.decode("catalog.json")
+        let sizes = [CGSize(width: 320, height: 480), CGSize(width: 375, height: 580),
+                     CGSize(width: 390, height: 760), CGSize(width: 430, height: 840)]
+        for poem in catalog.poems {
+            let detail: PoemDetail = try BundledContent.decode("poems/\(poem.id).json")
+            for size in sizes {
+                for setting in [20, 22, 26, 30] {
+                    for scale in [CGFloat(1), CGFloat(1.6)] {
+                        let base = PoemLayout.resolve(section: poem.section, lines: detail.rubyLines.map { $0.map(\.text).joined() },
+                            title: poem.title, author: poem.author, size: size, fontSetting: setting, dynamicScale: scale,
+                            textStart: poem.textStart.map { CGFloat($0) }, showsNote: true)
+                        let bare = PoemLayout.resolve(section: poem.section, lines: detail.rubyLines.map { $0.map(\.text).joined() },
+                            title: poem.title, author: poem.author, size: size, fontSetting: setting, dynamicScale: scale,
+                            textStart: poem.textStart.map { CGFloat($0) }, showsNote: false)
+                        XCTAssertTrue(base.fontSize.isFinite && base.estimatedContentHeight.isFinite, poem.id)
+                        XCTAssertGreaterThanOrEqual(base.fontSize + 0.001, 18 * CGFloat(setting) / 22 * scale, poem.id)
+                        XCTAssertGreaterThanOrEqual(size.height - bare.contentTop - 65, 80, poem.id)
+                        XCTAssertEqual(base.fontSize, bare.fontSize, accuracy: 0.001, poem.id)
+                        XCTAssertGreaterThanOrEqual(bare.contentTop, base.contentTop, poem.id)
+                        XCTAssertLessThanOrEqual(bare.contentTop - base.contentTop, 60.001, poem.id)
+                    }
+                }
+            }
         }
     }
 

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-010-jia-ren",
@@ -46,6 +46,11 @@
     ],
     "text": "绝代有佳人，幽居在空谷；自云良家子，零落依草木。关中昔丧乱，兄弟遭杀戮；官高何足论？不得收骨肉。世情恶衰歇，万事随转烛。夫婿轻薄儿，新人美如玉。合昏尚知时，鸳鸯不独宿；但见新人笑，那闻旧人哭？在山泉水清，出山泉水浊。侍婢卖珠回，牵萝补茅屋。摘花不插发，采柏动盈掬。天寒翠袖薄，日暮倚修竹。",
     "textTraditional": "絕代有佳人，幽居在空谷；自云良家子，零落依草木。關中昔喪亂，兄弟遭殺戮；官高何足論？不得收骨肉。世情惡衰歇，萬事隨轉燭。夫婿輕薄兒，新人美如玉。合昏尚知時，鴛鴦不獨宿；但見新人笑，那聞舊人哭？在山泉水清，出山泉水濁。侍婢賣珠迴，牽蘿補茅屋。摘花不插髮，採柏動盈掬。天寒翠袖薄，日暮倚修竹。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "绝代有佳人，",
       "幽居在空谷；",
@@ -874,7 +879,8 @@
         "file": "唐诗三百首.json",
         "index": 65,
         "title": "佳人",
-        "author": "杜甫"
+        "author": "杜甫",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

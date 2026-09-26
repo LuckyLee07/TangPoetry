@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-076-luo-yang-nv-er-xing",
@@ -42,6 +42,11 @@
     ],
     "text": "洛阳女儿对门居，才可容颜十五余；良人玉勒乘骢马，侍女金盘脍鲤鱼。画阁朱楼尽相望，红桃绿柳垂簷向。罗帷送上七香车，宝扇迎归九华帐。狂夫富贵在青春，意气骄奢剧季伦。自怜碧玉亲教舞，不惜珊瑚持与人。春窗曙灭九微火，九微片片飞花璅。戏罢曾无理曲时，妆成祇是薰香坐。城中相识尽繁华，日夜经过赵李家。谁怜越女颜如玉？贫贱江头自浣纱。",
     "textTraditional": "洛陽女兒對門居，纔可容顏十五餘；良人玉勒乘驄馬，侍女金盤膾鯉魚。畫閣朱樓盡相望，紅桃綠柳垂簷向。羅帷送上七香車，寶扇迎歸九華帳。狂夫富貴在青春，意氣驕奢劇季倫。自憐碧玉親教舞，不惜珊瑚持與人。春窗曙滅九微火，九微片片飛花璅。戲罷曾無理曲時，妝成祇是薰香坐。城中相識盡繁華，日夜經過趙李家。誰憐越女顏如玉？貧賤江頭自浣紗。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "洛阳女儿对门居，",
       "才可容颜十五余；",
@@ -1034,7 +1039,8 @@
         "file": "唐诗三百首.json",
         "index": 278,
         "title": "洛阳女儿行",
-        "author": "王维"
+        "author": "王维",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

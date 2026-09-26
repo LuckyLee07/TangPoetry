@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-097-ci-bei-gu-shan-xia",
@@ -30,6 +30,11 @@
     ],
     "text": "客路青山外，行舟绿水前。潮平两岸阔，风正一帆悬。海日生残夜，江春入旧年。乡书何处达？归雁洛阳边。",
     "textTraditional": "客路青山外，行舟綠水前。潮平兩岸闊，風正一帆懸。海日生殘夜，江春入舊年。鄉書何處達？歸雁洛陽邊。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "客路青山外，",
       "行舟绿水前。",
@@ -449,7 +454,8 @@
         "file": "唐诗三百首.json",
         "index": 143,
         "title": "次北固山下",
-        "author": "王湾"
+        "author": "王湾",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

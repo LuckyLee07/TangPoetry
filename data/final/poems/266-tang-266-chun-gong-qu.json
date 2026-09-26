@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-266-chun-gong-qu",
@@ -24,6 +24,11 @@
     ],
     "text": "昨夜风开露井桃，未央前殿月轮高。平阳歌舞新承宠，帘外春寒赐锦袍。",
     "textTraditional": "昨夜風開露井桃，未央前殿月輪高。平陽歌舞新承寵，簾外春寒賜錦袍。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "昨夜风开露井桃，",
       "未央前殿月轮高。",
@@ -327,7 +332,8 @@
         "file": "唐诗三百首.json",
         "index": 211,
         "title": "春宫曲",
-        "author": "王昌龄"
+        "author": "王昌龄",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

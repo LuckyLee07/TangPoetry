@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-011-meng-li-bai-zhi-yi",
@@ -37,6 +37,11 @@
     ],
     "text": "死别已吞声，生别常恻恻。江南瘴疠地，逐客无消息。故人入我梦，明我长相忆；君今在罗网，何以有羽翼？恐非平生魂，路远不可测。魂来枫林青，魂返关塞黑；落月满屋梁，犹疑照颜色。水深波浪阔，无使蛟龙得。",
     "textTraditional": "死別已吞聲，生別常惻惻。江南瘴癘地，逐客無消息。故人入我夢，明我長相憶；君今在羅網，何以有羽翼？恐非平生魂，路遠不可測。魂來楓林青，魂返關塞黑；落月滿屋梁，猶疑照顏色。水深波浪闊，無使蛟龍得。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "死别已吞声，",
       "生别常恻恻。",
@@ -676,7 +681,8 @@
         "file": "唐诗三百首.json",
         "index": 93,
         "title": "梦李白二首·其一",
-        "author": "杜甫"
+        "author": "杜甫",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

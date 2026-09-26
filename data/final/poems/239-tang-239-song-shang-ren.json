@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-239-song-shang-ren",
@@ -25,6 +25,11 @@
     ],
     "text": "孤云将野鹤，岂向人间住。莫买沃洲山，时人已知处。",
     "textTraditional": "孤雲將野鶴，豈向人間住。莫買沃洲山，時人已知處。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "孤云将野鹤，",
       "岂向人间住。",
@@ -255,7 +260,8 @@
         "file": "唐诗三百首.json",
         "index": 161,
         "title": "送方外上人 / 送上人",
-        "author": "刘长卿"
+        "author": "刘长卿",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

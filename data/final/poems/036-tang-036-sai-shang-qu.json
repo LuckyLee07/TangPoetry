@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-036-sai-shang-qu",
@@ -19,18 +19,31 @@
       "蝉鸣空桑林，八月萧关道；",
       "出塞复入塞，处处黄芦草。",
       "从来幽并客，皆向沙场老；",
-      "莫学游侠儿，矜夸紫骝好。",
-      "又作共尘沙"
+      "莫学游侠儿，矜夸紫骝好。"
     ],
     "linesTraditional": [
       "蟬鳴空桑林，八月蕭關道；",
       "出塞復入塞，處處黃蘆草。",
       "從來幽並客，皆向沙場老；",
-      "莫學遊俠兒，矜誇紫騮好。",
-      "又作共塵沙"
+      "莫學遊俠兒，矜誇紫騮好。"
     ],
-    "text": "蝉鸣空桑林，八月萧关道；出塞复入塞，处处黄芦草。从来幽并客，皆向沙场老；莫学游侠儿，矜夸紫骝好。又作共尘沙",
-    "textTraditional": "蟬鳴空桑林，八月蕭關道；出塞復入塞，處處黃蘆草。從來幽並客，皆向沙場老；莫學遊俠兒，矜誇紫騮好。又作共塵沙",
+    "text": "蝉鸣空桑林，八月萧关道；出塞复入塞，处处黄芦草。从来幽并客，皆向沙场老；莫学游侠儿，矜夸紫骝好。",
+    "textTraditional": "蟬鳴空桑林，八月蕭關道；出塞復入塞，處處黃蘆草。從來幽並客，皆向沙場老；莫學遊俠兒，矜誇紫騮好。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [
+      {
+        "text": "又作共尘沙",
+        "textTraditional": "又作共塵沙",
+        "source": "ctext",
+        "sourceUrl": "https://ctext.org/wiki.pl?if=en&chapter=820428",
+        "originalLine": "又作共尘沙",
+        "originalLineTraditional": "又作共塵沙",
+        "locationStatus": "source-does-not-identify-target"
+      }
+    ],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "蝉鸣空桑林，",
       "八月萧关道；",
@@ -439,28 +452,6 @@
           "。",
           ""
         ]
-      ],
-      [
-        [
-          "又",
-          "yòu"
-        ],
-        [
-          "作",
-          "zuò"
-        ],
-        [
-          "共",
-          "gòng"
-        ],
-        [
-          "尘",
-          "chén"
-        ],
-        [
-          "沙",
-          "shā"
-        ]
       ]
     ],
     "notes": [],
@@ -488,7 +479,8 @@
         "file": "唐诗三百首.json",
         "index": 314,
         "title": "塞上曲·其一",
-        "author": "王昌龄"
+        "author": "王昌龄",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

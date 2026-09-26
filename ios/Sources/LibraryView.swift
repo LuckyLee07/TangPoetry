@@ -91,7 +91,7 @@ struct SettingsView: View {
                 Section("关于唐诗画笺") {
                     Text("一页一诗，一诗一画。")
                     Text("所有诗词与插画均内置，可离线阅读。收藏、设置与阅读位置仅保存在当前设备，无需账号，无广告、无统计追踪。")
-                    Text("诗文按体裁分卷，同一体裁内保留选本顺序，部分题名使用常用别名。诗文与简注持续校订。版本 0.3.5")
+                    Text("诗文按体裁分卷，同一体裁内保留选本顺序，部分题名使用常用别名。诗文与简注持续校订。版本 0.4.0")
                 }.font(.footnote).foregroundStyle(.secondary)
             }.scrollContentBackground(.hidden).background(store.settings.paperColor)
             .navigationTitle("阅读设置").navigationBarTitleDisplayMode(.inline)
@@ -107,10 +107,24 @@ struct NotesView: View {
     var body: some View {
         NavigationStack {
             ScrollView {
-                VStack(alignment: .leading, spacing: 20) {
-                    Text(detail.noteTitle).font(.title3)
-                    Text(detail.note).lineSpacing(6)
-                    ForEach(Array(detail.notes.enumerated()), id: \.offset) { _, note in Text(note).font(.body).lineSpacing(5) }
+                VStack(alignment: .leading, spacing: 28) {
+                    NotesSection(title: "诗意", paragraphs: detail.interpretation)
+                    NotesSection(title: "字词解释", paragraphs: detail.annotations.map(\.text))
+                    if !detail.variants.isEmpty {
+                        VStack(alignment: .leading, spacing: 12) {
+                            Text("异文").font(.headline).accessibilityAddTraits(.isHeader)
+                            Text("以下为选本原有校记，保留不同说法。")
+                                .font(.caption).foregroundStyle(.secondary)
+                            ForEach(Array(detail.variants.enumerated()), id: \.offset) { _, variant in
+                                VStack(alignment: .leading, spacing: 5) {
+                                    Text(variant.text).font(.body).lineSpacing(6).textSelection(.enabled)
+                                    Text("来源：\(variant.sourceName)").font(.caption).foregroundStyle(.secondary)
+                                }
+                            }
+                        }
+                    }
+                    NotesSection(title: "题序", paragraphs: detail.preface.isEmpty ? [] : [detail.preface.joined()])
+                    NotesSection(title: "原题", paragraphs: detail.sourceTitle == detail.title ? [] : [detail.sourceTitle])
                 }.frame(maxWidth: .infinity, alignment: .leading).padding(24)
             }.background(store.settings.paperColor)
             .navigationTitle(detail.title).navigationBarTitleDisplayMode(.inline)
@@ -119,5 +133,21 @@ struct NotesView: View {
         .presentationDetents([.fraction(0.58)])
         .presentationContentInteraction(.scrolls)
         .presentationDragIndicator(.visible)
+    }
+}
+
+private struct NotesSection: View {
+    let title: String
+    let paragraphs: [String]
+
+    var body: some View {
+        if !paragraphs.isEmpty {
+            VStack(alignment: .leading, spacing: 12) {
+                Text(title).font(.headline).accessibilityAddTraits(.isHeader)
+                ForEach(Array(paragraphs.enumerated()), id: \.offset) { _, paragraph in
+                    Text(paragraph).font(.body).lineSpacing(6).textSelection(.enabled)
+                }
+            }.frame(maxWidth: .infinity, alignment: .leading)
+        }
     }
 }

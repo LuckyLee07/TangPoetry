@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-129-qin-zhong-gan-qiu-ji-yuan-shang-ren",
@@ -29,6 +29,11 @@
     ],
     "text": "一丘尝欲卧，三径苦无资。北土非吾愿，东林怀我师。黄金燃桂尽，壮志逐年衰。日夕凉风至，闻蝉但益悲。",
     "textTraditional": "一丘嘗欲臥，三徑苦無資。北土非吾願，東林懷我師。黃金燃桂盡，壯志逐年衰。日夕涼風至，聞蟬但益悲。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "一丘尝欲卧，",
       "三径苦无资。",
@@ -461,7 +466,8 @@
         "file": "唐诗三百首.json",
         "index": 209,
         "title": "秦中感秋寄远上人 / 秦中寄远上人",
-        "author": "孟浩然"
+        "author": "孟浩然",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

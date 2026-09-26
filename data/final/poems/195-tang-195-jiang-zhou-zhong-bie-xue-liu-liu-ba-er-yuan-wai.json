@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-195-jiang-zhou-zhong-bie-xue-liu-liu-ba-er-yuan-wai",
@@ -30,6 +30,11 @@
     ],
     "text": "生涯岂料承优诏？世事空知学醉歌。江上月明胡雁过，淮南木落楚山多。寄身且喜沧洲近，顾影无如白发何！今日龙钟人共老，媿君犹遣慎风波。",
     "textTraditional": "生涯豈料承優詔？世事空知學醉歌。江上月明胡雁過，淮南木落楚山多。寄身且喜滄洲近，顧影無如白髮何！今日龍鐘人共老，媿君猶遣慎風波。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "生涯岂料承优诏？",
       "世事空知学醉歌。",
@@ -548,7 +553,8 @@
         "file": "唐诗三百首.json",
         "index": 273,
         "title": "江州重别薛六柳八二员外",
-        "author": "刘长卿"
+        "author": "刘长卿",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

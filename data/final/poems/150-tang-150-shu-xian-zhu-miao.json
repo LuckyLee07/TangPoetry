@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-150-shu-xian-zhu-miao",
@@ -28,6 +28,11 @@
     ],
     "text": "天地英雄气，千秋尚凛然。势分三足鼎，业复五铢钱。得相能开国，生儿不象贤。凄凉蜀故妓，来舞魏宫前。",
     "textTraditional": "天地英雄氣，千秋尚凜然。勢分三足鼎，業復五銖錢。得相能開國，生兒不象賢。淒涼蜀故妓，來舞魏宮前。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "天地英雄气，",
       "千秋尚凛然。",
@@ -470,7 +475,8 @@
         "file": "唐诗三百首.json",
         "index": 124,
         "title": "蜀先主庙",
-        "author": "刘禹锡"
+        "author": "刘禹锡",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

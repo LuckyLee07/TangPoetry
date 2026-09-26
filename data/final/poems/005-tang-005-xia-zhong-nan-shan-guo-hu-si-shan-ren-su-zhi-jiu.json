@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-005-xia-zhong-nan-shan-guo-hu-si-shan-ren-su-zhi-jiu",
@@ -34,6 +34,11 @@
     ],
     "text": "暮从碧山下，山月随人归；却顾所来径，苍苍横翠微。相携及田家，童稚开荆扉；绿竹入幽径，青萝拂行衣。欢言得所憩，美酒聊共挥；长歌吟松风，曲尽河星稀。我醉君复乐，陶然共忘机。",
     "textTraditional": "暮從碧山下，山月隨人歸；卻顧所來徑，蒼蒼橫翠微。相攜及田家，童稚開荊扉；綠竹入幽徑，青蘿拂行衣。歡言得所憩，美酒聊共揮；長歌吟松風，曲盡河星稀。我醉君復樂，陶然共忘機。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "暮从碧山下，",
       "山月随人归；",
@@ -626,7 +631,8 @@
         "file": "唐诗三百首.json",
         "index": 4,
         "title": "下终南山过斛斯山人宿置酒",
-        "author": "李白"
+        "author": "李白",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

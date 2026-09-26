@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-241-ting-zheng",
@@ -24,6 +24,11 @@
     ],
     "text": "鸣筝金粟柱，素手玉房前。欲得周郎顾，时时误拂弦。",
     "textTraditional": "鳴箏金粟柱，素手玉房前。欲得周郎顧，時時誤拂絃。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "鸣筝金粟柱，",
       "素手玉房前。",
@@ -253,7 +258,8 @@
         "file": "唐诗三百首.json",
         "index": 287,
         "title": "听筝",
-        "author": "李端"
+        "author": "李端",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

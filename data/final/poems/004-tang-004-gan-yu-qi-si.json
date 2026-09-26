@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-004-gan-yu-qi-si",
@@ -33,6 +33,11 @@
     ],
     "text": "江南有丹橘，经冬犹绿林；岂伊地气暖？自有岁寒心。可以荐嘉客，奈何阻重深？运命惟所遇，循环不可寻。徒言树桃李，此木岂无阴？",
     "textTraditional": "江南有丹橘，經冬猶綠林；豈伊地氣暖？自有歲寒心。可以薦嘉客，奈何阻重深？運命惟所遇，循環不可尋。徒言樹桃李，此木豈無陰？",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "江南有丹橘，",
       "经冬犹绿林；",
@@ -480,7 +485,8 @@
         "file": "唐诗三百首.json",
         "index": 2,
         "title": "感遇·江南有丹橘",
-        "author": "张九龄"
+        "author": "张九龄",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-304-jia-sheng",
@@ -24,6 +24,11 @@
     ],
     "text": "宣室求贤访逐臣，贾生才调更无伦。可怜夜半虚前席，不问苍生问鬼神。",
     "textTraditional": "宣室求賢訪逐臣，賈生才調更無倫。可憐夜半虛前席，不問蒼生問鬼神。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "宣室求贤访逐臣，",
       "贾生才调更无伦。",
@@ -318,7 +323,8 @@
         "file": "唐诗三百首.json",
         "index": 256,
         "title": "贾生",
-        "author": "李商隐"
+        "author": "李商隐",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

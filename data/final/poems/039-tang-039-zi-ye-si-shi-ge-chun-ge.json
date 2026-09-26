@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-039-zi-ye-si-shi-ge-chun-ge",
@@ -27,6 +27,11 @@
     ],
     "text": "秦地罗敷女，采桑绿水边。素手青条上，红妆白日鲜。蚕饥妾欲去，五马莫留连。",
     "textTraditional": "秦地羅敷女，採桑綠水邊。素手青條上，紅妝白日鮮。蠶飢妾欲去，五馬莫留連。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "秦地罗敷女，",
       "采桑绿水边。",
@@ -364,7 +369,8 @@
         "file": "唐诗三百首.json",
         "index": 45,
         "title": "子夜吴歌·春歌",
-        "author": "李白"
+        "author": "李白",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

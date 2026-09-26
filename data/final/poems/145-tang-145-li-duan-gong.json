@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-145-li-duan-gong",
@@ -29,6 +29,11 @@
     ],
     "text": "故关衰草遍，离别正堪悲。路出寒云外，人归暮雪时。少孤为客早，多难识君迟。掩泪空相向，风尘何处期。",
     "textTraditional": "故關衰草遍，離別正堪悲。路出寒雲外，人歸暮雪時。少孤為客早，多難識君遲。掩淚空相向，風塵何處期。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "故关衰草遍，",
       "离别正堪悲。",
@@ -480,7 +485,8 @@
         "file": "唐诗三百首.json",
         "index": 315,
         "title": "李端公 / 送李端",
-        "author": "卢纶"
+        "author": "卢纶",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

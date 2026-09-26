@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-003-gan-yu-qi-san",
@@ -27,6 +27,11 @@
     ],
     "text": "幽人归独卧，滞虑洗孤清，持此谢高鸟，因之传远情。日夕怀空意，人谁感至精？飞沈理自隔，何所慰吾诚？",
     "textTraditional": "幽人歸獨臥，滯慮洗孤清，持此謝高鳥，因之傳遠情。日夕懷空意，人誰感至精？飛沈理自隔，何所慰吾誠？",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "幽人归独卧，",
       "滞虑洗孤清，",
@@ -463,7 +468,8 @@
         "file": "唐诗三百首.json",
         "index": 127,
         "title": "感遇十二首·其二",
-        "author": "张九龄"
+        "author": "张九龄",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

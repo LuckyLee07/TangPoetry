@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-184-ye-wang",
@@ -28,6 +28,11 @@
     ],
     "text": "西山白雪三城戍，南浦清江万里桥。海内风尘诸弟隔，天涯涕泪一身遥。唯将迟暮供多病，未有涓埃答圣朝。跨马出郊时极目，不堪人事日萧条。",
     "textTraditional": "西山白雪三城戍，南浦清江萬里橋。海內風塵諸弟隔，天涯涕淚一身遙。唯將遲暮供多病，未有涓埃答聖朝。跨馬出郊時極目，不堪人事日蕭條。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "西山白雪三城戍，",
       "南浦清江万里桥。",
@@ -609,7 +614,8 @@
         "file": "唐诗三百首.json",
         "index": 238,
         "title": "野望",
-        "author": "杜甫"
+        "author": "杜甫",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

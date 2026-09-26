@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-035-xi-ju",
@@ -26,6 +26,11 @@
     ],
     "text": "久为簪组累，幸此南夷谪。闲依农圃邻，偶似山林客。晓耕翻露草，夜榜响溪石，来往不逢人，长歌楚天碧。",
     "textTraditional": "久為簪組累，幸此南夷謫。閑依農圃鄰，偶似山林客。曉耕翻露草，夜榜響溪石，來往不逢人，長歌楚天碧。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "久为簪组累，",
       "幸此南夷谪。",
@@ -465,7 +470,8 @@
         "file": "唐诗三百首.json",
         "index": 63,
         "title": "溪居",
-        "author": "柳宗元"
+        "author": "柳宗元",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

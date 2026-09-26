@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-021-tong-cong-di-nan-zhai-wan-yue-yi-shan-yin-cui-shao-fu",
@@ -34,6 +34,11 @@
     ],
     "text": "高卧南斋时，开帷月初吐；清辉淡水木，演漾在窗户。苒苒几盈虚？澄澄变今古。美人清江畔，是夜越吟苦。千里其如何？微风吹兰杜。",
     "textTraditional": "高臥南齋時，開帷月初吐；清輝淡水木，演漾在窗戶。苒苒幾盈虛？澄澄變今古。美人清江畔，是夜越吟苦。千里其如何？微風吹蘭杜。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "高卧南斋时，",
       "开帷月初吐；",
@@ -503,7 +508,8 @@
         "file": "唐诗三百首.json",
         "index": 247,
         "title": "同从弟南斋玩月忆山阴崔少府",
-        "author": "王昌龄"
+        "author": "王昌龄",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

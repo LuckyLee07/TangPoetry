@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-201-chun-si",
@@ -18,16 +18,48 @@
       "莺啼燕语报新年，马邑龙堆路几千。",
       "家住层城邻汉苑，心随明月到胡天。",
       "机中锦字论长恨，楼上花枝笑独眠。",
-      "为问天戎窦车骑，何时返旆勒燕然。"
+      "为问元戎窦车骑，何时返旆勒燕然。"
     ],
     "linesTraditional": [
       "鶯啼燕語報新年，馬邑龍堆路幾千。",
       "家住層城鄰漢苑，心隨明月到胡天。",
       "機中錦字論長恨，樓上花枝笑獨眠。",
-      "為問天戎竇車騎，何時返旆勒燕然。"
+      "爲問元戎竇車騎，何時返旆勒燕然。"
     ],
-    "text": "莺啼燕语报新年，马邑龙堆路几千。家住层城邻汉苑，心随明月到胡天。机中锦字论长恨，楼上花枝笑独眠。为问天戎窦车骑，何时返旆勒燕然。",
-    "textTraditional": "鶯啼燕語報新年，馬邑龍堆路幾千。家住層城鄰漢苑，心隨明月到胡天。機中錦字論長恨，樓上花枝笑獨眠。為問天戎竇車騎，何時返旆勒燕然。",
+    "text": "莺啼燕语报新年，马邑龙堆路几千。家住层城邻汉苑，心随明月到胡天。机中锦字论长恨，楼上花枝笑独眠。为问元戎窦车骑，何时返旆勒燕然。",
+    "textTraditional": "鶯啼燕語報新年，馬邑龍堆路幾千。家住層城鄰漢苑，心隨明月到胡天。機中錦字論長恨，樓上花枝笑獨眠。爲問元戎竇車騎，何時返旆勒燕然。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [
+      {
+        "original": "为问天戎",
+        "replacement": "为问元戎",
+        "originalTraditional": "為問天戎",
+        "replacementTraditional": "爲問元戎",
+        "expectedCount": 1,
+        "reason": "元戎意为主帅；本地两源同文，天为误录。",
+        "evidence": [
+          {
+            "file": "唐诗三百首.json",
+            "index": 140,
+            "excerpt": "为问元戎窦车骑，何时返旆勒燕然。"
+          },
+          {
+            "file": "data/sources/chiuinan_clean.json",
+            "order": 298,
+            "excerpt": "为问元戎窦车骑，何时返旆勒燕然？"
+          },
+          {
+            "url": "https://www.gushiwen.cn/shiwenv_703276b8042c.aspx",
+            "title": "《春思》皇甫冉（古诗文网）",
+            "excerpt": "为问元戎窦车骑",
+            "checkedAt": "2026-09-26"
+          }
+        ]
+      }
+    ],
+    "metadataCorrections": {},
     "displayLines": [
       "莺啼燕语报新年，",
       "马邑龙堆路几千。",
@@ -243,8 +275,8 @@
           "wèn"
         ],
         [
-          "天",
-          "tiān"
+          "元",
+          "yuán"
         ],
         [
           "戎",
@@ -509,8 +541,8 @@
           "wèn"
         ],
         [
-          "天",
-          "tiān"
+          "元",
+          "yuán"
         ],
         [
           "戎",
@@ -617,7 +649,8 @@
         "file": "唐诗三百首.json",
         "index": 140,
         "title": "春思",
-        "author": "皇甫冉"
+        "author": "皇甫冉",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

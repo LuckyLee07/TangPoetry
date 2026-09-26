@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-187-deng-lou",
@@ -28,6 +28,11 @@
     ],
     "text": "花近高楼伤客心，万方多难此登临。锦江春色来天地，玉垒浮云变古今。北极朝庭终不改，西山寇盗莫相侵。可怜后主还祠庙，日暮聊为梁父吟。",
     "textTraditional": "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。北極朝庭終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁父吟。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "花近高楼伤客心，",
       "万方多难此登临。",
@@ -603,7 +608,8 @@
         "file": "唐诗三百首.json",
         "index": 308,
         "title": "登楼",
-        "author": "杜甫"
+        "author": "杜甫",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-092-song-du-shao-fu-zhi-ren-shu-zhou",
@@ -29,6 +29,11 @@
     ],
     "text": "城阙辅三秦，风烟望五津。与君离别意，同是宦游人。海内存知己，天涯若比邻。无为在歧路，儿女共沾巾。",
     "textTraditional": "城闕輔三秦，風煙望五津。與君離別意，同是宦遊人。海內存知己，天涯若比鄰。無為在歧路，兒女共沾巾。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "城阙辅三秦，",
       "风烟望五津。",
@@ -472,7 +477,8 @@
         "file": "唐诗三百首.json",
         "index": 116,
         "title": "送杜少府之任蜀州 / 送杜少府之任蜀川",
-        "author": "王勃"
+        "author": "王勃",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

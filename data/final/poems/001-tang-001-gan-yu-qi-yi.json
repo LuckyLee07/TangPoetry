@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-001-gan-yu-qi-yi",
@@ -31,6 +31,11 @@
     ],
     "text": "孤鸿海上来，池潢不敢顾；侧见双翠鸟，巢在三珠树。矫矫珍木巅，得无金丸惧？美服患人指，高明逼神恶。今我游冥冥，弋者何所慕？",
     "textTraditional": "孤鴻海上來，池潢不敢顧；側見雙翠鳥，巢在三珠樹。矯矯珍木巔，得無金丸懼？美服患人指，高明逼神惡。今我遊冥冥，弋者何所慕？",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "孤鸿海上来，",
       "池潢不敢顾；",
@@ -536,7 +541,8 @@
         "file": "唐诗三百首.json",
         "index": 306,
         "title": "感遇十二首·其四",
-        "author": "张九龄"
+        "author": "张九龄",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

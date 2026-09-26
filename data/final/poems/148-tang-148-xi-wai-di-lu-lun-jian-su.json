@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-148-xi-wai-di-lu-lun-jian-su",
@@ -28,6 +28,11 @@
     ],
     "text": "静夜四无邻，荒居旧业贫。雨中黄叶树，灯下白头人。以我独沉久，愧君相访频。平生自有分，况是蔡家亲。",
     "textTraditional": "靜夜四無鄰，荒居舊業貧。雨中黃葉樹，燈下白頭人。以我獨沉久，愧君相訪頻。平生自有分，況是蔡家親。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "静夜四无邻，",
       "荒居旧业贫。",
@@ -470,7 +475,8 @@
         "file": "唐诗三百首.json",
         "index": 148,
         "title": "喜外弟卢纶见宿",
-        "author": "司空曙"
+        "author": "司空曙",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

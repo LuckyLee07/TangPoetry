@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-174-jiu-ri-deng-wang-xian-tai-cheng-liu-ming-fu",
@@ -29,6 +29,11 @@
     ],
     "text": "汉文皇帝有高台，此日登临曙色开。三晋云山皆北向，二陵风雨自东来。关门令尹谁能识？河上仙翁去不回，且欲竟寻彭泽宰，陶然共醉菊花杯。",
     "textTraditional": "漢文皇帝有高臺，此日登臨曙色開。三晉雲山皆北向，二陵風雨自東來。關門令尹誰能識？河上仙翁去不回，且欲竟尋彭澤宰，陶然共醉菊花杯。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "汉文皇帝有高台，",
       "此日登临曙色开。",
@@ -590,7 +595,8 @@
         "file": "唐诗三百首.json",
         "index": 174,
         "title": "九日登望仙台呈刘明府容",
-        "author": "崔曙"
+        "author": "崔曙",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

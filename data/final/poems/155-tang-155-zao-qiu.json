@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-155-zao-qiu",
@@ -29,6 +29,11 @@
     ],
     "text": "遥夜泛清瑟，西风生翠萝。残萤栖玉露，早雁拂银河。高树晓还密，远山晴更多。淮南一叶下，自觉老烟波。",
     "textTraditional": "遙夜汎清瑟，西風生翠蘿。殘螢棲玉露，早雁拂銀河。高樹曉還密，遠山晴更多。淮南一葉下，自覺老煙波。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "遥夜泛清瑟，",
       "西风生翠萝。",
@@ -476,7 +481,8 @@
         "file": "唐诗三百首.json",
         "index": 198,
         "title": "早秋三首·其一",
-        "author": "许浑"
+        "author": "许浑",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

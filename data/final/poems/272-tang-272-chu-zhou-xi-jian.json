@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-272-chu-zhou-xi-jian",
@@ -24,6 +24,11 @@
     ],
     "text": "独怜幽草涧边生，上有黄鹂深树鸣。春潮带雨晚来急，野渡无人舟自横。",
     "textTraditional": "獨憐幽草澗邊生，上有黃鸝深樹鳴。春潮帶雨晚來急，野渡無人舟自橫。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "独怜幽草涧边生，",
       "上有黄鹂深树鸣。",
@@ -323,7 +328,8 @@
         "file": "唐诗三百首.json",
         "index": 311,
         "title": "滁州西涧",
-        "author": "韦应物"
+        "author": "韦应物",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

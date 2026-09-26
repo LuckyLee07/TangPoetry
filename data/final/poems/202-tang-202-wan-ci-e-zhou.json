@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-202-wan-ci-e-zhou",
@@ -28,6 +28,11 @@
     ],
     "text": "云开远见汉阳城，犹是孤帆一日程。估客昼眠知浪静，舟人夜语觉潮生。三湘愁鬓逢秋色，万里归心对月明。旧业已随征战尽，更堪江上鼓鼙声。",
     "textTraditional": "雲開遠見漢陽城，猶是孤帆一日程。估客晝眠知浪靜，舟人夜語覺潮生。三湘愁鬢逢秋色，萬里歸心對月明。舊業已隨征戰盡，更堪江上鼓鼙聲。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "云开远见汉阳城，",
       "犹是孤帆一日程。",
@@ -600,7 +605,8 @@
         "file": "唐诗三百首.json",
         "index": 219,
         "title": "晚次鄂州",
-        "author": "卢纶"
+        "author": "卢纶",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

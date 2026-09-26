@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-141-fu-de-mu-yu-song-li-zhou",
@@ -29,6 +29,11 @@
     ],
     "text": "楚江微雨里，建业暮钟时。漠漠帆来重，冥冥鸟去迟。海门深不见，浦树远含滋。相送情无限，沾襟比散丝。",
     "textTraditional": "楚江微雨裡，建業暮鐘時。漠漠帆來重，冥冥鳥去遲。海門深不見，浦樹遠含滋。相送情無限，沾襟比散絲。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "楚江微雨里，",
       "建业暮钟时。",
@@ -465,7 +470,8 @@
         "file": "唐诗三百首.json",
         "index": 80,
         "title": "赋得暮雨送李胄 / 赋得暮雨送李曹",
-        "author": "韦应物"
+        "author": "韦应物",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

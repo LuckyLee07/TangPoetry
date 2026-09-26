@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-224-lu-chai",
@@ -24,6 +24,11 @@
     ],
     "text": "空山不见人，但闻人语响。返景入深林，复照青苔上。",
     "textTraditional": "空山不見人，但聞人語響。返景入深林，復照青苔上。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "空山不见人，",
       "但闻人语响。",
@@ -262,7 +267,8 @@
         "file": "唐诗三百首.json",
         "index": 283,
         "title": "鹿柴",
-        "author": "王维"
+        "author": "王维",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

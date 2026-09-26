@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-027-jun-zhai-yu-zhong-yu-zhu-wen-shi-yan-ji",
@@ -40,6 +40,11 @@
     ],
     "text": "兵卫森画戟，宴寝凝清香。海上风雨至，逍遥池阁凉。烦疴近消散，嘉宾复满堂。自惭居处崇，未睹斯民康。理会是非遣，性达形迹忘。鲜肥属时禁，蔬果幸见尝。俯饮一杯酒，仰聆金玉章。神欢体自轻，意欲凌风翔。吴中盛文史，群彦今汪洋。方知大蕃地，岂曰财赋强？",
     "textTraditional": "兵衛森畫戟，宴寢凝清香。海上風雨至，逍遙池閣涼。煩痾近消散，嘉賓復滿堂。自慚居處崇，未睹斯民康。理會是非遣，性達形跡忘。鮮肥屬時禁，蔬果幸見嘗。俯飲一杯酒，仰聆金玉章。神歡體自輕，意欲淩風翔。吳中盛文史，群彥今汪洋。方知大蕃地，豈曰財賦強？",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "兵卫森画戟，",
       "宴寝凝清香。",
@@ -786,7 +791,8 @@
         "file": "唐诗三百首.json",
         "index": 103,
         "title": "郡斋雨中与诸文士燕集",
-        "author": "韦应物"
+        "author": "韦应物",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

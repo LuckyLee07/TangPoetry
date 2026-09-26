@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-083-xing-lu-nan-zhi-er",
@@ -37,6 +37,11 @@
     ],
     "text": "大道如青天，我独不得出。羞逐长安社中儿，赤鸡白狗赌梨栗。弹剑作歌奏苦声，曳裾王门不称情。淮阴市井笑韩信，汉朝公卿忌贾生。君不见，昔时燕家重郭隗，拥篲折节无嫌猜；剧辛乐毅感恩分，输肝剖胆效英才。昭王白骨萦蔓草，谁人更扫黄金台？行路难，归去来？",
     "textTraditional": "大道如青天，我獨不得出。羞逐長安社中兒，赤雞白狗賭梨慄。彈劍作歌奏苦聲，曳裾王門不稱情。淮陰市井笑韓信，漢朝公卿忌賈生。君不見，昔時燕家重郭隗，擁篲折節無嫌猜；劇辛樂毅感恩分，輸肝剖膽效英才。昭王白骨縈蔓草，誰人更掃黃金臺？行路難，歸去來？",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "大道如青天，",
       "我独不得出。",
@@ -838,7 +843,8 @@
         "file": "唐诗三百首.json",
         "index": 184,
         "title": "行路难·其二",
-        "author": "李白"
+        "author": "李白",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

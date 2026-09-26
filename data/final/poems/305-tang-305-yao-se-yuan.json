@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-305-yao-se-yuan",
@@ -24,6 +24,11 @@
     ],
     "text": "冰簟银床梦不成，碧天如水夜云轻。雁声远过潇湘去，十二楼中月自明。",
     "textTraditional": "冰簟銀床夢不成，碧天如水夜雲輕。雁聲遠過瀟湘去，十二樓中月自明。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "冰簟银床梦不成，",
       "碧天如水夜云轻。",
@@ -326,7 +331,8 @@
         "file": "唐诗三百首.json",
         "index": 50,
         "title": "瑶瑟怨",
-        "author": "温庭筠"
+        "author": "温庭筠",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-310-ji-ren",
@@ -24,6 +24,11 @@
     ],
     "text": "别梦依依到谢家，小廊回合曲阑斜。多情只有春庭月，犹为离人照落花。",
     "textTraditional": "別夢依依到謝家，小廊回合曲闌斜。多情只有春庭月，猶為離人照落花。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "别梦依依到谢家，",
       "小廊回合曲阑斜。",
@@ -328,7 +333,8 @@
         "file": "唐诗三百首.json",
         "index": 284,
         "title": "寄人",
-        "author": "张泌"
+        "author": "张泌",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

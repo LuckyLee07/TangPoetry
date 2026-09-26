@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-100-zeng-meng-hao-ran",
@@ -30,6 +30,11 @@
     ],
     "text": "吾爱孟夫子，风流天下闻。红颜弃轩冕，白首卧松云。醉月频中圣，迷花不事君。高山安可仰？徒此挹清芬。",
     "textTraditional": "吾愛孟夫子，風流天下聞。紅顏棄軒冕，白首臥松雲。醉月頻中聖，迷花不事君。高山安可仰？徒此挹清芬。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "吾爱孟夫子，",
       "风流天下闻。",
@@ -454,7 +459,8 @@
         "file": "唐诗三百首.json",
         "index": 141,
         "title": "赠孟浩然",
-        "author": "李白"
+        "author": "李白",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-271-jiang-nan-feng-li-gui-nian",
@@ -24,6 +24,11 @@
     ],
     "text": "岐王宅里寻常见，崔九堂前几度闻。正是江南好风景，落花时节又逢君。",
     "textTraditional": "岐王宅裡尋常見，崔九堂前幾度聞。正是江南好風景，落花時節又逢君。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "岐王宅里寻常见，",
       "崔九堂前几度闻。",
@@ -322,7 +327,8 @@
         "file": "唐诗三百首.json",
         "index": 107,
         "title": "江南逢李龟年",
-        "author": "杜甫"
+        "author": "杜甫",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

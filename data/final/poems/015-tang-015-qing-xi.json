@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-015-qing-xi",
@@ -33,6 +33,11 @@
     ],
     "text": "言入黄花川，每逐青谿水；随山将万转，趣途无百里。声喧乱石中，色静深松里；漾漾泛菱荇，澄澄映葭苇。我心素已闲，清川澹如此。请留盘石上，垂钓将已矣！",
     "textTraditional": "言入黃花川，每逐青谿水；隨山將萬轉，趣途無百里。聲喧亂石中，色靜深松裡；漾漾汎菱荇，澄澄映葭葦。我心素已閒，清川澹如此。請留盤石上，垂釣將已矣！",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "言入黄花川，",
       "每逐青谿水；",
@@ -596,7 +601,8 @@
         "file": "唐诗三百首.json",
         "index": 72,
         "title": "青溪 / 过青溪水作",
-        "author": "王维"
+        "author": "王维",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

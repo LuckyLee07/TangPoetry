@@ -63,15 +63,90 @@ def ruby_lines(poem, editorial):
     return lines
 
 
+def commentary_entries():
+    entries = {}
+    for path in sorted((ROOT / "data/commentary").glob("*.json")):
+        batch = json.loads(path.read_text())["poems"]
+        assert not entries.keys() & batch.keys(), f"Duplicate commentary: {path}"
+        entries.update(batch)
+    return entries
+
+
+def note_key(text):
+    return re.sub(r"[\W_]+", "", re.sub(r"^[：:\s]*\d+[.．、]\s*", "", text))
+
+
+def reading_notes(poem, commentary, corrections=()):
+    """Rejoin source HTML line wraps; separate meanings, glosses and textual variants."""
+    grouped = []
+    for raw in poem.get("notes", []):
+        text = raw["text"].strip().lstrip("：:")
+        if not text:
+            continue
+        for correction in poem.get("corrections", []):
+            if correction.get("original") == "□":
+                text = text.replace("□", correction["replacement"])
+        if (raw["source"] == "chiuinan" and grouped
+                and grouped[-1]["source"] == raw["source"]
+                and not re.match(r"^\d+[.．、]", text)):
+            grouped[-1]["text"] += text
+        else:
+            grouped.append({"text": text, "source": raw["source"]})
+
+    variants = [dict(note) for note in poem.get("variants", [])]
+    annotations = []
+    applied = set()
+    for note in grouped:
+        note["text"] = re.sub(r"^\d+[.．、]\s*", "", note["text"])
+        for index, correction in enumerate(corrections):
+            if note["source"] == correction["source"] and note["text"] == correction["original"]:
+                note["text"] = correction["replacement"]
+                applied.add(index)
+        # This imported note combines a variant with a definition in one sentence.
+        if re.fullmatch(r'挂帆席--一作\s*[“"]洞庭去[”"]，\s*扬帆驶船。', note["text"]):
+            annotations.append({"text": "挂帆席：扬帆驶船。", "source": note["source"]})
+            note["text"] = "挂帆席，一作“洞庭去”。"
+        if re.search(r"一作|又作|另作|本作|应作|应以.+为正", note["text"]):
+            variants.append(note)
+        else:
+            annotations.append(note)
+    assert len(applied) == len(corrections), f"Stale reading-note correction: {poem.get('id')}"
+
+    # Original editorial glosses can replace the same headword's imported definition.
+    # The complete source notes remain unchanged in data/final for traceability.
+    glossary = commentary.get("glossary", [])
+    terms = {note_key(item["term"]) for item in glossary}
+    annotations = [note for note in annotations
+                   if note_key(re.split(r"[：:]", note["text"], maxsplit=1)[0]) not in terms]
+    annotations = [{"text": f"{item['term']}：{item['text']}", "source": "编辑释义"}
+                   for item in glossary] + annotations
+
+    def unique(notes):
+        result, seen = [], set()
+        for note in notes:
+            key = note_key(note["text"])
+            if key and key not in seen:
+                seen.add(key)
+                result.append(note)
+        return result
+
+    return unique(annotations), unique(variants)
+
+
 def build():
     source = read("data/final/tang_poems_final.json")
     editorial = read("data/editorial.json")["poems"]
+    commentary = commentary_entries()
+    note_corrections = read("data/note-corrections.json")["poems"]
+    assert commentary.keys() == {p["id"] for p in source["poems"]}, "Commentary must cover the entire edition"
     visuals = read("data/visuals.json")
     art_plan_path = ROOT / "data/illustrations/plan.json"
     art_plan = read("data/illustrations/plan.json")["poems"] if art_plan_path.exists() else {}
-    catalog, missing = [], []
+    catalog, missing, details = [], [], []
     for poem in source["poems"]:
         edit = editorial.get(poem["id"], {})
+        explanation = commentary[poem["id"]]
+        assert explanation["summary"].strip() and explanation["interpretation"], poem["id"]
         theme = edit.get("theme", theme_for(poem))
         candidate = edit.get("image") or art_plan.get(poem["id"], {}).get("image") or visuals.get(poem["id"], {}).get("image", "")
         dedicated = bool(candidate and (ROOT / candidate).is_file())
@@ -92,14 +167,17 @@ def build():
             if key in edit:
                 item[key] = edit[key]
         catalog.append(item)
-        notes = list(dict.fromkeys(n["text"] for n in poem.get("notes", []) if n.get("text")))
+        annotations, variants = reading_notes(poem, explanation, note_corrections.get(poem["id"], []))
         detail = {
             "id": poem["id"], "title": title, "author": poem["author"],
-            "rubyLines": ruby_lines(poem, edit), "noteTitle": edit.get("noteTitle", "字词小注"),
-            "note": edit.get("note", "；".join(notes[:2])), "notes": notes,
-            "contentStatus": edit.get("contentStatus", "source-import"),
+            "rubyLines": ruby_lines(poem, edit), "noteTitle": edit.get("noteTitle", "诗意"),
+            "note": explanation["summary"], "interpretation": explanation["interpretation"],
+            "annotations": annotations, "variants": variants, "preface": poem.get("preface", []),
+            "notes": [note["text"] for note in annotations],
+            "contentStatus": explanation["reviewStatus"],
             "sourceTitle": poem["title"], "layout": edit.get("layout", "center-low")
         }
+        details.append(detail)
         write(OUT / "poems" / f"{poem['id']}.json", detail)
     section_rank = {section: rank for rank, section in enumerate(SECTION_ORDER)}
     unknown_sections = {poem["section"] for poem in catalog} - section_rank.keys()
@@ -112,7 +190,11 @@ def build():
                      for section in SECTION_ORDER],
         "dedicatedArt": sum(p["dedicatedArt"] for p in catalog),
         "artRemaining": sum(not p["dedicatedArt"] for p in catalog),
-        "notesMissing": sum(not p["notes"] for p in source["poems"]),
+        "notesMissing": sum(not p["note"].strip() for p in details),
+        "interpretationsMissing": sum(not p["interpretation"] for p in details),
+        "sourceNotesMissing": sum(not p["notes"] for p in source["poems"]),
+        "poemsWithPreface": sum(bool(p["preface"]) for p in details),
+        "poemsWithVariants": sum(bool(p["variants"]) for p in details),
         "unavailablePlannedArt": missing, "missingSourceOrders": source["stats"]["missingCtextOrders"]
     })
     print(f"Built {len(catalog)} poems, {sum(p['featured'] for p in catalog)} featured, {sum(p['dedicatedArt'] for p in catalog)} dedicated illustrations; {len(missing)} planned assets use fallback.")

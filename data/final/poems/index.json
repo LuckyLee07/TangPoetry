@@ -1,8 +1,8 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
-  "poemCount": 317,
+  "poemCount": 320,
   "poems": [
     {
       "id": "tang-001-gan-yu-qi-yi",
@@ -339,6 +339,14 @@
       "title": "子夜四时歌冬歌",
       "author": "李白",
       "path": "poems/042-tang-042-zi-ye-si-shi-ge-dong-ge.json"
+    },
+    {
+      "id": "tang-043-chang-gan-xing",
+      "order": 43,
+      "section": "乐府",
+      "title": "长干行",
+      "author": "李白",
+      "path": "poems/043-tang-043-chang-gan-xing.json"
     },
     {
       "id": "tang-044-lie-nv-cao",
@@ -856,7 +864,7 @@
       "id": "tang-108-zhi-de-er-zai-fu-zi-jing-jin-guang-men-chu-wen-dao-gui-feng-xiang-qian-yuan-chu-",
       "order": 108,
       "section": "五言律诗",
-      "title": "至德二载甫自京金光门出，问道归凤翔。乾元初从左拾遗移华州掾。与亲故别，因出此门。有悲往事。",
+      "title": "至德二载甫自京金光门出，间道归凤翔。乾元初从左拾遗移华州掾。与亲故别，因出此门。有悲往事。",
       "author": "杜甫",
       "path": "poems/108-tang-108-zhi-de-er-zai-fu-zi-jing-jin-guang-men-chu-wen-dao-gui-feng-xiang-qian-yuan-chu-.json"
     },
@@ -1061,6 +1069,14 @@
       "path": "poems/133-tang-133-qiu-ri-deng-wu-gong-tai-shang-si-yuan-tiao.json"
     },
     {
+      "id": "tang-134-song-li-zhong-cheng-gui-han-yang-bie-ye",
+      "order": 134,
+      "section": "五言律诗",
+      "title": "送李中丞归汉阳别业",
+      "author": "刘长卿",
+      "path": "poems/134-tang-134-song-li-zhong-cheng-gui-han-yang-bie-ye.json"
+    },
+    {
       "id": "tang-135-jian-bie-wang-shi-yi-nan-you",
       "order": 135,
       "section": "五言律诗",
@@ -1129,7 +1145,7 @@
       "order": 143,
       "section": "五言律诗",
       "title": "阙题",
-      "author": "刘脊虚",
+      "author": "刘昚虚",
       "path": "poems/143-tang-143-que-ti.json"
     },
     {
@@ -2203,6 +2219,14 @@
       "title": "征人怨",
       "author": "柳中庸",
       "path": "poems/277-tang-277-zheng-ren-yuan.json"
+    },
+    {
+      "id": "tang-278-gong-ci",
+      "order": 278,
+      "section": "七言绝句",
+      "title": "宫词",
+      "author": "顾况",
+      "path": "poems/278-tang-278-gong-ci.json"
     },
     {
       "id": "tang-279-ye-shang-shou-xiang-cheng-wen-di",

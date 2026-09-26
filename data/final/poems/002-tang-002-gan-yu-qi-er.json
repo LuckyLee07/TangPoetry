@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-002-gan-yu-qi-er",
@@ -29,6 +29,11 @@
     ],
     "text": "兰叶春葳蕤，桂华秋皎洁；欣欣此生意，自尔为佳节。谁知林栖者？闻风坐相悦，草木有本心，何求美人折？",
     "textTraditional": "蘭葉春葳蕤，桂華秋皎潔；欣欣此生意，自爾為佳節。誰知林棲者？聞風坐相悅，草木有本心，何求美人折？",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "兰叶春葳蕤，",
       "桂华秋皎洁；",
@@ -471,7 +476,8 @@
         "file": "唐诗三百首.json",
         "index": 263,
         "title": "感遇十二首·其一",
-        "author": "张九龄"
+        "author": "张九龄",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

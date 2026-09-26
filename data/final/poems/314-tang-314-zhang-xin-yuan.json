@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-314-zhang-xin-yuan",
@@ -24,6 +24,11 @@
     ],
     "text": "奉帚平明金殿开，且将团扇共徘徊。玉颜不及寒鸦色，犹带昭阳日影来。",
     "textTraditional": "奉帚平明金殿開，且將團扇共徘徊。玉顏不及寒鴉色，猶帶昭陽日影來。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "奉帚平明金殿开，",
       "且将团扇共徘徊。",
@@ -333,7 +338,8 @@
         "file": "唐诗三百首.json",
         "index": 199,
         "title": "长信怨",
-        "author": "王昌龄"
+        "author": "王昌龄",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

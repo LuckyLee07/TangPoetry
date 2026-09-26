@@ -1,0 +1,360 @@
+{
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
+  "sourceFile": "data/final/tang_poems_final.json",
+  "poem": {
+    "id": "tang-278-gong-ci",
+    "order": 278,
+    "section": "七言绝句",
+    "title": "宫词",
+    "titleTraditional": "宮詞",
+    "author": "顾况",
+    "authorTraditional": "顧況",
+    "dynasty": "唐代",
+    "aliases": [
+      "宫词"
+    ],
+    "lines": [
+      "玉楼天半起笙歌，风送宫嫔笑语和。",
+      "月殿影开闻夜漏，水晶帘卷近秋河。"
+    ],
+    "linesTraditional": [
+      "玉樓天半起笙歌，風送宮嬪笑語和。",
+      "月殿影開聞夜漏，水晶簾捲近秋河。"
+    ],
+    "text": "玉楼天半起笙歌，风送宫嫔笑语和。月殿影开闻夜漏，水晶帘卷近秋河。",
+    "textTraditional": "玉樓天半起笙歌，風送宮嬪笑語和。月殿影開聞夜漏，水晶簾捲近秋河。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
+    "displayLines": [
+      "玉楼天半起笙歌，",
+      "风送宫嫔笑语和。",
+      "月殿影开闻夜漏，",
+      "水晶帘卷近秋河。"
+    ],
+    "displayRubyLines": [
+      [
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "半",
+          "bàn"
+        ],
+        [
+          "起",
+          "qǐ"
+        ],
+        [
+          "笙",
+          "shēng"
+        ],
+        [
+          "歌",
+          "gē"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "送",
+          "sòng"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "嫔",
+          "pín"
+        ],
+        [
+          "笑",
+          "xiào"
+        ],
+        [
+          "语",
+          "yǔ"
+        ],
+        [
+          "和",
+          "hé"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "殿",
+          "diàn"
+        ],
+        [
+          "影",
+          "yǐng"
+        ],
+        [
+          "开",
+          "kāi"
+        ],
+        [
+          "闻",
+          "wén"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "漏",
+          "lòu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "晶",
+          "jīng"
+        ],
+        [
+          "帘",
+          "lián"
+        ],
+        [
+          "卷",
+          "juǎn"
+        ],
+        [
+          "近",
+          "jìn"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "河",
+          "hé"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "rubyLines": [
+      [
+        [
+          "玉",
+          "yù"
+        ],
+        [
+          "楼",
+          "lóu"
+        ],
+        [
+          "天",
+          "tiān"
+        ],
+        [
+          "半",
+          "bàn"
+        ],
+        [
+          "起",
+          "qǐ"
+        ],
+        [
+          "笙",
+          "shēng"
+        ],
+        [
+          "歌",
+          "gē"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "风",
+          "fēng"
+        ],
+        [
+          "送",
+          "sòng"
+        ],
+        [
+          "宫",
+          "gōng"
+        ],
+        [
+          "嫔",
+          "pín"
+        ],
+        [
+          "笑",
+          "xiào"
+        ],
+        [
+          "语",
+          "yǔ"
+        ],
+        [
+          "和",
+          "hé"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ],
+      [
+        [
+          "月",
+          "yuè"
+        ],
+        [
+          "殿",
+          "diàn"
+        ],
+        [
+          "影",
+          "yǐng"
+        ],
+        [
+          "开",
+          "kāi"
+        ],
+        [
+          "闻",
+          "wén"
+        ],
+        [
+          "夜",
+          "yè"
+        ],
+        [
+          "漏",
+          "lòu"
+        ],
+        [
+          "，",
+          ""
+        ],
+        [
+          "水",
+          "shuǐ"
+        ],
+        [
+          "晶",
+          "jīng"
+        ],
+        [
+          "帘",
+          "lián"
+        ],
+        [
+          "卷",
+          "juǎn"
+        ],
+        [
+          "近",
+          "jìn"
+        ],
+        [
+          "秋",
+          "qiū"
+        ],
+        [
+          "河",
+          "hé"
+        ],
+        [
+          "。",
+          ""
+        ]
+      ]
+    ],
+    "notes": [
+      {
+        "source": "chiuinan",
+        "text": "1.玉楼：华贵的楼，用称宫女的住所。"
+      },
+      {
+        "source": "chiuinan",
+        "text": "2.秋河：即天河。"
+      }
+    ],
+    "tags": [
+      "七言绝句"
+    ],
+    "english": {
+      "headingRaw": "Seven-character-quatrainGuKuangAPALACEPOEM",
+      "translationRaw": "Highabove，fromajadechamber，songsfloathalf-waytoheaven，Thepalace-girls』gayvoicesaremingledwiththewind--Butnowtheyarestill，andyouhearawater-clockdripintheCourtoftheMoon。。。。Theyhaveopenedthecurtainwide，theyarefacingtheRiverofStars。",
+      "translationClean": "Highabove, fromajadechamber, songsfloathalf-waytoheaven, Thepalace-girls'gayvoicesaremingledwiththewind--Butnowtheyarestill, andyouhearawater-clockdripintheCourtoftheMoon.... Theyhaveopenedthecurtainwide, theyarefacingtheRiverofStars.",
+      "segments": [
+        "Highabove, fromajadechamber, songsfloathalf-waytoheaven, Thepalace-girls'gayvoicesaremingledwiththewind--Butnowtheyarestill, andyouhearawater-clockdripintheCourtoftheMoon....",
+        "Theyhaveopenedthecurtainwide, theyarefacingtheRiverofStars."
+      ],
+      "quality": "raw-spacing-lost"
+    },
+    "sourceRefs": {
+      "base": {
+        "file": "data/sources/ctext_clean.json",
+        "index": null,
+        "title": "宫词",
+        "author": "顾况",
+        "supplemented": true
+      },
+      "order": {
+        "source": "ctext",
+        "confidence": "direct-source",
+        "score": 1.0
+      },
+      "ctext": {
+        "matched": true,
+        "order": 278,
+        "url": "https://ctext.org/wiki.pl?if=en&chapter=820428"
+      },
+      "chiuinan": {
+        "matched": true,
+        "order": 151,
+        "score": 1,
+        "url": "https://chiuinan.github.io/game/game/cin/poem300.htm"
+      },
+      "tang300New": {
+        "matched": true,
+        "id": "aa9f9e4d-aa34-496e-89cf-cfef61efa89d",
+        "score": 0.9286
+      }
+    }
+  }
+}

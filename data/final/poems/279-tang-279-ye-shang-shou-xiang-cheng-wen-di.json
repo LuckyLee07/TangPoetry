@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-279-ye-shang-shou-xiang-cheng-wen-di",
@@ -24,6 +24,11 @@
     ],
     "text": "回乐峰前沙似雪，受降城外月如霜。不知何处吹芦管，一夜征人尽望乡。",
     "textTraditional": "回樂峰前沙似雪，受降城外月如霜。不知何處吹蘆管，一夜征人盡望鄉。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "回乐峰前沙似雪，",
       "受降城外月如霜。",
@@ -321,7 +326,8 @@
         "file": "唐诗三百首.json",
         "index": 269,
         "title": "夜上受降城闻笛",
-        "author": "李益"
+        "author": "李益",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

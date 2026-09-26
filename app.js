@@ -1,7 +1,8 @@
-import { parseStored, sanitizeSettings, migrateFavorites, filterPoems, initialIndex, createPoemLoader, readingLayout } from './reader-core.js?v=0.3.8';
+import { parseStored, sanitizeSettings, migrateFavorites, filterPoems, initialIndex, createPoemLoader } from './reader-core.js?v=0.4.0';
+
+import { escapeHTML, layoutReadingPage, poemMarkup, notesMarkup } from './reader-renderer.js?v=0.4.0';
 
 const $ = selector => document.querySelector(selector);
-const escapeHTML = value => String(value ?? '').replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
 const keys = { favorites: 'tang-favorites-v2', settings: 'tang-settings-v1', position: 'tang-position-v1' };
 const storage = {
   read(key, fallback) { try { return parseStored(localStorage.getItem(key), fallback); } catch { return fallback; } },
@@ -48,53 +49,15 @@ function setHome(visible) {
   if (visible) { $('#startReading').textContent = currentIndex ? '续读' : '入卷'; $('#startReading').focus(); }
 }
 
-function verses(lines) {
-  return lines.map(line => {
-    const text = line.map(([character]) => character).join('');
-    const characters = [...text];
-    const lastCharacter = characters.findLastIndex(character => !/\p{Punctuation}/u.test(character));
-    const cells = [];
-    for (const [index, character] of characters.entries()) {
-      if (index > lastCharacter && cells.length) cells.at(-1).marks += character;
-      else cells.push({ character, marks: '' });
-    }
-    const endSpace = Math.max(1, [...(cells.at(-1)?.marks || '')].length);
-    return `<div class="verse-line" role="group" style="--end-space:${endSpace}em" aria-label="${escapeHTML(text)}">${cells.map(cell => `<span class="verse-cell" aria-hidden="true">${escapeHTML(cell.character)}${cell.marks ? `<span class="verse-punctuation">${escapeHTML(cell.marks)}</span>` : ''}</span>`).join('')}</div>`;
-  }).join('');
-}
 function layoutPage(element) {
-  const detail = pageDetails.get(element);
-  if (!detail || !element.querySelector('.poem-body')) return;
-  const layout = readingLayout(detail, { width: pages.clientWidth, height: pages.clientHeight, fontSize: settings.fontSize, notesEnabled: settings.notes });
-  element.dataset.layout = layout.kind;
-  for (const [name, value] of Object.entries({ 'poem-top': layout.baseTop, 'poem-bottom': layout.bottom, 'poem-size': layout.fontSize, 'title-size': layout.titleSize, 'note-gap': layout.noteGap })) {
-    element.style.setProperty(`--${name}`, `${value}px`);
-  }
-  element.style.setProperty('--verse-leading', layout.lineHeight);
-  // Account for actual fonts, title wrapping and browser scrollbar width after the estimate.
-  const body = element.querySelector('.poem-body');
-  const text = element.querySelector('.poem-text');
-  let size = layout.fontSize;
-  // Keep the existing type size while the poem moves and the note gains breathing room.
-  while (layout.fitWhole && size > layout.minimumFont && text.scrollHeight > body.clientHeight - layout.textRise - 21) {
-    size = Math.max(layout.minimumFont, size - 0.5);
-    element.style.setProperty('--poem-size', `${size}px`);
-  }
-  if (!layout.hasVisibleNotes) {
-    // Measure after fitting so wrapped titles and large text keep their scrolling room.
-    const noNoteShift = Math.max(0, Math.min(60, (body.clientHeight - text.scrollHeight - 21) / 2));
-    element.style.setProperty('--poem-top', `${layout.baseTop + noNoteShift}px`);
-  }
+  layoutReadingPage(element, pageDetails.get(element), { width: pages.clientWidth, height: pages.clientHeight, fontSize: settings.fontSize, notesEnabled: settings.notes });
 }
 function layoutMountedPages() {
   for (const element of shells) if (element.childNodes.length) layoutPage(element);
 }
 function renderPage(element, poem, detail) {
   pageDetails.set(element, { ...detail, section: poem.section, textStart: poem.textStart });
-  element.innerHTML = `<figure class="scene" aria-hidden="true"><img src="./${escapeHTML(poem.image)}" alt="" decoding="async" /></figure>
-    <div class="book-ribbon">${escapeHTML(poem.section)}</div>
-    <div class="poem-body" tabindex="0" aria-label="${escapeHTML(poem.title)}全文"><div class="poem-text"><h2 class="poem-title">${escapeHTML(poem.title)}</h2><p class="poem-author">唐 · ${escapeHTML(poem.author)}</p><div class="poem-lines">${verses(detail.rubyLines)}</div></div>
-    ${detail.note?.trim() ? `<section class="note"><h3>${escapeHTML(detail.noteTitle)}</h3><p>${escapeHTML(detail.note)}</p><button class="note-more" data-notes="${poem.id}" aria-label="查看${escapeHTML(poem.title)}的完整诗意和注释">展开</button></section>` : ''}</div>`;
+  element.innerHTML = poemMarkup(poem, detail);
   const image = element.querySelector('img');
   image.addEventListener('error', () => image.remove(), { once: true });
   layoutPage(element);
@@ -169,7 +132,8 @@ function openLibrary(collection) {
 async function openNotes(id) {
   try {
     const poem = await loader.load(id);
-    $('#fullNotes').innerHTML = `<h3>${escapeHTML(poem.title)}</h3><p>${escapeHTML(poem.note)}</p>${poem.notes.length ? `<ul>${poem.notes.map(note => `<li>${escapeHTML(note)}</li>`).join('')}</ul>` : ''}`;
+    $('#notesTitle').textContent = poem.title;
+    $('#fullNotes').innerHTML = notesMarkup(poem);
     $('#notesDialog').showModal();
   } catch { $('#readerStatus').textContent = '注释暂时无法打开，请稍后重试。'; }
 }

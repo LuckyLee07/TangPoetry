@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-267-liang-zhou-ci",
@@ -25,6 +25,11 @@
     ],
     "text": "葡萄美酒夜光杯，欲饮琵琶马上催。醉卧沙场君莫笑，古来征战几人回。",
     "textTraditional": "葡萄美酒夜光杯，欲飲琵琶馬上催。醉臥沙場君莫笑，古來征戰幾人回。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "葡萄美酒夜光杯，",
       "欲饮琵琶马上催。",
@@ -323,7 +328,8 @@
         "file": "唐诗三百首.json",
         "index": 179,
         "title": "凉州词二首·其一",
-        "author": "王翰"
+        "author": "王翰",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

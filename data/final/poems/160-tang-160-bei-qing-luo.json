@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-160-bei-qing-luo",
@@ -30,6 +30,11 @@
     ],
     "text": "残阳西入崦，茅屋访孤僧。落叶人何在？寒云路几层。独敲初夜磬，闲倚一枝藤。世界微尘里，吾宁爱与憎。",
     "textTraditional": "殘陽西入崦，茅屋訪孤僧。落葉人何在？寒雲路幾層。獨敲初夜磬，閑倚一枝藤。世界微塵裡，吾寧愛與憎。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "残阳西入崦，",
       "茅屋访孤僧。",
@@ -419,7 +424,8 @@
         "file": "唐诗三百首.json",
         "index": 180,
         "title": "北青萝",
-        "author": "李商隐"
+        "author": "李商隐",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

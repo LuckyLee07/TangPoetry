@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-143-que-ti",
@@ -8,33 +8,89 @@
     "section": "五言律诗",
     "title": "阙题",
     "titleTraditional": "闕題",
-    "author": "刘脊虚",
-    "authorTraditional": "劉脊虛",
+    "author": "刘昚虚",
+    "authorTraditional": "劉昚虛",
     "dynasty": "唐代",
     "aliases": [
       "阙题"
     ],
     "lines": [
       "道由白云尽，春与青溪长。",
-      "时有落花至，远隋流水香。",
+      "时有落花至，远随流水香。",
       "闲门向山路，深柳读书堂。",
-      "幽映每白日，清辉照衣裳。",
-      "又作闲"
+      "幽映每白日，清辉照衣裳。"
     ],
     "linesTraditional": [
       "道由白雲盡，春與青溪長。",
-      "時有落花至，遠隋流水香。",
+      "時有落花至，遠隨流水香。",
       "閑門向山路，深柳讀書堂。",
-      "幽映每白日，清輝照衣裳。",
-      "又作閒"
+      "幽映每白日，清輝照衣裳。"
     ],
-    "text": "道由白云尽，春与青溪长。时有落花至，远隋流水香。闲门向山路，深柳读书堂。幽映每白日，清辉照衣裳。又作闲",
-    "textTraditional": "道由白雲盡，春與青溪長。時有落花至，遠隋流水香。閑門向山路，深柳讀書堂。幽映每白日，清輝照衣裳。又作閒",
+    "text": "道由白云尽，春与青溪长。时有落花至，远随流水香。闲门向山路，深柳读书堂。幽映每白日，清辉照衣裳。",
+    "textTraditional": "道由白雲盡，春與青溪長。時有落花至，遠隨流水香。閑門向山路，深柳讀書堂。幽映每白日，清輝照衣裳。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [
+      {
+        "text": "又作闲",
+        "textTraditional": "又作閒",
+        "source": "ctext",
+        "sourceUrl": "https://ctext.org/wiki.pl?if=en&chapter=820428",
+        "originalLine": "又作闲",
+        "originalLineTraditional": "又作閒",
+        "locationStatus": "source-does-not-identify-target"
+      }
+    ],
+    "corrections": [
+      {
+        "original": "远隋流水香",
+        "replacement": "远随流水香",
+        "originalTraditional": "遠隋流水香",
+        "replacementTraditional": "遠隨流水香",
+        "expectedCount": 1,
+        "reason": "随表示落花随水而至；隋为误录。",
+        "evidence": [
+          {
+            "file": "唐诗三百首.json",
+            "index": 167,
+            "excerpt": "时有落花至，远随流水香。"
+          },
+          {
+            "url": "https://zh.wikisource.org/zh-hans/闕題_(劉眘虛)",
+            "title": "《全唐诗》卷256《阙题》（维基文库）",
+            "excerpt": "时有落花至，远随流水香",
+            "checkedAt": "2026-09-26"
+          }
+        ]
+      }
+    ],
+    "metadataCorrections": {
+      "author": {
+        "original": "刘脊虚",
+        "replacement": "刘昚虚",
+        "originalTraditional": "劉脊虛",
+        "replacementTraditional": "劉昚虛",
+        "reason": "脊为选本录入讹字；昚与眘为异写，采用本地基础源作者名。",
+        "evidence": [
+          {
+            "file": "唐诗三百首.json",
+            "index": 167,
+            "excerpt": "刘昚虚"
+          },
+          {
+            "url": "https://www.gushiwen.cn/shiwenv_888beab9cc48.aspx",
+            "title": "刘昚虚《阙题》",
+            "excerpt": "刘昚虚",
+            "checkedAt": "2026-09-26"
+          }
+        ]
+      }
+    },
     "displayLines": [
       "道由白云尽，",
       "春与青溪长。",
       "时有落花至，",
-      "远隋流水香。"
+      "远随流水香。"
     ],
     "displayRubyLines": [
       [
@@ -117,7 +173,7 @@
           "yuǎn"
         ],
         [
-          "隋",
+          "随",
           "suí"
         ],
         [
@@ -319,7 +375,7 @@
           "yuǎn"
         ],
         [
-          "隋",
+          "随",
           "suí"
         ],
         [
@@ -438,20 +494,6 @@
           "。",
           ""
         ]
-      ],
-      [
-        [
-          "又",
-          "yòu"
-        ],
-        [
-          "作",
-          "zuò"
-        ],
-        [
-          "闲",
-          "xián"
-        ]
       ]
     ],
     "notes": [],
@@ -475,7 +517,8 @@
         "file": "唐诗三百首.json",
         "index": 167,
         "title": "阙题",
-        "author": "刘昚虚"
+        "author": "刘昚虚",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

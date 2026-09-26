@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-280-wu-yi-xiang",
@@ -24,6 +24,11 @@
     ],
     "text": "朱雀桥边野草花，乌衣巷口夕阳斜。旧时王谢堂前燕，飞入寻常百姓家。",
     "textTraditional": "朱雀橋邊野草花，烏衣巷口夕陽斜。舊時王謝堂前燕，飛入尋常百姓家。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "朱雀桥边野草花，",
       "乌衣巷口夕阳斜。",
@@ -325,7 +330,8 @@
         "file": "唐诗三百首.json",
         "index": 170,
         "title": "乌衣巷",
-        "author": "刘禹锡"
+        "author": "刘禹锡",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

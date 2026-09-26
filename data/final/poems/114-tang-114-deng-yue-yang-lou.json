@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-114-deng-yue-yang-lou",
@@ -28,6 +28,11 @@
     ],
     "text": "昔闻洞庭水，今上岳阳楼。吴楚东南坼，乾坤日夜浮。亲朋无一字，老病有孤舟。戎马关山北，凭轩涕泗流。",
     "textTraditional": "昔聞洞庭水，今上岳陽樓。吳楚東南坼，乾坤日夜浮。親朋無一字，老病有孤舟。戎馬關山北，憑軒涕泗流。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "昔闻洞庭水，",
       "今上岳阳楼。",
@@ -473,7 +478,8 @@
         "file": "唐诗三百首.json",
         "index": 236,
         "title": "登岳阳楼",
-        "author": "杜甫"
+        "author": "杜甫",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

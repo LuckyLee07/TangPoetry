@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-211-sui-gong",
@@ -28,6 +28,11 @@
     ],
     "text": "紫泉宫殿锁烟霞，欲取芜城作帝家。玉玺不缘归日角，锦帆应是到天涯。于今腐草无萤火，终古垂杨有暮鸦。地下若逢陈后主，岂宜重问后庭花？",
     "textTraditional": "紫泉宮殿鎖煙霞，欲取蕪城作帝家。玉璽不緣歸日角，錦帆應是到天涯。於今腐草無螢火，終古垂楊有暮鴉。地下若逢陳後主，豈宜重問後庭花？",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "紫泉宫殿锁烟霞，",
       "欲取芜城作帝家。",
@@ -605,7 +610,8 @@
         "file": "唐诗三百首.json",
         "index": 14,
         "title": "隋宫",
-        "author": "李商隐"
+        "author": "李商隐",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-268-song-meng-hao-ran-zhi-guang-ling",
@@ -25,6 +25,11 @@
     ],
     "text": "故人西辞黄鹤楼，烟花三月下扬州。孤帆远影碧空尽，惟见长江天际流。",
     "textTraditional": "故人西辭黃鶴樓，煙花三月下揚州。孤帆遠影碧空盡，惟見長江天際流。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "故人西辞黄鹤楼，",
       "烟花三月下扬州。",
@@ -353,7 +358,8 @@
         "file": "唐诗三百首.json",
         "index": 261,
         "title": "黄鹤楼送孟浩然之广陵",
-        "author": "李白"
+        "author": "李白",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

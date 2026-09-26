@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-303-chang-e",
@@ -24,6 +24,11 @@
     ],
     "text": "云母屏风烛影深，长河渐落晓星沈。嫦娥应悔偷灵药，碧海青天夜夜心。",
     "textTraditional": "雲母屏風燭影深，長河漸落曉星沈。嫦娥應悔偷靈藥，碧海青天夜夜心。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "云母屏风烛影深，",
       "长河渐落晓星沈。",
@@ -321,7 +326,8 @@
         "file": "唐诗三百首.json",
         "index": 252,
         "title": "嫦娥",
-        "author": "李商隐"
+        "author": "李商隐",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

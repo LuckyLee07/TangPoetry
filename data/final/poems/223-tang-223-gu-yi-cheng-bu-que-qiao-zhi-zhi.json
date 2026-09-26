@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-223-gu-yi-cheng-bu-que-qiao-zhi-zhi",
@@ -19,18 +19,31 @@
       "卢家少妇郁金香，海燕双栖玳瑁梁。",
       "九月寒砧催木叶，十年征戍忆辽阳。",
       "白狼河北音书断，丹凤城南秋夜长。",
-      "谁为含愁独不见，更教明月照流黄。",
-      "又作独不见"
+      "谁为含愁独不见，更教明月照流黄。"
     ],
     "linesTraditional": [
       "盧家少婦鬱金香，海燕雙棲玳瑁梁。",
       "九月寒砧催木葉，十年征戍憶遼陽。",
       "白狼河北音書斷，丹鳳城南秋夜長。",
-      "誰為含愁獨不見，更教明月照流黃。",
-      "又作獨不見"
+      "誰為含愁獨不見，更教明月照流黃。"
     ],
-    "text": "卢家少妇郁金香，海燕双栖玳瑁梁。九月寒砧催木叶，十年征戍忆辽阳。白狼河北音书断，丹凤城南秋夜长。谁为含愁独不见，更教明月照流黄。又作独不见",
-    "textTraditional": "盧家少婦鬱金香，海燕雙棲玳瑁梁。九月寒砧催木葉，十年征戍憶遼陽。白狼河北音書斷，丹鳳城南秋夜長。誰為含愁獨不見，更教明月照流黃。又作獨不見",
+    "text": "卢家少妇郁金香，海燕双栖玳瑁梁。九月寒砧催木叶，十年征戍忆辽阳。白狼河北音书断，丹凤城南秋夜长。谁为含愁独不见，更教明月照流黄。",
+    "textTraditional": "盧家少婦鬱金香，海燕雙棲玳瑁梁。九月寒砧催木葉，十年征戍憶遼陽。白狼河北音書斷，丹鳳城南秋夜長。誰為含愁獨不見，更教明月照流黃。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [
+      {
+        "text": "又作独不见",
+        "textTraditional": "又作獨不見",
+        "source": "ctext",
+        "sourceUrl": "https://ctext.org/wiki.pl?if=en&chapter=820428",
+        "originalLine": "又作独不见",
+        "originalLineTraditional": "又作獨不見",
+        "locationStatus": "source-does-not-identify-target"
+      }
+    ],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "卢家少妇郁金香，",
       "海燕双栖玳瑁梁。",
@@ -567,28 +580,6 @@
           "。",
           ""
         ]
-      ],
-      [
-        [
-          "又",
-          "yòu"
-        ],
-        [
-          "作",
-          "zuò"
-        ],
-        [
-          "独",
-          "dú"
-        ],
-        [
-          "不",
-          "bú"
-        ],
-        [
-          "见",
-          "jiàn"
-        ]
       ]
     ],
     "notes": [
@@ -618,7 +609,8 @@
         "file": "唐诗三百首.json",
         "index": 305,
         "title": "古意呈补阙乔知之 / 独不见",
-        "author": "沈佺期"
+        "author": "沈佺期",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-075-gu-cong-jun-xing",
@@ -32,6 +32,11 @@
     ],
     "text": "白日登山望烽火，黄昏饮马傍交河。行人刁斗风沙暗，公主琵琶幽怨多。野云万里无城郭，雨雪纷纷连大漠。胡雁哀鸣夜夜飞，胡儿眼泪双双落。闻道玉门犹被遮，应将性命逐轻车。年年战骨埋荒外，空见葡萄入汉家。",
     "textTraditional": "白日登山望烽火，黃昏飲馬傍交河。行人刁鬥風沙暗，公主琵琶幽怨多。野雲萬里無城郭，雨雪紛紛連大漠。胡雁哀鳴夜夜飛，胡兒眼淚雙雙落。聞道玉門猶被遮，應將性命逐輕車。年年戰骨埋荒外，空見葡萄入漢家。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "白日登山望烽火，",
       "黄昏饮马傍交河。",
@@ -735,7 +740,8 @@
         "file": "唐诗三百首.json",
         "index": 115,
         "title": "古从军行",
-        "author": "李颀"
+        "author": "李颀",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

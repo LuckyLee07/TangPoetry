@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-102-song-you-ren",
@@ -28,6 +28,11 @@
     ],
     "text": "青山横北郭，白水遶东城。此地一为别，孤蓬万里征。浮云游子意，落日故人情。挥手自兹去，萧萧班马鸣。",
     "textTraditional": "青山橫北郭，白水遶東城。此地一為別，孤蓬萬里征。浮雲游子意，落日故人情。揮手自茲去，蕭蕭班馬鳴。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "青山横北郭，",
       "白水遶东城。",
@@ -470,7 +475,8 @@
         "file": "唐诗三百首.json",
         "index": 241,
         "title": "送友人",
-        "author": "李白"
+        "author": "李白",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

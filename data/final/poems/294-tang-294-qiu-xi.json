@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-294-qiu-xi",
@@ -24,6 +24,11 @@
     ],
     "text": "银烛秋光冷画屏，轻罗小扇扑流萤。天阶夜色凉如水，坐看牵牛织女星。",
     "textTraditional": "銀燭秋光冷畫屏，輕羅小扇撲流螢。天階夜色涼如水，坐看牽牛織女星。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "银烛秋光冷画屏，",
       "轻罗小扇扑流萤。",
@@ -327,7 +332,8 @@
         "file": "唐诗三百首.json",
         "index": 231,
         "title": "秋夕",
-        "author": "杜牧"
+        "author": "杜牧",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

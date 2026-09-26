@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-232-chun-xiao",
@@ -24,6 +24,11 @@
     ],
     "text": "春眠不觉晓，处处闻啼鸟。夜来风雨声，花落知多少。",
     "textTraditional": "春眠不覺曉，處處聞啼鳥。夜來風雨聲，花落知多少。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "春眠不觉晓，",
       "处处闻啼鸟。",
@@ -257,7 +262,8 @@
         "file": "唐诗三百首.json",
         "index": 254,
         "title": "春晓",
-        "author": "孟浩然"
+        "author": "孟浩然",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-281-chun-ci",
@@ -25,6 +25,11 @@
     ],
     "text": "新妆宜面下朱楼，深锁春光一院愁。行到中庭数花朵，蜻蜓飞上玉搔头。",
     "textTraditional": "新妝宜面下朱樓，深鎖春光一院愁。行到中庭數花朵，蜻蜓飛上玉搔頭。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "新妆宜面下朱楼，",
       "深锁春光一院愁。",
@@ -330,7 +335,8 @@
         "file": "唐诗三百首.json",
         "index": 97,
         "title": "和乐天春词",
-        "author": "刘禹锡"
+        "author": "刘禹锡",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

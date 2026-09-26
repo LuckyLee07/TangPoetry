@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-203-deng-liu-zhou-cheng-lou-ji-zhang-ting-feng-lian-si-zhou-ci-shi",
@@ -29,6 +29,11 @@
     ],
     "text": "城上高楼接大荒，海天愁思正茫茫。惊风乱飐芙蓉水，密雨斜侵薜荔墙。岭树重遮千里目，江流曲似九回肠。共来百越文身地，犹自音书滞一乡。",
     "textTraditional": "城上高樓接大荒，海天愁思正茫茫。驚風亂颭芙蓉水，密雨斜侵薜荔牆。嶺樹重遮千里目，江流曲似九迴腸。共來百越文身地，猶自音書滯一鄉。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "城上高楼接大荒，",
       "海天愁思正茫茫。",
@@ -608,7 +613,8 @@
         "file": "唐诗三百首.json",
         "index": 237,
         "title": "登柳州城楼寄漳汀封连四州",
-        "author": "柳宗元"
+        "author": "柳宗元",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

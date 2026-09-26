@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-227-xiang-si",
@@ -24,6 +24,11 @@
     ],
     "text": "红豆生南国，春来发几枝。愿君多采撷，此物最相思。",
     "textTraditional": "紅豆生南國，春來發幾枝。願君多採擷，此物最相思。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "红豆生南国，",
       "春来发几枝。",
@@ -269,7 +274,8 @@
         "file": "唐诗三百首.json",
         "index": 301,
         "title": "相思",
-        "author": "王维"
+        "author": "王维",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

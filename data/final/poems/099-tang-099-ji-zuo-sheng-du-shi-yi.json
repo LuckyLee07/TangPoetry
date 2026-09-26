@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-099-ji-zuo-sheng-du-shi-yi",
@@ -28,6 +28,11 @@
     ],
     "text": "联步趋丹陛，分曹限紫微。晓随天仗入，暮惹御香归。白发悲花落，青云羡鸟飞。圣朝无阙事，自觉谏书稀。",
     "textTraditional": "聯步趨丹陛，分曹限紫微。曉隨天仗入，暮惹禦香歸。白髮悲花落，青雲羨鳥飛。聖朝無闕事，自覺諫書稀。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "联步趋丹陛，",
       "分曹限紫微。",
@@ -474,7 +479,8 @@
         "file": "唐诗三百首.json",
         "index": 160,
         "title": "寄左省杜拾遗",
-        "author": "岑参"
+        "author": "岑参",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

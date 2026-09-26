@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-12T02:15:47+00:00",
+  "schemaVersion": "1.1.0",
+  "generatedAt": "2026-09-26T09:04:25+00:00",
   "sourceFile": "data/final/tang_poems_final.json",
   "poem": {
     "id": "tang-308-jin-ling-tu",
@@ -24,6 +24,11 @@
     ],
     "text": "江雨霏霏江草齐，六朝如梦鸟空啼。无情最是台城柳，依旧烟笼十里堤。",
     "textTraditional": "江雨霏霏江草齊，六朝如夢鳥空啼。無情最是臺城柳，依舊煙籠十里堤。",
+    "preface": [],
+    "prefaceTraditional": [],
+    "variants": [],
+    "corrections": [],
+    "metadataCorrections": {},
     "displayLines": [
       "江雨霏霏江草齐，",
       "六朝如梦鸟空啼。",
@@ -320,7 +325,8 @@
         "file": "唐诗三百首.json",
         "index": 76,
         "title": "金陵图",
-        "author": "韦庄"
+        "author": "韦庄",
+        "supplemented": false
       },
       "order": {
         "source": "ctext",

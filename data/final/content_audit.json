@@ -1,0 +1,2033 @@
+{
+  "schemaVersion": "1.0.0",
+  "status": "passed",
+  "sourceGeneratedAt": "2026-09-26T09:03:49+00:00",
+  "scope": "全320首结构、简繁正文回溯、单诗同步；213首固定体裁的句数与汉字数。该检查不等同于逐字版本学定本。",
+  "poemCount": 320,
+  "sourceOrdersComplete": true,
+  "archivedTextReconstructed": 320,
+  "legacyIdentitiesPreserved": 317,
+  "legacyIdentitySHA256": "1890ea0e0545575fbd39b30d957d29c9b6d1cef2f97f4792474f9de4b1eb1d9d",
+  "prefacePoemCount": 6,
+  "correctedTextPassages": 22,
+  "metadataCorrectionCount": 2,
+  "genreCounts": {
+    "五言古诗": 35,
+    "乐府": 44,
+    "七言古诗": 28,
+    "五言律诗": 80,
+    "七言律诗": 53,
+    "五言绝句": 29,
+    "七言绝句": 51
+  },
+  "fixedFormCount": 213,
+  "fixedFormResults": [
+    {
+      "id": "tang-090-jing-zou-lu-ji-kong-zi-er-tan-zhi",
+      "title": "经邹鲁祭孔子而叹之",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-091-wang-yue-huai-yuan",
+      "title": "望月怀远",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-092-song-du-shao-fu-zhi-ren-shu-zhou",
+      "title": "送杜少府之任蜀州",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-093-zai-yu-yong-chan-bing-xu",
+      "title": "在狱咏蝉并序",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-094-he-jin-ling-lu-cheng-zao-chun-you-wang",
+      "title": "和晋陵路丞早春游望",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-095-za-shi",
+      "title": "杂诗",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-096-ti-da-yu-ling-bei-yi",
+      "title": "题大庾岭北驿",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-097-ci-bei-gu-shan-xia",
+      "title": "次北固山下",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-098-ti-po-shan-si-hou-chan-yuan",
+      "title": "题破山寺后禅院",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-099-ji-zuo-sheng-du-shi-yi",
+      "title": "寄左省杜拾遗",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-100-zeng-meng-hao-ran",
+      "title": "赠孟浩然",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-101-du-jing-men-song-bie",
+      "title": "渡荆门送别",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-102-song-you-ren",
+      "title": "送友人",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-103-ting-shu-seng-jun-tan-qin",
+      "title": "听蜀僧濬弹琴",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-104-ye-po-niu-zhu-huai-gu",
+      "title": "夜泊牛渚怀古",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-105-yue-ye",
+      "title": "月夜",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-106-chun-wang",
+      "title": "春望",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-107-chun-su-zuo-sheng",
+      "title": "春宿左省",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-108-zhi-de-er-zai-fu-zi-jing-jin-guang-men-chu-wen-dao-gui-feng-xiang-qian-yuan-chu-",
+      "title": "至德二载甫自京金光门出，间道归凤翔。乾元初从左拾遗移华州掾。与亲故别，因出此门。有悲往事。",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-109-yue-ye-yi-she-di",
+      "title": "月夜忆舍弟",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-110-tian-mo-huai-li-bai",
+      "title": "天末怀李白",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-111-feng-ji-yi-zhong-song-yan-gong-si-yun",
+      "title": "奉济驿重送严公四韵",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-112-bie-fang-tai-wei-mu",
+      "title": "别房太尉墓",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-113-lv-ye-shu-huai",
+      "title": "旅夜书怀",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-114-deng-yue-yang-lou",
+      "title": "登岳阳楼",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-115-wang-chuan-xian-ju-zeng-pei-xiu-cai-di",
+      "title": "辋川闲居赠裴秀才迪",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-116-shan-ju-qiu-ming",
+      "title": "山居秋暝",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-117-gui-song-shan-zuo",
+      "title": "归嵩山作",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-118-zhong-nan-shan",
+      "title": "终南山",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-119-chou-zhang-shao-fu",
+      "title": "酬张少府",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-120-guo-xiang-ji-si",
+      "title": "过香积寺",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-121-song-zi-zhou-li-shi-jun",
+      "title": "送梓州李使君",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-122-han-jiang-lin-tiao",
+      "title": "汉江临眺",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-123-zhong-nan-bie-ye",
+      "title": "终南别业",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-124-wang-dong-ting-hu-zeng-zhang-cheng-xiang",
+      "title": "望洞庭湖赠张丞相",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-125-yu-zhu-zi-deng-xian-shan",
+      "title": "与诸子登岘山",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-126-qing-ming-ri-yan-mei-dao-shi-fang",
+      "title": "清明日宴梅道士房",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-127-sui-mu-gui-nan-shan",
+      "title": "岁暮归南山",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-128-guo-gu-ren-zhuang",
+      "title": "过故人庄",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-129-qin-zhong-gan-qiu-ji-yuan-shang-ren",
+      "title": "秦中感秋寄远上人",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-130-su-tong-lu-jiang-ji-guang-ling-jiu-you",
+      "title": "宿桐庐江寄广陵旧游",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-131-liu-bie-wang-shi-yu-wei",
+      "title": "留别王侍御维",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-132-zao-han-jiang-shang-you-huai",
+      "title": "早寒江上有怀",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-133-qiu-ri-deng-wu-gong-tai-shang-si-yuan-tiao",
+      "title": "秋日登吴公台上寺远眺",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-134-song-li-zhong-cheng-gui-han-yang-bie-ye",
+      "title": "送李中丞归汉阳别业",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-135-jian-bie-wang-shi-yi-nan-you",
+      "title": "饯别王十一南游",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-136-xun-nan-xi-chang-shan-dao-ren-yin-ju",
+      "title": "寻南溪常山道人隐居",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-137-xin-nian-zuo",
+      "title": "新年作",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-138-song-seng-gui-ri-ben",
+      "title": "送僧归日本",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-139-gu-kou-shu-zhai-ji-yang-bu-que",
+      "title": "谷口书斋寄杨补阙",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-140-huai-shang-xi-hui-liang-chuan-gu-ren",
+      "title": "淮上喜会梁川故人",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-141-fu-de-mu-yu-song-li-zhou",
+      "title": "赋得暮雨送李胄",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-142-chou-cheng-yan-qiu-ye-ji-shi-jian-zeng",
+      "title": "酬程延秋夜即事见赠",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-143-que-ti",
+      "title": "阙题",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-144-jiang-xiang-gu-ren-ou-ji-ke-she",
+      "title": "江乡故人偶集客舍",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-145-li-duan-gong",
+      "title": "李端公",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-146-xi-jian-wai-di-you-yan-bie",
+      "title": "喜见外弟又言别",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-147-yun-yang-guan-yu-han-shen-su-bie",
+      "title": "云阳馆与韩绅宿别",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-148-xi-wai-di-lu-lun-jian-su",
+      "title": "喜外弟卢纶见宿",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-149-zei-ping-hou-song-ren-bei-gui",
+      "title": "贼平后送人北归",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-150-shu-xian-zhu-miao",
+      "title": "蜀先主庙",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-151-mei-fan-gu-ren",
+      "title": "没蕃故人",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-152-fu-de-gu-yuan-cao-song-bie",
+      "title": "赋得古原草送别",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-153-lv-su",
+      "title": "旅宿",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-154-qiu-ri-fu-que-ti-tong-guan-yi-lou",
+      "title": "秋日赴阙题潼关驿楼",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-155-zao-qiu",
+      "title": "早秋",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-156-chan",
+      "title": "蝉",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-157-feng-yu",
+      "title": "风雨",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-158-luo-hua",
+      "title": "落花",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-159-liang-si",
+      "title": "凉思",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-160-bei-qing-luo",
+      "title": "北青萝",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-161-song-ren-dong-you",
+      "title": "送人东游",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-162-ba-shang-qiu-ju",
+      "title": "灞上秋居",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-163-chu-jiang-huai-gu",
+      "title": "楚江怀古",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-164-shu-bian-shi",
+      "title": "书边事",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-165-ba-shan-dao-zhong-chu-ye-you-huai",
+      "title": "巴山道中除夜有怀",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-166-gu-yan",
+      "title": "孤雁",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-167-chun-gong-yuan",
+      "title": "春宫怨",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-168-zhang-tai-ye-si",
+      "title": "章台夜思",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-169-xun-lu-hong-jian-bu-yu",
+      "title": "寻陆鸿渐不遇",
+      "section": "五言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-170-huang-he-lou",
+      "title": "黄鹤楼",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-171-xing-jing-hua-yin",
+      "title": "行经华阴",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-172-wang-ji-men",
+      "title": "望蓟门",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-173-song-wei-wan-zhi-jing",
+      "title": "送魏万之京",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-174-jiu-ri-deng-wang-xian-tai-cheng-liu-ming-fu",
+      "title": "九日登望仙台呈刘明府",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-175-deng-jin-ling-feng-huang-tai",
+      "title": "登金陵凤凰台",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-176-song-li-shao-fu-bian-xia-zhong-wang-shao-fu-bian-chang-sha",
+      "title": "送李少府贬峡中王少府贬长沙",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-177-feng-he-zhong-shu-she-ren-jia-zhi-zao-chao-da-ming-gong",
+      "title": "奉和中书舍人贾至早朝大明宫",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-178-he-jia-she-ren-zao-chao-da-ming-gong-zhi-zuo",
+      "title": "和贾舍人早朝大明宫之作",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-179-feng-he-sheng-zhi-cong-peng-lai-xiang-xing-qing-ge-dao-zhong-liu-chun-yu-zhong-c",
+      "title": "奉和圣制从蓬莱向兴庆阁道中留春雨中春望之作应制",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-180-ji-yu-wang-chuan-zhuang-zuo",
+      "title": "积雨辋川庄作",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-181-chou-guo-gei-shi",
+      "title": "酬郭给事",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-182-shu-xiang",
+      "title": "蜀相",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-183-ke-zhi",
+      "title": "客至",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-184-ye-wang",
+      "title": "野望",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-185-wen-guan-jun-shou-he-nan-he-bei",
+      "title": "闻官军收河南河北",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-186-deng-gao",
+      "title": "登高",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-187-deng-lou",
+      "title": "登楼",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-188-su-fu",
+      "title": "宿府",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-189-ge-ye",
+      "title": "阁夜",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-190-yong-huai-gu-ji-wu-shou-zhi-yi",
+      "title": "咏怀古迹五首之一",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-191-yong-huai-gu-ji-wu-shou-zhi-er",
+      "title": "咏怀古迹五首之二",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-192-yong-huai-gu-ji-wu-shou-zhi-san",
+      "title": "咏怀古迹五首之三",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-193-yong-huai-gu-ji-wu-shou-zhi-si",
+      "title": "咏怀古迹五首之四",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-194-yong-huai-gu-ji-wu-shou-zhi-wu",
+      "title": "咏怀古迹五首之五",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-195-jiang-zhou-zhong-bie-xue-liu-liu-ba-er-yuan-wai",
+      "title": "江州重别薛六柳八二员外",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-196-chang-sha-guo-jia-yi-zhai",
+      "title": "长沙过贾谊宅",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-197-zi-xia-kou-zhi-ying-zhou-xi-wang-yue-yang-ji-yuan-zhong-cheng",
+      "title": "自夏口至鹦洲夕望岳阳寄源中丞",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-198-zeng-que-xia-pei-she-ren",
+      "title": "赠阙下裴舍人",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-199-ji-li-dan-yuan-xi",
+      "title": "寄李儋元锡",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-200-tong-ti-xian-you-guan",
+      "title": "同题仙游观",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-201-chun-si",
+      "title": "春思",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-202-wan-ci-e-zhou",
+      "title": "晚次鄂州",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-203-deng-liu-zhou-cheng-lou-ji-zhang-ting-feng-lian-si-zhou-ci-shi",
+      "title": "登柳州城楼寄漳汀封连四州刺史",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-204-xi-sai-shan-huai-gu",
+      "title": "西塞山怀古",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-205-qian-bei-huai-zhi-yi",
+      "title": "遣悲怀之一",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-206-qian-bei-huai-zhi-er",
+      "title": "遣悲怀之二",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-207-qian-bei-huai-zhi-san",
+      "title": "遣悲怀之三",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-208-zi-he-nan-jing-luan-guan-nei-zu-ji-xiong-di-li-san-ge-zai-yi-chu-yin-wang-yue-yo",
+      "title": "自河南经乱，关内阻饥，兄弟离散，各在一处。因望月有感，聊书所怀，寄上浮梁大兄，於潜七兄，乌江十五兄，兼示符离及下邽弟妹。",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-209-jin-se",
+      "title": "锦瑟",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-210-wu-ti",
+      "title": "无题",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-211-sui-gong",
+      "title": "隋宫",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-212-wu-ti-zhi-yi",
+      "title": "无题之一",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-213-wu-ti-zhi-er",
+      "title": "无题之二",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-214-chou-bi-yi",
+      "title": "筹笔驿",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-215-wu-ti-zhi-san",
+      "title": "无题之三",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-216-chun-yu",
+      "title": "春雨",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-217-wu-ti-zhi-si",
+      "title": "无题之四",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-218-wu-ti-zhi-wu",
+      "title": "无题之五",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-219-li-zhou-nan-du",
+      "title": "利洲南渡",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-220-su-wu-miao",
+      "title": "苏武庙",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-221-gong-ci",
+      "title": "宫词",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-222-pin-nv",
+      "title": "贫女",
+      "section": "七言律诗",
+      "lineCount": 8,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-224-lu-chai",
+      "title": "鹿柴",
+      "section": "五言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-225-zhu-li-guan",
+      "title": "竹里馆",
+      "section": "五言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-226-song-bie",
+      "title": "送别",
+      "section": "五言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-227-xiang-si",
+      "title": "相思",
+      "section": "五言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-228-za-shi",
+      "title": "杂诗",
+      "section": "五言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-229-song-cui-jiu",
+      "title": "送崔九",
+      "section": "五言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-230-zhong-nan-wang-yu-xue",
+      "title": "终南望余雪",
+      "section": "五言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-231-su-jian-de-jiang",
+      "title": "宿建德江",
+      "section": "五言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-232-chun-xiao",
+      "title": "春晓",
+      "section": "五言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-233-ye-si",
+      "title": "夜思",
+      "section": "五言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-234-yuan-qing",
+      "title": "怨情",
+      "section": "五言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-235-ba-zhen-tu",
+      "title": "八阵图",
+      "section": "五言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-236-deng-guan-que-lou",
+      "title": "登鹳雀楼",
+      "section": "五言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-237-song-ling-che",
+      "title": "送灵澈",
+      "section": "五言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-238-tan-qin",
+      "title": "弹琴",
+      "section": "五言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-239-song-shang-ren",
+      "title": "送上人",
+      "section": "五言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-240-qiu-ye-ji-qiu-yuan-wai",
+      "title": "秋夜寄邱员外",
+      "section": "五言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-241-ting-zheng",
+      "title": "听筝",
+      "section": "五言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-242-xin-jia-niang",
+      "title": "新嫁娘",
+      "section": "五言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-243-yu-tai-ti",
+      "title": "玉台体",
+      "section": "五言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-244-jiang-xue",
+      "title": "江雪",
+      "section": "五言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-245-xing-gong",
+      "title": "行宫",
+      "section": "五言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-246-wen-liu-shi-jiu",
+      "title": "问刘十九",
+      "section": "五言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-247-he-man-zi",
+      "title": "何满子",
+      "section": "五言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-248-deng-le-you-yuan",
+      "title": "登乐游原",
+      "section": "五言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-249-xun-yin-zhe-bu-yu",
+      "title": "寻隐者不遇",
+      "section": "五言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-250-du-han-jiang",
+      "title": "渡汉江",
+      "section": "五言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-251-chun-yuan",
+      "title": "春怨",
+      "section": "五言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-252-ge-shu-ge",
+      "title": "哥舒歌",
+      "section": "五言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 5,
+      "status": "passed"
+    },
+    {
+      "id": "tang-261-hui-xiang-ou-shu",
+      "title": "回乡偶书",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-262-tao-hua-xi",
+      "title": "桃花谿",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-263-jiu-yue-jiu-ri-yi-shan-dong-xiong-di",
+      "title": "九月九日忆山东兄弟",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-264-fu-rong-lou-song-xin-jian",
+      "title": "芙蓉楼送辛渐",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-265-gui-yuan",
+      "title": "闺怨",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-266-chun-gong-qu",
+      "title": "春宫曲",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-267-liang-zhou-ci",
+      "title": "凉州词",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-268-song-meng-hao-ran-zhi-guang-ling",
+      "title": "送孟浩然之广陵",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-269-xia-jiang-ling",
+      "title": "下江陵",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-270-feng-ru-jing-shi",
+      "title": "逢入京使",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-271-jiang-nan-feng-li-gui-nian",
+      "title": "江南逢李龟年",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-272-chu-zhou-xi-jian",
+      "title": "滁州西涧",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-273-feng-qiao-ye-po",
+      "title": "枫桥夜泊",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-274-han-shi",
+      "title": "寒食",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-275-yue-ye",
+      "title": "月夜",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-276-chun-yuan",
+      "title": "春怨",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-277-zheng-ren-yuan",
+      "title": "征人怨",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-278-gong-ci",
+      "title": "宫词",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-279-ye-shang-shou-xiang-cheng-wen-di",
+      "title": "夜上受降城闻笛",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-280-wu-yi-xiang",
+      "title": "乌衣巷",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-281-chun-ci",
+      "title": "春词",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-282-hou-gong-ci",
+      "title": "后宫词",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-283-zeng-nei-ren",
+      "title": "赠内人",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-284-ji-ling-tai-zhi-yi",
+      "title": "集灵台之一",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-285-ji-ling-tai-zhi-er",
+      "title": "集灵台之二",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-286-ti-jin-ling-du",
+      "title": "题金陵渡",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-287-gong-ci",
+      "title": "宫词",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-288-jin-shi-shang-zhang-shui-bu",
+      "title": "近试上张水部",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-289-jiang-fu-wu-xing-deng-le-you-yuan",
+      "title": "将赴吴兴登乐游原",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-290-chi-bi",
+      "title": "赤壁",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-291-po-qin-huai",
+      "title": "泊秦淮",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-292-ji-yang-zhou-han-chuo-pan-guan",
+      "title": "寄扬州韩绰判官",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-293-qian-huai",
+      "title": "遣怀",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-294-qiu-xi",
+      "title": "秋夕",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-295-zeng-bie-zhi-yi",
+      "title": "赠别之一",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-296-zeng-bie-zhi-er",
+      "title": "赠别之二",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-297-jin-gu-yuan",
+      "title": "金谷园",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-298-ye-yu-ji-bei",
+      "title": "夜雨寄北",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-299-ji-ling-hu-lang-zhong",
+      "title": "寄令狐郎中",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-300-wei-you",
+      "title": "为有",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-301-sui-gong",
+      "title": "隋宫",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-302-yao-chi",
+      "title": "瑶池",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-303-chang-e",
+      "title": "嫦娥",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-304-jia-sheng",
+      "title": "贾生",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-305-yao-se-yuan",
+      "title": "瑶瑟怨",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-306-ma-wei-po",
+      "title": "马嵬坡",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-307-yi-liang",
+      "title": "已凉",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-308-jin-ling-tu",
+      "title": "金陵图",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-309-long-xi-xing",
+      "title": "陇西行",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-310-ji-ren",
+      "title": "寄人",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    },
+    {
+      "id": "tang-311-za-shi",
+      "title": "杂诗",
+      "section": "七言绝句",
+      "lineCount": 4,
+      "charactersPerLine": 7,
+      "status": "passed"
+    }
+  ],
+  "structuralResults": [
+    {
+      "id": "tang-008-wang-yue",
+      "title": "望岳",
+      "verseLineCount": 8,
+      "prefaceParagraphCount": 0,
+      "variantSourceLineCount": 1,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-013-song-bie",
+      "title": "送别",
+      "verseLineCount": 6,
+      "prefaceParagraphCount": 0,
+      "variantSourceLineCount": 1,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-016-wei-chuan-tian-jia",
+      "title": "渭川田家",
+      "verseLineCount": 10,
+      "prefaceParagraphCount": 0,
+      "variantSourceLineCount": 1,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-026-zei-tui-shi-guan-li-bing-xu",
+      "title": "贼退示官吏并序",
+      "verseLineCount": 24,
+      "prefaceParagraphCount": 5,
+      "variantSourceLineCount": 1,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-036-sai-shang-qu",
+      "title": "塞上曲",
+      "verseLineCount": 8,
+      "prefaceParagraphCount": 0,
+      "variantSourceLineCount": 1,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-043-chang-gan-xing",
+      "title": "长干行",
+      "verseLineCount": 30,
+      "prefaceParagraphCount": 0,
+      "variantSourceLineCount": 1,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-050-ting-dong-da-dan-hu-jia-sheng-jian-ji-yu-nong-fang-gei-shi",
+      "title": "听董大弹胡笳声兼寄语弄房给事",
+      "verseLineCount": 29,
+      "prefaceParagraphCount": 0,
+      "variantSourceLineCount": 0,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-053-lu-shan-yao-ji-lu-shi-yu-xu-zhou",
+      "title": "庐山谣寄卢侍御虚舟",
+      "verseLineCount": 29,
+      "prefaceParagraphCount": 0,
+      "variantSourceLineCount": 1,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-056-xuan-zhou-xie-tiao-lou-jian-bie-xiao-shu-shu-yun",
+      "title": "宣州谢朓楼饯别校书叔云",
+      "verseLineCount": 14,
+      "prefaceParagraphCount": 0,
+      "variantSourceLineCount": 1,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-060-wei-feng-lu-shi-zhai-guan-cao-jiang-jun-hua-ma-tu",
+      "title": "韦讽录事宅观曹将军画马图",
+      "verseLineCount": 35,
+      "prefaceParagraphCount": 0,
+      "variantSourceLineCount": 1,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-061-dan-qing-yin-zeng-cao-ba-jiang-jun",
+      "title": "丹青引赠曹霸将军",
+      "verseLineCount": 40,
+      "prefaceParagraphCount": 0,
+      "variantSourceLineCount": 1,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-063-gu-bai-xing",
+      "title": "古柏行",
+      "verseLineCount": 24,
+      "prefaceParagraphCount": 0,
+      "variantSourceLineCount": 1,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-064-guan-gong-sun-da-niang-di-zi-wu-jian-qi-xing-bing-xu",
+      "title": "观公孙大娘弟子舞剑器行并序",
+      "verseLineCount": 26,
+      "prefaceParagraphCount": 11,
+      "variantSourceLineCount": 0,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-065-shi-yu-hu-shang-zui-ge-bing-xu",
+      "title": "石鱼湖上醉歌并序",
+      "verseLineCount": 10,
+      "prefaceParagraphCount": 3,
+      "variantSourceLineCount": 1,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-068-ye-heng-yue-miao-sui-su-yue-si-ti-men-lou",
+      "title": "谒衡岳庙遂宿岳寺题门楼",
+      "verseLineCount": 32,
+      "prefaceParagraphCount": 0,
+      "variantSourceLineCount": 0,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-069-shi-gu-ge",
+      "title": "石鼓歌",
+      "verseLineCount": 66,
+      "prefaceParagraphCount": 0,
+      "variantSourceLineCount": 0,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-070-yu-weng",
+      "title": "渔翁",
+      "verseLineCount": 6,
+      "prefaceParagraphCount": 0,
+      "variantSourceLineCount": 0,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-071-chang-hen-ge",
+      "title": "长恨歌",
+      "verseLineCount": 120,
+      "prefaceParagraphCount": 0,
+      "variantSourceLineCount": 0,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-072-pi-pa-xing-bing-xu",
+      "title": "琵琶行并序",
+      "verseLineCount": 88,
+      "prefaceParagraphCount": 7,
+      "variantSourceLineCount": 0,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-074-yan-ge-xing-bing-xu",
+      "title": "燕歌行并序",
+      "verseLineCount": 28,
+      "prefaceParagraphCount": 1,
+      "variantSourceLineCount": 0,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-088-ai-jiang-tou",
+      "title": "哀江头",
+      "verseLineCount": 20,
+      "prefaceParagraphCount": 0,
+      "variantSourceLineCount": 0,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-093-zai-yu-yong-chan-bing-xu",
+      "title": "在狱咏蝉并序",
+      "verseLineCount": 8,
+      "prefaceParagraphCount": 20,
+      "variantSourceLineCount": 0,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-111-feng-ji-yi-zhong-song-yan-gong-si-yun",
+      "title": "奉济驿重送严公四韵",
+      "verseLineCount": 8,
+      "prefaceParagraphCount": 0,
+      "variantSourceLineCount": 0,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-123-zhong-nan-bie-ye",
+      "title": "终南别业",
+      "verseLineCount": 8,
+      "prefaceParagraphCount": 0,
+      "variantSourceLineCount": 0,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-127-sui-mu-gui-nan-shan",
+      "title": "岁暮归南山",
+      "verseLineCount": 8,
+      "prefaceParagraphCount": 0,
+      "variantSourceLineCount": 0,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-143-que-ti",
+      "title": "阙题",
+      "verseLineCount": 8,
+      "prefaceParagraphCount": 0,
+      "variantSourceLineCount": 1,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-151-mei-fan-gu-ren",
+      "title": "没蕃故人",
+      "verseLineCount": 8,
+      "prefaceParagraphCount": 0,
+      "variantSourceLineCount": 1,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-165-ba-shan-dao-zhong-chu-ye-you-huai",
+      "title": "巴山道中除夜有怀",
+      "verseLineCount": 8,
+      "prefaceParagraphCount": 0,
+      "variantSourceLineCount": 1,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-175-deng-jin-ling-feng-huang-tai",
+      "title": "登金陵凤凰台",
+      "verseLineCount": 8,
+      "prefaceParagraphCount": 0,
+      "variantSourceLineCount": 0,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-188-su-fu",
+      "title": "宿府",
+      "verseLineCount": 8,
+      "prefaceParagraphCount": 0,
+      "variantSourceLineCount": 1,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-201-chun-si",
+      "title": "春思",
+      "verseLineCount": 8,
+      "prefaceParagraphCount": 0,
+      "variantSourceLineCount": 0,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-213-wu-ti-zhi-er",
+      "title": "无题之二",
+      "verseLineCount": 8,
+      "prefaceParagraphCount": 0,
+      "variantSourceLineCount": 0,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-223-gu-yi-cheng-bu-que-qiao-zhi-zhi",
+      "title": "古意呈补阙乔知之",
+      "verseLineCount": 8,
+      "prefaceParagraphCount": 0,
+      "variantSourceLineCount": 1,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-243-yu-tai-ti",
+      "title": "玉台体",
+      "verseLineCount": 4,
+      "prefaceParagraphCount": 0,
+      "variantSourceLineCount": 0,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-250-du-han-jiang",
+      "title": "渡汉江",
+      "verseLineCount": 4,
+      "prefaceParagraphCount": 0,
+      "variantSourceLineCount": 0,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-262-tao-hua-xi",
+      "title": "桃花谿",
+      "verseLineCount": 4,
+      "prefaceParagraphCount": 0,
+      "variantSourceLineCount": 1,
+      "originalTextReconstructed": true
+    },
+    {
+      "id": "tang-299-ji-ling-hu-lang-zhong",
+      "title": "寄令狐郎中",
+      "verseLineCount": 4,
+      "prefaceParagraphCount": 0,
+      "variantSourceLineCount": 0,
+      "originalTextReconstructed": true
+    }
+  ],
+  "knownSourceLimitations": [
+    "CText尾部又作说明未指明对应字句，保留原行而不推断替换位置。",
+    "古体与乐府不强制套用固定句数和字数；保留选本异文。",
+    "归档英译存在英文空格丢失，仍只供资料追溯。"
+  ]
+}
