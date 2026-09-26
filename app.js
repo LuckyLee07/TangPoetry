@@ -1,536 +1,207 @@
-let poems = [];
+import { parseStored, sanitizeSettings, migrateFavorites, filterPoems, initialIndex, createPoemLoader } from './reader-core.js';
 
-const FINAL_DATA_ROOT = "./data/final/";
-const FINAL_INDEX_URL = `${FINAL_DATA_ROOT}poems/index.json`;
-
-const FEATURED_VIEW = {
-  "感遇其一|张九龄": {
-    categories: ["咏怀", "高洁"],
-    image: "assets/illustrations-wuyan-gushi/001-tang-001-gan-yu-qi-yi-feng-v1.png",
-    mood: "开卷",
-    layout: "layout-opening",
-    composition: {
-      poemTop: "43%",
-      poemLeft: "42px",
-      poemRight: "42px",
-      poemAlign: "center",
-      poemSize: "22px",
-      poemMaxWidth: "330px",
-      noteBottom: "54px"
-    },
-    noteTitle: "孤鸿入海，志在高远",
-    note: "开篇写孤鸿远来，不恋池潢，也不畏弋者。它像一个清醒自持的人，把高洁心志托在辽阔天海之间。"
-  },
-  "静夜思|李白": {
-    categories: ["思乡", "月夜"],
-    image: "assets/illustrations-portrait/jing-ye-si.png",
-    mood: "月夜",
-    layout: "layout-right",
-    composition: {
-      poemTop: "47%",
-      poemLeft: "46px",
-      poemRight: "46px",
-      poemAlign: "center",
-      poemSize: "23px",
-      poemMaxWidth: "320px",
-      noteBottom: "42px"
-    },
-    noteTitle: "月光入室，乡心随起",
-    note: "夜里的月色像霜一样铺在床前，诗人抬头看月，又低头想起远方的故乡。"
-  },
-  "鹿柴|王维": {
-    categories: ["山水", "空山"],
-    image: "assets/illustrations-portrait/lu-zhai.png",
-    mood: "空山",
-    layout: "layout-left",
-    composition: {
-      poemTop: "47%",
-      poemLeft: "38px",
-      poemRight: "86px",
-      poemAlign: "left",
-      poemSize: "22px",
-      poemMaxWidth: "300px",
-      noteBottom: "40px"
-    },
-    noteTitle: "空山有声，斜光照苔",
-    note: "山中看不见人，只听见远处人声。夕阳返照进树林，又落在青青的苔痕上。"
-  },
-  "春晓|孟浩然": {
-    categories: ["春日", "清晨"],
-    image: "assets/illustrations-portrait/chun-xiao.png",
-    mood: "春晨",
-    layout: "layout-center",
-    composition: {
-      poemTop: "44%",
-      poemLeft: "92px",
-      poemRight: "34px",
-      poemAlign: "right",
-      poemSize: "22px",
-      poemMaxWidth: "300px",
-      noteBottom: "42px"
-    },
-    noteTitle: "醒来听鸟，想起落花",
-    note: "春夜睡得香甜，不知不觉天已亮。醒来听见鸟鸣，想起昨夜风雨，不知吹落多少花。"
-  },
-  "江雪|柳宗元": {
-    categories: ["山水", "冬雪", "孤寂"],
-    image: "assets/illustrations-portrait/jiang-xue.png",
-    mood: "寒江",
-    layout: "layout-right",
-    composition: {
-      poemTop: "48%",
-      poemLeft: "50px",
-      poemRight: "50px",
-      poemAlign: "center",
-      poemSize: "23px",
-      poemMaxWidth: "310px",
-      noteBottom: "38px"
-    },
-    noteTitle: "天地皆白，一人独钓",
-    note: "群山没有飞鸟，路上没有行人。大雪中的小船上，只有披蓑戴笠的老人独自垂钓。"
-  },
-  "渭城曲|王维": {
-    categories: ["送别", "长亭"],
-    image: "assets/illustrations-portrait/song-yuan-er.png",
-    mood: "渭城",
-    layout: "layout-left",
-    composition: {
-      poemTop: "43%",
-      poemLeft: "38px",
-      poemRight: "78px",
-      poemAlign: "left",
-      poemSize: "21px",
-      poemMaxWidth: "314px",
-      noteBottom: "40px"
-    },
-    noteTitle: "一杯酒里，都是远行",
-    note: "清晨小雨洗净尘土，客舍旁的柳色分外新。临别再饮一杯，因为出了阳关就难见故人了。"
-  }
+const $ = selector => document.querySelector(selector);
+const escapeHTML = value => String(value ?? '').replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
+const keys = { favorites: 'tang-favorites-v2', settings: 'tang-settings-v1', position: 'tang-position-v1' };
+const storage = {
+  read(key, fallback) { try { return parseStored(localStorage.getItem(key), fallback); } catch { return fallback; } },
+  write(key, value) { try { localStorage.setItem(key, JSON.stringify(value)); } catch { $('#storageNotice').hidden = false; $('#storageNotice').textContent = '当前浏览器无法保存记录，本次阅读仍可正常使用。'; } }
 };
+const pages = $('#pages');
+const settings = sanitizeSettings(storage.read(keys.settings, null));
+let poems = [], favorites = new Set(), currentIndex = 0, homeVisible = true, controlsVisible = true;
+let filters = { query: '', collection: 'all', category: 'all' };
+let shells = [], activeIDs = new Set(), loading = false, lastSavedID = '';
 
-const THEME_TEMPLATES = {
-  "思乡": {
-    image: "assets/illustrations-portrait/jing-ye-si.png",
-    layout: "layout-center",
-    mood: "思乡",
-    composition: {
-      poemTop: "47%",
-      poemLeft: "44px",
-      poemRight: "44px",
-      poemAlign: "center",
-      poemSize: "21px",
-      poemMaxWidth: "320px",
-      noteBottom: "40px"
-    }
-  },
-  "山水": {
-    image: "assets/illustrations-portrait/lu-zhai.png",
-    layout: "layout-left",
-    mood: "山水",
-    composition: {
-      poemTop: "46%",
-      poemLeft: "38px",
-      poemRight: "80px",
-      poemAlign: "left",
-      poemSize: "20px",
-      poemMaxWidth: "318px",
-      noteBottom: "40px"
-    }
-  },
-  "春日": {
-    image: "assets/illustrations-portrait/chun-xiao.png",
-    layout: "layout-center",
-    mood: "春日",
-    composition: {
-      poemTop: "44%",
-      poemLeft: "74px",
-      poemRight: "36px",
-      poemAlign: "right",
-      poemSize: "20px",
-      poemMaxWidth: "318px",
-      noteBottom: "40px"
-    }
-  },
-  "送别": {
-    image: "assets/illustrations-portrait/song-yuan-er.png",
-    layout: "layout-left",
-    mood: "送别",
-    composition: {
-      poemTop: "43%",
-      poemLeft: "38px",
-      poemRight: "78px",
-      poemAlign: "left",
-      poemSize: "20px",
-      poemMaxWidth: "318px",
-      noteBottom: "40px"
-    }
-  },
-  "边塞": {
-    image: "assets/illustrations-portrait/jiang-xue.png",
-    layout: "layout-center",
-    mood: "边塞",
-    composition: {
-      poemTop: "47%",
-      poemLeft: "44px",
-      poemRight: "44px",
-      poemAlign: "center",
-      poemSize: "20px",
-      poemMaxWidth: "320px",
-      noteBottom: "40px"
-    }
-  }
-};
-
-const reader = document.querySelector(".reader");
-const homeScreen = document.querySelector("#homeScreen");
-const startReading = document.querySelector("#startReading");
-const homeLibrary = document.querySelector("#homeLibrary");
-const homeFeatured = document.querySelector("#homeFeatured");
-const homeCount = document.querySelector("#homeCount");
-const pages = document.querySelector("#pages");
-const pageMark = document.querySelector("#pageMark");
-const topbar = document.querySelector(".topbar");
-const bottombar = document.querySelector(".bottombar");
-const library = document.querySelector("#library");
-const poemList = document.querySelector("#poemList");
-const favoriteButton = document.querySelector("#favoriteButton");
-const featuredButton = document.querySelector("#featuredButton");
-const togglePinyin = document.querySelector("#togglePinyin");
-const toggleNotes = document.querySelector("#toggleNotes");
-const pageDots = document.querySelector("#pageDots");
-const categoryRow = document.querySelector(".category-row");
-
-let currentIndex = 0;
-let controlsVisible = false;
-let homeVisible = true;
-let pinyinVisible = true;
-let notesVisible = true;
-const favorites = new Set(JSON.parse(localStorage.getItem("tang-favorites") || "[]"));
-
-function inferTheme(poem) {
-  const text = [poem.title, poem.section, ...(poem.tags || []), poem.text || ""].join(" ");
-  if (["送", "别", "赠", "辞"].some((word) => text.includes(word))) return "送别";
-  if (["塞", "凉州", "从军", "玉门", "阴山", "胡马", "边塞"].some((word) => text.includes(word))) return "边塞";
-  if (["春", "花", "柳", "莺", "雨"].some((word) => text.includes(word))) return "春日";
-  if (["乡", "思", "忆", "故园", "故国"].some((word) => text.includes(word))) return "思乡";
-  return "山水";
+async function fetchJSON(url) {
+  const response = await fetch(url, { signal: AbortSignal.timeout(15000) });
+  if (!response.ok) throw new Error(`HTTP ${response.status}`);
+  return response.json();
 }
+const loader = createPoemLoader(id => fetchJSON(`./data/reader/poems/${encodeURIComponent(id)}.json`));
 
-function noteFromFinal(poem) {
-  const notes = poem.notes || [];
-  if (!notes.length) {
-    return {
-      noteTitle: "诗笺",
-      note: "这首诗已按《唐诗三百首》书序收录，后续可以继续补充更适合阅读页的简注。"
-    };
-  }
-  return {
-    noteTitle: "注释",
-    note: notes.slice(0, 2).map((item) => item.text).join("；")
-  };
+function applySettings() {
+  document.body.dataset.paper = settings.paper;
+  $('.reader').style.setProperty('--reader-size', `${settings.fontSize}px`);
+  pages.classList.toggle('pinyin-off', !settings.pinyin);
+  pages.classList.toggle('notes-off', !settings.notes);
+  $('#togglePinyin').setAttribute('aria-pressed', settings.pinyin);
+  $('#toggleNotes').setAttribute('aria-pressed', settings.notes);
+  $('#settingPinyin').checked = settings.pinyin;
+  $('#settingNotes').checked = settings.notes;
+  $('#fontSize').value = settings.fontSize;
+  document.querySelectorAll('[name="paper"]').forEach(input => { input.checked = input.value === settings.paper; });
 }
-
-function toViewPoem(poem) {
-  const key = `${poem.title}|${poem.author}`;
-  const featured = FEATURED_VIEW[key];
-  const theme = featured ? featured.categories[0] : inferTheme(poem);
-  const template = THEME_TEMPLATES[theme] || THEME_TEMPLATES["山水"];
-  const note = featured || noteFromFinal(poem);
-
-  return {
-    id: poem.id,
-    sourceIndex: poem.sourceRefs?.base?.index || poem.order,
-    bookOrder: poem.order,
-    bookSequence: poem.order,
-    bookSection: poem.section,
-    bookTitle: poem.title,
-    title: poem.title,
-    sourceTitle: poem.aliases?.[0] || poem.title,
-    author: poem.author,
-    dynasty: poem.dynasty,
-    theme,
-    categories: featured?.categories || [theme, ...(poem.tags || []).filter((tag) => tag !== poem.section).slice(0, 4)],
-    featured: Boolean(featured),
-    mood: featured?.mood || poem.visual?.mood?.[0] || template.mood,
-    image: poem.visual?.image || featured?.image || template.image,
-    layout: featured?.layout || template.layout,
-    composition: featured?.composition || template.composition,
-    lines: poem.rubyLines?.length ? poem.rubyLines : poem.displayRubyLines || [],
-    plainLines: poem.lines || [],
-    noteTitle: note.noteTitle,
-    note: note.note,
-    notes: poem.notes || [],
-    source: "data/final/poems/index.json"
-  };
-}
-
-async function loadFinalPoems() {
-  const indexResponse = await fetch(FINAL_INDEX_URL);
-  if (!indexResponse.ok) throw new Error(`index.json ${indexResponse.status}`);
-  const index = await indexResponse.json();
-  const entries = index.poems || [];
-  const poemPayloads = await Promise.all(entries.map(async (entry) => {
-    const response = await fetch(`${FINAL_DATA_ROOT}${entry.path}`);
-    if (!response.ok) throw new Error(`${entry.path} ${response.status}`);
-    return response.json();
-  }));
-  return poemPayloads
-    .map((payload) => toViewPoem(payload.poem))
-    .sort((left, right) => left.bookOrder - right.bookOrder);
-}
-
-function ruby(chars) {
-  return chars.map(([text, pinyin]) => {
-    if (!pinyin) return `<span>${text}</span>`;
-    return `<ruby>${text}<rt>${pinyin}</rt></ruby>`;
-  }).join("");
-}
-
-function pageVars(poem) {
-  const composition = poem.composition || {};
-  return [
-    `--poem-top: ${composition.poemTop || "49%"}`,
-    `--poem-left: ${composition.poemLeft || "34px"}`,
-    `--poem-right: ${composition.poemRight || "34px"}`,
-    `--poem-align: ${composition.poemAlign || "center"}`,
-    `--poem-size: ${composition.poemSize || "23px"}`,
-    `--poem-max-width: ${composition.poemMaxWidth || "320px"}`,
-    `--note-bottom: ${composition.noteBottom || "46px"}`
-  ].join("; ");
-}
-
-function renderPages() {
-  pages.innerHTML = poems.map((poem, index) => `
-    <article class="poem-page ${poem.layout} ${index === 0 ? "opening-page" : ""}" data-index="${index}" style="${pageVars(poem)}">
-      ${index === 0 ? '<div class="opening-title">唐诗三百首</div>' : ""}
-      <div class="book-ribbon">第${poem.bookOrder || poem.sourceIndex}首 · ${poem.bookSection || poem.theme}</div>
-      <div class="theme-chip">${poem.mood}</div>
-      <figure class="scene">
-        <img src="${poem.image}" alt="${poem.title}插画" loading="${index < 2 ? "eager" : "lazy"}" decoding="async" fetchpriority="${index === 0 ? "high" : "low"}" />
-      </figure>
-      <div class="poem-body">
-        <div class="poem-meta">
-          <div class="poem-title">${poem.title}</div>
-          ${poem.bookTitle && poem.bookTitle !== poem.title ? `<div class="poem-book-title">${poem.bookTitle}</div>` : ""}
-          <div class="poem-author">${poem.author}</div>
-        </div>
-        <div class="poem-lines">
-          ${poem.lines.map((line) => `<div>${ruby(line)}</div>`).join("")}
-        </div>
-      </div>
-      <section class="note">
-        <h2>${poem.noteTitle}</h2>
-        <p>${poem.note}</p>
-      </section>
-    </article>
-  `).join("");
-}
-
-function renderDots() {
-  pageDots.hidden = poems.length > 30;
-  pageDots.innerHTML = poems.map((poem, index) => `
-    <button class="page-dot" data-index="${index}" aria-label="${poem.title}"></button>
-  `).join("");
-}
-
-function renderCategories() {
-  const themes = [...new Set(poems.map((poem) => poem.theme).filter(Boolean))];
-  categoryRow.innerHTML = [
-    '<button data-theme="all" class="active">全部</button>',
-    '<button data-theme="featured">精选</button>',
-    ...themes.map((theme) => `<button data-theme="${theme}">${theme}</button>`)
-  ].join("");
-}
-
-function renderLibrary(theme = "all") {
-  poemList.innerHTML = poems
-    .map((poem, index) => ({ poem, index }))
-    .filter(({ poem }) => theme === "all" || (theme === "featured" ? poem.featured : poem.theme === theme))
-    .map(({ poem, index }) => `
-      <button class="poem-row ${index === currentIndex ? "current" : ""}" data-index="${index}">
-        <span class="poem-thumb" style="background-image: url('${poem.image}')"></span>
-        <span class="poem-row-copy">
-          <strong>${poem.title}</strong>
-          <span>${poem.bookOrder || poem.sourceIndex}. ${poem.author} · ${poem.bookSection || poem.theme}</span>
-        </span>
-        <em>${favorites.has(poem.title) ? "已藏" : "翻阅"}</em>
-      </button>
-    `).join("");
-}
+function changeSetting(key, value) { settings[key] = value; applySettings(); storage.write(keys.settings, settings); }
 
 function setControls(visible) {
-  if (homeVisible) return;
   controlsVisible = visible;
-  topbar.dataset.visible = String(visible);
-  bottombar.dataset.visible = String(visible);
+  for (const element of [$('#topbar'), $('#bottombar')]) { element.dataset.visible = visible; element.inert = !visible; }
+  $('#revealControls').hidden = visible;
 }
-
 function setHome(visible) {
   homeVisible = visible;
-  reader.dataset.home = String(visible);
-  homeScreen.setAttribute("aria-hidden", String(!visible));
-  if (visible) {
-    controlsVisible = false;
-    topbar.dataset.visible = "false";
-    bottombar.dataset.visible = "false";
-  }
+  $('.reader').dataset.home = visible;
+  $('#homeScreen').inert = !visible;
+  $('#homeScreen').setAttribute('aria-hidden', !visible);
+  $('#readingSurface').inert = visible;
+  $('#readingSurface').setAttribute('aria-hidden', visible);
+  if (visible) { $('#startReading').textContent = currentIndex ? '续读' : '入卷'; $('#startReading').focus(); }
 }
 
-function updateState() {
-  if (!poems.length) return;
-  pageMark.textContent = `${currentIndex + 1} / ${poems.length}`;
-  favoriteButton.classList.toggle("active", favorites.has(poems[currentIndex].title));
-  pages.classList.toggle("pinyin-off", !pinyinVisible);
-  pages.classList.toggle("notes-off", !notesVisible);
-  togglePinyin.classList.toggle("off", !pinyinVisible);
-  toggleNotes.classList.toggle("off", !notesVisible);
-  document.querySelectorAll(".poem-page").forEach((page, index) => {
-    page.classList.toggle("is-current", index === currentIndex);
-  });
-  document.querySelectorAll(".page-dot").forEach((dot, index) => {
-    dot.classList.toggle("active", index === currentIndex);
-  });
-  document.querySelectorAll(".poem-row").forEach((row) => {
-    row.classList.toggle("current", Number(row.dataset.index) === currentIndex);
+function ruby(lines) {
+  return lines.map(line => `<div class="verse-line">${line.map(([text, pronunciation]) => pronunciation
+    ? `<ruby>${escapeHTML(text)}<rt>${escapeHTML(pronunciation)}</rt></ruby>` : escapeHTML(text)).join('')}</div>`).join('');
+}
+function renderPage(element, poem, detail) {
+  element.classList.toggle('no-note', !detail.note);
+  element.innerHTML = `<figure class="scene" aria-hidden="true"><img src="./${escapeHTML(poem.image)}" alt="" decoding="async" /></figure>
+    <div class="book-ribbon">第${poem.order}首 · ${escapeHTML(poem.section)}</div>
+    <div class="poem-body" tabindex="0" aria-label="${escapeHTML(poem.title)}全文"><h2 class="poem-title">${escapeHTML(poem.title)}</h2><p class="poem-author">唐 · ${escapeHTML(poem.author)}</p><div class="poem-lines">${ruby(detail.rubyLines)}</div></div>
+    ${detail.note ? `<section class="note"><h3>${escapeHTML(detail.noteTitle)}</h3><p>${escapeHTML(detail.note)}</p><button class="note-more" data-notes="${poem.id}" aria-label="查看${escapeHTML(poem.title)}的完整诗意和注释">展开</button></section>` : ''}`;
+  const image = element.querySelector('img');
+  image.addEventListener('error', () => image.remove(), { once: true });
+}
+async function mountPage(index) {
+  const poem = poems[index], element = shells[index];
+  if (!poem || element.dataset.loaded || element.dataset.loading) return;
+  element.dataset.loading = 'true';
+  element.innerHTML = '<p class="page-message">展卷中…</p>';
+  try {
+    const detail = await loader.load(poem.id);
+    if (!activeIDs.has(poem.id)) return;
+    renderPage(element, poem, detail);
+    element.dataset.loaded = 'true';
+  } catch {
+    if (activeIDs.has(poem.id)) element.innerHTML = `<div class="page-message">这一页暂时未能打开。<br><button data-retry="${index}">重试此页</button></div>`;
+  } finally { delete element.dataset.loading; }
+}
+function hydrateWindow() {
+  activeIDs = new Set(poems.slice(Math.max(0, currentIndex - 1), currentIndex + 2).map(p => p.id));
+  shells.forEach((element, index) => {
+    const current = index === currentIndex;
+    element.inert = !current;
+    element.setAttribute('aria-hidden', !current);
+    if (activeIDs.has(poems[index].id)) { void mountPage(index); }
+    else if (element.childNodes.length) { element.replaceChildren(); delete element.dataset.loaded; }
   });
 }
-
+function updateState({ announce = false } = {}) {
+  const poem = poems[currentIndex];
+  if (!poem) return;
+  $('#pageMark').textContent = `${currentIndex + 1} / ${poems.length}`;
+  $('#favoriteButton').setAttribute('aria-pressed', favorites.has(poem.id));
+  $('#favoriteButton').setAttribute('aria-label', favorites.has(poem.id) ? '取消收藏此诗' : '收藏此诗');
+  $('#previousPoem').disabled = currentIndex === 0;
+  $('#nextPoem').disabled = currentIndex === poems.length - 1;
+  $('#favoriteCount').textContent = `${favorites.size} 首 ›`;
+  if (!homeVisible && poem.id !== lastSavedID) { storage.write(keys.position, poem.id); lastSavedID = poem.id; }
+  if (announce) $('#readerStatus').textContent = `${poem.title}，${poem.author}。第 ${currentIndex + 1} 首，共 ${poems.length} 首。`;
+  hydrateWindow();
+}
 function goTo(index) {
+  if (!poems.length) return;
   currentIndex = Math.max(0, Math.min(poems.length - 1, index));
-  pages.scrollTo({ left: currentIndex * pages.clientWidth, behavior: "smooth" });
-  updateState();
+  // Directory jumps are immediate: no traversal or loading of hundreds of intervening pages.
+  pages.scrollTo({ left: currentIndex * pages.clientWidth, behavior: 'instant' });
+  updateState({ announce: true });
 }
+function enterReader(index = currentIndex) { setHome(false); setControls(true); goTo(index); pages.focus({ preventScroll: true }); }
 
-function enterReader(index = currentIndex) {
-  setHome(false);
-  goTo(index);
+function renderLibrary() {
+  const list = filterPoems(poems, filters, favorites);
+  $('#resultCount').textContent = `${list.length} 首${filters.collection === 'favorites' ? '收藏' : ''}`;
+  $('#categorySelect').value = filters.category;
+  document.querySelectorAll('[data-collection]').forEach(button => button.setAttribute('aria-pressed', button.dataset.collection === filters.collection));
+  $('#poemList').innerHTML = list.length ? list.map(poem => `<button class="poem-row" data-id="${poem.id}" aria-current="${poem.id === poems[currentIndex]?.id}"><img class="poem-thumb" src="./${escapeHTML(poem.thumbnail)}" alt="" loading="lazy" decoding="async" /><span class="poem-row-copy"><strong>${escapeHTML(poem.title)}</strong><small>${poem.order}. ${escapeHTML(poem.author)} · ${escapeHTML(poem.section)}</small></span><em>${favorites.has(poem.id) ? '已藏' : poem.featured ? '精选' : ''}</em></button>`).join('')
+    : `<p class="empty-state">${filters.collection === 'favorites' && !favorites.size ? '还没有收藏。<br>在喜欢的诗页轻点「藏」，留给下次重读。' : '没有找到相符的诗。<br>试试其他诗句，或切换分类。'}</p>`;
 }
-
-function openLibrary() {
-  library.classList.add("open");
-  library.setAttribute("aria-hidden", "false");
-  renderLibrary();
+function openLibrary(collection) {
+  if (collection) { filters = { query: '', category: 'all', collection }; $('#searchInput').value = ''; }
+  renderLibrary(); $('#library').showModal();
+}
+async function openNotes(id) {
+  try {
+    const poem = await loader.load(id);
+    $('#fullNotes').innerHTML = `<h3>${escapeHTML(poem.title)}</h3><p>${escapeHTML(poem.note)}</p>${poem.notes.length ? `<ul>${poem.notes.map(note => `<li>${escapeHTML(note)}</li>`).join('')}</ul>` : ''}`;
+    $('#notesDialog').showModal();
+  } catch { $('#readerStatus').textContent = '注释暂时无法打开，请稍后重试。'; }
 }
 
 async function init() {
+  if (loading) return;
+  loading = true; $('#retryCatalog').hidden = true; $('#homeStatus').textContent = '';
   try {
-    poems = await loadFinalPoems();
-  } catch (error) {
-    console.error("Failed to load poems", error);
-    pages.innerHTML = '<article class="poem-page is-current"><section class="note"><h2>诗库加载失败</h2><p>请确认 data/final/poems/index.json 和单诗文件存在，并通过本地服务打开原型。</p></section></article>';
-    return;
-  }
-  currentIndex = 0;
-  renderCategories();
-  renderPages();
-  renderDots();
-  renderLibrary();
-  homeCount.textContent = `${poems.length}首`;
-  setHome(true);
-  updateState();
+    const catalog = await fetchJSON('./data/reader/catalog.json');
+    if (!Array.isArray(catalog.poems) || !catalog.poems.length) throw new Error('Empty catalog');
+    poems = catalog.poems;
+    favorites = migrateFavorites(storage.read(keys.favorites, null), storage.read('tang-favorites', []), poems);
+    storage.write(keys.favorites, [...favorites]);
+    currentIndex = initialIndex(poems, storage.read(keys.position, ''), location.hash);
+    shells = poems.map(poem => { const element = document.createElement('article'); element.className = 'poem-page'; element.dataset.id = poem.id; element.setAttribute('aria-label', poem.title); return element; });
+    pages.replaceChildren(...shells);
+    const themes = [...new Set(poems.map(p => p.theme))];
+    const sections = [...new Set(poems.map(p => p.section))];
+    $('#categorySelect').innerHTML = `<option value="all">全部分类</option><optgroup label="主题">${themes.map(value => `<option>${escapeHTML(value)}</option>`).join('')}</optgroup><optgroup label="体裁">${sections.map(value => `<option>${escapeHTML(value)}</option>`).join('')}</optgroup>`;
+    $('#homeCount').textContent = `${poems.length} 首 · ${poems.filter(p => p.featured).length} 幅精选`;
+    for (const id of ['startReading', 'homeLibrary', 'homeFeatured']) $(`#${id}`).disabled = false;
+    $('#startReading').textContent = currentIndex ? '续读' : '入卷';
+    updateState();
+    if (location.hash.startsWith('#p=') || location.hash.startsWith('#poem=')) enterReader();
+    if (location.hash === '#library') openLibrary('all');
+  } catch {
+    $('#homeCount').textContent = '诗库暂未打开';
+    $('#homeStatus').textContent = '请检查连接后重试。'; $('#retryCatalog').hidden = false;
+  } finally { loading = false; }
 }
 
-pages.addEventListener("click", () => setControls(!controlsVisible));
-
-pages.addEventListener("scroll", () => {
-  const index = Math.round(pages.scrollLeft / pages.clientWidth);
-  if (index !== currentIndex) {
-    currentIndex = index;
-    updateState();
-  }
+$('#startReading').addEventListener('click', () => enterReader());
+$('#backHome').addEventListener('click', () => setHome(true));
+$('#homeLibrary').addEventListener('click', () => openLibrary('all'));
+$('#homeFeatured').addEventListener('click', () => openLibrary('featured'));
+$('#openLibrary').addEventListener('click', () => openLibrary());
+$('#retryCatalog').addEventListener('click', init);
+$('#openSettings').addEventListener('click', () => { applySettings(); $('#settings').showModal(); });
+$('#manageFavorites').addEventListener('click', () => { $('#settings').close(); openLibrary('favorites'); });
+$('#revealControls').addEventListener('click', () => { setControls(true); $('#openLibrary').focus(); });
+$('#previousPoem').addEventListener('click', () => goTo(currentIndex - 1));
+$('#nextPoem').addEventListener('click', () => goTo(currentIndex + 1));
+$('#favoriteButton').addEventListener('click', () => {
+  const id = poems[currentIndex]?.id; if (!id) return;
+  if (favorites.has(id)) favorites.delete(id); else favorites.add(id);
+  storage.write(keys.favorites, [...favorites]); updateState();
+  $('#readerStatus').textContent = favorites.has(id) ? '已收藏' : '已取消收藏';
+});
+$('#togglePinyin').addEventListener('click', () => changeSetting('pinyin', !settings.pinyin));
+$('#toggleNotes').addEventListener('click', () => changeSetting('notes', !settings.notes));
+$('#settingPinyin').addEventListener('change', event => changeSetting('pinyin', event.target.checked));
+$('#settingNotes').addEventListener('change', event => changeSetting('notes', event.target.checked));
+$('#fontSize').addEventListener('change', event => changeSetting('fontSize', Number(event.target.value)));
+for (const input of document.querySelectorAll('[name="paper"]')) input.addEventListener('change', () => changeSetting('paper', input.value));
+for (const button of document.querySelectorAll('[data-close]')) button.addEventListener('click', () => $(`#${button.dataset.close}`).close());
+for (const dialog of document.querySelectorAll('dialog')) dialog.addEventListener('click', event => { if (event.target === dialog) { const r = dialog.getBoundingClientRect(); if (event.clientX < r.left || event.clientX > r.right || event.clientY < r.top || event.clientY > r.bottom) dialog.close(); } });
+$('#searchInput').addEventListener('input', event => { filters.query = event.target.value; renderLibrary(); });
+$('#categorySelect').addEventListener('change', event => { filters.category = event.target.value; renderLibrary(); });
+$('.collection-row').addEventListener('click', event => { const button = event.target.closest('[data-collection]'); if (button) { filters.collection = button.dataset.collection; renderLibrary(); } });
+$('#poemList').addEventListener('click', event => { const row = event.target.closest('[data-id]'); if (row) { $('#library').close(); enterReader(poems.findIndex(poem => poem.id === row.dataset.id)); } });
+let pointerStart;
+pages.addEventListener('pointerdown', event => { pointerStart = [event.clientX, event.clientY]; });
+pages.addEventListener('click', event => {
+  const retry = event.target.closest('[data-retry]'); if (retry) { void mountPage(Number(retry.dataset.retry)); return; }
+  const notes = event.target.closest('[data-notes]'); if (notes) { void openNotes(notes.dataset.notes); return; }
+  if (event.target.closest('button') || window.getSelection()?.toString()) return;
+  if (!pointerStart || Math.hypot(event.clientX - pointerStart[0], event.clientY - pointerStart[1]) < 10) setControls(!controlsVisible);
+});
+let frame;
+pages.addEventListener('scroll', () => {
+  cancelAnimationFrame(frame);
+  frame = requestAnimationFrame(() => { const index = Math.max(0, Math.min(poems.length - 1, Math.round(pages.scrollLeft / pages.clientWidth))); if (index !== currentIndex) { currentIndex = index; updateState(); } });
 }, { passive: true });
-
-document.querySelector("#openLibrary").addEventListener("click", (event) => {
-  event.stopPropagation();
-  openLibrary();
+window.addEventListener('keydown', event => {
+  if (homeVisible || document.querySelector('dialog[open]') || event.target.matches('input, select, textarea')) return;
+  if (event.key === 'ArrowRight' || event.key === 'ArrowLeft') { event.preventDefault(); goTo(currentIndex + (event.key === 'ArrowRight' ? 1 : -1)); }
+  if (event.key === 'Escape') { setControls(true); $('#openLibrary').focus(); }
 });
-
-document.querySelector("#closeLibrary").addEventListener("click", () => {
-  library.classList.remove("open");
-  library.setAttribute("aria-hidden", "true");
-});
-
-library.addEventListener("click", (event) => {
-  if (event.target === library) {
-    library.classList.remove("open");
-    library.setAttribute("aria-hidden", "true");
-  }
-});
-
-poemList.addEventListener("click", (event) => {
-  const row = event.target.closest(".poem-row");
-  if (!row) return;
-  enterReader(Number(row.dataset.index));
-  library.classList.remove("open");
-  library.setAttribute("aria-hidden", "true");
-});
-
-document.querySelector(".category-row").addEventListener("click", (event) => {
-  const button = event.target.closest("button");
-  if (!button) return;
-  document.querySelectorAll(".category-row button").forEach((item) => item.classList.remove("active"));
-  button.classList.add("active");
-  renderLibrary(button.dataset.theme);
-  updateState();
-});
-
-favoriteButton.addEventListener("click", (event) => {
-  event.stopPropagation();
-  const title = poems[currentIndex].title;
-  if (favorites.has(title)) {
-    favorites.delete(title);
-  } else {
-    favorites.add(title);
-  }
-  localStorage.setItem("tang-favorites", JSON.stringify([...favorites]));
-  updateState();
-});
-
-featuredButton.addEventListener("click", (event) => {
-  event.stopPropagation();
-  const index = poems.findIndex((poem) => poem.featured);
-  if (index >= 0) goTo(index);
-});
-
-startReading.addEventListener("click", () => enterReader(0));
-
-homeLibrary.addEventListener("click", (event) => {
-  event.stopPropagation();
-  openLibrary();
-});
-
-homeFeatured.addEventListener("click", (event) => {
-  event.stopPropagation();
-  const index = poems.findIndex((poem) => poem.featured);
-  enterReader(index >= 0 ? index : 0);
-});
-
-togglePinyin.addEventListener("click", (event) => {
-  event.stopPropagation();
-  pinyinVisible = !pinyinVisible;
-  updateState();
-});
-
-toggleNotes.addEventListener("click", (event) => {
-  event.stopPropagation();
-  notesVisible = !notesVisible;
-  updateState();
-});
-
-window.addEventListener("keydown", (event) => {
-  if (homeVisible && event.key === "Enter") enterReader(0);
-  if (homeVisible) return;
-  if (event.key === "ArrowRight") goTo(currentIndex + 1);
-  if (event.key === "ArrowLeft") goTo(currentIndex - 1);
-});
-
-window.addEventListener("resize", () => goTo(currentIndex));
-
-pageDots.addEventListener("click", (event) => {
-  const dot = event.target.closest(".page-dot");
-  if (!dot) return;
-  event.stopPropagation();
-  goTo(Number(dot.dataset.index));
-});
-
-init();
+new ResizeObserver(() => { if (poems.length) pages.scrollTo({ left: currentIndex * pages.clientWidth, behavior: 'instant' }); }).observe(pages);
+applySettings();
+void init();

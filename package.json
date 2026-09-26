@@ -1,0 +1,11 @@
+{
+  "name": "tang-poetry-reader",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "python3 -m http.server 8765 --bind 127.0.0.1",
+    "build:data": "python3 scripts/build_reader.py",
+    "test": "node --test tests/*.test.js && python3 scripts/validate_reader.py"
+  }
+}

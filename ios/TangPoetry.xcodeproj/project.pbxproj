@@ -1,0 +1,436 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		432F73C3D2781C4AE72D2A9D /* PoemStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD686B9B29E8138D666B0E5A /* PoemStore.swift */; };
+		5BC8EA8DDB5A497EE9693600 /* LibraryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C5FE6D96710F9B738C87648 /* LibraryView.swift */; };
+		610E88C9236969EED6504338 /* TangPoetryApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A83B85B4AA67DAFDD3E00B83 /* TangPoetryApp.swift */; };
+		8A6EC3207EB05BB6F185A350 /* ReaderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DFA57F908434B6F49EC3DF9 /* ReaderTests.swift */; };
+		9F040172F315846C325BBB14 /* Content in Resources */ = {isa = PBXBuildFile; fileRef = 13ABFE1F727F5E72BD849F36 /* Content */; };
+		D7FD6D68DEAB44523612499C /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80BC4B057B9945602AA8FFBB /* Models.swift */; };
+		DD0754935BA9D36A9D421667 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = BD9891FAF9CCC2EDD9B6FB86 /* PrivacyInfo.xcprivacy */; };
+		F06B6BDD283C67BA6538DF7D /* ReaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F93592D7CC90500672C0A5B /* ReaderView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		5E520790BE0676A68585C4EF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2918B3C657AD5A4AD7E72E45 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 99976BA32B10460D0BDF2623;
+			remoteInfo = TangPoetry;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		13ABFE1F727F5E72BD849F36 /* Content */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Content; sourceTree = SOURCE_ROOT; };
+		1D40CDBFEA37ADB079CAB8A5 /* TangPoetryTests.xctest */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = TangPoetryTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		1F93592D7CC90500672C0A5B /* ReaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReaderView.swift; sourceTree = "<group>"; };
+		5D0F2FFAF8BD5B03D3E4E5A2 /* TangPoetry.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = TangPoetry.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6C5FE6D96710F9B738C87648 /* LibraryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryView.swift; sourceTree = "<group>"; };
+		80BC4B057B9945602AA8FFBB /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
+		9DFA57F908434B6F49EC3DF9 /* ReaderTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReaderTests.swift; sourceTree = "<group>"; };
+		A83B85B4AA67DAFDD3E00B83 /* TangPoetryApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TangPoetryApp.swift; sourceTree = "<group>"; };
+		BD9891FAF9CCC2EDD9B6FB86 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		CD686B9B29E8138D666B0E5A /* PoemStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PoemStore.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		219E7D581CB4C72950F5FEF7 /* Tests */ = {
+			isa = PBXGroup;
+			children = (
+				9DFA57F908434B6F49EC3DF9 /* ReaderTests.swift */,
+			);
+			path = Tests;
+			sourceTree = "<group>";
+		};
+		AD4C6F19118258C32285B9BC = {
+			isa = PBXGroup;
+			children = (
+				13ABFE1F727F5E72BD849F36 /* Content */,
+				BD9891FAF9CCC2EDD9B6FB86 /* PrivacyInfo.xcprivacy */,
+				F6CF5F38899AC6508D70ECFA /* Sources */,
+				219E7D581CB4C72950F5FEF7 /* Tests */,
+				C109080034C30B5B28EFC6D4 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C109080034C30B5B28EFC6D4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5D0F2FFAF8BD5B03D3E4E5A2 /* TangPoetry.app */,
+				1D40CDBFEA37ADB079CAB8A5 /* TangPoetryTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F6CF5F38899AC6508D70ECFA /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				6C5FE6D96710F9B738C87648 /* LibraryView.swift */,
+				80BC4B057B9945602AA8FFBB /* Models.swift */,
+				CD686B9B29E8138D666B0E5A /* PoemStore.swift */,
+				1F93592D7CC90500672C0A5B /* ReaderView.swift */,
+				A83B85B4AA67DAFDD3E00B83 /* TangPoetryApp.swift */,
+			);
+			path = Sources;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		99976BA32B10460D0BDF2623 /* TangPoetry */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D184000B2B00600AEC795917 /* Build configuration list for PBXNativeTarget "TangPoetry" */;
+			buildPhases = (
+				28469E631B3C453F45E09C3A /* Sources */,
+				09D8C48DE4AB865C632FF41C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TangPoetry;
+			packageProductDependencies = (
+			);
+			productName = TangPoetry;
+			productReference = 5D0F2FFAF8BD5B03D3E4E5A2 /* TangPoetry.app */;
+			productType = "com.apple.product-type.application";
+		};
+		C3E12D4C57F3DAA65453DCCC /* TangPoetryTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D3E4EFF13969D66CD9FA7F9A /* Build configuration list for PBXNativeTarget "TangPoetryTests" */;
+			buildPhases = (
+				CD90AD1EAE6D1BE7AF556294 /* Sources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				6F568F735473E6FED58A6976 /* PBXTargetDependency */,
+			);
+			name = TangPoetryTests;
+			packageProductDependencies = (
+			);
+			productName = TangPoetryTests;
+			productReference = 1D40CDBFEA37ADB079CAB8A5 /* TangPoetryTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2918B3C657AD5A4AD7E72E45 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+				};
+			};
+			buildConfigurationList = 4A1FDDB4094DF87C86B189EA /* Build configuration list for PBXProject "TangPoetry" */;
+			developmentRegion = "zh-Hans";
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				"zh-Hans",
+			);
+			mainGroup = AD4C6F19118258C32285B9BC;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = C109080034C30B5B28EFC6D4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				99976BA32B10460D0BDF2623 /* TangPoetry */,
+				C3E12D4C57F3DAA65453DCCC /* TangPoetryTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		09D8C48DE4AB865C632FF41C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9F040172F315846C325BBB14 /* Content in Resources */,
+				DD0754935BA9D36A9D421667 /* PrivacyInfo.xcprivacy in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		28469E631B3C453F45E09C3A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5BC8EA8DDB5A497EE9693600 /* LibraryView.swift in Sources */,
+				D7FD6D68DEAB44523612499C /* Models.swift in Sources */,
+				432F73C3D2781C4AE72D2A9D /* PoemStore.swift in Sources */,
+				F06B6BDD283C67BA6538DF7D /* ReaderView.swift in Sources */,
+				610E88C9236969EED6504338 /* TangPoetryApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CD90AD1EAE6D1BE7AF556294 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8A6EC3207EB05BB6F185A350 /* ReaderTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		6F568F735473E6FED58A6976 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 99976BA32B10460D0BDF2623 /* TangPoetry */;
+			targetProxy = 5E520790BE0676A68585C4EF /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		0F3EE6809D90350FD1EA80B1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.tangpoetry.reader.tests;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 1;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TangPoetry.app/TangPoetry";
+			};
+			name = Debug;
+		};
+		1D43D931117CC874024CF86A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		6499C45C1D8267B1DE877E79 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		ACD352931F0C59B67EB778D5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.tangpoetry.reader.tests;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 1;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TangPoetry.app/TangPoetry";
+			};
+			name = Release;
+		};
+		BBA661ADBF99B5083C38BB26 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "唐诗画笺";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.books";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 0.2.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tangpoetry.reader;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		DC3ABF4BE4A24BA8A534BAA0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "唐诗画笺";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.books";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 0.2.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tangpoetry.reader;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4A1FDDB4094DF87C86B189EA /* Build configuration list for PBXProject "TangPoetry" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D43D931117CC874024CF86A /* Debug */,
+				6499C45C1D8267B1DE877E79 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		D184000B2B00600AEC795917 /* Build configuration list for PBXNativeTarget "TangPoetry" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BBA661ADBF99B5083C38BB26 /* Debug */,
+				DC3ABF4BE4A24BA8A534BAA0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		D3E4EFF13969D66CD9FA7F9A /* Build configuration list for PBXNativeTarget "TangPoetryTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0F3EE6809D90350FD1EA80B1 /* Debug */,
+				ACD352931F0C59B67EB778D5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2918B3C657AD5A4AD7E72E45 /* Project object */;
+}

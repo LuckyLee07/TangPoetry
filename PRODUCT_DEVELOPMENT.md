@@ -1,8 +1,9 @@
 # 唐诗三百首 App 产品开发文档
 
-版本：v0.1  
-日期：2026-05-10  
-当前原型：`index.html`
+版本：v0.2
+更新日期：2026-09-26
+网页入口：`index.html`；原生入口：`ios/TangPoetry.xcodeproj`
+运行与当前边界见 [README.md](README.md)，验收记录见 [PROGRESS.md](PROGRESS.md)。下文的版式与上架条目仍包含后续规划。
 
 ## 1. 产品定位
 
@@ -46,7 +47,7 @@
 
 > 它会不会打扰用户安静地翻诗？
 
-如果会打扰，就放到二级页面。  
+如果会打扰，就放到二级页面。
 如果不会打扰，才允许出现在阅读页。
 
 阅读页优先级：
@@ -412,140 +413,31 @@ Constraints: no Chinese characters, no English words, no watermark, no UI elemen
 - 准备 App Store 截图
 - 准备隐私说明
 
-## 11. 当前原型已完成
+## 11. 当前实现（2026-09-26）
 
-当前 HTML 原型已具备：
+网页与 SwiftUI 已具备：317 首全文、20 首专属插画精选、横向翻诗、目录与分类、题名/别名/作者/全文/繁体搜索、独立收藏、拼音与简注开关、字号和三种纸色、续读位置、完整注释弹层。原生资源完全离线。
 
-- 手机竖屏阅读器
-- 317 首基础诗库
-- 5 首精品画笺诗页
-- 5 张竖版插画
-- 横排诗文
-- 带声调拼音
-- 注释脚注
-- 左右滑动翻页
-- 目录缩略图
-- 收藏状态
-- 拼音开关
-- 简注开关
-- 页点
+阅读器只加载当前与相邻诗页，长诗全文在正文区域滚动。当前统一采用居中留白排版，上文五种版式是设计方向，尚未全部实现为独立模板。
 
-当前原型文件：
-
-- `index.html`
-- `styles.css`
-- `app.js`
-- `data/final/tang_poems_final.json`
-- `data/poems.json`
-- `唐诗三百首.json`
-- `scripts/build_poems.py`
-- `scripts/build_final_source.py`
-- `scripts/clean_book_sources.py`
-- `data/raw_sources/`
-- `data/sources/`
-- `assets/illustrations-portrait/`
+新增 11 张插画位于 `assets/featured/`，完整提示词见同目录 `prompts.json`。其余 9 张采用已有资产；20 首精选均完成短诗意与拼音初校，编辑状态保留为 `editorial-draft`。
 
 ## 12. 数据层设计
 
-当前数据层采用“最终内容源 + 产品展示数据”的结构：
+- `唐诗三百首.json`、`data/raw_sources/`、`data/sources/` 保留原始资料及来源追踪。
+- `data/final/tang_poems_final.json` 是 317 首归档内容源，单诗拆分仍保留供校勘；不直接下载到阅读页。
+- `data/editorial.json` 是按稳定 ID 管理的人工覆盖层：展示题名、插图、短诗意、主题与拼音。
+- `data/visuals.json` 独立保存原有 35 首视觉策划，避免重建归档时丢失策划字段。
+- `scripts/build_reader.py` 生成共用轻量目录、逐诗全文与两档 WebP，自动检查图片是否存在并提供回退。
+- 网页读取 `data/reader/catalog.json` 与 `data/reader/poems/*.json`；原生通过 `scripts/prepare_ios.py` 将同一份内容打包到 `ios/Content/`。
+- 旧 `data/poems.json` 是历史快照，不再作为客户端入口。
 
-0. `data/final/tang_poems_final.json`  
-   后续 App 应优先依赖的最终内容源，共 317 首。它整合书序、标准标题、简繁正文、注释、标签、英文译文和来源追踪。
+书序与稳定 ID 保留；展示名可采用常用别名，例如归档的「夜思」展示为「静夜思」，两种题名均可搜索。正文分句从完整 `rubyLines` 生成，禁止截断长诗。
 
-   生成脚本为 `scripts/build_final_source.py`。字段说明见 `data/final/README.md`。
+## 13. 后续重点
 
-1. `唐诗三百首.json`  
-   用户提供的基础源数据，共 317 首。保留原始 `title / author / dynasty / paragraphs / notes`。
+1. 对 20 首精选做编辑终审，统一教材/辞典读音口径。
+2. 补齐来源缺失的 3 首诗与 90 首注释，逐批审核普通诗拼音与主题。
+3. 按需要继续扩图，原五言古诗策划尚有 31 张未落地。
+4. 做真机与系统辅助功能验收，准备应用图标、签名、商店截图及发布资料。
 
-2. `data/raw_sources/`  
-   保存外部网页原始 HTML，当前包括：
-
-- `chiuinan.html`：邱奕南整理版，繁体正文、章节、注释较完整。
-- `ctext.html`：Chinese Text Project 版，带编号顺序、繁体正文和英文译文。
-
-3. `data/sources/`  
-   由 `scripts/clean_book_sources.py` 清洗生成：
-
-- `chiuinan_clean.json`：320 首，含繁体、简体、章节、注释。
-- `ctext_clean.json`：320 首，含繁体、简体、章节、编号、英文译文。
-- `ctext_book_order.json`：从 CText 抽出的编号顺序索引。
-- `source_match_report.json`：外部源与当前 317 首基础数据的匹配报告。
-
-4. `data/poems.json`  
-   原型实际使用的产品数据，由 `scripts/build_poems.py` 生成，并按 CText 清洗源中的《唐诗三百首》编号顺序排列。
-
-生成脚本负责：
-
-- 以 `data/sources/ctext_clean.json` 的 `bookOrder` 作为主书序
-- 使用 `data/sources/chiuinan_clean.json` 作为繁体正文、注释和版本校验参考
-- 将原始诗文拆成适合手机展示的短行
-- 生成带声调拼音
-- 推断基础分类
-- 标记精品诗页
-- 合并 5 首精品诗的插画、版式和精修简注
-- 保留 `plainLines` 作为全文数据
-- 保留 `notes` 作为原始注释数据
-
-外部源清洗原则：
-
-- 繁体原文不覆盖简体主数据，而是作为独立字段保留。
-- 简体字段只用于搜索、匹配和产品展示候选。
-- 英文译文先保留 CText 原始文本，并做轻量标点清洗；由于网页源码中英文空格已经丢失，不在清洗阶段强行补词。
-- 两个外部源都抽到 320 首，当前基础源为 317 首，差异通过匹配报告暴露。
-- `scripts/build_poems.py` 会为每首产品诗写入 `bookOrder / bookSequence / bookSection / orderSource / orderConfidence`，方便目录排序和后续校对。
-
-当前产品数据字段：
-
-```json
-{
-  "id": "jing-ye-si",
-  "sourceIndex": 1,
-  "bookOrder": 99,
-  "bookSequence": 99,
-  "bookSection": "五言绝句",
-  "orderSource": "ctext",
-  "orderConfidence": "high",
-  "title": "静夜思",
-  "sourceTitle": "静夜思",
-  "author": "李白",
-  "dynasty": "唐代",
-  "theme": "思乡",
-  "categories": ["思乡", "月夜"],
-  "featured": true,
-  "mood": "月夜",
-  "image": "assets/illustrations-portrait/jing-ye-si.png",
-  "layout": "layout-right",
-  "composition": {
-    "poemTop": "47%",
-    "poemLeft": "46px",
-    "poemRight": "46px",
-    "poemAlign": "center",
-    "poemSize": "23px",
-    "poemMaxWidth": "320px",
-    "noteBottom": "42px"
-  },
-  "lines": [
-    [["床", "chuáng"], ["前", "qián"], ["明", "míng"], ["月", "yuè"], ["光", "guāng"], ["，", ""]]
-  ],
-  "plainLines": ["床前明月光，疑是地上霜。"],
-  "noteTitle": "月光入室，乡心随起",
-  "note": "夜里的月色像霜一样铺在床前，诗人抬头看月，又低头想起远方的故乡。",
-  "notes": [],
-  "source": "唐诗三百首.json"
-}
-```
-
-## 13. 下一步建议
-
-下一步不要急着扩 300 首。
-
-建议先做：
-
-1. 把当前 5 首做到非常稳定。
-2. 再扩到 10 首，验证模板是否够用。
-3. 再扩到 30 首，形成第一批精品画笺。
-4. 最后再补 300 首基础诗库。
-
-真正要守住的是体验：
-
-> 打开 App 后，用户愿意安静地一页一页翻下去。
+当前交付是可运行的双端 MVP，上架质量仍需内容终审与真机验收。

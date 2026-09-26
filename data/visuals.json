@@ -1,0 +1,1110 @@
+{
+  "tang-001-gan-yu-qi-yi": {
+    "image": "assets/illustrations-wuyan-gushi/001-tang-001-gan-yu-qi-yi-feng-v1.png",
+    "coreImagery": [
+      "孤鸿",
+      "沧海",
+      "池潢",
+      "双翠鸟"
+    ],
+    "mood": [
+      "孤高",
+      "警觉",
+      "清冷",
+      "自持"
+    ],
+    "palette": [
+      "雾青",
+      "浅赭",
+      "灰蓝",
+      "翠绿点染",
+      "淡金微光"
+    ],
+    "composition": "孤鸿位于画面中上部偏左，高树在远处偏右，形成“远举”和“高处有险”的张力。",
+    "style": "民国诗意线描，稀疏墨线，淡彩，米色纸面，大面积留白，温厚含蓄，适合诗文叠加",
+    "prompt": "民国诗意线描插图，唐诗《感遇其一》意境：下方小小池潢，上方大面积米色留白，一只孤鸿掠过空中，远处枝头两只翠鸟。线条稀疏、温厚、克制，淡彩点染，表达孤高、自持、警觉。不要文字、印章、现代建筑、写实摄影。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "imagegen",
+    "illustrationBrief": {
+      "updatedAt": "2026-05-12T01:52:56+00:00",
+      "themeStatement": "以孤鸿自喻清介之士：不恋浅池，不畏弋者，在高明与危险之间选择远举自守。",
+      "keywords": {
+        "coreImagery": [
+          "孤鸿",
+          "沧海",
+          "池潢",
+          "双翠鸟",
+          "三珠树",
+          "金丸",
+          "弋者",
+          "冥冥长空"
+        ],
+        "emotionalTone": [
+          "孤高",
+          "警觉",
+          "清冷",
+          "自持",
+          "远离尘网"
+        ],
+        "atmosphere": [
+          "海天辽阔",
+          "薄雾",
+          "高处微光",
+          "静中有险"
+        ],
+        "symbolicMeanings": [
+          "孤鸿象征清醒自守的人格",
+          "池潢象征狭小世俗",
+          "翠鸟与珠树象征显贵处境",
+          "金丸与弋者象征外界觊觎和危险"
+        ],
+        "visualMotifs": [
+          "一只孤鸿掠过海面",
+          "远处浅池只作暗示",
+          "高树上两只翠鸟",
+          "树梢有淡淡珠光",
+          "天际留出大片空白"
+        ]
+      },
+      "sceneBrief": {
+        "foreground": "低处一片浅水和淡墨苇影，暗示“池潢不敢顾”。",
+        "midground": "海面雾气中有孤鸿侧掠，姿态克制，不向下停留。",
+        "background": "远处珍木高出雾层，两只翠鸟栖于枝端，珠光极淡。",
+        "compositionFocus": "孤鸿位于画面中上部偏左，高树在远处偏右，形成“远举”和“高处有险”的张力。",
+        "negativeSpace": "画面上半部保留大片海天空白，方便诗文叠加。"
+      },
+      "palette": [
+        "雾青",
+        "浅赭",
+        "灰蓝",
+        "翠绿点染",
+        "淡金微光"
+      ],
+      "stylePrompt": "民国诗意线描，稀疏墨线，淡彩，米色纸面，大面积留白，温厚含蓄，适合诗文叠加",
+      "generationPrompt": "民国诗意线描插图，唐诗《感遇其一》意境：下方小小池潢，上方大面积米色留白，一只孤鸿掠过空中，远处枝头两只翠鸟。线条稀疏、温厚、克制，淡彩点染，表达孤高、自持、警觉。不要文字、印章、现代建筑、写实摄影。",
+      "avoid": [
+        "文字",
+        "现代建筑",
+        "写实摄影",
+        "卡通人物",
+        "浓艳颜色",
+        "拥挤构图"
+      ]
+    },
+    "assetVersion": "feng-v1",
+    "assetSource": "imagegen built-in; copied from generated preview into project assets",
+    "assetUpdatedAt": "2026-05-12T01:52:56+00:00",
+    "visualStyle": "民国诗意线描；丰子恺启发的温厚留白小品，不复刻具体作品"
+  },
+  "tang-002-gan-yu-qi-er": {
+    "image": "assets/illustrations-wuyan-gushi/002-tang-002-gan-yu-qi-er-feng-v1.png",
+    "coreImagery": [
+      "兰叶",
+      "桂华",
+      "春气",
+      "秋光"
+    ],
+    "mood": [
+      "澄明",
+      "温润",
+      "自足",
+      "幽雅"
+    ],
+    "palette": [
+      "兰青",
+      "嫩绿",
+      "桂金",
+      "暖白",
+      "浅墨"
+    ],
+    "composition": "兰叶和桂枝上下呼应，形成春与秋、清香与本心的对照。",
+    "style": "民国诗意线描，稀疏墨线，淡彩，米色纸面，大面积留白，温厚含蓄，适合诗文叠加",
+    "prompt": "民国诗意线描插图，唐诗《感遇其二》意境：下方兰叶舒展，上方桂枝轻垂，几朵淡金桂花随风落下，中部大面积留白。线条稀疏、温厚、克制，淡彩点染，表达澄明、自足、幽雅与草木本心。不要文字、印章、采花人物、现代建筑、写实摄影。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor",
+    "illustrationBrief": {
+      "updatedAt": "2026-05-12T01:52:56+00:00",
+      "themeStatement": "借兰桂自芳写草木本心：真正的美不依赖被采折和赏识，而在顺时自成其节。",
+      "keywords": {
+        "coreImagery": [
+          "兰叶",
+          "桂华",
+          "春气",
+          "秋光",
+          "林栖者",
+          "清风",
+          "草木本心"
+        ],
+        "emotionalTone": [
+          "澄明",
+          "温润",
+          "自足",
+          "幽雅",
+          "不求闻达"
+        ],
+        "atmosphere": [
+          "春秋交会",
+          "幽香浮动",
+          "林下清风",
+          "安静生意"
+        ],
+        "symbolicMeanings": [
+          "兰叶象征春日生机",
+          "桂华象征秋日皎洁",
+          "清风象征被感知的德性",
+          "不求折取象征不依附外界承认"
+        ],
+        "visualMotifs": [
+          "兰叶从画面下方舒展",
+          "桂枝从上方轻垂",
+          "风穿过林间",
+          "细小花光散在雾中",
+          "无人采折"
+        ]
+      },
+      "sceneBrief": {
+        "foreground": "清瘦兰叶从下方生出，叶片有春日润意。",
+        "midground": "林间一阵轻风穿过，叶影微动，画面没有人物伸手采折。",
+        "background": "上方桂枝垂下，桂花如淡金小点，在秋光中皎洁但不张扬。",
+        "compositionFocus": "兰叶和桂枝上下呼应，形成春与秋、清香与本心的对照。",
+        "negativeSpace": "中部留出柔和雾白空间，让画面安静、透气。"
+      },
+      "palette": [
+        "兰青",
+        "嫩绿",
+        "桂金",
+        "暖白",
+        "浅墨"
+      ],
+      "stylePrompt": "民国诗意线描，稀疏墨线，淡彩，米色纸面，大面积留白，温厚含蓄，适合诗文叠加",
+      "generationPrompt": "民国诗意线描插图，唐诗《感遇其二》意境：下方兰叶舒展，上方桂枝轻垂，几朵淡金桂花随风落下，中部大面积留白。线条稀疏、温厚、克制，淡彩点染，表达澄明、自足、幽雅与草木本心。不要文字、印章、采花人物、现代建筑、写实摄影。",
+      "avoid": [
+        "文字",
+        "现代建筑",
+        "人物采花",
+        "浓艳花海",
+        "卡通风",
+        "拥挤构图"
+      ]
+    },
+    "assetVersion": "feng-v1",
+    "assetSource": "imagegen built-in; copied from generated preview into project assets",
+    "assetUpdatedAt": "2026-05-12T01:52:56+00:00",
+    "visualStyle": "民国诗意线描；丰子恺启发的温厚留白小品，不复刻具体作品"
+  },
+  "tang-003-gan-yu-qi-san": {
+    "image": "assets/illustrations-wuyan-gushi/003-tang-003-gan-yu-qi-san-feng-v1.png",
+    "coreImagery": [
+      "幽人",
+      "独卧",
+      "高鸟",
+      "远情",
+      "孤清"
+    ],
+    "mood": [
+      "孤清",
+      "自省",
+      "诚意无慰",
+      "不遇",
+      "清醒"
+    ],
+    "palette": [
+      "米色纸面",
+      "淡墨",
+      "灰蓝",
+      "苔绿",
+      "浅赭"
+    ],
+    "composition": "幽人处于画面下方小室或低榻旁，高鸟飞在上方空白里，中部留出大片未被回应的距离。",
+    "style": "民国诗意线描，稀疏墨线，淡彩，米色纸面，大面积留白，温厚含蓄，适合诗文叠加",
+    "prompt": "民国诗意线描插图，唐诗《感遇其三》意境：画面下方一个幽人独坐或独卧在简朴小室旁，心境洗净而孤清；上方空白天空里一只高鸟远飞，人与鸟之间留出大片距离。线条稀疏、温厚、克制，淡彩点染，表达孤清、自省、诚意无慰。不要文字、印章、现代建筑、写实摄影、宏大山水。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor",
+    "assetVersion": "feng-v1",
+    "visualStyle": "民国诗意线描；丰子恺启发的温厚留白小品，不复刻具体作品",
+    "assetSource": "imagegen built-in; copied from generated preview into project assets",
+    "assetUpdatedAt": "2026-05-12T02:15:26+00:00",
+    "illustrationBrief": {
+      "updatedAt": "2026-05-12T02:15:26+00:00",
+      "themeStatement": "以幽人自况，写孤清之心无人感应，高鸟与幽人飞沉相隔，真诚无从传达。",
+      "keywords": {
+        "coreImagery": [
+          "幽人",
+          "独卧",
+          "高鸟",
+          "远情",
+          "孤清"
+        ],
+        "emotionalTone": [
+          "孤清",
+          "自省",
+          "诚意无慰",
+          "不遇",
+          "清醒"
+        ],
+        "atmosphere": [
+          "米色纸面",
+          "淡墨",
+          "灰蓝",
+          "苔绿",
+          "浅赭"
+        ]
+      },
+      "composition": "幽人处于画面下方小室或低榻旁，高鸟飞在上方空白里，中部留出大片未被回应的距离。",
+      "stylePrompt": "民国诗意线描，稀疏墨线，淡彩，米色纸面，大面积留白，温厚含蓄，适合诗文叠加",
+      "generationPrompt": "民国诗意线描插图，唐诗《感遇其三》意境：画面下方一个幽人独坐或独卧在简朴小室旁，心境洗净而孤清；上方空白天空里一只高鸟远飞，人与鸟之间留出大片距离。线条稀疏、温厚、克制，淡彩点染，表达孤清、自省、诚意无慰。不要文字、印章、现代建筑、写实摄影、宏大山水。",
+      "avoid": [
+        "文字",
+        "印章",
+        "现代建筑",
+        "写实摄影",
+        "拥挤构图"
+      ]
+    }
+  },
+  "tang-004-gan-yu-qi-si": {
+    "image": "assets/illustrations-wuyan-gushi/004-tang-004-gan-yu-qi-si-feng-v1.png",
+    "coreImagery": [
+      "江南丹橘",
+      "经冬绿林",
+      "岁寒心",
+      "嘉客",
+      "树阴"
+    ],
+    "mood": [
+      "坚贞",
+      "温厚",
+      "自守",
+      "怀才不遇",
+      "静定"
+    ],
+    "palette": [
+      "米色纸面",
+      "淡墨",
+      "常绿",
+      "橘红点染",
+      "冬日灰蓝"
+    ],
+    "composition": "一株丹橘从画面下侧伸入，枝叶经冬仍绿，少量橘果点在枝间，中上部保留温和留白。",
+    "style": "民国诗意线描，稀疏墨线，淡彩，米色纸面，大面积留白，温厚含蓄，适合诗文叠加",
+    "prompt": "民国诗意线描插图，唐诗《感遇其四》意境：江南一株丹橘安静生长，经冬犹绿，枝间只有少量橘红果实点染；低处土岸与一两块小石，远处淡淡水线和冷风。线条稀疏、温厚、克制，淡彩点染，表达坚贞、温厚、自守和怀才不遇。不要文字、印章、人物、现代建筑、写实摄影、繁密果树。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor",
+    "assetVersion": "feng-v1",
+    "visualStyle": "民国诗意线描；丰子恺启发的温厚留白小品，不复刻具体作品",
+    "assetSource": "imagegen built-in; copied from generated preview into project assets",
+    "assetUpdatedAt": "2026-05-12T02:15:26+00:00",
+    "illustrationBrief": {
+      "updatedAt": "2026-05-12T02:15:26+00:00",
+      "themeStatement": "借丹橘经冬犹绿写人格自守：有岁寒之心，也有可荫可荐之用，却受命运与阻隔所限。",
+      "keywords": {
+        "coreImagery": [
+          "江南丹橘",
+          "经冬绿林",
+          "岁寒心",
+          "嘉客",
+          "树阴"
+        ],
+        "emotionalTone": [
+          "坚贞",
+          "温厚",
+          "自守",
+          "怀才不遇",
+          "静定"
+        ],
+        "atmosphere": [
+          "米色纸面",
+          "淡墨",
+          "常绿",
+          "橘红点染",
+          "冬日灰蓝"
+        ]
+      },
+      "composition": "一株丹橘从画面下侧伸入，枝叶经冬仍绿，少量橘果点在枝间，中上部保留温和留白。",
+      "stylePrompt": "民国诗意线描，稀疏墨线，淡彩，米色纸面，大面积留白，温厚含蓄，适合诗文叠加",
+      "generationPrompt": "民国诗意线描插图，唐诗《感遇其四》意境：江南一株丹橘安静生长，经冬犹绿，枝间只有少量橘红果实点染；低处土岸与一两块小石，远处淡淡水线和冷风。线条稀疏、温厚、克制，淡彩点染，表达坚贞、温厚、自守和怀才不遇。不要文字、印章、人物、现代建筑、写实摄影、繁密果树。",
+      "avoid": [
+        "文字",
+        "印章",
+        "现代建筑",
+        "写实摄影",
+        "拥挤构图"
+      ]
+    }
+  },
+  "tang-005-xia-zhong-nan-shan-guo-hu-si-shan-ren-su-zhi-jiu": {
+    "image": "assets/illustrations-wuyan-gushi/005-tang-005-xia-zhong-nan-shan-guo-hu-si-shan-ren-su-zhi-jiu.png",
+    "coreImagery": [
+      "终南山",
+      "松风",
+      "绿竹",
+      "山人夜酒"
+    ],
+    "mood": [
+      "闲适",
+      "酣畅",
+      "入山"
+    ],
+    "palette": [
+      "山青",
+      "竹绿",
+      "酒褐",
+      "月白"
+    ],
+    "composition": "终南山层层退远，竹径引向一间灯火小屋，月色与松风笼住夜饮。",
+    "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+    "prompt": "下终南山过斛斯山人宿置酒，李白。核心意象：终南山、松风、绿竹、山人夜酒；情绪：闲适、酣畅、入山。终南山层层退远，竹径引向一间灯火小屋，月色与松风笼住夜饮。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor"
+  },
+  "tang-006-yue-xia-du-zhuo": {
+    "image": "assets/illustrations-wuyan-gushi/006-tang-006-yue-xia-du-zhuo.png",
+    "coreImagery": [
+      "花间酒",
+      "明月",
+      "身影",
+      "独酌"
+    ],
+    "mood": [
+      "孤独",
+      "旷达",
+      "微醺"
+    ],
+    "palette": [
+      "月白",
+      "花粉",
+      "酒金",
+      "夜青"
+    ],
+    "composition": "花影低垂，一壶酒置于月下，人物与影子相对而坐。",
+    "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+    "prompt": "月下独酌，李白。核心意象：花间酒、明月、身影、独酌；情绪：孤独、旷达、微醺。花影低垂，一壶酒置于月下，人物与影子相对而坐。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor"
+  },
+  "tang-007-chun-si": {
+    "image": "assets/illustrations-wuyan-gushi/007-tang-007-chun-si.png",
+    "coreImagery": [
+      "燕草",
+      "秦桑",
+      "罗帏",
+      "春风"
+    ],
+    "mood": [
+      "相思",
+      "柔婉",
+      "春怨"
+    ],
+    "palette": [
+      "桑绿",
+      "浅粉",
+      "帘白",
+      "春青"
+    ],
+    "composition": "帘幕半卷，桑叶与远草在春风里相望，室内留一角静空。",
+    "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+    "prompt": "春思，李白。核心意象：燕草、秦桑、罗帏、春风；情绪：相思、柔婉、春怨。帘幕半卷，桑叶与远草在春风里相望，室内留一角静空。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor"
+  },
+  "tang-008-wang-yue": {
+    "image": "assets/illustrations-wuyan-gushi/008-tang-008-wang-yue.png",
+    "coreImagery": [
+      "泰山",
+      "层云",
+      "归鸟",
+      "日色"
+    ],
+    "mood": [
+      "壮阔",
+      "昂扬",
+      "开张"
+    ],
+    "palette": [
+      "岱青",
+      "云白",
+      "日金",
+      "深墨"
+    ],
+    "composition": "泰山自画面底部拔起，层云从峰腰裂开，归鸟穿过日光。",
+    "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+    "prompt": "望岳，杜甫。核心意象：泰山、层云、归鸟、日色；情绪：壮阔、昂扬、开张。泰山自画面底部拔起，层云从峰腰裂开，归鸟穿过日光。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor"
+  },
+  "tang-009-zeng-wei-ba-chu-shi": {
+    "image": "assets/illustrations-wuyan-gushi/009-tang-009-zeng-wei-ba-chu-shi.png",
+    "coreImagery": [
+      "灯烛",
+      "老友",
+      "夜雨",
+      "春韭"
+    ],
+    "mood": [
+      "温厚",
+      "久别",
+      "人间烟火"
+    ],
+    "palette": [
+      "烛金",
+      "雨青",
+      "韭绿",
+      "暖褐"
+    ],
+    "composition": "雨夜小屋透出暖灯，案上春韭与酒盏，窗外雨线细密。",
+    "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+    "prompt": "赠卫八处士，杜甫。核心意象：灯烛、老友、夜雨、春韭；情绪：温厚、久别、人间烟火。雨夜小屋透出暖灯，案上春韭与酒盏，窗外雨线细密。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor"
+  },
+  "tang-010-jia-ren": {
+    "image": "assets/illustrations-wuyan-gushi/010-tang-010-jia-ren.png",
+    "coreImagery": [
+      "空谷",
+      "佳人",
+      "修竹",
+      "寒袖"
+    ],
+    "mood": [
+      "清冷",
+      "哀婉",
+      "孤贞"
+    ],
+    "palette": [
+      "竹青",
+      "冷白",
+      "淡墨",
+      "苍绿"
+    ],
+    "composition": "空谷修竹间，一位女子侧身独立，衣袖被寒风轻轻吹起。",
+    "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+    "prompt": "佳人，杜甫。核心意象：空谷、佳人、修竹、寒袖；情绪：清冷、哀婉、孤贞。空谷修竹间，一位女子侧身独立，衣袖被寒风轻轻吹起。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor"
+  },
+  "tang-011-meng-li-bai-zhi-yi": {
+    "image": "assets/illustrations-wuyan-gushi/011-tang-011-meng-li-bai-zhi-yi.png",
+    "coreImagery": [
+      "梦魂",
+      "落月",
+      "江南瘴疠",
+      "浮云"
+    ],
+    "mood": [
+      "深切",
+      "忧惧",
+      "牵挂"
+    ],
+    "palette": [
+      "月灰",
+      "雾青",
+      "冷紫",
+      "淡墨"
+    ],
+    "composition": "残月低斜，水雾与云气在江面漂浮，远处人影如梦中归来。",
+    "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+    "prompt": "梦李白之一，杜甫。核心意象：梦魂、落月、江南瘴疠、浮云；情绪：深切、忧惧、牵挂。残月低斜，水雾与云气在江面漂浮，远处人影如梦中归来。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor"
+  },
+  "tang-012-meng-li-bai-zhi-er": {
+    "image": "assets/illustrations-wuyan-gushi/012-tang-012-meng-li-bai-zhi-er.png",
+    "coreImagery": [
+      "浮云",
+      "游子",
+      "落月",
+      "梦归"
+    ],
+    "mood": [
+      "寂寞",
+      "怅惘",
+      "不安"
+    ],
+    "palette": [
+      "云灰",
+      "夜青",
+      "月白",
+      "苍墨"
+    ],
+    "composition": "浮云压着远山，游子背影在月光下渐远，画面边缘像梦境散开。",
+    "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+    "prompt": "梦李白之二，杜甫。核心意象：浮云、游子、落月、梦归；情绪：寂寞、怅惘、不安。浮云压着远山，游子背影在月光下渐远，画面边缘像梦境散开。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor"
+  },
+  "tang-013-song-bie": {
+    "image": "assets/illustrations-wuyan-gushi/013-tang-013-song-bie.png",
+    "coreImagery": [
+      "下马饮酒",
+      "南山",
+      "白云",
+      "归隐"
+    ],
+    "mood": [
+      "送别",
+      "淡泊",
+      "释然"
+    ],
+    "palette": [
+      "山青",
+      "云白",
+      "酒褐",
+      "草绿"
+    ],
+    "composition": "山脚两人下马对饮，南山与白云在远处静静铺开。",
+    "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+    "prompt": "送别，王维。核心意象：下马饮酒、南山、白云、归隐；情绪：送别、淡泊、释然。山脚两人下马对饮，南山与白云在远处静静铺开。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor"
+  },
+  "tang-014-song-qi-wu-qian-luo-di-huan-xiang": {
+    "image": "assets/illustrations-wuyan-gushi/014-tang-014-song-qi-wu-qian-luo-di-huan-xiang.png",
+    "coreImagery": [
+      "落第归乡",
+      "长安道",
+      "桂棹",
+      "孤城落晖"
+    ],
+    "mood": [
+      "慰勉",
+      "失意",
+      "远行"
+    ],
+    "palette": [
+      "落晖金",
+      "道尘灰",
+      "水青",
+      "城墨"
+    ],
+    "composition": "长安城在落日中后退，一叶归舟与长路构成离开的方向。",
+    "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+    "prompt": "送綦毋潜落第还乡，王维。核心意象：落第归乡、长安道、桂棹、孤城落晖；情绪：慰勉、失意、远行。长安城在落日中后退，一叶归舟与长路构成离开的方向。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor"
+  },
+  "tang-015-qing-xi": {
+    "image": "assets/illustrations-wuyan-gushi/015-tang-015-qing-xi.png",
+    "coreImagery": [
+      "青溪",
+      "乱石",
+      "松林",
+      "菱荇"
+    ],
+    "mood": [
+      "清幽",
+      "自在",
+      "澄澈"
+    ],
+    "palette": [
+      "溪青",
+      "松绿",
+      "石灰",
+      "水白"
+    ],
+    "composition": "溪水绕乱石流过，松影落在水面，菱荇在前景轻轻漂浮。",
+    "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+    "prompt": "青谿，王维。核心意象：青溪、乱石、松林、菱荇；情绪：清幽、自在、澄澈。溪水绕乱石流过，松影落在水面，菱荇在前景轻轻漂浮。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor"
+  },
+  "tang-016-wei-chuan-tian-jia": {
+    "image": "assets/illustrations-wuyan-gushi/016-tang-016-wei-chuan-tian-jia.png",
+    "coreImagery": [
+      "渭川田家",
+      "牛羊归",
+      "麦苗",
+      "蚕眠"
+    ],
+    "mood": [
+      "田园",
+      "羡闲",
+      "安稳"
+    ],
+    "palette": [
+      "麦绿",
+      "暮金",
+      "土褐",
+      "烟白"
+    ],
+    "composition": "暮色中的田畴低平展开，牛羊沿小径归来，村烟在远处升起。",
+    "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+    "prompt": "渭川田家，王维。核心意象：渭川田家、牛羊归、麦苗、蚕眠；情绪：田园、羡闲、安稳。暮色中的田畴低平展开，牛羊沿小径归来，村烟在远处升起。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor"
+  },
+  "tang-017-xi-shi-yong": {
+    "image": "assets/illustrations-wuyan-gushi/017-tang-017-xi-shi-yong.png",
+    "coreImagery": [
+      "越溪女",
+      "吴宫",
+      "罗衣",
+      "香粉"
+    ],
+    "mood": [
+      "盛衰",
+      "怜惜",
+      "幽叹"
+    ],
+    "palette": [
+      "胭脂粉",
+      "宫墙红",
+      "溪青",
+      "旧金"
+    ],
+    "composition": "溪边女子与远处宫墙形成对照，华丽色彩被水雾冲淡。",
+    "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+    "prompt": "西施咏，王维。核心意象：越溪女、吴宫、罗衣、香粉；情绪：盛衰、怜惜、幽叹。溪边女子与远处宫墙形成对照，华丽色彩被水雾冲淡。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor"
+  },
+  "tang-018-qiu-deng-lan-shan-ji-zhang-wu": {
+    "image": "assets/illustrations-wuyan-gushi/018-tang-018-qiu-deng-lan-shan-ji-zhang-wu.png",
+    "coreImagery": [
+      "北山白云",
+      "秋雁",
+      "沙行渡头",
+      "月洲"
+    ],
+    "mood": [
+      "秋兴",
+      "邀约",
+      "清旷"
+    ],
+    "palette": [
+      "秋金",
+      "云白",
+      "水蓝",
+      "沙褐"
+    ],
+    "composition": "秋山与白云高远，雁阵经过渡头，水洲映出淡月。",
+    "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+    "prompt": "秋登兰山寄张五，孟浩然。核心意象：北山白云、秋雁、沙行渡头、月洲；情绪：秋兴、邀约、清旷。秋山与白云高远，雁阵经过渡头，水洲映出淡月。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor"
+  },
+  "tang-019-xia-ri-nan-ting-huai-xin-da": {
+    "image": "assets/illustrations-wuyan-gushi/019-tang-019-xia-ri-nan-ting-huai-xin-da.png",
+    "coreImagery": [
+      "南亭",
+      "荷风",
+      "竹露",
+      "月池"
+    ],
+    "mood": [
+      "清凉",
+      "怀友",
+      "舒展"
+    ],
+    "palette": [
+      "荷绿",
+      "月白",
+      "竹青",
+      "水蓝"
+    ],
+    "composition": "南亭临水，荷叶与竹影分置两侧，月色落在池心。",
+    "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+    "prompt": "夏日南亭怀辛大，孟浩然。核心意象：南亭、荷风、竹露、月池；情绪：清凉、怀友、舒展。南亭临水，荷叶与竹影分置两侧，月色落在池心。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor"
+  },
+  "tang-020-su-ye-shi-shan-fang-dai-ding-da-bu-zhi": {
+    "image": "assets/illustrations-wuyan-gushi/020-tang-020-su-ye-shi-shan-fang-dai-ding-da-bu-zhi.png",
+    "coreImagery": [
+      "西岭夕阳",
+      "松月",
+      "风泉",
+      "孤琴"
+    ],
+    "mood": [
+      "静候",
+      "幽寂",
+      "失约"
+    ],
+    "palette": [
+      "夕金",
+      "松墨",
+      "泉白",
+      "夜青"
+    ],
+    "composition": "山房前有空席与孤琴，夕光将尽，松间泉声化成淡线。",
+    "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+    "prompt": "宿业师山房待丁大不至，孟浩然。核心意象：西岭夕阳、松月、风泉、孤琴；情绪：静候、幽寂、失约。山房前有空席与孤琴，夕光将尽，松间泉声化成淡线。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor"
+  },
+  "tang-021-tong-cong-di-nan-zhai-wan-yue-yi-shan-yin-cui-shao-fu": {
+    "image": "assets/illustrations-wuyan-gushi/021-tang-021-tong-cong-di-nan-zhai-wan-yue-yi-shan-yin-cui-shao-fu.png",
+    "coreImagery": [
+      "南斋",
+      "明月",
+      "清辉水木",
+      "越吟"
+    ],
+    "mood": [
+      "皎洁",
+      "怀人",
+      "清雅"
+    ],
+    "palette": [
+      "月白",
+      "水青",
+      "木绿",
+      "夜蓝"
+    ],
+    "composition": "书斋临水，月光穿过树影铺在岸边，远处留出怀人的空白。",
+    "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+    "prompt": "同从弟南斋玩月忆山阴崔少府，王昌龄。核心意象：南斋、明月、清辉水木、越吟；情绪：皎洁、怀人、清雅。书斋临水，月光穿过树影铺在岸边，远处留出怀人的空白。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor"
+  },
+  "tang-022-xun-xi-shan-yin-zhe-bu-yu": {
+    "image": "assets/illustrations-wuyan-gushi/022-tang-022-xun-xi-shan-yin-zhe-bu-yu.png",
+    "coreImagery": [
+      "绝顶茅茨",
+      "柴车",
+      "秋水",
+      "松声"
+    ],
+    "mood": [
+      "寻隐",
+      "怅然",
+      "清寒"
+    ],
+    "palette": [
+      "秋褐",
+      "松绿",
+      "水灰",
+      "茅草黄"
+    ],
+    "composition": "山顶茅屋空寂，柴车停在路旁，秋水从石间转出。",
+    "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+    "prompt": "寻西山隐者不遇，邱为。核心意象：绝顶茅茨、柴车、秋水、松声；情绪：寻隐、怅然、清寒。山顶茅屋空寂，柴车停在路旁，秋水从石间转出。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor"
+  },
+  "tang-023-chun-fan-ruo-ye-xi": {
+    "image": "assets/illustrations-wuyan-gushi/023-tang-023-chun-fan-ruo-ye-xi.png",
+    "coreImagery": [
+      "若耶溪",
+      "晚风行舟",
+      "花路",
+      "月潭"
+    ],
+    "mood": [
+      "幽意",
+      "随缘",
+      "清游"
+    ],
+    "palette": [
+      "溪青",
+      "花粉",
+      "月白",
+      "暮紫"
+    ],
+    "composition": "小舟沿花岸入溪，远处月影落潭，水路弯向画面深处。",
+    "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+    "prompt": "春泛若耶溪，綦毋潜。核心意象：若耶溪、晚风行舟、花路、月潭；情绪：幽意、随缘、清游。小舟沿花岸入溪，远处月影落潭，水路弯向画面深处。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor"
+  },
+  "tang-024-su-wang-chang-ling-yin-ju": {
+    "image": "assets/illustrations-wuyan-gushi/024-tang-024-su-wang-chang-ling-yin-ju.png",
+    "coreImagery": [
+      "清溪",
+      "孤云",
+      "松月",
+      "隐居"
+    ],
+    "mood": [
+      "清寂",
+      "怀友",
+      "幽深"
+    ],
+    "palette": [
+      "溪青",
+      "松绿",
+      "云白",
+      "月灰"
+    ],
+    "composition": "隐居小屋被松影掩映，孤云在溪上停住，月光淡淡。",
+    "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+    "prompt": "宿王昌龄隐居，常建。核心意象：清溪、孤云、松月、隐居；情绪：清寂、怀友、幽深。隐居小屋被松影掩映，孤云在溪上停住，月光淡淡。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor"
+  },
+  "tang-025-yu-gao-shi-xue-ju-deng-ci-en-si-fu-tu": {
+    "image": "assets/illustrations-wuyan-gushi/025-tang-025-yu-gao-shi-xue-ju-deng-ci-en-si-fu-tu.png",
+    "coreImagery": [
+      "慈恩寺浮图",
+      "高塔",
+      "天宫",
+      "长安"
+    ],
+    "mood": [
+      "登临",
+      "苍茫",
+      "肃穆"
+    ],
+    "palette": [
+      "塔灰",
+      "天青",
+      "城褐",
+      "云白"
+    ],
+    "composition": "高塔贯穿画面纵轴，长安城低伏在云雾下，视线向天际提升。",
+    "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+    "prompt": "与高适薛据登慈恩寺浮图，岑参。核心意象：慈恩寺浮图、高塔、天宫、长安；情绪：登临、苍茫、肃穆。高塔贯穿画面纵轴，长安城低伏在云雾下，视线向天际提升。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor"
+  },
+  "tang-026-zei-tui-shi-guan-li-bing-xu": {
+    "image": "assets/illustrations-wuyan-gushi/026-tang-026-zei-tui-shi-guan-li-bing-xu.png",
+    "coreImagery": [
+      "贼退",
+      "荒村",
+      "官吏",
+      "山林"
+    ],
+    "mood": [
+      "沉痛",
+      "讽谕",
+      "荒寒"
+    ],
+    "palette": [
+      "土灰",
+      "枯黄",
+      "墨黑",
+      "冷白"
+    ],
+    "composition": "荒村空路与远山相接，残破篱落前只有冷风与稀疏树影。",
+    "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+    "prompt": "贼退示官吏并序，元结。核心意象：贼退、荒村、官吏、山林；情绪：沉痛、讽谕、荒寒。荒村空路与远山相接，残破篱落前只有冷风与稀疏树影。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor"
+  },
+  "tang-027-jun-zhai-yu-zhong-yu-zhu-wen-shi-yan-ji": {
+    "image": "assets/illustrations-wuyan-gushi/027-tang-027-jun-zhai-yu-zhong-yu-zhu-wen-shi-yan-ji.png",
+    "coreImagery": [
+      "郡斋雨",
+      "画戟",
+      "文士宴",
+      "海风"
+    ],
+    "mood": [
+      "清雅",
+      "从容",
+      "雨意"
+    ],
+    "palette": [
+      "雨青",
+      "墨灰",
+      "酒金",
+      "苔绿"
+    ],
+    "composition": "郡斋檐下雨线不断，室内几案雅集，窗外海风吹开竹影。",
+    "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+    "prompt": "郡斋雨中与诸文士燕集，韦应物。核心意象：郡斋雨、画戟、文士宴、海风；情绪：清雅、从容、雨意。郡斋檐下雨线不断，室内几案雅集，窗外海风吹开竹影。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor"
+  },
+  "tang-028-chu-fa-yang-zi-ji-yuan-da-xiao-shu": {
+    "image": "assets/illustrations-wuyan-gushi/028-tang-028-chu-fa-yang-zi-ji-yuan-da-xiao-shu.png",
+    "coreImagery": [
+      "扬子江雾",
+      "归棹",
+      "残钟",
+      "广陵树"
+    ],
+    "mood": [
+      "离别",
+      "茫然",
+      "清远"
+    ],
+    "palette": [
+      "江青",
+      "雾白",
+      "钟铜",
+      "树绿"
+    ],
+    "composition": "雾中归棹渐远，岸边树影和钟声都被江色化淡。",
+    "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+    "prompt": "初发扬子寄元大校书，韦应物。核心意象：扬子江雾、归棹、残钟、广陵树；情绪：离别、茫然、清远。雾中归棹渐远，岸边树影和钟声都被江色化淡。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor"
+  },
+  "tang-029-ji-quan-jiao-shan-zhong-dao-shi": {
+    "image": "assets/illustrations-wuyan-gushi/029-tang-029-ji-quan-jiao-shan-zhong-dao-shi.png",
+    "coreImagery": [
+      "山中道士",
+      "涧底荆薪",
+      "白石",
+      "郡斋冷"
+    ],
+    "mood": [
+      "清寒",
+      "挂念",
+      "幽远"
+    ],
+    "palette": [
+      "石白",
+      "涧青",
+      "松绿",
+      "冷灰"
+    ],
+    "composition": "涧底白石与荆薪在前，山路消失在雾里，似有道士未归。",
+    "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+    "prompt": "寄全椒山中道士，韦应物。核心意象：山中道士、涧底荆薪、白石、郡斋冷；情绪：清寒、挂念、幽远。涧底白石与荆薪在前，山路消失在雾里，似有道士未归。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor"
+  },
+  "tang-030-chang-an-yu-feng-zhu": {
+    "image": "assets/illustrations-wuyan-gushi/030-tang-030-chang-an-yu-feng-zhu.png",
+    "coreImagery": [
+      "灞陵雨",
+      "客衣",
+      "长安相逢"
+    ],
+    "mood": [
+      "萧瑟",
+      "问候",
+      "旅况"
+    ],
+    "palette": [
+      "雨灰",
+      "城褐",
+      "衣青",
+      "柳绿"
+    ],
+    "composition": "长安雨中，两位旅人隔着湿润街道相逢，远处城门低隐。",
+    "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+    "prompt": "长安遇冯著，韦应物。核心意象：灞陵雨、客衣、长安相逢；情绪：萧瑟、问候、旅况。长安雨中，两位旅人隔着湿润街道相逢，远处城门低隐。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor"
+  },
+  "tang-031-xi-ci-xu-yi-xian": {
+    "image": "assets/illustrations-wuyan-gushi/031-tang-031-xi-ci-xu-yi-xian.png",
+    "coreImagery": [
+      "淮镇孤驿",
+      "风波",
+      "暗山",
+      "芦洲雁"
+    ],
+    "mood": [
+      "羁旅",
+      "乡思",
+      "凄清"
+    ],
+    "palette": [
+      "芦白",
+      "水灰",
+      "山青",
+      "暮紫"
+    ],
+    "composition": "孤驿临水，芦洲雁影掠过暗山，风波使江面略带不安。",
+    "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+    "prompt": "夕次盱眙县，韦应物。核心意象：淮镇孤驿、风波、暗山、芦洲雁；情绪：羁旅、乡思、凄清。孤驿临水，芦洲雁影掠过暗山，风波使江面略带不安。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor"
+  },
+  "tang-032-dong-jiao": {
+    "image": "assets/illustrations-wuyan-gushi/032-tang-032-dong-jiao.png",
+    "coreImagery": [
+      "东郊",
+      "杨柳",
+      "青山",
+      "微雨",
+      "春鸠"
+    ],
+    "mood": [
+      "疏朗",
+      "释怀",
+      "春晴"
+    ],
+    "palette": [
+      "柳绿",
+      "山青",
+      "雨白",
+      "土黄"
+    ],
+    "composition": "东郊雨后，柳色明净，青山在远处展开，春鸠点在空中。",
+    "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+    "prompt": "东郊，韦应物。核心意象：东郊、杨柳、青山、微雨、春鸠；情绪：疏朗、释怀、春晴。东郊雨后，柳色明净，青山在远处展开，春鸠点在空中。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor"
+  },
+  "tang-033-song-yang-shi-nv": {
+    "image": "assets/illustrations-wuyan-gushi/033-tang-033-song-yang-shi-nv.png",
+    "coreImagery": [
+      "杨氏女",
+      "大江轻舟",
+      "幼女出嫁",
+      "慈父"
+    ],
+    "mood": [
+      "不舍",
+      "温柔",
+      "怜爱"
+    ],
+    "palette": [
+      "江青",
+      "嫁衣粉",
+      "暖褐",
+      "云白"
+    ],
+    "composition": "江边轻舟将发，父女身影被留在柔和晨雾中，岸线低而安静。",
+    "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+    "prompt": "送杨氏女，韦应物。核心意象：杨氏女、大江轻舟、幼女出嫁、慈父；情绪：不舍、温柔、怜爱。江边轻舟将发，父女身影被留在柔和晨雾中，岸线低而安静。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor"
+  },
+  "tang-034-chen-yi-chao-shi-yuan-du-chan-jing": {
+    "image": "assets/illustrations-wuyan-gushi/034-tang-034-chen-yi-chao-shi-yuan-du-chan-jing.png",
+    "coreImagery": [
+      "禅院",
+      "汲井",
+      "贝叶经",
+      "晨光"
+    ],
+    "mood": [
+      "清净",
+      "悟道",
+      "澄澈"
+    ],
+    "palette": [
+      "晨金",
+      "井青",
+      "寺灰",
+      "叶绿"
+    ],
+    "composition": "晨光入禅院，井栏、经卷与疏竹各安其位，气息极静。",
+    "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+    "prompt": "晨诣超师院读禅经，柳宗元。核心意象：禅院、汲井、贝叶经、晨光；情绪：清净、悟道、澄澈。晨光入禅院，井栏、经卷与疏竹各安其位，气息极静。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor"
+  },
+  "tang-035-xi-ju": {
+    "image": "assets/illustrations-wuyan-gushi/035-tang-035-xi-ju.png",
+    "coreImagery": [
+      "溪居",
+      "农圃",
+      "山林客",
+      "耕钓"
+    ],
+    "mood": [
+      "闲适",
+      "释然",
+      "自得"
+    ],
+    "palette": [
+      "溪青",
+      "田绿",
+      "山灰",
+      "纸白"
+    ],
+    "composition": "溪边小居与菜圃相邻，远山淡退，一竿钓影落在水边。",
+    "style": "竖版淡彩水墨，宣纸质感，低饱和留白，与现有五张阅读页插图保持一致",
+    "prompt": "溪居，柳宗元。核心意象：溪居、农圃、山林客、耕钓；情绪：闲适、释然、自得。溪边小居与菜圃相邻，远山淡退，一竿钓影落在水边。。竖版 941x1672，淡彩水墨，中国宣纸肌理，大面积留白，色彩低饱和，画面清透安静，适合上层叠加诗文与注释，不出现文字。",
+    "generatedAt": "2026-05-10T15:05:28+00:00",
+    "generator": "procedural-watercolor"
+  }
+}

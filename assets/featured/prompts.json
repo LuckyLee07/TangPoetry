@@ -1,0 +1,57 @@
+{
+  "you-zi-yin": {
+    "prompt": "Use case: illustration-story. A single full-bleed 9:16 vertical portrait artwork, 1024x1792, for a Tang poetry reading page. Refined traditional Chinese watercolor and delicate ink on warm ivory xuan paper, muted celadon, soft gray, light ochre, hand-painted paper texture. Scene only in upper 35% and edges; the middle and lower 60% must dissolve into luminous mostly blank warm paper, reserved for readable poem text. Quiet spacious poetic mood, consistent elegant picture-book series. No text, characters, seals, borders, captions, UI, watermark, modern objects, dramatic saturation or photography. Subject: 游子吟：a Tang-era mother quietly sewing a traveling son's plain robe by a small warm lamp. Two small tender figures only in upper left third; a folded cloth and thread, a doorway into pale spring light. Express care and longing with restrained gestures.",
+    "file": "assets/featured/you-zi-yin.png",
+    "method": "built-in imagegen"
+  },
+  "wang-yue-huai-yuan": {
+    "prompt": "Use case: illustration-story. A single full-bleed 9:16 vertical portrait artwork, 1024x1792, for a Tang poetry reading page. Refined traditional Chinese watercolor and delicate ink on warm ivory xuan paper, muted celadon, soft gray, light ochre, hand-painted paper texture. Scene only in upper 35% and edges; the middle and lower 60% must dissolve into luminous mostly blank warm paper, reserved for readable poem text. Quiet spacious poetic mood, consistent elegant picture-book series. No text, characters, seals, borders, captions, UI, watermark, modern objects, dramatic saturation or photography. Subject: 望月怀远：a large pale full moon rising over a serene sea in the upper third; a tiny ancient Chinese pavilion at the far right, one distant robed traveler quietly looking across the water. Suggest people apart sharing one moon.",
+    "file": "assets/featured/wang-yue-huai-yuan.png",
+    "method": "built-in imagegen"
+  },
+  "shan-ju-qiu-ming": {
+    "prompt": "Use case: illustration-story. A single full-bleed 9:16 vertical portrait artwork, 1024x1792, for a Tang poetry reading page. Refined traditional Chinese watercolor and delicate ink on warm ivory xuan paper, muted celadon, soft gray, light ochre, hand-painted paper texture. Scene only in upper 35% and edges; the middle and lower 60% must dissolve into luminous mostly blank warm paper, reserved for readable poem text. Quiet spacious poetic mood, consistent elegant picture-book series. No text, characters, seals, borders, captions, UI, watermark, modern objects, dramatic saturation or photography. Subject: 山居秋暝：an autumn mountain after rain, moonlight through pine trees, a clear stream over rocks, a tiny returning boat and lotus leaves in upper half. No large figures. Fresh still luminous air.",
+    "file": "assets/featured/shan-ju-qiu-ming.png",
+    "method": "built-in imagegen"
+  },
+  "zhu-li-guan": {
+    "prompt": "Use case: illustration-story. A single full-bleed 9:16 vertical portrait artwork, 1024x1792, for a Tang poetry reading page. Refined traditional Chinese watercolor and delicate ink on warm ivory xuan paper, muted celadon, soft gray, light ochre, hand-painted paper texture. Scene only in upper 35% and edges; the middle and lower 60% must dissolve into luminous mostly blank warm paper, reserved for readable poem text. Quiet spacious poetic mood, consistent elegant picture-book series. No text, characters, seals, borders, captions, UI, watermark, modern objects, dramatic saturation or photography. Subject: 竹里馆: a tiny solitary Tang scholar sitting in a secluded bamboo grove playing a horizontal guqin, a pale moon peeks through bamboo at the upper right. Quiet moonlight, muted sage leaves, intimate solitude.",
+    "file": "assets/featured/zhu-li-guan.png",
+    "method": "built-in imagegen"
+  },
+  "xiang-si": {
+    "prompt": "Use case: illustration-story. A single full-bleed 9:16 vertical portrait artwork, 1024x1792, for a Tang poetry reading page. Refined traditional Chinese watercolor and delicate ink on warm ivory xuan paper, muted celadon, soft gray, light ochre, hand-painted paper texture. Scene only in upper 35% and edges; the middle and lower 60% must dissolve into luminous mostly blank warm paper, reserved for readable poem text. Quiet spacious poetic mood, consistent elegant picture-book series. No text, characters, seals, borders, captions, UI, watermark, modern objects, dramatic saturation or photography. Subject: 相思: delicate southern red-bean branches in the upper left with small red seeds, a few fresh spring shoots, a tiny traditional cloth pouch with a handful of red beans on a stone ledge at upper right. No people; a restrained botanical poem about distant affection.",
+    "file": "assets/featured/xiang-si.png",
+    "method": "built-in imagegen"
+  },
+  "zhong-nan-wang-yu-xue": {
+    "prompt": "Use case: illustration-story. A single full-bleed 9:16 vertical portrait artwork, 1024x1792, for a Tang poetry reading page. Refined traditional Chinese watercolor and delicate ink on warm ivory xuan paper, muted celadon, soft gray, light ochre, hand-painted paper texture. Scene only in upper 35% and edges; the middle and lower 60% must dissolve into luminous mostly blank warm paper, reserved for readable poem text. Quiet spacious poetic mood, consistent elegant picture-book series. No text, characters, seals, borders, captions, UI, watermark, modern objects, dramatic saturation or photography. Subject: 终南望余雪: distant north-facing Zhongnan mountain peaks capped with snow appearing above mist, fine forest treetops catching clearing twilight, a tiny ancient city roof silhouette far below at one edge. Pale blue-gray winter dusk, no people.",
+    "file": "assets/featured/zhong-nan-wang-yu-xue.png",
+    "method": "built-in imagegen"
+  },
+  "su-jian-de-jiang": {
+    "prompt": "Use case: illustration-story. A single full-bleed 9:16 vertical portrait artwork, 1024x1792, for a Tang poetry reading page. Refined traditional Chinese watercolor and delicate ink on warm ivory xuan paper, muted celadon, soft gray, light ochre, hand-painted paper texture. Scene only in upper 35% and edges; the middle and lower 60% must dissolve into luminous mostly blank warm paper, reserved for readable poem text. Quiet spacious poetic mood, consistent elegant picture-book series. No text, characters, seals, borders, captions, UI, watermark, modern objects, dramatic saturation or photography. Subject: 宿建德江: a small ancient wooden boat moored beside a misty river sandbar at sunset, a tiny solitary traveler in the boat, low distant trees under a vast sky, a moon reflection in clear water close to the boat. Quiet travel homesickness.",
+    "file": "assets/featured/su-jian-de-jiang.png",
+    "method": "built-in imagegen"
+  },
+  "song-ling-che": {
+    "prompt": "Use case: illustration-story. A single full-bleed 9:16 vertical portrait artwork, 1024x1792, for a Tang poetry reading page. Refined traditional Chinese watercolor and delicate ink on warm ivory xuan paper, muted celadon, soft gray, light ochre, hand-painted paper texture. Scene only in upper 35% and edges; the middle and lower 60% must dissolve into luminous mostly blank warm paper, reserved for readable poem text. Quiet spacious poetic mood, consistent elegant picture-book series. No text, characters, seals, borders, captions, UI, watermark, modern objects, dramatic saturation or photography. Subject: 送灵澈: a tiny Buddhist monk seen from behind walking toward a distant bamboo temple in green mountains, carrying a bamboo hat on his back, sunset light resting on his robe. Temple roofs partly hidden by bamboo, quiet winding path fading into mist.",
+    "file": "assets/featured/song-ling-che.png",
+    "method": "built-in imagegen"
+  },
+  "wen-liu-shi-jiu": {
+    "prompt": "Use case: illustration-story. A single full-bleed 9:16 vertical portrait artwork, 1024x1792, for a Tang poetry reading page. Refined traditional Chinese watercolor and delicate ink on warm ivory xuan paper, muted celadon, soft gray, light ochre, hand-painted paper texture. Scene only in upper 35% and edges; the middle and lower 60% must dissolve into luminous mostly blank warm paper, reserved for readable poem text. Quiet spacious poetic mood, consistent elegant picture-book series. No text, characters, seals, borders, captions, UI, watermark, modern objects, dramatic saturation or photography. Subject: 问刘十九: a small red-clay charcoal brazier glowing warmly beside a rustic table with newly brewed rice wine in a plain pottery jug and two little cups; view through an ancient wooden window onto a quiet garden under the first snow. Intimate invitation to a friend; no people needed.",
+    "file": "assets/featured/wen-liu-shi-jiu.png",
+    "method": "built-in imagegen"
+  },
+  "xun-yin-zhe-bu-yu": {
+    "prompt": "Use case: illustration-story. A single full-bleed 9:16 vertical portrait artwork, 1024x1792, for a Tang poetry reading page. Depict 寻隐者不遇: beneath an old pine at upper left, a small Tang-era robed visitor politely asks a young apprentice, who points toward a distant misty mountain where his master is gathering herbs. The child and traveler are small in the landscape; mist and pine needles imply the absent hermit. Refined traditional Chinese watercolor and delicate ink on warm ivory xuan paper, muted celadon, soft gray, light ochre, hand-painted paper texture. Scene only in upper 35% and edges; the middle and lower 60% must dissolve into luminous mostly blank warm paper, reserved for readable poem text. Quiet spacious poetic mood, consistent elegant picture-book series. No text, characters, seals, borders, captions, UI, watermark, modern objects, dramatic saturation or photography.",
+    "file": "assets/featured/xun-yin-zhe-bu-yu.png",
+    "method": "built-in imagegen"
+  },
+  "deng-guan-que-lou": {
+    "prompt": "Use case: illustration-story. Asset type: a single 9:16 portrait background for a Tang poetry reading app, target 1024x1792. Depict 登鹳雀楼: seen from an ancient Chinese tower, a warm white sun descends behind layered distant mountains and the Yellow River curls toward the horizon; a very small tiled-roof tower at the upper left implies climbing to look farther. Refined quiet traditional watercolor and light ink on warm ivory xuan paper, muted celadon, dusty ochre, mist gray, delicate hand-painted texture. Keep the scene concentrated in the upper 35% and margins, with the middle and lower 60% mostly luminous blank paper for poem text. A spacious poetic picture-book page, not photorealistic. No text, letters, Chinese characters, seals, borders, UI, watermark, modern objects or saturated colors. Generate one full-bleed portrait illustration.",
+    "file": "assets/featured/deng-guan-que-lou.png",
+    "method": "built-in imagegen"
+  }
+}

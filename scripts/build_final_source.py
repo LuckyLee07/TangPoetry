@@ -212,6 +212,12 @@ def build() -> None:
     ]
     poems.sort(key=lambda poem: poem["order"])
 
+    # Visual briefs are editorial work, not disposable build output.
+    visuals = read_json(ROOT / "data" / "visuals.json", {})
+    for poem in poems:
+        if poem["id"] in visuals:
+            poem["visual"] = visuals[poem["id"]]
+
     missing_orders = [order for order in range(1, 321) if order not in {poem["order"] for poem in poems}]
     payload = {
         "schemaVersion": "1.0.0",
@@ -257,7 +263,7 @@ def build() -> None:
             {"order": poem["order"], "title": poem["title"], "author": poem["author"]}
             for poem in poems
             if not poem["notes"]
-        ][:80],
+        ],
     }
     REPORT_OUT.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 

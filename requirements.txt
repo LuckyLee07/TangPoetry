@@ -1,0 +1,4 @@
+beautifulsoup4>=4.12,<5
+opencc-python-reimplemented>=0.1.7,<0.2
+pypinyin>=0.53,<0.56
+Pillow>=10,<12

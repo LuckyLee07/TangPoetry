@@ -1,3 +1,5 @@
+> 历史会话记录（2026-05-10）。当前实现与运行方法以 [README.md](README.md) 和 [PROGRESS.md](PROGRESS.md) 为准；已采用横排全文，新增 SwiftUI 工程。
+
 # 会话恢复：019e1088-5bab-7e60-8f37-9f8945e62b4c
 
 恢复时间：2026-05-10
