@@ -271,24 +271,21 @@ body[data-paper="sage"] { --paper: #e8eee5; --paper-deep: #dce5d6; --paper-glass
 .poem-page { position: relative; flex: 0 0 100%; height: 100%; min-width: 0; overflow: hidden; scroll-snap-align: start; background: var(--paper); }
 .scene { position: absolute; inset: 0; margin: 0; overflow: hidden; }
 .scene img { width: 100%; height: 100%; object-fit: cover; object-position: center; }
-.art-ready { animation: illustration-appear 240ms ease-out both; }
-@keyframes illustration-appear { from { opacity: 0; } to { opacity: 1; } }
-.scene::after { position: absolute; inset: 0; content: ""; background: linear-gradient(180deg, transparent 18%, var(--paper) 66%); opacity: .94; }
+.scene::after { position: absolute; inset: 0; content: ""; background: linear-gradient(180deg, transparent max(70px, calc(var(--poem-top, 200px) - 72px)), var(--paper) calc(var(--poem-top, 200px) + 24px)); opacity: .94; }
 .book-ribbon { position: absolute; top: max(82px, calc(env(safe-area-inset-top) + 58px)); left: 34px; z-index: 3; color: #655847; font: 11px var(--sans); letter-spacing: .12em; }
-.poem-body { position: absolute; z-index: 4; top: 37%; bottom: 190px; left: 30px; right: 30px; overflow: auto; overscroll-behavior: contain; padding: 5px 4px 24px; text-align: center; scrollbar-width: thin; scrollbar-color: #b5a891 transparent; }
-.poem-title { margin: 0; font-size: 24px; font-weight: 500; line-height: 1.5; letter-spacing: .1em; overflow-wrap: anywhere; }
-.poem-author { margin: 8px 0 22px; font: 12px var(--sans); letter-spacing: .18em; color: #6b6051; }
-.poem-lines { container-type: inline-size; font-size: var(--reader-size); line-height: 2.05; letter-spacing: 0; }
+.poem-body { position: absolute; z-index: 4; top: var(--poem-top, 30%); bottom: var(--poem-bottom, 178px); left: 30px; right: 30px; overflow: auto; overscroll-behavior: contain; padding: 5px 4px 16px; text-align: center; scrollbar-width: thin; scrollbar-color: #b5a891 transparent; }
+.poem-title { margin: 0; font-size: var(--title-size, 24px); font-weight: 500; line-height: 1.4; letter-spacing: .1em; overflow-wrap: anywhere; }
+.poem-author { margin: 8px 0 14px; font: 12px var(--sans); letter-spacing: .18em; color: #6b6051; }
+.poem-lines { container-type: inline-size; font-size: var(--poem-size, var(--reader-size)); line-height: var(--verse-leading, 1.7); letter-spacing: 0; }
 /* Every glyph uses the same cell. Punctuation hangs beyond it, preserving the columns. */
-.verse-line { display: flex; flex-wrap: wrap; justify-content: center; min-height: 2.05em; }
+.verse-line { display: flex; flex-wrap: wrap; justify-content: center; min-height: calc(var(--verse-leading, 1.7) * 1em); }
 .verse-cell { position: relative; flex: 0 0 clamp(1em, calc((100cqw - var(--end-space)) / 7), 1.45em); text-align: center; }
 .verse-cell:last-child { margin-right: var(--end-space); }
 .verse-punctuation { position: absolute; left: calc(50% + .5em); top: 0; width: max-content; white-space: nowrap; }
-.note { position: absolute; z-index: 5; bottom: 86px; left: 34px; right: 34px; height: 90px; border-top: 1px solid var(--line); padding-top: 12px; text-align: left; color: #655b4d; font-family: var(--sans); }
+.note { position: absolute; z-index: 5; bottom: 78px; left: 34px; right: 34px; height: var(--note-height, 86px); border-top: 1px solid var(--line); padding-top: 12px; text-align: left; color: #655b4d; font-family: var(--sans); }
 .note h3 { font-size: 12px; font-weight: 500; color: #4f4436; letter-spacing: .06em; margin: 0 0 6px; }
 .note p { margin: 0; font-size: 12px; line-height: 1.8; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; overflow: hidden; }
 .notes-off .note { display: none; }
-.notes-off .poem-body, .poem-page.no-note .poem-body { bottom: 90px; }
 .note-more { position: absolute; right: -8px; top: -2px; min-height: 44px; min-width: 44px; font: 12px var(--sans); color: var(--seal); }
 .note h3 { padding-right: 45px; }
 .page-message { position: absolute; top: 48%; left: 25px; right: 25px; text-align: center; color: var(--ink-soft); font: 14px/1.8 var(--sans); }
@@ -334,7 +331,7 @@ select { min-height: 44px; max-width: 65%; padding: 5px 10px; border: 0; border-
 .storage-notice { position: absolute; z-index: 60; left: 20px; right: 20px; top: 70px; padding: 10px; border-radius: 8px; background: var(--paper); border: 1px solid var(--line); font: 12px/1.6 var(--sans); }
 .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; border: 0; }
 @media (max-width: 430px) { body { display: block; background: var(--paper); } .reader { width: 100vw; height: 100dvh; box-shadow: none; } }
-@media (max-height: 700px) { .home-copy { margin-top: 18px; } .home-copy h1 { font-size: 34px; } .poem-body { top: 27%; bottom: 178px; } .note { bottom: 78px; } .poem-author { margin-bottom: 14px; } }
+@media (max-height: 700px) { .home-copy { margin-top: 18px; } .home-copy h1 { font-size: 34px; } }
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { scroll-behavior: auto !important; transition: none !important; animation: none !important; } }
 @media (prefers-reduced-transparency: reduce) { .icon-button, .text-button, .text-pill { backdrop-filter: none; background: var(--paper); } }
 @media (prefers-contrast: more) { :root { --ink-soft: #453c32; --ink-faint: #453c32; --line: #8b7c68; } .note, .poem-author { color: #453c32; } }

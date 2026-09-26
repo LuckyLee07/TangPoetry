@@ -66,11 +66,13 @@ def build():
     source = read("data/final/tang_poems_final.json")
     editorial = read("data/editorial.json")["poems"]
     visuals = read("data/visuals.json")
+    art_plan_path = ROOT / "data/illustrations/plan.json"
+    art_plan = read("data/illustrations/plan.json")["poems"] if art_plan_path.exists() else {}
     catalog, missing = [], []
     for poem in source["poems"]:
         edit = editorial.get(poem["id"], {})
         theme = edit.get("theme", theme_for(poem))
-        candidate = edit.get("image") or visuals.get(poem["id"], {}).get("image", "")
+        candidate = edit.get("image") or art_plan.get(poem["id"], {}).get("image") or visuals.get(poem["id"], {}).get("image", "")
         dedicated = bool(candidate and (ROOT / candidate).is_file())
         if candidate and not dedicated:
             missing.append({"id": poem["id"], "image": candidate})
@@ -98,10 +100,12 @@ def build():
     write(OUT / "catalog.json", {"schemaVersion": 1, "poems": catalog})
     write(OUT / "build-report.json", {
         "poems": len(catalog), "featured": sum(p["featured"] for p in catalog),
+        "dedicatedArt": sum(p["dedicatedArt"] for p in catalog),
+        "artRemaining": sum(not p["dedicatedArt"] for p in catalog),
         "notesMissing": sum(not p["notes"] for p in source["poems"]),
         "unavailablePlannedArt": missing, "missingSourceOrders": source["stats"]["missingCtextOrders"]
     })
-    print(f"Built {len(catalog)} poems, {sum(p['featured'] for p in catalog)} featured; {len(missing)} planned assets use fallback.")
+    print(f"Built {len(catalog)} poems, {sum(p['featured'] for p in catalog)} featured, {sum(p['dedicatedArt'] for p in catalog)} dedicated illustrations; {len(missing)} planned assets use fallback.")
 
 
 if __name__ == "__main__":

@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
-import { migrateFavorites, sanitizeSettings, parseStored, filterPoems, initialIndex, createPoemLoader } from '../reader-core.js';
+import { migrateFavorites, sanitizeSettings, parseStored, filterPoems, initialIndex, createPoemLoader, readingLayout } from '../reader-core.js';
 
 const { poems } = JSON.parse(await readFile(new URL('../data/reader/catalog.json', import.meta.url)));
 
@@ -52,4 +52,28 @@ test('requests deduplicate, failed poems can retry, and cache remains bounded', 
   assert.equal(loader.size, 2);
   await loader.load('a');
   assert.equal(calls, 5);
+});
+
+test('poem length controls type size and position while long works stay readable', async () => {
+  const load = async id => ({ ...poems.find(p => p.id === id), ...JSON.parse(await readFile(new URL(`../data/reader/poems/${id}.json`, import.meta.url))) });
+  const short = await load('tang-233-ye-si');
+  const regulated = await load('tang-116-shan-ju-qiu-ming');
+  const epic = await load('tang-071-chang-hen-ge');
+  const a = readingLayout(short), b = readingLayout(regulated), c = readingLayout(epic);
+  assert.equal(a.kind, 'five-quatrain');
+  assert.equal(b.kind, 'five-regulated');
+  assert.equal(c.kind, 'long');
+  assert(a.fontSize > b.fontSize);
+  assert(a.top > b.top);
+  assert.equal(c.fitWhole, false);
+  assert(c.fontSize >= 18);
+  const small = readingLayout(regulated, { width: 320, height: 568 });
+  assert(small.fontSize < b.fontSize);
+  assert(small.fontSize >= 18);
+  assert(small.top < b.top);
+  const large = readingLayout(regulated, { fontSize: 30 });
+  assert(large.fontSize > b.fontSize);
+  const noNotes = readingLayout(regulated, { width: 320, height: 568, notes: false });
+  assert(noNotes.fontSize >= small.fontSize);
+  assert(noNotes.bottom < small.bottom);
 });

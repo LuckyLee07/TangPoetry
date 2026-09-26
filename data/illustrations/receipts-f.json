@@ -1,0 +1,354 @@
+{
+  "method": "built-in image_gen",
+  "range": [
+    221,
+    270
+  ],
+  "completed": [
+    {
+      "id": "tang-221-gong-ci",
+      "order": 221,
+      "title": "宫词",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-6eb3cd2c-62d8-4c75-a429-4bfde5e2aeb0.png",
+      "target": "assets/poem-art/tang-221-gong-ci.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-222-pin-nv",
+      "order": 222,
+      "title": "贫女",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-ff65162f-02b5-432b-92a4-994b1995415d.png",
+      "target": "assets/poem-art/tang-222-pin-nv.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-223-gu-yi-cheng-bu-que-qiao-zhi-zhi",
+      "order": 223,
+      "title": "古意呈补阙乔知之",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-30e8d08e-0f34-4596-828d-f1ade6672e5d.png",
+      "target": "assets/poem-art/tang-223-gu-yi-cheng-bu-que-qiao-zhi-zhi.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-226-song-bie",
+      "order": 226,
+      "title": "送别",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-d80fceea-975e-468b-9fae-15d4306791e3.png",
+      "target": "assets/poem-art/tang-226-song-bie.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-228-za-shi",
+      "order": 228,
+      "title": "杂诗",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-4ce90077-5045-4e0f-8dc6-a2ba20aaac1a.png",
+      "target": "assets/poem-art/tang-228-za-shi.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-229-song-cui-jiu",
+      "order": 229,
+      "title": "送崔九",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-04d52ede-a7e9-4ec4-862b-69671ecd8900.png",
+      "target": "assets/poem-art/tang-229-song-cui-jiu.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-234-yuan-qing",
+      "order": 234,
+      "title": "怨情",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-8169610e-f8b5-4758-890a-3a199a8956b1.png",
+      "target": "assets/poem-art/tang-234-yuan-qing.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-235-ba-zhen-tu",
+      "order": 235,
+      "title": "八阵图",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-05f444a7-3867-46b0-99b0-cc076302c32c.png",
+      "target": "assets/poem-art/tang-235-ba-zhen-tu.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-238-tan-qin",
+      "order": 238,
+      "title": "弹琴",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-1475b335-d7c4-440e-972b-0cc0a59eb3fc.png",
+      "target": "assets/poem-art/tang-238-tan-qin.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-239-song-shang-ren",
+      "order": 239,
+      "title": "送上人",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-7d680536-46a0-4aae-96e7-c2660b98487b.png",
+      "target": "assets/poem-art/tang-239-song-shang-ren.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-240-qiu-ye-ji-qiu-yuan-wai",
+      "order": 240,
+      "title": "秋夜寄邱员外",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-249ff750-ce04-492e-af07-aa56683e9e6c.png",
+      "target": "assets/poem-art/tang-240-qiu-ye-ji-qiu-yuan-wai.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-241-ting-zheng",
+      "order": 241,
+      "title": "听筝",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-b4ab8670-968b-4037-8f8e-a4f281238fbe.png",
+      "target": "assets/poem-art/tang-241-ting-zheng.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-242-xin-jia-niang",
+      "order": 242,
+      "title": "新嫁娘",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-3f3e0348-2e96-4aa5-99df-cc2321d70980.png",
+      "target": "assets/poem-art/tang-242-xin-jia-niang.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-243-yu-tai-ti",
+      "order": 243,
+      "title": "玉台体",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-b9466aa8-7434-4668-84eb-947f0bbe00a6.png",
+      "target": "assets/poem-art/tang-243-yu-tai-ti.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-245-xing-gong",
+      "order": 245,
+      "title": "行宫",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-23552cb4-6002-4455-a9dd-d32041eb60ac.png",
+      "target": "assets/poem-art/tang-245-xing-gong.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-247-he-man-zi",
+      "order": 247,
+      "title": "何满子",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-101d5e98-27cd-442d-bd57-3ab737143b18.png",
+      "target": "assets/poem-art/tang-247-he-man-zi.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-248-deng-le-you-yuan",
+      "order": 248,
+      "title": "登乐游原",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-75aeea14-e05a-4d91-a61b-ca1991295c56.png",
+      "target": "assets/poem-art/tang-248-deng-le-you-yuan.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-250-du-han-jiang",
+      "order": 250,
+      "title": "渡汉江",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-9377cb5d-77ab-404c-bddf-8132afde05e1.png",
+      "target": "assets/poem-art/tang-250-du-han-jiang.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-251-chun-yuan",
+      "order": 251,
+      "title": "春怨",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-3cc2b646-8714-4b0d-a6fd-0ee1b396baa2.png",
+      "target": "assets/poem-art/tang-251-chun-yuan.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-252-ge-shu-ge",
+      "order": 252,
+      "title": "哥舒歌",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-9f679b20-30ee-4a07-979c-9b530c29f981.png",
+      "target": "assets/poem-art/tang-252-ge-shu-ge.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-253-zhang-gan-xing-er-shou-zhi-yi",
+      "order": 253,
+      "title": "长干行二首之一",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-426e97bb-81db-474d-9d39-d700582eb520.png",
+      "target": "assets/poem-art/tang-253-zhang-gan-xing-er-shou-zhi-yi.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-254-zhang-gan-xing-er-shou-zhi-er",
+      "order": 254,
+      "title": "长干行二首之二",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-cf2e30a9-7fa8-482e-9792-750a8e5e3bb4.png",
+      "target": "assets/poem-art/tang-254-zhang-gan-xing-er-shou-zhi-er.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-255-yu-jie-yuan",
+      "order": 255,
+      "title": "玉阶怨",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-54a5ae5d-5132-4b07-b44e-0e2c768a3401.png",
+      "target": "assets/poem-art/tang-255-yu-jie-yuan.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-256-sai-xia-qu-si-shou-zhi-yi",
+      "order": 256,
+      "title": "塞下曲四首之一",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-a9aec51d-7b99-466d-a703-0b0fbe6e93a0.png",
+      "target": "assets/poem-art/tang-256-sai-xia-qu-si-shou-zhi-yi.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-257-sai-xia-qu-si-shou-zhi-er",
+      "order": 257,
+      "title": "塞下曲四首之二",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-4280b9a5-e04f-4413-97fb-6555ba618dd2.png",
+      "target": "assets/poem-art/tang-257-sai-xia-qu-si-shou-zhi-er.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no readable text or modern objects; poem-specific scene and generous reading space.",
+      "promptAddition": "\nSelect the poem's final moment precisely: at pale dawn the Tang general and one attendant discover a white-feathered arrow embedded deeply in a large irregular dark boulder at the edge of a pine wood, with windswept long grass. The general stands on foot beside the boulder and looks at the arrow. There is NO deer, NO animal, and NO hunting prey: he had mistaken a stone for a tiger. Upper-quarter intimate landscape scene; lower two-thirds blank ivory paper.",
+      "retryReason": "Initial image added deer; corrected to finding white-feathered arrow embedded in stone."
+    },
+    {
+      "id": "tang-258-sai-xia-qu-si-shou-zhi-san",
+      "order": 258,
+      "title": "塞下曲四首之三",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-ce064ccf-98f9-49e0-92fd-423f50e20dd2.png",
+      "target": "assets/poem-art/tang-258-sai-xia-qu-si-shou-zhi-san.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-259-sai-xia-qu-si-shou-zhi-si",
+      "order": 259,
+      "title": "塞下曲四首之四",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-bd496585-9e3c-41a1-b0ae-c524826613db.png",
+      "target": "assets/poem-art/tang-259-sai-xia-qu-si-shou-zhi-si.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-260-jiang-nan-qu",
+      "order": 260,
+      "title": "江南曲",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-f3e32db6-8db2-47ed-bf0b-a709758233dc.png",
+      "target": "assets/poem-art/tang-260-jiang-nan-qu.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-261-hui-xiang-ou-shu",
+      "order": 261,
+      "title": "回乡偶书",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-166ecb36-76f0-416c-8987-2cb8920572ee.png",
+      "target": "assets/poem-art/tang-261-hui-xiang-ou-shu.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-262-tao-hua-xi",
+      "order": 262,
+      "title": "桃花谿",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-a20d5de8-8d79-49eb-8d0f-030c9169caea.png",
+      "target": "assets/poem-art/tang-262-tao-hua-xi.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-263-jiu-yue-jiu-ri-yi-shan-dong-xiong-di",
+      "order": 263,
+      "title": "九月九日忆山东兄弟",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-925ef4fe-6f99-494a-b3a5-3e1aa1acb6a2.png",
+      "target": "assets/poem-art/tang-263-jiu-yue-jiu-ri-yi-shan-dong-xiong-di.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no readable text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-264-fu-rong-lou-song-xin-jian",
+      "order": 264,
+      "title": "芙蓉楼送辛渐",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-8c4617ec-7ca1-4a62-b50d-a9b55455f0a0.png",
+      "target": "assets/poem-art/tang-264-fu-rong-lou-song-xin-jian.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no readable text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-265-gui-yuan",
+      "order": 265,
+      "title": "闺怨",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-d0fa8f28-ef70-401b-90dc-62f7746e36e3.png",
+      "target": "assets/poem-art/tang-265-gui-yuan.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no readable text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-266-chun-gong-qu",
+      "order": 266,
+      "title": "春宫曲",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-685e7265-7f24-487c-94bb-6ff58ff250d7.png",
+      "target": "assets/poem-art/tang-266-chun-gong-qu.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no readable text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-267-liang-zhou-ci",
+      "order": 267,
+      "title": "凉州词",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-4ef4b100-8f7d-4207-b944-cc93fe09af4f.png",
+      "target": "assets/poem-art/tang-267-liang-zhou-ci.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no readable text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-268-song-meng-hao-ran-zhi-guang-ling",
+      "order": 268,
+      "title": "送孟浩然之广陵",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-e0559e28-98e1-4681-8e06-385d2e2349f6.png",
+      "target": "assets/poem-art/tang-268-song-meng-hao-ran-zhi-guang-ling.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-269-xia-jiang-ling",
+      "order": 269,
+      "title": "下江陵",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-f76166a9-b064-43be-9734-54d70fa254bf.png",
+      "target": "assets/poem-art/tang-269-xia-jiang-ling.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no text or modern objects; poem-specific scene and generous reading space."
+    },
+    {
+      "id": "tang-270-feng-ru-jing-shi",
+      "order": 270,
+      "title": "逢入京使",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc09-b63d-7170-bbfd-6e364d3f6491/exec-871c4ead-81cd-472f-8514-f5918a4110ac.png",
+      "target": "assets/poem-art/tang-270-feng-ru-jing-shi.png",
+      "status": "complete",
+      "inspection": "Viewed generated output: no text or modern objects; poem-specific scene and generous reading space."
+    }
+  ],
+  "failed": []
+}

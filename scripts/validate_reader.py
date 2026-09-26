@@ -8,6 +8,9 @@ catalog = json.loads((ROOT / "data/reader/catalog.json").read_text())["poems"]
 source = {p["id"]: p for p in json.loads((ROOT / "data/final/tang_poems_final.json").read_text())["poems"]}
 assert len(catalog) == len(source) == 317
 assert len({p["id"] for p in catalog}) == 317
+assert all(p["dedicatedArt"] for p in catalog), "Every poem must have its own illustration"
+assert len({p["image"] for p in catalog}) == 317
+assert len({p["thumbnail"] for p in catalog}) == 317
 assert [p["order"] for p in catalog] == sorted(p["order"] for p in catalog)
 for poem in catalog:
     for key in ("image", "thumbnail"):

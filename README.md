@@ -1,6 +1,6 @@
 # 唐诗画笺
 
-手机竖屏唐诗读本：317 首全文，20 首专属插画，纸色、字号与简注可调；当前阅读界面不显示拼音。当前版本 **0.2**，同时包含可直接预览的网页和 SwiftUI iPhone 工程。
+手机竖屏唐诗读本：317 首全文与 317 幅专属插画，按诗体和篇幅自动调整字号与位置，纸色、字号与简注可调；当前阅读界面不显示拼音。当前版本 **0.3**，同时包含可直接预览的网页和 SwiftUI iPhone 工程。
 
 ## 网页运行
 
@@ -16,7 +16,7 @@ npm start
 npm test
 ```
 
-测试覆盖收藏迁移、同名诗独立收藏、异常设置恢复、题名别名/诗句/繁体搜索、加载重试与缓存；数据校验遍历全部诗文及图片引用。
+测试覆盖收藏迁移、同名诗独立收藏、异常设置恢复、题名别名/诗句/繁体搜索、加载重试与缓存，以及绝句、律诗、长诗的自适应排版；数据校验遍历全部诗文及图片引用。
 
 ## iPhone 运行
 
@@ -46,7 +46,8 @@ xcodebuild -project ios/TangPoetry.xcodeproj -scheme TangPoetry \
 ```text
 归档内容 data/final/tang_poems_final.json
   + 编辑覆盖 data/editorial.json
-  + 插画策划 data/visuals.json
+  + 原有插画策划 data/visuals.json
+  + 逐首插画与提示词 data/illustrations/plan.json
   → scripts/build_reader.py
   → data/reader/catalog.json + poems/*.json + assets/optimized/*.webp
   → scripts/prepare_ios.py → ios/Content/
@@ -62,13 +63,25 @@ python3 scripts/prepare_ios.py
 
 重建图片需要 `cwebp`（如 Homebrew 的 `webp` 包）。重建更上游的归档源时，先在虚拟环境安装 `requirements.txt`，依次执行 `scripts/build_final_source.py`、`scripts/split_final_poems.py`，最后再构建阅读数据。历史 `data/poems.json` 不再作为客户端入口。
 
-11 张新增插画的原图与完整生成提示词保存在 `assets/featured/`；全部 20 张使用中的插图生成大图和缩略图两种 WebP，共约 2.73 MB。原图保留，客户端不直接下载原尺寸 PNG。
+原有 20 张专属图保留，本轮新增 297 张已全部生成、检查并接入。新增原图放在 `assets/poem-art/`，逐首提示词、输出来源和视觉检查记录在 `data/illustrations/`。客户端仅下载压缩后的大图和缩略图，原尺寸 PNG 用于保留和后续编辑。
+
+```sh
+python3 scripts/audit_illustrations.py --require-complete
+```
+
+该命令检查 297 张新增原图的完整性、竖幅尺寸、独立文件内容与视觉检查记录。当前生成及接入数量分别见 `data/illustrations/audit.json` 和 `data/reader/build-report.json`。
+
+## 自适应阅读
+
+五言绝句以 26px、七言绝句以 24px 为基准；五律与七律以 22px、21px 为基准，正文位置上移。古诗、乐府按实际分句长度与行数选择排版，不仅依赖分类标签。小屏会进一步调整字号、行距和正文区域；长篇保持舒适字号并允许纵向滚动。用户选择的大字号和 iOS 动态字体会参与计算，不会为了塞满一页无限缩字。
+
+网页与原生端均使用等宽汉字单元，句尾标点独立定位。插画后的纸色渐变跟随正文位置，保持文字对比度。本轮暂不添加插画动画。
 
 ## 当前边界
 
 - 20 首精选完成插画、短诗意与拼音初校，仍标记 `editorial-draft`，并非出版级终审。普通诗的主题为规则推断，拼音沿用来源数据。
 - 原始 320 首书序中仍缺 43、134、278；现有 317 首全部保留全文，90 首仍缺来源注释。缺失不以占位文本冒充完成。
-- 35 首五言古诗的视觉策划中还有 31 张未制作。阅读器使用有效背景回退，不显示破图，也不将它们计为精选。
+- 插画是否独立和内容是否精选分开管理，补图不会改变原有 20 首精选的编辑状态。
 - 网页收藏与原生收藏各自保存在本机；网页兼容旧标题收藏迁移，不提供跨端同步。
 - 尚未完成全库人工校勘、真机验收、App Icon、发布签名及 App Store 素材。
 

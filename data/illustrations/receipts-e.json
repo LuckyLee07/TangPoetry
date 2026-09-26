@@ -1,0 +1,508 @@
+[
+  {
+    "id": "tang-171-xing-jing-hua-yin",
+    "order": 171,
+    "title": "行经华阴",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-65f66a72-853d-4d06-b5f7-36cf49d46667.png",
+    "destination": "assets/poem-art/tang-171-xing-jing-hua-yin.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-172-wang-ji-men",
+    "order": 172,
+    "title": "望蓟门",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-97e099dc-ccaa-4195-bf8d-b7c9ba3b978a.png",
+    "destination": "assets/poem-art/tang-172-wang-ji-men.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-173-song-wei-wan-zhi-jing",
+    "order": 173,
+    "title": "送魏万之京",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-bcc69f65-746e-4707-9a09-9900f3fca9c8.png",
+    "destination": "assets/poem-art/tang-173-song-wei-wan-zhi-jing.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-174-jiu-ri-deng-wang-xian-tai-cheng-liu-ming-fu",
+    "order": 174,
+    "title": "九日登望仙台呈刘明府",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-e599cb0f-99bc-4a51-890d-1ba5757b9671.png",
+    "destination": "assets/poem-art/tang-174-jiu-ri-deng-wang-xian-tai-cheng-liu-ming-fu.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-175-deng-jin-ling-feng-huang-tai",
+    "order": 175,
+    "title": "登金陵凤凰台",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-9ea4e642-04c6-4911-a26b-ec67cae24df4.png",
+    "destination": "assets/poem-art/tang-175-deng-jin-ling-feng-huang-tai.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-176-song-li-shao-fu-bian-xia-zhong-wang-shao-fu-bian-chang-sha",
+    "order": 176,
+    "title": "送李少府贬峡中王少府贬长沙",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-43456897-9082-4f63-85d5-dd72cce29d70.png",
+    "destination": "assets/poem-art/tang-176-song-li-shao-fu-bian-xia-zhong-wang-shao-fu-bian-chang-sha.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-177-feng-he-zhong-shu-she-ren-jia-zhi-zao-chao-da-ming-gong",
+    "order": 177,
+    "title": "奉和中书舍人贾至早朝大明宫",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-f8fb249a-7acc-455f-941a-495bd9d481d9.png",
+    "destination": "assets/poem-art/tang-177-feng-he-zhong-shu-she-ren-jia-zhi-zao-chao-da-ming-gong.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。",
+    "retryReason": "初稿出现双太阳，重新生成已纠正。",
+    "promptAppend": "One visible sun only, no second sun or second disc. No writing even on plaques; plaques must be blank."
+  },
+  {
+    "id": "tang-178-he-jia-she-ren-zao-chao-da-ming-gong-zhi-zuo",
+    "order": 178,
+    "title": "和贾舍人早朝大明宫之作",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-faa4411d-b733-4036-a8ca-8e5ef40ad682.png",
+    "destination": "assets/poem-art/tang-178-he-jia-she-ren-zao-chao-da-ming-gong-zhi-zuo.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-179-feng-he-sheng-zhi-cong-peng-lai-xiang-xing-qing-ge-dao-zhong-liu-chun-yu-zhong-c",
+    "order": 179,
+    "title": "奉和圣制从蓬莱向兴庆阁道中留春雨中春望之作应制",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-625f3736-8044-4085-ad3f-62bd057bf522.png",
+    "destination": "assets/poem-art/tang-179-feng-he-sheng-zhi-cong-peng-lai-xiang-xing-qing-ge-dao-zhong-liu-chun-yu-zhong-c.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-180-ji-yu-wang-chuan-zhuang-zuo",
+    "order": 180,
+    "title": "积雨辋川庄作",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-951201d7-0774-44bc-bc83-8c5f81a519f8.png",
+    "destination": "assets/poem-art/tang-180-ji-yu-wang-chuan-zhuang-zuo.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-181-chou-guo-gei-shi",
+    "order": 181,
+    "title": "酬郭给事",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-45a46c7c-bff9-4138-9616-7c8968aa58b1.png",
+    "destination": "assets/poem-art/tang-181-chou-guo-gei-shi.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-182-shu-xiang",
+    "order": 182,
+    "title": "蜀相",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-7d4283a9-4189-4f7d-ba9c-b642e90b3761.png",
+    "destination": "assets/poem-art/tang-182-shu-xiang.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-183-ke-zhi",
+    "order": 183,
+    "title": "客至",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-94270ec6-c169-4e94-92f8-beb4234a8caa.png",
+    "destination": "assets/poem-art/tang-183-ke-zhi.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-184-ye-wang",
+    "order": 184,
+    "title": "野望",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-d419004c-abfe-4426-813b-ea1a0e234647.png",
+    "destination": "assets/poem-art/tang-184-ye-wang.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-185-wen-guan-jun-shou-he-nan-he-bei",
+    "order": 185,
+    "title": "闻官军收河南河北",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-01637cc2-b010-4a34-99b7-28f5ee414410.png",
+    "destination": "assets/poem-art/tang-185-wen-guan-jun-shou-he-nan-he-bei.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-186-deng-gao",
+    "order": 186,
+    "title": "登高",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-a5e06664-73f2-41a8-a11c-c4b739846f36.png",
+    "destination": "assets/poem-art/tang-186-deng-gao.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-187-deng-lou",
+    "order": 187,
+    "title": "登楼",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-af030406-2824-4712-94ee-875533c1fe80.png",
+    "destination": "assets/poem-art/tang-187-deng-lou.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-188-su-fu",
+    "order": 188,
+    "title": "宿府",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-6ec174ff-9801-4604-9b92-2730d1c6b4de.png",
+    "destination": "assets/poem-art/tang-188-su-fu.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-189-ge-ye",
+    "order": 189,
+    "title": "阁夜",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-de304171-1200-4473-ad95-8e3bcc7ca992.png",
+    "destination": "assets/poem-art/tang-189-ge-ye.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-190-yong-huai-gu-ji-wu-shou-zhi-yi",
+    "order": 190,
+    "title": "咏怀古迹五首之一",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-19f1cda4-14a5-4b67-b882-bbf9436cf8b2.png",
+    "destination": "assets/poem-art/tang-190-yong-huai-gu-ji-wu-shou-zhi-yi.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-191-yong-huai-gu-ji-wu-shou-zhi-er",
+    "order": 191,
+    "title": "咏怀古迹五首之二",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-411bcc61-793c-4e49-8545-59df48e53e9d.png",
+    "destination": "assets/poem-art/tang-191-yong-huai-gu-ji-wu-shou-zhi-er.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-192-yong-huai-gu-ji-wu-shou-zhi-san",
+    "order": 192,
+    "title": "咏怀古迹五首之三",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-3a43b4ff-ce27-48ad-97dd-8c29f2d8a849.png",
+    "destination": "assets/poem-art/tang-192-yong-huai-gu-ji-wu-shou-zhi-san.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-193-yong-huai-gu-ji-wu-shou-zhi-si",
+    "order": 193,
+    "title": "咏怀古迹五首之四",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-f746a4ec-8474-426a-b870-896cc1e258b9.png",
+    "destination": "assets/poem-art/tang-193-yong-huai-gu-ji-wu-shou-zhi-si.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-194-yong-huai-gu-ji-wu-shou-zhi-wu",
+    "order": 194,
+    "title": "咏怀古迹五首之五",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-37f9f569-ca69-4c07-b682-f5e6b381db0b.png",
+    "destination": "assets/poem-art/tang-194-yong-huai-gu-ji-wu-shou-zhi-wu.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-195-jiang-zhou-zhong-bie-xue-liu-liu-ba-er-yuan-wai",
+    "order": 195,
+    "title": "江州重别薛六柳八二员外",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-14c77b24-7ca2-44aa-95dc-d85d505e3b86.png",
+    "destination": "assets/poem-art/tang-195-jiang-zhou-zhong-bie-xue-liu-liu-ba-er-yuan-wai.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-196-chang-sha-guo-jia-yi-zhai",
+    "order": 196,
+    "title": "长沙过贾谊宅",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-75264ba5-3130-4dbe-8eb8-d2c86a641415.png",
+    "destination": "assets/poem-art/tang-196-chang-sha-guo-jia-yi-zhai.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-197-zi-xia-kou-zhi-ying-zhou-xi-wang-yue-yang-ji-yuan-zhong-cheng",
+    "order": 197,
+    "title": "自夏口至鹦洲夕望岳阳寄源中丞",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-1c87cb46-b31b-4365-8c04-7c8770b3e551.png",
+    "destination": "assets/poem-art/tang-197-zi-xia-kou-zhi-ying-zhou-xi-wang-yue-yang-ji-yuan-zhong-cheng.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-198-zeng-que-xia-pei-she-ren",
+    "order": 198,
+    "title": "赠阙下裴舍人",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-542fef4e-a3de-4c10-9e4d-585180cde574.png",
+    "destination": "assets/poem-art/tang-198-zeng-que-xia-pei-she-ren.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-199-ji-li-dan-yuan-xi",
+    "order": 199,
+    "title": "寄李儋元锡",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-eb672930-4b22-4be3-b940-acb91c2971e0.png",
+    "destination": "assets/poem-art/tang-199-ji-li-dan-yuan-xi.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-200-tong-ti-xian-you-guan",
+    "order": 200,
+    "title": "同题仙游观",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-ed9cf903-ff1e-4950-87ff-be7a7fece8db.png",
+    "destination": "assets/poem-art/tang-200-tong-ti-xian-you-guan.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-201-chun-si",
+    "order": 201,
+    "title": "春思",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-128b726a-dca8-44f0-842a-d7cc1b9f7d09.png",
+    "destination": "assets/poem-art/tang-201-chun-si.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-202-wan-ci-e-zhou",
+    "order": 202,
+    "title": "晚次鄂州",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-e36f845c-70cb-4ec9-ba98-15cfdb5ec144.png",
+    "destination": "assets/poem-art/tang-202-wan-ci-e-zhou.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-203-deng-liu-zhou-cheng-lou-ji-zhang-ting-feng-lian-si-zhou-ci-shi",
+    "order": 203,
+    "title": "登柳州城楼寄漳汀封连四州刺史",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-bea24f4d-6c32-4ec0-9c75-27627c5d5073.png",
+    "destination": "assets/poem-art/tang-203-deng-liu-zhou-cheng-lou-ji-zhang-ting-feng-lian-si-zhou-ci-shi.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-204-xi-sai-shan-huai-gu",
+    "order": 204,
+    "title": "西塞山怀古",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-e6154277-bfee-47ee-90b3-a499f0ab6670.png",
+    "destination": "assets/poem-art/tang-204-xi-sai-shan-huai-gu.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-205-qian-bei-huai-zhi-yi",
+    "order": 205,
+    "title": "遣悲怀之一",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-e17f6eb7-eda2-4a86-94ce-1f75b24c22cd.png",
+    "destination": "assets/poem-art/tang-205-qian-bei-huai-zhi-yi.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-206-qian-bei-huai-zhi-er",
+    "order": 206,
+    "title": "遣悲怀之二",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-a8aed93e-8109-41b1-9e19-f608fc15ef4a.png",
+    "destination": "assets/poem-art/tang-206-qian-bei-huai-zhi-er.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-207-qian-bei-huai-zhi-san",
+    "order": 207,
+    "title": "遣悲怀之三",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-2cb89261-232e-4f2b-82c2-7ec652e37d7f.png",
+    "destination": "assets/poem-art/tang-207-qian-bei-huai-zhi-san.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-208-zi-he-nan-jing-luan-guan-nei-zu-ji-xiong-di-li-san-ge-zai-yi-chu-yin-wang-yue-yo",
+    "order": 208,
+    "title": "自河南经乱，关内阻饥，兄弟离散，各在一处。因望月有感，聊书所怀，寄上浮梁大兄，於潜七兄，乌江十五兄，兼示符离及下邽弟妹。",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-a3c26df1-b73e-4b58-84e2-26a26c727c6e.png",
+    "destination": "assets/poem-art/tang-208-zi-he-nan-jing-luan-guan-nei-zu-ji-xiong-di-li-san-ge-zai-yi-chu-yin-wang-yue-yo.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-209-jin-se",
+    "order": 209,
+    "title": "锦瑟",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-1f8afa51-c830-4e5b-8f5d-e80b8a39de03.png",
+    "destination": "assets/poem-art/tang-209-jin-se.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-210-wu-ti",
+    "order": 210,
+    "title": "无题",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-5410e3cf-a085-441e-9012-0470f5e02049.png",
+    "destination": "assets/poem-art/tang-210-wu-ti.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-211-sui-gong",
+    "order": 211,
+    "title": "隋宫",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-43593599-225e-4370-aa4f-e6dc40fc0246.png",
+    "destination": "assets/poem-art/tang-211-sui-gong.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-212-wu-ti-zhi-yi",
+    "order": 212,
+    "title": "无题之一",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-d9b82e90-d2d0-40cd-8d7c-96a352c1ce58.png",
+    "destination": "assets/poem-art/tang-212-wu-ti-zhi-yi.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。",
+    "retryReason": "初稿书页或旗帜出现疑似文字，重新生成已纠正。",
+    "promptAppend": "Strict correction: ALL flags, plaques, books, pages and scrolls must be completely blank with no symbols or markings. No writing anywhere at all."
+  },
+  {
+    "id": "tang-213-wu-ti-zhi-er",
+    "order": 213,
+    "title": "无题之二",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-25b59a58-63c4-46d7-ba33-2e8d6c76c06d.png",
+    "destination": "assets/poem-art/tang-213-wu-ti-zhi-er.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-214-chou-bi-yi",
+    "order": 214,
+    "title": "筹笔驿",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-d64a520d-4ebc-4105-9617-0ce125153c8c.png",
+    "destination": "assets/poem-art/tang-214-chou-bi-yi.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。",
+    "retryReason": "初稿书页或旗帜出现疑似文字，重新生成已纠正。",
+    "promptAppend": "Strict correction: ALL flags, plaques, books, pages and scrolls must be completely blank with no symbols or markings. No writing anywhere at all."
+  },
+  {
+    "id": "tang-215-wu-ti-zhi-san",
+    "order": 215,
+    "title": "无题之三",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-df990164-ad72-4b71-be6c-4755c58e880c.png",
+    "destination": "assets/poem-art/tang-215-wu-ti-zhi-san.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-216-chun-yu",
+    "order": 216,
+    "title": "春雨",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-987eac97-c279-455d-82ed-b5e43497de71.png",
+    "destination": "assets/poem-art/tang-216-chun-yu.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-217-wu-ti-zhi-si",
+    "order": 217,
+    "title": "无题之四",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-e40a998d-2e8b-4caa-a1c0-8129b90bf13d.png",
+    "destination": "assets/poem-art/tang-217-wu-ti-zhi-si.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-218-wu-ti-zhi-wu",
+    "order": 218,
+    "title": "无题之五",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-a0587310-999d-4aec-9c85-2570392ce2b2.png",
+    "destination": "assets/poem-art/tang-218-wu-ti-zhi-wu.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-219-li-zhou-nan-du",
+    "order": 219,
+    "title": "利洲南渡",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-675d11ea-9ba7-48b6-bac5-6fcbd558cff2.png",
+    "destination": "assets/poem-art/tang-219-li-zhou-nan-du.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-220-su-wu-miao",
+    "order": 220,
+    "title": "苏武庙",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-e175c80d-f127-40c2-b0b2-2d86b2cac0f4.png",
+    "destination": "assets/poem-art/tang-220-su-wu-miao.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无可读文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  }
+]

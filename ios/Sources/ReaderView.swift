@@ -28,18 +28,10 @@ private enum ArtworkCache {
 
 struct Artwork: View {
     let path: String
-    var fadeIn = false
-    @Environment(\.accessibilityReduceMotion) private var reduceMotion
-    @State private var appeared = false
 
     var body: some View {
         if let image = ArtworkCache.image(path) {
             Image(uiImage: image).resizable().scaledToFill().accessibilityHidden(true)
-                .opacity(!fadeIn || reduceMotion || appeared ? 1 : 0)
-                .onAppear {
-                    guard fadeIn && !appeared else { return }
-                    withAnimation(reduceMotion ? nil : .easeOut(duration: 0.24)) { appeared = true }
-                }
         }
         else { Color.clear }
     }
@@ -92,7 +84,7 @@ struct ReaderView: View {
     private var cover: some View {
         GeometryReader { geometry in
             ZStack(alignment: .topTrailing) {
-                Artwork(path: "Art/song-yuan-er-page.jpg", fadeIn: true).frame(width: geometry.size.width, height: geometry.size.height).clipped()
+                Artwork(path: "Art/song-yuan-er-page.jpg").frame(width: geometry.size.width, height: geometry.size.height).clipped()
                 LinearGradient(colors: [.clear, store.settings.paperColor], startPoint: .center, endPoint: .bottom)
                 VStack(alignment: .trailing, spacing: 16) {
                     Text("唐\n诗\n三\n百\n首").font(.custom("STSongti-SC-Regular", size: 40, relativeTo: .largeTitle)).lineSpacing(4)
@@ -101,7 +93,7 @@ struct ReaderView: View {
                 VStack(spacing: 20) {
                     Spacer()
                     Text("孙洙选本 · 一页一诗，一诗一画").font(.caption).foregroundStyle(.secondary)
-                    Text("\(store.poems.count) 首 · \(store.poems.filter(\.featured).count) 幅精选").font(.caption)
+                    Text("\(store.poems.count) 首 · \(store.poems.filter(\.dedicatedArt).count) 幅画笺").font(.caption)
                     HStack(spacing: 12) {
                         Button(store.currentIndex == 0 ? "入卷" : "续读") { home = false }.buttonStyle(.borderedProminent)
                         Button("目录") { collection = "all"; sheet = .library }.buttonStyle(.bordered)
@@ -164,41 +156,63 @@ struct PoemPageView: View {
     @State private var failed = false
     @State private var retry = 0
     @State private var showNotes = false
+    @State private var measuredNoteHeight: CGFloat?
+    @ScaledMetric(relativeTo: .title2) private var scaledBase: CGFloat = 22
 
     var body: some View {
         GeometryReader { geometry in
-            ZStack {
-                Artwork(path: poem.image, fadeIn: true).frame(width: geometry.size.width, height: geometry.size.height).clipped()
-                LinearGradient(stops: [.init(color: .clear, location: 0.16), .init(color: store.settings.paperColor.opacity(0.95), location: 0.65)], startPoint: .top, endPoint: .bottom)
+            let hasNote = store.settings.notes && !(detail?.note.isEmpty ?? true)
+            let layout = PoemLayout.resolve(
+                section: poem.section, lines: detail?.rubyLines.map { $0.map(\.text).joined() } ?? [],
+                title: poem.title, author: poem.author, size: geometry.size,
+                fontSetting: store.settings.fontSize, dynamicScale: scaledBase / 22,
+                notesHeight: hasNote ? measuredNoteHeight ?? 96 * scaledBase / 22 : 0
+            )
+            let paperStart = min(1, max(70, layout.contentTop - 72) / max(1, geometry.size.height))
+            let paperSolid = min(1, (layout.contentTop + 24) / max(1, geometry.size.height))
+            ZStack(alignment: .top) {
+                Artwork(path: poem.image).frame(width: geometry.size.width, height: geometry.size.height).clipped()
+                LinearGradient(stops: [
+                    .init(color: .clear, location: paperStart),
+                    .init(color: store.settings.paperColor.opacity(0.94), location: paperSolid),
+                    .init(color: store.settings.paperColor.opacity(0.98), location: max(paperSolid, 0.80))
+                ], startPoint: .top, endPoint: .bottom)
+                Text("第\(poem.order)首 · \(poem.section)").font(.caption2).foregroundStyle(.secondary)
+                    .frame(maxWidth: .infinity, alignment: .leading).padding(.top, 68).padding(.horizontal, layout.horizontalPadding)
                 VStack(spacing: 0) {
-                    Text("第\(poem.order)首 · \(poem.section)").font(.caption2).foregroundStyle(.secondary).frame(maxWidth: .infinity, alignment: .leading).padding(.top, 68)
-                    Spacer().frame(height: max(28, geometry.size.height * 0.28 - 80))
                     if let detail {
                         ScrollView {
-                            VStack(spacing: 16) {
-                                Text(poem.title).font(.custom("STSongti-SC-Regular", size: 25, relativeTo: .title2)).multilineTextAlignment(.center)
-                                Text("唐 · \(poem.author)").font(.caption).foregroundStyle(.secondary).padding(.bottom, 4)
-                                VStack(spacing: 10) {
+                            VStack(spacing: layout.bodySpacing) {
+                                VStack(spacing: layout.headerSpacing) {
+                                    Text(poem.title).font(.custom("STSongti-SC-Regular", fixedSize: layout.titleSize))
+                                        .multilineTextAlignment(.center).fixedSize(horizontal: false, vertical: true)
+                                    Text("唐 · \(poem.author)").font(.system(size: layout.authorSize)).foregroundStyle(.secondary)
+                                }
+                                VStack(spacing: layout.lineSpacing) {
                                     ForEach(detail.rubyLines.indices, id: \.self) { index in
-                                        VerseLine(tokens: detail.rubyLines[index], size: store.settings.fontSize)
+                                        VerseLine(tokens: detail.rubyLines[index], fontSize: layout.fontSize)
                                     }
                                 }
-                            }.frame(maxWidth: .infinity).padding(.vertical, 6).padding(.bottom, 20)
+                            }.frame(maxWidth: .infinity).padding(.bottom, 20)
                         }.onTapGesture(perform: toggleControls)
-                        if store.settings.notes && !detail.note.isEmpty {
+                        if hasNote {
                             Button { showNotes = true } label: {
                                 VStack(alignment: .leading, spacing: 8) {
                                     Divider()
                                     HStack { Text(detail.noteTitle).font(.caption.weight(.medium)); Spacer(); Text("展开").font(.caption2) }
                                     Text(detail.note).font(.caption).lineSpacing(4).lineLimit(2).foregroundStyle(.secondary)
                                 }.padding(.top, 12).padding(.bottom, 12).frame(maxWidth: .infinity, alignment: .leading)
-                            }.buttonStyle(.plain).accessibilityLabel("查看\(poem.title)的完整诗意和注释")
+                                    .fixedSize(horizontal: false, vertical: true)
+                            }.buttonStyle(.plain)
+                                .background(GeometryReader { noteGeometry in Color.clear.preference(key: NoteHeightPreference.self, value: noteGeometry.size.height) })
+                                .onPreferenceChange(NoteHeightPreference.self) { measuredNoteHeight = $0 }
+                                .accessibilityLabel("查看\(poem.title)的完整诗意和注释")
                         }
                     } else if failed {
                         VStack { Text("这一页暂时未能打开。"); Button("重试此页") { retry += 1 } }.frame(maxWidth: .infinity, maxHeight: .infinity)
                     } else { ProgressView("展卷中…").frame(maxWidth: .infinity, maxHeight: .infinity) }
                     Spacer().frame(height: 65)
-                }.padding(.horizontal, 30)
+                }.padding(.top, layout.contentTop).padding(.horizontal, layout.horizontalPadding)
             }
         }
         .task(id: "\(poem.id)-\(retry)") {
@@ -211,6 +225,11 @@ struct PoemPageView: View {
     }
 }
 
+private struct NoteHeightPreference: PreferenceKey {
+    static var defaultValue: CGFloat = 0
+    static func reduce(value: inout CGFloat, nextValue: () -> CGFloat) { value = nextValue() }
+}
+
 private struct VerseGlyph {
     let text: String
     var punctuation = ""
@@ -218,9 +237,7 @@ private struct VerseGlyph {
 
 struct VerseLine: View {
     let tokens: [RubyToken]
-    let size: Int
-    @ScaledMetric(relativeTo: .title2) private var scaledBase: CGFloat = 22
-    private var fontSize: CGFloat { scaledBase * CGFloat(size) / 22 }
+    let fontSize: CGFloat
     private var cellWidth: CGFloat { fontSize * 1.18 }
     private var glyphs: [VerseGlyph] {
         let characters = tokens.flatMap { Array($0.text) }
@@ -246,13 +263,13 @@ struct VerseLine: View {
         VerseGrid(cellWidth: cellWidth, hangingWidth: CGFloat(glyphs.map { $0.punctuation.count }.max() ?? 0) * fontSize, rowSpacing: fontSize * 0.35) {
             ForEach(Array(glyphs.enumerated()), id: \.offset) { _, glyph in
                 Text(glyph.text)
-                    .font(.custom("STSongti-SC-Regular", size: fontSize))
+                    .font(.custom("STSongti-SC-Regular", fixedSize: fontSize))
                     .fixedSize()
                     .frame(width: cellWidth, height: fontSize * 1.45)
                     .overlay(alignment: .leading) {
                         if !glyph.punctuation.isEmpty {
                             Text(glyph.punctuation)
-                                .font(.custom("STSongti-SC-Regular", size: fontSize))
+                                .font(.custom("STSongti-SC-Regular", fixedSize: fontSize))
                                 .fixedSize()
                                 .offset(x: cellWidth)
                         }

@@ -1,4 +1,4 @@
-import { parseStored, sanitizeSettings, migrateFavorites, filterPoems, initialIndex, createPoemLoader } from './reader-core.js';
+import { parseStored, sanitizeSettings, migrateFavorites, filterPoems, initialIndex, createPoemLoader, readingLayout } from './reader-core.js?v=0.3.2';
 
 const $ = selector => document.querySelector(selector);
 const escapeHTML = value => String(value ?? '').replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
@@ -11,10 +11,11 @@ const pages = $('#pages');
 const settings = sanitizeSettings(storage.read(keys.settings, null));
 let poems = [], favorites = new Set(), currentIndex = 0, homeVisible = true, controlsVisible = true;
 let filters = { query: '', collection: 'all', category: 'all' };
-let shells = [], activeIDs = new Set(), loading = false, lastSavedID = '';
+let shells = [], activeIDs = new Set(), loading = false, lastSavedID = '', alignedWidth = 0;
+const pageDetails = new WeakMap();
 
 async function fetchJSON(url) {
-  const response = await fetch(url, { signal: AbortSignal.timeout(15000) });
+  const response = await fetch(url, { cache: 'no-cache', signal: AbortSignal.timeout(15000) });
   if (!response.ok) throw new Error(`HTTP ${response.status}`);
   return response.json();
 }
@@ -28,6 +29,7 @@ function applySettings() {
   $('#settingNotes').checked = settings.notes;
   $('#fontSize').value = settings.fontSize;
   document.querySelectorAll('[name="paper"]').forEach(input => { input.checked = input.value === settings.paper; });
+  layoutMountedPages();
 }
 function changeSetting(key, value) { settings[key] = value; applySettings(); storage.write(keys.settings, settings); }
 
@@ -60,12 +62,28 @@ function verses(lines) {
     return `<div class="verse-line" role="group" style="--end-space:${endSpace}em" aria-label="${escapeHTML(text)}">${cells.map(cell => `<span class="verse-cell" aria-hidden="true">${escapeHTML(cell.character)}${cell.marks ? `<span class="verse-punctuation">${escapeHTML(cell.marks)}</span>` : ''}</span>`).join('')}</div>`;
   }).join('');
 }
-function revealArt(image) {
-  const reveal = () => { if (image.naturalWidth) image.classList.add('art-ready'); };
-  if (image.complete) reveal();
-  else image.addEventListener('load', reveal, { once: true });
+function layoutPage(element) {
+  const detail = pageDetails.get(element);
+  if (!detail || !element.querySelector('.poem-body')) return;
+  const layout = readingLayout(detail, { width: pages.clientWidth, height: pages.clientHeight, fontSize: settings.fontSize, notes: settings.notes });
+  element.dataset.layout = layout.kind;
+  for (const [name, value] of Object.entries({ 'poem-top': layout.top, 'poem-bottom': layout.bottom, 'poem-size': layout.fontSize, 'title-size': layout.titleSize, 'note-height': layout.noteHeight })) {
+    element.style.setProperty(`--${name}`, `${value}px`);
+  }
+  element.style.setProperty('--verse-leading', layout.lineHeight);
+  // Account for actual fonts, title wrapping and browser scrollbar width after the estimate.
+  const body = element.querySelector('.poem-body');
+  let size = layout.fontSize;
+  while (layout.fitWhole && size > layout.minimumFont && body.scrollHeight > body.clientHeight) {
+    size = Math.max(layout.minimumFont, size - 0.5);
+    element.style.setProperty('--poem-size', `${size}px`);
+  }
+}
+function layoutMountedPages() {
+  for (const element of shells) if (element.childNodes.length) layoutPage(element);
 }
 function renderPage(element, poem, detail) {
+  pageDetails.set(element, { ...detail, section: poem.section });
   element.classList.toggle('no-note', !detail.note);
   element.innerHTML = `<figure class="scene" aria-hidden="true"><img src="./${escapeHTML(poem.image)}" alt="" decoding="async" /></figure>
     <div class="book-ribbon">第${poem.order}首 · ${escapeHTML(poem.section)}</div>
@@ -73,7 +91,7 @@ function renderPage(element, poem, detail) {
     ${detail.note ? `<section class="note"><h3>${escapeHTML(detail.noteTitle)}</h3><p>${escapeHTML(detail.note)}</p><button class="note-more" data-notes="${poem.id}" aria-label="查看${escapeHTML(poem.title)}的完整诗意和注释">展开</button></section>` : ''}`;
   const image = element.querySelector('img');
   image.addEventListener('error', () => image.remove(), { once: true });
-  revealArt(image);
+  layoutPage(element);
 }
 async function mountPage(index) {
   const poem = poems[index], element = shells[index];
@@ -96,7 +114,7 @@ function hydrateWindow() {
     element.inert = !current;
     element.setAttribute('aria-hidden', !current);
     if (activeIDs.has(poems[index].id)) { void mountPage(index); }
-    else if (element.childNodes.length) { element.replaceChildren(); delete element.dataset.loaded; }
+    else if (element.childNodes.length) { element.replaceChildren(); pageDetails.delete(element); delete element.dataset.loaded; }
   });
 }
 function updateState({ announce = false } = {}) {
@@ -116,8 +134,12 @@ function goTo(index) {
   if (!poems.length) return;
   currentIndex = Math.max(0, Math.min(poems.length - 1, index));
   // Directory jumps are immediate: no traversal or loading of hundreds of intervening pages.
-  pages.scrollTo({ left: currentIndex * pages.clientWidth, behavior: 'instant' });
+  alignPage();
   updateState({ announce: true });
+}
+function alignPage() {
+  alignedWidth = pages.clientWidth;
+  pages.scrollTo({ left: currentIndex * alignedWidth, behavior: 'instant' });
 }
 function enterReader(index = currentIndex) { setHome(false); setControls(true); goTo(index); pages.focus({ preventScroll: true }); }
 
@@ -156,7 +178,7 @@ async function init() {
     const themes = [...new Set(poems.map(p => p.theme))];
     const sections = [...new Set(poems.map(p => p.section))];
     $('#categorySelect').innerHTML = `<option value="all">全部分类</option><optgroup label="主题">${themes.map(value => `<option>${escapeHTML(value)}</option>`).join('')}</optgroup><optgroup label="体裁">${sections.map(value => `<option>${escapeHTML(value)}</option>`).join('')}</optgroup>`;
-    $('#homeCount').textContent = `${poems.length} 首 · ${poems.filter(p => p.featured).length} 幅精选`;
+    $('#homeCount').textContent = `${poems.length} 首 · ${poems.filter(p => p.dedicatedArt).length} 幅画笺`;
     for (const id of ['startReading', 'homeLibrary', 'homeFeatured']) $(`#${id}`).disabled = false;
     $('#startReading').textContent = currentIndex ? '续读' : '入卷';
     updateState();
@@ -206,14 +228,19 @@ pages.addEventListener('click', event => {
 let frame;
 pages.addEventListener('scroll', () => {
   cancelAnimationFrame(frame);
-  frame = requestAnimationFrame(() => { const index = Math.max(0, Math.min(poems.length - 1, Math.round(pages.scrollLeft / pages.clientWidth))); if (index !== currentIndex) { currentIndex = index; updateState(); } });
+  frame = requestAnimationFrame(() => {
+    if (homeVisible || !poems.length) return;
+    if (pages.clientWidth !== alignedWidth) { alignPage(); return; }
+    const index = Math.max(0, Math.min(poems.length - 1, Math.round(pages.scrollLeft / pages.clientWidth)));
+    if (index !== currentIndex) { currentIndex = index; updateState(); }
+  });
 }, { passive: true });
 window.addEventListener('keydown', event => {
   if (homeVisible || document.querySelector('dialog[open]') || event.target.matches('input, select, textarea')) return;
   if (event.key === 'ArrowRight' || event.key === 'ArrowLeft') { event.preventDefault(); goTo(currentIndex + (event.key === 'ArrowRight' ? 1 : -1)); }
   if (event.key === 'Escape') { setControls(true); $('#openLibrary').focus(); }
 });
-new ResizeObserver(() => { if (poems.length) pages.scrollTo({ left: currentIndex * pages.clientWidth, behavior: 'instant' }); }).observe(pages);
+new ResizeObserver(() => { if (poems.length) { alignPage(); layoutMountedPages(); } }).observe(pages);
+document.fonts.ready.then(layoutMountedPages);
 applySettings();
-revealArt($('.home-art-main'));
 void init();

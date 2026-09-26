@@ -1,0 +1,392 @@
+[
+  {
+    "id": "tang-005-xia-zhong-nan-shan-guo-hu-si-shan-ren-su-zhi-jiu",
+    "order": 5,
+    "title": "下终南山过斛斯山人宿置酒",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-dad83c74-a661-43cd-9d36-f9500c805536.png",
+    "destination": "assets/poem-art/tang-005-xia-zhong-nan-shan-guo-hu-si-shan-ren-su-zhi-jiu.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-006-yue-xia-du-zhuo",
+    "order": 6,
+    "title": "月下独酌",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-7cb16323-2251-44c1-8851-7d307b6aab3d.png",
+    "destination": "assets/poem-art/tang-006-yue-xia-du-zhuo.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-007-chun-si",
+    "order": 7,
+    "title": "春思",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-7ada08eb-4111-40dd-ba05-461ed52b1807.png",
+    "destination": "assets/poem-art/tang-007-chun-si.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-008-wang-yue",
+    "order": 8,
+    "title": "望岳",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-f5f14f3a-ef61-4a65-a91c-d70b0996d706.png",
+    "destination": "assets/poem-art/tang-008-wang-yue.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-009-zeng-wei-ba-chu-shi",
+    "order": 9,
+    "title": "赠卫八处士",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-f7c1d67f-40fb-45a2-ba88-f2c8ec9210cc.png",
+    "destination": "assets/poem-art/tang-009-zeng-wei-ba-chu-shi.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-010-jia-ren",
+    "order": 10,
+    "title": "佳人",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-58ec5c86-e3d5-4170-89a8-90d67c421dff.png",
+    "destination": "assets/poem-art/tang-010-jia-ren.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-011-meng-li-bai-zhi-yi",
+    "order": 11,
+    "title": "梦李白之一",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-eecfc79b-b85d-4a08-ad96-6d66a323152c.png",
+    "destination": "assets/poem-art/tang-011-meng-li-bai-zhi-yi.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-012-meng-li-bai-zhi-er",
+    "order": 12,
+    "title": "梦李白之二",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-91551781-67d2-4e33-9e5f-4dbc29129d37.png",
+    "destination": "assets/poem-art/tang-012-meng-li-bai-zhi-er.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-013-song-bie",
+    "order": 13,
+    "title": "送别",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-e7bd3dca-c900-43fe-8ab0-cbb48855ba0e.png",
+    "destination": "assets/poem-art/tang-013-song-bie.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-014-song-qi-wu-qian-luo-di-huan-xiang",
+    "order": 14,
+    "title": "送綦毋潜落第还乡",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-edb6b555-9fd3-4bf6-870c-556c9c82a470.png",
+    "destination": "assets/poem-art/tang-014-song-qi-wu-qian-luo-di-huan-xiang.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-015-qing-xi",
+    "order": 15,
+    "title": "青谿",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-81756ed5-e20c-4998-8ac7-ee58cec49a75.png",
+    "destination": "assets/poem-art/tang-015-qing-xi.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-016-wei-chuan-tian-jia",
+    "order": 16,
+    "title": "渭川田家",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-a13e0648-60b3-4651-b39c-592f538dc01d.png",
+    "destination": "assets/poem-art/tang-016-wei-chuan-tian-jia.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-017-xi-shi-yong",
+    "order": 17,
+    "title": "西施咏",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-d1ba796c-369a-471e-86f8-01e023b4b5b4.png",
+    "destination": "assets/poem-art/tang-017-xi-shi-yong.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-018-qiu-deng-lan-shan-ji-zhang-wu",
+    "order": 18,
+    "title": "秋登兰山寄张五",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-26fcf674-2911-4d62-992b-9316bb8d4b8c.png",
+    "destination": "assets/poem-art/tang-018-qiu-deng-lan-shan-ji-zhang-wu.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-019-xia-ri-nan-ting-huai-xin-da",
+    "order": 19,
+    "title": "夏日南亭怀辛大",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-e471fcc2-beb7-467f-b0f3-1ff0422c48aa.png",
+    "destination": "assets/poem-art/tang-019-xia-ri-nan-ting-huai-xin-da.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-020-su-ye-shi-shan-fang-dai-ding-da-bu-zhi",
+    "order": 20,
+    "title": "宿业师山房待丁大不至",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-f6cff4b7-db10-4997-a0e9-835ae8f6093a.png",
+    "destination": "assets/poem-art/tang-020-su-ye-shi-shan-fang-dai-ding-da-bu-zhi.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-021-tong-cong-di-nan-zhai-wan-yue-yi-shan-yin-cui-shao-fu",
+    "order": 21,
+    "title": "同从弟南斋玩月忆山阴崔少府",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-dbc8503c-79fa-4c18-923b-364b19167c79.png",
+    "destination": "assets/poem-art/tang-021-tong-cong-di-nan-zhai-wan-yue-yi-shan-yin-cui-shao-fu.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-022-xun-xi-shan-yin-zhe-bu-yu",
+    "order": 22,
+    "title": "寻西山隐者不遇",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-5c1a8adb-5ac4-4595-ba63-32193a116d7f.png",
+    "destination": "assets/poem-art/tang-022-xun-xi-shan-yin-zhe-bu-yu.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-023-chun-fan-ruo-ye-xi",
+    "order": 23,
+    "title": "春泛若耶溪",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-03d395db-3b55-48a3-b8cf-99c7bb490eaf.png",
+    "destination": "assets/poem-art/tang-023-chun-fan-ruo-ye-xi.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-024-su-wang-chang-ling-yin-ju",
+    "order": 24,
+    "title": "宿王昌龄隐居",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-6182dce9-5440-4abe-bfac-f52820c4a642.png",
+    "destination": "assets/poem-art/tang-024-su-wang-chang-ling-yin-ju.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-025-yu-gao-shi-xue-ju-deng-ci-en-si-fu-tu",
+    "order": 25,
+    "title": "与高适薛据登慈恩寺浮图",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-6e0ed7fe-4b08-41bf-8f12-74585415b571.png",
+    "destination": "assets/poem-art/tang-025-yu-gao-shi-xue-ju-deng-ci-en-si-fu-tu.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-026-zei-tui-shi-guan-li-bing-xu",
+    "order": 26,
+    "title": "贼退示官吏并序",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-26b140ef-c963-449b-8ec0-656e773617a4.png",
+    "destination": "assets/poem-art/tang-026-zei-tui-shi-guan-li-bing-xu.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-027-jun-zhai-yu-zhong-yu-zhu-wen-shi-yan-ji",
+    "order": 27,
+    "title": "郡斋雨中与诸文士燕集",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-e0404fa0-e41d-465c-a690-396b85e88079.png",
+    "destination": "assets/poem-art/tang-027-jun-zhai-yu-zhong-yu-zhu-wen-shi-yan-ji.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-028-chu-fa-yang-zi-ji-yuan-da-xiao-shu",
+    "order": 28,
+    "title": "初发扬子寄元大校书",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-7eaabb33-3de3-4250-bfba-5b416cc35448.png",
+    "destination": "assets/poem-art/tang-028-chu-fa-yang-zi-ji-yuan-da-xiao-shu.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-029-ji-quan-jiao-shan-zhong-dao-shi",
+    "order": 29,
+    "title": "寄全椒山中道士",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-aaeb80d1-c5f8-4aaa-90e5-cb9373a638ce.png",
+    "destination": "assets/poem-art/tang-029-ji-quan-jiao-shan-zhong-dao-shi.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-030-chang-an-yu-feng-zhu",
+    "order": 30,
+    "title": "长安遇冯著",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-cf6dda85-ebd4-4728-b19a-bf11bdad5a58.png",
+    "destination": "assets/poem-art/tang-030-chang-an-yu-feng-zhu.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-031-xi-ci-xu-yi-xian",
+    "order": 31,
+    "title": "夕次盱眙县",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-74ae03f8-ca6c-4a7e-a151-9a8c43d0df94.png",
+    "destination": "assets/poem-art/tang-031-xi-ci-xu-yi-xian.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-032-dong-jiao",
+    "order": 32,
+    "title": "东郊",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-f67ef886-4984-463d-b7a0-cb962b9898c5.png",
+    "destination": "assets/poem-art/tang-032-dong-jiao.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-033-song-yang-shi-nv",
+    "order": 33,
+    "title": "送杨氏女",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-659fe25a-052a-4929-8462-eb32de42d051.png",
+    "destination": "assets/poem-art/tang-033-song-yang-shi-nv.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-034-chen-yi-chao-shi-yuan-du-chan-jing",
+    "order": 34,
+    "title": "晨诣超师院读禅经",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-77fde0bf-e0e3-4fc8-a3a0-3cd038ad01df.png",
+    "destination": "assets/poem-art/tang-034-chen-yi-chao-shi-yuan-du-chan-jing.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-035-xi-ju",
+    "order": 35,
+    "title": "溪居",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-69ddce29-b720-4539-8753-d0f80734719f.png",
+    "destination": "assets/poem-art/tang-035-xi-ju.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-036-sai-shang-qu",
+    "order": 36,
+    "title": "塞上曲",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-319ee739-0f3e-4ab2-8717-8c10171f1650.png",
+    "destination": "assets/poem-art/tang-036-sai-shang-qu.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-037-sai-xia-qu",
+    "order": 37,
+    "title": "塞下曲",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-b5a1a0e4-d3ce-4e63-a0d0-faf7f43c8437.png",
+    "destination": "assets/poem-art/tang-037-sai-xia-qu.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-038-guan-shan-yue",
+    "order": 38,
+    "title": "关山月",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-d951e570-9d52-4b51-a0c0-d2725ce20695.png",
+    "destination": "assets/poem-art/tang-038-guan-shan-yue.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-039-zi-ye-si-shi-ge-chun-ge",
+    "order": 39,
+    "title": "子夜四时歌春歌",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-bd9f08be-e20b-4376-b0d0-e43d030c1c11.png",
+    "destination": "assets/poem-art/tang-039-zi-ye-si-shi-ge-chun-ge.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-040-zi-ye-si-shi-ge-xia-ge",
+    "order": 40,
+    "title": "子夜四时歌夏歌",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-9dda78b4-d708-4d99-abc4-48df19c6ef02.png",
+    "destination": "assets/poem-art/tang-040-zi-ye-si-shi-ge-xia-ge.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-041-zi-ye-si-shi-ge-qiu-ge",
+    "order": 41,
+    "title": "子夜四时歌秋歌",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-90dcbc9c-79b6-4d27-a9be-732c0f6dac3c.png",
+    "destination": "assets/poem-art/tang-041-zi-ye-si-shi-ge-qiu-ge.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-042-zi-ye-si-shi-ge-dong-ge",
+    "order": 42,
+    "title": "子夜四时歌冬歌",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-970d0670-927b-4ba1-abe5-eb492f4a8342.png",
+    "destination": "assets/poem-art/tang-042-zi-ye-si-shi-ge-dong-ge.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  },
+  {
+    "id": "tang-044-lie-nv-cao",
+    "order": 44,
+    "title": "烈女操",
+    "source": "/Users/lizi/.codex/generated_images/01a0dc09-6dab-7c41-b35f-3f85d9105f1e/exec-eda8faba-3d36-4b52-b620-e0f1de778288.png",
+    "destination": "assets/poem-art/tang-044-lie-nv-cao.png",
+    "status": "complete",
+    "method": "built-in imagegen",
+    "visualCheck": "无文字、无现代物；画面主题明确，中央及下方留白可用于阅读。"
+  }
+]

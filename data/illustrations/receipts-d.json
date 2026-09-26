@@ -1,0 +1,365 @@
+{
+  "method": "built-in image_gen",
+  "range": [
+    131,
+    170
+  ],
+  "completed": [
+    {
+      "id": "tang-131-liu-bie-wang-shi-yu-wei",
+      "order": 131,
+      "title": "留别王侍御维",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-1f959418-57fd-4e1b-a9d7-8763486e9504.png",
+      "target": "assets/poem-art/tang-131-liu-bie-wang-shi-yu-wei.png",
+      "status": "complete",
+      "inspection": "Viewed output: poem-specific scene, warm ink and watercolor, clear reading space; no readable text or modern items.",
+      "promptAddition": "Edit only the small decorative plaque above the courtyard door: remove every written character and character-like mark. Replace it with plain aged wood grain. Preserve the two scholars, architecture, watercolor style, colors, composition and all blank reading space exactly. No text anywhere.",
+      "retryReason": "Door plaque contained character-like marks."
+    },
+    {
+      "id": "tang-132-zao-han-jiang-shang-you-huai",
+      "order": 132,
+      "title": "早寒江上有怀",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-a6889a05-d792-4790-a237-620bd1602a31.png",
+      "target": "assets/poem-art/tang-132-zao-han-jiang-shang-you-huai.png",
+      "status": "complete",
+      "inspection": "Viewed output: poem-specific scene, warm ink and watercolor, clear reading space; no readable text or modern items."
+    },
+    {
+      "id": "tang-133-qiu-ri-deng-wu-gong-tai-shang-si-yuan-tiao",
+      "order": 133,
+      "title": "秋日登吴公台上寺远眺",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-54a6969f-91be-4544-ae8e-a6f5e93a4349.png",
+      "target": "assets/poem-art/tang-133-qiu-ri-deng-wu-gong-tai-shang-si-yuan-tiao.png",
+      "status": "complete",
+      "inspection": "Viewed output: poem-specific scene, warm ink and watercolor, clear reading space; no readable text or modern items."
+    },
+    {
+      "id": "tang-135-jian-bie-wang-shi-yi-nan-you",
+      "order": 135,
+      "title": "饯别王十一南游",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-1fa44e3a-d7a4-42c5-a03e-1d90063c9ab3.png",
+      "target": "assets/poem-art/tang-135-jian-bie-wang-shi-yi-nan-you.png",
+      "status": "complete",
+      "inspection": "Viewed output: poem-specific scene, warm ink and watercolor, clear reading space; no readable text or modern items."
+    },
+    {
+      "id": "tang-136-xun-nan-xi-chang-shan-dao-ren-yin-ju",
+      "order": 136,
+      "title": "寻南溪常山道人隐居",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-69f31b49-9ea2-45b6-b665-17016c1ac90e.png",
+      "target": "assets/poem-art/tang-136-xun-nan-xi-chang-shan-dao-ren-yin-ju.png",
+      "status": "complete",
+      "inspection": "Viewed output: poem-specific scene, warm ink and watercolor, clear reading space; no readable text or modern items."
+    },
+    {
+      "id": "tang-137-xin-nian-zuo",
+      "order": 137,
+      "title": "新年作",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-96e9a402-7ec4-4dd5-b4af-2e030a919292.png",
+      "target": "assets/poem-art/tang-137-xin-nian-zuo.png",
+      "status": "complete",
+      "inspection": "Viewed output: poem-specific scene, warm ink and watercolor, clear reading space; no readable text or modern items."
+    },
+    {
+      "id": "tang-138-song-seng-gui-ri-ben",
+      "order": 138,
+      "title": "送僧归日本",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-d2ad71d0-196a-4291-90d2-ad5d80f84740.png",
+      "target": "assets/poem-art/tang-138-song-seng-gui-ri-ben.png",
+      "status": "complete",
+      "inspection": "Viewed output: poem-specific scene, warm ink and watercolor, clear reading space; no readable text or modern items."
+    },
+    {
+      "id": "tang-139-gu-kou-shu-zhai-ji-yang-bu-que",
+      "order": 139,
+      "title": "谷口书斋寄杨补阙",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-df112d61-a0ff-45b0-88c2-520cb7ce4ac2.png",
+      "target": "assets/poem-art/tang-139-gu-kou-shu-zhai-ji-yang-bu-que.png",
+      "status": "complete",
+      "inspection": "Viewed output: poem-specific scene, warm ink and watercolor, clear reading space; no readable text or modern items."
+    },
+    {
+      "id": "tang-140-huai-shang-xi-hui-liang-chuan-gu-ren",
+      "order": 140,
+      "title": "淮上喜会梁川故人",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-d93a2897-bca5-497d-8e1a-a21852e74957.png",
+      "target": "assets/poem-art/tang-140-huai-shang-xi-hui-liang-chuan-gu-ren.png",
+      "status": "complete",
+      "inspection": "Viewed output: poem-specific scene, warm ink and watercolor, clear reading space; no readable text or modern items."
+    },
+    {
+      "id": "tang-141-fu-de-mu-yu-song-li-zhou",
+      "order": 141,
+      "title": "赋得暮雨送李胄",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-29645542-83af-4b7c-a2d9-300d468d0a3a.png",
+      "target": "assets/poem-art/tang-141-fu-de-mu-yu-song-li-zhou.png",
+      "status": "complete",
+      "inspection": "Viewed output: poem-specific scene, warm ink and watercolor, clear reading space; no readable text or modern items."
+    },
+    {
+      "id": "tang-142-chou-cheng-yan-qiu-ye-ji-shi-jian-zeng",
+      "order": 142,
+      "title": "酬程延秋夜即事见赠",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-4b41a7e5-9ce0-4761-a407-80af424d35c2.png",
+      "target": "assets/poem-art/tang-142-chou-cheng-yan-qiu-ye-ji-shi-jian-zeng.png",
+      "status": "complete",
+      "inspection": "Viewed output: poem-specific scene, warm ink and watercolor, clear reading space; no readable text or modern items."
+    },
+    {
+      "id": "tang-143-que-ti",
+      "order": 143,
+      "title": "阙题",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-5add784d-5f37-451a-9e06-64c5dd5a9ae2.png",
+      "target": "assets/poem-art/tang-143-que-ti.png",
+      "status": "complete",
+      "inspection": "Viewed output: poem-specific scene, warm ink and watercolor, clear reading space; no readable text or modern items."
+    },
+    {
+      "id": "tang-144-jiang-xiang-gu-ren-ou-ji-ke-she",
+      "order": 144,
+      "title": "江乡故人偶集客舍",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-7ad58f3d-1b5c-400e-a370-6cc14c920c9d.png",
+      "target": "assets/poem-art/tang-144-jiang-xiang-gu-ren-ou-ji-ke-she.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-145-li-duan-gong",
+      "order": 145,
+      "title": "李端公",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-a4720a75-9e69-4eb4-accb-a2e354184fc8.png",
+      "target": "assets/poem-art/tang-145-li-duan-gong.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-146-xi-jian-wai-di-you-yan-bie",
+      "order": 146,
+      "title": "喜见外弟又言别",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-6c002806-c0d5-4c7e-9008-6a20ded7cd62.png",
+      "target": "assets/poem-art/tang-146-xi-jian-wai-di-you-yan-bie.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-147-yun-yang-guan-yu-han-shen-su-bie",
+      "order": 147,
+      "title": "云阳馆与韩绅宿别",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-29613173-bffe-42a4-855e-57dbff00c90b.png",
+      "target": "assets/poem-art/tang-147-yun-yang-guan-yu-han-shen-su-bie.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-148-xi-wai-di-lu-lun-jian-su",
+      "order": 148,
+      "title": "喜外弟卢纶见宿",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-a859858d-9ade-4fbe-b73e-74c6fd944796.png",
+      "target": "assets/poem-art/tang-148-xi-wai-di-lu-lun-jian-su.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-149-zei-ping-hou-song-ren-bei-gui",
+      "order": 149,
+      "title": "贼平后送人北归",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-e00dc64b-138a-47e7-b9f8-c3b34e89091a.png",
+      "target": "assets/poem-art/tang-149-zei-ping-hou-song-ren-bei-gui.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-150-shu-xian-zhu-miao",
+      "order": 150,
+      "title": "蜀先主庙",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-29cd25bc-12df-4c7b-bf21-79afee96b1a9.png",
+      "target": "assets/poem-art/tang-150-shu-xian-zhu-miao.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-151-mei-fan-gu-ren",
+      "order": 151,
+      "title": "没蕃故人",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-2c177487-7a34-4df1-8f5d-f82b87f1ebba.png",
+      "target": "assets/poem-art/tang-151-mei-fan-gu-ren.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-152-fu-de-gu-yuan-cao-song-bie",
+      "order": 152,
+      "title": "赋得古原草送别",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-1fb75950-668a-441e-bc87-cd2a7daa73e2.png",
+      "target": "assets/poem-art/tang-152-fu-de-gu-yuan-cao-song-bie.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-153-lv-su",
+      "order": 153,
+      "title": "旅宿",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-c41d15e0-e1cb-42cf-b4e1-121f0efed2d3.png",
+      "target": "assets/poem-art/tang-153-lv-su.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-154-qiu-ri-fu-que-ti-tong-guan-yi-lou",
+      "order": 154,
+      "title": "秋日赴阙题潼关驿楼",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-25ea659b-ad6d-434d-aff7-4b3468764a1f.png",
+      "target": "assets/poem-art/tang-154-qiu-ri-fu-que-ti-tong-guan-yi-lou.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-155-zao-qiu",
+      "order": 155,
+      "title": "早秋",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-a8e7430f-da95-4714-8b36-7922b4a7b4ae.png",
+      "target": "assets/poem-art/tang-155-zao-qiu.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-156-chan",
+      "order": 156,
+      "title": "蝉",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-7a8e8516-f862-4045-b3b1-c0e2ca53fb6d.png",
+      "target": "assets/poem-art/tang-156-chan.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-157-feng-yu",
+      "order": 157,
+      "title": "风雨",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-316a5293-af23-4a75-9949-fee4c1f362f0.png",
+      "target": "assets/poem-art/tang-157-feng-yu.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-158-luo-hua",
+      "order": 158,
+      "title": "落花",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-f7afbe04-0225-4ef8-b2aa-3aa9fdf84681.png",
+      "target": "assets/poem-art/tang-158-luo-hua.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-159-liang-si",
+      "order": 159,
+      "title": "凉思",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-06bc3849-e907-4f67-a942-34ee5dbb2299.png",
+      "target": "assets/poem-art/tang-159-liang-si.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-160-bei-qing-luo",
+      "order": 160,
+      "title": "北青萝",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-ff442de7-6d1a-48a3-ba59-1915ba2f1560.png",
+      "target": "assets/poem-art/tang-160-bei-qing-luo.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-161-song-ren-dong-you",
+      "order": 161,
+      "title": "送人东游",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-62715906-f718-4472-b6d1-ba60c62be88e.png",
+      "target": "assets/poem-art/tang-161-song-ren-dong-you.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-162-ba-shang-qiu-ju",
+      "order": 162,
+      "title": "灞上秋居",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-26da299d-4156-4167-b96a-d36faf6c09d6.png",
+      "target": "assets/poem-art/tang-162-ba-shang-qiu-ju.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-163-chu-jiang-huai-gu",
+      "order": 163,
+      "title": "楚江怀古",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-c60c2383-d211-4ccc-a56d-c6a65c6d8b7c.png",
+      "target": "assets/poem-art/tang-163-chu-jiang-huai-gu.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-164-shu-bian-shi",
+      "order": 164,
+      "title": "书边事",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-0614855a-c881-4d6d-8b1b-8471b96dce4e.png",
+      "target": "assets/poem-art/tang-164-shu-bian-shi.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-165-ba-shan-dao-zhong-chu-ye-you-huai",
+      "order": 165,
+      "title": "巴山道中除夜有怀",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-85b182a6-c0c1-4d95-9b46-038544ec4281.png",
+      "target": "assets/poem-art/tang-165-ba-shan-dao-zhong-chu-ye-you-huai.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-166-gu-yan",
+      "order": 166,
+      "title": "孤雁",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-d90f54e6-8205-4b39-8060-7167417f398c.png",
+      "target": "assets/poem-art/tang-166-gu-yan.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items.",
+      "promptAddition": "Change only the single flying bird into a recognizable wild goose: natural gray-brown body and wings, stout body, medium-length neck, short orange bill, short legs tucked under the tail. It must not resemble a crane, heron or egret; remove the long trailing legs. Keep exactly one bird. Preserve the riverside reeds, moonlit scene, mountain pass, ink-and-watercolor style, portrait composition and all blank reading space. No words, characters or seals.",
+      "retryReason": "Initial bird resembled a crane."
+    },
+    {
+      "id": "tang-167-chun-gong-yuan",
+      "order": 167,
+      "title": "春宫怨",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-bb8ac6c9-2361-4a8a-9f37-a668f755d00c.png",
+      "target": "assets/poem-art/tang-167-chun-gong-yuan.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-168-zhang-tai-ye-si",
+      "order": 168,
+      "title": "章台夜思",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-d8d967ea-d170-48ca-b387-cef2f1f3282e.png",
+      "target": "assets/poem-art/tang-168-zhang-tai-ye-si.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-169-xun-lu-hong-jian-bu-yu",
+      "order": 169,
+      "title": "寻陆鸿渐不遇",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-96a3f475-1848-4157-a8e1-e29a47a5a66f.png",
+      "target": "assets/poem-art/tang-169-xun-lu-hong-jian-bu-yu.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-170-huang-he-lou",
+      "order": 170,
+      "title": "黄鹤楼",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-f2b1140c-3b49-4849-b7b9-552d9d2a7532.png",
+      "target": "assets/poem-art/tang-170-huang-he-lou.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    }
+  ],
+  "failed": []
+}

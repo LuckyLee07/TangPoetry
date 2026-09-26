@@ -1,0 +1,111 @@
+{
+  "method": "built-in image_gen",
+  "range": [
+    309,
+    320
+  ],
+  "completed": [
+    {
+      "id": "tang-309-long-xi-xing",
+      "order": 309,
+      "title": "陇西行",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-20de2df1-4de1-4d65-802c-6fa331e2247b.png",
+      "target": "assets/poem-art/tang-309-long-xi-xing.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-310-ji-ren",
+      "order": 310,
+      "title": "寄人",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-e33ba332-fd69-4414-8a51-7af4c59e2fcb.png",
+      "target": "assets/poem-art/tang-310-ji-ren.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-311-za-shi",
+      "order": 311,
+      "title": "杂诗",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-9e8dd0ad-6791-4b6c-8a76-c5ec09445d7c.png",
+      "target": "assets/poem-art/tang-311-za-shi.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-313-qiu-ye-qu",
+      "order": 313,
+      "title": "秋夜曲",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-b2d6b261-e21a-4305-89ad-94a62c2ab7ac.png",
+      "target": "assets/poem-art/tang-313-qiu-ye-qu.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items.",
+      "retryReason": "Corrected guqin to zheng and full moon to waxing crescent.",
+      "promptAddition": "Correct two details in this watercolor for Wang Wei's Autumn Night Song. Replace the woman's instrument with an ancient Chinese zheng zither: broad long curved wooden soundboard, many parallel strings and a clearly visible diagonal row of individual movable triangular bridges beneath the strings; it must not be a narrow seven-string guqin with dot markers. Keep both hands playing the zheng naturally. Change the full moon to a delicate waxing crescent moon, matching 桂魄初生. Preserve the woman, balcony, osmanthus branches, night mood, portrait composition, paper colors and generous blank reading space. No written text, marks, seals or modern objects."
+    },
+    {
+      "id": "tang-314-zhang-xin-yuan",
+      "order": 314,
+      "title": "长信怨",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-811da0a5-7b57-4dde-a7ee-cdd7797de165.png",
+      "target": "assets/poem-art/tang-314-zhang-xin-yuan.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-315-chu-sai",
+      "order": 315,
+      "title": "出塞",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-12986199-291e-40b5-8760-7f62ca0e1a68.png",
+      "target": "assets/poem-art/tang-315-chu-sai.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-316-chu-sai",
+      "order": 316,
+      "title": "出塞",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-fed5823b-ddd1-4345-95b5-62cfe43f176c.png",
+      "target": "assets/poem-art/tang-316-chu-sai.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-317-qing-ping-diao-zhi-yi",
+      "order": 317,
+      "title": "清平调之一",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-35d93b2e-2918-480d-b0bd-e4e3608361a2.png",
+      "target": "assets/poem-art/tang-317-qing-ping-diao-zhi-yi.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-318-qing-ping-diao-zhi-er",
+      "order": 318,
+      "title": "清平调之二",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-fdfe243c-b109-40c0-b01c-32ea480ece04.png",
+      "target": "assets/poem-art/tang-318-qing-ping-diao-zhi-er.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-319-qing-ping-diao-zhi-san",
+      "order": 319,
+      "title": "清平调之三",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-7587ad73-cc83-43e8-a9fc-650a87207f40.png",
+      "target": "assets/poem-art/tang-319-qing-ping-diao-zhi-san.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    },
+    {
+      "id": "tang-320-jin-lv-yi",
+      "order": 320,
+      "title": "金缕衣",
+      "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-24e728b1-978a-4c36-98b7-fcd6fc502b2c.png",
+      "target": "assets/poem-art/tang-320-jin-lv-yi.png",
+      "status": "complete",
+      "inspection": "Viewed output: distinct poem scene, clear central/lower reading space, no readable text or modern items."
+    }
+  ],
+  "failed": []
+}

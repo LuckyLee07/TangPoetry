@@ -1,0 +1,342 @@
+{
+  "method": "built-in imagegen",
+  "range": [
+    271,
+    308
+  ],
+  "receipts": [
+    {
+      "id": "tang-271-jiang-nan-feng-li-gui-nian",
+      "order": 271,
+      "target": "assets/poem-art/tang-271-jiang-nan-feng-li-gui-nian.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-f80f1a47-d382-474e-8285-8aa447327794.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-272-chu-zhou-xi-jian",
+      "order": 272,
+      "target": "assets/poem-art/tang-272-chu-zhou-xi-jian.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-c0d49a4c-b2af-4574-8d39-cad34e028671.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-273-feng-qiao-ye-po",
+      "order": 273,
+      "target": "assets/poem-art/tang-273-feng-qiao-ye-po.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-475f4544-a43c-4574-902d-128a1bb314e2.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-274-han-shi",
+      "order": 274,
+      "target": "assets/poem-art/tang-274-han-shi.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-430b9b38-8361-40f3-bb80-cfacc02865b8.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-275-yue-ye",
+      "order": 275,
+      "target": "assets/poem-art/tang-275-yue-ye.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-ecc5459b-9e4d-4fa5-8db3-b198a2d36158.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-276-chun-yuan",
+      "order": 276,
+      "target": "assets/poem-art/tang-276-chun-yuan.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-74dbb2e6-c999-48d2-85b1-4ccea6cf2d46.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-277-zheng-ren-yuan",
+      "order": 277,
+      "target": "assets/poem-art/tang-277-zheng-ren-yuan.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-a9971156-00e9-4d95-97e2-f60050bc4254.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-279-ye-shang-shou-xiang-cheng-wen-di",
+      "order": 279,
+      "target": "assets/poem-art/tang-279-ye-shang-shou-xiang-cheng-wen-di.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-2eee95d2-5beb-4d21-904a-1bc19d837de3.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-280-wu-yi-xiang",
+      "order": 280,
+      "target": "assets/poem-art/tang-280-wu-yi-xiang.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-058a51fb-cefe-4eb8-8e74-3f077d81d099.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-281-chun-ci",
+      "order": 281,
+      "target": "assets/poem-art/tang-281-chun-ci.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-7bb1145f-2f9c-4f74-9387-13d6d0dc0d34.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-282-hou-gong-ci",
+      "order": 282,
+      "target": "assets/poem-art/tang-282-hou-gong-ci.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-c2bc1016-af94-4e7c-aa13-eeaa3e36de57.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-283-zeng-nei-ren",
+      "order": 283,
+      "target": "assets/poem-art/tang-283-zeng-nei-ren.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-3eeb21e7-e2b6-4a10-a8bb-af4182846114.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-284-ji-ling-tai-zhi-yi",
+      "order": 284,
+      "target": "assets/poem-art/tang-284-ji-ling-tai-zhi-yi.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-89ba98cf-d919-4fc6-82c2-f3d63fdbf476.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-285-ji-ling-tai-zhi-er",
+      "order": 285,
+      "target": "assets/poem-art/tang-285-ji-ling-tai-zhi-er.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-e4cf0ecf-36e2-4910-9a58-e4436e806c49.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-286-ti-jin-ling-du",
+      "order": 286,
+      "target": "assets/poem-art/tang-286-ti-jin-ling-du.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-ebe0d9a3-752d-49a5-90bd-2917939adc5d.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-287-gong-ci",
+      "order": 287,
+      "target": "assets/poem-art/tang-287-gong-ci.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-d3642241-1320-4c72-bf2f-21efa2bec79b.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-288-jin-shi-shang-zhang-shui-bu",
+      "order": 288,
+      "target": "assets/poem-art/tang-288-jin-shi-shang-zhang-shui-bu.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-c9a3ce7d-556d-4915-8a1f-6d640d4ce793.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-289-jiang-fu-wu-xing-deng-le-you-yuan",
+      "order": 289,
+      "target": "assets/poem-art/tang-289-jiang-fu-wu-xing-deng-le-you-yuan.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-67db3d86-edd7-45c2-822c-6a88f6616cc3.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-290-chi-bi",
+      "order": 290,
+      "target": "assets/poem-art/tang-290-chi-bi.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-816d0b8f-f022-474a-a3fb-45d2137148f1.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-291-po-qin-huai",
+      "order": 291,
+      "target": "assets/poem-art/tang-291-po-qin-huai.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-be7f04b6-3903-4abd-89c7-d6254a514839.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-292-ji-yang-zhou-han-chuo-pan-guan",
+      "order": 292,
+      "target": "assets/poem-art/tang-292-ji-yang-zhou-han-chuo-pan-guan.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-d04a729d-0eea-465e-8dc2-b95aab948e11.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-293-qian-huai",
+      "order": 293,
+      "target": "assets/poem-art/tang-293-qian-huai.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-d21df90e-d00c-4c8a-a139-c77ff0709d34.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-294-qiu-xi",
+      "order": 294,
+      "target": "assets/poem-art/tang-294-qiu-xi.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-fa030726-ad12-4cad-b090-c472b1a66a6a.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-295-zeng-bie-zhi-yi",
+      "order": 295,
+      "target": "assets/poem-art/tang-295-zeng-bie-zhi-yi.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-2b49fcfc-7d57-40d3-923d-060cd8becdc8.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-296-zeng-bie-zhi-er",
+      "order": 296,
+      "target": "assets/poem-art/tang-296-zeng-bie-zhi-er.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-2b52ba83-be3e-4439-89e8-35c4f05c1c1f.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-297-jin-gu-yuan",
+      "order": 297,
+      "target": "assets/poem-art/tang-297-jin-gu-yuan.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-3374c508-6376-4af0-81a0-00aef5ed7630.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-298-ye-yu-ji-bei",
+      "order": 298,
+      "target": "assets/poem-art/tang-298-ye-yu-ji-bei.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-b553d722-2ca8-482a-84e7-9a716b302c92.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-299-ji-ling-hu-lang-zhong",
+      "order": 299,
+      "target": "assets/poem-art/tang-299-ji-ling-hu-lang-zhong.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-2e7f1100-1c86-4e99-ab26-4412c092d728.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-300-wei-you",
+      "order": 300,
+      "target": "assets/poem-art/tang-300-wei-you.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-a2848deb-190a-4748-b974-bb80492581a5.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-301-sui-gong",
+      "order": 301,
+      "target": "assets/poem-art/tang-301-sui-gong.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-4bf05fd4-532d-45ba-989c-1eea2839fcaa.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-302-yao-chi",
+      "order": 302,
+      "target": "assets/poem-art/tang-302-yao-chi.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-6f2bfa83-c250-4177-8f86-e99aebb63df9.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-303-chang-e",
+      "order": 303,
+      "target": "assets/poem-art/tang-303-chang-e.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-fd63eeb4-5333-4f3f-bb37-d04d51f3765f.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-304-jia-sheng",
+      "order": 304,
+      "target": "assets/poem-art/tang-304-jia-sheng.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-ff088fa5-115a-4c87-a637-f336b2f421c1.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-305-yao-se-yuan",
+      "order": 305,
+      "target": "assets/poem-art/tang-305-yao-se-yuan.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-fdc1be93-7f67-4b4b-ba58-b26f49c343ae.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-306-ma-wei-po",
+      "order": 306,
+      "target": "assets/poem-art/tang-306-ma-wei-po.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-2502b126-d2fa-454d-a647-a0b926ee2874.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-307-yi-liang",
+      "order": 307,
+      "target": "assets/poem-art/tang-307-yi-liang.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-94f3c45e-095a-49ab-be4a-c93e71c488a3.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    },
+    {
+      "id": "tang-308-jin-ling-tu",
+      "order": 308,
+      "target": "assets/poem-art/tang-308-jin-ling-tu.png",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc07-ede6-7bc1-a172-1f100f1dbb2b/exec-ab303cb5-9270-420a-8ad8-5a6331c34d43.png",
+      "status": "accepted",
+      "error": null,
+      "review": "Inspected: portrait composition, no visible lettering or modern objects, broad reading space."
+    }
+  ]
+}

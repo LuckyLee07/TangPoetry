@@ -63,3 +63,43 @@ export function createPoemLoader(fetchPoem, maxEntries = 12) {
     get size() { return cache.size; }
   };
 }
+
+// Fit ordinary poems to a page; preserve a readable size and scrolling for long works.
+export function readingLayout(poem, { width = 390, height = 844, fontSize = 22, notes = true } = {}) {
+  const texts = poem.rubyLines.map(line => line.map(([text]) => text).join(''));
+  const lengths = texts.map(text => [...text.replace(/[\p{Punctuation}\s]/gu, '')].length);
+  const lineCount = lengths.length;
+  const typicalLength = [...lengths].sort((a, b) => a - b)[Math.floor(lineCount / 2)] || 5;
+  const five = typicalLength <= 5;
+  const short = lineCount <= 4 || (/绝句/.test(poem.section) && lineCount <= 5);
+  const regulated = !short && (lineCount <= 8 || (/律诗/.test(poem.section) && lineCount <= 9));
+  const medium = !short && !regulated && lineCount <= 12;
+  const kind = short ? (five ? 'five-quatrain' : 'seven-quatrain')
+    : regulated ? (five ? 'five-regulated' : 'seven-regulated') : medium ? 'medium' : 'long';
+  const baseFont = short ? (five ? 26 : 24) : regulated ? (five ? 22 : 21) : 20;
+  const scale = fontSize / 22;
+  const minimumFont = Math.max(18, 18 * scale);
+  const preferredFont = Math.max(minimumFont, baseFont * scale);
+  const lineHeight = short ? 1.95 : regulated ? (height < 620 ? 1.35 : 1.6) : medium ? 1.55 : 1.7;
+  const noteHeight = Math.max(80, Math.min(86, height * 0.1));
+  const bottom = notes && poem.note ? 78 + noteHeight + 16 : 84;
+  const minimumTop = Math.max(108, height * 0.15);
+  let top = Math.max(minimumTop, height * (short ? 0.36 : regulated ? 0.22 : 0.18));
+  let fittedFont = preferredFont;
+  const bodyWidth = Math.max(80, width - 80);
+  const titleSize = Math.min(26, Math.max(20, baseFont + 1));
+  const headingHeight = Math.ceil([...poem.title].length * titleSize * 1.1 / bodyWidth) * titleSize * 1.4 + 38;
+  const estimatedHeight = size => {
+    const columns = Math.max(1, Math.floor((bodyWidth - size) / size));
+    const rows = lengths.reduce((total, count) => total + Math.max(1, Math.ceil(count / columns)), 0);
+    return headingHeight + rows * size * lineHeight + 20;
+  };
+  const fitWhole = short || regulated || medium;
+  if (fitWhole) {
+    top = Math.max(minimumTop, Math.min(top, height - bottom - estimatedHeight(fittedFont)));
+    while (fittedFont > minimumFont && estimatedHeight(fittedFont) > height - bottom - top) {
+      fittedFont = Math.max(minimumFont, fittedFont - 0.5);
+    }
+  }
+  return { kind, lineCount, fontSize: Math.round(fittedFont * 10) / 10, minimumFont, top, bottom, lineHeight, titleSize, noteHeight, fitWhole };
+}
