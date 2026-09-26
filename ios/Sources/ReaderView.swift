@@ -206,7 +206,7 @@ struct PoemPageView: View {
                                                 Divider()
                                                 HStack { Text(detail.noteTitle).font(.caption.weight(.medium)); Spacer(); Text("展开").font(.caption2) }
                                                 Text(detail.note).font(.caption).lineSpacing(4).lineLimit(2).foregroundStyle(.secondary)
-                                            }.padding(.top, 12).padding(.bottom, 12).frame(maxWidth: .infinity, alignment: .leading)
+                                            }.padding(.top, layout.noteTopPadding).padding(.bottom, 12).frame(maxWidth: .infinity, alignment: .leading)
                                                 .fixedSize(horizontal: false, vertical: true)
                                         }.buttonStyle(.plain)
                                             .accessibilityLabel("查看\(poem.title)的完整诗意和注释")

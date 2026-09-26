@@ -11,6 +11,7 @@ struct PoemLayout {
     let lineSpacing: CGFloat
     let headerSpacing: CGFloat
     let bodySpacing: CGFloat
+    let noteTopPadding: CGFloat
     let horizontalPadding: CGFloat
     let contentTop: CGFloat
     let estimatedContentHeight: CGFloat
@@ -79,7 +80,10 @@ struct PoemLayout {
         let bottomReserve: CGFloat = 65
         let minimumTop = max(100, 82 + 14 * accessibilityScale)
         let artworkTopFraction = max(topFraction, min(textStart ?? topFraction, 0.7))
-        let preferredTop = max(minimumTop, size.height * artworkTopFraction - 25)
+        // Keep type fitting stable while moving the poem and its note independently.
+        let typographyTop = max(minimumTop, size.height * artworkTopFraction - 25)
+        let preferredTop = max(minimumTop, typographyTop - 20)
+        let noteTopPadding = 12 + (typographyTop - preferredTop) + 15
         let contentBottom = max(minimumTop, size.height - bottomReserve)
 
         // Mirror VerseGrid's cells and punctuation reserve. At accessibility sizes,
@@ -110,12 +114,12 @@ struct PoemLayout {
 
         // Short forms may shrink within their readable range, but the illustration's
         // upper illustration area stays clear. Notes follow the verses inside the same scroll view.
-        if length != .long && contentHeight(at: fontSize) > contentBottom - preferredTop {
+        if length != .long && contentHeight(at: fontSize) > contentBottom - typographyTop {
             var lower = minimum
             var upper = fontSize
             for _ in 0..<12 {
                 let candidate = (lower + upper) / 2
-                if contentHeight(at: candidate) <= contentBottom - preferredTop { lower = candidate }
+                if contentHeight(at: candidate) <= contentBottom - typographyTop { lower = candidate }
                 else { upper = candidate }
             }
             fontSize = lower
@@ -124,6 +128,7 @@ struct PoemLayout {
         return Self(
             length: length, fontSize: fontSize, titleSize: titleSize, authorSize: authorSize,
             lineSpacing: fontSize * gapRatio, headerSpacing: headerSpacing, bodySpacing: bodySpacing,
+            noteTopPadding: noteTopPadding,
             horizontalPadding: horizontalPadding, contentTop: preferredTop,
             estimatedContentHeight: height
         )

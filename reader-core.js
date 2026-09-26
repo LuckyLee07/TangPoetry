@@ -89,7 +89,10 @@ export function readingLayout(poem, { width = 390, height = 844, fontSize = 22 }
   const lineHeight = short ? 1.95 : regulated ? (height < 620 ? 1.35 : 1.6) : medium ? 1.55 : 1.7;
   const bottom = 84;
   const defaultStart = short ? 0.45 : 0.39;
-  const top = Math.max(100, height * Math.max(defaultStart, Math.min(0.7, poem.textStart || defaultStart)) - 25);
+  const fittingTop = Math.max(100, height * Math.max(defaultStart, Math.min(0.7, poem.textStart || defaultStart)) - 25);
+  const top = Math.max(100, fittingTop - 20);
+  const textRise = fittingTop - top;
+  const noteGap = 28 + textRise + 15;
   let fittedFont = preferredFont;
   const bodyWidth = Math.max(80, width - 80);
   const titleSize = Math.min(26, Math.max(20, baseFont + 1));
@@ -101,9 +104,9 @@ export function readingLayout(poem, { width = 390, height = 844, fontSize = 22 }
   };
   const fitWhole = short || regulated || medium;
   if (fitWhole) {
-    while (fittedFont > minimumFont && estimatedHeight(fittedFont) > height - bottom - top) {
+    while (fittedFont > minimumFont && estimatedHeight(fittedFont) > height - bottom - fittingTop) {
       fittedFont = Math.max(minimumFont, fittedFont - 0.5);
     }
   }
-  return { kind, lineCount, fontSize: Math.round(fittedFont * 10) / 10, minimumFont, top, bottom, lineHeight, titleSize, fitWhole };
+  return { kind, lineCount, fontSize: Math.round(fittedFont * 10) / 10, minimumFont, top, bottom, textRise, noteGap, lineHeight, titleSize, fitWhole };
 }

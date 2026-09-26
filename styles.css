@@ -281,7 +281,7 @@ body[data-paper="sage"] { --paper: #e8eee5; --paper-deep: #dce5d6; --paper-glass
 .verse-cell { position: relative; flex: 0 0 clamp(1em, calc((100cqw - var(--end-space)) / 7), 1.45em); text-align: center; }
 .verse-cell:last-child { margin-right: var(--end-space); }
 .verse-punctuation { position: absolute; left: calc(50% + .5em); top: 0; width: max-content; white-space: nowrap; }
-.note { position: relative; margin-top: 28px; border-top: 1px solid var(--line); padding-top: 12px; text-align: left; color: #655b4d; font-family: var(--sans); }
+.note { position: relative; margin-top: var(--note-gap, 63px); border-top: 1px solid var(--line); padding-top: 12px; text-align: left; color: #655b4d; font-family: var(--sans); }
 .note h3 { font-size: 12px; font-weight: 500; color: #4f4436; letter-spacing: .06em; margin: 0 0 6px; }
 .note p { margin: 0; font-size: 12px; line-height: 1.8; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; overflow: hidden; }
 .notes-off .note { display: none; }
@@ -296,6 +296,10 @@ body[data-paper="sage"] { --paper: #e8eee5; --paper-deep: #dce5d6; --paper-glass
 .sheet::backdrop { background: rgba(37,31,23,.4); }
 .sheet-header { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-bottom: 20px; }
 .sheet-header h2 { margin: 5px 0 0; font: 26px var(--serif); }
+#notesDialog { height: 58dvh; max-height: 58dvh; overflow: hidden; }
+#notesDialog[open] { display: grid; grid-template-rows: auto minmax(0, 1fr); }
+#notesDialog .sheet-header > button { flex-shrink: 0; }
+#notesDialog .full-notes { min-height: 0; overflow-y: auto; overscroll-behavior: contain; }
 .library-kicker { color: var(--ink-soft); font-size: 11px; letter-spacing: .22em; }
 .search-box { display: flex; align-items: center; gap: 8px; background: var(--paper-deep); padding: 0 14px; border-radius: 12px; }
 .search-box input { width: 100%; min-width: 0; min-height: 46px; background: transparent; border: 0; color: var(--ink); font: 14px var(--sans); }

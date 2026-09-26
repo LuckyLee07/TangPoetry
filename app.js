@@ -1,4 +1,4 @@
-import { parseStored, sanitizeSettings, migrateFavorites, filterPoems, initialIndex, createPoemLoader, readingLayout } from './reader-core.js?v=0.3.5';
+import { parseStored, sanitizeSettings, migrateFavorites, filterPoems, initialIndex, createPoemLoader, readingLayout } from './reader-core.js?v=0.3.6';
 
 const $ = selector => document.querySelector(selector);
 const escapeHTML = value => String(value ?? '').replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
@@ -67,7 +67,7 @@ function layoutPage(element) {
   if (!detail || !element.querySelector('.poem-body')) return;
   const layout = readingLayout(detail, { width: pages.clientWidth, height: pages.clientHeight, fontSize: settings.fontSize });
   element.dataset.layout = layout.kind;
-  for (const [name, value] of Object.entries({ 'poem-top': layout.top, 'poem-bottom': layout.bottom, 'poem-size': layout.fontSize, 'title-size': layout.titleSize })) {
+  for (const [name, value] of Object.entries({ 'poem-top': layout.top, 'poem-bottom': layout.bottom, 'poem-size': layout.fontSize, 'title-size': layout.titleSize, 'note-gap': layout.noteGap })) {
     element.style.setProperty(`--${name}`, `${value}px`);
   }
   element.style.setProperty('--verse-leading', layout.lineHeight);
@@ -75,7 +75,8 @@ function layoutPage(element) {
   const body = element.querySelector('.poem-body');
   const text = element.querySelector('.poem-text');
   let size = layout.fontSize;
-  while (layout.fitWhole && size > layout.minimumFont && text.scrollHeight > body.clientHeight - 21) {
+  // Keep the existing type size while the poem moves and the note gains breathing room.
+  while (layout.fitWhole && size > layout.minimumFont && text.scrollHeight > body.clientHeight - layout.textRise - 21) {
     size = Math.max(layout.minimumFont, size - 0.5);
     element.style.setProperty('--poem-size', `${size}px`);
   }
