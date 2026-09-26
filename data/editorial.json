@@ -68,7 +68,7 @@
       "theme": "咏怀",
       "noteTitle": "草木有心，自成佳节",
       "note": "春兰与秋桂各逢其时，生机自然流露。草木散发芬芳，出于自身本性，并非为了得到旁人的欣赏和采折。",
-      "image": "assets/illustrations-wuyan-gushi/002-tang-002-gan-yu-qi-er-feng-v1.png",
+      "image": "assets/poem-art-refresh/tang-002-gan-yu-qi-er-v2.png",
       "pinyin": [
         "lán",
         "yè",
@@ -112,16 +112,14 @@
         "zhé"
       ],
       "layout": "center-low",
-      "contentStatus": "editorial-draft",
-      "artworkMode": "window",
-      "artworkFocusY": 0.7
+      "contentStatus": "editorial-draft"
     },
     "tang-003-gan-yu-qi-san": {
       "featured": true,
       "theme": "咏怀",
       "noteTitle": "山中独卧，遥寄远情",
       "note": "独居的人想洗去纷扰，托高飞的鸟儿传达心意。但飞鸟与沉潜者境遇不同，真诚的思念仍难得到回应。",
-      "image": "assets/illustrations-wuyan-gushi/003-tang-003-gan-yu-qi-san-feng-v1.png",
+      "image": "assets/poem-art-refresh/tang-003-gan-yu-qi-san-v2.png",
       "pinyin": [
         "yōu",
         "rén",
@@ -165,16 +163,14 @@
         "chéng"
       ],
       "layout": "center-low",
-      "contentStatus": "editorial-draft",
-      "artworkMode": "window",
-      "artworkFocusY": 1.0
+      "contentStatus": "editorial-draft"
     },
     "tang-004-gan-yu-qi-si": {
       "featured": true,
       "theme": "咏怀",
       "noteTitle": "经冬犹绿，岁寒有心",
       "note": "江南橘树经历寒冬仍然青绿，自有耐寒的本性。诗人借橘树遭遇，感叹才德未必被看见，却仍值得坚守。",
-      "image": "assets/illustrations-wuyan-gushi/004-tang-004-gan-yu-qi-si-feng-v1.png",
+      "image": "assets/poem-art-refresh/tang-004-gan-yu-qi-si-v2.png",
       "pinyin": [
         "jiāng",
         "nán",
@@ -228,9 +224,7 @@
         "yīn"
       ],
       "layout": "center-low",
-      "contentStatus": "editorial-draft",
-      "artworkMode": "window",
-      "artworkFocusY": 0.65
+      "contentStatus": "editorial-draft"
     },
     "tang-045-you-zi-yin": {
       "featured": true,
@@ -380,7 +374,7 @@
       "theme": "山水",
       "noteTitle": "空山有声，斜光照苔",
       "note": "山中看不见人，只听见远处人声。夕阳的返照穿入深林，又落在青青的苔痕上。",
-      "image": "assets/illustrations-portrait/lu-zhai.png",
+      "image": "assets/poem-art-refresh/tang-224-lu-chai-v2.png",
       "pinyin": [
         "kōng",
         "shān",
@@ -413,9 +407,7 @@
           "url": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=35251&la=0&powerMode=0",
           "note": "采用辞典中的古义读音；面向特定教材发布时需统一教材口径。"
         }
-      ],
-      "artworkMode": "window",
-      "artworkFocusY": 0.5
+      ]
     },
     "tang-225-zhu-li-guan": {
       "featured": true,
@@ -546,7 +538,7 @@
       "theme": "春日",
       "noteTitle": "醒来听鸟，想起落花",
       "note": "春夜睡得香甜，不觉天已亮。醒来听见处处鸟鸣，想起昨夜风雨，不知吹落多少花。",
-      "image": "assets/illustrations-portrait/chun-xiao.png",
+      "image": "assets/poem-art-refresh/tang-232-chun-xiao-v2.png",
       "pinyin": [
         "chūn",
         "mián",
@@ -570,9 +562,7 @@
         "shǎo"
       ],
       "layout": "center-low",
-      "contentStatus": "editorial-draft",
-      "artworkMode": "window",
-      "artworkFocusY": 0.5
+      "contentStatus": "editorial-draft"
     },
     "tang-233-ye-si": {
       "featured": true,
@@ -674,7 +664,7 @@
       "theme": "冬雪",
       "noteTitle": "天地皆白，一人独钓",
       "note": "群山不见飞鸟，条条小路没有行人。茫茫雪江里，一位披蓑戴笠的老人独自在小舟上垂钓。",
-      "image": "assets/illustrations-portrait/jiang-xue.png",
+      "image": "assets/poem-art-refresh/tang-244-jiang-xue-v2.png",
       "pinyin": [
         "qiān",
         "shān",
@@ -698,9 +688,7 @@
         "xuě"
       ],
       "layout": "center-low",
-      "contentStatus": "editorial-draft",
-      "artworkMode": "window",
-      "artworkFocusY": 0.64
+      "contentStatus": "editorial-draft"
     },
     "tang-246-wen-liu-shi-jiu": {
       "featured": true,
@@ -769,7 +757,7 @@
       "theme": "送别",
       "noteTitle": "一杯酒里，都是远行",
       "note": "清晨小雨洗净尘土，客舍旁柳色一新。临别劝友人再饮一杯，因为西出阳关，就难再见故人了。",
-      "image": "assets/illustrations-portrait/song-yuan-er.png",
+      "image": "assets/poem-art-refresh/tang-312-wei-cheng-qu-v2.png",
       "pinyin": [
         "wèi",
         "chéng",
@@ -802,9 +790,7 @@
       ],
       "layout": "center-low",
       "contentStatus": "editorial-draft",
-      "displayTitle": "送元二使安西",
-      "artworkMode": "window",
-      "artworkFocusY": 0.7
+      "displayTitle": "送元二使安西"
     }
   }
 }

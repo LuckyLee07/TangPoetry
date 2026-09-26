@@ -1,0 +1,37 @@
+{
+  "batch": "legacy-refresh-a",
+  "created": "2026-09-26",
+  "method": "built-in image_gen",
+  "records": [
+    {
+      "id": "tang-224-lu-chai",
+      "title": "鹿柴",
+      "prompt": "Use case: illustration-story. Asset type: full-page background for an elegant Chinese Tang poetry reader, NOT a UI mockup. Create ONE 9:16 portrait illustration for Wang Wei's poem 鹿柴 (Deer Enclosure): an empty quiet mountain forest, a slant of late sunlight entering the trees and touching moss-covered stones. No people, no deer. Delicate traditional Chinese watercolor and ink on warm ivory xuan paper, restrained grey-green moss, warm light, gentle handmade paper grain. CRITICAL COMPOSITION: compose this as an extremely shallow painted vignette occupying ONLY the TOP 20-25% of the entire tall page. The forest, tree trunks, moss stones and sunlight all stay wholly in the top quarter; softly dissolve into ivory mist by 28% page height. The full CENTER AND LOWER 70% of the page, from 30% down to the absolute bottom, must remain nearly uniform warm ivory blank writing paper, unobstructed. Do not paint a full-height forest or any foreground plants, stones, trunks or shadows below 30%. No bottom decoration. The scene should have lyrical depth within its shallow upper band but no frame, border, hard rectangle, text, calligraphy, title, signature, seal, watermark or UI. This very large blank region is intentional for separately rendered poem text.",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc96-1362-7a60-85ea-7b1c2fc7b920/exec-1d2bdf2d-ee6e-4c36-b469-8add61c4045c.png",
+      "destination": "assets/poem-art-refresh/tang-224-lu-chai-v2.png",
+      "method": "built-in image_gen",
+      "status": "accepted",
+      "visualReview": "Empty forest, warm slant of light and moss rocks occupy top quarter. No people/deer/text. Lower roughly 72% is uninterrupted ivory writing space, fully clear by 30% height. Accepted on first generation."
+    },
+    {
+      "id": "tang-232-chun-xiao",
+      "title": "春晓",
+      "prompt": "Use case: illustration-story. Asset type: full-page background for an elegant Chinese Tang poetry reader, NOT a UI mockup. Create ONE 9:16 portrait illustration for Meng Haoran's poem 春晓 (Spring Dawn): a few small songbirds on a delicate rain-washed flowering branch, fresh spring morning light, a handful of petals caught beside the branch after last night's wind and rain. Gentle traditional Chinese watercolor and ink on warm ivory xuan paper. Muted soft pink blossoms, grey-green foliage, a subtle warm mist. CRITICAL COMPOSITION: all birds, flowering branches, leaves and petals must be confined to a shallow atmospheric vignette in ONLY the TOP 20-25% of the entire tall page, dissolving into ivory paper by 28%. Not a full-page garden. Do not scatter petals below the upper vignette. The full CENTER AND LOWER 70% of the page, from 30% to the bottom edge, must remain almost uniformly warm ivory blank writing paper, with no object, border, bottom decoration or colored cloud. Blank paper is intentional for poem text added later. No frame, window, sill, buildings, text, calligraphy, title, signature, seal, watermark or UI.",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc96-1362-7a60-85ea-7b1c2fc7b920/exec-6aa5cb47-7fe9-493a-b352-dd715a634b0b.png",
+      "destination": "assets/poem-art-refresh/tang-232-chun-xiao-v2.png",
+      "method": "built-in image_gen",
+      "status": "accepted",
+      "visualReview": "Three birds, damp blossoms and a few falling petals restricted to top quarter, one soft sun, no window/rectangle/text. Rest of page remains clean warm ivory with blank center and bottom. Accepted on first generation."
+    },
+    {
+      "id": "tang-244-jiang-xue",
+      "title": "江雪",
+      "prompt": "Use case: illustration-story. Asset type: full-page background for an elegant Chinese Tang poetry reader, NOT a UI mockup. Create ONE 9:16 portrait illustration for Liu Zongyuan's poem 江雪 (River Snow): vast quiet snow-covered mountain silhouettes behind a winter river, ONE solitary elderly fisherman wearing a straw rain cape and conical bamboo hat, sitting in ONE tiny traditional wooden boat, fishing alone. No birds or other people. Refined spare traditional Chinese ink-and-watercolor on warm ivory xuan paper, pale cool grey ink mountains, creamy untouched paper snow. CRITICAL COMPOSITION: the mountains, riverbank, boat, fisherman, fishing rod and every painted mark must ALL fit within ONLY the TOP 20-25% of the entire tall page. The little boat must sit high on the page around 18-22% vertical position, never near the center or lower area. The shallow upper vignette softly dissolves into ivory paper by 28% height. From 30% page height to the absolute bottom, leave the entire CENTER AND LOWER 70% as almost uniformly blank warm ivory writing paper; no bottom rocks, boats, reeds, branches, river lines or shadow. This extensive negative space is intentional for separately rendered poem text. Full bleed paper without a frame or rectangular picture boundary. No text, calligraphy, title, signature, seal, watermark or UI.",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc96-1362-7a60-85ea-7b1c2fc7b920/exec-de0c6949-76b4-41e6-babf-f9f7b75d554f.png",
+      "destination": "assets/poem-art-refresh/tang-244-jiang-xue-v2.png",
+      "method": "built-in image_gen",
+      "status": "accepted",
+      "visualReview": "Snow mountains and a single fishing elder wearing straw cape/hat in one boat all occupy upper quarter. Boat around 20% height; reflections dissolve before 30%. No birds, other people or text. Central and lower 70% are blank warm ivory. Accepted on first generation."
+    }
+  ]
+}

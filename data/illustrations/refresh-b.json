@@ -1,0 +1,45 @@
+{
+  "method": "built-in image_gen",
+  "records": [
+    {
+      "id": "tang-002-gan-yu-qi-er",
+      "prompt": "Use case: illustration-story. Create ONE finished portrait 9:16 raster illustration used as an edge-to-edge page background in a Tang poetry reader, with extremely generous intentional space for verse. Warm ivory xuan paper, refined traditional Chinese ink and restrained watercolor, delicate muted sage, soft charcoal, ochre. Scene for Zhang Jiuling's 感遇其二: spring orchid leaves with a few small pale orchid blossoms on the upper left, an airy osmanthus branch with modest pale gold blossoms approaching from the upper right, symbols of natural integrity and fragrance. Compose these elements as a beautifully painted small landscape/botanical vignette entirely within the TOP 20–25% of the tall canvas. Keep the thin orchid leaves and twigs there, do not let them extend down the page. No birds, people, garden furniture. Highest detail and contrast only near top edge, smoothly and organically dissolve all pigment by 30% of image height into subtly textured warm ivory paper. The ENTIRE area from 30% through bottom edge must remain practically empty light warm ivory paper for dark reading text. No lower corner decorations, no bottom plants, no framing box, no dividing line. The paper texture should be subtly consistent across the whole page, including corners, without dark vignette. Produce painting only, no Chinese characters, no calligraphy, no text, no signatures, no seals, no border, no watermark. This is not a mockup. Tall portrait 9:16 full bleed.",
+      "destination": "assets/poem-art-refresh/tang-002-gan-yu-qi-er-v2.png",
+      "status": "accepted",
+      "method": "built-in image_gen",
+      "visualReview": "兰叶、浅色兰花与桂枝集中上部；从约30%开始是均匀浅色暖宣纸，底部无任何主体，无文字印章。与本诗兰桂意象相符。",
+      "title": "感遇其二",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc96-5db9-77a1-ad26-44ce87667934/exec-9290a8b3-e51b-41c9-a0c6-9e2c916fa74f.png"
+    },
+    {
+      "id": "tang-003-gan-yu-qi-san",
+      "prompt": "Use case: illustration-story. Generate a single refined Chinese ink and pale watercolor painting, full bleed tall 9:16 portrait, for a Tang poetry reader background. Very light warm ivory xuan paper with subtle consistent fibers, restrained sage green, warm gray, light ochre, soft brush texture. Poem theme: Zhang Jiuling's 感遇其三, the solitary hermit returning to his quiet mountain dwelling, wishing to send distant feelings with a high flying bird. Paint a SMALL poetic scene entirely within the TOP ONE QUARTER of the portrait: an unadorned modest Chinese cottage nestled among sparse mountain trees toward upper left, one tiny scholar in an open veranda, a single distant flying bird high to the right, very pale far mountains. Keep all identifiable scenery, roof, trees and scholar within the top 20–25% of the canvas. Soft mist dissolves the scene into empty paper before 30% image height. The remaining LOWER 70% must be nearly unpainted warm ivory xuan paper with very subtle texture, empty for dark text. Absolutely no landscape ground, trees, people, branches, rocks or dark details in the middle or lower part. No frame, border, mockup, letter, text, seal, inscription, logo or signature. Make the upper painting beautiful and detailed without enlarging it; preserve the vast blank paper below.",
+      "destination": "assets/poem-art-refresh/tang-003-gan-yu-qi-san-v2.png",
+      "status": "accepted",
+      "method": "built-in image_gen",
+      "visualReview": "幽居草堂、独居者与高飞鸟均在顶部四分之一，淡山在30%之前消散。其余大片暖纸留白，没有底部人物景物、文字或印章。",
+      "title": "感遇其三",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc96-5db9-77a1-ad26-44ce87667934/exec-a6514d7e-4c93-4bb4-9dfe-86529b2c8d78.png"
+    },
+    {
+      "id": "tang-004-gan-yu-qi-si",
+      "prompt": "Use case: illustration-story. One elegant full-bleed portrait 9:16 traditional Chinese ink-and-watercolor illustration for a Tang poetry page. Subtle warm ivory xuan paper texture extends evenly across all edges. Poem theme: Zhang Jiuling's 感遇其四, 江南有丹橘，经冬犹绿林. A small resilient evergreen mandarin orange tree carries a few deep orange fruit in a cool late-autumn or early-winter Jiangnan landscape, muted jade leaves, subdued charcoal trunk, delicate pale mist and distant mountains. Compose the entire tree including its roots, rocky bank, and distant scenery as a SMALL top-of-page vignette taking only the TOP 20–25% of the tall canvas. Its orange fruit and leaves should be delicately clear and botanically plausible, a living tree not a bonsai in a pot. Any faint scenery must fade out organically by 30% canvas height. The LOWER 70% of the canvas is unpainted, clean light warm ivory paper for typeset poem text, with fine quiet fibers only. This vast negative space is essential. Do not extend the trunk downward into the reading space. No border, no bottom corner decoration, no people, no snow-covered white blank replacing paper, no lettering, calligraphy, seal, logo, watermark, or UI. Keep the visual style subdued, graceful and contemplative, without dark vignette.",
+      "destination": "assets/poem-art-refresh/tang-004-gan-yu-qi-si-v2.png",
+      "status": "accepted",
+      "method": "built-in image_gen",
+      "visualReview": "橘树及江南水乡主体集中顶部，根石和淡水墨约32%处消散，35%开始的阅读位置及整个下半页干净暖纸色。丹橘、常绿叶符合本诗，无文字印章、无底部主体。",
+      "title": "感遇其四",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc96-5db9-77a1-ad26-44ce87667934/exec-9c19964c-a3c3-4c6c-a2e7-bfad04674070.png"
+    },
+    {
+      "id": "tang-312-wei-cheng-qu",
+      "prompt": "Use case: historical-scene. Create one refined traditional Chinese ink-and-watercolor illustration for Wang Wei's 送元二使安西 (渭城曲). Full-bleed TALL 9:16 portrait xuan-paper page for a Tang poetry reading app. Warm light ivory paper, delicate gray ink, pale spring willow green, tiny muted brown details. Depict the atmosphere of a fresh early morning after rain in ancient Weicheng: a modest Tang-era guesthouse, freshly green willow branches, rain-dampened road, two small robed friends sharing a last cup of wine under the inn eave before parting. All people, building, willow, road and recognizable scenery form a SMALL upper vignette confined to the TOP 20–25% of this tall image. Keep the figures small and naturally posed in that top scene, far above the center of the page. No tavern signs or written banners. Dissolve the foot of the scene softly into the paper by 30% image height. The remaining LOWER 70% is clean, nearly unpainted ivory paper, very quiet fine texture only, reserved for typeset text. No lower foliage, no people in middle/bottom, no dark smears, no frame, no panel boundaries. Fresh rain-washed tenderness, restrained watercolor instead of photorealism. Absolutely no text, lettering, calligraphy, signatures, seals, watermarks, or UI. Important: enormous blank lower area, detailed painting only high at top.",
+      "destination": "assets/poem-art-refresh/tang-312-wei-cheng-qu-v2.png",
+      "status": "accepted",
+      "method": "built-in image_gen",
+      "visualReview": "客舍、柳树、送别二人和待行马匹在顶部，雨后道路倒影约32%处消散；35%以下干净暖宣纸，不覆盖正文，无文字/印章。",
+      "title": "送元二使安西",
+      "source": "/Users/lizi/.codex/generated_images/01a0dc96-5db9-77a1-ad26-44ce87667934/exec-dd0f22ac-3c20-4d37-9430-1e1dc56090e7.png"
+    }
+  ]
+}

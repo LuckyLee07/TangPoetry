@@ -37,38 +37,6 @@ struct Artwork: View {
     }
 }
 
-/// Older full-bleed paintings use a separate upper window to keep their subjects
-/// visible. New illustrations already contain a reading area and remain full-page.
-private struct PoemArtwork: View {
-    let poem: PoemSummary
-    let size: CGSize
-    let contentTop: CGFloat
-
-    var body: some View {
-        Group {
-            if poem.artworkMode == "window", let image = ArtworkCache.image(poem.image) {
-                let windowWidth = max(1, size.width - 44)
-                let windowHeight = max(1, contentTop - 24 - 94)
-                let scale = max(windowWidth / image.size.width, windowHeight / image.size.height)
-                let imageWidth = image.size.width * scale
-                let imageHeight = image.size.height * scale
-                let focusY = CGFloat(min(1, max(0, poem.artworkFocusY ?? 0.5)))
-                ZStack(alignment: .topLeading) {
-                    Image(uiImage: image).resizable()
-                        .frame(width: imageWidth, height: imageHeight)
-                        .offset(x: (windowWidth - imageWidth) / 2, y: (windowHeight - imageHeight) * focusY)
-                }
-                .frame(width: windowWidth, height: windowHeight, alignment: .topLeading)
-                .clipped()
-                .padding(.top, 94)
-                .frame(width: size.width, height: size.height, alignment: .top)
-            } else {
-                Artwork(path: poem.image).frame(width: size.width, height: size.height).clipped()
-            }
-        }.accessibilityHidden(true)
-    }
-}
-
 private enum ReaderSheet: String, Identifiable {
     case library, settings
     var id: String { rawValue }
@@ -116,8 +84,6 @@ struct ReaderView: View {
     private var cover: some View {
         GeometryReader { geometry in
             ZStack(alignment: .topTrailing) {
-                Artwork(path: "Art/song-yuan-er-page.jpg").frame(width: geometry.size.width, height: geometry.size.height).clipped()
-                LinearGradient(colors: [.clear, store.settings.paperColor], startPoint: .center, endPoint: .bottom)
                 VStack(alignment: .trailing, spacing: 16) {
                     Text("唐\n诗\n三\n百\n首").font(.custom("STSongti-SC-Regular", size: 40, relativeTo: .largeTitle)).lineSpacing(4)
                     Text("诗").font(.title3).padding(8).background(Color(red: 0.63, green: 0.23, blue: 0.15), in: RoundedRectangle(cornerRadius: 5)).foregroundStyle(.white)
@@ -133,44 +99,58 @@ struct ReaderView: View {
                     }.controlSize(.large).buttonBorderShape(.capsule)
                 }.padding(.horizontal, 24).padding(.bottom, 34)
             }
+            .frame(width: geometry.size.width, height: geometry.size.height)
+            .background {
+                GeometryReader { canvas in
+                    ZStack {
+                        Artwork(path: "Art/song-yuan-er-page.jpg")
+                        LinearGradient(colors: [.clear, store.settings.paperColor], startPoint: .center, endPoint: .bottom)
+                    }.frame(width: canvas.size.width, height: canvas.size.height).clipped()
+                }.ignoresSafeArea(.container)
+            }
         }
     }
 
     private var reader: some View {
-        ZStack {
-            TabView(selection: $store.selectedID) {
-                ForEach(Array(store.poems.enumerated()), id: \.element.id) { index, poem in
-                    Group {
-                        if abs(index - store.currentIndex) <= 1 {
-                            PoemPageView(poem: poem) { controls.toggle() }
-                        } else { store.settings.paperColor }
-                    }.tag(poem.id)
-                }
-            }.tabViewStyle(.page(indexDisplayMode: .never))
-            if controls {
-                VStack {
-                    HStack(spacing: 10) {
-                        tool("卷", label: "返回封面") { home = true }
-                        Spacer()
-                        tool("目录", label: "目录") { collection = "all"; sheet = .library }
-                        tool("Aa", label: "阅读设置") { sheet = .settings }
-                        tool(store.favorites.contains(store.selectedID) ? "已藏" : "藏", label: store.favorites.contains(store.selectedID) ? "取消收藏此诗" : "收藏此诗") { store.toggleFavorite(store.selectedID) }
+        // Keep the original safe reading area for typography and controls, while
+        // the paging container itself fills the screen so its artwork is not clipped.
+        GeometryReader { readingArea in
+            ZStack {
+                TabView(selection: $store.selectedID) {
+                    ForEach(Array(store.poems.enumerated()), id: \.element.id) { index, poem in
+                        Group {
+                            if abs(index - store.currentIndex) <= 1 {
+                                PoemPageView(poem: poem, readingSize: readingArea.size,
+                                             readingInsets: readingArea.safeAreaInsets) { controls.toggle() }
+                            } else { store.settings.paperColor }
+                        }.tag(poem.id)
                     }
-                    Spacer()
-                    ZStack {
-                        HStack(spacing: 2) {
-                            Button { store.turn(-1) } label: { Image(systemName: "chevron.left").frame(width: 44, height: 44) }.disabled(store.currentIndex == 0).accessibilityLabel("上一首")
-                            Text("\(store.currentIndex + 1) / \(store.poems.count)").font(.caption2).monospacedDigit().fixedSize()
-                            Button { store.turn(1) } label: { Image(systemName: "chevron.right").frame(width: 44, height: 44) }.disabled(store.currentIndex == store.poems.count - 1).accessibilityLabel("下一首")
-                        }
-                        HStack {
+                }.tabViewStyle(.page(indexDisplayMode: .never)).ignoresSafeArea(.container)
+                if controls {
+                    VStack {
+                        HStack(spacing: 10) {
+                            tool("卷", label: "返回封面") { home = true }
                             Spacer()
-                            tool("简注", label: store.settings.notes ? "隐藏简注" : "显示简注") { store.settings.notes.toggle() }
+                            tool("目录", label: "目录") { collection = "all"; sheet = .library }
+                            tool("Aa", label: "阅读设置") { sheet = .settings }
+                            tool(store.favorites.contains(store.selectedID) ? "已藏" : "藏", label: store.favorites.contains(store.selectedID) ? "取消收藏此诗" : "收藏此诗") { store.toggleFavorite(store.selectedID) }
                         }
-                    }
-                }.padding(.horizontal, 22).padding(.vertical, 10)
-            } else {
-                VStack { Spacer(); tool("···", label: "显示阅读工具") { controls = true } }.padding(.bottom, 10)
+                        Spacer()
+                        ZStack {
+                            HStack(spacing: 2) {
+                                Button { store.turn(-1) } label: { Image(systemName: "chevron.left").frame(width: 44, height: 44) }.disabled(store.currentIndex == 0).accessibilityLabel("上一首")
+                                Text("\(store.currentIndex + 1) / \(store.poems.count)").font(.caption2).monospacedDigit().fixedSize()
+                                Button { store.turn(1) } label: { Image(systemName: "chevron.right").frame(width: 44, height: 44) }.disabled(store.currentIndex == store.poems.count - 1).accessibilityLabel("下一首")
+                            }
+                            HStack {
+                                Spacer()
+                                tool("简注", label: store.settings.notes ? "隐藏简注" : "显示简注") { store.settings.notes.toggle() }
+                            }
+                        }
+                    }.padding(.horizontal, 22).padding(.vertical, 10)
+                } else {
+                    VStack { Spacer(); tool("···", label: "显示阅读工具") { controls = true } }.padding(.bottom, 10)
+                }
             }
         }
     }
@@ -183,6 +163,8 @@ struct ReaderView: View {
 struct PoemPageView: View {
     @EnvironmentObject private var store: PoemStore
     let poem: PoemSummary
+    let readingSize: CGSize
+    let readingInsets: EdgeInsets
     let toggleControls: () -> Void
     @State private var detail: PoemDetail?
     @State private var failed = false
@@ -195,50 +177,54 @@ struct PoemPageView: View {
             let hasNote = store.settings.notes && !(detail?.note.isEmpty ?? true)
             let layout = PoemLayout.resolve(
                 section: poem.section, lines: detail?.rubyLines.map { $0.map(\.text).joined() } ?? [],
-                title: poem.title, author: poem.author, size: geometry.size,
+                title: poem.title, author: poem.author, size: readingSize,
                 fontSetting: store.settings.fontSize, dynamicScale: scaledBase / 22,
                 textStart: poem.textStart.map { CGFloat($0) }
             )
-            ZStack(alignment: .top) {
-                PoemArtwork(poem: poem, size: geometry.size, contentTop: layout.contentTop)
-                Text(poem.section).font(.caption2).foregroundStyle(.secondary)
-                    .frame(maxWidth: .infinity, alignment: .leading).padding(.top, 68).padding(.horizontal, layout.horizontalPadding)
-                VStack(spacing: 0) {
-                    if let detail {
-                        ScrollView {
-                            VStack(spacing: layout.bodySpacing) {
-                                VStack(spacing: layout.headerSpacing) {
-                                    Text(poem.title).font(.custom("STSongti-SC-Regular", fixedSize: layout.titleSize))
-                                        .multilineTextAlignment(.center).fixedSize(horizontal: false, vertical: true)
-                                    Text("唐 · \(poem.author)").font(.system(size: layout.authorSize)).foregroundStyle(.secondary)
-                                }
-                                VStack(spacing: layout.lineSpacing) {
-                                    ForEach(detail.rubyLines.indices, id: \.self) { index in
-                                        VerseLine(tokens: detail.rubyLines[index], fontSize: layout.fontSize)
+            ZStack(alignment: .topLeading) {
+                Artwork(path: poem.image).frame(width: geometry.size.width, height: geometry.size.height).clipped()
+                ZStack(alignment: .top) {
+                    Text(poem.section).font(.caption2).foregroundStyle(.secondary)
+                        .frame(maxWidth: .infinity, alignment: .leading).padding(.top, 68).padding(.horizontal, layout.horizontalPadding)
+                    VStack(spacing: 0) {
+                        if let detail {
+                            ScrollView {
+                                VStack(spacing: layout.bodySpacing) {
+                                    VStack(spacing: layout.headerSpacing) {
+                                        Text(poem.title).font(.custom("STSongti-SC-Regular", fixedSize: layout.titleSize))
+                                            .multilineTextAlignment(.center).fixedSize(horizontal: false, vertical: true)
+                                        Text("唐 · \(poem.author)").font(.system(size: layout.authorSize)).foregroundStyle(.secondary)
                                     }
-                                }
-                                if hasNote {
-                                    Button { showNotes = true } label: {
-                                        VStack(alignment: .leading, spacing: 8) {
-                                            Divider()
-                                            HStack { Text(detail.noteTitle).font(.caption.weight(.medium)); Spacer(); Text("展开").font(.caption2) }
-                                            Text(detail.note).font(.caption).lineSpacing(4).lineLimit(2).foregroundStyle(.secondary)
-                                        }.padding(.top, 12).padding(.bottom, 12).frame(maxWidth: .infinity, alignment: .leading)
-                                            .fixedSize(horizontal: false, vertical: true)
-                                    }.buttonStyle(.plain)
-                                        .accessibilityLabel("查看\(poem.title)的完整诗意和注释")
-                                }
-                            }.frame(maxWidth: .infinity).padding(.bottom, 20)
-                        }.onTapGesture(perform: toggleControls)
-                    } else if failed {
-                        VStack { Text("这一页暂时未能打开。"); Button("重试此页") { retry += 1 } }.frame(maxWidth: .infinity, maxHeight: .infinity)
-                    } else { ProgressView("展卷中…").frame(maxWidth: .infinity, maxHeight: .infinity) }
+                                    VStack(spacing: layout.lineSpacing) {
+                                        ForEach(detail.rubyLines.indices, id: \.self) { index in
+                                            VerseLine(tokens: detail.rubyLines[index], fontSize: layout.fontSize)
+                                        }
+                                    }
+                                    if hasNote {
+                                        Button { showNotes = true } label: {
+                                            VStack(alignment: .leading, spacing: 8) {
+                                                Divider()
+                                                HStack { Text(detail.noteTitle).font(.caption.weight(.medium)); Spacer(); Text("展开").font(.caption2) }
+                                                Text(detail.note).font(.caption).lineSpacing(4).lineLimit(2).foregroundStyle(.secondary)
+                                            }.padding(.top, 12).padding(.bottom, 12).frame(maxWidth: .infinity, alignment: .leading)
+                                                .fixedSize(horizontal: false, vertical: true)
+                                        }.buttonStyle(.plain)
+                                            .accessibilityLabel("查看\(poem.title)的完整诗意和注释")
+                                    }
+                                }.frame(maxWidth: .infinity).padding(.bottom, 20)
+                            }.onTapGesture(perform: toggleControls)
+                        } else if failed {
+                            VStack { Text("这一页暂时未能打开。"); Button("重试此页") { retry += 1 } }.frame(maxWidth: .infinity, maxHeight: .infinity)
+                        } else { ProgressView("展卷中…").frame(maxWidth: .infinity, maxHeight: .infinity) }
+                    }
+                    .frame(height: max(0, readingSize.height - layout.contentTop - 65), alignment: .top)
+                    .clipped()
+                    .padding(.top, layout.contentTop).padding(.horizontal, layout.horizontalPadding)
                 }
-                .frame(height: max(0, geometry.size.height - layout.contentTop - 65), alignment: .top)
-                .clipped()
-                .padding(.top, layout.contentTop).padding(.horizontal, layout.horizontalPadding)
+                .frame(width: readingSize.width, height: readingSize.height, alignment: .top)
+                .offset(x: readingInsets.leading, y: readingInsets.top)
             }
-        }
+        }.ignoresSafeArea(.container)
         .task(id: "\(poem.id)-\(retry)") {
             failed = false
             do { detail = try await store.repository.detail(poem.id) } catch { failed = true }

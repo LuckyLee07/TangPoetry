@@ -79,7 +79,7 @@ struct PoemLayout {
         let bottomReserve: CGFloat = 65
         let minimumTop = max(100, 82 + 14 * accessibilityScale)
         let artworkTopFraction = max(topFraction, min(textStart ?? topFraction, 0.7))
-        let preferredTop = max(minimumTop, size.height * artworkTopFraction)
+        let preferredTop = max(minimumTop, size.height * artworkTopFraction - 25)
         let contentBottom = max(minimumTop, size.height - bottomReserve)
 
         // Mirror VerseGrid's cells and punctuation reserve. At accessibility sizes,

@@ -89,7 +89,7 @@ export function readingLayout(poem, { width = 390, height = 844, fontSize = 22 }
   const lineHeight = short ? 1.95 : regulated ? (height < 620 ? 1.35 : 1.6) : medium ? 1.55 : 1.7;
   const bottom = 84;
   const defaultStart = short ? 0.45 : 0.39;
-  const top = height * Math.max(defaultStart, Math.min(0.7, poem.textStart || defaultStart));
+  const top = Math.max(100, height * Math.max(defaultStart, Math.min(0.7, poem.textStart || defaultStart)) - 25);
   let fittedFont = preferredFont;
   const bodyWidth = Math.max(80, width - 80);
   const titleSize = Math.min(26, Math.max(20, baseFont + 1));

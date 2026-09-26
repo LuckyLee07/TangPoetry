@@ -1,0 +1,65 @@
+{
+  "created": "2026-09-26",
+  "method": "built-in image_gen",
+  "expected": 7,
+  "accepted": 7,
+  "remaining": 0,
+  "records": [
+    {
+      "id": "tang-224-lu-chai",
+      "image": "assets/poem-art-refresh/tang-224-lu-chai-v2.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "efe4ff8d3b1ca5e567349f91a8dc10a9eb260feeddd543c2f46b540874578047",
+      "status": "accepted"
+    },
+    {
+      "id": "tang-232-chun-xiao",
+      "image": "assets/poem-art-refresh/tang-232-chun-xiao-v2.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "373f2a1cdbcfa43a8f286bed42dfeab48660a1503e62d114fa3d0b529c7a7809",
+      "status": "accepted"
+    },
+    {
+      "id": "tang-244-jiang-xue",
+      "image": "assets/poem-art-refresh/tang-244-jiang-xue-v2.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "62a109f66e577bf9a78e2f2d9c69fecbf0643751b58914ffbd29abe86827ded7",
+      "status": "accepted"
+    },
+    {
+      "id": "tang-002-gan-yu-qi-er",
+      "image": "assets/poem-art-refresh/tang-002-gan-yu-qi-er-v2.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "7867bb6c422f7fdfc3f4b852961f7f6cc0d9409310c7640860aa0a0acd777a1f",
+      "status": "accepted"
+    },
+    {
+      "id": "tang-003-gan-yu-qi-san",
+      "image": "assets/poem-art-refresh/tang-003-gan-yu-qi-san-v2.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "0f36c9faef06f8c16457a3d181fd36a712fa049350c7abf97c5f01671a74b8f8",
+      "status": "accepted"
+    },
+    {
+      "id": "tang-004-gan-yu-qi-si",
+      "image": "assets/poem-art-refresh/tang-004-gan-yu-qi-si-v2.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "7ae7a587b983a1a23879390ea3fe79ab63cc7bde23dbf4fb2b7050dc4c1b3991",
+      "status": "accepted"
+    },
+    {
+      "id": "tang-312-wei-cheng-qu",
+      "image": "assets/poem-art-refresh/tang-312-wei-cheng-qu-v2.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "8f83d669645ccd224529f1ec5fa0a31f069d5c0b48ac96fe25c9e751ca41e540",
+      "status": "accepted"
+    }
+  ]
+}

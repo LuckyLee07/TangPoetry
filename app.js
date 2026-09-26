@@ -1,4 +1,4 @@
-import { parseStored, sanitizeSettings, migrateFavorites, filterPoems, initialIndex, createPoemLoader, readingLayout } from './reader-core.js?v=0.3.4';
+import { parseStored, sanitizeSettings, migrateFavorites, filterPoems, initialIndex, createPoemLoader, readingLayout } from './reader-core.js?v=0.3.5';
 
 const $ = selector => document.querySelector(selector);
 const escapeHTML = value => String(value ?? '').replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
@@ -85,8 +85,6 @@ function layoutMountedPages() {
 }
 function renderPage(element, poem, detail) {
   pageDetails.set(element, { ...detail, section: poem.section, textStart: poem.textStart });
-  element.dataset.artwork = poem.artworkMode || 'full';
-  element.style.setProperty('--art-focus-y', `${Math.max(0, Math.min(1, poem.artworkFocusY ?? 0.5)) * 100}%`);
   element.innerHTML = `<figure class="scene" aria-hidden="true"><img src="./${escapeHTML(poem.image)}" alt="" decoding="async" /></figure>
     <div class="book-ribbon">${escapeHTML(poem.section)}</div>
     <div class="poem-body" tabindex="0" aria-label="${escapeHTML(poem.title)}全文"><div class="poem-text"><h2 class="poem-title">${escapeHTML(poem.title)}</h2><p class="poem-author">唐 · ${escapeHTML(poem.author)}</p><div class="poem-lines">${verses(detail.rubyLines)}</div></div>

@@ -28,8 +28,8 @@ final class ReaderTests: XCTestCase {
         XCTAssertEqual(medium.length, .medium)
         XCTAssertEqual(ballad.length, .long)
         XCTAssertLessThan(fiveRegulated.contentTop, fiveQuatrain.contentTop)
-        XCTAssertEqual(fiveQuatrain.contentTop, 760 * 0.45, accuracy: 0.01)
-        XCTAssertEqual(fiveRegulated.contentTop, 760 * 0.39, accuracy: 0.01)
+        XCTAssertEqual(fiveQuatrain.contentTop, 760 * 0.45 - 25, accuracy: 0.01)
+        XCTAssertEqual(fiveRegulated.contentTop, 760 * 0.39 - 25, accuracy: 0.01)
         XCTAssertEqual(medium.contentTop, fiveRegulated.contentTop, accuracy: 0.01)
         XCTAssertEqual(ballad.contentTop, fiveRegulated.contentTop, accuracy: 0.01)
         XCTAssertLessThan(fiveRegulated.lineSpacing, fiveQuatrain.lineSpacing)
@@ -40,8 +40,8 @@ final class ReaderTests: XCTestCase {
     func testCompactPagesScrollWithinWhitespaceInsteadOfMovingOverArtwork() {
         let quatrain = layout(characters: 7, verses: 4, width: 320, height: 568)
         let regulated = layout(characters: 7, verses: 8, width: 320, height: 568)
-        XCTAssertEqual(quatrain.contentTop, 568 * 0.45, accuracy: 0.01)
-        XCTAssertEqual(regulated.contentTop, 568 * 0.39, accuracy: 0.01)
+        XCTAssertEqual(quatrain.contentTop, 568 * 0.45 - 25, accuracy: 0.01)
+        XCTAssertEqual(regulated.contentTop, 568 * 0.39 - 25, accuracy: 0.01)
         XCTAssertGreaterThanOrEqual(regulated.fontSize, 20)
         XCTAssertGreaterThan(regulated.estimatedContentHeight, 568 - regulated.contentTop - 65)
         XCTAssertLessThanOrEqual(regulated.fontSize * (7 * 1.18 + 2), 320 - regulated.horizontalPadding * 2)
@@ -51,6 +51,8 @@ final class ReaderTests: XCTestCase {
         XCTAssertLessThan(longTitle.titleSize, shortTitle.titleSize)
         XCTAssertEqual(longTitle.contentTop, shortTitle.contentTop, accuracy: 0.01)
         XCTAssertGreaterThan(longTitle.estimatedContentHeight, shortTitle.estimatedContentHeight)
+        let limitedHeight = layout(characters: 5, verses: 4, width: 320, height: 200)
+        XCTAssertEqual(limitedHeight.contentTop, 100, accuracy: 0.01)
     }
 
     func testUserSizeAndDynamicTypeRetainAReadableScaledFloor() {
@@ -67,19 +69,21 @@ final class ReaderTests: XCTestCase {
         let lower = layout(characters: 5, verses: 4, textStart: 0.52)
         let aboveReadingArea = layout(characters: 5, verses: 4, textStart: 0.20)
         let belowPage = layout(characters: 5, verses: 4, textStart: 1)
-        XCTAssertEqual(lower.contentTop, 760 * 0.52, accuracy: 0.01)
-        XCTAssertEqual(aboveReadingArea.contentTop, 760 * 0.45, accuracy: 0.01)
-        XCTAssertEqual(belowPage.contentTop, 760 * 0.7, accuracy: 0.01)
+        XCTAssertEqual(lower.contentTop, 760 * 0.52 - 25, accuracy: 0.01)
+        XCTAssertEqual(aboveReadingArea.contentTop, 760 * 0.45 - 25, accuracy: 0.01)
+        XCTAssertEqual(belowPage.contentTop, 760 * 0.7 - 25, accuracy: 0.01)
         XCTAssertGreaterThanOrEqual(belowPage.fontSize, 22)
     }
 
-    func testBundledArtworkOverridesPreserveOriginalPaintings() throws {
+    func testBundledArtworkRefreshesUseFullPageIllustrations() throws {
         let catalog: PoemCatalog = try BundledContent.decode("catalog.json")
-        let windowed = catalog.poems.filter { $0.artworkMode == "window" }
-        XCTAssertEqual(windowed.count, 7)
-        for poem in windowed {
-            let focus = try XCTUnwrap(poem.artworkFocusY)
-            XCTAssertTrue((0...1).contains(focus))
+        XCTAssertTrue(catalog.poems.allSatisfy { $0.artworkMode == nil && $0.artworkFocusY == nil })
+        let refreshedIDs = ["tang-002-gan-yu-qi-er", "tang-003-gan-yu-qi-san", "tang-004-gan-yu-qi-si",
+                            "tang-224-lu-chai", "tang-232-chun-xiao", "tang-244-jiang-xue", "tang-312-wei-cheng-qu"]
+        for id in refreshedIDs {
+            let poem = try XCTUnwrap(catalog.poems.first { $0.id == id })
+            XCTAssertEqual(poem.image, "Art/\(id)-v2-page.jpg")
+            XCTAssertEqual(poem.thumbnail, "Art/\(id)-v2-thumb.jpg")
             XCTAssertTrue(poem.dedicatedArt)
         }
         let quietNight = try XCTUnwrap(catalog.poems.first { $0.id == "tang-233-ye-si" })
@@ -111,6 +115,7 @@ final class ReaderTests: XCTestCase {
         XCTAssertEqual(catalog.poems.filter(\.dedicatedArt).count, 317)
         XCTAssertEqual(Set(catalog.poems.map(\.image)).count, 317)
         XCTAssertEqual(Set(catalog.poems.map(\.id)).count, 317)
+        XCTAssertNoThrow(try BundledContent.url("Art/song-yuan-er-page.jpg"))
         for poem in catalog.poems {
             let detail: PoemDetail = try BundledContent.decode("poems/\(poem.id).json")
             XCTAssertEqual(detail.id, poem.id)
