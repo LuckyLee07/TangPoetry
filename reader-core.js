@@ -70,7 +70,7 @@ export function createPoemLoader(fetchPoem, maxEntries = 12) {
 
 // Keep the illustration visible. Fit the poem within its reserved paper area,
 // then scroll there if needed; content length never pulls text over the artwork.
-export function readingLayout(poem, { width = 390, height = 844, fontSize = 22 } = {}) {
+export function readingLayout(poem, { width = 390, height = 844, fontSize = 22, notesEnabled = true } = {}) {
   const texts = poem.rubyLines.map(line => line.map(([text]) => text).join(''));
   const lengths = texts.map(text => [...text.replace(/[\p{Punctuation}\s]/gu, '')].length);
   const lineCount = lengths.length;
@@ -90,8 +90,8 @@ export function readingLayout(poem, { width = 390, height = 844, fontSize = 22 }
   const bottom = 84;
   const defaultStart = short ? 0.45 : 0.39;
   const fittingTop = Math.max(100, height * Math.max(defaultStart, Math.min(0.7, poem.textStart || defaultStart)) - 25);
-  const top = Math.max(100, fittingTop - 45);
-  const textRise = fittingTop - top;
+  const baseTop = Math.max(100, fittingTop - 45);
+  const textRise = fittingTop - baseTop;
   const noteGap = 28 + textRise + 25;
   let fittedFont = preferredFont;
   const bodyWidth = Math.max(80, width - 80);
@@ -108,5 +108,9 @@ export function readingLayout(poem, { width = 390, height = 844, fontSize = 22 }
       fittedFont = Math.max(minimumFont, fittedFont - 0.5);
     }
   }
-  return { kind, lineCount, fontSize: Math.round(fittedFont * 10) / 10, minimumFont, top, bottom, textRise, noteGap, lineHeight, titleSize, fitWhole };
+  const resolvedFont = Math.round(fittedFont * 10) / 10;
+  const hasVisibleNotes = notesEnabled && Boolean(poem.note?.trim());
+  const noNoteShift = hasVisibleNotes ? 0 : Math.max(0, Math.min(60, (height - bottom - baseTop - estimatedHeight(resolvedFont)) / 2));
+  const top = baseTop + noNoteShift;
+  return { kind, lineCount, fontSize: resolvedFont, minimumFont, baseTop, top, bottom, textRise, noteGap, hasVisibleNotes, noNoteShift, lineHeight, titleSize, fitWhole };
 }

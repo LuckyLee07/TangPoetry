@@ -1,4 +1,4 @@
-import { parseStored, sanitizeSettings, migrateFavorites, filterPoems, initialIndex, createPoemLoader, readingLayout } from './reader-core.js?v=0.3.7';
+import { parseStored, sanitizeSettings, migrateFavorites, filterPoems, initialIndex, createPoemLoader, readingLayout } from './reader-core.js?v=0.3.8';
 
 const $ = selector => document.querySelector(selector);
 const escapeHTML = value => String(value ?? '').replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
@@ -65,9 +65,9 @@ function verses(lines) {
 function layoutPage(element) {
   const detail = pageDetails.get(element);
   if (!detail || !element.querySelector('.poem-body')) return;
-  const layout = readingLayout(detail, { width: pages.clientWidth, height: pages.clientHeight, fontSize: settings.fontSize });
+  const layout = readingLayout(detail, { width: pages.clientWidth, height: pages.clientHeight, fontSize: settings.fontSize, notesEnabled: settings.notes });
   element.dataset.layout = layout.kind;
-  for (const [name, value] of Object.entries({ 'poem-top': layout.top, 'poem-bottom': layout.bottom, 'poem-size': layout.fontSize, 'title-size': layout.titleSize, 'note-gap': layout.noteGap })) {
+  for (const [name, value] of Object.entries({ 'poem-top': layout.baseTop, 'poem-bottom': layout.bottom, 'poem-size': layout.fontSize, 'title-size': layout.titleSize, 'note-gap': layout.noteGap })) {
     element.style.setProperty(`--${name}`, `${value}px`);
   }
   element.style.setProperty('--verse-leading', layout.lineHeight);
@@ -80,6 +80,11 @@ function layoutPage(element) {
     size = Math.max(layout.minimumFont, size - 0.5);
     element.style.setProperty('--poem-size', `${size}px`);
   }
+  if (!layout.hasVisibleNotes) {
+    // Measure after fitting so wrapped titles and large text keep their scrolling room.
+    const noNoteShift = Math.max(0, Math.min(60, (body.clientHeight - text.scrollHeight - 21) / 2));
+    element.style.setProperty('--poem-top', `${layout.baseTop + noNoteShift}px`);
+  }
 }
 function layoutMountedPages() {
   for (const element of shells) if (element.childNodes.length) layoutPage(element);
@@ -89,7 +94,7 @@ function renderPage(element, poem, detail) {
   element.innerHTML = `<figure class="scene" aria-hidden="true"><img src="./${escapeHTML(poem.image)}" alt="" decoding="async" /></figure>
     <div class="book-ribbon">${escapeHTML(poem.section)}</div>
     <div class="poem-body" tabindex="0" aria-label="${escapeHTML(poem.title)}全文"><div class="poem-text"><h2 class="poem-title">${escapeHTML(poem.title)}</h2><p class="poem-author">唐 · ${escapeHTML(poem.author)}</p><div class="poem-lines">${verses(detail.rubyLines)}</div></div>
-    ${detail.note ? `<section class="note"><h3>${escapeHTML(detail.noteTitle)}</h3><p>${escapeHTML(detail.note)}</p><button class="note-more" data-notes="${poem.id}" aria-label="查看${escapeHTML(poem.title)}的完整诗意和注释">展开</button></section>` : ''}</div>`;
+    ${detail.note?.trim() ? `<section class="note"><h3>${escapeHTML(detail.noteTitle)}</h3><p>${escapeHTML(detail.note)}</p><button class="note-more" data-notes="${poem.id}" aria-label="查看${escapeHTML(poem.title)}的完整诗意和注释">展开</button></section>` : ''}</div>`;
   const image = element.querySelector('img');
   image.addEventListener('error', () => image.remove(), { once: true });
   layoutPage(element);

@@ -174,12 +174,12 @@ struct PoemPageView: View {
 
     var body: some View {
         GeometryReader { geometry in
-            let hasNote = store.settings.notes && !(detail?.note.isEmpty ?? true)
+            let hasNote = store.settings.notes && !(detail?.note.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty ?? true)
             let layout = PoemLayout.resolve(
                 section: poem.section, lines: detail?.rubyLines.map { $0.map(\.text).joined() } ?? [],
                 title: poem.title, author: poem.author, size: readingSize,
                 fontSetting: store.settings.fontSize, dynamicScale: scaledBase / 22,
-                textStart: poem.textStart.map { CGFloat($0) }
+                textStart: poem.textStart.map { CGFloat($0) }, showsNote: hasNote
             )
             ZStack(alignment: .topLeading) {
                 Artwork(path: poem.image).frame(width: geometry.size.width, height: geometry.size.height).clipped()

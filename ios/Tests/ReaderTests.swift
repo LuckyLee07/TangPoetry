@@ -5,11 +5,11 @@ final class ReaderTests: XCTestCase {
     private func layout(characters: Int, verses: Int, width: CGFloat = 390, height: CGFloat = 760,
                         title: String = "山居秋暝",
                         fontSetting: Int = 22, dynamicScale: CGFloat = 1,
-                        textStart: CGFloat? = nil) -> PoemLayout {
+                        textStart: CGFloat? = nil, showsNote: Bool = true) -> PoemLayout {
         PoemLayout.resolve(
             section: "乐府", lines: Array(repeating: String(repeating: "山", count: characters) + "。", count: verses),
             title: title, author: "王维", size: CGSize(width: width, height: height),
-            fontSetting: fontSetting, dynamicScale: dynamicScale, textStart: textStart
+            fontSetting: fontSetting, dynamicScale: dynamicScale, textStart: textStart, showsNote: showsNote
         )
     }
 
@@ -67,6 +67,24 @@ final class ReaderTests: XCTestCase {
         XCTAssertGreaterThanOrEqual(enlarged.fontSize + 0.001, 18 * 30 / 22 * 1.6)
         XCTAssertGreaterThan(enlarged.estimatedContentHeight, normal.estimatedContentHeight)
         XCTAssertEqual(enlarged.contentTop, normal.contentTop, accuracy: 0.01)
+    }
+
+    func testPoemsWithoutVisibleNotesUseAvailableWhitespace() {
+        let annotated = layout(characters: 7, verses: 4)
+        let unannotated = layout(characters: 7, verses: 4, showsNote: false)
+        XCTAssertEqual(unannotated.contentTop - annotated.contentTop, 60, accuracy: 0.01)
+        XCTAssertEqual(unannotated.fontSize, annotated.fontSize)
+        XCTAssertEqual(unannotated.lineSpacing, annotated.lineSpacing)
+        XCTAssertEqual(unannotated.estimatedContentHeight, annotated.estimatedContentHeight)
+        XCTAssertLessThanOrEqual(unannotated.contentTop + unannotated.estimatedContentHeight, 760 - 65)
+
+        let compact = layout(characters: 7, verses: 8, width: 320, height: 500)
+        let compactWithoutNotes = layout(characters: 7, verses: 8, width: 320, height: 500, showsNote: false)
+        XCTAssertEqual(compactWithoutNotes.contentTop, compact.contentTop)
+        let long = layout(characters: 7, verses: 120)
+        let longWithoutNotes = layout(characters: 7, verses: 120, showsNote: false)
+        XCTAssertEqual(longWithoutNotes.contentTop, long.contentTop)
+        XCTAssertEqual(longWithoutNotes.fontSize, long.fontSize)
     }
 
     func testArtworkSpecificTextStartCanMoveDownButNeverBackIntoThePainting() {

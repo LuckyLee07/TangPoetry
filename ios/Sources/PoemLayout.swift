@@ -19,7 +19,7 @@ struct PoemLayout {
     static func resolve(
         section: String, lines: [String], title: String, author: String,
         size: CGSize, fontSetting: Int, dynamicScale: CGFloat = 1,
-        textStart: CGFloat? = nil
+        textStart: CGFloat? = nil, showsNote: Bool = true
     ) -> Self {
         let lineLengths = lines.map { line in
             line.filter { character in
@@ -125,11 +125,14 @@ struct PoemLayout {
             fontSize = lower
         }
         let height = contentHeight(at: fontSize)
+        // Reuse the empty note area for visual balance without reducing the type size.
+        // Long poems keep their full scrolling area instead of being pushed down.
+        let unannotatedShift = showsNote ? 0 : min(60, max(0, (contentBottom - preferredTop - height) / 2))
         return Self(
             length: length, fontSize: fontSize, titleSize: titleSize, authorSize: authorSize,
             lineSpacing: fontSize * gapRatio, headerSpacing: headerSpacing, bodySpacing: bodySpacing,
             noteTopPadding: noteTopPadding,
-            horizontalPadding: horizontalPadding, contentTop: preferredTop,
+            horizontalPadding: horizontalPadding, contentTop: preferredTop + unannotatedShift,
             estimatedContentHeight: height
         )
     }
