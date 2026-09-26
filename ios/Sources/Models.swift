@@ -17,10 +17,19 @@ struct PoemSummary: Decodable, Identifiable, Sendable {
     let dedicatedArt: Bool
     let image: String
     let thumbnail: String
+    let thumbnailFrame: ThumbnailFrame?
     let artworkMode: String?
     let artworkFocusY: Double?
     let textStart: Double?
     let searchText: String
+}
+
+/// A directory-specific square viewport; all coordinates use source-image width.
+struct ThumbnailFrame: Decodable, Sendable {
+    let x: Double
+    let y: Double
+    let side: Double
+    let aspect: Double
 }
 
 struct RubyToken: Decodable, Sendable {

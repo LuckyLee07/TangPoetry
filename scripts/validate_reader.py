@@ -9,6 +9,8 @@ catalog_data = json.loads((ROOT / "data/reader/catalog.json").read_text())
 catalog = catalog_data["poems"]
 source = {p["id"]: p for p in json.loads((ROOT / "data/final/tang_poems_final.json").read_text())["poems"]}
 editorial = json.loads((ROOT / "data/editorial.json").read_text())["poems"]
+icon_frames = json.loads((ROOT / "data/illustrations/library-icons.json").read_text())["poems"]
+assert icon_frames.keys() == source.keys(), "Directory viewports must cover every poem"
 assert len(catalog) == len(source) == 320
 assert {p["order"] for p in catalog} == set(range(1, 321)), "The chosen edition must have all 320 source orders"
 assert {p["id"] for p in catalog} == source.keys(), "Source poem identities must be preserved"
@@ -23,6 +25,7 @@ assert all(p["dedicatedArt"] for p in catalog), "Every poem must have its own il
 assert len({p["image"] for p in catalog}) == 320
 assert len({p["thumbnail"] for p in catalog}) == 320
 for poem in catalog:
+    assert poem["thumbnailFrame"] == {key: icon_frames[poem["id"]][key] for key in ("x", "y", "side", "aspect")}, poem["id"]
     original = source[poem["id"]]
     edit = editorial.get(poem["id"], {})
     for key in ("artworkMode", "artworkFocusY", "textStart"):

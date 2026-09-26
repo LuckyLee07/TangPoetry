@@ -1,0 +1,43 @@
+{
+  "version": "0.5.1",
+  "date": "2026-09-26",
+  "poems": 320,
+  "method": "individual square viewports, original bitmap pixels unchanged; no new AI generation",
+  "logicalIconSize": 56,
+  "cornerRadius": 8,
+  "newBitmapAssets": 0,
+  "manualReview": {
+    "contactSheets": 5,
+    "poemsReviewed": 320,
+    "finalSpotcheckOrders": [
+      224,
+      225,
+      227,
+      233,
+      244,
+      242,
+      1,
+      285,
+      149,
+      168,
+      41,
+      52
+    ],
+    "comparison": "output/icon-review/final-comparison.jpg"
+  },
+  "validation": {
+    "javascript": 14,
+    "python": 6,
+    "ios": 25,
+    "readerData": 320,
+    "sourceHashesAndBounds": "passed",
+    "webDOM": "320 rows;56px square;6 first-screen images loaded",
+    "webScreenshot": "unavailable",
+    "nativeUI": "iPhone17/iOS26.2 directory screenshot checked"
+  },
+  "preserved": [
+    "All reading-page artwork bytes",
+    "Poem typography and notes positioning",
+    "User collections and reading state"
+  ]
+}

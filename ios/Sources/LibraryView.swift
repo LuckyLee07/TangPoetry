@@ -44,7 +44,7 @@ struct LibraryView: View {
                                 ForEach(group.poems) { poem in
                                     Button { select(poem.id, scope) } label: {
                                         HStack(spacing: 14) {
-                                            Artwork(path: poem.thumbnail).frame(width: 48, height: 64).clipped().clipShape(RoundedRectangle(cornerRadius: 4))
+                                            DirectoryArtwork(poem: poem)
                                             VStack(alignment: .leading, spacing: 6) {
                                                 Text(poem.title).font(.custom("STSongti-SC-Regular", size: 18, relativeTo: .headline)).foregroundStyle(.primary)
                                                 Text(poem.author).font(.caption).foregroundStyle(.secondary)
@@ -91,6 +91,28 @@ struct LibraryView: View {
     }
 }
 
+private struct DirectoryArtwork: View {
+    let poem: PoemSummary
+    private let size: CGFloat = 56
+
+    var body: some View {
+        ZStack(alignment: .topLeading) {
+            if let frame = poem.thumbnailFrame {
+                let width = size / frame.side
+                // Preserve delicate linework when a small subject needs a tight viewport.
+                Artwork(path: frame.side < 0.45 ? poem.image : poem.thumbnail)
+                    .frame(width: width, height: width * frame.aspect)
+                    .offset(x: -width * frame.x, y: -width * frame.y)
+            } else {
+                Artwork(path: poem.thumbnail).frame(width: size, height: size)
+            }
+        }
+        .frame(width: size, height: size, alignment: .topLeading)
+        .clipShape(RoundedRectangle(cornerRadius: 8))
+        .accessibilityHidden(true)
+    }
+}
+
 struct SettingsView: View {
     @EnvironmentObject private var store: PoemStore
     @Environment(\.dismiss) private var dismiss
@@ -116,7 +138,7 @@ struct SettingsView: View {
                 Section("关于唐诗画笺") {
                     Text("一页一诗，一诗一画。")
                     Text("所有诗词与插画均内置，可离线阅读。收藏、设置与阅读位置仅保存在当前设备，无需账号，无广告、无统计追踪。")
-                    Text("诗文按体裁分卷，同一体裁内保留选本顺序，部分题名使用常用别名。诗文与简注持续校订。版本 0.5.0")
+                    Text("诗文按体裁分卷，同一体裁内保留选本顺序，部分题名使用常用别名。诗文与简注持续校订。版本 0.5.1")
                 }.font(.footnote).foregroundStyle(.secondary)
             }.scrollContentBackground(.hidden).background(store.settings.paperColor)
             .navigationTitle("阅读设置").navigationBarTitleDisplayMode(.inline)

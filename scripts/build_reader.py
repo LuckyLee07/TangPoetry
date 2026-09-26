@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Build compact shared web/iOS data without modifying the archival content sources."""
 import json
+import hashlib
 import re
 import subprocess
 from pathlib import Path
@@ -142,6 +143,8 @@ def build():
     visuals = read("data/visuals.json")
     art_plan_path = ROOT / "data/illustrations/plan.json"
     art_plan = read("data/illustrations/plan.json")["poems"] if art_plan_path.exists() else {}
+    icon_frames = read("data/illustrations/library-icons.json")["poems"]
+    assert icon_frames.keys() == {p["id"] for p in source["poems"]}, "Directory artwork must cover the edition"
     catalog, missing, details = [], [], []
     for poem in source["poems"]:
         edit = editorial.get(poem["id"], {})
@@ -153,6 +156,11 @@ def build():
         if candidate and not dedicated:
             missing.append({"id": poem["id"], "image": candidate})
         image = candidate if dedicated else f"assets/illustrations-portrait/{FALLBACKS.get(theme, 'lu-zhai')}.png"
+        icon = icon_frames[poem["id"]]
+        assert icon["source"] == image, f"Directory artwork needs reframing: {poem['id']}"
+        assert icon["sourceSHA256"] == hashlib.sha256((ROOT / image).read_bytes()).hexdigest(), f"Directory source changed: {poem['id']}"
+        assert 0 < icon["side"] <= 1 and 0 <= icon["x"] <= 1 - icon["side"] + 0.00001, poem["id"]
+        assert 0 <= icon["y"] <= icon["aspect"] - icon["side"], poem["id"]
         title = edit.get("displayTitle", poem["title"])
         aliases = list(dict.fromkeys([poem["title"], *poem.get("aliases", [])]))
         item = {
@@ -160,6 +168,7 @@ def build():
             "author": poem["author"], "section": poem["section"], "theme": theme,
             "featured": bool(edit.get("featured") and dedicated), "dedicatedArt": dedicated,
             "image": optimized(image, 940, "page"), "thumbnail": optimized(image, 240, "thumb"),
+            "thumbnailFrame": {key: icon[key] for key in ("x", "y", "side", "aspect")},
             "searchText": " ".join([title, *aliases, poem["titleTraditional"], poem["author"], poem["authorTraditional"],
                                     poem["section"], theme, *poem.get("tags", []), poem["text"], poem["textTraditional"]])
         }

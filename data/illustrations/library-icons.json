@@ -1,0 +1,2566 @@
+{
+  "schemaVersion": 1,
+  "method": "Per-poem square viewports into existing paintings; coordinates normalized by source width. Original image pixels remain unchanged.",
+  "poems": {
+    "tang-224-lu-chai": {
+      "source": "assets/poem-art-refresh/tang-224-lu-chai-v2.png",
+      "sourceSHA256": "efe4ff8d3b1ca5e567349f91a8dc10a9eb260feeddd543c2f46b540874578047",
+      "x": 0.015,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-225-zhu-li-guan": {
+      "source": "assets/featured/zhu-li-guan.png",
+      "sourceSHA256": "2716bd1d6c1a273f0a033f96f09da640a9e65049c2fcacdc939ceecd3a9924a1",
+      "x": 0.035,
+      "y": 0.025,
+      "side": 0.64,
+      "aspect": 1.75
+    },
+    "tang-226-song-bie": {
+      "source": "assets/poem-art/tang-226-song-bie.png",
+      "sourceSHA256": "9800ee5fa97dd7e466f464a98d3305d010cbf9b7d964ca012c6c35dddb830b25",
+      "x": 0.025,
+      "y": 0.05,
+      "side": 0.64,
+      "aspect": 1.7768332
+    },
+    "tang-227-xiang-si": {
+      "source": "assets/featured/xiang-si.png",
+      "sourceSHA256": "e97d6861ead99c96b8d1c6f61c735bbcef10d07a4450c72a105ae1bc763ed5f0",
+      "x": 0.02,
+      "y": 0,
+      "side": 0.6,
+      "aspect": 1.75
+    },
+    "tang-228-za-shi": {
+      "source": "assets/poem-art/tang-228-za-shi.png",
+      "sourceSHA256": "78e8a1994fdd7b35ed86195d90df479c07283fbcd40764ebd6cefadb8f9ac851",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-229-song-cui-jiu": {
+      "source": "assets/poem-art/tang-229-song-cui-jiu.png",
+      "sourceSHA256": "8e6d3c34a01d46a57852a887d8c913d66e8a91e7eef7eed7e95412b3b146346f",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-230-zhong-nan-wang-yu-xue": {
+      "source": "assets/featured/zhong-nan-wang-yu-xue.png",
+      "sourceSHA256": "ab9751e8bdc71ca7f8fc1b73942250da7bd8b7b92b090114738faf29e17372bf",
+      "x": 0.2,
+      "y": 0,
+      "side": 0.64,
+      "aspect": 1.7510549
+    },
+    "tang-231-su-jian-de-jiang": {
+      "source": "assets/featured/su-jian-de-jiang.png",
+      "sourceSHA256": "b7f374d9fcbb4c1afddc2d4162ad804201ed4f0a15ccc7113c4e105e420be7f4",
+      "x": 0.02,
+      "y": 0,
+      "side": 0.64,
+      "aspect": 1.75
+    },
+    "tang-232-chun-xiao": {
+      "source": "assets/poem-art-refresh/tang-232-chun-xiao-v2.png",
+      "sourceSHA256": "373f2a1cdbcfa43a8f286bed42dfeab48660a1503e62d114fa3d0b529c7a7809",
+      "x": 0.18,
+      "y": 0.0,
+      "side": 0.64,
+      "aspect": 1.7768332
+    },
+    "tang-233-ye-si": {
+      "source": "assets/illustrations-portrait/jing-ye-si.png",
+      "sourceSHA256": "ae3b8922f153995e47914d2c15159d1677f462d1363b3bcaa4515c9ba7bb3c83",
+      "x": 0.3,
+      "y": 0.05,
+      "side": 0.7,
+      "aspect": 1.7768332
+    },
+    "tang-234-yuan-qing": {
+      "source": "assets/poem-art/tang-234-yuan-qing.png",
+      "sourceSHA256": "4bcbeeb03bc0b9a0c4205cb8216cd9f21dfd2c8110be5380d73684930ce4bfde",
+      "x": 0.04,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-235-ba-zhen-tu": {
+      "source": "assets/poem-art/tang-235-ba-zhen-tu.png",
+      "sourceSHA256": "5b69b702cdfd6dfe88ff65b73d75d9d9dea0f1b59c3ce3c007f0b3e185c088b9",
+      "x": 0.44,
+      "y": 0.05,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-236-deng-guan-que-lou": {
+      "source": "assets/featured/deng-guan-que-lou.png",
+      "sourceSHA256": "c86d683027853dbb275f5ee23715bc01ad22fb01b7e40b119b0e355f20dda419",
+      "x": 0.0,
+      "y": 0.025,
+      "side": 0.56,
+      "aspect": 1.75
+    },
+    "tang-237-song-ling-che": {
+      "source": "assets/featured/song-ling-che.png",
+      "sourceSHA256": "9e8f509c6988a12cdd5faa8d79872c587d38f309ad9724303808681f586f58d0",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-238-tan-qin": {
+      "source": "assets/poem-art/tang-238-tan-qin.png",
+      "sourceSHA256": "2a682128b5396c2d0ca1a73019a72cf58b6c8c783588f87fa4ccd1d9beb8b0e3",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-239-song-shang-ren": {
+      "source": "assets/poem-art/tang-239-song-shang-ren.png",
+      "sourceSHA256": "3770801824cbdeca26ba664d8e582db20c4b4c323cdb63118d440454a96ec6f9",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-240-qiu-ye-ji-qiu-yuan-wai": {
+      "source": "assets/poem-art/tang-240-qiu-ye-ji-qiu-yuan-wai.png",
+      "sourceSHA256": "2feab832216a4dc9e00f4d03a5015e504ebc63f008167fafd44a11624cfc8046",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-241-ting-zheng": {
+      "source": "assets/poem-art/tang-241-ting-zheng.png",
+      "sourceSHA256": "a795f5d326408a19bc2951fa34b72eaf19ceb38a3f23f33040b11ebe654854bb",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-242-xin-jia-niang": {
+      "source": "assets/poem-art/tang-242-xin-jia-niang.png",
+      "sourceSHA256": "6f85c8eb8ba37098ee73f5d41cf1d083f6b9aaab3ba88c6eeb99ab337f21a437",
+      "x": 0.28,
+      "y": 0,
+      "side": 0.72,
+      "aspect": 1.7768332
+    },
+    "tang-243-yu-tai-ti": {
+      "source": "assets/poem-art/tang-243-yu-tai-ti.png",
+      "sourceSHA256": "c8aa2e9c7a77c1a2b0488521ea6c5e69dd81296aacb0917f7695f8f895f75506",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7787234
+    },
+    "tang-244-jiang-xue": {
+      "source": "assets/poem-art-refresh/tang-244-jiang-xue-v2.png",
+      "sourceSHA256": "62a109f66e577bf9a78e2f2d9c69fecbf0643751b58914ffbd29abe86827ded7",
+      "x": 0.18,
+      "y": 0.08,
+      "side": 0.5,
+      "aspect": 1.7768332
+    },
+    "tang-245-xing-gong": {
+      "source": "assets/poem-art/tang-245-xing-gong.png",
+      "sourceSHA256": "d40f0997f82edee470534009d8be5d90b3e1676584377260509a0342bb79a12f",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-246-wen-liu-shi-jiu": {
+      "source": "assets/featured/wen-liu-shi-jiu.png",
+      "sourceSHA256": "fa4e2ba3e6e4941dba135335ba9c9d17c45919c376a40d5130a75180b89ca4c1",
+      "x": 0.0,
+      "y": 0.025,
+      "side": 0.56,
+      "aspect": 1.75
+    },
+    "tang-247-he-man-zi": {
+      "source": "assets/poem-art/tang-247-he-man-zi.png",
+      "sourceSHA256": "98e482f821d8812fb3a03986e71cc6e1d74aa77529df4b94fab77048bb2e3858",
+      "x": 0.36,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-248-deng-le-you-yuan": {
+      "source": "assets/poem-art/tang-248-deng-le-you-yuan.png",
+      "sourceSHA256": "16a29a31c3db505b3f8fb1edf29869eea21a0edb71fc2ab2f0cc26083b9a7ff5",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-249-xun-yin-zhe-bu-yu": {
+      "source": "assets/featured/xun-yin-zhe-bu-yu.png",
+      "sourceSHA256": "209a7117202762159576dc7dafb82ade629f62ed8e8611e341c470f57133bee2",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.75
+    },
+    "tang-250-du-han-jiang": {
+      "source": "assets/poem-art/tang-250-du-han-jiang.png",
+      "sourceSHA256": "24782034ac372a23a344ec58d6007afe40ab5f84dc394cbfea5f0717762b3d74",
+      "x": 0.0,
+      "y": 0.05,
+      "side": 0.56,
+      "aspect": 1.7787234
+    },
+    "tang-251-chun-yuan": {
+      "source": "assets/poem-art/tang-251-chun-yuan.png",
+      "sourceSHA256": "92a882ed9ff898e03a7b03edec20cb4d7e67e14cb8b1c4ba6fd6490977acfd09",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-252-ge-shu-ge": {
+      "source": "assets/poem-art/tang-252-ge-shu-ge.png",
+      "sourceSHA256": "5a8c72d91459d7e7f6eb100aef3f93bc3123cc89f964ac01646671bd078b5692",
+      "x": 0.24,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-261-hui-xiang-ou-shu": {
+      "source": "assets/poem-art/tang-261-hui-xiang-ou-shu.png",
+      "sourceSHA256": "6e5fe044e9ffdf5f6d5364f75fc0e895c4d628f39fd8b121f9314eff85dd1318",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-262-tao-hua-xi": {
+      "source": "assets/poem-art/tang-262-tao-hua-xi.png",
+      "sourceSHA256": "d5e850613790aeb27d8eb1eab449c8ba2c810882448ed50b0c948040ff1dd5f8",
+      "x": 0.0,
+      "y": 0.025,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-263-jiu-yue-jiu-ri-yi-shan-dong-xiong-di": {
+      "source": "assets/poem-art/tang-263-jiu-yue-jiu-ri-yi-shan-dong-xiong-di.png",
+      "sourceSHA256": "b696d617c761236a404f4ffddadf542f546d95e8844c3124f15d4b0fe2c6f30f",
+      "x": 0.0,
+      "y": 0.05,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-264-fu-rong-lou-song-xin-jian": {
+      "source": "assets/poem-art/tang-264-fu-rong-lou-song-xin-jian.png",
+      "sourceSHA256": "d3ee13cfd24228ee0b1c5a49f1b461d218e2c80f778d613658eaa5f8eef092ed",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-265-gui-yuan": {
+      "source": "assets/poem-art/tang-265-gui-yuan.png",
+      "sourceSHA256": "35cf401957c5872e2504546306994a26e86f43f80113a588c9f84ff280943654",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-266-chun-gong-qu": {
+      "source": "assets/poem-art/tang-266-chun-gong-qu.png",
+      "sourceSHA256": "6719f3f56875757a9f05cc2c9fa3e772bb1f1b4cd806499fee5343ad219eed05",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-267-liang-zhou-ci": {
+      "source": "assets/poem-art/tang-267-liang-zhou-ci.png",
+      "sourceSHA256": "e29d1ca300589854e7fc912407833b9a5971a101d24dc280f0d66c742e8c8e0f",
+      "x": 0.06,
+      "y": 0,
+      "side": 0.64,
+      "aspect": 1.7768332
+    },
+    "tang-268-song-meng-hao-ran-zhi-guang-ling": {
+      "source": "assets/poem-art/tang-268-song-meng-hao-ran-zhi-guang-ling.png",
+      "sourceSHA256": "388a720c590356bf94fcdd48f460910a3849a98fb9de56220db5590cdd5dd56b",
+      "x": 0.0,
+      "y": 0.05,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-269-xia-jiang-ling": {
+      "source": "assets/poem-art/tang-269-xia-jiang-ling.png",
+      "sourceSHA256": "3bb5b6c61017a4ee45f643d35c2aca5c3c24ea6ca50bd1f0df8335af2834ff7d",
+      "x": 0.0,
+      "y": 0.025,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-270-feng-ru-jing-shi": {
+      "source": "assets/poem-art/tang-270-feng-ru-jing-shi.png",
+      "sourceSHA256": "02c8718727e6b05283459b76fa1a2e052e25a5971430a69a182092224793e4e2",
+      "x": 0.0,
+      "y": 0.05,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-271-jiang-nan-feng-li-gui-nian": {
+      "source": "assets/poem-art/tang-271-jiang-nan-feng-li-gui-nian.png",
+      "sourceSHA256": "6383e44a55c17b98b33aeb88c41f5b4410091e3d7c17227391aa57e1b67eacb7",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-272-chu-zhou-xi-jian": {
+      "source": "assets/poem-art/tang-272-chu-zhou-xi-jian.png",
+      "sourceSHA256": "883a1acb452d12c3be0d2991f6b8960a8cab43e5834cc5b2af23f20b91c50596",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-273-feng-qiao-ye-po": {
+      "source": "assets/poem-art/tang-273-feng-qiao-ye-po.png",
+      "sourceSHA256": "6a3cec5fc97b0ad7a9db700bd1c7161a2343ca29bc8984dc2b0407973c55779e",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-274-han-shi": {
+      "source": "assets/poem-art/tang-274-han-shi.png",
+      "sourceSHA256": "b9ac20cd1629c5969a924e9ecc605bde24a152334989dab337f91288a065fe14",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-275-yue-ye": {
+      "source": "assets/poem-art/tang-275-yue-ye.png",
+      "sourceSHA256": "4883b4e9bcf505029dd47fcb71bb3ded580651664fb7afb57acac793fd241b19",
+      "x": 0.24,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-276-chun-yuan": {
+      "source": "assets/poem-art/tang-276-chun-yuan.png",
+      "sourceSHA256": "090099f99e07df357defb52627e8947e9c7f86fe0a02641148b4a4893c7fcc9c",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-277-zheng-ren-yuan": {
+      "source": "assets/poem-art/tang-277-zheng-ren-yuan.png",
+      "sourceSHA256": "d66c5f34762d7e3e7ed46282f9773ad70ca0c9d3d8ee8393f60add2c5c3f5335",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-278-gong-ci": {
+      "source": "assets/poem-art-additions/tang-278-gong-ci-v1.png",
+      "sourceSHA256": "7e34038453604f6a08913e8c3f511cbbb56f3ebeff669982ed8aa3778b6de607",
+      "x": 0.36,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-279-ye-shang-shou-xiang-cheng-wen-di": {
+      "source": "assets/poem-art/tang-279-ye-shang-shou-xiang-cheng-wen-di.png",
+      "sourceSHA256": "df55d620c27826ba7a5b08ee6f6560fec60d05b0a88ff36cdd25fe6f14bea681",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-280-wu-yi-xiang": {
+      "source": "assets/poem-art/tang-280-wu-yi-xiang.png",
+      "sourceSHA256": "f8f52c390c0b154d5b6d7ab3b5bc88fa17e3433e89f1d7685c7a71026b5a62bf",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-281-chun-ci": {
+      "source": "assets/poem-art/tang-281-chun-ci.png",
+      "sourceSHA256": "65b17dc3dd19f0d36d220f4aa3a579b3c730e7dbb909203fd0baa77f7f568832",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-282-hou-gong-ci": {
+      "source": "assets/poem-art/tang-282-hou-gong-ci.png",
+      "sourceSHA256": "264a432c18327a9a4ab6f3fead4bdcd53a6cc5aaf08ed3de59c2f37fc2649a90",
+      "x": 0.28,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-283-zeng-nei-ren": {
+      "source": "assets/poem-art/tang-283-zeng-nei-ren.png",
+      "sourceSHA256": "266d38be470f266dfbf99bc9a064ada7414ffaf5f6d6c4ac5d029aa3e3e514e6",
+      "x": 0.2,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-284-ji-ling-tai-zhi-yi": {
+      "source": "assets/poem-art/tang-284-ji-ling-tai-zhi-yi.png",
+      "sourceSHA256": "b24c060c004316a3e54039a4d83c2b8eb09f6acab6d1fc4bdf8867f7ec73a405",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-285-ji-ling-tai-zhi-er": {
+      "source": "assets/poem-art/tang-285-ji-ling-tai-zhi-er.png",
+      "sourceSHA256": "4ca62cbb226b1d71af597b937172d5b802df62f16ded19ff06326f8c29b1bff4",
+      "x": 0.19,
+      "y": 0,
+      "side": 0.64,
+      "aspect": 1.7768332
+    },
+    "tang-286-ti-jin-ling-du": {
+      "source": "assets/poem-art/tang-286-ti-jin-ling-du.png",
+      "sourceSHA256": "555bb35cabd67ca20216fa38fc27cbabffbd0fd1b29ff99aa832d440f7a28186",
+      "x": 0.24,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-287-gong-ci": {
+      "source": "assets/poem-art/tang-287-gong-ci.png",
+      "sourceSHA256": "fba035e555da56be357b24988d0eff46c15effcd9d1263aff0fb0295a4eb59c5",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-288-jin-shi-shang-zhang-shui-bu": {
+      "source": "assets/poem-art/tang-288-jin-shi-shang-zhang-shui-bu.png",
+      "sourceSHA256": "cfc938cde74fa61022b2d89322f20a66b1eed9321ecfd07edfd4182045634f26",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-289-jiang-fu-wu-xing-deng-le-you-yuan": {
+      "source": "assets/poem-art/tang-289-jiang-fu-wu-xing-deng-le-you-yuan.png",
+      "sourceSHA256": "2af5d5850e83669a981a7cc71d7b837b443a6138dad9451b083727452285e5ae",
+      "x": 0.0,
+      "y": 0.025,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-290-chi-bi": {
+      "source": "assets/poem-art/tang-290-chi-bi.png",
+      "sourceSHA256": "c11f2ed192bf2ee6a828956861307e574210922975b7ecc8797797152ed10ccf",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7787234
+    },
+    "tang-291-po-qin-huai": {
+      "source": "assets/poem-art/tang-291-po-qin-huai.png",
+      "sourceSHA256": "4effa344a1a0ce910c659bec719fc1c2c1ba367a496c544830e5506a341593f3",
+      "x": 0.4,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-292-ji-yang-zhou-han-chuo-pan-guan": {
+      "source": "assets/poem-art/tang-292-ji-yang-zhou-han-chuo-pan-guan.png",
+      "sourceSHA256": "1edbf98cfa1181e8166ef26c530240d2401db8ed1e057579ae8810bed63ee1d6",
+      "x": 0.32,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-293-qian-huai": {
+      "source": "assets/poem-art/tang-293-qian-huai.png",
+      "sourceSHA256": "59166665e7bd7912551362623c79c3d188bab498144ed104ee23e44b15359d75",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-294-qiu-xi": {
+      "source": "assets/poem-art/tang-294-qiu-xi.png",
+      "sourceSHA256": "977015dfed5acffcd9d9c975f7938fe724aa1d38f46e76b66d7bd84410e56ccd",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-295-zeng-bie-zhi-yi": {
+      "source": "assets/poem-art/tang-295-zeng-bie-zhi-yi.png",
+      "sourceSHA256": "231791faf1e23c2d616392aed5e87dd7b1ed86814756a0b57e75b6ca6bdb9b4e",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-296-zeng-bie-zhi-er": {
+      "source": "assets/poem-art/tang-296-zeng-bie-zhi-er.png",
+      "sourceSHA256": "ab68b82dabd383034e342a93a4e1a59226d09cdb7e292601499df43911d6f264",
+      "x": 0.04,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-297-jin-gu-yuan": {
+      "source": "assets/poem-art/tang-297-jin-gu-yuan.png",
+      "sourceSHA256": "acfe9cff37183c7b8e85b240ea1f4aba01cf0629cd841aaa977b4fdbfbc16851",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-298-ye-yu-ji-bei": {
+      "source": "assets/poem-art/tang-298-ye-yu-ji-bei.png",
+      "sourceSHA256": "0370e461027bb3d664e9ae75f7f3bfdedfaa6e180ecce16acac511b387d9a37a",
+      "x": 0.24,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-299-ji-ling-hu-lang-zhong": {
+      "source": "assets/poem-art/tang-299-ji-ling-hu-lang-zhong.png",
+      "sourceSHA256": "f1a3fb47d962c843ef556d85084bc36caceef25ac69ad355937a18773168f2fd",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-300-wei-you": {
+      "source": "assets/poem-art/tang-300-wei-you.png",
+      "sourceSHA256": "7199253a6ac32893058e404090a5d1aa189d54fd4ea8be69658ec05ed41ad11e",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-301-sui-gong": {
+      "source": "assets/poem-art/tang-301-sui-gong.png",
+      "sourceSHA256": "f3a667b48dbef519476d5b0a313887380fe2f8ac6eae0348bc0b2e42afc9911f",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-302-yao-chi": {
+      "source": "assets/poem-art/tang-302-yao-chi.png",
+      "sourceSHA256": "c8f20792d0eb333ebb8f774c95a3fb7cf7ee08ad5549133ecf85bd83ca171ee4",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-303-chang-e": {
+      "source": "assets/poem-art/tang-303-chang-e.png",
+      "sourceSHA256": "cdad0c1e5d8a0031afcedda1ab77c9546cfbf0f053030474ccfef4fbc15c1e94",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-304-jia-sheng": {
+      "source": "assets/poem-art/tang-304-jia-sheng.png",
+      "sourceSHA256": "52b58786d81de0af26b9fdbd8ed38a78f27f34feb3e1f5e95ce3e2957f749a45",
+      "x": 0.4,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-305-yao-se-yuan": {
+      "source": "assets/poem-art/tang-305-yao-se-yuan.png",
+      "sourceSHA256": "1fbd005e255f30b04ea0beb84f85b7b5e8992529433b6491648cf49359f0912d",
+      "x": 0.2,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-306-ma-wei-po": {
+      "source": "assets/poem-art/tang-306-ma-wei-po.png",
+      "sourceSHA256": "4d0502feb151f0377efbb6b7e49df1c89f9b7892ff9b9c40a17a82b4885f1317",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-307-yi-liang": {
+      "source": "assets/poem-art/tang-307-yi-liang.png",
+      "sourceSHA256": "2b456eb93b87575ad1c63dcf0b95e61b92c362ea3ed30e259f9ff33a387234b0",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-308-jin-ling-tu": {
+      "source": "assets/poem-art/tang-308-jin-ling-tu.png",
+      "sourceSHA256": "1b607a19ffd2cc48fbb65ad0f32c4f25a6b98fd3c3f9f428b56d7932c7eebe6b",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-309-long-xi-xing": {
+      "source": "assets/poem-art/tang-309-long-xi-xing.png",
+      "sourceSHA256": "600b23ad49f64419348094aae44b28421eef84d9e64f7a22f445648e6c932ac2",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-310-ji-ren": {
+      "source": "assets/poem-art/tang-310-ji-ren.png",
+      "sourceSHA256": "988c08a40736218759bb6f010cc436e98e5c1375d73f991ce3810fa509ed4de8",
+      "x": 0.16,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-311-za-shi": {
+      "source": "assets/poem-art/tang-311-za-shi.png",
+      "sourceSHA256": "6d072fee7ec4c7dc4cb65ec35b38aa836d67b12d78add946827a3615a5809aea",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-090-jing-zou-lu-ji-kong-zi-er-tan-zhi": {
+      "source": "assets/poem-art/tang-090-jing-zou-lu-ji-kong-zi-er-tan-zhi.png",
+      "sourceSHA256": "ad058fb64c4c3cdfb79763642a5c3b02ae1e4d26f12fe0ee1d88484c23757871",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-091-wang-yue-huai-yuan": {
+      "source": "assets/featured/wang-yue-huai-yuan.png",
+      "sourceSHA256": "b4e993f20ba6b236af54c96c60bf74e1f575ab41f517d9c29e1570eecb9134dc",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.75
+    },
+    "tang-092-song-du-shao-fu-zhi-ren-shu-zhou": {
+      "source": "assets/poem-art/tang-092-song-du-shao-fu-zhi-ren-shu-zhou.png",
+      "sourceSHA256": "54a64d6843dd9aa404328b68c16b31dbf80515e8ba5e4f443a07d7707ff58faf",
+      "x": 0.0,
+      "y": 0.025,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-093-zai-yu-yong-chan-bing-xu": {
+      "source": "assets/poem-art/tang-093-zai-yu-yong-chan-bing-xu.png",
+      "sourceSHA256": "ced6c53013cc4a0ffe90c03b1fb6ef496667c9d006bd3c21ca4ab7be1465c9fc",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-094-he-jin-ling-lu-cheng-zao-chun-you-wang": {
+      "source": "assets/poem-art/tang-094-he-jin-ling-lu-cheng-zao-chun-you-wang.png",
+      "sourceSHA256": "3fdede6fcbbb938295acaab9ea53d182027be66e6337933500e116700650a73b",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-095-za-shi": {
+      "source": "assets/poem-art/tang-095-za-shi.png",
+      "sourceSHA256": "eefdcbaa37baa7535c69ad586aba016fb77faecba5b74410714bc0b9d4f395f3",
+      "x": 0.08,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-096-ti-da-yu-ling-bei-yi": {
+      "source": "assets/poem-art/tang-096-ti-da-yu-ling-bei-yi.png",
+      "sourceSHA256": "57e02c0f52a533cb26db46615f9ae0d0c65cd04321c2fd0c1fe144e220d1ba5e",
+      "x": 0.0,
+      "y": 0.05,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-097-ci-bei-gu-shan-xia": {
+      "source": "assets/poem-art/tang-097-ci-bei-gu-shan-xia.png",
+      "sourceSHA256": "401fbdc14ab313c2fd6885b187b010c6d5e48ae4015d09296438b87ef12ae8cb",
+      "x": 0.0,
+      "y": 0.05,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-098-ti-po-shan-si-hou-chan-yuan": {
+      "source": "assets/poem-art/tang-098-ti-po-shan-si-hou-chan-yuan.png",
+      "sourceSHA256": "af258536c3b2f08fc317f299b2019c2ba85e2637599a2b617e6ed34743f9819b",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-099-ji-zuo-sheng-du-shi-yi": {
+      "source": "assets/poem-art/tang-099-ji-zuo-sheng-du-shi-yi.png",
+      "sourceSHA256": "bc7726d1cd32ad535a3477f7ad8c5363cffa9111a9b2ee9739732c70092bd173",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-100-zeng-meng-hao-ran": {
+      "source": "assets/poem-art/tang-100-zeng-meng-hao-ran.png",
+      "sourceSHA256": "69a6239483e50a83ecd8891898559bf86c096b16592660f3cb56f1c25afb8aa5",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-101-du-jing-men-song-bie": {
+      "source": "assets/poem-art/tang-101-du-jing-men-song-bie.png",
+      "sourceSHA256": "563817f6e35c0977afac3b4a5acd2f4851bba65939365995b0c11fc78e46c4f7",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-102-song-you-ren": {
+      "source": "assets/poem-art/tang-102-song-you-ren.png",
+      "sourceSHA256": "08faef7fca895345cfa03f7b1be94b46e91d087c326e1686ff0ce534e2af8a15",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.64,
+      "aspect": 1.7768332
+    },
+    "tang-103-ting-shu-seng-jun-tan-qin": {
+      "source": "assets/poem-art/tang-103-ting-shu-seng-jun-tan-qin.png",
+      "sourceSHA256": "b21084f356041b597e207b7f41153a34429a94fa3700e2dde54c8f0f4027a6d0",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-104-ye-po-niu-zhu-huai-gu": {
+      "source": "assets/poem-art/tang-104-ye-po-niu-zhu-huai-gu.png",
+      "sourceSHA256": "c837aaad98b39baa97e389524b3f0f778f47357e782595155f655e3594269bbf",
+      "x": 0.12,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-105-yue-ye": {
+      "source": "assets/poem-art/tang-105-yue-ye.png",
+      "sourceSHA256": "8e29c55805048bc29c381ca677a071dad3186fdfdd6cbbcc9406e78bc19cd8a1",
+      "x": 0.16,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-106-chun-wang": {
+      "source": "assets/poem-art/tang-106-chun-wang.png",
+      "sourceSHA256": "3a13c7bc66e8a12ae23da2b45be19d30a694001cb71f32cc37f155f64cf1f3a4",
+      "x": 0.0,
+      "y": 0.05,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-107-chun-su-zuo-sheng": {
+      "source": "assets/poem-art/tang-107-chun-su-zuo-sheng.png",
+      "sourceSHA256": "1f9bee8dcb00ab1b597d3518537e55d84e3fc3a7a4d8248c9e9b9a5b96d8ee18",
+      "x": 0.28,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-108-zhi-de-er-zai-fu-zi-jing-jin-guang-men-chu-wen-dao-gui-feng-xiang-qian-yuan-chu-": {
+      "source": "assets/poem-art/tang-108-zhi-de-er-zai-fu-zi-jing-jin-guang-men-chu-wen-dao-gui-feng-xiang-qian-yuan-chu-.png",
+      "sourceSHA256": "51d15042a78b8e13a2cc8be70084a18c6bdd2a7f2f7377579e52ef15befa58ed",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-109-yue-ye-yi-she-di": {
+      "source": "assets/poem-art/tang-109-yue-ye-yi-she-di.png",
+      "sourceSHA256": "def2ff2b99a0aa3dc19628e16a9975f2548f8a7c95f083bdc99968ca5b168e72",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.64,
+      "aspect": 1.7768332
+    },
+    "tang-110-tian-mo-huai-li-bai": {
+      "source": "assets/poem-art/tang-110-tian-mo-huai-li-bai.png",
+      "sourceSHA256": "9fac48ff30bc0a7845eed1ad32fa2db6c544ee83153a9c6c85f7cfe69165cf90",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-111-feng-ji-yi-zhong-song-yan-gong-si-yun": {
+      "source": "assets/poem-art/tang-111-feng-ji-yi-zhong-song-yan-gong-si-yun.png",
+      "sourceSHA256": "d1be595ebee3363a9ab570111c09412f4baabcc58e5784f8d0ad0ce1275a69b3",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-112-bie-fang-tai-wei-mu": {
+      "source": "assets/poem-art/tang-112-bie-fang-tai-wei-mu.png",
+      "sourceSHA256": "0f6729992afa89916556e1b330dc7d3ea19a7bb54661b516561614e70e565a3e",
+      "x": 0.36,
+      "y": 0.025,
+      "side": 0.64,
+      "aspect": 1.7787234
+    },
+    "tang-113-lv-ye-shu-huai": {
+      "source": "assets/poem-art/tang-113-lv-ye-shu-huai.png",
+      "sourceSHA256": "00f208659e776960d4fed3dcf35a6a450c20bbe47b2e7978998e089f41545c9f",
+      "x": 0.08,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-114-deng-yue-yang-lou": {
+      "source": "assets/poem-art/tang-114-deng-yue-yang-lou.png",
+      "sourceSHA256": "0506ea02cecef191f04b6f5ed7a73ba76638429a2eaba91944e12af540bda313",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-115-wang-chuan-xian-ju-zeng-pei-xiu-cai-di": {
+      "source": "assets/poem-art/tang-115-wang-chuan-xian-ju-zeng-pei-xiu-cai-di.png",
+      "sourceSHA256": "596bf697da35247ae9dc166e287515d8fa6b8e5c7ae5bf4c5449cc39ec822ca6",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-116-shan-ju-qiu-ming": {
+      "source": "assets/featured/shan-ju-qiu-ming.png",
+      "sourceSHA256": "085218a4c605bc252bd1d48f55b4ca45d07c375db82cbbea7aca3cd90c222abe",
+      "x": 0.12,
+      "y": 0,
+      "side": 0.64,
+      "aspect": 1.75
+    },
+    "tang-117-gui-song-shan-zuo": {
+      "source": "assets/poem-art/tang-117-gui-song-shan-zuo.png",
+      "sourceSHA256": "b30b0b4ed3d9e04eece9060ad2933d3948d22ea6ed6112df6f15775a385f6266",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-118-zhong-nan-shan": {
+      "source": "assets/poem-art/tang-118-zhong-nan-shan.png",
+      "sourceSHA256": "7b7df2573508438337b4a56609737b0c619bb0d4a3f441ad450aa7a0518498d2",
+      "x": 0.0,
+      "y": 0.05,
+      "side": 0.64,
+      "aspect": 1.7768332
+    },
+    "tang-119-chou-zhang-shao-fu": {
+      "source": "assets/poem-art/tang-119-chou-zhang-shao-fu.png",
+      "sourceSHA256": "6d9b35a98dc3839f6de4fc1caa244b2ba8b8e0bc821b369f9e8cf9a0dcc8c679",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-120-guo-xiang-ji-si": {
+      "source": "assets/poem-art/tang-120-guo-xiang-ji-si.png",
+      "sourceSHA256": "40ce5101fdba696912646da3737b87850fdc9eb02ea35e31d3eeb8e9c445fbda",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-121-song-zi-zhou-li-shi-jun": {
+      "source": "assets/poem-art/tang-121-song-zi-zhou-li-shi-jun.png",
+      "sourceSHA256": "5e9758e9c4c8319cffc89106d4d840784894398a5dd7db58205a7a4a758fa982",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-122-han-jiang-lin-tiao": {
+      "source": "assets/poem-art/tang-122-han-jiang-lin-tiao.png",
+      "sourceSHA256": "bcc6b27fc55d2d977feb7b8c0cbdf21007d4b2e3bf11ed9a3eb9e4423047b6d6",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-123-zhong-nan-bie-ye": {
+      "source": "assets/poem-art/tang-123-zhong-nan-bie-ye.png",
+      "sourceSHA256": "552be283441904c7c3020867fec4bba9a6035a599abe50c1c683b71677e2cbdd",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-124-wang-dong-ting-hu-zeng-zhang-cheng-xiang": {
+      "source": "assets/poem-art/tang-124-wang-dong-ting-hu-zeng-zhang-cheng-xiang.png",
+      "sourceSHA256": "c3ee088a87121981d6e963b82ebb69004dc10a51cf8e023d1f56a9e9fa8692b7",
+      "x": 0.44,
+      "y": 0.05,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-125-yu-zhu-zi-deng-xian-shan": {
+      "source": "assets/poem-art/tang-125-yu-zhu-zi-deng-xian-shan.png",
+      "sourceSHA256": "2ee6c48fa1069d2c6da283d28ae7360902cc84d96b1f6d644c2a62d085ddbdc2",
+      "x": 0.0,
+      "y": 0.05,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-126-qing-ming-ri-yan-mei-dao-shi-fang": {
+      "source": "assets/poem-art/tang-126-qing-ming-ri-yan-mei-dao-shi-fang.png",
+      "sourceSHA256": "0769dd8a94a60f780e26d415054108d675d38074f11bba0d8aa4037dead9e618",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-127-sui-mu-gui-nan-shan": {
+      "source": "assets/poem-art/tang-127-sui-mu-gui-nan-shan.png",
+      "sourceSHA256": "bac8c98b1ccada2af8ff74c26c20757c5bcb857b5b2cac91cec8996b2a2f82e0",
+      "x": 0.36,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-128-guo-gu-ren-zhuang": {
+      "source": "assets/poem-art/tang-128-guo-gu-ren-zhuang.png",
+      "sourceSHA256": "b7435c4feb343d2c5b5bdeeac37e66ba727184e9b4c38b02e88c5484df421af8",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-129-qin-zhong-gan-qiu-ji-yuan-shang-ren": {
+      "source": "assets/poem-art/tang-129-qin-zhong-gan-qiu-ji-yuan-shang-ren.png",
+      "sourceSHA256": "b2d17356f7cd6735b979aef70e76776eb4748c6b70bf2932b495949801c0dedf",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.64,
+      "aspect": 1.7768332
+    },
+    "tang-130-su-tong-lu-jiang-ji-guang-ling-jiu-you": {
+      "source": "assets/poem-art/tang-130-su-tong-lu-jiang-ji-guang-ling-jiu-you.png",
+      "sourceSHA256": "228868e412f9bbbae066479ec3a54e682471d68f265315cb29b17be2d355c626",
+      "x": 0.08,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-131-liu-bie-wang-shi-yu-wei": {
+      "source": "assets/poem-art/tang-131-liu-bie-wang-shi-yu-wei.png",
+      "sourceSHA256": "fc8b451baed93e4babd0498137e3a83e07dbd051ea9f1fe1d9231a00c9ab04a5",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-132-zao-han-jiang-shang-you-huai": {
+      "source": "assets/poem-art/tang-132-zao-han-jiang-shang-you-huai.png",
+      "sourceSHA256": "ea1c50145a7f7d08b26d62dc0cd72af81d69fb3c63de1d21332a9c5646977c82",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.64,
+      "aspect": 1.7768332
+    },
+    "tang-133-qiu-ri-deng-wu-gong-tai-shang-si-yuan-tiao": {
+      "source": "assets/poem-art/tang-133-qiu-ri-deng-wu-gong-tai-shang-si-yuan-tiao.png",
+      "sourceSHA256": "3fe9a2b3935b8f80afbc31b0ddde25413e2d806717f0b0bab875e974d366b059",
+      "x": 0.0,
+      "y": 0.025,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-134-song-li-zhong-cheng-gui-han-yang-bie-ye": {
+      "source": "assets/poem-art-additions/tang-134-song-li-zhong-cheng-gui-han-yang-bie-ye-v1.png",
+      "sourceSHA256": "c487e43def8b0c66978f1e1ef77dbed813c4f4df7e652abebffdb946b539f806",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-135-jian-bie-wang-shi-yi-nan-you": {
+      "source": "assets/poem-art/tang-135-jian-bie-wang-shi-yi-nan-you.png",
+      "sourceSHA256": "e7de9e3eb9242ea7f9c4d469171c50343005918db316babf572fe5df66fe589d",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-136-xun-nan-xi-chang-shan-dao-ren-yin-ju": {
+      "source": "assets/poem-art/tang-136-xun-nan-xi-chang-shan-dao-ren-yin-ju.png",
+      "sourceSHA256": "a036852a37319790003799be02859c662d7e053751a4584770acd8bc82c3b363",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-137-xin-nian-zuo": {
+      "source": "assets/poem-art/tang-137-xin-nian-zuo.png",
+      "sourceSHA256": "cb96f5903173eb8b7468bcc40d9750540db9a852704be8b584fa17576ebacf85",
+      "x": 0.0,
+      "y": 0.025,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-138-song-seng-gui-ri-ben": {
+      "source": "assets/poem-art/tang-138-song-seng-gui-ri-ben.png",
+      "sourceSHA256": "0501663fcc3f628e602042f81aaf33a6a551d3ac278c0be928f67857f292319b",
+      "x": 0.0,
+      "y": 0.05,
+      "side": 0.56,
+      "aspect": 1.7787234
+    },
+    "tang-139-gu-kou-shu-zhai-ji-yang-bu-que": {
+      "source": "assets/poem-art/tang-139-gu-kou-shu-zhai-ji-yang-bu-que.png",
+      "sourceSHA256": "34b7946cfd5b25861c6449fd625b46d910c555d57462fd3ff8e101eb39a7254d",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-140-huai-shang-xi-hui-liang-chuan-gu-ren": {
+      "source": "assets/poem-art/tang-140-huai-shang-xi-hui-liang-chuan-gu-ren.png",
+      "sourceSHA256": "adb4a38a75a1079577b21e6ed006ad8d6ea9d8b28a768a99126a603f45448840",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-141-fu-de-mu-yu-song-li-zhou": {
+      "source": "assets/poem-art/tang-141-fu-de-mu-yu-song-li-zhou.png",
+      "sourceSHA256": "b85acc0bc0832688402ef71bbb3a896202420f0f52e35f115938084a08ab8305",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-142-chou-cheng-yan-qiu-ye-ji-shi-jian-zeng": {
+      "source": "assets/poem-art/tang-142-chou-cheng-yan-qiu-ye-ji-shi-jian-zeng.png",
+      "sourceSHA256": "19674278827083d22d0004d21dd7dde5a874a1fc20bdf1d08617ab6262d0783f",
+      "x": 0.2,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-143-que-ti": {
+      "source": "assets/poem-art/tang-143-que-ti.png",
+      "sourceSHA256": "4b0f6281c2e9ae8884cc665dc2ea2677e558e46e273117b834f4041ff33e3499",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-144-jiang-xiang-gu-ren-ou-ji-ke-she": {
+      "source": "assets/poem-art/tang-144-jiang-xiang-gu-ren-ou-ji-ke-she.png",
+      "sourceSHA256": "9a6cd1db971283a7fdbded2d163df578061d4c74fd3276027ac1dac0e4980fcd",
+      "x": 0.24,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-145-li-duan-gong": {
+      "source": "assets/poem-art/tang-145-li-duan-gong.png",
+      "sourceSHA256": "952144c0cd758dc4c69007988398c41446e2ba0bc24bdd5e6986ee46eb4c07f0",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-146-xi-jian-wai-di-you-yan-bie": {
+      "source": "assets/poem-art/tang-146-xi-jian-wai-di-you-yan-bie.png",
+      "sourceSHA256": "d9e9013c275344656bbe005da1c16375c5944e4f4ca25aba4bc4d056f09eeba6",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-147-yun-yang-guan-yu-han-shen-su-bie": {
+      "source": "assets/poem-art/tang-147-yun-yang-guan-yu-han-shen-su-bie.png",
+      "sourceSHA256": "e824261ef252984fa2486604a5f2894169b7f828857b5fbff474598ac074b3b3",
+      "x": 0.04,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-148-xi-wai-di-lu-lun-jian-su": {
+      "source": "assets/poem-art/tang-148-xi-wai-di-lu-lun-jian-su.png",
+      "sourceSHA256": "9fc9b20d2989cf55b5bc307deeffcca3954dd96cbe886e937e0210ed25d313a1",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-149-zei-ping-hou-song-ren-bei-gui": {
+      "source": "assets/poem-art/tang-149-zei-ping-hou-song-ren-bei-gui.png",
+      "sourceSHA256": "81544b691ccc8c8a87112c248181c66a14411e7f95ec85c07ea75a3b984ff893",
+      "x": 0.14,
+      "y": 0,
+      "side": 0.64,
+      "aspect": 1.7768332
+    },
+    "tang-150-shu-xian-zhu-miao": {
+      "source": "assets/poem-art/tang-150-shu-xian-zhu-miao.png",
+      "sourceSHA256": "520d486c7c1b6215654c1952627129e6777cdf6f372964cc93138d275e538b7f",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-151-mei-fan-gu-ren": {
+      "source": "assets/poem-art/tang-151-mei-fan-gu-ren.png",
+      "sourceSHA256": "2313ff5e5da09e97d431d82c5a252c879f24a6b531425fe14f13842de14405a0",
+      "x": 0.44,
+      "y": 0.05,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-152-fu-de-gu-yuan-cao-song-bie": {
+      "source": "assets/poem-art/tang-152-fu-de-gu-yuan-cao-song-bie.png",
+      "sourceSHA256": "7c5b3324177f12f2eb7ac4bda3717a8b49293fc60fdcc9f91f7c60c4423634b7",
+      "x": 0.0,
+      "y": 0.05,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-153-lv-su": {
+      "source": "assets/poem-art/tang-153-lv-su.png",
+      "sourceSHA256": "a0167062c07fd438b259658b01419b62d365fee7cfb50f6ddaca713d8d4234ea",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-154-qiu-ri-fu-que-ti-tong-guan-yi-lou": {
+      "source": "assets/poem-art/tang-154-qiu-ri-fu-que-ti-tong-guan-yi-lou.png",
+      "sourceSHA256": "0dc1497100ad27f570d5ecb96fbccba5a0620cd8aacefc7772774a90059f8caf",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-155-zao-qiu": {
+      "source": "assets/poem-art/tang-155-zao-qiu.png",
+      "sourceSHA256": "fd7db2bd3617b194bb4eda45bd3e3828daf6ffe0672ca64bb914a0e24ea0b42f",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-156-chan": {
+      "source": "assets/poem-art/tang-156-chan.png",
+      "sourceSHA256": "9013270d09fe253fd59a3990e3080afbd1b80d1a84897e6de23fc72b7203cc7f",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-157-feng-yu": {
+      "source": "assets/poem-art/tang-157-feng-yu.png",
+      "sourceSHA256": "d19195428f4200e91da896ca07b0b48add69a1500f9bac3deed046290375a700",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-158-luo-hua": {
+      "source": "assets/poem-art/tang-158-luo-hua.png",
+      "sourceSHA256": "7026576d7f5ab0c17d7408f341c7fe488298cf4b50b97e0ed1c6170b54ee7322",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-159-liang-si": {
+      "source": "assets/poem-art/tang-159-liang-si.png",
+      "sourceSHA256": "666b8257531e9b8405be09ed121f8401d17ae4aef214a8dc40822813b4875247",
+      "x": 0.2,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-160-bei-qing-luo": {
+      "source": "assets/poem-art/tang-160-bei-qing-luo.png",
+      "sourceSHA256": "95f4bd70aab12ce19c60e61cc2aba7b9133c359efcaa8ea875fe70adfef9be85",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7787234
+    },
+    "tang-161-song-ren-dong-you": {
+      "source": "assets/poem-art/tang-161-song-ren-dong-you.png",
+      "sourceSHA256": "bbc877cfbc70075494730f0884fb776fcf7eadfc70db03f96a31efebb7168f51",
+      "x": 0.0,
+      "y": 0.025,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-162-ba-shang-qiu-ju": {
+      "source": "assets/poem-art/tang-162-ba-shang-qiu-ju.png",
+      "sourceSHA256": "4321f4c0d1b85da3d39e0fc4e47c7c5991fbfef70494b770095e1553f23dae77",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-163-chu-jiang-huai-gu": {
+      "source": "assets/poem-art/tang-163-chu-jiang-huai-gu.png",
+      "sourceSHA256": "074b3c9f341b2e97737754b525c613f2929725d83baf3092f79328ff9a07ed20",
+      "x": 0.08,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-164-shu-bian-shi": {
+      "source": "assets/poem-art/tang-164-shu-bian-shi.png",
+      "sourceSHA256": "88763fff4ba5eba6eb48d8f95daf2b535907f5969ab6436e32ede09f6933a360",
+      "x": 0.0,
+      "y": 0.05,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-165-ba-shan-dao-zhong-chu-ye-you-huai": {
+      "source": "assets/poem-art/tang-165-ba-shan-dao-zhong-chu-ye-you-huai.png",
+      "sourceSHA256": "6d1dd94ac8fabbfe5d7fff1488d3eccf2fb19fa69d543a62bb221d8764348550",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-166-gu-yan": {
+      "source": "assets/poem-art/tang-166-gu-yan.png",
+      "sourceSHA256": "8606b4ce596313fef71e40cbde247c69d1076d2e5a613fbf05daebd1f4c07170",
+      "x": 0.13091,
+      "y": 0,
+      "side": 0.64,
+      "aspect": 1.7768332
+    },
+    "tang-167-chun-gong-yuan": {
+      "source": "assets/poem-art/tang-167-chun-gong-yuan.png",
+      "sourceSHA256": "62221df9ade1200c302782a232c92bcbb29afee224ed95b0c2c300dcaa6ad8d3",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-168-zhang-tai-ye-si": {
+      "source": "assets/poem-art/tang-168-zhang-tai-ye-si.png",
+      "sourceSHA256": "e1af18c98fcf0428f8319e7bebb681f7813cc9475c3e3df21e84289f5a07f6c7",
+      "x": 0.02,
+      "y": 0,
+      "side": 0.64,
+      "aspect": 1.7768332
+    },
+    "tang-169-xun-lu-hong-jian-bu-yu": {
+      "source": "assets/poem-art/tang-169-xun-lu-hong-jian-bu-yu.png",
+      "sourceSHA256": "fb3c6e9cf58bf45b63bbd265b0eb8b4e39a87a4e255ed5dfc604a5a9948d5bfb",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-170-huang-he-lou": {
+      "source": "assets/poem-art/tang-170-huang-he-lou.png",
+      "sourceSHA256": "653975478861a2e75e000c0d65299fd1abba5f59720a9aacc2011cb6415ff5b3",
+      "x": 0.0,
+      "y": 0.05,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-171-xing-jing-hua-yin": {
+      "source": "assets/poem-art/tang-171-xing-jing-hua-yin.png",
+      "sourceSHA256": "b531f958a07fcd1049232016146d5c30ae1fae525dbd2e13d2edbcca4adda106",
+      "x": 0.0,
+      "y": 0.025,
+      "side": 0.64,
+      "aspect": 1.7768332
+    },
+    "tang-172-wang-ji-men": {
+      "source": "assets/poem-art/tang-172-wang-ji-men.png",
+      "sourceSHA256": "15d3060463865dba1a03acefacf06e6a94c1223986b79219a2b70c87b0297229",
+      "x": 0.0,
+      "y": 0.05,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-173-song-wei-wan-zhi-jing": {
+      "source": "assets/poem-art/tang-173-song-wei-wan-zhi-jing.png",
+      "sourceSHA256": "b932d08808f73372a93af838562f9e447e8176d80dd0daf92310cfaf0e96fe7a",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-174-jiu-ri-deng-wang-xian-tai-cheng-liu-ming-fu": {
+      "source": "assets/poem-art/tang-174-jiu-ri-deng-wang-xian-tai-cheng-liu-ming-fu.png",
+      "sourceSHA256": "4246f63252d8ca407347efaa6136ebbe5a58841282d1839138868a3a068b02fb",
+      "x": 0.0,
+      "y": 0.025,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-175-deng-jin-ling-feng-huang-tai": {
+      "source": "assets/poem-art/tang-175-deng-jin-ling-feng-huang-tai.png",
+      "sourceSHA256": "aba285b120ef9a2903c30791f581419c589e54057987ec46fe7e20418bd96eff",
+      "x": 0.0,
+      "y": 0.05,
+      "side": 0.64,
+      "aspect": 1.7768332
+    },
+    "tang-176-song-li-shao-fu-bian-xia-zhong-wang-shao-fu-bian-chang-sha": {
+      "source": "assets/poem-art/tang-176-song-li-shao-fu-bian-xia-zhong-wang-shao-fu-bian-chang-sha.png",
+      "sourceSHA256": "7925421aa8f294c24c45ea06b9ec34323c1703762dd81df07816386c57f9f65c",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-177-feng-he-zhong-shu-she-ren-jia-zhi-zao-chao-da-ming-gong": {
+      "source": "assets/poem-art/tang-177-feng-he-zhong-shu-she-ren-jia-zhi-zao-chao-da-ming-gong.png",
+      "sourceSHA256": "6c5d65328cec2189e71cfba11d90669cbcb64170fdb0ec4a1e2187a7e55ce9af",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-178-he-jia-she-ren-zao-chao-da-ming-gong-zhi-zuo": {
+      "source": "assets/poem-art/tang-178-he-jia-she-ren-zao-chao-da-ming-gong-zhi-zuo.png",
+      "sourceSHA256": "0aa9cfd0496ae7a1123a9173555c51f78db2a7af06200a1da26bf7723140e71e",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-179-feng-he-sheng-zhi-cong-peng-lai-xiang-xing-qing-ge-dao-zhong-liu-chun-yu-zhong-c": {
+      "source": "assets/poem-art/tang-179-feng-he-sheng-zhi-cong-peng-lai-xiang-xing-qing-ge-dao-zhong-liu-chun-yu-zhong-c.png",
+      "sourceSHA256": "a15ba0931b9321be4eb3859c50bcdc6315864db4346ae490eb898946219af62c",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-180-ji-yu-wang-chuan-zhuang-zuo": {
+      "source": "assets/poem-art/tang-180-ji-yu-wang-chuan-zhuang-zuo.png",
+      "sourceSHA256": "ef376d99931f8cb0256bb45df03004cccd73289a023832ece7400881733fe480",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-181-chou-guo-gei-shi": {
+      "source": "assets/poem-art/tang-181-chou-guo-gei-shi.png",
+      "sourceSHA256": "daa5d7f40707dc1f0ed41c2c8bf4651acfd1af996a4ffcd578039884fdd37bae",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-182-shu-xiang": {
+      "source": "assets/poem-art/tang-182-shu-xiang.png",
+      "sourceSHA256": "2ebf90fdb566294969ef1f764b3d0e487a32938f9cc7d360d49ca689639c986a",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7787234
+    },
+    "tang-183-ke-zhi": {
+      "source": "assets/poem-art/tang-183-ke-zhi.png",
+      "sourceSHA256": "b54ed28ea5a09cda0eae8122b51651bf6327c172c95ce85dbea304b4656b2fd0",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7787234
+    },
+    "tang-184-ye-wang": {
+      "source": "assets/poem-art/tang-184-ye-wang.png",
+      "sourceSHA256": "35b6d949fcef20e22fad99249a9f9e8d93018631a27a7bb8579cb7e224b058c9",
+      "x": 0.0,
+      "y": 0.025,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-185-wen-guan-jun-shou-he-nan-he-bei": {
+      "source": "assets/poem-art/tang-185-wen-guan-jun-shou-he-nan-he-bei.png",
+      "sourceSHA256": "6546a6a79987593f34fcc57d3ee475a52db43ccdcdb50d5cd07d5a52f77b99f7",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-186-deng-gao": {
+      "source": "assets/poem-art/tang-186-deng-gao.png",
+      "sourceSHA256": "3fc5559ed2f2f4714906ac191887fc26aded5273f400c5e7043c5fbd30187a1a",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-187-deng-lou": {
+      "source": "assets/poem-art/tang-187-deng-lou.png",
+      "sourceSHA256": "64c64f5884336622af1b052937a0f13ca84322cf68cd35f9abc685dafe23b4f3",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-188-su-fu": {
+      "source": "assets/poem-art/tang-188-su-fu.png",
+      "sourceSHA256": "ec03177965613a9aa85c78c9a7f6459efa1461bb60c1574d578f034309e12b78",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-189-ge-ye": {
+      "source": "assets/poem-art/tang-189-ge-ye.png",
+      "sourceSHA256": "53d4fcafb6058a6da981f272db83b9d77ac2898c92400bca3fcf98bc6f24e2cd",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-190-yong-huai-gu-ji-wu-shou-zhi-yi": {
+      "source": "assets/poem-art/tang-190-yong-huai-gu-ji-wu-shou-zhi-yi.png",
+      "sourceSHA256": "023071ed8679cb947c89a8ffeef6924fb323f688fdb59a131ff56015798c189c",
+      "x": 0.0,
+      "y": 0.05,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-191-yong-huai-gu-ji-wu-shou-zhi-er": {
+      "source": "assets/poem-art/tang-191-yong-huai-gu-ji-wu-shou-zhi-er.png",
+      "sourceSHA256": "0ceda61cfdb827fa3c1c5fc468d228cbd501fe608a3152a60c658b9698f86993",
+      "x": 0.0,
+      "y": 0.05,
+      "side": 0.56,
+      "aspect": 1.7787234
+    },
+    "tang-192-yong-huai-gu-ji-wu-shou-zhi-san": {
+      "source": "assets/poem-art/tang-192-yong-huai-gu-ji-wu-shou-zhi-san.png",
+      "sourceSHA256": "1c0c7c9bfe9eaed37727cdc08647ff9e7ae512a7f08b81602401015015ce2be4",
+      "x": 0.08,
+      "y": 0.025,
+      "side": 0.56,
+      "aspect": 1.7787234
+    },
+    "tang-193-yong-huai-gu-ji-wu-shou-zhi-si": {
+      "source": "assets/poem-art/tang-193-yong-huai-gu-ji-wu-shou-zhi-si.png",
+      "sourceSHA256": "71806b345286b65205ceb0737b0922abf0b37c8972b50944e4739d81468710c2",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-194-yong-huai-gu-ji-wu-shou-zhi-wu": {
+      "source": "assets/poem-art/tang-194-yong-huai-gu-ji-wu-shou-zhi-wu.png",
+      "sourceSHA256": "29264a249540ff60204149a538819268a030fe3a9cf4c042412576c774a722ee",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-195-jiang-zhou-zhong-bie-xue-liu-liu-ba-er-yuan-wai": {
+      "source": "assets/poem-art/tang-195-jiang-zhou-zhong-bie-xue-liu-liu-ba-er-yuan-wai.png",
+      "sourceSHA256": "f949bd0b3ec898f2cf4d4c8c353f1832de435284f6600d08b96d3d98b22943f1",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-196-chang-sha-guo-jia-yi-zhai": {
+      "source": "assets/poem-art/tang-196-chang-sha-guo-jia-yi-zhai.png",
+      "sourceSHA256": "3cb647c3ce1c6f699c9a1951b01156812f046a8997507e89676d8287322794bc",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-197-zi-xia-kou-zhi-ying-zhou-xi-wang-yue-yang-ji-yuan-zhong-cheng": {
+      "source": "assets/poem-art/tang-197-zi-xia-kou-zhi-ying-zhou-xi-wang-yue-yang-ji-yuan-zhong-cheng.png",
+      "sourceSHA256": "a4f5e090334c0717abc029ec49b26489bc8527b9d6b87b98d5fe7a03f513bdf2",
+      "x": 0.44,
+      "y": 0.05,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-198-zeng-que-xia-pei-she-ren": {
+      "source": "assets/poem-art/tang-198-zeng-que-xia-pei-she-ren.png",
+      "sourceSHA256": "bfc05d59aa6bc183c2d75e1adc9424a289f0dd6480812765fb1acc0aa411985a",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-199-ji-li-dan-yuan-xi": {
+      "source": "assets/poem-art/tang-199-ji-li-dan-yuan-xi.png",
+      "sourceSHA256": "b1c02e9f9379a2e20173e345b37ac43b250451310390bf764d4521c9ab43fa20",
+      "x": 0.16,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-200-tong-ti-xian-you-guan": {
+      "source": "assets/poem-art/tang-200-tong-ti-xian-you-guan.png",
+      "sourceSHA256": "30f35fbe846d49e3cceba7fad4067acd9c73e6343931087b3c32ffd65dc2d741",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-201-chun-si": {
+      "source": "assets/poem-art/tang-201-chun-si.png",
+      "sourceSHA256": "af6eb3510690492c7ec625b61657ae1892175d4fb325f1f0069d3b582f119aea",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-202-wan-ci-e-zhou": {
+      "source": "assets/poem-art/tang-202-wan-ci-e-zhou.png",
+      "sourceSHA256": "4b0e8a8dc3a4fbd188cc0fd5dba66f95a9b6191dfc685b4d272ac160f2966441",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-203-deng-liu-zhou-cheng-lou-ji-zhang-ting-feng-lian-si-zhou-ci-shi": {
+      "source": "assets/poem-art/tang-203-deng-liu-zhou-cheng-lou-ji-zhang-ting-feng-lian-si-zhou-ci-shi.png",
+      "sourceSHA256": "e6a3fdfee147bdbb246a5313d4b1ce731447638a6d2a2ab821cf0e2daa1fcc78",
+      "x": 0.04,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-204-xi-sai-shan-huai-gu": {
+      "source": "assets/poem-art/tang-204-xi-sai-shan-huai-gu.png",
+      "sourceSHA256": "1f0a276721c58181767bc22cfcec80404db86fbe523b31ad8020574d9f1b5268",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-205-qian-bei-huai-zhi-yi": {
+      "source": "assets/poem-art/tang-205-qian-bei-huai-zhi-yi.png",
+      "sourceSHA256": "840635f198551503e200bae76d693d5856d477d259c9d1a8a752d6747708d318",
+      "x": 0.04,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-206-qian-bei-huai-zhi-er": {
+      "source": "assets/poem-art/tang-206-qian-bei-huai-zhi-er.png",
+      "sourceSHA256": "8254d8c9facd288cff43cfc278d9f6b2e104afbc5efefab3c7bbb0e838a79f6a",
+      "x": 0.04,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-207-qian-bei-huai-zhi-san": {
+      "source": "assets/poem-art/tang-207-qian-bei-huai-zhi-san.png",
+      "sourceSHA256": "26380bc094b6d82659fb28467fe6be2da45e55b86c78049882f51b10afada7f0",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-208-zi-he-nan-jing-luan-guan-nei-zu-ji-xiong-di-li-san-ge-zai-yi-chu-yin-wang-yue-yo": {
+      "source": "assets/poem-art/tang-208-zi-he-nan-jing-luan-guan-nei-zu-ji-xiong-di-li-san-ge-zai-yi-chu-yin-wang-yue-yo.png",
+      "sourceSHA256": "7fa17fbf401533f82d0bf04a1052d2871f8774df202243313171b0616d5e9038",
+      "x": 0.12,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-209-jin-se": {
+      "source": "assets/poem-art/tang-209-jin-se.png",
+      "sourceSHA256": "924fd3843ef7e2df38685bb3d93229e41a2997bb184b8e6ae09f5bd1502a48ba",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-210-wu-ti": {
+      "source": "assets/poem-art/tang-210-wu-ti.png",
+      "sourceSHA256": "227e0c8c2ab1f4a2bada7fd6fb45a2c2f9bdb7acc38eed775b0d9619ad2eeee4",
+      "x": 0.32,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-211-sui-gong": {
+      "source": "assets/poem-art/tang-211-sui-gong.png",
+      "sourceSHA256": "4af59d997db5af5b0e87769565e85d738f9db68bd388670189c13ddebfa6e58f",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-212-wu-ti-zhi-yi": {
+      "source": "assets/poem-art/tang-212-wu-ti-zhi-yi.png",
+      "sourceSHA256": "85efca5b840b86fbb3bc1ecd2897805b242f1afef85dd22ffc49bf4589fa2479",
+      "x": 0.16,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-213-wu-ti-zhi-er": {
+      "source": "assets/poem-art/tang-213-wu-ti-zhi-er.png",
+      "sourceSHA256": "81ddd730ddf5abce92ad519f60af28f2bae24ce7455833e3594d3fe3437ab19c",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-214-chou-bi-yi": {
+      "source": "assets/poem-art/tang-214-chou-bi-yi.png",
+      "sourceSHA256": "513885643dfa1a9cf70e9a58dc87a7de5965a8275d7527745f2e67bd66066609",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-215-wu-ti-zhi-san": {
+      "source": "assets/poem-art/tang-215-wu-ti-zhi-san.png",
+      "sourceSHA256": "af0d9d72ddfd1b7c560a727aa4a4b0e897578c04beaee3aeedd18a7cf78c164b",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-216-chun-yu": {
+      "source": "assets/poem-art/tang-216-chun-yu.png",
+      "sourceSHA256": "c1e481bc38f243c9feb7c003d150a3080e5edef454548b65245ee956c85ba08a",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-217-wu-ti-zhi-si": {
+      "source": "assets/poem-art/tang-217-wu-ti-zhi-si.png",
+      "sourceSHA256": "038dd1ed9874608530cb03ff2e75c296006d7b2bc08a0517d88fcdafde01e1c5",
+      "x": 0.4,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-218-wu-ti-zhi-wu": {
+      "source": "assets/poem-art/tang-218-wu-ti-zhi-wu.png",
+      "sourceSHA256": "a43a91a1373cd4d19a8b98555806e6318cca8309b5f8f27b664421ce27317ad9",
+      "x": 0.4,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-219-li-zhou-nan-du": {
+      "source": "assets/poem-art/tang-219-li-zhou-nan-du.png",
+      "sourceSHA256": "48c7d35917d2d67194eb8b1791e9a9c74230a7078f5588dfc9219c07c4006564",
+      "x": 0.0,
+      "y": 0.025,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-220-su-wu-miao": {
+      "source": "assets/poem-art/tang-220-su-wu-miao.png",
+      "sourceSHA256": "c9b529ea183bf1bff89d155b6e699765b67d18b0acca89f9e3821eacee4e74dc",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-221-gong-ci": {
+      "source": "assets/poem-art/tang-221-gong-ci.png",
+      "sourceSHA256": "7bd99106279ecf7a9c8b984b6196a8295ca2e1ee370cce0ffd2cec3643dc8099",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-222-pin-nv": {
+      "source": "assets/poem-art/tang-222-pin-nv.png",
+      "sourceSHA256": "f962a1e0e3e2d18fed4cecca688e97e6f897ec8fb87901aace67bc350715665e",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-001-gan-yu-qi-yi": {
+      "source": "assets/illustrations-wuyan-gushi/001-tang-001-gan-yu-qi-yi-feng-v1.png",
+      "sourceSHA256": "2a57a4804b0c0be3f18b4d4b9a9ae34f681bfec0669ef4a8e0ae6a57be5cf0b5",
+      "x": 0.14,
+      "y": 0.28,
+      "side": 0.34,
+      "aspect": 1.7768332
+    },
+    "tang-002-gan-yu-qi-er": {
+      "source": "assets/poem-art-refresh/tang-002-gan-yu-qi-er-v2.png",
+      "sourceSHA256": "7867bb6c422f7fdfc3f4b852961f7f6cc0d9409310c7640860aa0a0acd777a1f",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-003-gan-yu-qi-san": {
+      "source": "assets/poem-art-refresh/tang-003-gan-yu-qi-san-v2.png",
+      "sourceSHA256": "0f36c9faef06f8c16457a3d181fd36a712fa049350c7abf97c5f01671a74b8f8",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-004-gan-yu-qi-si": {
+      "source": "assets/poem-art-refresh/tang-004-gan-yu-qi-si-v2.png",
+      "sourceSHA256": "7ae7a587b983a1a23879390ea3fe79ab63cc7bde23dbf4fb2b7050dc4c1b3991",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-005-xia-zhong-nan-shan-guo-hu-si-shan-ren-su-zhi-jiu": {
+      "source": "assets/poem-art/tang-005-xia-zhong-nan-shan-guo-hu-si-shan-ren-su-zhi-jiu.png",
+      "sourceSHA256": "3644ff7149f9460e3aed56229391c2ec51eb1a35292c2ba9b429540854089f71",
+      "x": 0.24,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-006-yue-xia-du-zhuo": {
+      "source": "assets/poem-art/tang-006-yue-xia-du-zhuo.png",
+      "sourceSHA256": "74cef1a9631053ec2206ed156923cdd605cc479dee2f096460c864146456cfaf",
+      "x": 0.16,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-007-chun-si": {
+      "source": "assets/poem-art/tang-007-chun-si.png",
+      "sourceSHA256": "4b530a2fc2efe91af7a88d799402f518ede34e7fff446cfc484cf8e8c72bdef3",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-008-wang-yue": {
+      "source": "assets/poem-art/tang-008-wang-yue.png",
+      "sourceSHA256": "2449ad6a7cc357c1dea2056808acfaf1afe82ed7d5ec8f518ac1acd006c136f7",
+      "x": 0.0,
+      "y": 0.025,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-009-zeng-wei-ba-chu-shi": {
+      "source": "assets/poem-art/tang-009-zeng-wei-ba-chu-shi.png",
+      "sourceSHA256": "89995da8d8924a155187b621f483fbbc9c0cdb964557570fd35db03195be2488",
+      "x": 0.04,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-010-jia-ren": {
+      "source": "assets/poem-art/tang-010-jia-ren.png",
+      "sourceSHA256": "fc33d3619e8834b9d47efd9f664747a5ee87e88a737bc9f7d76efd220705d573",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-011-meng-li-bai-zhi-yi": {
+      "source": "assets/poem-art/tang-011-meng-li-bai-zhi-yi.png",
+      "sourceSHA256": "ac0b5bead40f9b91124d7a7df46bf35021ac4a95317a1cd3166ff1718204977c",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-012-meng-li-bai-zhi-er": {
+      "source": "assets/poem-art/tang-012-meng-li-bai-zhi-er.png",
+      "sourceSHA256": "175357de9ebfcb778bf77dd8dbfb68ad71489c0c22b96ef305219506229876a3",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-013-song-bie": {
+      "source": "assets/poem-art/tang-013-song-bie.png",
+      "sourceSHA256": "2bbca78932f9825b02b85948c9910950b50eda6629b30b1f7a064c2a9b2bda8f",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-014-song-qi-wu-qian-luo-di-huan-xiang": {
+      "source": "assets/poem-art/tang-014-song-qi-wu-qian-luo-di-huan-xiang.png",
+      "sourceSHA256": "fec8ff25a081b3862c91e668fe7534b9627d364ccd5dd2f2923d7daa7194e50d",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-015-qing-xi": {
+      "source": "assets/poem-art/tang-015-qing-xi.png",
+      "sourceSHA256": "8c8f98048c797bfd66ce0d32d5bae7a8fe694dbd310525d89c22689a1b849b29",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-016-wei-chuan-tian-jia": {
+      "source": "assets/poem-art/tang-016-wei-chuan-tian-jia.png",
+      "sourceSHA256": "024a5351ea92ea9e81ff5aa3ca249136673c6fb453c08bc289fb16c0d9338a79",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-017-xi-shi-yong": {
+      "source": "assets/poem-art/tang-017-xi-shi-yong.png",
+      "sourceSHA256": "3b34d7b77693c6c16fc454badefc52c59f932ac659b52621f2643ab004680abb",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-018-qiu-deng-lan-shan-ji-zhang-wu": {
+      "source": "assets/poem-art/tang-018-qiu-deng-lan-shan-ji-zhang-wu.png",
+      "sourceSHA256": "e27f3a125f87300001a214e600f0eea57f0d399df0095f28876916b1328462bb",
+      "x": 0.0,
+      "y": 0.025,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-019-xia-ri-nan-ting-huai-xin-da": {
+      "source": "assets/poem-art/tang-019-xia-ri-nan-ting-huai-xin-da.png",
+      "sourceSHA256": "cc4af6ee24281b454a593e40e3f8ed61456780411983f2cb3659a410678651a2",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-020-su-ye-shi-shan-fang-dai-ding-da-bu-zhi": {
+      "source": "assets/poem-art/tang-020-su-ye-shi-shan-fang-dai-ding-da-bu-zhi.png",
+      "sourceSHA256": "823b801a42507084f60e64e2d211a178fc8f0354b19267af1e9a2d4245eaac28",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-021-tong-cong-di-nan-zhai-wan-yue-yi-shan-yin-cui-shao-fu": {
+      "source": "assets/poem-art/tang-021-tong-cong-di-nan-zhai-wan-yue-yi-shan-yin-cui-shao-fu.png",
+      "sourceSHA256": "32d98a5b2de122e54591f106124388e7322c1f3e10e2a2535a9d76efd3bba310",
+      "x": 0.2,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-022-xun-xi-shan-yin-zhe-bu-yu": {
+      "source": "assets/poem-art/tang-022-xun-xi-shan-yin-zhe-bu-yu.png",
+      "sourceSHA256": "ffefd9da01be07dc86633df0aae7ffc5e0ee2a0db47f03804bc9094c0cc24a77",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-023-chun-fan-ruo-ye-xi": {
+      "source": "assets/poem-art/tang-023-chun-fan-ruo-ye-xi.png",
+      "sourceSHA256": "e1f415cccb4156245fc8168aa14d09e9fddd83bf513469bd6dcc70c67623692c",
+      "x": 0.04,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-024-su-wang-chang-ling-yin-ju": {
+      "source": "assets/poem-art/tang-024-su-wang-chang-ling-yin-ju.png",
+      "sourceSHA256": "cfeb88dc6326966b85875dba1f0bbed44a1403531f09c398740d26e513b2a710",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-025-yu-gao-shi-xue-ju-deng-ci-en-si-fu-tu": {
+      "source": "assets/poem-art/tang-025-yu-gao-shi-xue-ju-deng-ci-en-si-fu-tu.png",
+      "sourceSHA256": "3d224778d5a5035cd91d3846a8e0cc17ea4cc9cfdbba3146026e7f9a2c5d180f",
+      "x": 0.0,
+      "y": 0.025,
+      "side": 0.56,
+      "aspect": 1.7787234
+    },
+    "tang-026-zei-tui-shi-guan-li-bing-xu": {
+      "source": "assets/poem-art/tang-026-zei-tui-shi-guan-li-bing-xu.png",
+      "sourceSHA256": "2c4c3e6d4dd4ae9f643778ce855565ab943f6714179b4bd4d0a4507988f4d2ab",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-027-jun-zhai-yu-zhong-yu-zhu-wen-shi-yan-ji": {
+      "source": "assets/poem-art/tang-027-jun-zhai-yu-zhong-yu-zhu-wen-shi-yan-ji.png",
+      "sourceSHA256": "e88bdb5516976f73f78bb1463f01a80c540930155f686d77f86b7387527b83ca",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-028-chu-fa-yang-zi-ji-yuan-da-xiao-shu": {
+      "source": "assets/poem-art/tang-028-chu-fa-yang-zi-ji-yuan-da-xiao-shu.png",
+      "sourceSHA256": "c3fb3cfc68f97c32f79df25419f8cf70b106f4d69b05de3c1b249d2140205433",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7787234
+    },
+    "tang-029-ji-quan-jiao-shan-zhong-dao-shi": {
+      "source": "assets/poem-art/tang-029-ji-quan-jiao-shan-zhong-dao-shi.png",
+      "sourceSHA256": "5c9da89896efe63d247efb1934e02621641e1688e553f5d1b3645112f56e4b00",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-030-chang-an-yu-feng-zhu": {
+      "source": "assets/poem-art/tang-030-chang-an-yu-feng-zhu.png",
+      "sourceSHA256": "cb71c9074cb8eb45f61b20511dbc5af6b10cb9f8e4883093bef7835d694c1a36",
+      "x": 0.0,
+      "y": 0.05,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-031-xi-ci-xu-yi-xian": {
+      "source": "assets/poem-art/tang-031-xi-ci-xu-yi-xian.png",
+      "sourceSHA256": "aa909d60f0bf1bb95f44da8910d648f9324866b21fb322a4910d1d003cc09891",
+      "x": 0.04,
+      "y": 0.025,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-032-dong-jiao": {
+      "source": "assets/poem-art/tang-032-dong-jiao.png",
+      "sourceSHA256": "8467e628f0adf1571b3c563db16049fab4fe467cbecb12001f2704bbf38d2029",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-033-song-yang-shi-nv": {
+      "source": "assets/poem-art/tang-033-song-yang-shi-nv.png",
+      "sourceSHA256": "c83dae8e4b820c6370ffa957543844069c65175cbfb69fef5ae422770a2ae337",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-034-chen-yi-chao-shi-yuan-du-chan-jing": {
+      "source": "assets/poem-art/tang-034-chen-yi-chao-shi-yuan-du-chan-jing.png",
+      "sourceSHA256": "2ea6ebbdc764316b5f754cf5c3b1b31ab1996256dfd16bfe45f776b39255eed0",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-035-xi-ju": {
+      "source": "assets/poem-art/tang-035-xi-ju.png",
+      "sourceSHA256": "9232f35bdec71a32afe40d89793bdec6d1976209b890359f9f7c4f83179e72e3",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-046-deng-you-zhou-tai-ge": {
+      "source": "assets/poem-art/tang-046-deng-you-zhou-tai-ge.png",
+      "sourceSHA256": "9e92c8cf10b658ec1d205f2439c49ce269f876708d39e5141a8df55108d45fdf",
+      "x": 0.0,
+      "y": 0.025,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-047-gu-yi": {
+      "source": "assets/poem-art/tang-047-gu-yi.png",
+      "sourceSHA256": "80297b2d76f77c0f2040282aab6ab92b6562b2b94de3813434faa5c737501d54",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-048-song-chen-zhang-fu": {
+      "source": "assets/poem-art/tang-048-song-chen-zhang-fu.png",
+      "sourceSHA256": "f363fbf19f082e385f076c84ded9e83d4f5f6615d0ce96e16691a0ed8b0d1914",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7787234
+    },
+    "tang-049-qin-ge": {
+      "source": "assets/poem-art/tang-049-qin-ge.png",
+      "sourceSHA256": "4ecbf4b61e19626794bdde3e550496e5921524bd3bd7d6a87021fcabf87ad93f",
+      "x": 0.2,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-050-ting-dong-da-dan-hu-jia-sheng-jian-ji-yu-nong-fang-gei-shi": {
+      "source": "assets/poem-art/tang-050-ting-dong-da-dan-hu-jia-sheng-jian-ji-yu-nong-fang-gei-shi.png",
+      "sourceSHA256": "f9ac54b1e3be1fed768bc301d3610bb6a0097b626e7e934b66bbb97fe1a1e170",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-051-ting-an-wan-shan-chui-bi-li-ge": {
+      "source": "assets/poem-art/tang-051-ting-an-wan-shan-chui-bi-li-ge.png",
+      "sourceSHA256": "e2fa7a4ad290f0389666a3e176c7a91b03b7e63909a279a9ede4b5246f4c2490",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-052-ye-gui-lu-men-shan-ge": {
+      "source": "assets/poem-art/tang-052-ye-gui-lu-men-shan-ge.png",
+      "sourceSHA256": "da9e9e7d65eae296a9cf11c4169ed9564871d735f2dbceaee172b68c7a3686b7",
+      "x": 0.12,
+      "y": 0.08,
+      "side": 0.64,
+      "aspect": 1.7768332
+    },
+    "tang-053-lu-shan-yao-ji-lu-shi-yu-xu-zhou": {
+      "source": "assets/poem-art/tang-053-lu-shan-yao-ji-lu-shi-yu-xu-zhou.png",
+      "sourceSHA256": "3a15a81856299d56440cbf8d7b8932359c1857362ee63aa34dab15c7496411ff",
+      "x": 0.0,
+      "y": 0.05,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-054-meng-you-tian-lao-yin-liu-bie": {
+      "source": "assets/poem-art/tang-054-meng-you-tian-lao-yin-liu-bie.png",
+      "sourceSHA256": "8437cc2c857300c210ad3d8da94a64e1ca0c0b24a9df44eec1da3333673d829c",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-055-jin-ling-jiu-si-liu-bie": {
+      "source": "assets/poem-art/tang-055-jin-ling-jiu-si-liu-bie.png",
+      "sourceSHA256": "0ba992f9797fbb9a5792750755592fefc20cead588da9cb88ce2cdeb05bc0707",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-056-xuan-zhou-xie-tiao-lou-jian-bie-xiao-shu-shu-yun": {
+      "source": "assets/poem-art/tang-056-xuan-zhou-xie-tiao-lou-jian-bie-xiao-shu-shu-yun.png",
+      "sourceSHA256": "b327ff36c9c87d3f1a220d5e470e4faa308942e1d8ee3dbf9e4ea9af867bcc4d",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-057-zou-ma-chuan-xing-feng-song-feng-da-fu-chu-shi-xi-zheng": {
+      "source": "assets/poem-art/tang-057-zou-ma-chuan-xing-feng-song-feng-da-fu-chu-shi-xi-zheng.png",
+      "sourceSHA256": "bfbab82bb4866feaa3e9c84a246f0e04f57f295c7b91de8b24a38c5f33239cbc",
+      "x": 0.12,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-058-lun-tai-ge-feng-song-feng-da-fu-chu-shi-xi-zheng": {
+      "source": "assets/poem-art/tang-058-lun-tai-ge-feng-song-feng-da-fu-chu-shi-xi-zheng.png",
+      "sourceSHA256": "3b3f8c1218db606938249db09b1a10201809c38fd9587027643fa77686cfada0",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-059-bai-xue-ge-song-wu-pan-guan-gui-jing": {
+      "source": "assets/poem-art/tang-059-bai-xue-ge-song-wu-pan-guan-gui-jing.png",
+      "sourceSHA256": "f515afdde52f5b0bfcec4b4c7eb14cb51663554e02773c75dc9443c4caf62732",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-060-wei-feng-lu-shi-zhai-guan-cao-jiang-jun-hua-ma-tu": {
+      "source": "assets/poem-art/tang-060-wei-feng-lu-shi-zhai-guan-cao-jiang-jun-hua-ma-tu.png",
+      "sourceSHA256": "68633edb06a17b77c1eb2a8757cfdffca8c67d0b3b016d502a7130078302c080",
+      "x": 0.24,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-061-dan-qing-yin-zeng-cao-ba-jiang-jun": {
+      "source": "assets/poem-art/tang-061-dan-qing-yin-zeng-cao-ba-jiang-jun.png",
+      "sourceSHA256": "6a66a59903063c80f691467f2a8c5265b2931613d745a95a09e7750f622b1e74",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-062-ji-han-jian-yi": {
+      "source": "assets/poem-art/tang-062-ji-han-jian-yi.png",
+      "sourceSHA256": "d854a3be50b326c88834346fb154014ff1650376bc71bd8f3701ed15a05e5bb5",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-063-gu-bai-xing": {
+      "source": "assets/poem-art/tang-063-gu-bai-xing.png",
+      "sourceSHA256": "cade27c3e0fe3907fc27ea2c8895281f7497c653641b91e2047ea6c5de1d247d",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.64,
+      "aspect": 1.7768332
+    },
+    "tang-064-guan-gong-sun-da-niang-di-zi-wu-jian-qi-xing-bing-xu": {
+      "source": "assets/poem-art/tang-064-guan-gong-sun-da-niang-di-zi-wu-jian-qi-xing-bing-xu.png",
+      "sourceSHA256": "f3f8af39deea6ee5a045ccdafa4bce394bf018106b8d1c518d376e680fa44468",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-065-shi-yu-hu-shang-zui-ge-bing-xu": {
+      "source": "assets/poem-art/tang-065-shi-yu-hu-shang-zui-ge-bing-xu.png",
+      "sourceSHA256": "c4e8d15c3566cdb0265e51e42f1662466bddeb43a497a2f4f96ecf7ea6154f9c",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-066-shan-shi": {
+      "source": "assets/poem-art/tang-066-shan-shi.png",
+      "sourceSHA256": "6a7fe7383636235f81c81e9513f66b5b2f472d094898e67281564911db796c56",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-067-ba-yue-shi-wu-ye-zeng-zhang-gong-cao": {
+      "source": "assets/poem-art/tang-067-ba-yue-shi-wu-ye-zeng-zhang-gong-cao.png",
+      "sourceSHA256": "4d272fcea25889d9b248e37dd438d14a90936bb828e13b0eb774aa014a89b524",
+      "x": 0.12,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-068-ye-heng-yue-miao-sui-su-yue-si-ti-men-lou": {
+      "source": "assets/poem-art/tang-068-ye-heng-yue-miao-sui-su-yue-si-ti-men-lou.png",
+      "sourceSHA256": "2078704dbdd15cd11d51ad2ed101e7595a5296843bd3d8c1b5b8c5cfae82cbd8",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-069-shi-gu-ge": {
+      "source": "assets/poem-art/tang-069-shi-gu-ge.png",
+      "sourceSHA256": "5793640e96a5eeab9e02bca205917ef1863b4edae2d35a7f168eeb675036756d",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-070-yu-weng": {
+      "source": "assets/poem-art/tang-070-yu-weng.png",
+      "sourceSHA256": "738aad42bddd9501a167ed781fe4a59132b81073852f488ff58942c57a74f470",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-071-chang-hen-ge": {
+      "source": "assets/poem-art/tang-071-chang-hen-ge.png",
+      "sourceSHA256": "39325c55676374e8a3ae61a2d84b629f130d88ee1c2bcba17647a1ea4ec65c9f",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-072-pi-pa-xing-bing-xu": {
+      "source": "assets/poem-art/tang-072-pi-pa-xing-bing-xu.png",
+      "sourceSHA256": "54a68755872f28dda1fc845325c3110a087e702c8e695cd4df363eabf57cf722",
+      "x": 0.2,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-073-han-bei": {
+      "source": "assets/poem-art/tang-073-han-bei.png",
+      "sourceSHA256": "2e653d9505531ae926456b86c6d3cd8075479ccb206220658680c5433df6d89e",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-036-sai-shang-qu": {
+      "source": "assets/poem-art/tang-036-sai-shang-qu.png",
+      "sourceSHA256": "1e1505498bf22cec8f41f2a9cebacde0f172add911291102f09c022f42177bde",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-037-sai-xia-qu": {
+      "source": "assets/poem-art/tang-037-sai-xia-qu.png",
+      "sourceSHA256": "e6fcf54bef469fb53f307f96428072a35df24844a8adf88b0ae0e59a97ee0cb6",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-038-guan-shan-yue": {
+      "source": "assets/poem-art/tang-038-guan-shan-yue.png",
+      "sourceSHA256": "288f9d3116d866a03c8a7f1307c3481239c9dda2ec609e2d73af26404417742d",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-039-zi-ye-si-shi-ge-chun-ge": {
+      "source": "assets/poem-art/tang-039-zi-ye-si-shi-ge-chun-ge.png",
+      "sourceSHA256": "bef35f93b99bb209637ddbc499e5f7809a0d845fad63f3b3a1f3e27a75ed6887",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-040-zi-ye-si-shi-ge-xia-ge": {
+      "source": "assets/poem-art/tang-040-zi-ye-si-shi-ge-xia-ge.png",
+      "sourceSHA256": "14325415f81e89be1a02caa3468703d68f2d13160bbb82b391e03b25dadfa0ce",
+      "x": 0.36,
+      "y": 0.025,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-041-zi-ye-si-shi-ge-qiu-ge": {
+      "source": "assets/poem-art/tang-041-zi-ye-si-shi-ge-qiu-ge.png",
+      "sourceSHA256": "e6fe12fbd769d819562962bc1ab817adab00e5c3bd2088c16f2dffffd120290d",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.64,
+      "aspect": 1.7768332
+    },
+    "tang-042-zi-ye-si-shi-ge-dong-ge": {
+      "source": "assets/poem-art/tang-042-zi-ye-si-shi-ge-dong-ge.png",
+      "sourceSHA256": "e3018480a3da91070667503e14d8d1cd18ed4e6de94ac806c41a497443d5b7cc",
+      "x": 0.08,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-043-chang-gan-xing": {
+      "source": "assets/poem-art-additions/tang-043-chang-gan-xing-v1.png",
+      "sourceSHA256": "5884703491cd3fb68c11cd2d4b5bec520c0398bee5c436e4e8e526c279987f2b",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-044-lie-nv-cao": {
+      "source": "assets/poem-art/tang-044-lie-nv-cao.png",
+      "sourceSHA256": "32f0805d7eff5c1ff7ee2691dd883813bcbf5501952323d4a8021bcd81eb2344",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7787234
+    },
+    "tang-045-you-zi-yin": {
+      "source": "assets/featured/you-zi-yin.png",
+      "sourceSHA256": "ed39d4a3644ba5f7bfaf085376b12b326f1a1518d4164200e34779ff0b3c1d20",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.75
+    },
+    "tang-074-yan-ge-xing-bing-xu": {
+      "source": "assets/poem-art/tang-074-yan-ge-xing-bing-xu.png",
+      "sourceSHA256": "a5ec8154b1fb6e511a62b486e2e719b5644f387509432856236a0e8dc4524e70",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-075-gu-cong-jun-xing": {
+      "source": "assets/poem-art/tang-075-gu-cong-jun-xing.png",
+      "sourceSHA256": "2a6e4e94dae455ab64e2a0e2768a589d2f18634fbce835fcb9eaa65a17294ea6",
+      "x": 0.4,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-076-luo-yang-nv-er-xing": {
+      "source": "assets/poem-art/tang-076-luo-yang-nv-er-xing.png",
+      "sourceSHA256": "6da85f25c379793817ea1cfa7e05d3ca6f3377620ca4151152093049ecfcc14c",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7787234
+    },
+    "tang-077-lao-jiang-xing": {
+      "source": "assets/poem-art/tang-077-lao-jiang-xing.png",
+      "sourceSHA256": "1e61e0d8739c7d5b78b37d980e672620168a94ffa3845d5ef28a726bc6430439",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-078-tao-yuan-xing": {
+      "source": "assets/poem-art/tang-078-tao-yuan-xing.png",
+      "sourceSHA256": "59d3928113977dadb2e946aa5cb1b92d7779088125ae84725ce030c743e16cd5",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-079-shu-dao-nan": {
+      "source": "assets/poem-art/tang-079-shu-dao-nan.png",
+      "sourceSHA256": "fa33f8048118f361bae02e276d563ed02c40c81339c14334c83f5687f245ec8c",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-080-zhang-xiang-si-zhi-yi": {
+      "source": "assets/poem-art/tang-080-zhang-xiang-si-zhi-yi.png",
+      "sourceSHA256": "47b23cb92c13ccee554e8e9587b7881a64fee2091b27dcf3c81c53de3f067805",
+      "x": 0.2,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-081-zhang-xiang-si-zhi-er": {
+      "source": "assets/poem-art/tang-081-zhang-xiang-si-zhi-er.png",
+      "sourceSHA256": "4d2d7486f0e5a2b68ea52fb65c8f63508d43bd42bae6311a2b7fb0235459872e",
+      "x": 0.04,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-082-xing-lu-nan-zhi-yi": {
+      "source": "assets/poem-art/tang-082-xing-lu-nan-zhi-yi.png",
+      "sourceSHA256": "bb6262fc20c9635f41fa69704f6ad098df2a628b0e93c64a22155fea50ffdcc5",
+      "x": 0.0,
+      "y": 0.025,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-083-xing-lu-nan-zhi-er": {
+      "source": "assets/poem-art/tang-083-xing-lu-nan-zhi-er.png",
+      "sourceSHA256": "d5381f1e1b2392b9c2d0da20073f65ef2974c8e736362e4d2bbe87f1e724648d",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-084-xing-lu-nan-zhi-san": {
+      "source": "assets/poem-art/tang-084-xing-lu-nan-zhi-san.png",
+      "sourceSHA256": "9dbe456126cb192ec2c909de2cc000938cde145ca23ead8b527dbc76ba29d359",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-085-qiang-jin-jiu": {
+      "source": "assets/poem-art/tang-085-qiang-jin-jiu.png",
+      "sourceSHA256": "1fa7d3d68f5eb4606b91aaa2d2d873b5438d0ceabdfda01b79252452bce88cab",
+      "x": 0.09818,
+      "y": 0,
+      "side": 0.64,
+      "aspect": 1.7768332
+    },
+    "tang-086-bing-che-xing": {
+      "source": "assets/poem-art/tang-086-bing-che-xing.png",
+      "sourceSHA256": "fa1eceb6bfa8b8f178198186aa147cfc942df1b5d1b63c3dc7f587c6abaad4e4",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-087-li-ren-xing": {
+      "source": "assets/poem-art/tang-087-li-ren-xing.png",
+      "sourceSHA256": "63771a212702001bca3d679be62e3bcc1e22867e581b8abc6b7b402450cba333",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-088-ai-jiang-tou": {
+      "source": "assets/poem-art/tang-088-ai-jiang-tou.png",
+      "sourceSHA256": "45b77c96a5aa3da3f7144c7caf2e00a231bce5d81287dc39768c3f77cc437efd",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-089-ai-wang-sun": {
+      "source": "assets/poem-art/tang-089-ai-wang-sun.png",
+      "sourceSHA256": "715a6442b5cb1a7e621abe10e702d1f8715a8529b018bb8509af9318741ee8a5",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-223-gu-yi-cheng-bu-que-qiao-zhi-zhi": {
+      "source": "assets/poem-art/tang-223-gu-yi-cheng-bu-que-qiao-zhi-zhi.png",
+      "sourceSHA256": "59ae9890950207ab1331ad6d839052bec85ac77fff80a2958064c9796bbdd606",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-253-zhang-gan-xing-er-shou-zhi-yi": {
+      "source": "assets/poem-art/tang-253-zhang-gan-xing-er-shou-zhi-yi.png",
+      "sourceSHA256": "07ab0699e2b1bea5c685deba1ae633ee13bbd64033c1e1afc9d0e921142634ff",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-254-zhang-gan-xing-er-shou-zhi-er": {
+      "source": "assets/poem-art/tang-254-zhang-gan-xing-er-shou-zhi-er.png",
+      "sourceSHA256": "54663447cc25b97b0df8fea290ae34fc50669a28970b374ad2ef13588a58f2b8",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-255-yu-jie-yuan": {
+      "source": "assets/poem-art/tang-255-yu-jie-yuan.png",
+      "sourceSHA256": "3939e969e2acb8e463caed54bc7a0fc3fc7f811e78f8af75940086d426195fbc",
+      "x": 0.36,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-256-sai-xia-qu-si-shou-zhi-yi": {
+      "source": "assets/poem-art/tang-256-sai-xia-qu-si-shou-zhi-yi.png",
+      "sourceSHA256": "a17a6d05d8114a5cda81abf2db704d8d34bc0c3b743ddcbbc4db3aa43d44f26f",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-257-sai-xia-qu-si-shou-zhi-er": {
+      "source": "assets/poem-art/tang-257-sai-xia-qu-si-shou-zhi-er.png",
+      "sourceSHA256": "c4ff7bfc8ad669b1782ecc4ce909a3130c0dd0380e242ec1733fa34147e0d8d2",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-258-sai-xia-qu-si-shou-zhi-san": {
+      "source": "assets/poem-art/tang-258-sai-xia-qu-si-shou-zhi-san.png",
+      "sourceSHA256": "eec00fb9838d31c9ef7c27ca2683b80388d64fcf734f7dd5a377aec534249095",
+      "x": 0.08,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-259-sai-xia-qu-si-shou-zhi-si": {
+      "source": "assets/poem-art/tang-259-sai-xia-qu-si-shou-zhi-si.png",
+      "sourceSHA256": "c711a8869b56129e7a61a967e07ef1082a319e65c6208412c0ae37629274f1f3",
+      "x": 0.44,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-260-jiang-nan-qu": {
+      "source": "assets/poem-art/tang-260-jiang-nan-qu.png",
+      "sourceSHA256": "e14a47e4ac48c8d7dd9df8e1b07e8ebda5ab83d0a30e82f3acfbd6200c6c086a",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-312-wei-cheng-qu": {
+      "source": "assets/poem-art-refresh/tang-312-wei-cheng-qu-v2.png",
+      "sourceSHA256": "8f83d669645ccd224529f1ec5fa0a31f069d5c0b48ac96fe25c9e751ca41e540",
+      "x": 0.04,
+      "y": 0,
+      "side": 0.64,
+      "aspect": 1.7768332
+    },
+    "tang-313-qiu-ye-qu": {
+      "source": "assets/poem-art/tang-313-qiu-ye-qu.png",
+      "sourceSHA256": "f1615b2004c11b578610800cc427811a05589bb57242f2851f9bdc84c04fe463",
+      "x": 0.08,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-314-zhang-xin-yuan": {
+      "source": "assets/poem-art/tang-314-zhang-xin-yuan.png",
+      "sourceSHA256": "2eb63426a227c0b0dc5543ac73b624fc777c024da2f576d86fa2c9e5e09554ad",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-315-chu-sai": {
+      "source": "assets/poem-art/tang-315-chu-sai.png",
+      "sourceSHA256": "e2fc3235399e98ec6232731618d63113e109fe34ff050f8b2fec63c2abea6dfc",
+      "x": 0.2,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-316-chu-sai": {
+      "source": "assets/poem-art/tang-316-chu-sai.png",
+      "sourceSHA256": "45668d707635bd1604d1bc057520e505f74d3ae1ce3bc2d8106083e85d0aecb4",
+      "x": 0.0,
+      "y": 0.05,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-317-qing-ping-diao-zhi-yi": {
+      "source": "assets/poem-art/tang-317-qing-ping-diao-zhi-yi.png",
+      "sourceSHA256": "c14d54f1b680c5847fce1f25070a67faf809a7b4c2038ab1d35a16b9deb44e61",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-318-qing-ping-diao-zhi-er": {
+      "source": "assets/poem-art/tang-318-qing-ping-diao-zhi-er.png",
+      "sourceSHA256": "a4f2e39ce2cfd4a09be88a1cd378c7c7201c00629bab6c62518049f70ed5e85e",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-319-qing-ping-diao-zhi-san": {
+      "source": "assets/poem-art/tang-319-qing-ping-diao-zhi-san.png",
+      "sourceSHA256": "49434bca1086a7245085a8aac4c3c1dd50edbba4846696dfad823be784a3557c",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    },
+    "tang-320-jin-lv-yi": {
+      "source": "assets/poem-art/tang-320-jin-lv-yi.png",
+      "sourceSHA256": "e14233f4f2f17e761cd06b10b07ba9fa505f7806807fe92f12c1b8b4f674061b",
+      "x": 0.0,
+      "y": 0,
+      "side": 0.56,
+      "aspect": 1.7768332
+    }
+  }
+}

@@ -1,6 +1,13 @@
-import { readingLayout } from './reader-core.js?v=0.5.0';
+import { readingLayout } from './reader-core.js?v=0.5.1';
 
 export const escapeHTML = value => String(value ?? '').replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
+
+export function directoryArtworkMarkup(poem, eager = false) {
+  const f = poem.thumbnailFrame;
+  const source = f?.side < 0.45 ? poem.image : poem.thumbnail;
+  const style = f ? `width:${100 / f.side}%;height:${100 * f.aspect / f.side}%;left:${-100 * f.x / f.side}%;top:${-100 * f.y / f.side}%` : '';
+  return `<span class="poem-thumb" aria-hidden="true"><img src="./${escapeHTML(source)}" alt="" loading="${eager ? 'eager' : 'lazy'}" decoding="async" style="${style}" /></span>`;
+}
 
 export function verses(lines) {
   return lines.map(line => {

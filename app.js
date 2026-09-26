@@ -1,8 +1,8 @@
-import { setupReadingExtras } from './reader-extras.js?v=0.5.0';
-import { parseStored, sanitizeSettings, migrateFavorites, filterPoems, initialIndex, createPoemLoader } from './reader-core.js?v=0.5.0';
+import { setupReadingExtras } from './reader-extras.js?v=0.5.1';
+import { parseStored, sanitizeSettings, migrateFavorites, filterPoems, initialIndex, createPoemLoader } from './reader-core.js?v=0.5.1';
 
-import { escapeHTML, layoutReadingPage, poemMarkup, notesMarkup } from './reader-renderer.js?v=0.5.0';
-import { ALL_POEMS, sanitizeReadingScope, isAllPoems, readingScopeLabel, selectionAfterScopeChange, sanitizeReadingProgress, captureParagraphProgress, restoreParagraphProgress, paragraphMetrics, isReadingSurfaceTap } from './reader-continuity.js?v=0.5.0';
+import { escapeHTML, layoutReadingPage, poemMarkup, notesMarkup, directoryArtworkMarkup } from './reader-renderer.js?v=0.5.1';
+import { ALL_POEMS, sanitizeReadingScope, isAllPoems, readingScopeLabel, selectionAfterScopeChange, sanitizeReadingProgress, captureParagraphProgress, restoreParagraphProgress, paragraphMetrics, isReadingSurfaceTap } from './reader-continuity.js?v=0.5.1';
 
 const $ = selector => document.querySelector(selector);
 const keys = { favorites: 'tang-favorites-v2', settings: 'tang-settings-v1', position: 'tang-position-v1', scope: 'tang-reading-scope-v1', progress: 'tang-reading-progress-v1' };
@@ -192,7 +192,8 @@ function renderLibrary() {
   $('#categorySelect').value = filters.category;
   $('#authorSelect').value = filters.author;
   document.querySelectorAll('[data-collection]').forEach(button => button.setAttribute('aria-pressed', button.dataset.collection === filters.collection));
-  $('#poemList').innerHTML = list.length ? [...groups].map(([section, items]) => `<section class="genre-group" aria-label="${escapeHTML(section)}"><h3 class="genre-heading">${escapeHTML(section)}<span>${items.length} 首</span></h3>${items.map(poem => `<button class="poem-row" data-id="${poem.id}" aria-current="${poem.id === poems[currentIndex]?.id}"><img class="poem-thumb" src="./${escapeHTML(poem.thumbnail)}" alt="" loading="lazy" decoding="async" /><span class="poem-row-copy"><strong>${escapeHTML(poem.title)}</strong><small>${escapeHTML(poem.author)}</small></span><em>${favorites.has(poem.id) ? '已藏' : poem.featured ? '精选' : ''}</em></button>`).join('')}</section>`).join('')
+  let thumbnailIndex = 0;
+  $('#poemList').innerHTML = list.length ? [...groups].map(([section, items]) => `<section class="genre-group" aria-label="${escapeHTML(section)}"><h3 class="genre-heading">${escapeHTML(section)}<span>${items.length} 首</span></h3>${items.map(poem => `<button class="poem-row" data-id="${poem.id}" aria-current="${poem.id === poems[currentIndex]?.id}">${directoryArtworkMarkup(poem, thumbnailIndex++ < 12)}<span class="poem-row-copy"><strong>${escapeHTML(poem.title)}</strong><small>${escapeHTML(poem.author)}</small></span><em>${favorites.has(poem.id) ? '已藏' : poem.featured ? '精选' : ''}</em></button>`).join('')}</section>`).join('')
     : `<p class="empty-state">${filters.collection === 'favorites' && !favorites.size ? '还没有收藏。<br>在喜欢的诗页轻点「藏」，留给下次重读。' : '没有找到相符的诗。<br>试试其他诗句，或切换分类。'}</p>`;
 }
 function openLibrary(collection) {
