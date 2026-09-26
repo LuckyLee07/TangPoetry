@@ -1,19 +1,23 @@
-import { parseStored, sanitizeSettings, migrateFavorites, filterPoems, initialIndex, createPoemLoader } from './reader-core.js?v=0.4.0';
+import { setupReadingExtras } from './reader-extras.js?v=0.5.0';
+import { parseStored, sanitizeSettings, migrateFavorites, filterPoems, initialIndex, createPoemLoader } from './reader-core.js?v=0.5.0';
 
-import { escapeHTML, layoutReadingPage, poemMarkup, notesMarkup } from './reader-renderer.js?v=0.4.0';
+import { escapeHTML, layoutReadingPage, poemMarkup, notesMarkup } from './reader-renderer.js?v=0.5.0';
+import { ALL_POEMS, sanitizeReadingScope, isAllPoems, readingScopeLabel, selectionAfterScopeChange, sanitizeReadingProgress, captureParagraphProgress, restoreParagraphProgress, paragraphMetrics, isReadingSurfaceTap } from './reader-continuity.js?v=0.5.0';
 
 const $ = selector => document.querySelector(selector);
-const keys = { favorites: 'tang-favorites-v2', settings: 'tang-settings-v1', position: 'tang-position-v1' };
+const keys = { favorites: 'tang-favorites-v2', settings: 'tang-settings-v1', position: 'tang-position-v1', scope: 'tang-reading-scope-v1', progress: 'tang-reading-progress-v1' };
 const storage = {
   read(key, fallback) { try { return parseStored(localStorage.getItem(key), fallback); } catch { return fallback; } },
   write(key, value) { try { localStorage.setItem(key, JSON.stringify(value)); } catch { $('#storageNotice').hidden = false; $('#storageNotice').textContent = '当前浏览器无法保存记录，本次阅读仍可正常使用。'; } }
 };
 const pages = $('#pages');
 const settings = sanitizeSettings(storage.read(keys.settings, null));
-let poems = [], favorites = new Set(), currentIndex = 0, homeVisible = true, controlsVisible = true;
-let filters = { query: '', collection: 'all', category: 'all' };
+let catalogPoems = [], poems = [], favorites = new Set(), currentIndex = 0, homeVisible = true, controlsVisible = true;
+let filters = { ...ALL_POEMS }, readingScope = { ...ALL_POEMS }, readingProgress = {};
 let shells = [], activeIDs = new Set(), loading = false, lastSavedID = '', alignedWidth = 0;
+let progressTimer, restoringProgress = false;
 const pageDetails = new WeakMap();
+let extras;
 
 async function fetchJSON(url) {
   const response = await fetch(url, { cache: 'no-cache', signal: AbortSignal.timeout(15000) });
@@ -23,6 +27,7 @@ async function fetchJSON(url) {
 const loader = createPoemLoader(id => fetchJSON(`./data/reader/poems/${encodeURIComponent(id)}.json`));
 
 function applySettings() {
+  rememberCurrentParagraph();
   document.body.dataset.paper = settings.paper;
   $('.reader').style.setProperty('--reader-size', `${settings.fontSize}px`);
   pages.classList.toggle('notes-off', !settings.notes);
@@ -30,7 +35,7 @@ function applySettings() {
   $('#settingNotes').checked = settings.notes;
   $('#fontSize').value = settings.fontSize;
   document.querySelectorAll('[name="paper"]').forEach(input => { input.checked = input.value === settings.paper; });
-  layoutMountedPages();
+  layoutMountedPages({ remember: false });
 }
 function changeSetting(key, value) { settings[key] = value; applySettings(); storage.write(keys.settings, settings); }
 
@@ -40,6 +45,7 @@ function setControls(visible) {
   $('#revealControls').hidden = visible;
 }
 function setHome(visible) {
+  if (visible) saveReadingProgress();
   homeVisible = visible;
   $('.reader').dataset.home = visible;
   $('#homeScreen').inert = !visible;
@@ -52,8 +58,30 @@ function setHome(visible) {
 function layoutPage(element) {
   layoutReadingPage(element, pageDetails.get(element), { width: pages.clientWidth, height: pages.clientHeight, fontSize: settings.fontSize, notesEnabled: settings.notes });
 }
-function layoutMountedPages() {
+function layoutMountedPages({ remember = true } = {}) {
+  if (remember) rememberCurrentParagraph();
   for (const element of shells) if (element.childNodes.length) layoutPage(element);
+  restorePageParagraph(shells[currentIndex]);
+}
+
+function rememberCurrentParagraph() {
+  const element = shells[currentIndex], body = element?.querySelector('.poem-body');
+  if (!body || restoringProgress || homeVisible) return;
+  const metrics = paragraphMetrics(body);
+  readingProgress[element.dataset.id] = captureParagraphProgress(body.scrollTop, metrics.anchors, metrics.scrollHeight, metrics.clientHeight);
+}
+function saveReadingProgress() {
+  clearTimeout(progressTimer);
+  rememberCurrentParagraph();
+  storage.write(keys.progress, readingProgress);
+}
+function restorePageParagraph(element) {
+  const body = element?.querySelector('.poem-body'), position = readingProgress[element?.dataset.id];
+  if (!body || !position) return;
+  const metrics = paragraphMetrics(body);
+  restoringProgress = true;
+  body.scrollTop = restoreParagraphProgress(position, metrics.anchors, metrics.scrollHeight, metrics.clientHeight);
+  restoringProgress = false;
 }
 function renderPage(element, poem, detail) {
   pageDetails.set(element, { ...detail, section: poem.section, textStart: poem.textStart });
@@ -61,6 +89,14 @@ function renderPage(element, poem, detail) {
   const image = element.querySelector('img');
   image.addEventListener('error', () => image.remove(), { once: true });
   layoutPage(element);
+  restorePageParagraph(element);
+  element.querySelector('.poem-body').addEventListener('scroll', () => {
+    if (element !== shells[currentIndex] || homeVisible || restoringProgress) return;
+    rememberCurrentParagraph();
+    clearTimeout(progressTimer);
+    progressTimer = setTimeout(saveReadingProgress, 300);
+  }, { passive: true });
+  extras?.update();
 }
 async function mountPage(index) {
   const poem = poems[index], element = shells[index];
@@ -69,7 +105,7 @@ async function mountPage(index) {
   element.innerHTML = '<p class="page-message">展卷中…</p>';
   try {
     const detail = await loader.load(poem.id);
-    if (!activeIDs.has(poem.id)) return;
+    if (!activeIDs.has(poem.id) || shells[index] !== element) return;
     renderPage(element, poem, detail);
     element.dataset.loaded = 'true';
   } catch {
@@ -90,6 +126,10 @@ function updateState({ announce = false } = {}) {
   const poem = poems[currentIndex];
   if (!poem) return;
   $('#pageMark').textContent = `${currentIndex + 1} / ${poems.length}`;
+  $('#scopeLabel').textContent = readingScopeLabel(readingScope);
+  $('#scopeLabel').hidden = isAllPoems(readingScope);
+  $('#leaveReadingScope').hidden = isAllPoems(readingScope);
+  $('#leaveReadingScope').setAttribute('aria-label', `正在阅读${readingScopeLabel(readingScope)}，返回全库并保留当前诗`);
   $('#favoriteButton').setAttribute('aria-pressed', favorites.has(poem.id));
   $('#favoriteButton').setAttribute('aria-label', favorites.has(poem.id) ? '取消收藏此诗' : '收藏此诗');
   $('#previousPoem').disabled = currentIndex === 0;
@@ -98,9 +138,11 @@ function updateState({ announce = false } = {}) {
   if (!homeVisible && poem.id !== lastSavedID) { storage.write(keys.position, poem.id); lastSavedID = poem.id; }
   if (announce) $('#readerStatus').textContent = `${poem.title}，${poem.author}。第 ${currentIndex + 1} 首，共 ${poems.length} 首。`;
   hydrateWindow();
+  extras?.update();
 }
 function goTo(index) {
   if (!poems.length) return;
+  saveReadingProgress();
   currentIndex = Math.max(0, Math.min(poems.length - 1, index));
   // Directory jumps are immediate: no traversal or loading of hundreds of intervening pages.
   alignPage();
@@ -112,8 +154,35 @@ function alignPage() {
 }
 function enterReader(index = currentIndex) { setHome(false); setControls(true); goTo(index); pages.focus({ preventScroll: true }); }
 
+function rebuildPages() {
+  shells = poems.map(poem => { const element = document.createElement('article'); element.className = 'poem-page'; element.dataset.id = poem.id; element.setAttribute('aria-label', poem.title); return element; });
+  pages.replaceChildren(...shells);
+}
+// A filtered directory becomes the actual previous/next/swipe sequence.
+function openReadingScope(value = ALL_POEMS, selectedID = poems[currentIndex]?.id) {
+  saveReadingProgress();
+  let nextScope = sanitizeReadingScope(value);
+  let result = filterPoems(catalogPoems, nextScope, favorites);
+  const empty = !result.length;
+  if (empty) {
+    nextScope = { ...ALL_POEMS }; result = catalogPoems;
+  }
+  const nextIndex = selectionAfterScopeChange(currentIndex, selectedID, result);
+  readingScope = nextScope; poems = result; currentIndex = nextIndex;
+  filters = { ...readingScope }; $('#searchInput').value = filters.query;
+  storage.write(keys.scope, readingScope);
+  rebuildPages();
+  enterReader(currentIndex);
+  if (empty) $('#readerStatus').textContent = '这个诗集已没有诗，已回到全库。';
+}
+// Sharing and the daily poem can open one stable ID without inheriting stale filters.
+function openPoem(id, { scope = 'all' } = {}) {
+  if (!catalogPoems.some(poem => poem.id === id)) return;
+  openReadingScope(scope === 'all' ? ALL_POEMS : scope, id);
+}
+
 function renderLibrary() {
-  const list = filterPoems(poems, filters, favorites);
+  const list = filterPoems(catalogPoems, filters, favorites);
   const groups = new Map();
   for (const poem of list) {
     if (!groups.has(poem.section)) groups.set(poem.section, []);
@@ -121,12 +190,13 @@ function renderLibrary() {
   }
   $('#resultCount').textContent = `${list.length} 首${filters.collection === 'favorites' ? '收藏' : ''}`;
   $('#categorySelect').value = filters.category;
+  $('#authorSelect').value = filters.author;
   document.querySelectorAll('[data-collection]').forEach(button => button.setAttribute('aria-pressed', button.dataset.collection === filters.collection));
   $('#poemList').innerHTML = list.length ? [...groups].map(([section, items]) => `<section class="genre-group" aria-label="${escapeHTML(section)}"><h3 class="genre-heading">${escapeHTML(section)}<span>${items.length} 首</span></h3>${items.map(poem => `<button class="poem-row" data-id="${poem.id}" aria-current="${poem.id === poems[currentIndex]?.id}"><img class="poem-thumb" src="./${escapeHTML(poem.thumbnail)}" alt="" loading="lazy" decoding="async" /><span class="poem-row-copy"><strong>${escapeHTML(poem.title)}</strong><small>${escapeHTML(poem.author)}</small></span><em>${favorites.has(poem.id) ? '已藏' : poem.featured ? '精选' : ''}</em></button>`).join('')}</section>`).join('')
     : `<p class="empty-state">${filters.collection === 'favorites' && !favorites.size ? '还没有收藏。<br>在喜欢的诗页轻点「藏」，留给下次重读。' : '没有找到相符的诗。<br>试试其他诗句，或切换分类。'}</p>`;
 }
 function openLibrary(collection) {
-  if (collection) { filters = { query: '', category: 'all', collection }; $('#searchInput').value = ''; }
+  if (collection) { filters = { ...ALL_POEMS, collection }; $('#searchInput').value = ''; }
   renderLibrary(); $('#library').showModal();
 }
 async function openNotes(id) {
@@ -144,20 +214,38 @@ async function init() {
   try {
     const catalog = await fetchJSON('./data/reader/catalog.json');
     if (!Array.isArray(catalog.poems) || !catalog.poems.length) throw new Error('Empty catalog');
-    poems = catalog.poems;
-    favorites = migrateFavorites(storage.read(keys.favorites, null), storage.read('tang-favorites', []), poems);
+    catalogPoems = catalog.poems;
+    favorites = migrateFavorites(storage.read(keys.favorites, null), storage.read('tang-favorites', []), catalogPoems);
     storage.write(keys.favorites, [...favorites]);
+    readingProgress = sanitizeReadingProgress(storage.read(keys.progress, null), catalogPoems);
+    const linkedPoem = location.hash.startsWith('#p=') || location.hash.startsWith('#poem=');
+    readingScope = linkedPoem ? { ...ALL_POEMS } : sanitizeReadingScope(storage.read(keys.scope, null));
+    poems = filterPoems(catalogPoems, readingScope, favorites);
+    if (!poems.length) { poems = catalogPoems; readingScope = { ...ALL_POEMS }; }
+    filters = { ...readingScope }; $('#searchInput').value = filters.query;
     currentIndex = initialIndex(poems, storage.read(keys.position, ''), location.hash);
-    shells = poems.map(poem => { const element = document.createElement('article'); element.className = 'poem-page'; element.dataset.id = poem.id; element.setAttribute('aria-label', poem.title); return element; });
-    pages.replaceChildren(...shells);
-    const themes = [...new Set(poems.map(p => p.theme))];
-    const sections = [...new Set(poems.map(p => p.section))];
+    rebuildPages();
+    const themes = [...new Set(catalogPoems.map(p => p.theme))];
+    const sections = [...new Set(catalogPoems.map(p => p.section))];
     $('#categorySelect').innerHTML = `<option value="all">全部分类</option><optgroup label="体裁">${sections.map(value => `<option>${escapeHTML(value)}</option>`).join('')}</optgroup><optgroup label="主题">${themes.map(value => `<option>${escapeHTML(value)}</option>`).join('')}</optgroup>`;
-    $('#homeCount').textContent = `${poems.length} 首 · ${poems.filter(p => p.dedicatedArt).length} 幅画笺`;
+    const authorCounts = new Map();
+    for (const poem of catalogPoems) authorCounts.set(poem.author, (authorCounts.get(poem.author) || 0) + 1);
+    $('#authorSelect').innerHTML = `<option value="all">全部作者</option>${[...authorCounts].sort(([a], [b]) => a.localeCompare(b, 'zh-Hans-CN')).map(([author, count]) => `<option value="${escapeHTML(author)}">${escapeHTML(author)} · ${count} 首</option>`).join('')}`;
+    $('#homeCount').textContent = `${catalogPoems.length} 首 · ${catalogPoems.filter(p => p.dedicatedArt).length} 幅画笺`;
     for (const id of ['startReading', 'homeLibrary', 'homeFeatured']) $(`#${id}`).disabled = false;
     $('#startReading').textContent = currentIndex ? '续读' : '入卷';
+    if (!extras) extras = setupReadingExtras({
+      getCatalog: () => catalogPoems, getCurrentPoem: () => poems[currentIndex],
+      loadPoem: id => loader.load(id), openPoem: id => openPoem(id),
+      notice: message => { $('#readerStatus').textContent = message; }
+    });
     updateState();
-    if (location.hash.startsWith('#p=') || location.hash.startsWith('#poem=')) enterReader();
+    if (linkedPoem) {
+      enterReader();
+      // A shared link is an entry point. Later reloads resume the user's new position.
+      history.replaceState(null, '', `${location.pathname}${location.search}`);
+      storage.write(keys.scope, readingScope);
+    }
     if (location.hash === '#library') openLibrary('all');
   } catch {
     $('#homeCount').textContent = '诗库暂未打开';
@@ -176,11 +264,15 @@ $('#manageFavorites').addEventListener('click', () => { $('#settings').close(); 
 $('#revealControls').addEventListener('click', () => { setControls(true); $('#openLibrary').focus(); });
 $('#previousPoem').addEventListener('click', () => goTo(currentIndex - 1));
 $('#nextPoem').addEventListener('click', () => goTo(currentIndex + 1));
+$('#leaveReadingScope').addEventListener('click', () => openReadingScope(ALL_POEMS));
 $('#favoriteButton').addEventListener('click', () => {
   const id = poems[currentIndex]?.id; if (!id) return;
   if (favorites.has(id)) favorites.delete(id); else favorites.add(id);
-  storage.write(keys.favorites, [...favorites]); updateState();
-  $('#readerStatus').textContent = favorites.has(id) ? '已收藏' : '已取消收藏';
+  storage.write(keys.favorites, [...favorites]);
+  const wasFavoriteScope = readingScope.collection === 'favorites';
+  if (wasFavoriteScope) openReadingScope(readingScope, id);
+  else updateState();
+  $('#readerStatus').textContent = favorites.has(id) ? '已收藏' : wasFavoriteScope && isAllPoems(readingScope) ? '已取消收藏，当前诗集已空，已回到全库。' : '已取消收藏';
 });
 $('#toggleNotes').addEventListener('click', () => changeSetting('notes', !settings.notes));
 $('#settingNotes').addEventListener('change', event => changeSetting('notes', event.target.checked));
@@ -190,15 +282,21 @@ for (const button of document.querySelectorAll('[data-close]')) button.addEventL
 for (const dialog of document.querySelectorAll('dialog')) dialog.addEventListener('click', event => { if (event.target === dialog) { const r = dialog.getBoundingClientRect(); if (event.clientX < r.left || event.clientX > r.right || event.clientY < r.top || event.clientY > r.bottom) dialog.close(); } });
 $('#searchInput').addEventListener('input', event => { filters.query = event.target.value; renderLibrary(); });
 $('#categorySelect').addEventListener('change', event => { filters.category = event.target.value; renderLibrary(); });
+$('#authorSelect').addEventListener('change', event => { filters.author = event.target.value; renderLibrary(); });
 $('.collection-row').addEventListener('click', event => { const button = event.target.closest('[data-collection]'); if (button) { filters.collection = button.dataset.collection; renderLibrary(); } });
-$('#poemList').addEventListener('click', event => { const row = event.target.closest('[data-id]'); if (row) { $('#library').close(); enterReader(poems.findIndex(poem => poem.id === row.dataset.id)); } });
-let pointerStart;
-pages.addEventListener('pointerdown', event => { pointerStart = [event.clientX, event.clientY]; });
+$('#poemList').addEventListener('click', event => { const row = event.target.closest('[data-id]'); if (row) { $('#library').close(); openReadingScope(filters, row.dataset.id); } });
+let pointerStart, pointerCancelled = false;
+pages.addEventListener('pointerdown', event => { pointerStart = { x: event.clientX, y: event.clientY }; pointerCancelled = !event.isPrimary; }, { passive: true });
+pages.addEventListener('pointermove', event => {
+  if (pointerStart && Math.hypot(event.clientX - pointerStart.x, event.clientY - pointerStart.y) >= 10) pointerCancelled = true;
+}, { passive: true });
+pages.addEventListener('pointercancel', () => { pointerCancelled = true; });
 pages.addEventListener('click', event => {
   const retry = event.target.closest('[data-retry]'); if (retry) { void mountPage(Number(retry.dataset.retry)); return; }
   const notes = event.target.closest('[data-notes]'); if (notes) { void openNotes(notes.dataset.notes); return; }
-  if (event.target.closest('button') || window.getSelection()?.toString()) return;
-  if (!pointerStart || Math.hypot(event.clientX - pointerStart[0], event.clientY - pointerStart[1]) < 10) setControls(!controlsVisible);
+  const interactive = Boolean(event.target.closest('button, a, input, select, textarea, [role="button"]'));
+  if (isReadingSurfaceTap({ start: pointerStart, end: { x: event.clientX, y: event.clientY }, cancelled: pointerCancelled, interactive, selection: window.getSelection()?.toString() })) setControls(!controlsVisible);
+  pointerStart = null;
 });
 let frame;
 pages.addEventListener('scroll', () => {
@@ -207,7 +305,7 @@ pages.addEventListener('scroll', () => {
     if (homeVisible || !poems.length) return;
     if (pages.clientWidth !== alignedWidth) { alignPage(); return; }
     const index = Math.max(0, Math.min(poems.length - 1, Math.round(pages.scrollLeft / pages.clientWidth)));
-    if (index !== currentIndex) { currentIndex = index; updateState(); }
+    if (index !== currentIndex) { saveReadingProgress(); currentIndex = index; updateState(); }
   });
 }, { passive: true });
 window.addEventListener('keydown', event => {
@@ -215,7 +313,16 @@ window.addEventListener('keydown', event => {
   if (event.key === 'ArrowRight' || event.key === 'ArrowLeft') { event.preventDefault(); goTo(currentIndex + (event.key === 'ArrowRight' ? 1 : -1)); }
   if (event.key === 'Escape') { setControls(true); $('#openLibrary').focus(); }
 });
-new ResizeObserver(() => { if (poems.length) { alignPage(); layoutMountedPages(); } }).observe(pages);
+new ResizeObserver(() => { if (poems.length) { alignPage(); layoutMountedPages({ remember: false }); } }).observe(pages);
 document.fonts.ready.then(layoutMountedPages);
+document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'hidden') saveReadingProgress(); });
+window.addEventListener('pagehide', saveReadingProgress);
+window.addEventListener('hashchange', () => {
+  if (!catalogPoems.length) return;
+  if (location.hash.startsWith('#p=') || location.hash.startsWith('#poem=')) {
+    openPoem(catalogPoems[initialIndex(catalogPoems, '', location.hash)].id);
+    history.replaceState(null, '', `${location.pathname}${location.search}`);
+  } else if (location.hash === '#library' && !$('#library').open) openLibrary('all');
+});
 applySettings();
 void init();

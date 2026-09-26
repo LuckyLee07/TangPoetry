@@ -254,6 +254,7 @@ body[data-paper="sage"] { --paper: #e8eee5; --paper-deep: #dce5d6; --paper-glass
 .topbar { top: max(20px, env(safe-area-inset-top)); }
 .bottombar { bottom: max(20px, env(safe-area-inset-bottom)); display: grid; grid-template-columns: 1fr auto 1fr; }
 .bottombar .page-navigation { grid-column: 2; }
+.bottombar .scope-return { grid-column: 1; justify-self: start; min-height: 44px; padding: 0 4px; color: var(--ink-soft); font: 12px var(--sans); white-space: nowrap; }
 .bottombar > .text-button { grid-column: 3; justify-self: end; }
 [data-visible="true"] { opacity: 1; pointer-events: auto; }
 .top-actions { display: flex; align-items: center; gap: 10px; }
@@ -265,6 +266,8 @@ body[data-paper="sage"] { --paper: #e8eee5; --paper-deep: #dce5d6; --paper-glass
 .page-navigation { display: flex; align-items: center; }
 .page-navigation button { width: 32px; min-height: 44px; font-size: 24px; }
 .page-mark { color: var(--ink-soft); font: 11px var(--sans); white-space: nowrap; font-variant-numeric: tabular-nums; }
+.page-position { display: grid; justify-items: center; gap: 4px; }
+.scope-label { max-width: 90px; color: var(--ink-soft); font: 10px var(--sans); text-overflow: ellipsis; overflow: hidden; white-space: nowrap; }
 .reveal-button { position: absolute; z-index: 28; bottom: max(20px, env(safe-area-inset-bottom)); left: calc(50% - 25px); width: 50px; color: var(--ink-soft); }
 .pages { display: flex; height: 100%; width: 100%; overflow-x: auto; overflow-y: hidden; scroll-snap-type: x mandatory; scrollbar-width: none; overscroll-behavior-x: contain; }
 .pages::-webkit-scrollbar { display: none; }

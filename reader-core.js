@@ -27,12 +27,13 @@ export function normalizeSearch(value) {
   return String(value || "").normalize("NFKC").toLocaleLowerCase().replace(/\s+/g, "").replace(/[，。！？；、,.!?;·]/g, "");
 }
 
-export function filterPoems(poems, { query = "", category = "all", collection = "all" } = {}, favorites = new Set()) {
+export function filterPoems(poems, { query = "", category = "all", collection = "all", author = "all" } = {}, favorites = new Set()) {
   const needle = normalizeSearch(query);
   return poems.filter(poem =>
     (collection !== "featured" || poem.featured) &&
     (collection !== "favorites" || favorites.has(poem.id)) &&
     (category === "all" || poem.theme === category || poem.section === category) &&
+    (author === "all" || poem.author === author) &&
     (!needle || normalizeSearch(poem.searchText).includes(needle))
   );
 }

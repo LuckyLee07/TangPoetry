@@ -1,0 +1,21 @@
+.home-screen { grid-template-rows: 1fr auto auto auto; }
+.daily-poem { position: relative; z-index: 6; display: grid; gap: 6px; padding: 12px 8px; margin-top: 12px; text-align: center; min-height: 60px; }
+.daily-poem small { font: 11px var(--sans); color: #655b4d; letter-spacing: .18em; }
+.daily-poem span { font: 17px/1.5 var(--serif); overflow-wrap: anywhere; }
+.home-meta { flex-wrap: wrap; padding: 10px 0 16px; }
+.extras-hint { font: 12px/1.7 var(--sans); color: #655b4d; }
+.card-sheet { height: 88dvh; overflow: hidden; }
+.card-sheet[open] { display: grid; grid-template-rows: auto auto minmax(0, 1fr) auto; }
+.card-sheet .sheet-header { margin-bottom: 8px; }
+.card-preview { overflow: auto; min-height: 0; }
+.card-preview img { display: block; width: 100%; height: auto; }
+.card-status { font: 12px/1.7 var(--sans); color: #655b4d; }
+.card-actions { display: flex; gap: 12px; padding-top: 12px; justify-content: center; }
+.card-actions a { text-decoration: none; }
+.gentle-motion { position: absolute; z-index: 2; inset: 10.5% 0 66.5%; pointer-events: none; overflow: hidden; }
+.gentle-motion i { position: absolute; top: -5px; left: var(--x); width: 5px; height: 2px; border-radius: 90% 10% 90% 10%; background: #ab6959; animation: quiet-fall var(--duration) var(--delay) linear infinite; opacity: 0; }
+.gentle-motion.leaves i { background: #52664a; }
+.gentle-motion.snow i { width: 2.5px; height: 2.5px; background: #fff; border-radius: 50%; }
+@keyframes quiet-fall { 0% { transform: translate(-8px,0) rotate(0); opacity: 0; } 35% { opacity: .32; } 65% { opacity: .32; } 100% { transform: translate(14px,200px) rotate(170deg); opacity: 0; } }
+@media (max-height: 600px) { .daily-poem { padding: 4px; min-height: 48px; } .home-meta { font-size: 10px; gap: 4px; } .home-copy { margin-top: 0; } .home-copy h1 { font-size: 30px; } }
+@media (prefers-reduced-motion: reduce) { .gentle-motion { display: none; } }

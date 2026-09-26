@@ -11,39 +11,15 @@ extension ReaderSettings {
     }
 }
 
-private enum ArtworkCache {
-    static let cache: NSCache<NSString, UIImage> = {
-        let result = NSCache<NSString, UIImage>()
-        result.countLimit = 16
-        result.totalCostLimit = 24 * 1024 * 1024
-        return result
-    }()
-    static func image(_ path: String) -> UIImage? {
-        if let cached = cache.object(forKey: path as NSString) { return cached }
-        guard let url = try? BundledContent.url(path), let image = UIImage(contentsOfFile: url.path) else { return nil }
-        cache.setObject(image, forKey: path as NSString, cost: Int(image.size.width * image.size.height * 4))
-        return image
-    }
-}
-
-struct Artwork: View {
-    let path: String
-
-    var body: some View {
-        if let image = ArtworkCache.image(path) {
-            Image(uiImage: image).resizable().scaledToFill().accessibilityHidden(true)
-        }
-        else { Color.clear }
-    }
-}
-
 private enum ReaderSheet: String, Identifiable {
-    case library, settings
+    case library, settings, share
     var id: String { rawValue }
 }
 
 struct ReaderView: View {
     @EnvironmentObject private var store: PoemStore
+    @Environment(\.scenePhase) private var scenePhase
+    @Environment(\.dynamicTypeSize) private var dynamicTypeSize
     @State private var home = true
     @State private var controls = true
     @State private var sheet: ReaderSheet?
@@ -66,38 +42,64 @@ struct ReaderView: View {
         .sheet(item: $sheet) { item in
             switch item {
             case .library:
-                LibraryView(collection: collection) { id in
-                    store.selectedID = id
+                LibraryView(collection: collection) { id, scope in
+                    store.openReadingScope(scope, selecting: id)
                     home = false
                     controls = true
                     sheet = nil
                 }
             case .settings:
-                SettingsView {
+                SettingsView(openFavorites: {
                     collection = "favorites"
                     sheet = .library
+                }, sharePoem: { sheet = .share })
+            case .share:
+                if let poem = store.poems.first(where: { $0.id == store.selectedID }) {
+                    PoemCardView(poem: poem)
                 }
             }
+        }
+        .onChange(of: scenePhase) { _, phase in
+            if phase != .active { store.flushReadingProgress() }
+        }
+        .onChange(of: home) { _, isHome in
+            if isHome { store.flushReadingProgress() }
         }
     }
 
     private var cover: some View {
         GeometryReader { geometry in
+            Group {
+                if dynamicTypeSize.isAccessibilitySize || (geometry.size.height < 650 && dynamicTypeSize >= .xxLarge) {
+                    ScrollView {
+                        VStack(spacing: 24) {
+                            Text("唐诗三百首").font(.custom("STSongti-SC-Regular", size: 32, relativeTo: .largeTitle))
+                                .multilineTextAlignment(.center).accessibilityAddTraits(.isHeader)
+                            DailyPoemButton(poems: store.poems, open: openDailyPoem)
+                            Text("\(store.poems.count) 首 · 一页一诗，一诗一画").font(.caption)
+                            VStack(spacing: 16) { coverButtons }.controlSize(.large).buttonBorderShape(.capsule)
+                        }.frame(maxWidth: .infinity).padding(28)
+                    }
+                } else {
             ZStack(alignment: .topTrailing) {
                 VStack(alignment: .trailing, spacing: 16) {
-                    Text("唐\n诗\n三\n百\n首").font(.custom("STSongti-SC-Regular", size: 40, relativeTo: .largeTitle)).lineSpacing(4)
+                    Text(dynamicTypeSize.isAccessibilitySize ? "唐诗三百首" : "唐\n诗\n三\n百\n首")
+                        .font(.custom("STSongti-SC-Regular", size: 40, relativeTo: .largeTitle)).lineSpacing(4)
+                        .accessibilityLabel("唐诗三百首").accessibilityAddTraits(.isHeader)
                     Text("诗").font(.title3).padding(8).background(Color(red: 0.63, green: 0.23, blue: 0.15), in: RoundedRectangle(cornerRadius: 5)).foregroundStyle(.white)
                 }.padding(.top, 42).padding(.trailing, 42)
                 VStack(spacing: 20) {
                     Spacer()
+                    DailyPoemButton(poems: store.poems, open: openDailyPoem)
                     Text("孙洙选本 · 一页一诗，一诗一画").font(.caption).foregroundStyle(.secondary)
                     Text("\(store.poems.count) 首 · \(store.poems.filter(\.dedicatedArt).count) 幅画笺").font(.caption)
-                    HStack(spacing: 12) {
-                        Button(store.currentIndex == 0 ? "入卷" : "续读") { home = false }.buttonStyle(.borderedProminent)
-                        Button("目录") { collection = "all"; sheet = .library }.buttonStyle(.bordered)
-                        Button("精选") { collection = "featured"; sheet = .library }.buttonStyle(.bordered)
+                    ViewThatFits(in: .horizontal) {
+                        HStack(spacing: 12) { coverButtons }
+                        VStack(spacing: 12) { coverButtons }
                     }.controlSize(.large).buttonBorderShape(.capsule)
                 }.padding(.horizontal, 24).padding(.bottom, 34)
+            }
+                }
             }
             .frame(width: geometry.size.width, height: geometry.size.height)
             .background {
@@ -111,17 +113,29 @@ struct ReaderView: View {
         }
     }
 
+    private func openDailyPoem(_ id: String) {
+        store.openPoem(id)
+        home = false
+        controls = true
+    }
+
+    @ViewBuilder private var coverButtons: some View {
+        Button(store.currentIndex == 0 ? "入卷" : "续读") { home = false }.buttonStyle(.borderedProminent)
+        Button("目录") { collection = "all"; sheet = .library }.buttonStyle(.bordered)
+        Button("精选") { collection = "featured"; sheet = .library }.buttonStyle(.bordered)
+    }
+
     private var reader: some View {
         // Keep the original safe reading area for typography and controls, while
         // the paging container itself fills the screen so its artwork is not clipped.
         GeometryReader { readingArea in
             ZStack {
                 TabView(selection: $store.selectedID) {
-                    ForEach(Array(store.poems.enumerated()), id: \.element.id) { index, poem in
+                    ForEach(Array(store.readingPoems.enumerated()), id: \.element.id) { index, poem in
                         Group {
-                            if abs(index - store.currentIndex) <= 1 {
+                            if abs(index - store.readingIndex) <= 1 {
                                 PoemPageView(poem: poem, readingSize: readingArea.size,
-                                             readingInsets: readingArea.safeAreaInsets) { controls.toggle() }
+                                             readingInsets: readingArea.safeAreaInsets, motionActive: sheet == nil) { controls.toggle() }
                             } else { store.settings.paperColor }
                         }.tag(poem.id)
                     }
@@ -135,12 +149,26 @@ struct ReaderView: View {
                             tool("Aa", label: "阅读设置") { sheet = .settings }
                             tool(store.favorites.contains(store.selectedID) ? "已藏" : "藏", label: store.favorites.contains(store.selectedID) ? "取消收藏此诗" : "收藏此诗") { store.toggleFavorite(store.selectedID) }
                         }
+                        if !store.readingScope.isAll {
+                            Menu {
+                                Button("回到全库", action: store.returnToLibraryScope)
+                            } label: {
+                                HStack(spacing: 6) {
+                                    Text(store.readingScopeLabel).lineLimit(1)
+                                    Image(systemName: "chevron.down")
+                                }.font(.system(size: 12)).padding(.horizontal, 12).frame(minHeight: 44)
+                                    .background(store.settings.paperColor.opacity(0.94), in: Capsule())
+                            }
+                            .accessibilityLabel("阅读范围：\(store.readingScopeLabel)，共 \(store.readingPoems.count) 首")
+                            .accessibilityHint("双击可回到全库")
+                        }
                         Spacer()
                         ZStack {
                             HStack(spacing: 2) {
-                                Button { store.turn(-1) } label: { Image(systemName: "chevron.left").frame(width: 44, height: 44) }.disabled(store.currentIndex == 0).accessibilityLabel("上一首")
-                                Text("\(store.currentIndex + 1) / \(store.poems.count)").font(.caption2).monospacedDigit().fixedSize()
-                                Button { store.turn(1) } label: { Image(systemName: "chevron.right").frame(width: 44, height: 44) }.disabled(store.currentIndex == store.poems.count - 1).accessibilityLabel("下一首")
+                                Button { store.turn(-1) } label: { Image(systemName: "chevron.left").font(.system(size: 17)).frame(width: 44, height: 44) }.disabled(store.readingIndex == 0).accessibilityLabel("上一首")
+                                Text("\(store.readingIndex + 1) / \(store.readingPoems.count)").font(.system(size: 11)).monospacedDigit().fixedSize()
+                                    .accessibilityLabel("\(store.readingScopeLabel)，第 \(store.readingIndex + 1) 首，共 \(store.readingPoems.count) 首")
+                                Button { store.turn(1) } label: { Image(systemName: "chevron.right").font(.system(size: 17)).frame(width: 44, height: 44) }.disabled(store.readingIndex == store.readingPoems.count - 1).accessibilityLabel("下一首")
                             }
                             HStack {
                                 Spacer()
@@ -165,6 +193,7 @@ struct PoemPageView: View {
     let poem: PoemSummary
     let readingSize: CGSize
     let readingInsets: EdgeInsets
+    let motionActive: Bool
     let toggleControls: () -> Void
     @State private var detail: PoemDetail?
     @State private var failed = false
@@ -183,36 +212,17 @@ struct PoemPageView: View {
             )
             ZStack(alignment: .topLeading) {
                 Artwork(path: poem.image).frame(width: geometry.size.width, height: geometry.size.height).clipped()
+                    .contentShape(Rectangle()).onTapGesture(perform: toggleControls)
+                GentleArtworkMotion(poemID: poem.id, active: motionActive && !showNotes && store.selectedID == poem.id)
                 ZStack(alignment: .top) {
                     Text(poem.section).font(.caption2).foregroundStyle(.secondary)
                         .frame(maxWidth: .infinity, alignment: .leading).padding(.top, 68).padding(.horizontal, layout.horizontalPadding)
+                        .allowsHitTesting(false)
                     VStack(spacing: 0) {
                         if let detail {
-                            ScrollView {
-                                VStack(spacing: layout.bodySpacing) {
-                                    VStack(spacing: layout.headerSpacing) {
-                                        Text(poem.title).font(.custom("STSongti-SC-Regular", fixedSize: layout.titleSize))
-                                            .multilineTextAlignment(.center).fixedSize(horizontal: false, vertical: true)
-                                        Text("唐 · \(poem.author)").font(.system(size: layout.authorSize)).foregroundStyle(.secondary)
-                                    }
-                                    VStack(spacing: layout.lineSpacing) {
-                                        ForEach(detail.rubyLines.indices, id: \.self) { index in
-                                            VerseLine(tokens: detail.rubyLines[index], fontSize: layout.fontSize)
-                                        }
-                                    }
-                                    if hasNote {
-                                        Button { showNotes = true } label: {
-                                            VStack(alignment: .leading, spacing: 8) {
-                                                Divider()
-                                                HStack { Text(detail.noteTitle).font(.caption.weight(.medium)); Spacer(); Text("展开").font(.caption2) }
-                                                Text(detail.note).font(.caption).lineSpacing(4).lineLimit(2).foregroundStyle(.secondary)
-                                            }.padding(.top, layout.noteTopPadding).padding(.bottom, 12).frame(maxWidth: .infinity, alignment: .leading)
-                                                .fixedSize(horizontal: false, vertical: true)
-                                        }.buttonStyle(.plain)
-                                            .accessibilityLabel("查看\(poem.title)的完整诗意和注释")
-                                    }
-                                }.frame(maxWidth: .infinity).padding(.bottom, 20)
-                            }.onTapGesture(perform: toggleControls)
+                            ResumablePoemText(poem: poem, detail: detail, layout: layout,
+                                              width: readingSize.width, showsNote: hasNote,
+                                              openNotes: { showNotes = true }, toggleControls: toggleControls)
                         } else if failed {
                             VStack { Text("这一页暂时未能打开。"); Button("重试此页") { retry += 1 } }.frame(maxWidth: .infinity, maxHeight: .infinity)
                         } else { ProgressView("展卷中…").frame(maxWidth: .infinity, maxHeight: .infinity) }
@@ -304,13 +314,21 @@ struct VerseGrid: Layout {
         return CGSize(width: width, height: CGFloat(rowCount) * cellHeight + CGFloat(rowCount - 1) * rowSpacing)
     }
 
+    static func rowOrigin(width: CGFloat, count: Int, cellWidth: CGFloat, hangingWidth: CGFloat) -> CGFloat {
+        // At the largest accessibility sizes even a single centered glyph may
+        // leave too little room for its punctuation. Shift only that overflow.
+        max(0, min((width - CGFloat(count) * cellWidth) / 2,
+                   width - CGFloat(count) * cellWidth - hangingWidth))
+    }
+
     func placeSubviews(in bounds: CGRect, proposal: ProposedViewSize, subviews: Subviews, cache: inout ()) {
         guard !subviews.isEmpty else { return }
         let columns = columns(for: bounds.width, count: subviews.count)
         let cellHeight = subviews.map { $0.sizeThatFits(.unspecified).height }.max() ?? 0
         for start in stride(from: 0, to: subviews.count, by: columns) {
             let count = min(columns, subviews.count - start)
-            let x = bounds.midX - CGFloat(count) * cellWidth / 2
+            let x = bounds.minX + Self.rowOrigin(width: bounds.width, count: count,
+                                                 cellWidth: cellWidth, hangingWidth: hangingWidth)
             let y = bounds.minY + CGFloat(start / columns) * (cellHeight + rowSpacing)
             for offset in 0..<count {
                 subviews[start + offset].place(

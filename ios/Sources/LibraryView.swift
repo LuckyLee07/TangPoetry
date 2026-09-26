@@ -5,12 +5,15 @@ struct LibraryView: View {
     @Environment(\.dismiss) private var dismiss
     @State private var query = ""
     @State private var category = "all"
+    @State private var author = "all"
     @State var collection: String
-    let select: (String) -> Void
+    let select: (String, ReadingScope) -> Void
 
+    private var scope: ReadingScope { ReadingScope(collection: collection, category: category, author: author, query: query) }
     private var results: [PoemSummary] {
-        store.poems.filter { PoemFilter.matches($0, query: query, category: category, collection: collection, favorites: store.favorites) }
+        scope.poems(in: store.poems, favorites: store.favorites)
     }
+    private var authors: [String] { Array(Set(store.poems.map(\.author))).sorted { $0.localizedStandardCompare($1) == .orderedAscending } }
     private var sections: [String] {
         var seen = Set<String>()
         return store.poems.map(\.section).filter { seen.insert($0).inserted }
@@ -28,14 +31,9 @@ struct LibraryView: View {
                 Picker("诗集范围", selection: $collection) {
                     Text("全部").tag("all"); Text("精选").tag("featured"); Text("收藏").tag("favorites")
                 }.pickerStyle(.segmented).padding(.horizontal).padding(.top, 8)
-                HStack {
-                    Text("\(results.count) 首").font(.caption).foregroundStyle(.secondary)
-                    Spacer()
-                    Picker("分类", selection: $category) {
-                        Text("全部分类").tag("all")
-                        Section("体裁") { ForEach(sections, id: \.self) { Text($0).tag($0) } }
-                        Section("主题") { ForEach(Array(Set(store.poems.map(\.theme))).sorted(), id: \.self) { Text($0).tag($0) } }
-                    }.pickerStyle(.menu)
+                ViewThatFits(in: .horizontal) {
+                    HStack { resultCount; Spacer(); categoryPicker; authorPicker }
+                    VStack(alignment: .leading, spacing: 4) { resultCount; categoryPicker; authorPicker }
                 }.padding(.horizontal)
                 if results.isEmpty {
                     ContentUnavailableView(collection == "favorites" && store.favorites.isEmpty ? "还没有收藏" : "没有找到相符的诗", systemImage: "book", description: Text("试试其他诗句或分类；在诗页轻点「藏」，留给下次重读。"))
@@ -44,7 +42,7 @@ struct LibraryView: View {
                         ForEach(groupedResults, id: \.section) { group in
                             Section(group.section) {
                                 ForEach(group.poems) { poem in
-                                    Button { select(poem.id) } label: {
+                                    Button { select(poem.id, scope) } label: {
                                         HStack(spacing: 14) {
                                             Artwork(path: poem.thumbnail).frame(width: 48, height: 64).clipped().clipShape(RoundedRectangle(cornerRadius: 4))
                                             VStack(alignment: .leading, spacing: 6) {
@@ -69,12 +67,35 @@ struct LibraryView: View {
             .toolbar { ToolbarItem(placement: .confirmationAction) { Button("完成") { dismiss() } } }
         }.presentationDragIndicator(.visible)
     }
+
+    private var resultCount: some View {
+        Text("\(results.count) 首").font(.caption).foregroundStyle(.secondary)
+            .accessibilityLabel("当前筛选共 \(results.count) 首")
+    }
+
+    private var categoryPicker: some View {
+        Picker("分类", selection: $category) {
+            Text("全部分类").tag("all")
+            Section("体裁") { ForEach(sections, id: \.self) { Text($0).tag($0) } }
+            Section("主题") { ForEach(Array(Set(store.poems.map(\.theme))).sorted(), id: \.self) { Text($0).tag($0) } }
+        }.pickerStyle(.menu)
+    }
+
+    private var authorPicker: some View {
+        Picker("作者", selection: $author) {
+            Text("全部作者").tag("all")
+            ForEach(authors, id: \.self) { name in
+                Text("\(name) · \(store.poems.filter { $0.author == name }.count) 首").tag(name)
+            }
+        }.pickerStyle(.menu)
+    }
 }
 
 struct SettingsView: View {
     @EnvironmentObject private var store: PoemStore
     @Environment(\.dismiss) private var dismiss
     let openFavorites: () -> Void
+    let sharePoem: () -> Void
     var body: some View {
         NavigationStack {
             Form {
@@ -87,11 +108,15 @@ struct SettingsView: View {
                         Text("暖纸").tag("warm"); Text("素白").tag("ivory"); Text("青笺").tag("sage")
                     }
                 }
-                Section { Button("我的收藏 · \(store.favorites.count) 首", action: openFavorites) }
+                Section {
+                    Button("保存或分享当前诗笺", action: sharePoem)
+                    Button("我的收藏 · \(store.favorites.count) 首", action: openFavorites)
+                }
+                GentleMotionSetting()
                 Section("关于唐诗画笺") {
                     Text("一页一诗，一诗一画。")
                     Text("所有诗词与插画均内置，可离线阅读。收藏、设置与阅读位置仅保存在当前设备，无需账号，无广告、无统计追踪。")
-                    Text("诗文按体裁分卷，同一体裁内保留选本顺序，部分题名使用常用别名。诗文与简注持续校订。版本 0.4.0")
+                    Text("诗文按体裁分卷，同一体裁内保留选本顺序，部分题名使用常用别名。诗文与简注持续校订。版本 0.5.0")
                 }.font(.footnote).foregroundStyle(.secondary)
             }.scrollContentBackground(.hidden).background(store.settings.paperColor)
             .navigationTitle("阅读设置").navigationBarTitleDisplayMode(.inline)

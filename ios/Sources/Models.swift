@@ -84,11 +84,51 @@ enum PoemFilter {
             .components(separatedBy: .whitespacesAndNewlines.union(CharacterSet(charactersIn: "，。！？；、,.!?;·"))).joined()
     }
 
-    static func matches(_ poem: PoemSummary, query: String, category: String, collection: String, favorites: Set<String>) -> Bool {
+    static func matches(_ poem: PoemSummary, query: String, category: String, collection: String, favorites: Set<String>, author: String = "all") -> Bool {
         (collection != "featured" || poem.featured) &&
         (collection != "favorites" || favorites.contains(poem.id)) &&
         (category == "all" || category == poem.theme || category == poem.section) &&
+        (author == "all" || author == poem.author) &&
         (query.isEmpty || normalize(poem.searchText).contains(normalize(query)))
+    }
+}
+
+/// A live catalogue selection, rather than a frozen list of poem IDs.
+/// Favorites therefore remain accurate when a reader adds or removes a bookmark.
+struct ReadingScope: Codable, Equatable {
+    var collection = "all"
+    var category = "all"
+    var author = "all"
+    var query = ""
+
+    static let all = ReadingScope()
+    var isAll: Bool { self == .all }
+    var label: String {
+        var parts: [String] = []
+        if collection == "favorites" { parts.append("我的收藏") }
+        if collection == "featured" { parts.append("精选") }
+        if category != "all" { parts.append(category) }
+        if author != "all" { parts.append(author) }
+        if !query.isEmpty { parts.append("搜索：\(query)") }
+        return parts.isEmpty ? "全库" : parts.joined(separator: " · ")
+    }
+
+    func poems(in catalog: [PoemSummary], favorites: Set<String>) -> [PoemSummary] {
+        catalog.filter {
+            PoemFilter.matches($0, query: query, category: category,
+                               collection: collection, favorites: favorites, author: author)
+        }
+    }
+}
+
+/// An index into the canonical verse lines survives font and screen-size changes.
+/// A nil line means the beginning, including the title and author.
+struct ReadingBookmark: Codable, Equatable {
+    var lineIndex: Int?
+
+    func validated(lineCount: Int) -> Self {
+        guard let lineIndex, lineCount > 0 else { return Self(lineIndex: nil) }
+        return Self(lineIndex: min(max(0, lineIndex), lineCount - 1))
     }
 }
 

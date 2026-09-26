@@ -1,4 +1,4 @@
-import { readingLayout } from './reader-core.js?v=0.4.0';
+import { readingLayout } from './reader-core.js?v=0.5.0';
 
 export const escapeHTML = value => String(value ?? '').replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
 

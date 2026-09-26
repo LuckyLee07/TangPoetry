@@ -1,0 +1,66 @@
+{
+  "version": "0.5.0",
+  "date": "2026-09-26",
+  "catalogPoems": 320,
+  "automated": {
+    "javascript": {
+      "passed": 14,
+      "failed": 0
+    },
+    "python": {
+      "passed": 6,
+      "failed": 0
+    },
+    "readerContent": {
+      "poems": 320,
+      "passed": true
+    },
+    "iosFullSuite": {
+      "passed": 25,
+      "failed": 0,
+      "device": "iPhone 17 / iOS 26.2",
+      "log": "/tmp/tangpoetry-v050-final-test.log"
+    },
+    "iosFinalBookmarkFix": {
+      "passed": 5,
+      "failed": 0,
+      "log": "/tmp/tangpoetry-v050-bookmark-test.log"
+    }
+  },
+  "packagedResources": {
+    "status": "passed",
+    "poems": 320,
+    "images": 641,
+    "imageBytes": 100705674,
+    "contentBytes": 101900861,
+    "unreferencedArt": 0,
+    "appIcon": {
+      "slots": 9,
+      "files": 8,
+      "marketingPixels": 1024,
+      "opaque": true
+    }
+  },
+  "artworkPipeline": {
+    "requests": 53,
+    "distinctPaintings": 50,
+    "elapsedSeconds": 0.6688555416185409,
+    "maximumAwaitedRequestSeconds": 0.016041916678659618,
+    "measurement": "resource pipeline only; not UI FPS, cold launch or process peak memory"
+  },
+  "uiChecks": {
+    "webScopedReading": "author Wang Wei + five-character quatrains: paging, refresh and return to library passed",
+    "webLongPoemResume": "Chang Hen Ge: return, reload and font 22 -> 30 -> 22 retain verse",
+    "iosLongPoemResume": "Xing Lu Nan III: return from next poem retains verse; after final race fix system font 8 increases to maximum and 8 decreases retain line 5",
+    "dailyPoem": "both clients select Xing Lu Nan III on local 2026-09-26",
+    "sharing": "native full-image preview and system activity panel opened; web Chang Hen Ge PNG1080x11180; no outbound share performed",
+    "motion": "web Chun Xiao current-page particles checked; modal pauses; setting restored off",
+    "accessibility": "native individual verse AX nodes verified; maximum system font cover, library and poem spotchecks passed"
+  },
+  "pending": [
+    "Valid signing identity and physical iPhone installation",
+    "Real-device frame rate, cold launch and peak process memory",
+    "VoiceOver spoken navigation and full accessibility size matrix",
+    "Editorial final review and App Store distribution materials"
+  ]
+}

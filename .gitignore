@@ -10,3 +10,6 @@ ios/Content/
 *.xcuserstate
 xcuserdata/
 DerivedData/
+ios/.content-build.lock
+ios/.Content-stage-*/
+ios/.Content.previous/

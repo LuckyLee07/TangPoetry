@@ -19,11 +19,15 @@ targets:
         buildPhase: resources
       - path: PrivacyInfo.xcprivacy
         buildPhase: resources
+      - path: Assets.xcassets
+        buildPhase: resources
     settings:
       base:
         PRODUCT_BUNDLE_IDENTIFIER: com.tangpoetry.reader
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription: 保存你选择的诗笺图片到相册。
         TARGETED_DEVICE_FAMILY: "1"
-        MARKETING_VERSION: "0.4.0"
+        MARKETING_VERSION: "0.5.0"
         CURRENT_PROJECT_VERSION: "1"
         GENERATE_INFOPLIST_FILE: YES
         INFOPLIST_KEY_CFBundleDisplayName: 唐诗画笺
