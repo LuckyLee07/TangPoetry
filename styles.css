@@ -281,7 +281,7 @@ body[data-paper="sage"] { --paper: #e8eee5; --paper-deep: #dce5d6; --paper-glass
 .verse-cell { position: relative; flex: 0 0 clamp(1em, calc((100cqw - var(--end-space)) / 7), 1.45em); text-align: center; }
 .verse-cell:last-child { margin-right: var(--end-space); }
 .verse-punctuation { position: absolute; left: calc(50% + .5em); top: 0; width: max-content; white-space: nowrap; }
-.note { position: relative; margin-top: var(--note-gap, 63px); border-top: 1px solid var(--line); padding-top: 12px; text-align: left; color: #655b4d; font-family: var(--sans); }
+.note { position: relative; margin-top: var(--note-gap, 98px); border-top: 1px solid var(--line); padding-top: 12px; text-align: left; color: #655b4d; font-family: var(--sans); }
 .note h3 { font-size: 12px; font-weight: 500; color: #4f4436; letter-spacing: .06em; margin: 0 0 6px; }
 .note p { margin: 0; font-size: 12px; line-height: 1.8; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; overflow: hidden; }
 .notes-off .note { display: none; }

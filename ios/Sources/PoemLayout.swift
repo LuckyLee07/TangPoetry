@@ -82,8 +82,8 @@ struct PoemLayout {
         let artworkTopFraction = max(topFraction, min(textStart ?? topFraction, 0.7))
         // Keep type fitting stable while moving the poem and its note independently.
         let typographyTop = max(minimumTop, size.height * artworkTopFraction - 25)
-        let preferredTop = max(minimumTop, typographyTop - 20)
-        let noteTopPadding = 12 + (typographyTop - preferredTop) + 15
+        let preferredTop = max(minimumTop, typographyTop - 45)
+        let noteTopPadding = 12 + (typographyTop - preferredTop) + 25
         let contentBottom = max(minimumTop, size.height - bottomReserve)
 
         // Mirror VerseGrid's cells and punctuation reserve. At accessibility sizes,

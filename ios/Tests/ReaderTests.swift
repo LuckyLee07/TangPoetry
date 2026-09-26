@@ -28,13 +28,13 @@ final class ReaderTests: XCTestCase {
         XCTAssertEqual(medium.length, .medium)
         XCTAssertEqual(ballad.length, .long)
         XCTAssertLessThan(fiveRegulated.contentTop, fiveQuatrain.contentTop)
-        XCTAssertEqual(fiveQuatrain.contentTop, 760 * 0.45 - 45, accuracy: 0.01)
-        XCTAssertEqual(fiveRegulated.contentTop, 760 * 0.39 - 45, accuracy: 0.01)
+        XCTAssertEqual(fiveQuatrain.contentTop, 760 * 0.45 - 70, accuracy: 0.01)
+        XCTAssertEqual(fiveRegulated.contentTop, 760 * 0.39 - 70, accuracy: 0.01)
         XCTAssertEqual(medium.contentTop, fiveRegulated.contentTop, accuracy: 0.01)
         XCTAssertEqual(ballad.contentTop, fiveRegulated.contentTop, accuracy: 0.01)
-        // The poem moves up 20pt while its inline note moves down 15pt.
+        // Relative to the type-fitting baseline, the poem is 45pt higher and the note 25pt lower.
         XCTAssertEqual(fiveQuatrain.contentTop + fiveQuatrain.noteTopPadding,
-                       760 * 0.45 - 25 + 12 + 15, accuracy: 0.01)
+                       760 * 0.45 - 25 + 12 + 25, accuracy: 0.01)
         XCTAssertLessThan(fiveRegulated.lineSpacing, fiveQuatrain.lineSpacing)
         XCTAssertGreaterThan(ballad.estimatedContentHeight, 760)
         XCTAssertGreaterThanOrEqual(ballad.fontSize, 18)
@@ -42,11 +42,11 @@ final class ReaderTests: XCTestCase {
 
     func testCompactPagesScrollWithinWhitespaceInsteadOfMovingOverArtwork() {
         let quatrain = layout(characters: 7, verses: 4, width: 320, height: 568)
-        let regulated = layout(characters: 7, verses: 8, width: 320, height: 568)
-        XCTAssertEqual(quatrain.contentTop, 568 * 0.45 - 45, accuracy: 0.01)
-        XCTAssertEqual(regulated.contentTop, 568 * 0.39 - 45, accuracy: 0.01)
+        let regulated = layout(characters: 7, verses: 8, width: 320, height: 500)
+        XCTAssertEqual(quatrain.contentTop, 568 * 0.45 - 70, accuracy: 0.01)
+        XCTAssertEqual(regulated.contentTop, 500 * 0.39 - 70, accuracy: 0.01)
         XCTAssertGreaterThanOrEqual(regulated.fontSize, 20)
-        XCTAssertGreaterThan(regulated.estimatedContentHeight, 568 - regulated.contentTop - 65)
+        XCTAssertGreaterThan(regulated.estimatedContentHeight, 500 - regulated.contentTop - 65)
         XCTAssertLessThanOrEqual(regulated.fontSize * (7 * 1.18 + 2), 320 - regulated.horizontalPadding * 2)
         let shortTitle = layout(characters: 5, verses: 8, width: 320, height: 650)
         let longTitle = layout(characters: 5, verses: 8, width: 320, height: 650,
@@ -56,7 +56,7 @@ final class ReaderTests: XCTestCase {
         XCTAssertGreaterThan(longTitle.estimatedContentHeight, shortTitle.estimatedContentHeight)
         let limitedHeight = layout(characters: 5, verses: 4, width: 320, height: 200)
         XCTAssertEqual(limitedHeight.contentTop, 100, accuracy: 0.01)
-        XCTAssertEqual(limitedHeight.noteTopPadding, 27, accuracy: 0.01)
+        XCTAssertEqual(limitedHeight.noteTopPadding, 37, accuracy: 0.01)
     }
 
     func testUserSizeAndDynamicTypeRetainAReadableScaledFloor() {
@@ -73,9 +73,9 @@ final class ReaderTests: XCTestCase {
         let lower = layout(characters: 5, verses: 4, textStart: 0.52)
         let aboveReadingArea = layout(characters: 5, verses: 4, textStart: 0.20)
         let belowPage = layout(characters: 5, verses: 4, textStart: 1)
-        XCTAssertEqual(lower.contentTop, 760 * 0.52 - 45, accuracy: 0.01)
-        XCTAssertEqual(aboveReadingArea.contentTop, 760 * 0.45 - 45, accuracy: 0.01)
-        XCTAssertEqual(belowPage.contentTop, 760 * 0.7 - 45, accuracy: 0.01)
+        XCTAssertEqual(lower.contentTop, 760 * 0.52 - 70, accuracy: 0.01)
+        XCTAssertEqual(aboveReadingArea.contentTop, 760 * 0.45 - 70, accuracy: 0.01)
+        XCTAssertEqual(belowPage.contentTop, 760 * 0.7 - 70, accuracy: 0.01)
         XCTAssertGreaterThanOrEqual(belowPage.fontSize, 22)
     }
 
