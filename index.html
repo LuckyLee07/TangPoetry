@@ -6,14 +6,14 @@
   <meta name="theme-color" content="#f6f1e6" />
   <meta name="description" content="一页一诗，一诗一画。安静地读唐诗。" />
   <title>唐诗三百首 · 诗画笺</title>
-  <link rel="stylesheet" href="./styles.css?v=0.3" />
+  <link rel="stylesheet" href="./styles.css?v=0.3.3" />
 </head>
 <body>
 <main class="reader" data-home="true" aria-label="唐诗三百首">
   <section class="home-screen" id="homeScreen" aria-label="唐诗三百首封面">
     <div class="home-art" aria-hidden="true"><img class="home-art-main" src="./assets/optimized/song-yuan-er-page.webp" alt="" /></div>
     <div class="home-copy"><h1>唐诗三百首<span class="home-seal" aria-hidden="true">诗</span></h1><span class="home-kicker">孙洙选本</span><p>熟读唐诗三百首，不会作诗也会吟。</p></div>
-    <div class="home-meta"><span id="homeCount">展卷中…</span><span>按原书顺序</span><span>诗画笺读</span></div>
+    <div class="home-meta"><span id="homeCount">展卷中…</span><span>按体裁分卷</span><span>诗画笺读</span></div>
     <div class="home-actions"><button class="home-primary" id="startReading" disabled>入卷</button><button class="home-secondary" id="homeLibrary" disabled>目录</button><button class="home-secondary" id="homeFeatured" disabled>精选</button></div>
     <p id="homeStatus" class="home-status" role="status"></p><button id="retryCatalog" class="retry-button" hidden>重新载入</button>
   </section>
@@ -40,12 +40,12 @@
   <div class="sheet-header"><div><span class="library-kicker">依你的习惯</span><h2 id="settingsTitle">阅读设置</h2></div><button class="icon-button" data-close="settings" aria-label="关闭设置">×</button></div>
   <label class="setting-row"><span>显示简注</span><input type="checkbox" id="settingNotes" role="switch" /></label>
   <label class="setting-row"><span>诗文字号</span><select id="fontSize"><option value="20">小</option><option value="22">标准</option><option value="26">大</option><option value="30">特大</option></select></label>
-  <fieldset class="paper-picker"><legend>纸色</legend><label><input type="radio" name="paper" value="warm" />暖纸</label><label><input type="radio" name="paper" value="ivory" />素白</label><label><input type="radio" name="paper" value="sage" />青笺</label></fieldset>
+  <fieldset class="paper-picker"><legend>界面纸色</legend><label><input type="radio" name="paper" value="warm" />暖纸</label><label><input type="radio" name="paper" value="ivory" />素白</label><label><input type="radio" name="paper" value="sage" />青笺</label></fieldset>
   <button class="setting-row setting-link" id="manageFavorites"><span>我的收藏</span><span id="favoriteCount">0 首 ›</span></button>
-  <div class="about"><h3>唐诗三百首 · 诗画笺</h3><p>一页一诗，一诗一画。</p><p>阅读位置、收藏与设置仅保存在当前设备。无需账号，无广告、无统计追踪。</p><p>诗文按选本书序整理，部分题名保留常用别名。文字与简注持续校订。版本 0.3</p></div>
+  <div class="about"><h3>唐诗三百首 · 诗画笺</h3><p>一页一诗，一诗一画。</p><p>阅读位置、收藏与设置仅保存在当前设备。无需账号，无广告、无统计追踪。</p><p>诗文按体裁分卷，同体裁内沿用选本书序，部分题名保留常用别名。文字与简注持续校订。版本 0.3.1</p></div>
 </dialog>
 <dialog id="notesDialog" class="sheet" aria-labelledby="notesTitle"><div class="sheet-header"><h2 id="notesTitle">诗意与注释</h2><button class="icon-button" data-close="notesDialog" aria-label="关闭注释">×</button></div><div id="fullNotes" class="full-notes"></div></dialog>
 <noscript>请开启 JavaScript 后阅读诗笺。</noscript>
-<script type="module" src="./app.js?v=0.3.2"></script>
+<script type="module" src="./app.js?v=0.3.3"></script>
 </body>
 </html>

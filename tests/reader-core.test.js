@@ -26,6 +26,8 @@ test('corrupt or incompatible saved state cannot break startup', () => {
   assert.equal(initialIndex(poems, '', '#p=-12'), 0);
   assert.equal(initialIndex(poems, '', '#p=9999'), poems.length - 1);
   assert.equal(poems[initialIndex(poems, 'tang-233-ye-si')].id, 'tang-233-ye-si');
+  assert.equal(poems[initialIndex(poems, '', '#p=0')].id, 'tang-001-gan-yu-qi-yi');
+  assert.equal(poems[initialIndex(poems, '', '#poem=tang-233-ye-si')].id, 'tang-233-ye-si');
 });
 
 test('search finds canonical titles, aliases, authors, punctuation-free verses and traditional text', () => {
@@ -54,9 +56,9 @@ test('requests deduplicate, failed poems can retry, and cache remains bounded', 
   assert.equal(calls, 5);
 });
 
-test('poem length controls type size and position while long works stay readable', async () => {
+test('poems stay in the illustration whitespace, with readable type and scrolling for longer works', async () => {
   const load = async id => ({ ...poems.find(p => p.id === id), ...JSON.parse(await readFile(new URL(`../data/reader/poems/${id}.json`, import.meta.url))) });
-  const short = await load('tang-233-ye-si');
+  const short = await load('tang-227-xiang-si');
   const regulated = await load('tang-116-shan-ju-qiu-ming');
   const epic = await load('tang-071-chang-hen-ge');
   const a = readingLayout(short), b = readingLayout(regulated), c = readingLayout(epic);
@@ -65,15 +67,23 @@ test('poem length controls type size and position while long works stay readable
   assert.equal(c.kind, 'long');
   assert(a.fontSize > b.fontSize);
   assert(a.top > b.top);
+  assert.equal(a.top, 844 * 0.48);
+  assert.equal(b.top, 844 * 0.42);
+  assert.equal(c.top, b.top);
+  const lowerArtwork = readingLayout({ ...short, textStart: 0.55 });
+  assert.equal(lowerArtwork.top, 844 * 0.55);
   assert.equal(c.fitWhole, false);
   assert(c.fontSize >= 18);
   const small = readingLayout(regulated, { width: 320, height: 568 });
   assert(small.fontSize < b.fontSize);
-  assert(small.fontSize >= 18);
+  assert(small.fontSize >= 20);
   assert(small.top < b.top);
+  assert.equal(small.top, 568 * 0.42);
   const large = readingLayout(regulated, { fontSize: 30 });
   assert(large.fontSize > b.fontSize);
-  const noNotes = readingLayout(regulated, { width: 320, height: 568, notes: false });
-  assert(noNotes.fontSize >= small.fontSize);
-  assert(noNotes.bottom < small.bottom);
+  const noNotes = readingLayout({ ...regulated, note: '' }, { width: 320, height: 568 });
+  assert.deepEqual(noNotes, small, 'Inline notes must not push the poem into the illustration');
+  const longTitle = readingLayout({ ...regulated, title: '山'.repeat(30) }, { width: 320, height: 568, fontSize: 30 });
+  assert.equal(longTitle.top, small.top);
+  assert(longTitle.fontSize >= 20 * 30 / 22 - 0.05);
 });

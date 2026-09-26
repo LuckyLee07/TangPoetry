@@ -4,15 +4,39 @@ import json
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-catalog = json.loads((ROOT / "data/reader/catalog.json").read_text())["poems"]
+SECTION_ORDER = ["五言绝句", "七言绝句", "五言律诗", "七言律诗", "五言古诗", "七言古诗", "乐府"]
+catalog_data = json.loads((ROOT / "data/reader/catalog.json").read_text())
+catalog = catalog_data["poems"]
 source = {p["id"]: p for p in json.loads((ROOT / "data/final/tang_poems_final.json").read_text())["poems"]}
+editorial = json.loads((ROOT / "data/editorial.json").read_text())["poems"]
 assert len(catalog) == len(source) == 317
-assert len({p["id"] for p in catalog}) == 317
+assert {p["id"] for p in catalog} == source.keys(), "Source poem identities must be preserved"
+assert catalog_data["sections"] == SECTION_ORDER, "Unexpected genre sequence"
+assert list(dict.fromkeys(p["section"] for p in catalog)) == SECTION_ORDER, "Genres must form ordered groups"
+section_ranks = [SECTION_ORDER.index(p["section"]) for p in catalog]
+assert section_ranks == sorted(section_ranks), "Genres must be contiguous and ordered"
+for section in SECTION_ORDER:
+    orders = [p["order"] for p in catalog if p["section"] == section]
+    assert orders == sorted(orders), f"Source order changed within {section}"
 assert all(p["dedicatedArt"] for p in catalog), "Every poem must have its own illustration"
 assert len({p["image"] for p in catalog}) == 317
 assert len({p["thumbnail"] for p in catalog}) == 317
-assert [p["order"] for p in catalog] == sorted(p["order"] for p in catalog)
 for poem in catalog:
+    original = source[poem["id"]]
+    edit = editorial.get(poem["id"], {})
+    for key in ("artworkMode", "artworkFocusY", "textStart"):
+        assert (key in poem) == (key in edit), f"Unexpected layout metadata: {poem['id']} {key}"
+        if key in edit:
+            assert poem[key] == edit[key], f"Layout metadata mismatch: {poem['id']} {key}"
+    if "artworkMode" in poem:
+        assert poem["artworkMode"] == "window", f"Unknown artwork mode: {poem['id']}"
+    if "artworkFocusY" in poem:
+        assert poem.get("artworkMode") == "window", f"Artwork focus requires a window: {poem['id']}"
+        assert type(poem["artworkFocusY"]) in (int, float) and 0 <= poem["artworkFocusY"] <= 1, poem["id"]
+    if "textStart" in poem:
+        assert type(poem["textStart"]) in (int, float) and 0 < poem["textStart"] < 1, poem["id"]
+    assert poem["order"] == original["order"], f"Source order identity changed: {poem['id']}"
+    assert poem["section"] == original["section"], f"Source genre changed: {poem['id']}"
     for key in ("image", "thumbnail"):
         assert (ROOT / poem[key]).is_file(), (poem["id"], key)
     detail = json.loads((ROOT / "data/reader/poems" / f"{poem['id']}.json").read_text())
@@ -24,4 +48,4 @@ for poem in catalog:
     assert detail["id"] == poem["id"]
 catalog_bytes = (ROOT / "data/reader/catalog.json").stat().st_size
 assert catalog_bytes < 600_000, catalog_bytes
-print(f"Validated {len(catalog)} poems, {sum(p['featured'] for p in catalog)} featured; catalog {catalog_bytes:,} bytes; all active images exist and full text is preserved.")
+print(f"Validated {len(catalog)} poems in {len(SECTION_ORDER)} ordered genres, {sum(p['featured'] for p in catalog)} featured; catalog {catalog_bytes:,} bytes; source identities, all active images, and full text are preserved.")

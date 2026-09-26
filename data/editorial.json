@@ -112,7 +112,9 @@
         "zhé"
       ],
       "layout": "center-low",
-      "contentStatus": "editorial-draft"
+      "contentStatus": "editorial-draft",
+      "artworkMode": "window",
+      "artworkFocusY": 0.7
     },
     "tang-003-gan-yu-qi-san": {
       "featured": true,
@@ -163,7 +165,9 @@
         "chéng"
       ],
       "layout": "center-low",
-      "contentStatus": "editorial-draft"
+      "contentStatus": "editorial-draft",
+      "artworkMode": "window",
+      "artworkFocusY": 1.0
     },
     "tang-004-gan-yu-qi-si": {
       "featured": true,
@@ -224,7 +228,9 @@
         "yīn"
       ],
       "layout": "center-low",
-      "contentStatus": "editorial-draft"
+      "contentStatus": "editorial-draft",
+      "artworkMode": "window",
+      "artworkFocusY": 0.65
     },
     "tang-045-you-zi-yin": {
       "featured": true,
@@ -407,7 +413,9 @@
           "url": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=35251&la=0&powerMode=0",
           "note": "采用辞典中的古义读音；面向特定教材发布时需统一教材口径。"
         }
-      ]
+      ],
+      "artworkMode": "window",
+      "artworkFocusY": 0.5
     },
     "tang-225-zhu-li-guan": {
       "featured": true,
@@ -562,7 +570,9 @@
         "shǎo"
       ],
       "layout": "center-low",
-      "contentStatus": "editorial-draft"
+      "contentStatus": "editorial-draft",
+      "artworkMode": "window",
+      "artworkFocusY": 0.5
     },
     "tang-233-ye-si": {
       "featured": true,
@@ -594,7 +604,8 @@
       ],
       "layout": "center-low",
       "contentStatus": "editorial-draft",
-      "displayTitle": "静夜思"
+      "displayTitle": "静夜思",
+      "textStart": 0.55
     },
     "tang-236-deng-guan-que-lou": {
       "featured": true,
@@ -687,7 +698,9 @@
         "xuě"
       ],
       "layout": "center-low",
-      "contentStatus": "editorial-draft"
+      "contentStatus": "editorial-draft",
+      "artworkMode": "window",
+      "artworkFocusY": 0.64
     },
     "tang-246-wen-liu-shi-jiu": {
       "featured": true,
@@ -789,7 +802,9 @@
       ],
       "layout": "center-low",
       "contentStatus": "editorial-draft",
-      "displayTitle": "送元二使安西"
+      "displayTitle": "送元二使安西",
+      "artworkMode": "window",
+      "artworkFocusY": 0.7
     }
   }
 }

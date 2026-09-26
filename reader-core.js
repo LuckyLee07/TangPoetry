@@ -42,7 +42,11 @@ export function initialIndex(poems, savedID, hash = "") {
   const id = params.get("poem") || savedID;
   if (params.has("p")) {
     const value = Number(params.get("p"));
-    return Number.isFinite(value) ? Math.max(0, Math.min(poems.length - 1, Math.floor(value))) : 0;
+    if (!Number.isFinite(value) || value < 0) return 0;
+    if (value >= poems.length) return poems.length - 1;
+    // Old numeric links used the original book order, before genre grouping.
+    const original = [...poems].sort((a, b) => a.order - b.order)[Math.floor(value)];
+    return Math.max(0, poems.findIndex(poem => poem.id === original?.id));
   }
   return Math.max(0, poems.findIndex(poem => poem.id === id));
 }
@@ -64,8 +68,9 @@ export function createPoemLoader(fetchPoem, maxEntries = 12) {
   };
 }
 
-// Fit ordinary poems to a page; preserve a readable size and scrolling for long works.
-export function readingLayout(poem, { width = 390, height = 844, fontSize = 22, notes = true } = {}) {
+// Keep the illustration visible. Fit the poem within its reserved paper area,
+// then scroll there if needed; content length never pulls text over the artwork.
+export function readingLayout(poem, { width = 390, height = 844, fontSize = 22 } = {}) {
   const texts = poem.rubyLines.map(line => line.map(([text]) => text).join(''));
   const lengths = texts.map(text => [...text.replace(/[\p{Punctuation}\s]/gu, '')].length);
   const lineCount = lengths.length;
@@ -78,13 +83,13 @@ export function readingLayout(poem, { width = 390, height = 844, fontSize = 22, 
     : regulated ? (five ? 'five-regulated' : 'seven-regulated') : medium ? 'medium' : 'long';
   const baseFont = short ? (five ? 26 : 24) : regulated ? (five ? 22 : 21) : 20;
   const scale = fontSize / 22;
-  const minimumFont = Math.max(18, 18 * scale);
+  const baseMinimum = short ? (five ? 22 : 21) : regulated ? 20 : medium ? 19 : 18;
+  const minimumFont = baseMinimum * scale;
   const preferredFont = Math.max(minimumFont, baseFont * scale);
   const lineHeight = short ? 1.95 : regulated ? (height < 620 ? 1.35 : 1.6) : medium ? 1.55 : 1.7;
-  const noteHeight = Math.max(80, Math.min(86, height * 0.1));
-  const bottom = notes && poem.note ? 78 + noteHeight + 16 : 84;
-  const minimumTop = Math.max(108, height * 0.15);
-  let top = Math.max(minimumTop, height * (short ? 0.36 : regulated ? 0.22 : 0.18));
+  const bottom = 84;
+  const defaultStart = short ? 0.48 : 0.42;
+  const top = height * Math.max(defaultStart, Math.min(0.7, poem.textStart || defaultStart));
   let fittedFont = preferredFont;
   const bodyWidth = Math.max(80, width - 80);
   const titleSize = Math.min(26, Math.max(20, baseFont + 1));
@@ -96,10 +101,9 @@ export function readingLayout(poem, { width = 390, height = 844, fontSize = 22, 
   };
   const fitWhole = short || regulated || medium;
   if (fitWhole) {
-    top = Math.max(minimumTop, Math.min(top, height - bottom - estimatedHeight(fittedFont)));
     while (fittedFont > minimumFont && estimatedHeight(fittedFont) > height - bottom - top) {
       fittedFont = Math.max(minimumFont, fittedFont - 0.5);
     }
   }
-  return { kind, lineCount, fontSize: Math.round(fittedFont * 10) / 10, minimumFont, top, bottom, lineHeight, titleSize, noteHeight, fitWhole };
+  return { kind, lineCount, fontSize: Math.round(fittedFont * 10) / 10, minimumFont, top, bottom, lineHeight, titleSize, fitWhole };
 }

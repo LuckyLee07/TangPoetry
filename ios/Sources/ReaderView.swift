@@ -37,6 +37,38 @@ struct Artwork: View {
     }
 }
 
+/// Older full-bleed paintings use a separate upper window to keep their subjects
+/// visible. New illustrations already contain a reading area and remain full-page.
+private struct PoemArtwork: View {
+    let poem: PoemSummary
+    let size: CGSize
+    let contentTop: CGFloat
+
+    var body: some View {
+        Group {
+            if poem.artworkMode == "window", let image = ArtworkCache.image(poem.image) {
+                let windowWidth = max(1, size.width - 44)
+                let windowHeight = max(1, contentTop - 24 - 94)
+                let scale = max(windowWidth / image.size.width, windowHeight / image.size.height)
+                let imageWidth = image.size.width * scale
+                let imageHeight = image.size.height * scale
+                let focusY = CGFloat(min(1, max(0, poem.artworkFocusY ?? 0.5)))
+                ZStack(alignment: .topLeading) {
+                    Image(uiImage: image).resizable()
+                        .frame(width: imageWidth, height: imageHeight)
+                        .offset(x: (windowWidth - imageWidth) / 2, y: (windowHeight - imageHeight) * focusY)
+                }
+                .frame(width: windowWidth, height: windowHeight, alignment: .topLeading)
+                .clipped()
+                .padding(.top, 94)
+                .frame(width: size.width, height: size.height, alignment: .top)
+            } else {
+                Artwork(path: poem.image).frame(width: size.width, height: size.height).clipped()
+            }
+        }.accessibilityHidden(true)
+    }
+}
+
 private enum ReaderSheet: String, Identifiable {
     case library, settings
     var id: String { rawValue }
@@ -156,7 +188,6 @@ struct PoemPageView: View {
     @State private var failed = false
     @State private var retry = 0
     @State private var showNotes = false
-    @State private var measuredNoteHeight: CGFloat?
     @ScaledMetric(relativeTo: .title2) private var scaledBase: CGFloat = 22
 
     var body: some View {
@@ -166,18 +197,11 @@ struct PoemPageView: View {
                 section: poem.section, lines: detail?.rubyLines.map { $0.map(\.text).joined() } ?? [],
                 title: poem.title, author: poem.author, size: geometry.size,
                 fontSetting: store.settings.fontSize, dynamicScale: scaledBase / 22,
-                notesHeight: hasNote ? measuredNoteHeight ?? 96 * scaledBase / 22 : 0
+                textStart: poem.textStart.map { CGFloat($0) }
             )
-            let paperStart = min(1, max(70, layout.contentTop - 72) / max(1, geometry.size.height))
-            let paperSolid = min(1, (layout.contentTop + 24) / max(1, geometry.size.height))
             ZStack(alignment: .top) {
-                Artwork(path: poem.image).frame(width: geometry.size.width, height: geometry.size.height).clipped()
-                LinearGradient(stops: [
-                    .init(color: .clear, location: paperStart),
-                    .init(color: store.settings.paperColor.opacity(0.94), location: paperSolid),
-                    .init(color: store.settings.paperColor.opacity(0.98), location: max(paperSolid, 0.80))
-                ], startPoint: .top, endPoint: .bottom)
-                Text("第\(poem.order)首 · \(poem.section)").font(.caption2).foregroundStyle(.secondary)
+                PoemArtwork(poem: poem, size: geometry.size, contentTop: layout.contentTop)
+                Text(poem.section).font(.caption2).foregroundStyle(.secondary)
                     .frame(maxWidth: .infinity, alignment: .leading).padding(.top, 68).padding(.horizontal, layout.horizontalPadding)
                 VStack(spacing: 0) {
                     if let detail {
@@ -193,26 +217,26 @@ struct PoemPageView: View {
                                         VerseLine(tokens: detail.rubyLines[index], fontSize: layout.fontSize)
                                     }
                                 }
+                                if hasNote {
+                                    Button { showNotes = true } label: {
+                                        VStack(alignment: .leading, spacing: 8) {
+                                            Divider()
+                                            HStack { Text(detail.noteTitle).font(.caption.weight(.medium)); Spacer(); Text("展开").font(.caption2) }
+                                            Text(detail.note).font(.caption).lineSpacing(4).lineLimit(2).foregroundStyle(.secondary)
+                                        }.padding(.top, 12).padding(.bottom, 12).frame(maxWidth: .infinity, alignment: .leading)
+                                            .fixedSize(horizontal: false, vertical: true)
+                                    }.buttonStyle(.plain)
+                                        .accessibilityLabel("查看\(poem.title)的完整诗意和注释")
+                                }
                             }.frame(maxWidth: .infinity).padding(.bottom, 20)
                         }.onTapGesture(perform: toggleControls)
-                        if hasNote {
-                            Button { showNotes = true } label: {
-                                VStack(alignment: .leading, spacing: 8) {
-                                    Divider()
-                                    HStack { Text(detail.noteTitle).font(.caption.weight(.medium)); Spacer(); Text("展开").font(.caption2) }
-                                    Text(detail.note).font(.caption).lineSpacing(4).lineLimit(2).foregroundStyle(.secondary)
-                                }.padding(.top, 12).padding(.bottom, 12).frame(maxWidth: .infinity, alignment: .leading)
-                                    .fixedSize(horizontal: false, vertical: true)
-                            }.buttonStyle(.plain)
-                                .background(GeometryReader { noteGeometry in Color.clear.preference(key: NoteHeightPreference.self, value: noteGeometry.size.height) })
-                                .onPreferenceChange(NoteHeightPreference.self) { measuredNoteHeight = $0 }
-                                .accessibilityLabel("查看\(poem.title)的完整诗意和注释")
-                        }
                     } else if failed {
                         VStack { Text("这一页暂时未能打开。"); Button("重试此页") { retry += 1 } }.frame(maxWidth: .infinity, maxHeight: .infinity)
                     } else { ProgressView("展卷中…").frame(maxWidth: .infinity, maxHeight: .infinity) }
-                    Spacer().frame(height: 65)
-                }.padding(.top, layout.contentTop).padding(.horizontal, layout.horizontalPadding)
+                }
+                .frame(height: max(0, geometry.size.height - layout.contentTop - 65), alignment: .top)
+                .clipped()
+                .padding(.top, layout.contentTop).padding(.horizontal, layout.horizontalPadding)
             }
         }
         .task(id: "\(poem.id)-\(retry)") {
@@ -223,11 +247,6 @@ struct PoemPageView: View {
             if let detail { NotesView(detail: detail) }
         }
     }
-}
-
-private struct NoteHeightPreference: PreferenceKey {
-    static var defaultValue: CGFloat = 0
-    static func reduce(value: inout CGFloat, nextValue: () -> CGFloat) { value = nextValue() }
 }
 
 private struct VerseGlyph {

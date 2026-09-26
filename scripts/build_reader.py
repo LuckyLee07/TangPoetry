@@ -7,6 +7,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "data/reader"
+SECTION_ORDER = ["五言绝句", "七言绝句", "五言律诗", "七言律诗", "五言古诗", "七言古诗", "乐府"]
 FALLBACKS = {
     "思乡": "jing-ye-si", "山水": "lu-zhai", "春日": "chun-xiao",
     "送别": "song-yuan-er", "冬雪": "jiang-xue"
@@ -87,6 +88,9 @@ def build():
             "searchText": " ".join([title, *aliases, poem["titleTraditional"], poem["author"], poem["authorTraditional"],
                                     poem["section"], theme, *poem.get("tags", []), poem["text"], poem["textTraditional"]])
         }
+        for key in ("artworkMode", "artworkFocusY", "textStart"):
+            if key in edit:
+                item[key] = edit[key]
         catalog.append(item)
         notes = list(dict.fromkeys(n["text"] for n in poem.get("notes", []) if n.get("text")))
         detail = {
@@ -97,9 +101,15 @@ def build():
             "sourceTitle": poem["title"], "layout": edit.get("layout", "center-low")
         }
         write(OUT / "poems" / f"{poem['id']}.json", detail)
-    write(OUT / "catalog.json", {"schemaVersion": 1, "poems": catalog})
+    section_rank = {section: rank for rank, section in enumerate(SECTION_ORDER)}
+    unknown_sections = {poem["section"] for poem in catalog} - section_rank.keys()
+    assert not unknown_sections, f"Unclassified sections: {sorted(unknown_sections)}"
+    catalog.sort(key=lambda poem: (section_rank[poem["section"]], poem["order"]))
+    write(OUT / "catalog.json", {"schemaVersion": 1, "sections": SECTION_ORDER, "poems": catalog})
     write(OUT / "build-report.json", {
         "poems": len(catalog), "featured": sum(p["featured"] for p in catalog),
+        "sections": [{"section": section, "poems": sum(p["section"] == section for p in catalog)}
+                     for section in SECTION_ORDER],
         "dedicatedArt": sum(p["dedicatedArt"] for p in catalog),
         "artRemaining": sum(not p["dedicatedArt"] for p in catalog),
         "notesMissing": sum(not p["notes"] for p in source["poems"]),

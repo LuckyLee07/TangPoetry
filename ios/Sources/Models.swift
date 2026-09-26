@@ -17,6 +17,9 @@ struct PoemSummary: Decodable, Identifiable, Sendable {
     let dedicatedArt: Bool
     let image: String
     let thumbnail: String
+    let artworkMode: String?
+    let artworkFocusY: Double?
+    let textStart: Double?
     let searchText: String
 }
 

@@ -1,4 +1,4 @@
-import { parseStored, sanitizeSettings, migrateFavorites, filterPoems, initialIndex, createPoemLoader, readingLayout } from './reader-core.js?v=0.3.2';
+import { parseStored, sanitizeSettings, migrateFavorites, filterPoems, initialIndex, createPoemLoader, readingLayout } from './reader-core.js?v=0.3.3';
 
 const $ = selector => document.querySelector(selector);
 const escapeHTML = value => String(value ?? '').replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
@@ -65,16 +65,17 @@ function verses(lines) {
 function layoutPage(element) {
   const detail = pageDetails.get(element);
   if (!detail || !element.querySelector('.poem-body')) return;
-  const layout = readingLayout(detail, { width: pages.clientWidth, height: pages.clientHeight, fontSize: settings.fontSize, notes: settings.notes });
+  const layout = readingLayout(detail, { width: pages.clientWidth, height: pages.clientHeight, fontSize: settings.fontSize });
   element.dataset.layout = layout.kind;
-  for (const [name, value] of Object.entries({ 'poem-top': layout.top, 'poem-bottom': layout.bottom, 'poem-size': layout.fontSize, 'title-size': layout.titleSize, 'note-height': layout.noteHeight })) {
+  for (const [name, value] of Object.entries({ 'poem-top': layout.top, 'poem-bottom': layout.bottom, 'poem-size': layout.fontSize, 'title-size': layout.titleSize })) {
     element.style.setProperty(`--${name}`, `${value}px`);
   }
   element.style.setProperty('--verse-leading', layout.lineHeight);
   // Account for actual fonts, title wrapping and browser scrollbar width after the estimate.
   const body = element.querySelector('.poem-body');
+  const text = element.querySelector('.poem-text');
   let size = layout.fontSize;
-  while (layout.fitWhole && size > layout.minimumFont && body.scrollHeight > body.clientHeight) {
+  while (layout.fitWhole && size > layout.minimumFont && text.scrollHeight > body.clientHeight - 21) {
     size = Math.max(layout.minimumFont, size - 0.5);
     element.style.setProperty('--poem-size', `${size}px`);
   }
@@ -83,12 +84,13 @@ function layoutMountedPages() {
   for (const element of shells) if (element.childNodes.length) layoutPage(element);
 }
 function renderPage(element, poem, detail) {
-  pageDetails.set(element, { ...detail, section: poem.section });
-  element.classList.toggle('no-note', !detail.note);
+  pageDetails.set(element, { ...detail, section: poem.section, textStart: poem.textStart });
+  element.dataset.artwork = poem.artworkMode || 'full';
+  element.style.setProperty('--art-focus-y', `${Math.max(0, Math.min(1, poem.artworkFocusY ?? 0.5)) * 100}%`);
   element.innerHTML = `<figure class="scene" aria-hidden="true"><img src="./${escapeHTML(poem.image)}" alt="" decoding="async" /></figure>
-    <div class="book-ribbon">第${poem.order}首 · ${escapeHTML(poem.section)}</div>
-    <div class="poem-body" tabindex="0" aria-label="${escapeHTML(poem.title)}全文"><h2 class="poem-title">${escapeHTML(poem.title)}</h2><p class="poem-author">唐 · ${escapeHTML(poem.author)}</p><div class="poem-lines">${verses(detail.rubyLines)}</div></div>
-    ${detail.note ? `<section class="note"><h3>${escapeHTML(detail.noteTitle)}</h3><p>${escapeHTML(detail.note)}</p><button class="note-more" data-notes="${poem.id}" aria-label="查看${escapeHTML(poem.title)}的完整诗意和注释">展开</button></section>` : ''}`;
+    <div class="book-ribbon">${escapeHTML(poem.section)}</div>
+    <div class="poem-body" tabindex="0" aria-label="${escapeHTML(poem.title)}全文"><div class="poem-text"><h2 class="poem-title">${escapeHTML(poem.title)}</h2><p class="poem-author">唐 · ${escapeHTML(poem.author)}</p><div class="poem-lines">${verses(detail.rubyLines)}</div></div>
+    ${detail.note ? `<section class="note"><h3>${escapeHTML(detail.noteTitle)}</h3><p>${escapeHTML(detail.note)}</p><button class="note-more" data-notes="${poem.id}" aria-label="查看${escapeHTML(poem.title)}的完整诗意和注释">展开</button></section>` : ''}</div>`;
   const image = element.querySelector('img');
   image.addEventListener('error', () => image.remove(), { once: true });
   layoutPage(element);
@@ -145,10 +147,15 @@ function enterReader(index = currentIndex) { setHome(false); setControls(true); 
 
 function renderLibrary() {
   const list = filterPoems(poems, filters, favorites);
+  const groups = new Map();
+  for (const poem of list) {
+    if (!groups.has(poem.section)) groups.set(poem.section, []);
+    groups.get(poem.section).push(poem);
+  }
   $('#resultCount').textContent = `${list.length} 首${filters.collection === 'favorites' ? '收藏' : ''}`;
   $('#categorySelect').value = filters.category;
   document.querySelectorAll('[data-collection]').forEach(button => button.setAttribute('aria-pressed', button.dataset.collection === filters.collection));
-  $('#poemList').innerHTML = list.length ? list.map(poem => `<button class="poem-row" data-id="${poem.id}" aria-current="${poem.id === poems[currentIndex]?.id}"><img class="poem-thumb" src="./${escapeHTML(poem.thumbnail)}" alt="" loading="lazy" decoding="async" /><span class="poem-row-copy"><strong>${escapeHTML(poem.title)}</strong><small>${poem.order}. ${escapeHTML(poem.author)} · ${escapeHTML(poem.section)}</small></span><em>${favorites.has(poem.id) ? '已藏' : poem.featured ? '精选' : ''}</em></button>`).join('')
+  $('#poemList').innerHTML = list.length ? [...groups].map(([section, items]) => `<section class="genre-group" aria-label="${escapeHTML(section)}"><h3 class="genre-heading">${escapeHTML(section)}<span>${items.length} 首</span></h3>${items.map(poem => `<button class="poem-row" data-id="${poem.id}" aria-current="${poem.id === poems[currentIndex]?.id}"><img class="poem-thumb" src="./${escapeHTML(poem.thumbnail)}" alt="" loading="lazy" decoding="async" /><span class="poem-row-copy"><strong>${escapeHTML(poem.title)}</strong><small>${escapeHTML(poem.author)}</small></span><em>${favorites.has(poem.id) ? '已藏' : poem.featured ? '精选' : ''}</em></button>`).join('')}</section>`).join('')
     : `<p class="empty-state">${filters.collection === 'favorites' && !favorites.size ? '还没有收藏。<br>在喜欢的诗页轻点「藏」，留给下次重读。' : '没有找到相符的诗。<br>试试其他诗句，或切换分类。'}</p>`;
 }
 function openLibrary(collection) {
@@ -177,7 +184,7 @@ async function init() {
     pages.replaceChildren(...shells);
     const themes = [...new Set(poems.map(p => p.theme))];
     const sections = [...new Set(poems.map(p => p.section))];
-    $('#categorySelect').innerHTML = `<option value="all">全部分类</option><optgroup label="主题">${themes.map(value => `<option>${escapeHTML(value)}</option>`).join('')}</optgroup><optgroup label="体裁">${sections.map(value => `<option>${escapeHTML(value)}</option>`).join('')}</optgroup>`;
+    $('#categorySelect').innerHTML = `<option value="all">全部分类</option><optgroup label="体裁">${sections.map(value => `<option>${escapeHTML(value)}</option>`).join('')}</optgroup><optgroup label="主题">${themes.map(value => `<option>${escapeHTML(value)}</option>`).join('')}</optgroup>`;
     $('#homeCount').textContent = `${poems.length} 首 · ${poems.filter(p => p.dedicatedArt).length} 幅画笺`;
     for (const id of ['startReading', 'homeLibrary', 'homeFeatured']) $(`#${id}`).disabled = false;
     $('#startReading').textContent = currentIndex ? '续读' : '入卷';

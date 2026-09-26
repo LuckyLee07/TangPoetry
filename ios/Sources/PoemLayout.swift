@@ -18,7 +18,7 @@ struct PoemLayout {
     static func resolve(
         section: String, lines: [String], title: String, author: String,
         size: CGSize, fontSetting: Int, dynamicScale: CGFloat = 1,
-        notesHeight: CGFloat = 0
+        textStart: CGFloat? = nil
     ) -> Self {
         let lineLengths = lines.map { line in
             line.filter { character in
@@ -48,22 +48,22 @@ struct PoemLayout {
         case .quatrain:
             baseSize = isFiveCharacter ? 26 : 24
             minimumSize = isFiveCharacter ? 22 : 21
-            topFraction = 0.34
+            topFraction = 0.48
             gapRatio = 0.30
         case .regulated:
             baseSize = isFiveCharacter ? 22 : 21
             minimumSize = 20
-            topFraction = 0.215
+            topFraction = 0.42
             gapRatio = 0.19
         case .medium:
             baseSize = 20
             minimumSize = 19
-            topFraction = 0.18
+            topFraction = 0.42
             gapRatio = 0.20
         case .long:
             baseSize = isFiveCharacter ? 20 : 19
             minimumSize = 18
-            topFraction = 0.155
+            topFraction = 0.42
             gapRatio = 0.24
         }
 
@@ -78,8 +78,9 @@ struct PoemLayout {
         let bodySpacing = (length == .quatrain ? 15.0 : 10.0) * accessibilityScale
         let bottomReserve: CGFloat = 65
         let minimumTop = max(100, 82 + 14 * accessibilityScale)
-        let preferredTop = max(minimumTop, size.height * topFraction)
-        let contentBottom = max(minimumTop, size.height - bottomReserve - notesHeight)
+        let artworkTopFraction = max(topFraction, min(textStart ?? topFraction, 0.7))
+        let preferredTop = max(minimumTop, size.height * artworkTopFraction)
+        let contentBottom = max(minimumTop, size.height - bottomReserve)
 
         // Mirror VerseGrid's cells and punctuation reserve. At accessibility sizes,
         // wrapping wins over shrinking below the user's scaled reading size floor.
@@ -107,8 +108,8 @@ struct PoemLayout {
             return header + body + CGFloat(max(0, lines.count - 1)) * font * gapRatio + 20
         }
 
-        // Short forms try to fit on one page. Long poems keep a readable size and
-        // scroll; fitting an entire ballad would make the text unusably small.
+        // Short forms may shrink within their readable range, but the illustration's
+        // upper half stays clear. Notes follow the verses inside the same scroll view.
         if length != .long && contentHeight(at: fontSize) > contentBottom - preferredTop {
             var lower = minimum
             var upper = fontSize
@@ -120,13 +121,10 @@ struct PoemLayout {
             fontSize = lower
         }
         let height = contentHeight(at: fontSize)
-        let contentTop = length == .long
-            ? preferredTop
-            : max(minimumTop, min(preferredTop, contentBottom - height))
         return Self(
             length: length, fontSize: fontSize, titleSize: titleSize, authorSize: authorSize,
             lineSpacing: fontSize * gapRatio, headerSpacing: headerSpacing, bodySpacing: bodySpacing,
-            horizontalPadding: horizontalPadding, contentTop: contentTop,
+            horizontalPadding: horizontalPadding, contentTop: preferredTop,
             estimatedContentHeight: height
         )
     }
