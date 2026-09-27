@@ -16,7 +16,6 @@ private struct ReadingRestorationKey: Equatable {
     let poemID: String
     let fontSize: CGFloat
     let width: CGFloat
-    let showsNote: Bool
 }
 
 /// Scroll restoration is tied to a verse, so changing the phone or type size does
@@ -27,14 +26,16 @@ struct ResumablePoemText: View {
     let detail: PoemDetail
     let layout: PoemLayout
     let width: CGFloat
+    let viewportHeight: CGFloat
     let showsNote: Bool
     let openNotes: () -> Void
     let toggleControls: () -> Void
+    let readingActivity: () -> Void
     @State private var restoredKey: ReadingRestorationKey?
 
     private var coordinateSpace: String { "poem-scroll-\(poem.id)" }
     private var restorationKey: ReadingRestorationKey {
-        ReadingRestorationKey(poemID: poem.id, fontSize: layout.fontSize, width: width, showsNote: showsNote)
+        ReadingRestorationKey(poemID: poem.id, fontSize: layout.fontSize, width: width)
     }
 
     var body: some View {
@@ -63,7 +64,7 @@ struct ResumablePoemText: View {
                     }
                     // Keep every verse as a separate accessible element. A named,
                     // tappable parent can collapse the lines into one AX node.
-                    if showsNote {
+                    if !detail.note.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty {
                         Button(action: openNotes) {
                             VStack(alignment: .leading, spacing: 8) {
                                 Divider()
@@ -72,6 +73,9 @@ struct ResumablePoemText: View {
                             }.padding(.top, layout.noteTopPadding).padding(.bottom, 12).frame(maxWidth: .infinity, alignment: .leading)
                                 .fixedSize(horizontal: false, vertical: true)
                         }.buttonStyle(.plain)
+                            .opacity(showsNote ? 1 : 0)
+                            .allowsHitTesting(showsNote)
+                            .accessibilityHidden(!showsNote)
                             .accessibilityLabel("查看\(poem.title)的完整诗意和注释")
                             .accessibilityValue(detail.note)
                     }
@@ -79,9 +83,13 @@ struct ResumablePoemText: View {
             }
             .coordinateSpace(name: coordinateSpace)
             .onPreferenceChange(VerseFramePreferenceKey.self) { frames in
+                if let index = detail.rubyLines.indices.last, let last = frames[.line(index)] {
+                    store.recordReadViewport(for: poem.id, endIsVisible: last.maxY > 0 && last.maxY <= viewportHeight + 2)
+                }
                 // New font/width measurements can arrive before the new task starts.
                 // Never let those measurements overwrite the verse awaiting restoration.
                 guard restoredKey == restorationKey, !frames.isEmpty else { return }
+                if store.selectedID == poem.id { readingActivity() }
                 let line: Int?
                 if let heading = frames[.heading], heading.maxY > 0 {
                     line = nil
@@ -104,6 +112,7 @@ struct ResumablePoemText: View {
                 restoredKey = key
             }
             .onDisappear {
+                store.clearReadViewport(for: poem.id)
                 restoredKey = nil
                 store.flushReadingProgress()
             }

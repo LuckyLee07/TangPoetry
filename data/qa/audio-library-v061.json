@@ -1,0 +1,87 @@
+{
+  "status": "passed",
+  "date": "2026-09-27",
+  "release": "0.6.1",
+  "tracks": 320,
+  "voice": {
+    "version": 1,
+    "engine": "azure-speech",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "voiceLabel": "晓晓 · 诗歌朗读",
+    "style": "poetry-reading",
+    "styledegree": "1.3",
+    "rate": "-6%",
+    "introRate": "-5%",
+    "pairPauseMs": 500,
+    "introPauseMs": 800,
+    "endingPauseMs": 800,
+    "titlePauseMs": 350,
+    "loudnessLUFS": -18,
+    "truePeakDB": -1.5,
+    "loudnessRange": 11,
+    "endingPadSeconds": 0.5,
+    "bitrate": "64k",
+    "sampleRate": 24000
+  },
+  "genreCounts": {
+    "五言绝句": 29,
+    "七言绝句": 51,
+    "五言律诗": 80,
+    "七言律诗": 53,
+    "五言古诗": 35,
+    "七言古诗": 28,
+    "乐府": 44
+  },
+  "totalSeconds": 11137.392,
+  "audioBytes": 89174656,
+  "uniqueAudioHashes": 320,
+  "allFilesDecoded": true,
+  "integratedLUFSRange": [
+    -19.18,
+    -18.13
+  ],
+  "maximumTruePeakDBTP": -1.27,
+  "manifestSHA256": "77b6b45b69f195ecb39306b46e5de700c072bedde99132f2dfd30ea8ee34499e",
+  "chunkRecovery": [
+    {
+      "id": "tang-086-bing-che-xing",
+      "title": "兵车行",
+      "chunks": 5
+    }
+  ],
+  "manualPronunciationReview": "not-completed",
+  "webTests": 16,
+  "pythonTests": 18,
+  "approvedSamplesReusedUnchanged": true,
+  "iosTests": 29,
+  "iosTestFailures": 0,
+  "iosTestLog": "/tmp/tangpoetry-v061-tests.log",
+  "iosInstalledVersion": "0.6.1",
+  "webMediaLoads": [
+    {
+      "title": "静夜思",
+      "readyState": 4,
+      "error": null,
+      "browserDuration": 15.692
+    },
+    {
+      "title": "兵车行",
+      "readyState": 4,
+      "error": null,
+      "browserDuration": 115.917958
+    },
+    {
+      "title": "长恨歌",
+      "readyState": 4,
+      "error": null,
+      "browserDuration": 382.052
+    }
+  ],
+  "nativeManualPlayback": {
+    "title": "秋夕",
+    "playedToSeconds": 15,
+    "paused": true,
+    "returnedToStart": true,
+    "genreMenuVerified": true
+  }
+}

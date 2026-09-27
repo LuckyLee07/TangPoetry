@@ -19,7 +19,7 @@ struct PoemLayout {
     static func resolve(
         section: String, lines: [String], title: String, author: String,
         size: CGSize, fontSetting: Int, dynamicScale: CGFloat = 1,
-        textStart: CGFloat? = nil, showsNote: Bool = true
+        showsNote: Bool = true
     ) -> Self {
         let lineLengths = lines.map { line in
             line.filter { character in
@@ -79,11 +79,13 @@ struct PoemLayout {
         let bodySpacing = (length == .quatrain ? 15.0 : 10.0) * accessibilityScale
         let bottomReserve: CGFloat = 65
         let minimumTop = max(100, 82 + 14 * accessibilityScale)
-        let artworkTopFraction = max(topFraction, min(textStart ?? topFraction, 0.7))
-        // Keep type fitting stable while moving the poem and its note independently.
-        let typographyTop = max(minimumTop, size.height * artworkTopFraction - 25)
+        // Use a shared start for each poem length; transparent text can overlap artwork.
+        let typographyTop = max(minimumTop, size.height * topFraction - 25)
         let preferredTop = max(minimumTop, typographyTop - 45)
-        let noteTopPadding = 12 + (typographyTop - preferredTop) + 25
+        // Use the genre, not the line count: short yuefu also get the closer note gap.
+        let isQuatrainGenre = section == "五言绝句" || section == "七言绝句"
+        let noteLift: CGFloat = isQuatrainGenre ? 0 : 35
+        let noteTopPadding = 12 + (typographyTop - preferredTop) + 25 - noteLift
         let contentBottom = max(minimumTop, size.height - bottomReserve)
 
         // Mirror VerseGrid's cells and punctuation reserve. At accessibility sizes,
@@ -112,8 +114,8 @@ struct PoemLayout {
             return header + body + CGFloat(max(0, lines.count - 1)) * font * gapRatio + 20
         }
 
-        // Short forms may shrink within their readable range, but the illustration's
-        // upper illustration area stays clear. Notes follow the verses inside the same scroll view.
+        // Short forms may shrink within their readable range. Notes follow the
+        // verses inside the same scroll view without changing the shared start.
         if length != .long && contentHeight(at: fontSize) > contentBottom - typographyTop {
             var lower = minimum
             var upper = fontSize
@@ -125,9 +127,8 @@ struct PoemLayout {
             fontSize = lower
         }
         let height = contentHeight(at: fontSize)
-        // Reuse the empty note area for visual balance without reducing the type size.
-        // Long poems keep their full scrolling area instead of being pushed down.
-        let unannotatedShift = showsNote ? 0 : min(60, max(0, (contentBottom - preferredTop - height) / 2))
+        // Annotation visibility never moves or resizes the poem, including long scrollable poems.
+        let unannotatedShift: CGFloat = 0
         return Self(
             length: length, fontSize: fontSize, titleSize: titleSize, authorSize: authorSize,
             lineSpacing: fontSize * gapRatio, headerSpacing: headerSpacing, bodySpacing: bodySpacing,

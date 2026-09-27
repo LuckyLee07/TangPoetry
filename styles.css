@@ -250,7 +250,7 @@ button:active { transform: scale(.97); }
 body[data-paper="ivory"] { --paper: #faf9f4; --paper-deep: #eeede8; --paper-glass: rgba(250,249,244,.95); }
 body[data-paper="sage"] { --paper: #e8eee5; --paper-deep: #dce5d6; --paper-glass: rgba(232,238,229,.95); }
 .reading-surface { height: 100%; }
-.topbar, .bottombar { position: absolute; left: 24px; right: 24px; z-index: 26; display: flex; align-items: center; justify-content: space-between; gap: 8px; opacity: 0; pointer-events: none; transition: opacity 160ms ease; }
+.topbar, .bottombar { position: absolute; left: 24px; right: 24px; z-index: 26; display: flex; align-items: center; justify-content: space-between; gap: 8px; opacity: 0; pointer-events: none; transition: opacity 800ms ease-in-out; }
 .topbar { top: max(20px, env(safe-area-inset-top)); }
 .bottombar { bottom: max(20px, env(safe-area-inset-bottom)); display: grid; grid-template-columns: 1fr auto 1fr; }
 .bottombar .page-navigation { grid-column: 2; }
@@ -261,9 +261,9 @@ body[data-paper="sage"] { --paper: #e8eee5; --paper-deep: #dce5d6; --paper-glass
 .narration-sheet audio { display: block; width: 100%; margin: 28px 0 18px; }
 .narration-sheet #narrationStatus, .narration-hint { font-size: 13px; color: var(--ink-soft); }
 .bottombar > .text-button { grid-column: 3; justify-self: end; }
-[data-visible="true"] { opacity: 1; pointer-events: auto; }
+[data-visible="true"] { opacity: 1; pointer-events: auto; transition-duration: 180ms; }
 .top-actions { display: flex; align-items: center; gap: 10px; }
-.icon-button, .text-pill, .text-button, .reveal-button { min-width: 44px; min-height: 44px; display: inline-grid; place-items: center; border: 1px solid var(--line); border-radius: 999px; background: var(--paper-glass); color: var(--ink); font: 13px var(--sans); backdrop-filter: blur(12px); }
+.icon-button, .text-pill, .text-button, .inline-narration { min-width: 44px; min-height: 44px; display: inline-grid; place-items: center; border: 1px solid var(--line); border-radius: 999px; background: var(--paper-glass); color: var(--ink); font: 13px var(--sans); backdrop-filter: blur(12px); }
 .text-pill, .text-button { padding: 0 14px; }
 .seal-button { color: var(--seal); }
 .seal-button[aria-pressed="true"] { background: var(--seal); color: #fffaf1; }
@@ -273,7 +273,12 @@ body[data-paper="sage"] { --paper: #e8eee5; --paper-deep: #dce5d6; --paper-glass
 .page-mark { color: var(--ink-soft); font: 11px var(--sans); white-space: nowrap; font-variant-numeric: tabular-nums; }
 .page-position { display: grid; justify-items: center; gap: 4px; }
 .scope-label { max-width: 90px; color: var(--ink-soft); font: 10px var(--sans); text-overflow: ellipsis; overflow: hidden; white-space: nowrap; }
-.reveal-button { position: absolute; z-index: 28; bottom: max(20px, env(safe-area-inset-bottom)); left: calc(50% - 25px); width: 50px; color: var(--ink-soft); }
+.compact-listening { position: absolute; z-index: 28; bottom: max(20px, env(safe-area-inset-bottom)); left: 24px; right: 24px; display: grid; justify-items: center; gap: 8px; pointer-events: none; }
+.inline-narration { width: 44px; height: 44px; pointer-events: auto; color: var(--ink-soft); }
+.inline-narration .pause-symbol, .inline-narration[data-playing="true"] .play-symbol { display: none; }
+.inline-narration[data-playing="true"] .pause-symbol { display: inline; }
+.inline-narration[aria-busy="true"] svg { opacity: .4; }
+.inline-narration-status { margin: 0; text-align: center; font: 12px/1.5 var(--sans); color: var(--ink-soft); }
 .pages { display: flex; height: 100%; width: 100%; overflow-x: auto; overflow-y: hidden; scroll-snap-type: x mandatory; scrollbar-width: none; overscroll-behavior-x: contain; }
 .pages::-webkit-scrollbar { display: none; }
 .poem-page { position: relative; flex: 0 0 100%; height: 100%; min-width: 0; overflow: hidden; scroll-snap-align: start; background: var(--paper); }
@@ -292,7 +297,7 @@ body[data-paper="sage"] { --paper: #e8eee5; --paper-deep: #dce5d6; --paper-glass
 .note { position: relative; margin-top: var(--note-gap, 98px); border-top: 1px solid var(--line); padding-top: 12px; text-align: left; color: #655b4d; font-family: var(--sans); }
 .note h3 { font-size: 12px; font-weight: 500; color: #4f4436; letter-spacing: .06em; margin: 0 0 6px; }
 .note p { margin: 0; font-size: 12px; line-height: 1.8; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; overflow: hidden; }
-.notes-off .note { display: none; }
+.notes-off .note { visibility: hidden; pointer-events: none; }
 .note-more { position: absolute; right: 0; top: -2px; min-height: 44px; min-width: 44px; font: 12px var(--sans); color: var(--seal); }
 .note h3 { padding-right: 45px; }
 .page-message { position: absolute; top: 48%; left: 25px; right: 25px; text-align: center; color: var(--ink-soft); font: 14px/1.8 var(--sans); }
@@ -353,3 +358,11 @@ select { min-height: 44px; max-width: 65%; padding: 5px 10px; border: 0; border-
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { scroll-behavior: auto !important; transition: none !important; animation: none !important; } }
 @media (prefers-reduced-transparency: reduce) { .icon-button, .text-button, .text-pill { backdrop-filter: none; background: var(--paper); } }
 @media (prefers-contrast: more) { :root { --ink-soft: #453c32; --ink-faint: #453c32; --line: #8b7c68; } .note, .poem-author { color: #453c32; } }
+
+.reading-summary { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 6px 16px; margin-top: 12px; font-size: 12px; color: var(--ink-soft); }
+.reading-summary label { display: flex; align-items: center; gap: 10px; }
+.reading-summary select { min-height: 44px; }
+.recommendation-hint, .reading-rule { font: 12px/1.6 var(--sans); color: var(--ink-soft); margin: 8px 0; }
+.poem-row-wrap { display: flex; gap: 6px; align-items: stretch; border-bottom: 1px solid var(--line); }
+.poem-row-wrap .poem-row { flex: 1; min-width: 0; width: auto; border-bottom-color: transparent; }
+.read-toggle { flex: 0 0 52px; min-height: 44px; align-self: center; font: 11px var(--sans); color: var(--ink-soft); }

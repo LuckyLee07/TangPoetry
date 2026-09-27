@@ -1,4 +1,4 @@
-import { readingLayout } from './reader-core.js?v=0.6.0';
+import { readingLayout } from './reader-core.js?v=0.6.4';
 
 export const escapeHTML = value => String(value ?? '').replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
 
@@ -39,11 +39,6 @@ export function layoutReadingPage(element, detail, options) {
   while (layout.fitWhole && size > layout.minimumFont && text.scrollHeight > body.clientHeight - layout.textRise - 21) {
     size = Math.max(layout.minimumFont, size - 0.5);
     element.style.setProperty('--poem-size', `${size}px`);
-  }
-  if (!layout.hasVisibleNotes) {
-    // Measure after fitting so wrapped titles and large text keep their scrolling room.
-    const noNoteShift = Math.max(0, Math.min(60, (body.clientHeight - text.scrollHeight - 21) / 2));
-    element.style.setProperty('--poem-top', `${layout.baseTop + noNoteShift}px`);
   }
 }
 

@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 .venv/
+.env.azure-speech.local
 assets/audio/.tts-*/
 data/audio/*.tmp
 node_modules/

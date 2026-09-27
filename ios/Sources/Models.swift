@@ -20,7 +20,6 @@ struct PoemSummary: Decodable, Identifiable, Sendable {
     let thumbnailFrame: ThumbnailFrame?
     let artworkMode: String?
     let artworkFocusY: Double?
-    let textStart: Double?
     let searchText: String
 }
 
@@ -93,7 +92,9 @@ enum PoemFilter {
             .components(separatedBy: .whitespacesAndNewlines.union(CharacterSet(charactersIn: "，。！？；、,.!?;·"))).joined()
     }
 
-    static func matches(_ poem: PoemSummary, query: String, category: String, collection: String, favorites: Set<String>, author: String = "all") -> Bool {
+    static func matches(_ poem: PoemSummary, query: String, category: String, collection: String, favorites: Set<String>, author: String = "all", readStatus: String = "all", readIDs: Set<String> = []) -> Bool {
+        (readStatus != "read" || readIDs.contains(poem.id)) &&
+        (readStatus != "unread" || !readIDs.contains(poem.id)) &&
         (collection != "featured" || poem.featured) &&
         (collection != "favorites" || favorites.contains(poem.id)) &&
         (category == "all" || category == poem.theme || category == poem.section) &&
@@ -109,24 +110,41 @@ struct ReadingScope: Codable, Equatable {
     var category = "all"
     var author = "all"
     var query = ""
+    var readStatus = "all"
 
     static let all = ReadingScope()
     var isAll: Bool { self == .all }
     var label: String {
         var parts: [String] = []
         if collection == "favorites" { parts.append("我的收藏") }
-        if collection == "featured" { parts.append("精选") }
+        if collection == "featured" { parts.append("推荐") }
+        if readStatus == "read" { parts.append("已读") }
+        if readStatus == "unread" { parts.append("未读") }
         if category != "all" { parts.append(category) }
         if author != "all" { parts.append(author) }
         if !query.isEmpty { parts.append("搜索：\(query)") }
         return parts.isEmpty ? "全库" : parts.joined(separator: " · ")
     }
 
-    func poems(in catalog: [PoemSummary], favorites: Set<String>) -> [PoemSummary] {
+    func poems(in catalog: [PoemSummary], favorites: Set<String>, readIDs: Set<String> = []) -> [PoemSummary] {
         catalog.filter {
             PoemFilter.matches($0, query: query, category: category,
-                               collection: collection, favorites: favorites, author: author)
+                               collection: collection, favorites: favorites, author: author, readStatus: readStatus, readIDs: readIDs)
         }
+    }
+}
+
+// Existing saved filters have no readStatus field; keep their other selections.
+extension ReadingScope {
+    private enum CodingKeys: String, CodingKey { case collection, category, author, query, readStatus }
+    init(from decoder: Decoder) throws {
+        let values = try decoder.container(keyedBy: CodingKeys.self)
+        collection = try values.decodeIfPresent(String.self, forKey: .collection) ?? "all"
+        category = try values.decodeIfPresent(String.self, forKey: .category) ?? "all"
+        author = try values.decodeIfPresent(String.self, forKey: .author) ?? "all"
+        query = try values.decodeIfPresent(String.self, forKey: .query) ?? ""
+        let savedStatus = try values.decodeIfPresent(String.self, forKey: .readStatus) ?? "all"
+        readStatus = ["all", "read", "unread"].contains(savedStatus) ? savedStatus : "all"
     }
 }
 

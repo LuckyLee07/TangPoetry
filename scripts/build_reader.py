@@ -172,7 +172,7 @@ def build():
             "searchText": " ".join([title, *aliases, poem["titleTraditional"], poem["author"], poem["authorTraditional"],
                                     poem["section"], theme, *poem.get("tags", []), poem["text"], poem["textTraditional"]])
         }
-        for key in ("artworkMode", "artworkFocusY", "textStart"):
+        for key in ("artworkMode", "artworkFocusY"):
             if key in edit:
                 item[key] = edit[key]
         catalog.append(item)

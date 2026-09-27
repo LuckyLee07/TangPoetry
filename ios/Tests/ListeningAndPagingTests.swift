@@ -24,7 +24,7 @@ final class ListeningAndPagingTests: XCTestCase {
         XCTAssertFalse(gate.gestureRecognizerShouldBegin(pan))
     }
 
-    @MainActor func testPreviewActuallyPlaysPausesAndReplays() async throws {
+    @MainActor func testNarrationActuallyPlaysPausesAndReplays() async throws {
         let catalog: PoemCatalog = try BundledContent.decode("catalog.json")
         let poem = try XCTUnwrap(catalog.poems.first { $0.title == "静夜思" })
         let player = NarrationPlayer()
@@ -44,6 +44,90 @@ final class ListeningAndPagingTests: XCTestCase {
         player.play()
         XCTAssertLessThan(player.elapsed, 0.5)
         XCTAssertTrue(player.isPlaying)
+    }
+
+    @MainActor func testOpeningListeningAutoplaysButDismissalAndManualPauseCancelThePendingStart() async throws {
+        let catalog: PoemCatalog = try BundledContent.decode("catalog.json")
+        let player = NarrationPlayer()
+        defer { player.stop() }
+        player.load(catalog.poems[0])
+        player.playAfterPresentation(delay: .milliseconds(60))
+        XCTAssertFalse(player.isPlaying)
+        try await Task.sleep(for: .milliseconds(180))
+        XCTAssertTrue(player.isPlaying)
+        player.seek(to: 3)
+        player.playAfterPresentation(delay: .milliseconds(60))
+        try await Task.sleep(for: .milliseconds(180))
+        XCTAssertGreaterThanOrEqual(player.elapsed, 3, "Reopening must not restart active playback")
+        player.pause()
+        player.playAfterPresentation(delay: .milliseconds(60))
+        player.cancelPendingPlayback() // Sheet dismissed or app backgrounded.
+        try await Task.sleep(for: .milliseconds(180))
+        XCTAssertFalse(player.isPlaying)
+        player.playAfterPresentation(delay: .milliseconds(60))
+        player.pause()
+        try await Task.sleep(for: .milliseconds(180))
+        XCTAssertFalse(player.isPlaying)
+        player.playAfterPresentation(delay: .milliseconds(60))
+        player.load(catalog.poems[1])
+        try await Task.sleep(for: .milliseconds(180))
+        XCTAssertFalse(player.isPlaying, "A stale request cannot start the newly selected poem")
+    }
+
+    @MainActor func testReadingIdleResetsAndWaitsForEverySuspensionToEnd() async throws {
+        let controls = ReaderControls(delay: .milliseconds(100))
+        controls.interacted()
+        try await Task.sleep(for: .milliseconds(60))
+        controls.interacted()
+        try await Task.sleep(for: .milliseconds(60))
+        XCTAssertTrue(controls.isVisible)
+        controls.setSuspended("touch", true)
+        controls.setSuspended("sheet", true)
+        controls.setSuspended("touch", false)
+        try await Task.sleep(for: .milliseconds(150))
+        XCTAssertTrue(controls.isVisible)
+        controls.setSuspended("sheet", false)
+        try await Task.sleep(for: .milliseconds(150))
+        XCTAssertFalse(controls.isVisible)
+        controls.interacted() // Page turns and compact playback must preserve hidden chrome.
+        controls.setSuspended("touch", true)
+        controls.setSuspended("touch", false)
+        try await Task.sleep(for: .milliseconds(150))
+        XCTAssertFalse(controls.isVisible)
+        controls.interacted(reveal: true)
+        controls.setSuspended("voiceOver", true)
+        try await Task.sleep(for: .milliseconds(150))
+        XCTAssertTrue(controls.isVisible)
+        controls.toggle() // Manual visibility remains available even with auto-hide disabled.
+        XCTAssertFalse(controls.isVisible)
+        controls.interacted(reveal: true)
+        XCTAssertTrue(controls.isVisible)
+    }
+
+    @MainActor func testCompactListeningSharesPlaybackAndResumesWithoutResettingPosition() throws {
+        let catalog: PoemCatalog = try BundledContent.decode("catalog.json")
+        let player = NarrationPlayer()
+        defer { player.stop() }
+        let first = catalog.poems[0], next = catalog.poems[1]
+        player.toggle(first)
+        XCTAssertTrue(player.isPlaying)
+        XCTAssertEqual(player.track?.id, first.id)
+        player.seek(to: 5)
+        player.toggle(first)
+        XCTAssertFalse(player.isPlaying)
+        XCTAssertEqual(player.elapsed, 5, accuracy: 0.1)
+        player.toggle(first)
+        XCTAssertTrue(player.isPlaying)
+        XCTAssertEqual(player.elapsed, 5, accuracy: 0.1)
+        player.toggle(next)
+        XCTAssertEqual(player.track?.id, next.id)
+        XCTAssertTrue(player.isPlaying)
+        XCTAssertLessThan(player.elapsed, 0.1)
+        player.seek(to: player.duration)
+        player.pause()
+        player.toggle(next)
+        XCTAssertTrue(player.isPlaying)
+        XCTAssertLessThan(player.elapsed, 0.1)
     }
 
     @MainActor func testCancelledCurlDoesNotSaveDestinationAndExternalSelectionWins() throws {
@@ -79,11 +163,13 @@ final class ListeningAndPagingTests: XCTestCase {
         XCTAssertNil(coordinator.pageViewController(pager, viewControllerAfter: try XCTUnwrap(pager.viewControllers?.first)))
     }
 
-    @MainActor func testFivePreviewTracksAreDecodableAndMatchTheirPoems() throws {
+    @MainActor func testFullLibraryTracksAreDecodableAndMatchTheirPoems() throws {
         let catalog: PoemCatalog = try BundledContent.decode("catalog.json")
         let manifest: NarrationManifest = try BundledContent.decode("Audio/manifest.json")
-        XCTAssertEqual(manifest.tracks.count, 5)
-        XCTAssertEqual(Set(manifest.tracks.values.map(\.title)), Set(["鹿柴", "春晓", "静夜思", "登鹳雀楼", "枫桥夜泊"]))
+        XCTAssertEqual(manifest.recipe.voiceLabel, "晓晓 · 诗歌朗读")
+        XCTAssertEqual(manifest.tracks.count, catalog.poems.count)
+        XCTAssertEqual(Set(manifest.tracks.keys), Set(catalog.poems.map(\.id)))
+        XCTAssertEqual(manifest.trackOrder, catalog.poems.map(\.id))
         for (id, track) in manifest.tracks {
             let poem = try XCTUnwrap(catalog.poems.first { $0.id == id })
             XCTAssertEqual(track.id, id)
@@ -100,7 +186,7 @@ final class ListeningAndPagingTests: XCTestCase {
         let player = NarrationPlayer()
         let first = try XCTUnwrap(catalog.poems.first { $0.title == "静夜思" })
         let second = try XCTUnwrap(catalog.poems.first { $0.title == "鹿柴" })
-        let unavailable = try XCTUnwrap(catalog.poems.first { $0.title == "长恨歌" })
+        let longPoem = try XCTUnwrap(catalog.poems.first { $0.title == "长恨歌" })
         player.load(first)
         XCTAssertEqual(player.track?.id, first.id)
         XCTAssertFalse(player.isPlaying)
@@ -113,12 +199,13 @@ final class ListeningAndPagingTests: XCTestCase {
         player.load(second)
         XCTAssertEqual(player.elapsed, 0)
         XCTAssertEqual(player.track?.id, second.id)
-        player.load(unavailable)
-        XCTAssertNil(player.track)
-        XCTAssertNil(player.error) // Unselected poems show the preview chooser, not a fake failure.
+        player.load(longPoem)
+        XCTAssertEqual(player.track?.id, longPoem.id)
+        XCTAssertNil(player.error)
         XCTAssertFalse(player.isPlaying)
-        XCTAssertEqual(player.duration, 0)
-        XCTAssertEqual(player.previewTracks.count, 5)
+        XCTAssertGreaterThan(player.duration, 180)
+        XCTAssertEqual(player.elapsed, 0)
+        XCTAssertEqual(player.availableTracks.map(\.id), catalog.poems.map(\.id))
         player.stop()
     }
 }

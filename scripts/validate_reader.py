@@ -2,6 +2,7 @@
 """Validate deliverable references, complete text, and curated pronunciation alignment."""
 import json
 from pathlib import Path
+from narration_recipe import validate_release
 
 ROOT = Path(__file__).resolve().parents[1]
 SECTION_ORDER = ["五言绝句", "七言绝句", "五言律诗", "七言律诗", "五言古诗", "七言古诗", "乐府"]
@@ -28,7 +29,8 @@ for poem in catalog:
     assert poem["thumbnailFrame"] == {key: icon_frames[poem["id"]][key] for key in ("x", "y", "side", "aspect")}, poem["id"]
     original = source[poem["id"]]
     edit = editorial.get(poem["id"], {})
-    for key in ("artworkMode", "artworkFocusY", "textStart"):
+    assert "textStart" not in poem and "textStart" not in edit, f"Retired artwork text offset: {poem['id']}"
+    for key in ("artworkMode", "artworkFocusY"):
         assert (key in poem) == (key in edit), f"Unexpected layout metadata: {poem['id']} {key}"
         if key in edit:
             assert poem[key] == edit[key], f"Layout metadata mismatch: {poem['id']} {key}"
@@ -37,8 +39,6 @@ for poem in catalog:
     if "artworkFocusY" in poem:
         assert poem.get("artworkMode") == "window", f"Artwork focus requires a window: {poem['id']}"
         assert type(poem["artworkFocusY"]) in (int, float) and 0 <= poem["artworkFocusY"] <= 1, poem["id"]
-    if "textStart" in poem:
-        assert type(poem["textStart"]) in (int, float) and 0 < poem["textStart"] < 1, poem["id"]
     assert poem["order"] == original["order"], f"Source order identity changed: {poem['id']}"
     assert poem["section"] == original["section"], f"Source genre changed: {poem['id']}"
     for key in ("image", "thumbnail"):
@@ -62,3 +62,4 @@ for poem in catalog:
 catalog_bytes = (ROOT / "data/reader/catalog.json").stat().st_size
 assert catalog_bytes < 600_000, catalog_bytes
 print(f"Validated {len(catalog)} poems in {len(SECTION_ORDER)} ordered genres, {sum(p['featured'] for p in catalog)} featured; catalog {catalog_bytes:,} bytes; source identities, all active images, and full text are preserved.")
+print(f"Validated {validate_release(ROOT)} narration tracks against their poems, recipe and file hashes.")

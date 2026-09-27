@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "poems": 320,
+  "images": 641,
+  "audioTracks": 320,
+  "audioBytes": 89174656,
+  "imageBytes": 100705674,
+  "contentBytes": 191308942,
+  "unreferencedArt": 0,
+  "appIcon": {
+    "slots": 9,
+    "files": 8,
+    "marketingPixels": 1024,
+    "opaque": true
+  }
+}

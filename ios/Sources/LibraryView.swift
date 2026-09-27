@@ -6,12 +6,13 @@ struct LibraryView: View {
     @State private var query = ""
     @State private var category = "all"
     @State private var author = "all"
+    @State private var readStatus = "all"
     @State var collection: String
     let select: (String, ReadingScope) -> Void
 
-    private var scope: ReadingScope { ReadingScope(collection: collection, category: category, author: author, query: query) }
+    private var scope: ReadingScope { ReadingScope(collection: collection, category: category, author: author, query: query, readStatus: readStatus) }
     private var results: [PoemSummary] {
-        scope.poems(in: store.poems, favorites: store.favorites)
+        scope.poems(in: store.poems, favorites: store.favorites, readIDs: store.readIDs)
     }
     private var authors: [String] { Array(Set(store.poems.map(\.author))).sorted { $0.localizedStandardCompare($1) == .orderedAscending } }
     private var sections: [String] {
@@ -29,8 +30,16 @@ struct LibraryView: View {
         NavigationStack {
             VStack(spacing: 0) {
                 Picker("诗集范围", selection: $collection) {
-                    Text("全部").tag("all"); Text("精选").tag("featured"); Text("收藏").tag("favorites")
+                    Text("全部").tag("all"); Text("推荐").tag("featured"); Text("收藏").tag("favorites")
                 }.pickerStyle(.segmented).padding(.horizontal).padding(.top, 8)
+                if collection == "featured" {
+                    Text("先从这 \(store.poems.filter(\.featured).count) 首读起")
+                        .font(.caption).foregroundStyle(.secondary).padding(.top, 8)
+                }
+                ViewThatFits(in: .horizontal) {
+                    HStack { readingTotal; Spacer(); readStatusPicker }
+                    VStack(alignment: .leading) { readingTotal; readStatusPicker }
+                }.padding(.horizontal).padding(.top, 8)
                 ViewThatFits(in: .horizontal) {
                     HStack { resultCount; Spacer(); categoryPicker; authorPicker }
                     VStack(alignment: .leading, spacing: 4) { resultCount; categoryPicker; authorPicker }
@@ -50,22 +59,50 @@ struct LibraryView: View {
                                                 Text(poem.author).font(.caption).foregroundStyle(.secondary)
                                             }
                                             Spacer(minLength: 0)
-                                            if store.favorites.contains(poem.id) { Image(systemName: "bookmark.fill").accessibilityLabel("已收藏") }
-                                            else if poem.featured { Text("精选").font(.caption2).foregroundStyle(.secondary) }
+                                            VStack(alignment: .trailing, spacing: 6) {
+                                                if store.readIDs.contains(poem.id) {
+                                                    Label("已读", systemImage: "checkmark").labelStyle(.titleAndIcon).font(.caption2).foregroundStyle(.secondary)
+                                                }
+                                                if store.favorites.contains(poem.id) { Image(systemName: "bookmark.fill").accessibilityLabel("已收藏") }
+                                            }.fixedSize()
                                         }.padding(.vertical, 3)
                                     }.listRowBackground(store.settings.paperColor)
+                                    .contextMenu {
+                                        Button(store.readIDs.contains(poem.id) ? "标为未读" : "标为已读") { store.setRead(poem.id, !store.readIDs.contains(poem.id)) }
+                                    }
+                                    .accessibilityAction(named: Text(store.readIDs.contains(poem.id) ? "标为未读" : "标为已读")) { store.setRead(poem.id, !store.readIDs.contains(poem.id)) }
+                                    .swipeActions(edge: .leading, allowsFullSwipe: false) {
+                                        Button(store.readIDs.contains(poem.id) ? "标为未读" : "标为已读") { store.setRead(poem.id, !store.readIDs.contains(poem.id)) }.tint(.brown)
+                                    }
                                     .swipeActions { Button(store.favorites.contains(poem.id) ? "取消收藏" : "收藏") { store.toggleFavorite(poem.id) }.tint(.brown) }
+                                    // Rebuild the row's cached swipe/accessibility actions when its status changes.
+                                    .id("\(poem.id)-\(store.readIDs.contains(poem.id))")
                                 }
                             }
                         }
                     }.listStyle(.plain).scrollContentBackground(.hidden)
                 }
+                Text("绝句 10 秒、律诗 20 秒、古诗与乐府 30 秒，并读到末尾后记为已读；长按诗目可修改。")
+                    .font(.caption2).foregroundStyle(.secondary).padding(.horizontal).padding(.vertical, 8)
             }
             .background(store.settings.paperColor)
             .navigationTitle("诗笺目录").navigationBarTitleDisplayMode(.inline)
             .searchable(text: $query, placement: .navigationBarDrawer(displayMode: .always), prompt: "诗名、作者，或记得的一句")
             .toolbar { ToolbarItem(placement: .confirmationAction) { Button("完成") { dismiss() } } }
         }.presentationDragIndicator(.visible)
+    }
+
+    private var readingTotal: some View {
+        Text("已读 \(store.readIDs.count) / \(store.poems.count) 首").font(.caption).foregroundStyle(.secondary)
+            .accessibilityLabel("全库已读 \(store.readIDs.count) 首，共 \(store.poems.count) 首")
+    }
+
+    private var readStatusPicker: some View {
+        Picker("阅读状态", selection: $readStatus) {
+            Text("全部进度").tag("all")
+            Text("未读").tag("unread")
+            Text("已读").tag("read")
+        }.pickerStyle(.menu)
     }
 
     private var resultCount: some View {
@@ -140,13 +177,13 @@ struct SettingsView: View {
                 }
                 GentleMotionSetting()
                 Section("听诗") {
-                    Text("先提供《鹿柴》《春晓》《静夜思》《登鹳雀楼》《枫桥夜泊》五首离线试听。在诗页轻点「听诗」或「试听」开始；换到另一首诗时会停止当前朗读。")
+                    Text("全库 320 首均可离线朗读，采用「晓晓 · 诗歌朗读」。在诗页轻点「听诗」开始，可按体裁更换诗词；换到另一首诗时会停止当前朗读。")
                     Text("开启系统「减少动态效果」时，翻页自动使用无动画模式。")
                 }.font(.footnote).foregroundStyle(.secondary)
                 Section("关于唐诗画笺") {
                     Text("一页一诗，一诗一画。")
-                    Text("所有诗词与插画均内置，可离线阅读。收藏、设置与阅读位置仅保存在当前设备，无需账号，无广告、无统计追踪。")
-                    Text("诗文按体裁分卷，同一体裁内保留选本顺序，部分题名使用常用别名。诗文与简注持续校订。版本 0.6.0")
+                    Text("所有诗词与插画均内置，可离线阅读。收藏、已读记录、设置与阅读位置仅保存在当前设备，无需账号，无广告、无统计追踪。")
+                    Text("诗文按体裁分卷，同一体裁内保留选本顺序，部分题名使用常用别名。诗文与简注持续校订。版本 0.6.6")
                 }.font(.footnote).foregroundStyle(.secondary)
             }.scrollContentBackground(.hidden).background(store.settings.paperColor)
             .navigationTitle("阅读设置").navigationBarTitleDisplayMode(.inline)

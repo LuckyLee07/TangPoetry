@@ -594,8 +594,7 @@
       ],
       "layout": "center-low",
       "contentStatus": "editorial-draft",
-      "displayTitle": "静夜思",
-      "textStart": 0.52
+      "displayTitle": "静夜思"
     },
     "tang-236-deng-guan-que-lou": {
       "featured": true,
@@ -801,83 +800,11 @@
     "tang-278-gong-ci": {
       "image": "assets/poem-art-additions/tang-278-gong-ci-v1.png"
     },
-    "tang-008-wang-yue": {
-      "textStart": 0.47
-    },
-    "tang-009-zeng-wei-ba-chu-shi": {
-      "textStart": 0.47
-    },
-    "tang-010-jia-ren": {
-      "textStart": 0.5
-    },
-    "tang-050-ting-dong-da-dan-hu-jia-sheng-jian-ji-yu-nong-fang-gei-shi": {
-      "textStart": 0.5
-    },
-    "tang-063-gu-bai-xing": {
-      "textStart": 0.49
-    },
-    "tang-076-luo-yang-nv-er-xing": {
-      "textStart": 0.53
-    },
-    "tang-079-shu-dao-nan": {
-      "textStart": 0.48
-    },
-    "tang-118-zhong-nan-shan": {
-      "textStart": 0.49
-    },
-    "tang-144-jiang-xiang-gu-ren-ou-ji-ke-she": {
-      "textStart": 0.46
-    },
-    "tang-154-qiu-ri-fu-que-ti-tong-guan-yi-lou": {
-      "textStart": 0.5
-    },
-    "tang-175-deng-jin-ling-feng-huang-tai": {
-      "textStart": 0.52
-    },
-    "tang-180-ji-yu-wang-chuan-zhuang-zuo": {
-      "textStart": 0.51
-    },
-    "tang-182-shu-xiang": {
-      "textStart": 0.48
-    },
-    "tang-185-wen-guan-jun-shou-he-nan-he-bei": {
-      "textStart": 0.46
-    },
-    "tang-190-yong-huai-gu-ji-wu-shou-zhi-yi": {
-      "textStart": 0.47
-    },
-    "tang-194-yong-huai-gu-ji-wu-shou-zhi-wu": {
-      "textStart": 0.47
-    },
-    "tang-212-wu-ti-zhi-yi": {
-      "textStart": 0.47
-    },
-    "tang-214-chou-bi-yi": {
-      "textStart": 0.48
-    },
-    "tang-215-wu-ti-zhi-san": {
-      "textStart": 0.46
-    },
-    "tang-218-wu-ti-zhi-wu": {
-      "textStart": 0.5
-    },
     "tang-108-zhi-de-er-zai-fu-zi-jing-jin-guang-men-chu-wen-dao-gui-feng-xiang-qian-yuan-chu-": {
       "displayTitle": "至德二载甫自京金光门出…有悲往事"
     },
     "tang-208-zi-he-nan-jing-luan-guan-nei-zu-ji-xiong-di-li-san-ge-zai-yi-chu-yin-wang-yue-yo": {
       "displayTitle": "望月有感"
-    },
-    "tang-026-zei-tui-shi-guan-li-bing-xu": {
-      "textStart": 0.46
-    },
-    "tang-064-guan-gong-sun-da-niang-di-zi-wu-jian-qi-xing-bing-xu": {
-      "textStart": 0.46
-    },
-    "tang-072-pi-pa-xing-bing-xu": {
-      "textStart": 0.47
-    },
-    "tang-093-zai-yu-yong-chan-bing-xu": {
-      "textStart": 0.46
     }
   }
 }

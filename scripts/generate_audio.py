@@ -74,6 +74,8 @@ async def generate(args):
     output = ROOT / "assets/audio"
     output.mkdir(parents=True, exist_ok=True)
     previous = json.loads(index_path.read_text()) if index_path.exists() else {}
+    if previous.get("recipe", {}).get("engine") == "azure-speech":
+        raise RuntimeError("正式库已使用 Azure 诗歌朗读；旧 Edge 试制脚本不会覆盖它。请使用 generate_azure_audio.py。")
     selection = args.ids if args.ids else ([p["id"] for p in catalog] if args.all else PREVIEW_IDS)
     records = previous.get("tracks", {}) if previous.get("recipe") == recipe else {}
     # Never keep orphaned records when the catalogue changes.

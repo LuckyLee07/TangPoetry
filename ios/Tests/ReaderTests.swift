@@ -5,11 +5,11 @@ final class ReaderTests: XCTestCase {
     private func layout(characters: Int, verses: Int, width: CGFloat = 390, height: CGFloat = 760,
                         title: String = "山居秋暝",
                         fontSetting: Int = 22, dynamicScale: CGFloat = 1,
-                        textStart: CGFloat? = nil, showsNote: Bool = true) -> PoemLayout {
+                        showsNote: Bool = true) -> PoemLayout {
         PoemLayout.resolve(
             section: "乐府", lines: Array(repeating: String(repeating: "山", count: characters) + "。", count: verses),
             title: title, author: "王维", size: CGSize(width: width, height: height),
-            fontSetting: fontSetting, dynamicScale: dynamicScale, textStart: textStart, showsNote: showsNote
+            fontSetting: fontSetting, dynamicScale: dynamicScale, showsNote: showsNote
         )
     }
 
@@ -32,9 +32,9 @@ final class ReaderTests: XCTestCase {
         XCTAssertEqual(fiveRegulated.contentTop, 760 * 0.39 - 70, accuracy: 0.01)
         XCTAssertEqual(medium.contentTop, fiveRegulated.contentTop, accuracy: 0.01)
         XCTAssertEqual(ballad.contentTop, fiveRegulated.contentTop, accuracy: 0.01)
-        // Relative to the type-fitting baseline, the poem is 45pt higher and the note 25pt lower.
+        // These fixtures use the yuefu genre, so even four-line poems use its closer note gap.
         XCTAssertEqual(fiveQuatrain.contentTop + fiveQuatrain.noteTopPadding,
-                       760 * 0.45 - 25 + 12 + 25, accuracy: 0.01)
+                       760 * 0.45 - 25 + 12 - 10, accuracy: 0.01)
         XCTAssertLessThan(fiveRegulated.lineSpacing, fiveQuatrain.lineSpacing)
         XCTAssertGreaterThan(ballad.estimatedContentHeight, 760)
         XCTAssertGreaterThanOrEqual(ballad.fontSize, 18)
@@ -56,7 +56,7 @@ final class ReaderTests: XCTestCase {
         XCTAssertGreaterThan(longTitle.estimatedContentHeight, shortTitle.estimatedContentHeight)
         let limitedHeight = layout(characters: 5, verses: 4, width: 320, height: 200)
         XCTAssertEqual(limitedHeight.contentTop, 100, accuracy: 0.01)
-        XCTAssertEqual(limitedHeight.noteTopPadding, 37, accuracy: 0.01)
+        XCTAssertEqual(limitedHeight.noteTopPadding, 2, accuracy: 0.01)
     }
 
     func testUserSizeAndDynamicTypeRetainAReadableScaledFloor() {
@@ -69,10 +69,10 @@ final class ReaderTests: XCTestCase {
         XCTAssertEqual(enlarged.contentTop, normal.contentTop, accuracy: 0.01)
     }
 
-    func testPoemsWithoutVisibleNotesUseAvailableWhitespace() {
+    func testHidingNotesPreservesPoemPositionAndTypography() {
         let annotated = layout(characters: 7, verses: 4)
         let unannotated = layout(characters: 7, verses: 4, showsNote: false)
-        XCTAssertEqual(unannotated.contentTop - annotated.contentTop, 60, accuracy: 0.01)
+        XCTAssertEqual(unannotated.contentTop, annotated.contentTop, accuracy: 0.01)
         XCTAssertEqual(unannotated.fontSize, annotated.fontSize)
         XCTAssertEqual(unannotated.lineSpacing, annotated.lineSpacing)
         XCTAssertEqual(unannotated.estimatedContentHeight, annotated.estimatedContentHeight)
@@ -85,16 +85,6 @@ final class ReaderTests: XCTestCase {
         let longWithoutNotes = layout(characters: 7, verses: 120, showsNote: false)
         XCTAssertEqual(longWithoutNotes.contentTop, long.contentTop)
         XCTAssertEqual(longWithoutNotes.fontSize, long.fontSize)
-    }
-
-    func testArtworkSpecificTextStartCanMoveDownButNeverBackIntoThePainting() {
-        let lower = layout(characters: 5, verses: 4, textStart: 0.52)
-        let aboveReadingArea = layout(characters: 5, verses: 4, textStart: 0.20)
-        let belowPage = layout(characters: 5, verses: 4, textStart: 1)
-        XCTAssertEqual(lower.contentTop, 760 * 0.52 - 70, accuracy: 0.01)
-        XCTAssertEqual(aboveReadingArea.contentTop, 760 * 0.45 - 70, accuracy: 0.01)
-        XCTAssertEqual(belowPage.contentTop, 760 * 0.7 - 70, accuracy: 0.01)
-        XCTAssertGreaterThanOrEqual(belowPage.fontSize, 22)
     }
 
     func testBundledArtworkRefreshesUseFullPageIllustrations() throws {
@@ -110,10 +100,8 @@ final class ReaderTests: XCTestCase {
         }
         let quietNight = try XCTUnwrap(catalog.poems.first { $0.id == "tang-233-ye-si" })
         XCTAssertNil(quietNight.artworkMode)
-        XCTAssertEqual(try XCTUnwrap(quietNight.textStart), 0.52, accuracy: 0.001)
         let mountainAutumn = try XCTUnwrap(catalog.poems.first { $0.id == "tang-116-shan-ju-qiu-ming" })
         XCTAssertNil(mountainAutumn.artworkMode)
-        XCTAssertNil(mountainAutumn.textStart)
     }
 
     func testBundledLibraryReadsInGenreVolumesWithOriginalOrderWithinEachVolume() throws {
@@ -175,15 +163,15 @@ final class ReaderTests: XCTestCase {
                     for scale in [CGFloat(1), CGFloat(1.6)] {
                         let base = PoemLayout.resolve(section: poem.section, lines: detail.rubyLines.map { $0.map(\.text).joined() },
                             title: poem.title, author: poem.author, size: size, fontSetting: setting, dynamicScale: scale,
-                            textStart: poem.textStart.map { CGFloat($0) }, showsNote: true)
+                            showsNote: true)
                         let bare = PoemLayout.resolve(section: poem.section, lines: detail.rubyLines.map { $0.map(\.text).joined() },
                             title: poem.title, author: poem.author, size: size, fontSetting: setting, dynamicScale: scale,
-                            textStart: poem.textStart.map { CGFloat($0) }, showsNote: false)
+                            showsNote: false)
                         XCTAssertTrue(base.fontSize.isFinite && base.estimatedContentHeight.isFinite, poem.id)
                         XCTAssertGreaterThanOrEqual(base.fontSize + 0.001, 18 * CGFloat(setting) / 22 * scale, poem.id)
                         XCTAssertGreaterThanOrEqual(size.height - bare.contentTop - 65, 80, poem.id)
                         XCTAssertEqual(base.fontSize, bare.fontSize, accuracy: 0.001, poem.id)
-                        XCTAssertGreaterThanOrEqual(bare.contentTop, base.contentTop, poem.id)
+                        XCTAssertEqual(bare.contentTop, base.contentTop, accuracy: 0.001, poem.id)
                         XCTAssertLessThanOrEqual(bare.contentTop - base.contentTop, 60.001, poem.id)
                     }
                 }

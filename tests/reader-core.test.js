@@ -56,7 +56,7 @@ test('requests deduplicate, failed poems can retry, and cache remains bounded', 
   assert.equal(calls, 5);
 });
 
-test('poems stay in the illustration whitespace, with readable type and scrolling for longer works', async () => {
+test('poems share reading starts by length, with readable type and scrolling for longer works', async () => {
   const load = async id => ({ ...poems.find(p => p.id === id), ...JSON.parse(await readFile(new URL(`../data/reader/poems/${id}.json`, import.meta.url))) });
   const short = await load('tang-227-xiang-si');
   const regulated = await load('tang-116-shan-ju-qiu-ming');
@@ -74,8 +74,8 @@ test('poems stay in the illustration whitespace, with readable type and scrollin
   assert.equal(a.fontSize, 26);
   assert.equal(b.fontSize, 22);
   assert.equal(c.top, b.top);
-  const lowerArtwork = readingLayout({ ...short, textStart: 0.52 });
-  assert.equal(lowerArtwork.top, 844 * 0.52 - 70);
+  const legacyArtworkOffset = readingLayout({ ...short, textStart: 0.52 });
+  assert.deepEqual(legacyArtworkOffset, a, 'Legacy artwork offsets must not move the poem');
   assert.equal(c.fitWhole, false);
   assert(c.fontSize >= 18);
   const small = readingLayout(regulated, { width: 320, height: 568 });
@@ -86,11 +86,11 @@ test('poems stay in the illustration whitespace, with readable type and scrollin
   const veryShort = readingLayout(regulated, { width: 320, height: 350 });
   assert.equal(veryShort.top, 100);
   assert(veryShort.textRise < 45);
-  assert.equal(veryShort.noteGap - veryShort.textRise - 28, 25);
+  assert.equal(veryShort.noteGap - veryShort.textRise - 28, -10);
   const atFloor = readingLayout(regulated, { width: 320, height: 300 });
   assert.equal(atFloor.top, 100);
   assert.equal(atFloor.textRise, 0);
-  assert.equal(atFloor.noteGap, 53);
+  assert.equal(atFloor.noteGap, 18);
   const large = readingLayout(regulated, { fontSize: 30 });
   assert(large.fontSize > b.fontSize);
   const noNotes = readingLayout({ ...regulated, note: '' }, { width: 320, height: 568 });
@@ -99,14 +99,14 @@ test('poems stay in the illustration whitespace, with readable type and scrollin
   assert(noNotes.top >= small.top);
   assert.equal(readingLayout({ ...regulated, note: '' }, { width: 320, height: 350 }).top, veryShort.top, 'Poems with no spare height must keep their scrolling room');
   const noShortNote = readingLayout({ ...short, note: '' });
-  assert(noShortNote.top > a.top, 'A short poem without a visible note uses the spare space below it');
+  assert.equal(noShortNote.top, a.top, 'Annotation visibility never moves the poem');
   assert(noShortNote.noNoteShift <= 60);
   assert.equal(noShortNote.baseTop, a.top);
   assert.equal(noShortNote.fontSize, a.fontSize);
   assert.equal(noShortNote.lineHeight, a.lineHeight);
   assert.deepEqual(readingLayout(short, { notesEnabled: false }), noShortNote);
   assert.deepEqual(readingLayout({ ...short, note: ' \n ' }), noShortNote);
-  assert.deepEqual(readingLayout(short, { notesEnabled: true }), a, 'Showing notes restores the original layout');
+  assert.deepEqual(readingLayout(short, { notesEnabled: true }), a, 'Showing notes preserves the original layout');
   assert.equal(readingLayout(epic, { notesEnabled: false }).noNoteShift, 0);
   const longTitle = readingLayout({ ...regulated, title: '山'.repeat(30) }, { width: 320, height: 568, fontSize: 30 });
   assert.equal(longTitle.top, small.top);

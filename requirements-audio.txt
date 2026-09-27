@@ -1,4 +1,5 @@
 # Isolated from the data/illustration build; includes its own ffmpeg binary.
 edge-tts==7.2.8
+certifi==2026.7.22
 imageio-ffmpeg==0.6.0
 mutagen==1.48.1

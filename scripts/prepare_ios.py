@@ -15,9 +15,9 @@ import subprocess
 import tempfile
 from pathlib import Path
 try:
-    from scripts.generate_audio import narration_text, sha
+    from scripts.narration_recipe import input_hash
 except ModuleNotFoundError:
-    from generate_audio import narration_text, sha
+    from narration_recipe import input_hash
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "ios/Content"
@@ -151,9 +151,7 @@ def build(root=ROOT, out=None, converter=convert_jpeg):
                 for identity, track in narration["tracks"].items():
                     if "inputSHA256" in track:
                         detail = json.loads((root / f"data/reader/poems/{identity}.json").read_text())
-                        inputs = json.dumps({"text": narration_text(detail), "recipe": narration["recipe"]},
-                                            sort_keys=True, ensure_ascii=False).encode()
-                        if sha(inputs) != track["inputSHA256"]:
+                        if input_hash(detail, narration["recipe"]) != track["inputSHA256"]:
                             raise ValueError(f"Regenerate narration after poem or voice changes: {identity}")
                     source = root / track["file"]
                     if digest(source) != track["sha256"] or source.stat().st_size != track["bytes"]:

@@ -1,9 +1,10 @@
 // Reading state is keyed by the edition's stable poem IDs, never its current sort order.
-export const ALL_POEMS = Object.freeze({ query: '', collection: 'all', category: 'all', author: 'all' });
+export const ALL_POEMS = Object.freeze({ query: '', collection: 'all', category: 'all', author: 'all', readStatus: 'all' });
 
 export function sanitizeReadingScope(value) {
   const input = value && typeof value === 'object' ? value : {};
   return {
+    readStatus: ['all', 'read', 'unread'].includes(input.readStatus) ? input.readStatus : 'all',
     query: typeof input.query === 'string' ? input.query.trim().slice(0, 200) : '',
     collection: ['all', 'featured', 'favorites'].includes(input.collection) ? input.collection : 'all',
     category: typeof input.category === 'string' && input.category ? input.category : 'all',
@@ -12,13 +13,15 @@ export function sanitizeReadingScope(value) {
 }
 
 export function isAllPoems(scope) {
-  return scope.collection === 'all' && scope.category === 'all' && scope.author === 'all' && !scope.query;
+  return (!scope.readStatus || scope.readStatus === 'all') && scope.collection === 'all' && scope.category === 'all' && scope.author === 'all' && !scope.query;
 }
 
 export function readingScopeLabel(scope) {
   const labels = [];
   if (scope.collection === 'favorites') labels.push('收藏');
-  if (scope.collection === 'featured') labels.push('精选');
+  if (scope.collection === 'featured') labels.push('推荐');
+  if (scope.readStatus === 'read') labels.push('已读');
+  if (scope.readStatus === 'unread') labels.push('未读');
   if (scope.category !== 'all') labels.push(scope.category);
   if (scope.author !== 'all') labels.push(scope.author);
   if (scope.query) labels.push('搜索结果');

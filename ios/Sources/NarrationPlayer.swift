@@ -6,6 +6,7 @@ struct NarrationManifest: Decodable {
     struct Recipe: Decodable { let voiceLabel: String }
     let recipe: Recipe
     let tracks: [String: NarrationTrack]
+    let trackOrder: [String]?
 }
 
 struct NarrationTrack: Decodable {
@@ -18,7 +19,7 @@ struct NarrationTrack: Decodable {
 
 @MainActor final class NarrationPlayer: NSObject, ObservableObject, AVAudioPlayerDelegate {
     @Published private(set) var track: NarrationTrack?
-    @Published private(set) var voiceLabel = "云希 · 男声"
+    @Published private(set) var voiceLabel = "晓晓 · 诗歌朗读"
     @Published private(set) var isPlaying = false
     @Published private(set) var elapsed: Double = 0
     @Published private(set) var duration: Double = 0
@@ -26,8 +27,12 @@ struct NarrationTrack: Decodable {
     @Published var rate: Float = 1 { didSet { player?.rate = rate; updateNowPlaying() } }
     private var player: AVAudioPlayer?
     private var timer: Timer?
+    private var pendingPlayback: Task<Void, Never>?
     @Published private var manifest: NarrationManifest?
-    var previewTracks: [NarrationTrack] { (manifest?.tracks.values.map { $0 } ?? []).sorted { $0.id < $1.id } }
+    var availableTracks: [NarrationTrack] {
+        guard let manifest else { return [] }
+        return (manifest.trackOrder ?? manifest.tracks.keys.sorted()).compactMap { manifest.tracks[$0] }
+    }
     func hasAudio(for id: String) -> Bool { manifest?.tracks[id] != nil }
     private var hasStarted = false
     private var observations: [NSObjectProtocol] = []
@@ -68,6 +73,7 @@ struct NarrationTrack: Decodable {
     }
 
     deinit {
+        pendingPlayback?.cancel()
         timer?.invalidate()
         observations.forEach(NotificationCenter.default.removeObserver)
         commands.forEach { $0.0.removeTarget($0.1) }
@@ -97,9 +103,31 @@ struct NarrationTrack: Decodable {
         }
     }
 
+    func cancelPendingPlayback() {
+        pendingPlayback?.cancel()
+        pendingPlayback = nil
+    }
+
+    func playAfterPresentation(delay: Duration = .milliseconds(350)) {
+        cancelPendingPlayback()
+        guard let id = track?.id, !isPlaying else { return }
+        pendingPlayback = Task { [weak self] in
+            do { try await Task.sleep(for: delay) } catch { return }
+            guard let self, !Task.isCancelled, self.track?.id == id, !self.isPlaying else { return }
+            self.play()
+        }
+    }
+
     func toggle() { isPlaying ? pause() : play() }
 
+    /// The compact reader control shares the full player's audio and position.
+    func toggle(_ poem: PoemSummary) {
+        if track?.id == poem.id, isPlaying { pause() }
+        else { load(poem); play() }
+    }
+
     func play() {
+        cancelPendingPlayback()
         guard let player else { return }
         do {
             let session = AVAudioSession.sharedInstance()
@@ -127,6 +155,7 @@ struct NarrationTrack: Decodable {
     }
 
     func pause() {
+        cancelPendingPlayback()
         player?.pause()
         elapsed = player?.currentTime ?? elapsed
         isPlaying = false
@@ -137,6 +166,7 @@ struct NarrationTrack: Decodable {
     }
 
     func seek(to time: Double) {
+        cancelPendingPlayback()
         guard time.isFinite, let player else { return }
         elapsed = min(max(time, 0), duration)
         player.currentTime = elapsed
@@ -144,6 +174,7 @@ struct NarrationTrack: Decodable {
     }
 
     func stop() {
+        cancelPendingPlayback()
         player?.stop()
         player = nil
         timer?.invalidate()
@@ -201,6 +232,7 @@ struct NarrationView: View {
     @ObservedObject var player: NarrationPlayer
     @EnvironmentObject private var store: PoemStore
     @Environment(\.dismiss) private var dismiss
+    @Environment(\.scenePhase) private var scenePhase
     @State private var seeking = false
     @State private var seekTime: Double = 0
 
@@ -209,10 +241,10 @@ struct NarrationView: View {
             ScrollView {
                 VStack(spacing: player.track == nil && player.error == nil ? 12 : 22) {
                     if player.track == nil && player.error == nil {
-                        Text("先听五首").font(.title2)
-                        Text("试试声音和节奏，选一首开始。")
+                        Text("选一首听诗").font(.title2)
+                        Text("这首音频暂不可用，可以先听其他诗。")
                             .font(.callout).foregroundStyle(.secondary)
-                        ForEach(player.previewTracks, id: \.id) { track in
+                        ForEach(player.availableTracks, id: \.id) { track in
                             Button { select(track) } label: {
                                 HStack {
                                     Text(track.title)
@@ -220,7 +252,7 @@ struct NarrationView: View {
                                     Text(track.author).font(.caption).foregroundStyle(.secondary)
                                     Image(systemName: "play.circle").font(.title3)
                                 }.frame(minHeight: 44)
-                            }.accessibilityLabel("试听\(track.title)，\(track.author)")
+                            }.accessibilityLabel("朗读\(track.title)，\(track.author)")
                         }
                     } else {
                     VStack(spacing: 10) {
@@ -271,12 +303,16 @@ struct NarrationView: View {
                         Text("1.15×").tag(Float(1.15))
                         Text("1.3×").tag(Float(1.3))
                     }.pickerStyle(.segmented)
-                    Menu("更换试听诗 · \(player.previewTracks.count) 首") {
-                        ForEach(player.previewTracks, id: \.id) { track in
-                            Button("\(track.title) · \(track.author)") { select(track) }
+                    Menu("更换诗词 · \(player.availableTracks.count) 首") {
+                        ForEach(listeningSections, id: \.self) { section in
+                            Menu(section) {
+                                ForEach(tracks(in: section), id: \.id) { track in
+                                    Button("\(track.title) · \(track.author)") { select(track) }
+                                }
+                            }
                         }
                     }.frame(minHeight: 44)
-                    Text("离线试听 · 锁屏后也可继续听")
+                    Text("离线朗读 · 锁屏后也可继续听")
                         .font(.caption).foregroundStyle(.secondary)
                     }
                 }.padding(.horizontal, 28).padding(.vertical, 24)
@@ -284,6 +320,11 @@ struct NarrationView: View {
             .background(store.settings.paperColor)
             .navigationTitle("听诗").navigationBarTitleDisplayMode(.inline)
             .toolbar { ToolbarItem(placement: .confirmationAction) { Button("完成") { dismiss() } } }
+        }
+        .onAppear { player.playAfterPresentation() }
+        .onDisappear { player.cancelPendingPlayback() }
+        .onChange(of: scenePhase) { _, phase in
+            if phase != .active { player.cancelPendingPlayback() }
         }
         .tint(.brown)
         .presentationDetents([.fraction(0.58), .large])
@@ -296,6 +337,17 @@ struct NarrationView: View {
         store.openPoem(poem.id)
         player.load(poem)
         player.play()
+    }
+
+    private var listeningSections: [String] {
+        store.poems.reduce(into: [String]()) { sections, poem in
+            if player.hasAudio(for: poem.id), !sections.contains(poem.section) { sections.append(poem.section) }
+        }
+    }
+
+    private func tracks(in section: String) -> [NarrationTrack] {
+        let tracks = Dictionary(uniqueKeysWithValues: player.availableTracks.map { ($0.id, $0) })
+        return store.poems.filter { $0.section == section }.compactMap { tracks[$0.id] }
     }
 
     private func timestamp(_ seconds: Double) -> String {

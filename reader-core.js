@@ -27,9 +27,11 @@ export function normalizeSearch(value) {
   return String(value || "").normalize("NFKC").toLocaleLowerCase().replace(/\s+/g, "").replace(/[，。！？；、,.!?;·]/g, "");
 }
 
-export function filterPoems(poems, { query = "", category = "all", collection = "all", author = "all" } = {}, favorites = new Set()) {
+export function filterPoems(poems, { query = "", category = "all", collection = "all", author = "all", readStatus = "all" } = {}, favorites = new Set(), readIDs = new Set()) {
   const needle = normalizeSearch(query);
   return poems.filter(poem =>
+    (readStatus !== "read" || readIDs.has(poem.id)) &&
+    (readStatus !== "unread" || !readIDs.has(poem.id)) &&
     (collection !== "featured" || poem.featured) &&
     (collection !== "favorites" || favorites.has(poem.id)) &&
     (category === "all" || poem.theme === category || poem.section === category) &&
@@ -69,8 +71,8 @@ export function createPoemLoader(fetchPoem, maxEntries = 12) {
   };
 }
 
-// Keep the illustration visible. Fit the poem within its reserved paper area,
-// then scroll there if needed; content length never pulls text over the artwork.
+// Share a reading start by poem length. Text stays transparent over the artwork;
+// longer works scroll within the reading area instead of shifting individual pages.
 export function readingLayout(poem, { width = 390, height = 844, fontSize = 22, notesEnabled = true } = {}) {
   const texts = poem.rubyLines.map(line => line.map(([text]) => text).join(''));
   const lengths = texts.map(text => [...text.replace(/[\p{Punctuation}\s]/gu, '')].length);
@@ -90,10 +92,12 @@ export function readingLayout(poem, { width = 390, height = 844, fontSize = 22, 
   const lineHeight = short ? 1.95 : regulated ? (height < 620 ? 1.35 : 1.6) : medium ? 1.55 : 1.7;
   const bottom = 84;
   const defaultStart = short ? 0.45 : 0.39;
-  const fittingTop = Math.max(100, height * Math.max(defaultStart, Math.min(0.7, poem.textStart || defaultStart)) - 25);
+  const fittingTop = Math.max(100, height * defaultStart - 25);
   const baseTop = Math.max(100, fittingTop - 45);
   const textRise = fittingTop - baseTop;
-  const noteGap = 28 + textRise + 25;
+  const isQuatrainGenre = poem.section === '五言绝句' || poem.section === '七言绝句';
+  const noteLift = isQuatrainGenre ? 0 : 35;
+  const noteGap = 28 + textRise + 25 - noteLift;
   let fittedFont = preferredFont;
   const bodyWidth = Math.max(80, width - 80);
   const titleSize = Math.min(26, Math.max(20, baseFont + 1));
@@ -111,7 +115,7 @@ export function readingLayout(poem, { width = 390, height = 844, fontSize = 22, 
   }
   const resolvedFont = Math.round(fittedFont * 10) / 10;
   const hasVisibleNotes = notesEnabled && Boolean(poem.note?.trim());
-  const noNoteShift = hasVisibleNotes ? 0 : Math.max(0, Math.min(60, (height - bottom - baseTop - estimatedHeight(resolvedFont)) / 2));
+  const noNoteShift = 0; // Toggling notes must not move the poem.
   const top = baseTop + noNoteShift;
   return { kind, lineCount, fontSize: resolvedFont, minimumFont, baseTop, top, bottom, textRise, noteGap, hasVisibleNotes, noNoteShift, lineHeight, titleSize, fitWhole };
 }
