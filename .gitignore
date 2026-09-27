@@ -4,6 +4,22 @@ __pycache__/
 .venv/
 .env.azure-speech.local
 assets/audio/.tts-*/
+# Poem artwork and narration are local assets; keep text metadata tracked.
+/assets/**/*.png
+/assets/**/*.jpg
+/assets/**/*.jpeg
+/assets/**/*.webp
+/assets/**/*.gif
+/assets/**/*.avif
+/assets/**/*.heic
+/assets/**/*.svg
+/assets/**/*.mp3
+/assets/**/*.wav
+/assets/**/*.m4a
+/assets/**/*.aac
+/assets/**/*.ogg
+/assets/**/*.flac
+/assets/**/*.aiff
 data/audio/*.tmp
 node_modules/
 output/
