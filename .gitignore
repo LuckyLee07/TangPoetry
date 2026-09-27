@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 .venv/
+assets/audio/.tts-*/
+data/audio/*.tmp
 node_modules/
 output/
 ios/build/

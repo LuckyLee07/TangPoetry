@@ -1,8 +1,9 @@
-import { setupReadingExtras } from './reader-extras.js?v=0.5.1';
-import { parseStored, sanitizeSettings, migrateFavorites, filterPoems, initialIndex, createPoemLoader } from './reader-core.js?v=0.5.1';
+import { setupReadingExtras } from './reader-extras.js?v=0.6.0';
+import { setupNarration } from './reader-narration.js?v=0.6.0';
+import { parseStored, sanitizeSettings, migrateFavorites, filterPoems, initialIndex, createPoemLoader } from './reader-core.js?v=0.6.0';
 
-import { escapeHTML, layoutReadingPage, poemMarkup, notesMarkup, directoryArtworkMarkup } from './reader-renderer.js?v=0.5.1';
-import { ALL_POEMS, sanitizeReadingScope, isAllPoems, readingScopeLabel, selectionAfterScopeChange, sanitizeReadingProgress, captureParagraphProgress, restoreParagraphProgress, paragraphMetrics, isReadingSurfaceTap } from './reader-continuity.js?v=0.5.1';
+import { escapeHTML, layoutReadingPage, poemMarkup, notesMarkup, directoryArtworkMarkup } from './reader-renderer.js?v=0.6.0';
+import { ALL_POEMS, sanitizeReadingScope, isAllPoems, readingScopeLabel, selectionAfterScopeChange, sanitizeReadingProgress, captureParagraphProgress, restoreParagraphProgress, paragraphMetrics, isReadingSurfaceTap } from './reader-continuity.js?v=0.6.0';
 
 const $ = selector => document.querySelector(selector);
 const keys = { favorites: 'tang-favorites-v2', settings: 'tang-settings-v1', position: 'tang-position-v1', scope: 'tang-reading-scope-v1', progress: 'tang-reading-progress-v1' };
@@ -18,6 +19,7 @@ let shells = [], activeIDs = new Set(), loading = false, lastSavedID = '', align
 let progressTimer, restoringProgress = false;
 const pageDetails = new WeakMap();
 let extras;
+const narration = setupNarration(() => poems[currentIndex], openPoem);
 
 async function fetchJSON(url) {
   const response = await fetch(url, { cache: 'no-cache', signal: AbortSignal.timeout(15000) });
@@ -123,6 +125,7 @@ function hydrateWindow() {
   });
 }
 function updateState({ announce = false } = {}) {
+  narration.update();
   const poem = poems[currentIndex];
   if (!poem) return;
   $('#pageMark').textContent = `${currentIndex + 1} / ${poems.length}`;

@@ -14,6 +14,10 @@ import shutil
 import subprocess
 import tempfile
 from pathlib import Path
+try:
+    from scripts.generate_audio import narration_text, sha
+except ModuleNotFoundError:
+    from generate_audio import narration_text, sha
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "ios/Content"
@@ -36,6 +40,14 @@ def image_sources(catalog):
     return sorted({p[field] for p in catalog["poems"] for field in ("image", "thumbnail")} | {COVER})
 
 
+def validate_audio_coverage(narration, catalog):
+    catalog_ids = {p["id"] for p in catalog["poems"]}
+    track_ids = set(narration["tracks"])
+    expected = set(narration.get("previewIDs", [])) if narration.get("release") == "preview" else catalog_ids
+    if not expected or track_ids != expected or not track_ids <= catalog_ids:
+        raise ValueError("Complete the narration selection before packaging iOS content")
+
+
 def validate_snapshot(out):
     """Check manifest, catalog references and exact generated file membership."""
     catalog = json.loads((out / "catalog.json").read_text())
@@ -47,6 +59,19 @@ def validate_snapshot(out):
         raise ValueError("Image manifest and catalog references disagree")
     poems = {f"poems/{p['id']}.json" for p in catalog["poems"]}
     expected = images | poems | {"catalog.json", MANIFEST}
+    audio = manifest.get("audio", {})
+    if audio:
+        narration = json.loads((out / "Audio/manifest.json").read_text())
+        validate_audio_coverage(narration, catalog)
+        if set(audio) != set(narration["tracks"]):
+            raise ValueError("Audio manifest identities disagree")
+        expected |= {record["target"] for record in audio.values()} | {"Audio/manifest.json"}
+        for identity, record in audio.items():
+            track = narration["tracks"][identity]
+            target = out / record["target"]
+            if (track["file"] != record["target"] or track["id"] != identity
+                    or digest(target) != record["sha256"] or target.stat().st_size != record["bytes"]):
+                raise ValueError(f"Audio integrity failure: {identity}")
     actual = {str(p.relative_to(out)) for p in out.rglob("*") if p.is_file()}
     if expected != actual:
         raise ValueError(f"Generated resource mismatch: missing={expected-actual}, stale={actual-expected}")
@@ -57,7 +82,8 @@ def validate_snapshot(out):
     for path in poems:
         if json.loads((out / path).read_text())["id"] != Path(path).stem:
             raise ValueError(f"Poem identity mismatch: {path}")
-    return {"poems": len(poems), "images": len(images),
+    return {"poems": len(poems), "images": len(images), "audioTracks": len(audio),
+            "audioBytes": sum(record["bytes"] for record in audio.values()),
             "imageBytes": sum((out / path).stat().st_size for path in images),
             "contentBytes": sum(p.stat().st_size for p in out.rglob("*") if p.is_file())}
 
@@ -116,6 +142,28 @@ def build(root=ROOT, out=None, converter=convert_jpeg):
             (stage / "catalog.json").write_text(json.dumps(catalog, ensure_ascii=False, separators=(",", ":")))
             manifest = {"schemaVersion": 1, "recipe": RECIPE,
                         "cover": records[COVER]["target"], "images": records}
+            audio_source = root / "data/audio/manifest.json"
+            if audio_source.exists():
+                narration = json.loads(audio_source.read_text())
+                validate_audio_coverage(narration, catalog)
+                (stage / "Audio").mkdir()
+                audio_records = {}
+                for identity, track in narration["tracks"].items():
+                    if "inputSHA256" in track:
+                        detail = json.loads((root / f"data/reader/poems/{identity}.json").read_text())
+                        inputs = json.dumps({"text": narration_text(detail), "recipe": narration["recipe"]},
+                                            sort_keys=True, ensure_ascii=False).encode()
+                        if sha(inputs) != track["inputSHA256"]:
+                            raise ValueError(f"Regenerate narration after poem or voice changes: {identity}")
+                    source = root / track["file"]
+                    if digest(source) != track["sha256"] or source.stat().st_size != track["bytes"]:
+                        raise ValueError(f"Narration changed or incomplete: {identity}")
+                    target = f"Audio/{identity}.mp3"
+                    shutil.copy2(source, stage / target)
+                    track["file"] = target
+                    audio_records[identity] = {"target": target, "sha256": track["sha256"], "bytes": track["bytes"]}
+                manifest["audio"] = audio_records
+                (stage / "Audio/manifest.json").write_text(json.dumps(narration, ensure_ascii=False, separators=(",", ":")))
             (stage / MANIFEST).write_text(json.dumps(manifest, ensure_ascii=False, sort_keys=True, separators=(",", ":")))
             stats = validate_snapshot(stage)
             # Nothing above this point changes the installed snapshot. Roll back a

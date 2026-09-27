@@ -11,6 +11,17 @@ SPEC.loader.exec_module(packaging)
 
 
 class IOSContentTests(unittest.TestCase):
+    def audio_fixture(self, root):
+        audio = root / "assets/audio/one.mp3"
+        audio.parent.mkdir(parents=True)
+        audio.write_bytes(b"MP3 fixture")
+        record = {"id": "one", "file": "assets/audio/one.mp3", "duration": 12,
+                  "sha256": packaging.digest(audio), "bytes": audio.stat().st_size}
+        manifest = root / "data/audio/manifest.json"
+        manifest.parent.mkdir(parents=True)
+        manifest.write_text(json.dumps({"tracks": {"one": record}}))
+        return audio, manifest
+
     def fixture(self, root):
         (root / "data/reader/poems").mkdir(parents=True)
         images = ["assets/one-page.webp", "assets/one-thumb.webp", packaging.COVER]
@@ -70,6 +81,33 @@ class IOSContentTests(unittest.TestCase):
             result = packaging.build(root, converter=self.converter)
             self.assertEqual(result["converted"], 1)
             self.assertEqual(result["reused"], 2)
+
+    def test_audio_is_remapped_and_integrity_checked(self):
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            self.fixture(root)
+            self.audio_fixture(root)
+            result = packaging.build(root, converter=self.converter)
+            self.assertEqual(result["audioTracks"], 1)
+            out = root / "ios/Content"
+            narration = json.loads((out / "Audio/manifest.json").read_text())
+            self.assertEqual(narration["tracks"]["one"]["file"], "Audio/one.mp3")
+            (out / "Audio/one.mp3").write_bytes(b"truncated")
+            with self.assertRaisesRegex(ValueError, "Audio integrity"):
+                packaging.validate_snapshot(out)
+
+    def test_incomplete_audio_cannot_replace_a_complete_snapshot(self):
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            self.fixture(root)
+            audio, manifest = self.audio_fixture(root)
+            packaging.build(root, converter=self.converter)
+            out = root / "ios/Content"
+            before = {str(p.relative_to(out)): p.read_bytes() for p in out.rglob("*") if p.is_file()}
+            manifest.write_text('{"tracks":{}}')
+            with self.assertRaisesRegex(ValueError, "Complete the narration"):
+                packaging.build(root, converter=self.converter)
+            self.assertEqual(before, {str(p.relative_to(out)): p.read_bytes() for p in out.rglob("*") if p.is_file()})
 
 
 if __name__ == "__main__":

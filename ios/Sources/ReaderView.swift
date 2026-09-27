@@ -12,7 +12,7 @@ extension ReaderSettings {
 }
 
 private enum ReaderSheet: String, Identifiable {
-    case library, settings, share
+    case library, settings, share, narration
     var id: String { rawValue }
 }
 
@@ -20,6 +20,9 @@ struct ReaderView: View {
     @EnvironmentObject private var store: PoemStore
     @Environment(\.scenePhase) private var scenePhase
     @Environment(\.dynamicTypeSize) private var dynamicTypeSize
+    @Environment(\.accessibilityReduceMotion) private var reduceMotion
+    @AppStorage("reader.pageTurnStyle") private var pageTurnStyle = PageTurnStyle.curl.rawValue
+    @StateObject private var narration = NarrationPlayer()
     @State private var home = true
     @State private var controls = true
     @State private var sheet: ReaderSheet?
@@ -57,6 +60,8 @@ struct ReaderView: View {
                 if let poem = store.poems.first(where: { $0.id == store.selectedID }) {
                     PoemCardView(poem: poem)
                 }
+            case .narration:
+                NarrationView(player: narration)
             }
         }
         .onChange(of: scenePhase) { _, phase in
@@ -64,6 +69,9 @@ struct ReaderView: View {
         }
         .onChange(of: home) { _, isHome in
             if isHome { store.flushReadingProgress() }
+        }
+        .onChange(of: store.selectedID) { _, id in
+            if narration.track?.id != id { narration.stop() }
         }
     }
 
@@ -130,16 +138,15 @@ struct ReaderView: View {
         // the paging container itself fills the screen so its artwork is not clipped.
         GeometryReader { readingArea in
             ZStack {
-                TabView(selection: $store.selectedID) {
-                    ForEach(Array(store.readingPoems.enumerated()), id: \.element.id) { index, poem in
-                        Group {
-                            if abs(index - store.readingIndex) <= 1 {
-                                PoemPageView(poem: poem, readingSize: readingArea.size,
-                                             readingInsets: readingArea.safeAreaInsets, motionActive: sheet == nil) { controls.toggle() }
-                            } else { store.settings.paperColor }
-                        }.tag(poem.id)
-                    }
-                }.tabViewStyle(.page(indexDisplayMode: .never)).ignoresSafeArea(.container)
+                let style = reduceMotion ? PageTurnStyle.instant : (PageTurnStyle(rawValue: pageTurnStyle) ?? .curl)
+                PoemPager(poems: store.readingPoems, selectedID: $store.selectedID,
+                          style: style, paperColor: UIColor(store.settings.paperColor),
+                          contentRevision: "\(readingArea.size)-\(readingArea.safeAreaInsets)-\(sheet == nil)") { poem in
+                    AnyView(PoemPageView(poem: poem, readingSize: readingArea.size,
+                                        readingInsets: readingArea.safeAreaInsets, motionActive: sheet == nil) { controls.toggle() }
+                        .environmentObject(store)
+                        .foregroundStyle(Color(red: 0.19, green: 0.17, blue: 0.14)))
+                }.id(style).ignoresSafeArea(.container)
                 if controls {
                     VStack {
                         HStack(spacing: 10) {
@@ -171,6 +178,13 @@ struct ReaderView: View {
                                 Button { store.turn(1) } label: { Image(systemName: "chevron.right").font(.system(size: 17)).frame(width: 44, height: 44) }.disabled(store.readingIndex == store.readingPoems.count - 1).accessibilityLabel("下一首")
                             }
                             HStack {
+                                tool(narration.isPlaying ? "听着" : narration.hasAudio(for: store.selectedID) ? "听诗" : "试听",
+                                     label: narration.isPlaying ? "打开朗读播放器，正在播放" : narration.hasAudio(for: store.selectedID) ? "朗读这首诗" : "朗读试听，五首诗") {
+                                    if let poem = store.poems.first(where: { $0.id == store.selectedID }) {
+                                        narration.load(poem)
+                                        sheet = .narration
+                                    }
+                                }
                                 Spacer()
                                 tool("简注", label: store.settings.notes ? "隐藏简注" : "显示简注") { store.settings.notes.toggle() }
                             }

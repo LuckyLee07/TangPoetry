@@ -15,11 +15,14 @@
 		432F73C3D2781C4AE72D2A9D /* PoemStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD686B9B29E8138D666B0E5A /* PoemStore.swift */; };
 		441E60BB4380E97448D040B2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 420956B2E7D9F3703C8B2A3C /* Assets.xcassets */; };
 		45CD018BBCAB37DFBC61B139 /* ArtworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E0649FAE9B0C3AAC76402FA /* ArtworkTests.swift */; };
+		4B38B8D04DF6002E578F9009 /* PoemPager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2289FF90704AB956B18DF63 /* PoemPager.swift */; };
 		5BC8EA8DDB5A497EE9693600 /* LibraryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C5FE6D96710F9B738C87648 /* LibraryView.swift */; };
 		610E88C9236969EED6504338 /* TangPoetryApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A83B85B4AA67DAFDD3E00B83 /* TangPoetryApp.swift */; };
 		895B76EFD25E57BF94A58D2B /* PoemLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D40D206DB7CB7E1ABD1B9F9 /* PoemLayout.swift */; };
 		8A6EC3207EB05BB6F185A350 /* ReaderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DFA57F908434B6F49EC3DF9 /* ReaderTests.swift */; };
 		9F040172F315846C325BBB14 /* Content in Resources */ = {isa = PBXBuildFile; fileRef = 13ABFE1F727F5E72BD849F36 /* Content */; };
+		B233AD2A68A1C0D9A6A63C21 /* NarrationPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F044EB816CFCD4BF1397F1B /* NarrationPlayer.swift */; };
+		C4AF778F4796D98BCCE268AF /* ListeningAndPagingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8059AD04A99CE6ED273D18 /* ListeningAndPagingTests.swift */; };
 		D7FD6D68DEAB44523612499C /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80BC4B057B9945602AA8FFBB /* Models.swift */; };
 		DD0754935BA9D36A9D421667 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = BD9891FAF9CCC2EDD9B6FB86 /* PrivacyInfo.xcprivacy */; };
 		E8AB39A3FAD0DD4314BBF630 /* PoemExtras.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B6380B9C195168262907848 /* PoemExtras.swift */; };
@@ -38,6 +41,7 @@
 
 /* Begin PBXFileReference section */
 		0D40D206DB7CB7E1ABD1B9F9 /* PoemLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PoemLayout.swift; sourceTree = "<group>"; };
+		0F044EB816CFCD4BF1397F1B /* NarrationPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NarrationPlayer.swift; sourceTree = "<group>"; };
 		13ABFE1F727F5E72BD849F36 /* Content */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Content; sourceTree = SOURCE_ROOT; };
 		160F53AB46010EB9B90F0C99 /* PoemCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PoemCard.swift; sourceTree = "<group>"; };
 		1A4BE8683F6FCAC5D384CDD6 /* ExtrasTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtrasTests.swift; sourceTree = "<group>"; };
@@ -52,7 +56,9 @@
 		8B6380B9C195168262907848 /* PoemExtras.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PoemExtras.swift; sourceTree = "<group>"; };
 		9DFA57F908434B6F49EC3DF9 /* ReaderTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReaderTests.swift; sourceTree = "<group>"; };
 		A83B85B4AA67DAFDD3E00B83 /* TangPoetryApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TangPoetryApp.swift; sourceTree = "<group>"; };
+		BD8059AD04A99CE6ED273D18 /* ListeningAndPagingTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListeningAndPagingTests.swift; sourceTree = "<group>"; };
 		BD9891FAF9CCC2EDD9B6FB86 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		C2289FF90704AB956B18DF63 /* PoemPager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PoemPager.swift; sourceTree = "<group>"; };
 		C61ABCE6D9B8F58A36AC4089 /* ReadingContinuityTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadingContinuityTests.swift; sourceTree = "<group>"; };
 		CD686B9B29E8138D666B0E5A /* PoemStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PoemStore.swift; sourceTree = "<group>"; };
 		F3FCE3FAC7049B5AF2763154 /* Artwork.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artwork.swift; sourceTree = "<group>"; };
@@ -64,6 +70,7 @@
 			children = (
 				1E0649FAE9B0C3AAC76402FA /* ArtworkTests.swift */,
 				1A4BE8683F6FCAC5D384CDD6 /* ExtrasTests.swift */,
+				BD8059AD04A99CE6ED273D18 /* ListeningAndPagingTests.swift */,
 				9DFA57F908434B6F49EC3DF9 /* ReaderTests.swift */,
 				C61ABCE6D9B8F58A36AC4089 /* ReadingContinuityTests.swift */,
 			);
@@ -97,9 +104,11 @@
 				F3FCE3FAC7049B5AF2763154 /* Artwork.swift */,
 				6C5FE6D96710F9B738C87648 /* LibraryView.swift */,
 				80BC4B057B9945602AA8FFBB /* Models.swift */,
+				0F044EB816CFCD4BF1397F1B /* NarrationPlayer.swift */,
 				160F53AB46010EB9B90F0C99 /* PoemCard.swift */,
 				8B6380B9C195168262907848 /* PoemExtras.swift */,
 				0D40D206DB7CB7E1ABD1B9F9 /* PoemLayout.swift */,
+				C2289FF90704AB956B18DF63 /* PoemPager.swift */,
 				CD686B9B29E8138D666B0E5A /* PoemStore.swift */,
 				1F93592D7CC90500672C0A5B /* ReaderView.swift */,
 				2982F09D9099426D599371E2 /* ReadingProgress.swift */,
@@ -199,9 +208,11 @@
 				3F3AF3FFF4E973EB2C71203D /* Artwork.swift in Sources */,
 				5BC8EA8DDB5A497EE9693600 /* LibraryView.swift in Sources */,
 				D7FD6D68DEAB44523612499C /* Models.swift in Sources */,
+				B233AD2A68A1C0D9A6A63C21 /* NarrationPlayer.swift in Sources */,
 				00C69CD8696398B2320A1AC3 /* PoemCard.swift in Sources */,
 				E8AB39A3FAD0DD4314BBF630 /* PoemExtras.swift in Sources */,
 				895B76EFD25E57BF94A58D2B /* PoemLayout.swift in Sources */,
+				4B38B8D04DF6002E578F9009 /* PoemPager.swift in Sources */,
 				432F73C3D2781C4AE72D2A9D /* PoemStore.swift in Sources */,
 				F06B6BDD283C67BA6538DF7D /* ReaderView.swift in Sources */,
 				2EB7407D35A4885315ADB1FB /* ReadingProgress.swift in Sources */,
@@ -215,6 +226,7 @@
 			files = (
 				45CD018BBCAB37DFBC61B139 /* ArtworkTests.swift in Sources */,
 				1498D81A7530008D82D0F1CF /* ExtrasTests.swift in Sources */,
+				C4AF778F4796D98BCCE268AF /* ListeningAndPagingTests.swift in Sources */,
 				8A6EC3207EB05BB6F185A350 /* ReaderTests.swift in Sources */,
 				36F362FE084B13B30C9E1CE7 /* ReadingContinuityTests.swift in Sources */,
 			);
@@ -395,6 +407,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "唐诗画笺";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.books";
 				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "保存你选择的诗笺图片到相册。";
@@ -406,7 +419,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 0.5.1;
+				MARKETING_VERSION = 0.6.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.tangpoetry.reader;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -420,6 +433,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "唐诗画笺";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.books";
 				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "保存你选择的诗笺图片到相册。";
@@ -431,7 +445,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 0.5.1;
+				MARKETING_VERSION = 0.6.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.tangpoetry.reader;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = 1;

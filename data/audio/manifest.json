@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "version": 1,
+    "engine": "edge-tts",
+    "engineVersion": "7.2.8",
+    "voice": "zh-CN-YunxiNeural",
+    "voiceLabel": "云希 · 男声",
+    "rate": "-15%",
+    "pitch": "+0Hz",
+    "loudnessLUFS": -18,
+    "bitrate": "64k",
+    "sampleRate": 24000
+  },
+  "release": "preview",
+  "previewIDs": [
+    "tang-224-lu-chai",
+    "tang-232-chun-xiao",
+    "tang-233-ye-si",
+    "tang-236-deng-guan-que-lou",
+    "tang-273-feng-qiao-ye-po"
+  ],
+  "tracks": {
+    "tang-224-lu-chai": {
+      "id": "tang-224-lu-chai",
+      "title": "鹿柴",
+      "author": "王维",
+      "file": "assets/audio/tang-224-lu-chai.mp3",
+      "duration": 13.08,
+      "bytes": 104876,
+      "sha256": "aeb2cebbafb1c55f1107aa1c68f4e842dbd449398c160fe65764e5b4beaadea0",
+      "inputSHA256": "34a8b51412fb2c25f9a253bf672f1b4d9898f2ebf154135f6f6faa9a5ae4ecab"
+    },
+    "tang-232-chun-xiao": {
+      "id": "tang-232-chun-xiao",
+      "title": "春晓",
+      "author": "孟浩然",
+      "file": "assets/audio/tang-232-chun-xiao.mp3",
+      "duration": 13.368,
+      "bytes": 107180,
+      "sha256": "e6c188d18be675a0519ce7a843b35052e4d2290adf314d1eb2eb460231d0ce7c",
+      "inputSHA256": "37cccfa2a55854946313210d569dbe53eef1487e4ba828cbb083eeabb4b77f47"
+    },
+    "tang-233-ye-si": {
+      "id": "tang-233-ye-si",
+      "title": "静夜思",
+      "author": "李白",
+      "file": "assets/audio/tang-233-ye-si.mp3",
+      "duration": 12.984,
+      "bytes": 104108,
+      "sha256": "5486dd5027b172222332e84b9171c94938d8fec03c5a5bd6fefa74919da5ea9d",
+      "inputSHA256": "94914524811e0b855f5a42e18c516f392afd85c3a290f3fefa9df219d57e47d5"
+    },
+    "tang-236-deng-guan-que-lou": {
+      "id": "tang-236-deng-guan-que-lou",
+      "title": "登鹳雀楼",
+      "author": "王之涣",
+      "file": "assets/audio/tang-236-deng-guan-que-lou.mp3",
+      "duration": 13.296,
+      "bytes": 106604,
+      "sha256": "84edaa1c1b99824c1f7ac2ecfb32e48fd9dcbd9b3eb527a036ce0b926a533e82",
+      "inputSHA256": "8df2db02d77fc715f069e6b5efc2d4834aa8e7b3fee8f8f67b04343d608a2021"
+    },
+    "tang-273-feng-qiao-ye-po": {
+      "id": "tang-273-feng-qiao-ye-po",
+      "title": "枫桥夜泊",
+      "author": "张继",
+      "file": "assets/audio/tang-273-feng-qiao-ye-po.mp3",
+      "duration": 15.936,
+      "bytes": 127724,
+      "sha256": "76a083cb67fdf556fbf53c4bf2f735591d18047880ef5441b852735445670ddf",
+      "inputSHA256": "2cefb70a73b25f7d55fe9c84648dacfa54348fc17db1f1630be0c5fd7f92788a"
+    }
+  }
+}

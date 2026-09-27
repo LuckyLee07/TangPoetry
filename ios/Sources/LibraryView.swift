@@ -116,12 +116,16 @@ private struct DirectoryArtwork: View {
 struct SettingsView: View {
     @EnvironmentObject private var store: PoemStore
     @Environment(\.dismiss) private var dismiss
+    @AppStorage("reader.pageTurnStyle") private var pageTurnStyle = PageTurnStyle.curl.rawValue
     let openFavorites: () -> Void
     let sharePoem: () -> Void
     var body: some View {
         NavigationStack {
             Form {
                 Section("阅读") {
+                    Picker("翻页效果", selection: $pageTurnStyle) {
+                        ForEach(PageTurnStyle.allCases) { Text($0.title).tag($0.rawValue) }
+                    }
                     Toggle("显示简注", isOn: $store.settings.notes)
                     Picker("诗文字号", selection: $store.settings.fontSize) {
                         Text("小").tag(20); Text("标准").tag(22); Text("大").tag(26); Text("特大").tag(30)
@@ -135,10 +139,14 @@ struct SettingsView: View {
                     Button("我的收藏 · \(store.favorites.count) 首", action: openFavorites)
                 }
                 GentleMotionSetting()
+                Section("听诗") {
+                    Text("先提供《鹿柴》《春晓》《静夜思》《登鹳雀楼》《枫桥夜泊》五首离线试听。在诗页轻点「听诗」或「试听」开始；换到另一首诗时会停止当前朗读。")
+                    Text("开启系统「减少动态效果」时，翻页自动使用无动画模式。")
+                }.font(.footnote).foregroundStyle(.secondary)
                 Section("关于唐诗画笺") {
                     Text("一页一诗，一诗一画。")
                     Text("所有诗词与插画均内置，可离线阅读。收藏、设置与阅读位置仅保存在当前设备，无需账号，无广告、无统计追踪。")
-                    Text("诗文按体裁分卷，同一体裁内保留选本顺序，部分题名使用常用别名。诗文与简注持续校订。版本 0.5.1")
+                    Text("诗文按体裁分卷，同一体裁内保留选本顺序，部分题名使用常用别名。诗文与简注持续校订。版本 0.6.0")
                 }.font(.footnote).foregroundStyle(.secondary)
             }.scrollContentBackground(.hidden).background(store.settings.paperColor)
             .navigationTitle("阅读设置").navigationBarTitleDisplayMode(.inline)
