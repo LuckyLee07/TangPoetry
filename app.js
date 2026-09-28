@@ -1,13 +1,14 @@
-import { setupReadingExtras } from './reader-extras.js?v=0.6.6';
-import { setupNarration } from './reader-narration.js?v=0.6.6';
-import { parseStored, sanitizeSettings, migrateFavorites, filterPoems, initialIndex, createPoemLoader } from './reader-core.js?v=0.6.6';
+import { setupReadingExtras } from './reader-extras.js?v=0.6.11';
+import { setupNarration } from './reader-narration.js?v=0.6.11';
+import { setupCoverAtmosphere } from './reader-cover.js?v=0.6.11';
+import { parseStored, sanitizeSettings, migrateFavorites, filterPoems, initialIndex, createPoemLoader } from './reader-core.js?v=0.6.11';
 
-import { escapeHTML, layoutReadingPage, poemMarkup, notesMarkup, directoryArtworkMarkup } from './reader-renderer.js?v=0.6.6';
-import { ALL_POEMS, sanitizeReadingScope, isAllPoems, readingScopeLabel, selectionAfterScopeChange, sanitizeReadingProgress, captureParagraphProgress, restoreParagraphProgress, paragraphMetrics, isReadingSurfaceTap } from './reader-continuity.js?v=0.6.6';
+import { escapeHTML, layoutReadingPage, poemMarkup, notesMarkup, directoryArtworkMarkup } from './reader-renderer.js?v=0.6.11';
+import { ALL_POEMS, sanitizeReadingScope, isAllPoems, readingScopeLabel, selectionAfterScopeChange, sanitizeReadingProgress, captureParagraphProgress, restoreParagraphProgress, paragraphMetrics, isReadingSurfaceTap } from './reader-continuity.js?v=0.6.11';
 
-import { ReadingSession, sanitizeReadIDs, restoreReadingSequence } from './reader-history.js?v=0.6.6';
+import { ReadingSession, sanitizeReadIDs, restoreReadingSequence } from './reader-history.js?v=0.6.11';
 
-import { createReadingIdle } from './reader-controls.js?v=0.6.6';
+import { createReadingIdle } from './reader-controls.js?v=0.6.11';
 
 const $ = selector => document.querySelector(selector);
 const keys = { read: 'tang-read-ids-v1', sequence: 'tang-reading-sequence-v1', favorites: 'tang-favorites-v2', settings: 'tang-settings-v1', position: 'tang-position-v1', scope: 'tang-reading-scope-v1', progress: 'tang-reading-progress-v1' };
@@ -32,6 +33,7 @@ const idleControls = createReadingIdle({
     !document.querySelector('dialog[open]') && !keyboardNavigation && !window.getSelection()?.toString()
 });
 const narration = setupNarration(() => poems[currentIndex], openPoem);
+setupCoverAtmosphere();
 
 async function fetchJSON(url) {
   const response = await fetch(url, { cache: 'no-cache', signal: AbortSignal.timeout(15000) });

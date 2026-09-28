@@ -37,6 +37,27 @@ class IOSContentTests(unittest.TestCase):
     def converter(source, target):
         target.write_bytes(b"JPEG fixture:" + source.read_bytes())
 
+    def test_cover_layers_keep_exact_bytes_and_reject_partial_replacement(self):
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            self.fixture(root)
+            layers = root / "assets/cover-layers"
+            layers.mkdir()
+            for name in packaging.COVER_LAYERS:
+                (layers / name).write_bytes(b"PNG matte fixture:" + name.encode())
+            packaging.build(root, converter=self.converter)
+            out = root / "ios/Content"
+            for name in packaging.COVER_LAYERS:
+                self.assertEqual((out / "Cover" / name).read_bytes(), (layers / name).read_bytes())
+            before = (out / packaging.MANIFEST).read_bytes()
+            (layers / "willow-matte.png").unlink()
+            with self.assertRaisesRegex(ValueError, "Incomplete cover layers"):
+                packaging.build(root, converter=self.converter)
+            self.assertEqual((out / packaging.MANIFEST).read_bytes(), before)
+            (out / "Cover/background.png").write_bytes(b"broken")
+            with self.assertRaisesRegex(ValueError, "Cover layer integrity"):
+                packaging.validate_snapshot(out)
+
     def test_rebuild_is_incremental_reproducible_and_removes_stale_files(self):
         with tempfile.TemporaryDirectory() as folder:
             root = Path(folder)

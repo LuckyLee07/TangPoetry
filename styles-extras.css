@@ -1,4 +1,10 @@
 .home-screen { grid-template-rows: 1fr auto auto auto; }
+.home-art canvas { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; display: none; }
+.cover-willow { filter: saturate(0.92) contrast(0.98); }
+.home-art::after { z-index: 1; }
+.home-art .cover-rain { z-index: 2; }
+.home-art[data-atmosphere="playing"] canvas, .home-art[data-atmosphere="paused"] canvas { display: block; }
+.home-art[data-atmosphere="playing"] .home-art-main, .home-art[data-atmosphere="paused"] .home-art-main { visibility: hidden; }
 .daily-poem { position: relative; z-index: 6; display: grid; gap: 6px; padding: 12px 8px; margin-top: 12px; text-align: center; min-height: 60px; }
 .daily-poem small { font: 11px var(--sans); color: #655b4d; letter-spacing: .18em; }
 .daily-poem span { font: 17px/1.5 var(--serif); overflow-wrap: anywhere; }

@@ -22,6 +22,7 @@ except ModuleNotFoundError:
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "ios/Content"
 COVER = "assets/optimized/song-yuan-er-page.webp"
+COVER_LAYERS = ("background.png", "willow-matte.png")
 RECIPE = {"format": "jpeg", "quality": 85, "version": 1}
 MANIFEST = "build-manifest.json"
 
@@ -59,6 +60,15 @@ def validate_snapshot(out):
         raise ValueError("Image manifest and catalog references disagree")
     poems = {f"poems/{p['id']}.json" for p in catalog["poems"]}
     expected = images | poems | {"catalog.json", MANIFEST}
+    layers = manifest.get("coverLayers", {})
+    if layers and set(layers) != set(COVER_LAYERS):
+        raise ValueError("Incomplete cover layers")
+    for name, record in layers.items():
+        target = out / record["target"]
+        if (record["target"] != f"Cover/{name}" or digest(target) != record["sha256"]
+                or target.stat().st_size != record["bytes"]):
+            raise ValueError(f"Cover layer integrity failure: {name}")
+        expected.add(record["target"])
     audio = manifest.get("audio", {})
     if audio:
         narration = json.loads((out / "Audio/manifest.json").read_text())
@@ -142,6 +152,18 @@ def build(root=ROOT, out=None, converter=convert_jpeg):
             (stage / "catalog.json").write_text(json.dumps(catalog, ensure_ascii=False, separators=(",", ":")))
             manifest = {"schemaVersion": 1, "recipe": RECIPE,
                         "cover": records[COVER]["target"], "images": records}
+            # Preserve the matte's exact colors; JPEG edges would compromise keying.
+            layer_sources = [root / "assets/cover-layers" / name for name in COVER_LAYERS]
+            if any(path.exists() for path in layer_sources):
+                if not all(path.is_file() for path in layer_sources):
+                    raise ValueError("Incomplete cover layers")
+                (stage / "Cover").mkdir()
+                manifest["coverLayers"] = {}
+                for source in layer_sources:
+                    target = f"Cover/{source.name}"
+                    shutil.copy2(source, stage / target)
+                    manifest["coverLayers"][source.name] = {"target": target,
+                        "sha256": digest(source), "bytes": source.stat().st_size}
             audio_source = root / "data/audio/manifest.json"
             if audio_source.exists():
                 narration = json.loads(audio_source.read_text())

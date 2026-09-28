@@ -175,6 +175,7 @@ struct SettingsView: View {
                     Button("保存或分享当前诗笺", action: sharePoem)
                     Button("我的收藏 · \(store.favorites.count) 首", action: openFavorites)
                 }
+                CoverMotionSetting()
                 GentleMotionSetting()
                 Section("听诗") {
                     Text("全库 320 首均可离线朗读，采用「晓晓 · 诗歌朗读」。在诗页轻点「听诗」开始，可按体裁更换诗词；换到另一首诗时会停止当前朗读。")
@@ -183,7 +184,7 @@ struct SettingsView: View {
                 Section("关于唐诗画笺") {
                     Text("一页一诗，一诗一画。")
                     Text("所有诗词与插画均内置，可离线阅读。收藏、已读记录、设置与阅读位置仅保存在当前设备，无需账号，无广告、无统计追踪。")
-                    Text("诗文按体裁分卷，同一体裁内保留选本顺序，部分题名使用常用别名。诗文与简注持续校订。版本 0.6.6")
+                    Text("诗文按体裁分卷，同一体裁内保留选本顺序，部分题名使用常用别名。诗文与简注持续校订。版本 0.6.11")
                 }.font(.footnote).foregroundStyle(.secondary)
             }.scrollContentBackground(.hidden).background(store.settings.paperColor)
             .navigationTitle("阅读设置").navigationBarTitleDisplayMode(.inline)

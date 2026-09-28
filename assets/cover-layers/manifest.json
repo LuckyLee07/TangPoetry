@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "canvas": [
+    941,
+    1672
+  ],
+  "generator": "built-in image_gen",
+  "rendering": "stationary clean plate + original lower scene + white-matte keyed foliage + procedural drizzle",
+  "files": {
+    "assets/illustrations-portrait/song-yuan-er.png": {
+      "sha256": "45647913b8b26333be432724fa87d02199dbf56499ee048656c863f4b75e5063",
+      "bytes": 2800788
+    },
+    "assets/optimized/song-yuan-er-page.webp": {
+      "sha256": "71e0800bcfab18e3bbdbf2b8fe936afe51e344a31565fdbc612e1af04939a4c2",
+      "bytes": 214462
+    },
+    "assets/cover-layers/background.png": {
+      "sha256": "5a2f2c9118d75b8a19bd5555d7ee0d059db7d8784bda1351ec6200b021af7c3b",
+      "bytes": 2334798
+    },
+    "assets/cover-layers/willow-matte.png": {
+      "sha256": "30c6a3d5cab6cc0271e2e62cfbb426f09c13c1229e641b51c4b4a69087ece1cb",
+      "bytes": 1611958
+    }
+  }
+}

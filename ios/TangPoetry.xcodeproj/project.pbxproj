@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		00C69CD8696398B2320A1AC3 /* PoemCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 160F53AB46010EB9B90F0C99 /* PoemCard.swift */; };
+		11C02CEA0BE23EC3E7FF0D52 /* CoverAtmosphereTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2BAD0527705E111D84B05A3 /* CoverAtmosphereTests.swift */; };
 		1498D81A7530008D82D0F1CF /* ExtrasTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A4BE8683F6FCAC5D384CDD6 /* ExtrasTests.swift */; };
 		1ACD50DDC7EAC535E0664D68 /* ReaderControls.swift in Sources */ = {isa = PBXBuildFile; fileRef = F62A7E15247B667EC5B1D348 /* ReaderControls.swift */; };
 		2EB7407D35A4885315ADB1FB /* ReadingProgress.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2982F09D9099426D599371E2 /* ReadingProgress.swift */; };
@@ -26,10 +27,12 @@
 		9F040172F315846C325BBB14 /* Content in Resources */ = {isa = PBXBuildFile; fileRef = 13ABFE1F727F5E72BD849F36 /* Content */; };
 		B233AD2A68A1C0D9A6A63C21 /* NarrationPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F044EB816CFCD4BF1397F1B /* NarrationPlayer.swift */; };
 		C4AF778F4796D98BCCE268AF /* ListeningAndPagingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8059AD04A99CE6ED273D18 /* ListeningAndPagingTests.swift */; };
+		CD7762EBA8A6EAA9BA0F374C /* CoverWillow.metal in Sources */ = {isa = PBXBuildFile; fileRef = 64FCBECDF034651E6A111560 /* CoverWillow.metal */; };
 		D7FD6D68DEAB44523612499C /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80BC4B057B9945602AA8FFBB /* Models.swift */; };
 		DD0754935BA9D36A9D421667 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = BD9891FAF9CCC2EDD9B6FB86 /* PrivacyInfo.xcprivacy */; };
 		E8AB39A3FAD0DD4314BBF630 /* PoemExtras.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B6380B9C195168262907848 /* PoemExtras.swift */; };
 		F06B6BDD283C67BA6538DF7D /* ReaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F93592D7CC90500672C0A5B /* ReaderView.swift */; };
+		F9AA7BAD9AD6BDB0C774D953 /* CoverAtmosphere.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A766D155AFEA091D7BAD0B9 /* CoverAtmosphere.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,7 +59,9 @@
 		5C1C390DDFEC6B9237450DD6 /* ReadingHistory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadingHistory.swift; sourceTree = "<group>"; };
 		5D0F2FFAF8BD5B03D3E4E5A2 /* TangPoetry.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = TangPoetry.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		60EFF9D306FD3A8BD30985AC /* ReadingHistoryTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadingHistoryTests.swift; sourceTree = "<group>"; };
+		64FCBECDF034651E6A111560 /* CoverWillow.metal */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.metal; path = CoverWillow.metal; sourceTree = "<group>"; };
 		6C5FE6D96710F9B738C87648 /* LibraryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryView.swift; sourceTree = "<group>"; };
+		7A766D155AFEA091D7BAD0B9 /* CoverAtmosphere.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoverAtmosphere.swift; sourceTree = "<group>"; };
 		80BC4B057B9945602AA8FFBB /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
 		8B6380B9C195168262907848 /* PoemExtras.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PoemExtras.swift; sourceTree = "<group>"; };
 		9DFA57F908434B6F49EC3DF9 /* ReaderTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReaderTests.swift; sourceTree = "<group>"; };
@@ -66,6 +71,7 @@
 		C2289FF90704AB956B18DF63 /* PoemPager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PoemPager.swift; sourceTree = "<group>"; };
 		C61ABCE6D9B8F58A36AC4089 /* ReadingContinuityTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadingContinuityTests.swift; sourceTree = "<group>"; };
 		CD686B9B29E8138D666B0E5A /* PoemStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PoemStore.swift; sourceTree = "<group>"; };
+		E2BAD0527705E111D84B05A3 /* CoverAtmosphereTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoverAtmosphereTests.swift; sourceTree = "<group>"; };
 		F3FCE3FAC7049B5AF2763154 /* Artwork.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artwork.swift; sourceTree = "<group>"; };
 		F62A7E15247B667EC5B1D348 /* ReaderControls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReaderControls.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -75,6 +81,7 @@
 			isa = PBXGroup;
 			children = (
 				1E0649FAE9B0C3AAC76402FA /* ArtworkTests.swift */,
+				E2BAD0527705E111D84B05A3 /* CoverAtmosphereTests.swift */,
 				1A4BE8683F6FCAC5D384CDD6 /* ExtrasTests.swift */,
 				BD8059AD04A99CE6ED273D18 /* ListeningAndPagingTests.swift */,
 				9DFA57F908434B6F49EC3DF9 /* ReaderTests.swift */,
@@ -109,6 +116,8 @@
 			isa = PBXGroup;
 			children = (
 				F3FCE3FAC7049B5AF2763154 /* Artwork.swift */,
+				7A766D155AFEA091D7BAD0B9 /* CoverAtmosphere.swift */,
+				64FCBECDF034651E6A111560 /* CoverWillow.metal */,
 				6C5FE6D96710F9B738C87648 /* LibraryView.swift */,
 				80BC4B057B9945602AA8FFBB /* Models.swift */,
 				0F044EB816CFCD4BF1397F1B /* NarrationPlayer.swift */,
@@ -215,6 +224,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				3F3AF3FFF4E973EB2C71203D /* Artwork.swift in Sources */,
+				F9AA7BAD9AD6BDB0C774D953 /* CoverAtmosphere.swift in Sources */,
+				CD7762EBA8A6EAA9BA0F374C /* CoverWillow.metal in Sources */,
 				5BC8EA8DDB5A497EE9693600 /* LibraryView.swift in Sources */,
 				D7FD6D68DEAB44523612499C /* Models.swift in Sources */,
 				B233AD2A68A1C0D9A6A63C21 /* NarrationPlayer.swift in Sources */,
@@ -236,6 +247,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				45CD018BBCAB37DFBC61B139 /* ArtworkTests.swift in Sources */,
+				11C02CEA0BE23EC3E7FF0D52 /* CoverAtmosphereTests.swift in Sources */,
 				1498D81A7530008D82D0F1CF /* ExtrasTests.swift in Sources */,
 				C4AF778F4796D98BCCE268AF /* ListeningAndPagingTests.swift in Sources */,
 				8A6EC3207EB05BB6F185A350 /* ReaderTests.swift in Sources */,
@@ -431,7 +443,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 0.6.6;
+				MARKETING_VERSION = 0.6.11;
 				PRODUCT_BUNDLE_IDENTIFIER = com.tangpoetry.reader;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -457,7 +469,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 0.6.6;
+				MARKETING_VERSION = 0.6.11;
 				PRODUCT_BUNDLE_IDENTIFIER = com.tangpoetry.reader;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = 1;

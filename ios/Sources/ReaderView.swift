@@ -146,10 +146,8 @@ struct ReaderView: View {
             .frame(width: geometry.size.width, height: geometry.size.height)
             .background {
                 GeometryReader { canvas in
-                    ZStack {
-                        Artwork(path: "Art/song-yuan-er-page.jpg")
-                        LinearGradient(colors: [.clear, store.settings.paperColor], startPoint: .center, endPoint: .bottom)
-                    }.frame(width: canvas.size.width, height: canvas.size.height).clipped()
+                    CoverAtmosphere(active: sheet == nil, paperColor: store.settings.paperColor)
+                        .frame(width: canvas.size.width, height: canvas.size.height).clipped()
                 }.ignoresSafeArea(.container)
             }
         }
@@ -157,8 +155,8 @@ struct ReaderView: View {
 
     private var coverIntroduction: some View {
         VStack(spacing: 6) {
-            Text("唐诗三百首 · 孙洙选本")
             Text("一页一诗，一诗一画")
+            Text("唐诗三百首 · 孙洙选本")
         }.font(.caption).foregroundStyle(.secondary)
             .multilineTextAlignment(.center).fixedSize(horizontal: false, vertical: true)
     }
