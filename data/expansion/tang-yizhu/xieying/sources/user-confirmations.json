@@ -1,0 +1,880 @@
+{
+  "schemaVersion": "1.0.0",
+  "scope": "用户确认作品身份、作者和选篇；不是纸书全文逐字审校。",
+  "batches": [
+    {
+      "id": "user-confirmation-2026-09-28-01",
+      "confirmedOn": "2026-09-28",
+      "source": "用户在当前会话提供的第一批16个目录条目确认",
+      "selections": [
+        {
+          "catalogEntryId": "xieying-track-002",
+          "expectedTitle": "春江花月夜",
+          "expectedSection": "拾穗",
+          "author": "张若虚",
+          "selectedPoemIds": [
+            "yizhu-76caedeb379ad9e0"
+          ],
+          "userStatement": "春江花月夜（拾穗）是张若虚那一版",
+          "note": "用户明确确认作者与作品；正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-006",
+          "expectedTitle": "感遇·其二",
+          "expectedSection": "拾穗",
+          "author": "陈子昂",
+          "selectedPoemIds": [
+            "yizhu-5971557650b64586"
+          ],
+          "userStatement": "感遇·其二（拾穗）是陈子昂那版",
+          "note": "用户明确确认作者与作品；正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-008",
+          "expectedTitle": "观猎",
+          "expectedSection": "拾穗",
+          "author": "王维",
+          "selectedPoemIds": [
+            "yizhu-e50f62e605ab8e0b"
+          ],
+          "userStatement": "观猎（拾穗）是王维",
+          "note": "用户明确确认作者与作品；正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-016",
+          "expectedTitle": "咏柳",
+          "expectedSection": "拾穗",
+          "author": "贺知章",
+          "selectedPoemIds": [
+            "yizhu-700df717b52858f7"
+          ],
+          "userStatement": "咏柳（拾穗）是贺知章",
+          "note": "用户明确确认作者与作品；正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-017",
+          "expectedTitle": "从军行",
+          "expectedSection": "拾穗",
+          "author": "王昌龄",
+          "selectedPoemIds": [
+            "yizhu-aafb675e8b63f9fd",
+            "yizhu-9eb865ce65811d46"
+          ],
+          "userStatement": "从军行选二首：青海长云暗雪山，孤城遥望雁门关。（《从军行 四》）；大漠风尘日色昏，红旗半卷出辕门。（《从军行七首 五》）",
+          "note": "用户明确选第四、第五首，按此顺序作为一个目录条目的两首诗保存；原题“从军行”和原始目录顺序保留。"
+        },
+        {
+          "catalogEntryId": "xieying-track-018",
+          "expectedTitle": "望庐山瀑布",
+          "expectedSection": "拾穗",
+          "author": "李白",
+          "selectedPoemIds": [
+            "yizhu-4c147bd293553a25"
+          ],
+          "userStatement": "望庐山瀑布（拾穗）是李白的日照香炉生紫烟，遥看瀑布挂前",
+          "note": "按用户首句确定《望庐山瀑布水二首》其二；消息末尾截断不视为正文改字。"
+        },
+        {
+          "catalogEntryId": "xieying-track-020",
+          "expectedTitle": "石头城",
+          "expectedSection": "拾穗",
+          "author": "刘禹锡",
+          "selectedPoemIds": [
+            "yizhu-6bc4921f54ea9b1e"
+          ],
+          "userStatement": "石头城（拾穗）是刘禹锡那首",
+          "note": "用户明确确认作者与作品；正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-021",
+          "expectedTitle": "竹枝词·其一",
+          "expectedSection": "拾穗",
+          "author": "刘禹锡",
+          "selectedPoemIds": [
+            "yizhu-20ba76b968927758"
+          ],
+          "userStatement": "竹枝词·其一（拾穗）是刘禹锡｜杨柳青青江水平，闻郎江上",
+          "note": "按用户首句确定《竹枝词二首》其一；消息末尾截断不视为正文改字。"
+        },
+        {
+          "catalogEntryId": "xieying-track-023",
+          "expectedTitle": "清明",
+          "expectedSection": "拾穗",
+          "author": "杜牧",
+          "selectedPoemIds": [
+            "yizhu-009fb1a9c180ce4b"
+          ],
+          "userStatement": "清明（拾穗）是杜牧那首",
+          "note": "用户明确确认作者与作品；正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-024",
+          "expectedTitle": "山行",
+          "expectedSection": "拾穗",
+          "author": "杜牧",
+          "selectedPoemIds": [
+            "yizhu-c4adf6ab8ef4f9ed"
+          ],
+          "userStatement": "山行也是杜牧那首",
+          "note": "用户明确确认作者与作品；正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-025",
+          "expectedTitle": "蜂",
+          "expectedSection": "拾穗",
+          "author": "罗隐",
+          "selectedPoemIds": [
+            "yizhu-1a5b013193a6623b"
+          ],
+          "userStatement": "蜂是罗隐那首",
+          "note": "用户明确确认作者与作品；正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-033",
+          "expectedTitle": "雁门太守行",
+          "expectedSection": "七古",
+          "author": "李贺",
+          "selectedPoemIds": [
+            "yizhu-85f57e822a5eff50"
+          ],
+          "userStatement": "雁门太守行（七古）是李贺那首",
+          "note": "用户明确确认作者与作品；正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-036",
+          "expectedTitle": "野望",
+          "expectedSection": "五律",
+          "author": "王绩",
+          "selectedPoemIds": [
+            "yizhu-24a386f1d0e1bb54"
+          ],
+          "userStatement": "野望（五律）是王绩那首",
+          "note": "本批确认按顺序对应第一处五律《野望》（原序号36，王绩）；第二处原序号171仍待确认。"
+        },
+        {
+          "catalogEntryId": "xieying-track-039",
+          "expectedTitle": "秋夜独坐",
+          "expectedSection": "五律",
+          "author": "王维",
+          "selectedPoemIds": [
+            "yizhu-d82faeb7efdeb7f8"
+          ],
+          "userStatement": "秋夜独坐（五律）是王维那首",
+          "note": "用户明确确认作者与作品；正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-040",
+          "expectedTitle": "塞下曲·其一",
+          "expectedSection": "五律",
+          "author": "李白",
+          "selectedPoemIds": [
+            "yizhu-320270075e2d7b36"
+          ],
+          "userStatement": "塞下曲·其一（五律）是李白那首",
+          "note": "用户明确确认作者与作品；正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-047",
+          "expectedTitle": "晚晴",
+          "expectedSection": "五律",
+          "author": "李商隐",
+          "selectedPoemIds": [
+            "yizhu-5ee627f18eec074b"
+          ],
+          "userStatement": "晚晴（五律）是李商隐那首",
+          "note": "用户明确确认作者与作品；正文保留已有来源版本。"
+        }
+      ]
+    },
+    {
+      "id": "user-confirmation-2026-09-28-02",
+      "confirmedOn": "2026-09-28",
+      "source": "用户在当前会话提供的第二批21个目录条目确认，含22首诗",
+      "selections": [
+        {
+          "catalogEntryId": "xieying-track-050",
+          "expectedTitle": "曲江·其二",
+          "expectedSection": "七律",
+          "author": "杜甫",
+          "selectedPoemIds": [
+            "yizhu-413683288473521d"
+          ],
+          "userStatement": "曲江·其二（七律）是杜甫的",
+          "note": "用户明确确认作者与作品；按作者、指定篇次或首句定位，正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-055",
+          "expectedTitle": "放言五首·其三",
+          "expectedSection": "七律",
+          "author": "白居易",
+          "selectedPoemIds": [
+            "yizhu-b39c3ec3a2e80a17"
+          ],
+          "userStatement": "放言五首·其三（七律）是白居易的",
+          "note": "用户明确确认作者与作品；按作者、指定篇次或首句定位，正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-062",
+          "expectedTitle": "蝉",
+          "expectedSection": "五绝",
+          "author": "虞世南",
+          "selectedPoemIds": [
+            "yizhu-a57d736e983d8b03"
+          ],
+          "userStatement": "蝉（五绝）是虞世南的",
+          "note": "用户明确确认作者与作品；按作者、指定篇次或首句定位，正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-064",
+          "expectedTitle": "秋浦歌",
+          "expectedSection": "五绝",
+          "author": "李白",
+          "selectedPoemIds": [
+            "yizhu-644d02502a0cd21b",
+            "yizhu-023c7ea7424c5d26"
+          ],
+          "userStatement": "秋浦歌（五绝）选二首：李白的《秋浦歌十七首 十四》和《秋浦歌十七首 十五》",
+          "note": "用户明确选《秋浦歌十七首》第十四、十五首，按此顺序在一个目录条目下保存两首完整诗文。"
+        },
+        {
+          "catalogEntryId": "xieying-track-065",
+          "expectedTitle": "独坐敬亭山",
+          "expectedSection": "五绝",
+          "author": "李白",
+          "selectedPoemIds": [
+            "yizhu-02af59611398ae08"
+          ],
+          "userStatement": "独坐敬亭山（五绝）是众鸟高飞尽，孤云独去闲那个",
+          "note": "用户明确确认作者与作品；按作者、指定篇次或首句定位，正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-066",
+          "expectedTitle": "绝句",
+          "expectedSection": "五绝",
+          "author": "杜甫",
+          "selectedPoemIds": [
+            "yizhu-97fd080a94419b18"
+          ],
+          "userStatement": "绝句（五绝）是杜甫的迟日江山丽，春风花草香",
+          "note": "用户明确确认作者与作品；按作者、指定篇次或首句定位，正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-067",
+          "expectedTitle": "剑客",
+          "expectedSection": "五绝",
+          "author": "贾岛",
+          "selectedPoemIds": [
+            "yizhu-6dff5ef67b41e83b"
+          ],
+          "userStatement": "剑客（五绝）是贾岛的",
+          "note": "用户明确确认作者与作品；按作者、指定篇次或首句定位，正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-068",
+          "expectedTitle": "江行望匡庐",
+          "expectedSection": "五绝",
+          "author": "钱珝",
+          "selectedPoemIds": [
+            "yizhu-2edf2c8d3bc75b19"
+          ],
+          "userStatement": "江行望匡庐（五绝）是钱珝的",
+          "note": "用户明确采用钱珝署名；保留来源题名与篇次差异记录，不再将钱起列为该目录项的选中作者。"
+        },
+        {
+          "catalogEntryId": "xieying-track-072",
+          "expectedTitle": "别董大",
+          "expectedSection": "七绝",
+          "author": "高适",
+          "selectedPoemIds": [
+            "yizhu-a81faf7f6003c564"
+          ],
+          "userStatement": "别董大（七绝）是高适｜十里黄云白日曛，北风吹雁雪纷纷。（《别董大二首 一》）",
+          "note": "用户明确确认作者与作品；按作者、指定篇次或首句定位，正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-081",
+          "expectedTitle": "春雪",
+          "expectedSection": "七绝",
+          "author": "韩愈",
+          "selectedPoemIds": [
+            "yizhu-d0ef83f2f67206d2"
+          ],
+          "userStatement": "春雪（七绝）是韩愈的",
+          "note": "用户明确确认作者与作品；按作者、指定篇次或首句定位，正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-083",
+          "expectedTitle": "浪淘沙",
+          "expectedSection": "七绝",
+          "author": "刘禹锡",
+          "selectedPoemIds": [
+            "yizhu-08b0f4744fe5c4b5"
+          ],
+          "userStatement": "浪淘沙是刘禹锡｜九曲黄河万里沙，浪淘风簸自天涯",
+          "note": "用户明确确认作者与作品；按作者、指定篇次或首句定位，正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-086",
+          "expectedTitle": "秋词",
+          "expectedSection": "七绝",
+          "author": "刘禹锡",
+          "selectedPoemIds": [
+            "yizhu-9dbf0502988eb768"
+          ],
+          "userStatement": "秋词（七绝）是刘禹锡自古逢秋悲寂寥，我言秋日胜春朝",
+          "note": "用户明确确认作者与作品；按作者、指定篇次或首句定位，正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-088",
+          "expectedTitle": "江南春",
+          "expectedSection": "七绝",
+          "author": "杜牧",
+          "selectedPoemIds": [
+            "yizhu-a8e4bcce1aceeed9"
+          ],
+          "userStatement": "江南春（七绝）是杜牧｜千里莺啼绿映江，水村山郭酒旗风",
+          "note": "用户明确确认作者与作品；按作者、指定篇次或首句定位，正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-103",
+          "expectedTitle": "失题",
+          "expectedSection": "五古",
+          "author": "王昌龄",
+          "selectedPoemIds": [
+            "yizhu-370f725b350d3dd3"
+          ],
+          "userStatement": "失题（五古）是王昌龄｜奸雄乃得志，遂使群心摇。（《失题》）",
+          "note": "用户明确确认作者与作品；按作者、指定篇次或首句定位，正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-107",
+          "expectedTitle": "子夜吴歌",
+          "expectedSection": "五古",
+          "author": "李白",
+          "selectedPoemIds": [
+            "yizhu-0a62ab779f1141d5"
+          ],
+          "userStatement": "子夜吴歌是李白｜明朝驿使发，一夜絮征袍。（《子夜吴歌 冬歌》）",
+          "note": "用户明确选《子夜吴歌》的冬歌，首句“明朝驿使发，一夜絮征袍”。"
+        },
+        {
+          "catalogEntryId": "xieying-track-117",
+          "expectedTitle": "游终南山",
+          "expectedSection": "五古",
+          "author": "孟郊",
+          "selectedPoemIds": [
+            "yizhu-ae60637468dadc2c"
+          ],
+          "userStatement": "游终南山（五古）是孟郊｜南山塞天地，日月石上生。（《游终南山》）",
+          "note": "用户明确确认作者与作品；按作者、指定篇次或首句定位，正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-123",
+          "expectedTitle": "战城南",
+          "expectedSection": "七古",
+          "author": "李白",
+          "selectedPoemIds": [
+            "yizhu-6981c4e00ba1f533"
+          ],
+          "userStatement": "战城南（七古）是李白的",
+          "note": "用户明确确认作者与作品；按作者、指定篇次或首句定位，正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-129",
+          "expectedTitle": "将进酒",
+          "expectedSection": "七古",
+          "author": "李贺",
+          "selectedPoemIds": [
+            "yizhu-e1047d6a1b98b62f"
+          ],
+          "userStatement": "将进酒是李贺｜瑠璃钟，琥珀浓，小槽酒滴真珠红。（《将进酒》）",
+          "note": "用户明确确认作者与作品；按作者、指定篇次或首句定位，正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-130",
+          "expectedTitle": "咏风",
+          "expectedSection": "五律",
+          "author": "王勃",
+          "selectedPoemIds": [
+            "yizhu-a755a1abe8cba890"
+          ],
+          "userStatement": "咏风（五律）是王勃的",
+          "note": "本批确认按顺序对应第一处五律《咏风》（原序号130，王勃）；第二处原序号189仍待确认。"
+        },
+        {
+          "catalogEntryId": "xieying-track-133",
+          "expectedTitle": "送客",
+          "expectedSection": "五律",
+          "author": "陈子昂",
+          "selectedPoemIds": [
+            "yizhu-2223ffac378a52a6"
+          ],
+          "userStatement": "送客（五律）是陈子昂的",
+          "note": "用户明确确认作者与作品；按作者、指定篇次或首句定位，正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-137",
+          "expectedTitle": "翦彩花",
+          "expectedSection": "五律",
+          "author": "上官昭容",
+          "selectedPoemIds": [
+            "yizhu-9164aad9188fb29b"
+          ],
+          "userStatement": "翦彩花（五律）是上官婉儿的",
+          "note": "用户确认上官婉儿的应制诗；底本署上官昭容，为同一作者。保留底本署名及已经补全末联的全文。"
+        }
+      ]
+    },
+    {
+      "id": "user-confirmation-2026-09-28-03",
+      "confirmedOn": "2026-09-28",
+      "source": "用户在当前会话提供的第三批23个目录条目确认",
+      "selections": [
+        {
+          "catalogEntryId": "xieying-track-142",
+          "expectedTitle": "胡笳曲",
+          "expectedSection": "五律",
+          "author": "王昌龄",
+          "selectedPoemIds": [
+            "yizhu-d95748a9f81b9e1d"
+          ],
+          "userStatement": "胡笳曲（五律）是王昌龄的",
+          "note": "用户明确确认作者与作品；正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-146",
+          "expectedTitle": "山居即事",
+          "expectedSection": "五律",
+          "author": "王维",
+          "selectedPoemIds": [
+            "yizhu-7c8f5c19787c1286"
+          ],
+          "userStatement": "山居即事（五律）是王维的",
+          "note": "用户明确确认作者与作品；正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-159",
+          "expectedTitle": "塞下曲",
+          "expectedSection": "五律",
+          "author": "李白",
+          "selectedPoemIds": [
+            "yizhu-054b5998ad63c3b9",
+            "yizhu-0f79730257d6c84c"
+          ],
+          "userStatement": "塞下曲（五律）选二首是李白的《塞下曲六首 三》和《塞下曲六首 五》",
+          "note": "用户明确选《塞下曲六首》第三、第五首，按此顺序保留两首完整正文；不改变第40条另选其一的对应。"
+        },
+        {
+          "catalogEntryId": "xieying-track-160",
+          "expectedTitle": "送友人入蜀",
+          "expectedSection": "五律",
+          "author": "李白",
+          "selectedPoemIds": [
+            "yizhu-fb3d752bef9a661e"
+          ],
+          "userStatement": "送友人入蜀（五律）是李白的",
+          "note": "用户明确确认作者与作品；正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-171",
+          "expectedTitle": "野望",
+          "expectedSection": "五律",
+          "author": "杜甫",
+          "selectedPoemIds": [
+            "yizhu-c1c3b87ff02d6d3e"
+          ],
+          "userStatement": "野望（五律）是杜甫｜清秋望不极，迢遰起曾阴。（《野望》）",
+          "note": "后面第二处《野望》按作者及首句确认为杜甫；第一处第36条仍为王绩。"
+        },
+        {
+          "catalogEntryId": "xieying-track-174",
+          "expectedTitle": "月",
+          "expectedSection": "五律",
+          "author": "杜甫",
+          "selectedPoemIds": [
+            "yizhu-59e007fb2c2b12fc"
+          ],
+          "userStatement": "月（五律）是杜甫｜四更山吐月，残夜水明楼。",
+          "note": "按作者及首句“四更山吐月”定位，排除杜甫及其他作者的同题篇目。"
+        },
+        {
+          "catalogEntryId": "xieying-track-178",
+          "expectedTitle": "闻笛",
+          "expectedSection": "五律",
+          "author": "张巡",
+          "selectedPoemIds": [
+            "yizhu-79d83fafaec00ab4"
+          ],
+          "userStatement": "闻笛（五律）是张巡的",
+          "note": "用户明确确认作者与作品；正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-179",
+          "expectedTitle": "渡扬子江",
+          "expectedSection": "五律",
+          "author": "丁仙芝",
+          "selectedPoemIds": [
+            "yizhu-0645c7c55a298fee"
+          ],
+          "userStatement": "渡扬子江（五律）是丁仙芝的",
+          "note": "用户明确确认作者与作品；正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-189",
+          "expectedTitle": "咏风",
+          "expectedSection": "五律",
+          "author": "张祜",
+          "selectedPoemIds": [
+            "yizhu-929c38d010bd5949"
+          ],
+          "userStatement": "咏风（五律）是张祜的",
+          "note": "后面第二处《咏风》确认为张祜；前面第130条仍为王勃。"
+        },
+        {
+          "catalogEntryId": "xieying-track-192",
+          "expectedTitle": "送人游吴",
+          "expectedSection": "五律",
+          "author": "杜荀鹤",
+          "selectedPoemIds": [
+            "yizhu-9fbef28bdcaf2683"
+          ],
+          "userStatement": "送人游吴（五律）是杜荀鹤的",
+          "note": "用户明确确认作者与作品；正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-193",
+          "expectedTitle": "春残",
+          "expectedSection": "五律",
+          "author": "翁宏",
+          "selectedPoemIds": [
+            "yizhu-0417cd3171644211"
+          ],
+          "userStatement": "春残（五律）翁宏的",
+          "note": "用户明确确认作者与作品；正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-198",
+          "expectedTitle": "秋兴",
+          "expectedSection": "七律",
+          "author": "杜甫",
+          "selectedPoemIds": [
+            "yizhu-965141fedde3c207",
+            "yizhu-339e22da06691f7f",
+            "yizhu-3a45270741e85e84"
+          ],
+          "userStatement": "秋兴（七律）选三首是杜甫《秋兴八首 三、四、七。",
+          "note": "用户明确选《秋兴八首》第三、第四、第七首，按此顺序保存三首完整正文；第49条另列其一保持不变。"
+        },
+        {
+          "catalogEntryId": "xieying-track-200",
+          "expectedTitle": "夜",
+          "expectedSection": "七律",
+          "author": "杜甫",
+          "selectedPoemIds": [
+            "yizhu-faa1afab6422f114"
+          ],
+          "userStatement": "夜（七律）是杜甫的",
+          "note": "用户明确确认作者与作品；正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-217",
+          "expectedTitle": "西塞上泊渔家",
+          "expectedSection": "七律",
+          "author": "皮日休",
+          "selectedPoemIds": [
+            "yizhu-7d60bd1b038b7df8"
+          ],
+          "userStatement": "西塞上泊渔家（七律）确实是皮日休的",
+          "note": "用户确认皮日休作品。保留目录题《西塞上泊渔家》与来源题《西塞山泊渔家》，不擅改原始抄录。"
+        },
+        {
+          "catalogEntryId": "xieying-track-219",
+          "expectedTitle": "旅怀",
+          "expectedSection": "七律",
+          "author": "崔涂",
+          "selectedPoemIds": [
+            "yizhu-00d6ffc786a2497e"
+          ],
+          "userStatement": "旅怀（七律）是崔涂的，但这里好像没有。",
+          "note": "用户明确作者为崔涂。通过已核对的异题《春夕》／《春夕旅怀》补齐原候选中遗漏的来源记录；目录保留《旅怀》，正文保持来源底本。异题证据见title-overrides.json第219条。"
+        },
+        {
+          "catalogEntryId": "xieying-track-222",
+          "expectedTitle": "失鹤",
+          "expectedSection": "七律",
+          "author": "李远",
+          "selectedPoemIds": [
+            "yizhu-8c4e1084bf59eae2"
+          ],
+          "userStatement": "失鹤（七律是李远的",
+          "note": "用户明确确认作者与作品；正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-227",
+          "expectedTitle": "风",
+          "expectedSection": "五绝",
+          "author": "李峤",
+          "selectedPoemIds": [
+            "yizhu-563d3a1e243438a3"
+          ],
+          "userStatement": "风（五绝）是李峤的",
+          "note": "用户明确确认作者与作品；正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-230",
+          "expectedTitle": "南中咏雁诗",
+          "expectedSection": "五绝",
+          "author": "韦承庆",
+          "selectedPoemIds": [
+            "yizhu-0a739f74d1513b2a"
+          ],
+          "userStatement": "南中咏雁诗（五绝）是韦承庆的",
+          "note": "按用户确认署韦承庆，保留来源题《南中咏雁》；同文异署来源不删除，不改成于季子。"
+        },
+        {
+          "catalogEntryId": "xieying-track-231",
+          "expectedTitle": "南行别弟",
+          "expectedSection": "五绝",
+          "author": "韦承庆",
+          "selectedPoemIds": [
+            "yizhu-dedf0340ba26f2dc"
+          ],
+          "userStatement": "南行别弟（五绝）也是韦承庆的",
+          "note": "按韦承庆定位“澹澹长江水，悠悠远客情”篇；不与前条“万里人南去”的同文异署候选混淆。"
+        },
+        {
+          "catalogEntryId": "xieying-track-235",
+          "expectedTitle": "山中",
+          "expectedSection": "五绝",
+          "author": "王维",
+          "selectedPoemIds": [
+            "yizhu-26703b205c4bca28"
+          ],
+          "userStatement": "山中（五绝）是王维的",
+          "note": "用户明确确认作者与作品；正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-236",
+          "expectedTitle": "咏史",
+          "expectedSection": "五绝",
+          "author": "高适",
+          "selectedPoemIds": [
+            "yizhu-49decbc0d045a891"
+          ],
+          "userStatement": "咏史（五绝）是高适的",
+          "note": "用户明确确认作者与作品；正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-237",
+          "expectedTitle": "左掖梨花",
+          "expectedSection": "五绝",
+          "author": "丘为",
+          "selectedPoemIds": [
+            "yizhu-8f33b3f7ece0490a"
+          ],
+          "userStatement": "左掖梨花（五绝）是丘为的",
+          "note": "用户明确确认作者与作品；正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-240",
+          "expectedTitle": "池上",
+          "expectedSection": "五绝",
+          "author": "白居易",
+          "selectedPoemIds": [
+            "yizhu-b0706b7475be6adb"
+          ],
+          "userStatement": "池上（五绝）是白居易｜小娃撑小艇，偷采白莲回的",
+          "note": "用户明确以“小娃撑小艇”起句，对应白居易《池上二绝》其二；只收此篇，不扩为全组。"
+        }
+      ]
+    },
+    {
+      "id": "user-confirmation-2026-09-28-04",
+      "confirmedOn": "2026-09-28",
+      "source": "用户在当前会话提供的第四批16个目录条目确认",
+      "selections": [
+        {
+          "catalogEntryId": "xieying-track-244",
+          "expectedTitle": "续父井梧吟",
+          "expectedSection": "五绝",
+          "author": "薛郧、薛涛（传）",
+          "selectedPoemIds": [
+            "yizhu-3b1f1c62d138ecf8"
+          ],
+          "userStatement": "续父井梧吟（五绝）是按绝句收的全诗吧，总不能只收单句。",
+          "note": "用户明确收完整五言四句，从“庭除一古桐”至“叶送往来风”。仅确认收录范围；署名沿用来源“薛郧、薛涛（传）”及父起女续说明，不把这一回复当作作者归属争议已解决。"
+        },
+        {
+          "catalogEntryId": "xieying-track-248",
+          "expectedTitle": "采莲曲二首·其二",
+          "expectedSection": "七绝",
+          "author": "王昌龄",
+          "selectedPoemIds": [
+            "yizhu-09508198c71cbd6e"
+          ],
+          "userStatement": "采莲曲二首·其二（七绝）是王昌龄的",
+          "note": "用户确认王昌龄“荷叶罗裙一色裁”篇；保留目录《采莲曲二首·其二》与底本《采莲曲三首 二》的组题差异。"
+        },
+        {
+          "catalogEntryId": "xieying-track-249",
+          "expectedTitle": "早梅",
+          "expectedSection": "七绝",
+          "author": "张谓",
+          "selectedPoemIds": [
+            "yizhu-3cd75431d898f09a"
+          ],
+          "userStatement": "早梅（七绝）是张谓的",
+          "note": "用户明确确认作者与作品；正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-250",
+          "expectedTitle": "春思二首·其一",
+          "expectedSection": "七绝",
+          "author": "贾至",
+          "selectedPoemIds": [
+            "yizhu-2f2678bfff98e963"
+          ],
+          "userStatement": "春思二首·其一（七绝）是贾至的",
+          "note": "用户明确确认作者与作品；正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-254",
+          "expectedTitle": "山房春事二首",
+          "expectedSection": "七绝",
+          "author": "岑参",
+          "selectedPoemIds": [
+            "yizhu-5fccbcbe3d4f50e8",
+            "yizhu-2b13585b9c8777b1"
+          ],
+          "userStatement": "山房春事二首是岑参那两首",
+          "note": "用户明确收岑参《山房春事二首》全组，按其一、其二顺序保存。",
+          "wholeGroupConfirmed": true
+        },
+        {
+          "catalogEntryId": "xieying-track-258",
+          "expectedTitle": "江畔独步寻花",
+          "expectedSection": "七绝",
+          "author": "杜甫",
+          "selectedPoemIds": [
+            "yizhu-cd8c186b01f761e8",
+            "yizhu-30af601deb578e89"
+          ],
+          "userStatement": "江畔独步寻花二首（七绝）是江畔独步寻花七绝句的五和六",
+          "note": "用户明确选杜甫《江畔独步寻花七绝句》第五、第六首，按此顺序保存；原目录简称不改。"
+        },
+        {
+          "catalogEntryId": "xieying-track-263",
+          "expectedTitle": "江南曲",
+          "expectedSection": "七绝",
+          "author": "于鹄",
+          "selectedPoemIds": [
+            "yizhu-3a8e065c056823c1"
+          ],
+          "userStatement": "江南曲（七绝）是于鹄的，不过书上写的是江南春，这个可以考究下。",
+          "note": "用户确认于鹄，并报告纸书题为《江南春》。《全唐诗》卷十九、卷三百一十所载均为《江南曲》；保留来源题名，并单独记录用户所见书名差异，未将《江南春》认定为古籍已证异题。"
+        },
+        {
+          "catalogEntryId": "xieying-track-265",
+          "expectedTitle": "宫怨",
+          "expectedSection": "七绝",
+          "author": "李益",
+          "selectedPoemIds": [
+            "yizhu-fe4e20df21e2d54e"
+          ],
+          "userStatement": "宫怨（七绝）是李益的",
+          "note": "用户明确确认作者与作品；正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-267",
+          "expectedTitle": "盆池五首",
+          "expectedSection": "七绝",
+          "author": "韩愈",
+          "selectedPoemIds": [
+            "yizhu-9a921a4327366cdd",
+            "yizhu-19c79b8160027d5c"
+          ],
+          "userStatement": "盆池五首（七绝）选二首是韩愈的二和五",
+          "note": "用户明确选韩愈《盆池五首》第二、第五首，按此顺序保存两首完整正文。"
+        },
+        {
+          "catalogEntryId": "xieying-track-268",
+          "expectedTitle": "秋思",
+          "expectedSection": "七绝",
+          "author": "张籍",
+          "selectedPoemIds": [
+            "yizhu-f38c613f28c38450"
+          ],
+          "userStatement": "秋思（七绝）是张籍的",
+          "note": "用户明确确认作者与作品；正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-271",
+          "expectedTitle": "踏歌词四首·其一",
+          "expectedSection": "七绝",
+          "author": "刘禹锡",
+          "selectedPoemIds": [
+            "yizhu-93a5ac31359abd55"
+          ],
+          "userStatement": "踏歌词四首·其一是刘禹锡的",
+          "note": "用户明确确认作者与作品；正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-282",
+          "expectedTitle": "南园十三首",
+          "expectedSection": "七绝",
+          "author": "李贺",
+          "selectedPoemIds": [
+            "yizhu-b23ff26692d6e06c",
+            "yizhu-6a89f8443daf5511"
+          ],
+          "userStatement": "南园十三首（七绝）选二首是李贺的五和六",
+          "note": "用户明确选李贺《南园十三首》第五、第六首，按此顺序保存两首完整正文。"
+        },
+        {
+          "catalogEntryId": "xieying-track-289",
+          "expectedTitle": "寒食夜",
+          "expectedSection": "七绝",
+          "author": "韩偓",
+          "selectedPoemIds": [
+            "yizhu-6a08a87994f04eda"
+          ],
+          "userStatement": "寒食夜（七绝）是韩偓的",
+          "note": "用户明确确认作者与作品；正文保留已有来源版本。"
+        },
+        {
+          "catalogEntryId": "xieying-track-290",
+          "expectedTitle": "白莲",
+          "expectedSection": "七绝",
+          "author": "陆龟蒙",
+          "selectedPoemIds": [
+            "yizhu-b9c3526b6fdd9115"
+          ],
+          "userStatement": "白莲（七绝）是陆龟蒙的",
+          "note": "用户确认陆龟蒙，底本全题《和袭美木兰后池三咏 白莲》，原目录保留简称《白莲》。"
+        },
+        {
+          "catalogEntryId": "xieying-track-293",
+          "expectedTitle": "古离别",
+          "expectedSection": "七绝",
+          "author": "韦庄",
+          "selectedPoemIds": [
+            "yizhu-63e3280d5508fc9a"
+          ],
+          "userStatement": "古离别（七绝）是晴烟漠漠柳毵毵，不那离情酒半那首",
+          "note": "按用户首句定位韦庄《古离别》；《全唐诗》及公开诗文页面可核对作者。消息截断的“酒半”不作为改字，保存完整来源正文及“马鞭／玉鞭”版本见证。"
+        },
+        {
+          "catalogEntryId": "xieying-track-296",
+          "expectedTitle": "焚书坑",
+          "expectedSection": "七绝",
+          "author": "章谒",
+          "selectedPoemIds": [
+            "yizhu-d19ba0f18fc616ce"
+          ],
+          "userStatement": "焚书坑（七绝）是章谒的",
+          "note": "用户明确确认作者与作品；正文保留已有来源版本。"
+        }
+      ]
+    }
+  ]
+}

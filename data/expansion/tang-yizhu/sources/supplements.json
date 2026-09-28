@@ -1,0 +1,57 @@
+{
+  "accessedOn": "2026-09-28",
+  "policy": "仅录公版诗文、篇名、作者及必要书目事实；现代释义、赏析、音频和插图不在采集范围。",
+  "poems": [
+    {
+      "title": "夜宿山寺", "author": "李白", "genre": "五言绝句",
+      "sourceId": "wikisource-poem", "url": "https://zh.wikisource.org/w/index.php?title=夜宿山寺&oldid=1511163",
+      "paragraphs": ["危楼高百尺，手可摘星辰。", "不敢高声语，恐惊天上人。"],
+      "reviewNote": "通行署李白，题名和作者归属有争议。此处保存维基文库所录通行文本，列入待核，不与《题峰顶寺》直接合并。"
+    },
+    {
+      "title": "清明", "author": "杜牧", "genre": "七言绝句",
+      "sourceId": "wikisource-poem", "url": "https://zh.wikisource.org/w/index.php?title=清明_(杜牧)&oldid=2441564",
+      "paragraphs": ["清明时节雨纷纷，路上行人欲断魂。", "借问酒家何处有？牧童遥指杏花村。"],
+      "reviewNote": "据《千家诗》通行署名保存。作者归属存在讨论，正式定本前核对；研究线索：https://ccj.pku.edu.cn/Article/DownLoad?id=271012926&type=ArticleFile。"
+    },
+    {
+      "title": "山中", "author": "王维", "genre": "五言绝句",
+      "sourceId": "gushiji-poem", "url": "https://www.gushiji.org/mingju/2751",
+      "paragraphs": ["荆溪白石出，天寒红叶稀。", "山路元无雨，空翠湿人衣。"]
+    },
+    {
+      "title": "塞上听吹笛", "author": "高适", "genre": "七言绝句",
+      "sourceId": "gushiwen-poem", "url": "https://m.gushiwen.cn/shiwenv_2f58f416b73b.aspx",
+      "aliases": ["塞上闻笛", "和王七玉门关听吹笛"],
+      "paragraphs": ["雪净胡天牧马还，月明羌笛戍楼间。", "借问梅花何处落，风吹一夜满关山。"],
+      "reviewNote": "来源另题《和王七玉门关听吹笛》，与全唐诗同题文本首联差异较大；保留版本，待核后统一作品身份。"
+    },
+    {
+      "title": "绵谷回寄蔡氏昆仲", "author": "罗隐", "genre": "七言律诗",
+      "sourceId": "xinhua-public-domain-poem", "url": "https://www.xinhuanet.com/politics/2017-08/16/c_129681985.htm",
+      "paragraphs": ["一年两度锦城游，前值东风后值秋。", "芳草有情皆碍马，好云无处不遮楼。", "山将别恨和心断，水带离声入梦流。", "今日因君试回首，淡烟乔木隔绵州。"]
+    },
+    {
+      "title": "赠妓云英", "author": "罗隐", "genre": "七言绝句",
+      "sourceId": "gushiwen-poem", "url": "https://www.gushiwen.cn/mingju/juv_a54b10cbf9a4.aspx",
+      "aliases": ["嘲钟陵妓云英"],
+      "paragraphs": ["钟陵醉别十余春，重见云英掌上身。", "我未成名卿未嫁，可能俱是不如人。"],
+      "textualVariants": [{"base": "卿未嫁", "alternative": "君未嫁", "basis": "来源正文后的异文标注"}]
+    },
+    {
+      "title": "归燕诗", "author": "张九龄", "genre": "五言律诗",
+      "sourceId": "gushiwen-poem", "url": "https://www.gushiwen.cn/shiwenv_4f5e2a86d6ec.aspx",
+      "paragraphs": ["海燕虽微渺，乘春亦暂来。", "岂知泥滓贱，只见玉堂开。", "绣户时双入，华堂日几回。", "无心与物竞，鹰隼莫相猜。"]
+    },
+    {
+      "title": "未展芭蕉", "author": "钱珝", "genre": "七言绝句",
+      "sourceId": "ctext-qts", "url": "https://ctext.org/quantangshi/712/zhs",
+      "paragraphs": ["冷烛无烟绿蜡干，芳心犹卷怯春寒。", "一缄书札藏何事，会被东风暗拆看。"]
+    },
+    {
+      "title": "安定城楼", "author": "李商隐", "genre": "七言律诗",
+      "sourceId": "gushiwen-poem", "url": "https://www.gushiwen.cn/GuShiWen_24ae0e9962.aspx",
+      "paragraphs": ["迢递高城百尺楼，绿杨枝外尽汀洲。", "贾生年少虚垂涕，王粲春来更远游。", "永忆江湖归白发，欲回天地入扁舟。", "不知腐鼠成滋味，猜意鹓雏竟未休。"]
+    }
+  ]
+}

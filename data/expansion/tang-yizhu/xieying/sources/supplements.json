@@ -1,0 +1,17 @@
+{
+  "accessedOn": "2026-09-28",
+  "poems": [
+    {
+      "title": "续父井梧吟",
+      "author": "薛郧、薛涛（传）",
+      "genre": "五言绝句",
+      "sourceId": "jingwuyin-reference",
+      "url": "https://bkso.baidu.com/item/井梧吟/3684221?fromModule=lemma_inlink",
+      "paragraphs": [
+        "庭除一古桐，耸干入云中。",
+        "枝迎南北鸟，叶送往来风。"
+      ],
+      "reviewNote": "传说前二句由父亲薛郧起，后二句由薛涛续。仅存后世记述，作者归属有争议。保留全诗候选，不将四句全部认定为薛涛独作。"
+    }
+  ]
+}

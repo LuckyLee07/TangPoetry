@@ -1,0 +1,507 @@
+{
+  "sourceUrl": "https://www.ximalaya.com/tdk-web/common/tracks?albumId=81955629&asc=true",
+  "accessedOn": "2026-09-28",
+  "notice": "公开列表只返回前100条；其余197条来自用户完整抄录，不伪造trackId。",
+  "data": [
+    {
+      "trackId": 731011572,
+      "trackName": "人间要好诗——《唐诗撷英》序言",
+      "uri": "/sound/731011572"
+    },
+    {
+      "trackId": 731011577,
+      "trackName": "【拾穗】春江花月夜",
+      "uri": "/sound/731011577"
+    },
+    {
+      "trackId": 731011582,
+      "trackName": "茅屋为秋风所破歌",
+      "uri": "/sound/731011582"
+    },
+    {
+      "trackId": 731011587,
+      "trackName": "卖炭翁",
+      "uri": "/sound/731011587"
+    },
+    {
+      "trackId": 731011591,
+      "trackName": "李凭箜篌引",
+      "uri": "/sound/731011591"
+    },
+    {
+      "trackId": 731011596,
+      "trackName": "感遇·其二",
+      "uri": "/sound/731011596"
+    },
+    {
+      "trackId": 731011600,
+      "trackName": "使至塞上",
+      "uri": "/sound/731011600"
+    },
+    {
+      "trackId": 731011606,
+      "trackName": "观猎",
+      "uri": "/sound/731011606"
+    },
+    {
+      "trackId": 731011610,
+      "trackName": "春夜喜雨",
+      "uri": "/sound/731011610"
+    },
+    {
+      "trackId": 731011616,
+      "trackName": "左迁至蓝关示侄孙湘",
+      "uri": "/sound/731011616"
+    },
+    {
+      "trackId": 731190435,
+      "trackName": "酬乐天扬州初逢席上见赠",
+      "uri": "/sound/731190435"
+    },
+    {
+      "trackId": 731190440,
+      "trackName": "钱塘湖春行",
+      "uri": "/sound/731190440"
+    },
+    {
+      "trackId": 731190445,
+      "trackName": "咸阳城西楼晚眺",
+      "uri": "/sound/731190445"
+    },
+    {
+      "trackId": 731190450,
+      "trackName": "逢雪宿芙蓉山主人",
+      "uri": "/sound/731190450"
+    },
+    {
+      "trackId": 731190454,
+      "trackName": "悯农·其二",
+      "uri": "/sound/731190454"
+    },
+    {
+      "trackId": 731190462,
+      "trackName": "咏柳",
+      "uri": "/sound/731190462"
+    },
+    {
+      "trackId": 731190467,
+      "trackName": "从军行",
+      "uri": "/sound/731190467"
+    },
+    {
+      "trackId": 731190471,
+      "trackName": "望庐山瀑布",
+      "uri": "/sound/731190471"
+    },
+    {
+      "trackId": 731190476,
+      "trackName": "客中行",
+      "uri": "/sound/731190476"
+    },
+    {
+      "trackId": 731190481,
+      "trackName": "石头城",
+      "uri": "/sound/731190481"
+    },
+    {
+      "trackId": 731190487,
+      "trackName": "竹枝词·其一",
+      "uri": "/sound/731190487"
+    },
+    {
+      "trackId": 731190492,
+      "trackName": "离思五首·其四",
+      "uri": "/sound/731190492"
+    },
+    {
+      "trackId": 731190496,
+      "trackName": "清明",
+      "uri": "/sound/731190496"
+    },
+    {
+      "trackId": 731190501,
+      "trackName": "山行",
+      "uri": "/sound/731190501"
+    },
+    {
+      "trackId": 731190506,
+      "trackName": "蜂",
+      "uri": "/sound/731190506"
+    },
+    {
+      "trackId": 731190511,
+      "trackName": "社日",
+      "uri": "/sound/731190511"
+    },
+    {
+      "trackId": 731190518,
+      "trackName": "【五古】钓鱼湾",
+      "uri": "/sound/731190518"
+    },
+    {
+      "trackId": 731190523,
+      "trackName": "自京赴奉先县咏怀五百字",
+      "uri": "/sound/731190523"
+    },
+    {
+      "trackId": 731190528,
+      "trackName": "伤田家",
+      "uri": "/sound/731190528"
+    },
+    {
+      "trackId": 731190533,
+      "trackName": "【七古】长安古意",
+      "uri": "/sound/731190533"
+    },
+    {
+      "trackId": 731408089,
+      "trackName": "代悲白头翁",
+      "uri": "/sound/731408089"
+    },
+    {
+      "trackId": 731408092,
+      "trackName": "饮中八仙歌",
+      "uri": "/sound/731408092"
+    },
+    {
+      "trackId": 731408097,
+      "trackName": "雁门太守行",
+      "uri": "/sound/731408097"
+    },
+    {
+      "trackId": 731408102,
+      "trackName": "金铜仙人辞汉歌",
+      "uri": "/sound/731408102"
+    },
+    {
+      "trackId": 731408107,
+      "trackName": "致酒行",
+      "uri": "/sound/731408107"
+    },
+    {
+      "trackId": 731408111,
+      "trackName": "【五律】野望",
+      "uri": "/sound/731408111"
+    },
+    {
+      "trackId": 731408116,
+      "trackName": "正月十五夜",
+      "uri": "/sound/731408116"
+    },
+    {
+      "trackId": 731408121,
+      "trackName": "题义公禅房",
+      "uri": "/sound/731408121"
+    },
+    {
+      "trackId": 731408127,
+      "trackName": "秋夜独坐",
+      "uri": "/sound/731408127"
+    },
+    {
+      "trackId": 731408133,
+      "trackName": "塞下曲·其一",
+      "uri": "/sound/731408133"
+    },
+    {
+      "trackId": 731408138,
+      "trackName": "春日忆李白",
+      "uri": "/sound/731408138"
+    },
+    {
+      "trackId": 731408143,
+      "trackName": "房兵曹胡马",
+      "uri": "/sound/731408143"
+    },
+    {
+      "trackId": 731408148,
+      "trackName": "省试湘灵鼓瑟",
+      "uri": "/sound/731408148"
+    },
+    {
+      "trackId": 731408153,
+      "trackName": "题李凝幽居",
+      "uri": "/sound/731408153"
+    },
+    {
+      "trackId": 731408156,
+      "trackName": "忆江上吴处士",
+      "uri": "/sound/731408156"
+    },
+    {
+      "trackId": 731408160,
+      "trackName": "题扬州禅智寺",
+      "uri": "/sound/731408160"
+    },
+    {
+      "trackId": 731408165,
+      "trackName": "晚晴",
+      "uri": "/sound/731408165"
+    },
+    {
+      "trackId": 731408170,
+      "trackName": "商山早行",
+      "uri": "/sound/731408170"
+    },
+    {
+      "trackId": 731408175,
+      "trackName": "【七律】秋兴·其一",
+      "uri": "/sound/731408175"
+    },
+    {
+      "trackId": 731408181,
+      "trackName": "曲江·其二",
+      "uri": "/sound/731408181"
+    },
+    {
+      "trackId": 731621625,
+      "trackName": "江上值水如海势聊短述",
+      "uri": "/sound/731621625"
+    },
+    {
+      "trackId": 731621630,
+      "trackName": "献淮宁军节度使李相公",
+      "uri": "/sound/731621630"
+    },
+    {
+      "trackId": 731621636,
+      "trackName": "夏夜宿表兄话旧",
+      "uri": "/sound/731621636"
+    },
+    {
+      "trackId": 731621641,
+      "trackName": "始闻秋风",
+      "uri": "/sound/731621641"
+    },
+    {
+      "trackId": 731621645,
+      "trackName": "放言五首·其三",
+      "uri": "/sound/731621645"
+    },
+    {
+      "trackId": 731621650,
+      "trackName": "别舍弟宗一",
+      "uri": "/sound/731621650"
+    },
+    {
+      "trackId": 731621656,
+      "trackName": "九日齐山登高",
+      "uri": "/sound/731621656"
+    },
+    {
+      "trackId": 731621661,
+      "trackName": "马嵬·其二",
+      "uri": "/sound/731621661"
+    },
+    {
+      "trackId": 731621666,
+      "trackName": "伤乱",
+      "uri": "/sound/731621666"
+    },
+    {
+      "trackId": 731621670,
+      "trackName": "山中寡妇",
+      "uri": "/sound/731621670"
+    },
+    {
+      "trackId": 731621676,
+      "trackName": "秋宿湘江遇雨",
+      "uri": "/sound/731621676"
+    },
+    {
+      "trackId": 731621681,
+      "trackName": "【五绝】蝉",
+      "uri": "/sound/731621681"
+    },
+    {
+      "trackId": 731621687,
+      "trackName": "于易水送人一绝",
+      "uri": "/sound/731621687"
+    },
+    {
+      "trackId": 731621691,
+      "trackName": "秋浦歌",
+      "uri": "/sound/731621691"
+    },
+    {
+      "trackId": 731621696,
+      "trackName": "独坐敬亭山",
+      "uri": "/sound/731621696"
+    },
+    {
+      "trackId": 731621704,
+      "trackName": "绝句",
+      "uri": "/sound/731621704"
+    },
+    {
+      "trackId": 731621709,
+      "trackName": "剑客",
+      "uri": "/sound/731621709"
+    },
+    {
+      "trackId": 731621715,
+      "trackName": "江行望匡庐",
+      "uri": "/sound/731621715"
+    },
+    {
+      "trackId": 731621721,
+      "trackName": "题红叶诗",
+      "uri": "/sound/731621721"
+    },
+    {
+      "trackId": 731621725,
+      "trackName": "答人",
+      "uri": "/sound/731621725"
+    },
+    {
+      "trackId": 731825780,
+      "trackName": "【七绝】塞上听吹笛",
+      "uri": "/sound/731825780"
+    },
+    {
+      "trackId": 731825784,
+      "trackName": "别董大",
+      "uri": "/sound/731825784"
+    },
+    {
+      "trackId": 731825790,
+      "trackName": "赠汪伦",
+      "uri": "/sound/731825790"
+    },
+    {
+      "trackId": 731825795,
+      "trackName": "望天门山",
+      "uri": "/sound/731825795"
+    },
+    {
+      "trackId": 731825800,
+      "trackName": "与史郎中钦听黄鹤楼上吹笛",
+      "uri": "/sound/731825800"
+    },
+    {
+      "trackId": 731825803,
+      "trackName": "戏赠杜甫",
+      "uri": "/sound/731825803"
+    },
+    {
+      "trackId": 731825810,
+      "trackName": "戏为六绝句·其二",
+      "uri": "/sound/731825810"
+    },
+    {
+      "trackId": 731825816,
+      "trackName": "赠花卿",
+      "uri": "/sound/731825816"
+    },
+    {
+      "trackId": 731825822,
+      "trackName": "兰溪棹歌",
+      "uri": "/sound/731825822"
+    },
+    {
+      "trackId": 731825827,
+      "trackName": "题都城南庄",
+      "uri": "/sound/731825827"
+    },
+    {
+      "trackId": 731825834,
+      "trackName": "春雪",
+      "uri": "/sound/731825834"
+    },
+    {
+      "trackId": 731825840,
+      "trackName": "早春呈水部张十八员外·其一",
+      "uri": "/sound/731825840"
+    },
+    {
+      "trackId": 731825845,
+      "trackName": "浪淘沙",
+      "uri": "/sound/731825845"
+    },
+    {
+      "trackId": 731825851,
+      "trackName": "再游玄都观",
+      "uri": "/sound/731825851"
+    },
+    {
+      "trackId": 731825859,
+      "trackName": "赏牡丹",
+      "uri": "/sound/731825859"
+    },
+    {
+      "trackId": 731825864,
+      "trackName": "秋词",
+      "uri": "/sound/731825864"
+    },
+    {
+      "trackId": 731825871,
+      "trackName": "暮江吟",
+      "uri": "/sound/731825871"
+    },
+    {
+      "trackId": 731825876,
+      "trackName": "江南春",
+      "uri": "/sound/731825876"
+    },
+    {
+      "trackId": 731825881,
+      "trackName": "过华清宫绝句·其一",
+      "uri": "/sound/731825881"
+    },
+    {
+      "trackId": 731825887,
+      "trackName": "叹花",
+      "uri": "/sound/731825887"
+    },
+    {
+      "trackId": 732024983,
+      "trackName": "谢亭送别",
+      "uri": "/sound/732024983"
+    },
+    {
+      "trackId": 732024987,
+      "trackName": "题鹤林寺僧舍",
+      "uri": "/sound/732024987"
+    },
+    {
+      "trackId": 732024992,
+      "trackName": "宿骆氏亭寄怀崔雍崔衮",
+      "uri": "/sound/732024992"
+    },
+    {
+      "trackId": 732025001,
+      "trackName": "吟韩冬郎·其一",
+      "uri": "/sound/732025001"
+    },
+    {
+      "trackId": 732025005,
+      "trackName": "赠项斯",
+      "uri": "/sound/732025005"
+    },
+    {
+      "trackId": 732025012,
+      "trackName": "淮上与友人别",
+      "uri": "/sound/732025012"
+    },
+    {
+      "trackId": 732025016,
+      "trackName": "下第后上永崇高侍郎",
+      "uri": "/sound/732025016"
+    },
+    {
+      "trackId": 732025021,
+      "trackName": "己亥岁二首·其一",
+      "uri": "/sound/732025021"
+    },
+    {
+      "trackId": 732025026,
+      "trackName": "【五古】咏鹅",
+      "uri": "/sound/732025026"
+    },
+    {
+      "trackId": 732025032,
+      "trackName": "黄台瓜辞",
+      "uri": "/sound/732025032"
+    }
+  ]
+}

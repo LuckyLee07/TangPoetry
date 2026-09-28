@@ -1,0 +1,214 @@
+{
+  "13": {
+    "sourceIds": [
+      "ae5ca477-e66f-423f-bed6-944ed737f66b"
+    ],
+    "note": "异题：咸阳城西楼晚眺 / 咸阳城东楼。",
+    "evidenceUrls": [
+      "https://www.gushici.net/shici/14/24431.html"
+    ]
+  },
+  "38": {
+    "sourceIds": [
+      "965506ed-7133-4826-ad87-abdabc3e23d8"
+    ],
+    "note": "目录省略题名前的大禹寺，来源题为《题大禹寺义公禅房》。"
+  },
+  "68": {
+    "sourceIds": [
+      "1dcde895-c371-410d-b870-0ee3f99b0c86",
+      "1576c5f2-48dc-4d65-a495-95dc9573e645"
+    ],
+    "note": "《江行无题一百首》中的咫尺愁风雨篇；不同来源署钱起 / 钱珝，篇次也不一致。建议按钱珝收录，仍需确认书中署名。",
+    "forceConfirm": true,
+    "evidenceUrls": [
+      "https://www.pinshiwen.com/shishu/qjsqj/20200613272083.html"
+    ]
+  },
+  "69": {
+    "sourceIds": [
+      "50ec05b8-7d2f-4fe9-b430-3192a631661b"
+    ],
+    "note": "来源题为《题红叶》，署宣宗宫人；未擅自细化为具体宫人姓名。"
+  },
+  "93": {
+    "sourceIds": [
+      "d538dace-1398-4b98-ba44-600d6168de07"
+    ],
+    "note": "来源题为《宿骆氏亭寄怀崔雍衮》，合写崔雍、崔衮二人之名。"
+  },
+  "94": {
+    "sourceIds": [
+      "607cacdd-9888-4281-b43b-071bd9085ec1"
+    ],
+    "note": "简称对应以“韩冬郎即席为诗相送”开头的长题二绝，目录指定其一，正文“十岁裁诗走马成”。"
+  },
+  "106": {
+    "sourceIds": [
+      "2c417fd4-9798-43ae-b2ea-4fba4400af3f",
+      "cd2f806d-530b-4172-8012-db5a51f95cbd"
+    ],
+    "note": "丁都护 / 丁督护为异题，保存两个来源版本。"
+  },
+  "107": {
+    "sourceIds": [
+      "57203d7f-380c-4052-b21b-d1ea79fbe231",
+      "abb3e465-f10e-43dd-b564-a5de08010478",
+      "baccf46a-41c4-4a0f-b90f-37cc35b04a64",
+      "f990af2e-d929-48da-a9b3-fdbc706ca4a3"
+    ],
+    "note": "《子夜吴歌》有春、夏、秋、冬四篇；目录未指明选篇还是全组。",
+    "forceConfirm": true
+  },
+  "137": {
+    "sourceIds": [
+      "595cdc85-b376-45d2-97fc-fb7e946ab5fd",
+      "4ed4857e-0b00-433c-aefd-24df862b57ae"
+    ],
+    "note": "简称待确认：上官婉儿《奉和圣制立春日侍宴内殿出翦彩花应制》更符合前后目录位置；亦保留李远《翦彩》候选。前后排序只作线索。",
+    "forceConfirm": true,
+    "evidenceUrls": [
+      "https://bkso.baidu.com/item/奉和圣制立春日侍宴内殿出翦彩花应制/8541755"
+    ]
+  },
+  "154": {
+    "sourceIds": [
+      "d986d292-aede-419a-b03b-2c685e32ff3e"
+    ],
+    "note": "目录省略“判官西使还”，来源全题《武威春暮闻宇文判官西使还已到晋昌》。"
+  },
+  "177": {
+    "sourceIds": [
+      "86d084a1-6ccd-49a1-8757-cebc29ef13e8"
+    ],
+    "note": "目录节略长题《陪诸贵公子丈八沟携妓纳凉晚际遇雨二首》，指定其一。"
+  },
+  "182": {
+    "sourceIds": [
+      "67d2ba1b-92a3-4fdd-8bb6-491b279a4b47"
+    ],
+    "note": "来源题为《盩厔县郑𥐟宅送钱大》；目录省略郑姓名的末字，保留原题便于校订。"
+  },
+  "194": {
+    "sourceIds": [
+      "bbc775ba-d10c-4bc5-80bd-44e37559a24d"
+    ],
+    "note": "《寄镜湖方干处士》一作《寄方干处士鉴湖旧居》，齐己。",
+    "evidenceUrls": [
+      "https://m.cidianwang.com/gushiwen/8/d4831126858.htm"
+    ]
+  },
+  "202": {
+    "sourceIds": [
+      "0bf9ae01-feb3-4a31-a3ac-6148b69831fe"
+    ],
+    "note": "送严士元 / 别严士元为异题。"
+  },
+  "217": {
+    "sourceIds": [
+      "0f206685-9c84-408a-a644-032564e5237b"
+    ],
+    "note": "目录“西塞上”疑为“西塞山”的抄录或音频标题差异；对应皮日休《西塞山泊渔家》。",
+    "forceConfirm": true
+  },
+  "230": {
+    "sourceIds": [
+      "9cb8ce3e-dbe3-4e67-af00-a804071e351c"
+    ],
+    "note": "来源题为《南中咏雁》。与于季子《南行别弟》存在同文异署现象，待确认书中采用的署名。",
+    "forceConfirm": true
+  },
+  "234": {
+    "sourceIds": [
+      "2799a70a-5cc0-421e-9e10-72eb23053ea5"
+    ],
+    "note": "《洛阳道五首献吕四郎中》其三，目录节略受赠者。",
+    "evidenceUrls": [
+      "https://www.gushiwen.cn/shiwenv_b99bbbffaf90.aspx"
+    ]
+  },
+  "281": {
+    "sourceIds": [
+      "4c3d2d11-ba89-4153-95d0-454d492f27d6"
+    ],
+    "note": "赠婢 / 赠去婢为异题。"
+  },
+  "88": {
+    "additionalTitles": [
+      "江南春绝句"
+    ],
+    "note": "将杜牧《江南春绝句》作为《江南春》的候选，不因底本的题名差异遗漏。"
+  },
+  "215": {
+    "additionalTitles": [
+      "长安晚秋"
+    ],
+    "note": "赵嘏《长安晚秋》亦题《长安秋望》，符合七律栏目；杜牧同名篇是五绝。",
+    "evidenceUrls": [
+      "https://www.quanxue.cn/ct_rujia/qianjias/qianjias128.html"
+    ]
+  },
+  "244": {
+    "forceConfirm": true,
+    "note": "全诗传为薛郧起前二句、薛涛续后二句，作者归属仍有争议；用户已确认按五绝收完整四句。"
+  },
+  "43": {
+    "allowSectionConflict": true,
+    "note": "十二句五言排律，专辑归于五律栏目；作品身份已由书籍公开预览独立核对，保留栏目与实际句式的区别。"
+  },
+  "6": {
+    "additionalTitles": [
+      "感遇诗三十八首·其二"
+    ],
+    "note": "补列陈子昂《感遇诗三十八首》其二（兰若生春夏）。张九龄、李白、柳宗元也有同题及篇次，不能只凭简称选定。",
+    "evidenceUrls": [
+      "https://www.hnwu.edu.cn/ewebeditor/uploadfile/20231006195220323.pdf"
+    ]
+  },
+  "219": {
+    "sourceIds": [
+      "74865fb6-18fa-4dc2-8f23-4d88738f0f5a",
+      "79e14711-13e9-43a4-8170-16d6e2f8f450",
+      "224486d6-50d2-4c4e-968c-867aa36b2dd2",
+      "fb760b4c-60d5-46e3-82df-c0edf0ac55ee",
+      "aa179ade-0b77-45de-a022-f51385e5b914",
+      "e1391a02-16b8-466f-932f-2944c267d362",
+      "f6c169fd-4227-4b07-9a09-45452e063aa6",
+      "4d6ba67f-a834-47b8-a75a-550689740918",
+      "dccd2ff5-3019-49c7-939f-29c1d419bd7a",
+      "17e4c958-635b-44d8-8be9-2d772d75f693",
+      "60a99fa6-e1df-4946-a4df-8a0b94891b3f",
+      "1f8c69c3-6ae6-48ff-bf8c-1e18b0f42133"
+    ],
+    "note": "目录《旅怀》对应崔涂《春夕》（亦题《春夕旅怀》）。用户明确作者后补充异题定位；保留原目录题名、底本全题与其他同名候选。",
+    "evidenceUrls": [
+      "https://www.gushiwen.cn/shiwenv_4ca5d11852a2.aspx",
+      "https://www.newton.com.tw/wiki/%E6%97%85%E6%87%B7"
+    ]
+  },
+  "263": {
+    "note": "用户已确认统一采用于鹄《江南曲》，与《全唐诗》卷十九、卷三百一十题名一致。此前报告的纸书题名《江南春》仅保留为来源差异记录。",
+    "evidenceUrls": [
+      "https://zh.wikisource.org/zh-hans/全唐詩/卷310",
+      "https://zh.wikisource.org/zh-hans/全唐詩/卷019"
+    ],
+    "titleReview": {
+      "status": "adopted-title-user-confirmed",
+      "sourceTitle": "江南曲",
+      "reportedBookTitle": "江南春",
+      "bookPageIndependentlyChecked": false,
+      "reportSource": {
+        "file": "sources/user-confirmations.json",
+        "batchId": "user-confirmation-2026-09-28-04",
+        "catalogEntryId": "xieying-track-263"
+      },
+      "decision": "按用户确认统一采用《江南曲》。此前报告的纸书题名仅供追溯，不影响当前采用题名。",
+      "adoptedTitle": "江南曲",
+      "titleConfirmation": {
+        "confirmedOn": "2026-09-28",
+        "source": "用户在当前会话确认",
+        "userStatement": "好的，那就叫江南曲吧"
+      }
+    }
+  }
+}

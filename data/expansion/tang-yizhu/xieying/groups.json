@@ -1,0 +1,1435 @@
+{
+  "groups": [
+    {
+      "author": "令狐楚",
+      "title": "从军行五首",
+      "positions": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "poemIds": [
+        "yizhu-1629d51b7e326d34",
+        "yizhu-c90631990fda283f",
+        "yizhu-94bab0fab881b03f",
+        "yizhu-e61555e2d0b6ad9e",
+        "yizhu-85b9ca0151c3c0ff"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "储光羲",
+      "title": "洛阳道五首献吕四郎中",
+      "positions": [
+        3
+      ],
+      "poemIds": [
+        "yizhu-d5215e712b137462"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "僧皎然",
+      "title": "从军行",
+      "positions": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "poemIds": [
+        "yizhu-96c2e4802fba0757",
+        "yizhu-7b0a31d018c6e560",
+        "yizhu-2bbf413cb3f7732a",
+        "yizhu-3ac62b79e9e9f056",
+        "yizhu-adcb32c4f3a3ef5c"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "僧贯休",
+      "title": "战城南二首",
+      "positions": [
+        1,
+        2
+      ],
+      "poemIds": [
+        "yizhu-a449237eda701cb9",
+        "yizhu-fafc019baec2f138"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "元稹",
+      "title": "放言五首",
+      "positions": [
+        3
+      ],
+      "poemIds": [
+        "yizhu-62764ea95ffb50d5"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "元稹",
+      "title": "离思五首",
+      "positions": [
+        4
+      ],
+      "poemIds": [
+        "yizhu-d05fe8438a12505d"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "刘商",
+      "title": "观猎三首",
+      "positions": [
+        1,
+        2,
+        3
+      ],
+      "poemIds": [
+        "yizhu-1bbc7db73d2ab8d2",
+        "yizhu-e8be264a49e1827a",
+        "yizhu-d0d3ace5968d316f"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "刘禹锡",
+      "title": "咏史二首",
+      "positions": [
+        1,
+        2
+      ],
+      "poemIds": [
+        "yizhu-5791591736c476e7",
+        "yizhu-06083b726c44a0a9"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "刘禹锡",
+      "title": "浪淘沙九首",
+      "positions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "poemIds": [
+        "yizhu-08b0f4744fe5c4b5",
+        "yizhu-d6c1660f3ee19ecd",
+        "yizhu-96b8b4e9fc9a1cd6",
+        "yizhu-579d174482fc5c0d",
+        "yizhu-771d81beaae31bfa",
+        "yizhu-c2aa2981a375cc72",
+        "yizhu-8c48e859968b833b",
+        "yizhu-b1af6385f7c073ae",
+        "yizhu-a51e4e33a2cc1dc3"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": [
+        "yizhu-08b0f4744fe5c4b5"
+      ]
+    },
+    {
+      "author": "刘禹锡",
+      "title": "秋词二首",
+      "positions": [
+        1,
+        2
+      ],
+      "poemIds": [
+        "yizhu-9dbf0502988eb768",
+        "yizhu-eb48cab73fd9ca65"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": [
+        "yizhu-9dbf0502988eb768"
+      ]
+    },
+    {
+      "author": "刘禹锡",
+      "title": "竹枝词九首",
+      "positions": [
+        1
+      ],
+      "poemIds": [
+        "yizhu-98ee109c03f12992"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "刘禹锡",
+      "title": "竹枝词二首",
+      "positions": [
+        1
+      ],
+      "poemIds": [
+        "yizhu-20ba76b968927758"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": [
+        "yizhu-20ba76b968927758"
+      ]
+    },
+    {
+      "author": "刘禹锡",
+      "title": "踏歌词四首",
+      "positions": [
+        1
+      ],
+      "poemIds": [
+        "yizhu-93a5ac31359abd55"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": [
+        "yizhu-93a5ac31359abd55"
+      ]
+    },
+    {
+      "author": "刘长卿",
+      "title": "从军行六首",
+      "positions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "poemIds": [
+        "yizhu-4dd50a65f2d323f7",
+        "yizhu-49e7eacbba4e8fdc",
+        "yizhu-8ff693de251b6547",
+        "yizhu-12edead6b42d349c",
+        "yizhu-db64851a84eceb71",
+        "yizhu-f0aba72a70e80ff8"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "卢频",
+      "title": "失题",
+      "positions": [
+        1,
+        2
+      ],
+      "poemIds": [
+        "yizhu-c5510fd6e2718d00",
+        "yizhu-8205dad9ac1ee8ca"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "唐备",
+      "title": "失题二首",
+      "positions": [
+        1,
+        2
+      ],
+      "poemIds": [
+        "yizhu-06cb3db8d9ebab03",
+        "yizhu-4d6dfb3a8c202e94"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "圆观",
+      "title": "竹枝词",
+      "positions": [
+        1
+      ],
+      "poemIds": [
+        "yizhu-8a7836a44b1e371d"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "孙光宪",
+      "title": "竹枝词二首",
+      "positions": [
+        1
+      ],
+      "poemIds": [
+        "yizhu-bbf05428fa687990"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "岑参",
+      "title": "山房春事二首",
+      "positions": [
+        1,
+        2
+      ],
+      "poemIds": [
+        "yizhu-5fccbcbe3d4f50e8",
+        "yizhu-2b13585b9c8777b1"
+      ],
+      "wholeGroupConfirmed": true,
+      "userConfirmedPoemIds": [
+        "yizhu-5fccbcbe3d4f50e8",
+        "yizhu-2b13585b9c8777b1"
+      ]
+    },
+    {
+      "author": "张九龄",
+      "title": "叙怀二首",
+      "positions": [
+        1
+      ],
+      "poemIds": [
+        "yizhu-ce9f85366dfd2c37"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "张九龄",
+      "title": "感遇十二首",
+      "positions": [
+        2
+      ],
+      "poemIds": [
+        "yizhu-28ef9c404f3f2516"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "张仲素",
+      "title": "秋思二首",
+      "positions": [
+        1,
+        2
+      ],
+      "poemIds": [
+        "yizhu-86f79612085aa49f",
+        "yizhu-7efe16ff2c871ef9"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "张子容",
+      "title": "春江花月夜二首",
+      "positions": [
+        1,
+        2
+      ],
+      "poemIds": [
+        "yizhu-d083b0d2faae9692",
+        "yizhu-0d9e004f36df078f"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "张窈窕",
+      "title": "春思二首",
+      "positions": [
+        1
+      ],
+      "poemIds": [
+        "yizhu-2f6d768baa4853ed"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "张说",
+      "title": "踏歌词",
+      "positions": [
+        1
+      ],
+      "poemIds": [
+        "yizhu-27cc621730c2e348"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "戎昱",
+      "title": "塞下曲",
+      "positions": [
+        6
+      ],
+      "poemIds": [
+        "yizhu-a293b8d088f5ca2d"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "戎昱",
+      "title": "采莲曲二首",
+      "positions": [
+        2
+      ],
+      "poemIds": [
+        "yizhu-79386cbeba3320d8"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "曹松",
+      "title": "己亥岁二首",
+      "positions": [
+        1
+      ],
+      "poemIds": [
+        "yizhu-6e5ceb963ae8b76e"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "李商隐",
+      "title": "韩冬郎即席为诗相送一座尽惊他日余方追吟连宵侍坐裴回久之句有老成之风因成二绝寄酬兼呈畏之员外",
+      "positions": [
+        1
+      ],
+      "poemIds": [
+        "yizhu-2fd33e58a17815e5"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "李商隐",
+      "title": "马嵬二首",
+      "positions": [
+        2
+      ],
+      "poemIds": [
+        "yizhu-f566dae78afc131e"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "李山甫",
+      "title": "曲江二首",
+      "positions": [
+        2
+      ],
+      "poemIds": [
+        "yizhu-ef4b64a328e660a5"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "李涉",
+      "title": "竹枝词",
+      "positions": [
+        1
+      ],
+      "poemIds": [
+        "yizhu-bbe9b5e9cc702ead"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "李白",
+      "title": "从军行二首",
+      "positions": [
+        1,
+        2
+      ],
+      "poemIds": [
+        "yizhu-06fb59b10302e0ab",
+        "yizhu-be0e293b13631d5e"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "李白",
+      "title": "古风",
+      "positions": [
+        3
+      ],
+      "poemIds": [
+        "yizhu-56784ed87e28db70"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "李白",
+      "title": "塞下曲六首",
+      "positions": [
+        1,
+        2,
+        3,
+        5,
+        6
+      ],
+      "poemIds": [
+        "yizhu-320270075e2d7b36",
+        "yizhu-b798f6d8dcb3e17a",
+        "yizhu-054b5998ad63c3b9",
+        "yizhu-0f79730257d6c84c",
+        "yizhu-80628212b6f3e284"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": [
+        "yizhu-320270075e2d7b36",
+        "yizhu-054b5998ad63c3b9",
+        "yizhu-0f79730257d6c84c"
+      ]
+    },
+    {
+      "author": "李白",
+      "title": "感遇四首",
+      "positions": [
+        2
+      ],
+      "poemIds": [
+        "yizhu-b869dbec30a29d4f"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "李白",
+      "title": "望庐山瀑布水二首",
+      "positions": [
+        1,
+        2
+      ],
+      "poemIds": [
+        "yizhu-9537f023a107654d",
+        "yizhu-4c147bd293553a25"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": [
+        "yizhu-4c147bd293553a25"
+      ]
+    },
+    {
+      "author": "李白",
+      "title": "独坐敬亭山",
+      "positions": [
+        2
+      ],
+      "poemIds": [
+        "yizhu-3fb43f0fddd4f5d7"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "李白",
+      "title": "秋浦歌十七首",
+      "positions": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "poemIds": [
+        "yizhu-1986426da5f5a531",
+        "yizhu-fa65414b4e32b147",
+        "yizhu-c87ae649c3486697",
+        "yizhu-2e11e33d054f031b",
+        "yizhu-521303c4df4b33ed",
+        "yizhu-f56a9762e749e12b",
+        "yizhu-4e50e9f30c8f00be",
+        "yizhu-772ff50ceeec074c",
+        "yizhu-ed1a664e75f21d24",
+        "yizhu-6d25139d54aa9567",
+        "yizhu-644d02502a0cd21b",
+        "yizhu-023c7ea7424c5d26",
+        "yizhu-4296d9b3bb48f3b6",
+        "yizhu-3bfb94e264ae3e4a"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": [
+        "yizhu-644d02502a0cd21b",
+        "yizhu-023c7ea7424c5d26"
+      ]
+    },
+    {
+      "author": "李白",
+      "title": "陪族叔刑部侍郎晔及中书贾舍人至游洞庭五首",
+      "positions": [
+        2
+      ],
+      "poemIds": [
+        "yizhu-35061b6c70d467b1"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "李约",
+      "title": "从军行三首",
+      "positions": [
+        1,
+        2,
+        3
+      ],
+      "poemIds": [
+        "yizhu-99192a9ba7f11e5c",
+        "yizhu-78debde2590249df",
+        "yizhu-e02774db02ea10ec"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "李绅",
+      "title": "古风二首",
+      "positions": [
+        2,
+        1
+      ],
+      "poemIds": [
+        "yizhu-79aa95ffb774867a",
+        "yizhu-edf0e274d41716b3"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "李贺",
+      "title": "南园十三首",
+      "positions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "poemIds": [
+        "yizhu-6f7c15f612a0db6a",
+        "yizhu-91791157de16a053",
+        "yizhu-931778f63317ae2f",
+        "yizhu-e61eda0514677988",
+        "yizhu-b23ff26692d6e06c",
+        "yizhu-6a89f8443daf5511",
+        "yizhu-e58391dc3d7a7da9",
+        "yizhu-ebf6519882f86188",
+        "yizhu-518916e637b5308f",
+        "yizhu-ff514011d4d442fe",
+        "yizhu-09aff3aad6d9ffda",
+        "yizhu-c4bf654a4cb4e9f8"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": [
+        "yizhu-b23ff26692d6e06c",
+        "yizhu-6a89f8443daf5511"
+      ]
+    },
+    {
+      "author": "杜牧",
+      "title": "过华清宫绝句三首",
+      "positions": [
+        1
+      ],
+      "poemIds": [
+        "yizhu-b6dbef9cd6ad7146"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "杜甫",
+      "title": "前出塞九首",
+      "positions": [
+        6
+      ],
+      "poemIds": [
+        "yizhu-59339b04d8546fa9"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "杜甫",
+      "title": "戏为六绝句",
+      "positions": [
+        2
+      ],
+      "poemIds": [
+        "yizhu-30e5a723cd282cfd"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "杜甫",
+      "title": "曲江二首",
+      "positions": [
+        2
+      ],
+      "poemIds": [
+        "yizhu-413683288473521d"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": [
+        "yizhu-413683288473521d"
+      ]
+    },
+    {
+      "author": "杜甫",
+      "title": "月三首",
+      "positions": [
+        1,
+        2,
+        3
+      ],
+      "poemIds": [
+        "yizhu-edc11eb22502bd9d",
+        "yizhu-fcb1dbc548790abd",
+        "yizhu-a4d60668f482e736"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "杜甫",
+      "title": "水槛遣心二首",
+      "positions": [
+        1
+      ],
+      "poemIds": [
+        "yizhu-6bfaa3a4465fdfb4"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "杜甫",
+      "title": "江畔独步寻花七绝句",
+      "positions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "poemIds": [
+        "yizhu-3fd79d4d2fda009b",
+        "yizhu-2f668b18681cee44",
+        "yizhu-8bb9f44a87de3793",
+        "yizhu-dda57b49d8dab33a",
+        "yizhu-cd8c186b01f761e8",
+        "yizhu-30af601deb578e89",
+        "yizhu-d74d5c272cd1c4a2"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": [
+        "yizhu-cd8c186b01f761e8",
+        "yizhu-30af601deb578e89"
+      ]
+    },
+    {
+      "author": "杜甫",
+      "title": "清明二首",
+      "positions": [
+        1,
+        2
+      ],
+      "poemIds": [
+        "yizhu-f0459d560bf184b8",
+        "yizhu-962aef4e0fc331fa"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "杜甫",
+      "title": "秋兴八首",
+      "positions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "poemIds": [
+        "yizhu-544bd83c17680a2c",
+        "yizhu-1fb68b69d11fdd30",
+        "yizhu-965141fedde3c207",
+        "yizhu-339e22da06691f7f",
+        "yizhu-60e8404df54fdde4",
+        "yizhu-865844629b1b6a22",
+        "yizhu-3a45270741e85e84",
+        "yizhu-15b768e34211dca5"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": [
+        "yizhu-965141fedde3c207",
+        "yizhu-339e22da06691f7f",
+        "yizhu-3a45270741e85e84"
+      ]
+    },
+    {
+      "author": "杜甫",
+      "title": "绝句九首",
+      "positions": [
+        7,
+        8,
+        9
+      ],
+      "poemIds": [
+        "yizhu-735dd29a9043df0c",
+        "yizhu-9f82912556994334",
+        "yizhu-f678d21b595b2c29"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "杜甫",
+      "title": "绝句二首",
+      "positions": [
+        1
+      ],
+      "poemIds": [
+        "yizhu-97fd080a94419b18"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": [
+        "yizhu-97fd080a94419b18"
+      ]
+    },
+    {
+      "author": "杜甫",
+      "title": "绝句六首",
+      "positions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "poemIds": [
+        "yizhu-efc93b63844fdae2",
+        "yizhu-54280f13d0c3b353",
+        "yizhu-37c10681bc23640f",
+        "yizhu-9ab84ffe5fb518ba",
+        "yizhu-fde4ac082c58ef2f",
+        "yizhu-740a80383c03c24f"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "杜甫",
+      "title": "羌村",
+      "positions": [
+        1
+      ],
+      "poemIds": [
+        "yizhu-8532b2840376f247"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "杜甫",
+      "title": "陪诸贵公子丈八沟携妓纳凉晚际遇雨二首",
+      "positions": [
+        1
+      ],
+      "poemIds": [
+        "yizhu-11aa46e3ed9f0f50"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "杨行敏",
+      "title": "失题二首",
+      "positions": [
+        1,
+        2
+      ],
+      "poemIds": [
+        "yizhu-2e26c836691c7d17",
+        "yizhu-0a1aae450ace6aa2"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "柯崇",
+      "title": "宫怨",
+      "positions": [
+        1,
+        2
+      ],
+      "poemIds": [
+        "yizhu-344e16b8d11b647c",
+        "yizhu-938fcefcf22d0904"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "柳宗元",
+      "title": "感遇二首",
+      "positions": [
+        2
+      ],
+      "poemIds": [
+        "yizhu-b834d350fdf1a4d4"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "沈彬",
+      "title": "塞下三首",
+      "positions": [
+        1
+      ],
+      "poemIds": [
+        "yizhu-c7c6ea136eb9dbfd"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "焦郁",
+      "title": "春雪",
+      "positions": [
+        2
+      ],
+      "poemIds": [
+        "yizhu-09744d3cb97513c7"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "王昌龄",
+      "title": "从军行",
+      "positions": [
+        2,
+        3,
+        4
+      ],
+      "poemIds": [
+        "yizhu-80e7043205276bda",
+        "yizhu-3da5a71eca324f84",
+        "yizhu-aafb675e8b63f9fd"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": [
+        "yizhu-aafb675e8b63f9fd"
+      ]
+    },
+    {
+      "author": "王昌龄",
+      "title": "从军行七首",
+      "positions": [
+        3,
+        5,
+        6,
+        7
+      ],
+      "poemIds": [
+        "yizhu-78c7a15607d2f18a",
+        "yizhu-9eb865ce65811d46",
+        "yizhu-8c7f2b1d27e120f6",
+        "yizhu-0307047a2c6abbfc"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": [
+        "yizhu-9eb865ce65811d46"
+      ]
+    },
+    {
+      "author": "王昌龄",
+      "title": "从军行二首",
+      "positions": [
+        2
+      ],
+      "poemIds": [
+        "yizhu-0c4ce7a61ed58f49"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "王昌龄",
+      "title": "塞下曲四首",
+      "positions": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "poemIds": [
+        "yizhu-88f02630f779b839",
+        "yizhu-2734d51f16d8cbe8",
+        "yizhu-c599ca66e0fb0806",
+        "yizhu-339188e48f43b469"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "王昌龄",
+      "title": "采莲曲三首",
+      "positions": [
+        2
+      ],
+      "poemIds": [
+        "yizhu-09508198c71cbd6e"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": [
+        "yizhu-09508198c71cbd6e"
+      ]
+    },
+    {
+      "author": "王涯",
+      "title": "从军行三首",
+      "positions": [
+        1,
+        2,
+        3
+      ],
+      "poemIds": [
+        "yizhu-abf87a122f126196",
+        "yizhu-7d19f5ae4fbc02e4",
+        "yizhu-4f773cb63d7a11c1"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "王涯",
+      "title": "秋思二首",
+      "positions": [
+        1,
+        2
+      ],
+      "poemIds": [
+        "yizhu-e1bbc2d8c5192b4e",
+        "yizhu-41b63f91a30715e7"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "白居易",
+      "title": "放言五首",
+      "positions": [
+        3
+      ],
+      "poemIds": [
+        "yizhu-b39c3ec3a2e80a17"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": [
+        "yizhu-b39c3ec3a2e80a17"
+      ]
+    },
+    {
+      "author": "白居易",
+      "title": "池上二绝",
+      "positions": [
+        1,
+        2
+      ],
+      "poemIds": [
+        "yizhu-ae61b9ca2c32c7e4",
+        "yizhu-b0706b7475be6adb"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": [
+        "yizhu-b0706b7475be6adb"
+      ]
+    },
+    {
+      "author": "白居易",
+      "title": "浪淘沙",
+      "positions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "poemIds": [
+        "yizhu-30ef606ee322f893",
+        "yizhu-bc1b3caba2bd8580",
+        "yizhu-6bec53728926e2a5",
+        "yizhu-7c1b880743ff8ce9",
+        "yizhu-bb88b6b5f2933dc8",
+        "yizhu-cca846aaf3b7b3f8"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "白居易",
+      "title": "竹枝词四首",
+      "positions": [
+        1
+      ],
+      "poemIds": [
+        "yizhu-e78f8bc91f044cc2"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "皇甫冉",
+      "title": "浪淘沙二首",
+      "positions": [
+        1,
+        2
+      ],
+      "poemIds": [
+        "yizhu-cc3e1f38f828b1f3",
+        "yizhu-9bd3734aea7535e0"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "皇甫松",
+      "title": "浪淘沙二首",
+      "positions": [
+        1,
+        2
+      ],
+      "poemIds": [
+        "yizhu-59d4b6d8debb99e9",
+        "yizhu-e0d77712dccb128b"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "皎然",
+      "title": "从军行五首",
+      "positions": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "poemIds": [
+        "yizhu-ce5cda4f7793f0a9",
+        "yizhu-daac7c085de759fb",
+        "yizhu-2b610eb4b7e1ee2c",
+        "yizhu-6df4f6b7a59e8ab5",
+        "yizhu-e2d25770854e3dba"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "皮日休",
+      "title": "汴河怀古二首",
+      "positions": [
+        2
+      ],
+      "poemIds": [
+        "yizhu-6c12e64d898a7fd4"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "薛能",
+      "title": "失鹤二首",
+      "positions": [
+        1,
+        2
+      ],
+      "poemIds": [
+        "yizhu-7c3e46a24d1301cf",
+        "yizhu-cae009dbc93b55d2"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "虞世南",
+      "title": "从军行二首",
+      "positions": [
+        1,
+        2
+      ],
+      "poemIds": [
+        "yizhu-58528cd270f4a24d",
+        "yizhu-43a2a70d5929192d"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "贯休",
+      "title": "战城南二首",
+      "positions": [
+        1,
+        2
+      ],
+      "poemIds": [
+        "yizhu-1ca40efebb5bc4e1",
+        "yizhu-4d740991172ef78c"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "贾至",
+      "title": "春思二首",
+      "positions": [
+        1
+      ],
+      "poemIds": [
+        "yizhu-2f2678bfff98e963"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": [
+        "yizhu-2f2678bfff98e963"
+      ]
+    },
+    {
+      "author": "钱珝",
+      "title": "江行无题一百首",
+      "positions": [
+        68
+      ],
+      "poemIds": [
+        "yizhu-2edf2c8d3bc75b19"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": [
+        "yizhu-2edf2c8d3bc75b19"
+      ]
+    },
+    {
+      "author": "钱起",
+      "title": "江行无题一百首",
+      "positions": [
+        69
+      ],
+      "poemIds": [
+        "yizhu-f960609722c9d6cd"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "陆龟蒙",
+      "title": "春思二首",
+      "positions": [
+        1
+      ],
+      "poemIds": [
+        "yizhu-3af8fad9467ad698"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "陈子昂",
+      "title": "感遇诗三十八首",
+      "positions": [
+        2
+      ],
+      "poemIds": [
+        "yizhu-5971557650b64586"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": [
+        "yizhu-5971557650b64586"
+      ]
+    },
+    {
+      "author": "陈子昂",
+      "title": "春夜别友人二首",
+      "positions": [
+        1
+      ],
+      "poemIds": [
+        "yizhu-5a625c9608482633"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "陈陶",
+      "title": "塞下曲",
+      "positions": [
+        1,
+        2
+      ],
+      "poemIds": [
+        "yizhu-278b572a7cc57834",
+        "yizhu-7a6af1bc10cafca4"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "韩愈",
+      "title": "早春呈水部张十八员外二首",
+      "positions": [
+        1
+      ],
+      "poemIds": [
+        "yizhu-cc66abbcb2258a48"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "韩愈",
+      "title": "盆池五首",
+      "positions": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "poemIds": [
+        "yizhu-43e8885daeb22139",
+        "yizhu-9a921a4327366cdd",
+        "yizhu-9307b533647ccc6f",
+        "yizhu-bb03f382bce2924d",
+        "yizhu-19c79b8160027d5c"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": [
+        "yizhu-9a921a4327366cdd",
+        "yizhu-19c79b8160027d5c"
+      ]
+    },
+    {
+      "author": "顾云",
+      "title": "咏柳二首",
+      "positions": [
+        1,
+        2
+      ],
+      "poemIds": [
+        "yizhu-59ad0ee2f55e52a6",
+        "yizhu-afe7136cc2af7e94"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "顾况",
+      "title": "从军行二首",
+      "positions": [
+        1,
+        2
+      ],
+      "poemIds": [
+        "yizhu-cf6c2b9925f29c10",
+        "yizhu-002d821245c7cd5c"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "马戴",
+      "title": "塞下曲二首",
+      "positions": [
+        1,
+        2
+      ],
+      "poemIds": [
+        "yizhu-c74de02f29c3ecb9",
+        "yizhu-bf43fb24db480c18"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    },
+    {
+      "author": "高适",
+      "title": "别董大二首",
+      "positions": [
+        1,
+        2
+      ],
+      "poemIds": [
+        "yizhu-a81faf7f6003c564",
+        "yizhu-7722f01fc965d3d1"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": [
+        "yizhu-a81faf7f6003c564"
+      ]
+    },
+    {
+      "author": "鲍溶",
+      "title": "采莲曲二首",
+      "positions": [
+        2
+      ],
+      "poemIds": [
+        "yizhu-aea68e052b08ba8f"
+      ],
+      "wholeGroupConfirmed": false,
+      "userConfirmedPoemIds": []
+    }
+  ]
+}

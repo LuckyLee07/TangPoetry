@@ -1,0 +1,50 @@
+{
+  "book": {
+    "title": "唐诗撷英：唐诗三百首之外的遗珠之选",
+    "editor": "郭浚清",
+    "publisher": "天地出版社",
+    "publicationYear": 2023,
+    "isbn": "9787545579215",
+    "bibliographyUrl": "https://libdb.zju.edu.cn/s/libai/book/index/749/20/2023/ING1NDVI83DQ6XRVSU82UUV78D8KMVM6FSRSTYBF4P6CYGFIER-29422",
+    "ebookChapterCount": 322,
+    "poemCount": null,
+    "catalogStatus": "partial-public-preview-only",
+    "notice": "只确认以下4个公开试读篇目。322是平台章节数，不是本项目确认的诗歌总数；未取得完整目录。本数据集其余篇目为独立候选，不标称本书收录。"
+  },
+  "accessedOn": "2026-09-28",
+  "extractionPolicy": "只摘录公版古诗及书目事实，用于篇目确认和原文对照；不采集本书现代作者介绍、注释、按语或译文。",
+  "poems": [
+    {
+      "title": "卖炭翁",
+      "author": "白居易",
+      "chapterId": 7,
+      "url": "https://s.zhangyue.com/read?anchorId=&appId=291267ee&bid=13041571&cid=7&rentId=103656",
+      "paragraphs": ["卖炭翁，伐薪烧炭南山中。", "满面尘灰烟火色，两鬓苍苍十指黑。", "卖炭得钱何所营？身上衣裳口中食。", "可怜身上衣正单，心忧炭贱愿天寒。", "夜来城外一尺雪，晓驾炭车辗冰辙。", "牛困人饥日已高，市南门外泥中歇。", "翩翩两骑来是谁？黄衣使者白衫儿。", "手把文书口称敕，回车叱牛牵向北。", "一车炭，千余斤，宫使驱将惜不得。", "半匹红绡一丈绫，系向牛头充炭直。"],
+      "genre": "乐府"
+    },
+    {
+      "title": "离思五首·其四",
+      "author": "元稹",
+      "chapterId": 25,
+      "url": "https://s.zhangyue.com/read?anchorId=&appId=163540b5&bid=13041571&cid=25&rentId=100774",
+      "paragraphs": ["曾经沧海难为水，除却巫山不是云。", "取次花丛懒回顾，半缘修道半缘君。"],
+      "genre": "七言绝句"
+    },
+    {
+      "title": "房兵曹胡马",
+      "author": "杜甫",
+      "chapterId": 49,
+      "url": "https://s.zhangyue.com/read?anchorId=&appId=1bb7e8ce&bid=13041571&cid=49&rentId=103991",
+      "paragraphs": ["胡马大宛名，锋棱瘦骨成。", "竹批双耳峻，风入四蹄轻。", "所向无空阔，真堪托死生。", "骁腾有如此，万里可横行。"],
+      "genre": "五言律诗"
+    },
+    {
+      "title": "省试湘灵鼓瑟",
+      "author": "钱起",
+      "chapterId": 50,
+      "url": "https://s.zhangyue.com/read?anchorId=&appId=1bb7e8ce&bid=13041571&cid=50&rentId=103991",
+      "paragraphs": ["善鼓云和瑟，常闻帝子灵。", "冯夷空自舞，楚客不堪听。", "苦调凄金石，清音入杳冥。", "苍梧来怨慕，白芷动芳馨。", "流水传湘浦，悲风过洞庭。", "曲终人不见，江上数峰青。"],
+      "genre": "五言排律"
+    }
+  ]
+}

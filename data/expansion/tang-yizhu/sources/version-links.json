@@ -1,0 +1,247 @@
+{
+  "description": "逐对核查的同篇版本关系；不依靠题名或相似阈值直接合并其他作品。",
+  "links": [
+    {
+      "retainedId": "yizhu-d6c1660f3ee19ecd",
+      "alternateId": "yizhu-c7283b9a716d21b8",
+      "author": "刘禹锡",
+      "titles": [
+        "浪淘沙九首 二",
+        "浪淘沙 二"
+      ],
+      "similarityAtReview": 0.9286,
+      "basis": "同作者的同篇异文；保留全文异文见证，不视为两首新诗"
+    },
+    {
+      "retainedId": "yizhu-96b8b4e9fc9a1cd6",
+      "alternateId": "yizhu-2a7c6dbe79797f4f",
+      "author": "刘禹锡",
+      "titles": [
+        "浪淘沙九首 三",
+        "浪淘沙 三"
+      ],
+      "similarityAtReview": 0.9643,
+      "basis": "同作者的同篇异文；保留全文异文见证，不视为两首新诗"
+    },
+    {
+      "retainedId": "yizhu-72de4d1b54a13fac",
+      "alternateId": "yizhu-ee54b078cb1490a8",
+      "author": "孟郊",
+      "titles": [
+        "列女操",
+        "列女操"
+      ],
+      "similarityAtReview": 0.9333,
+      "basis": "同作者的同篇异文；保留全文异文见证，不视为两首新诗"
+    },
+    {
+      "retainedId": "yizhu-fbb3ac3fdd89a63a",
+      "alternateId": "yizhu-addc891fef35d1f6",
+      "author": "崔颢",
+      "titles": [
+        "长干曲四首 一",
+        "长干曲四首 一"
+      ],
+      "similarityAtReview": 0.9,
+      "basis": "同作者的同篇异文；保留全文异文见证，不视为两首新诗"
+    },
+    {
+      "retainedId": "yizhu-0d40d62e3a9b8d85",
+      "alternateId": "yizhu-f59ab2545841c951",
+      "author": "崔颢",
+      "titles": [
+        "长干曲四首 二",
+        "长干曲四首 二"
+      ],
+      "similarityAtReview": 0.9,
+      "basis": "同作者的同篇异文；保留全文异文见证，不视为两首新诗"
+    },
+    {
+      "retainedId": "yizhu-60670f4f796b1384",
+      "alternateId": "yizhu-62b9c7f3b3653039",
+      "author": "张仲素",
+      "titles": [
+        "秋夜曲",
+        "秋夜曲"
+      ],
+      "similarityAtReview": 0.9286,
+      "basis": "同作者的同篇异文；保留全文异文见证，不视为两首新诗"
+    },
+    {
+      "retainedId": "yizhu-e0ba9851ab5f78ab",
+      "alternateId": "yizhu-539dcc98f6825333",
+      "author": "李白",
+      "titles": [
+        "清平调 三",
+        "清平调 三"
+      ],
+      "similarityAtReview": 0.9286,
+      "basis": "同作者的同篇异文；保留全文异文见证，不视为两首新诗"
+    },
+    {
+      "retainedId": "yizhu-e12acbd486434027",
+      "alternateId": "yizhu-8bc7ab13dd882f61",
+      "author": "李白",
+      "titles": [
+        "妾薄命",
+        "妾薄命"
+      ],
+      "similarityAtReview": 0.975,
+      "basis": "同作者的同篇异文；保留全文异文见证，不视为两首新诗"
+    },
+    {
+      "retainedId": "yizhu-2c015dffdccc5f4e",
+      "alternateId": "yizhu-942011ef2c119235",
+      "author": "李白",
+      "titles": [
+        "长干行二首 二",
+        "长干行二首 二"
+      ],
+      "similarityAtReview": 0.8923,
+      "basis": "同作者的同篇异文；保留全文异文见证，不视为两首新诗"
+    },
+    {
+      "retainedId": "yizhu-5eed36d0b38e4ca9",
+      "alternateId": "yizhu-cfd81276a30dca3f",
+      "author": "李白",
+      "titles": [
+        "蜀道难",
+        "蜀道难"
+      ],
+      "similarityAtReview": 0.9608,
+      "basis": "同作者的同篇异文；保留全文异文见证，不视为两首新诗"
+    },
+    {
+      "retainedId": "yizhu-6c01c92156c32c33",
+      "alternateId": "yizhu-fcc1a11ee9e46113",
+      "author": "李白",
+      "titles": [
+        "行路难三首 一",
+        "行路难三首 一"
+      ],
+      "similarityAtReview": 0.9512,
+      "basis": "同作者的同篇异文；保留全文异文见证，不视为两首新诗"
+    },
+    {
+      "retainedId": "yizhu-3d8aa27229b1139c",
+      "alternateId": "yizhu-f035e347fea26257",
+      "author": "李白",
+      "titles": [
+        "长相思三首 三",
+        "长相思 二"
+      ],
+      "similarityAtReview": 0.9792,
+      "basis": "同作者的同篇异文；保留全文异文见证，不视为两首新诗"
+    },
+    {
+      "retainedId": "yizhu-2628fe56fb4aba74",
+      "alternateId": "yizhu-85f57e822a5eff50",
+      "author": "李贺",
+      "titles": [
+        "雁门太守行",
+        "雁门太守行"
+      ],
+      "similarityAtReview": 0.9643,
+      "basis": "同作者的同篇异文；保留全文异文见证，不视为两首新诗"
+    },
+    {
+      "retainedId": "yizhu-81063e07d4e06a08",
+      "alternateId": "yizhu-e1047d6a1b98b62f",
+      "author": "李贺",
+      "titles": [
+        "将进酒",
+        "鼓吹曲辞 将进酒"
+      ],
+      "similarityAtReview": 0.9853,
+      "basis": "同作者的同篇异文；保留全文异文见证，不视为两首新诗"
+    },
+    {
+      "retainedId": "yizhu-a20aac5361d1bc9b",
+      "alternateId": "yizhu-59339b04d8546fa9",
+      "author": "杜甫",
+      "titles": [
+        "前出塞九首 六",
+        "前出塞九首 六"
+      ],
+      "similarityAtReview": 0.975,
+      "basis": "同作者的同篇异文；保留全文异文见证，不视为两首新诗"
+    },
+    {
+      "retainedId": "yizhu-22dc79e7dcad57bd",
+      "alternateId": "yizhu-80e7043205276bda",
+      "author": "王昌龄",
+      "titles": [
+        "从军行七首 一",
+        "从军行 二"
+      ],
+      "similarityAtReview": 0.8929,
+      "basis": "同作者的同篇异文；保留全文异文见证，不视为两首新诗"
+    },
+    {
+      "retainedId": "yizhu-b71af847f0535f14",
+      "alternateId": "yizhu-3da5a71eca324f84",
+      "author": "王昌龄",
+      "titles": [
+        "从军行七首 二",
+        "从军行 三"
+      ],
+      "similarityAtReview": 0.9286,
+      "basis": "同作者的同篇异文；保留全文异文见证，不视为两首新诗"
+    },
+    {
+      "retainedId": "yizhu-64e81534e4431de8",
+      "alternateId": "yizhu-aafb675e8b63f9fd",
+      "author": "王昌龄",
+      "titles": [
+        "从军行七首 四",
+        "从军行 四"
+      ],
+      "similarityAtReview": 0.9643,
+      "basis": "同作者的同篇异文；保留全文异文见证，不视为两首新诗"
+    },
+    {
+      "retainedId": "yizhu-736bd06f09c97a68",
+      "alternateId": "yizhu-b87d3326bd9a4081",
+      "author": "王维",
+      "titles": [
+        "少年行四首 三",
+        "少年行四首 四"
+      ],
+      "similarityAtReview": 0.9286,
+      "basis": "同作者的同篇异文；保留全文异文见证，不视为两首新诗"
+    },
+    {
+      "retainedId": "yizhu-dd286718fa19b7b7",
+      "alternateId": "yizhu-fe5ad97ecd486c07",
+      "author": "王维",
+      "titles": [
+        "渭城曲",
+        "渭城曲"
+      ],
+      "similarityAtReview": 0.9286,
+      "basis": "同作者的同篇异文；保留全文异文见证，不视为两首新诗"
+    },
+    {
+      "retainedId": "yizhu-68170c83f1106590",
+      "alternateId": "yizhu-87d218ee863e2f58",
+      "author": "王维",
+      "titles": [
+        "使至塞上",
+        "使至塞上"
+      ],
+      "similarityAtReview": 0.875,
+      "basis": "同作者的同篇异文；保留全文异文见证，不视为两首新诗"
+    },
+    {
+      "retainedId": "yizhu-0c12ab4cadccfede",
+      "alternateId": "yizhu-6cc5e946946458a3",
+      "author": "张籍",
+      "titles": [
+        "凉州词三首 二",
+        "凉州词 二"
+      ],
+      "similarityAtReview": 0.8571,
+      "basis": "同作者的同篇异文；保留全文异文见证，不视为两首新诗"
+    }
+  ]
+}

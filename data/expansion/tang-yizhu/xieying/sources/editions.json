@@ -1,0 +1,57 @@
+{
+  "accessedOn": "2026-09-28",
+  "policy": "仅收公版诗文。显式选本记录；保留原始文本及异文。",
+  "poems": [
+    {
+      "title": "奉和圣制立春日侍宴内殿出翦彩花应制",
+      "author": "上官昭容",
+      "sourceRecordIds": [
+        "595cdc85-b376-45d2-97fc-fb7e946ab5fd"
+      ],
+      "sourceId": "wikisource-qts",
+      "url": "https://zh.wikisource.org/w/index.php?title=奉和聖製立春日侍宴內殿出翦綵花應制&oldid=505960",
+      "paragraphs": [
+        "密叶因裁吐，新花逐翦舒。",
+        "攀条虽不谬，摘蕊讵知虚。",
+        "春至由来发，秋还未肯疏。",
+        "借问桃将李，相乱欲何如。"
+      ],
+      "note": "GitHub 底本缺末联，按维基文库所载全唐诗卷005补全为八句；署名仍保留底本的上官昭容（上官婉儿）。"
+    },
+    {
+      "title": "咏燕",
+      "author": "张九龄",
+      "sourceRecordIds": [
+        "72f8a535-743c-42b8-ae57-d7d132468013"
+      ],
+      "sourceId": "classical-poem-crosscheck",
+      "url": "https://www.zggdwx.com/shici/2383.html",
+      "paragraphs": [
+        "海燕何微眇，乘春亦暂来。",
+        "岂知泥滓贱，祗见玉堂开。",
+        "绣户时双入，华轩日几回。",
+        "无心与物竞，鹰隼莫相猜。"
+      ],
+      "note": "按外部全文选用“暂来”版本，底本作“𫏐来”；另有《归燕诗》文本差异，保留来源全文供定本。"
+    },
+    {
+      "title": "李凭箜篌引",
+      "author": "李贺",
+      "sourceRecordIds": [
+        "af691759-fafe-4b65-893b-e37af39cbf6a"
+      ],
+      "sourceId": "classical-poem-crosscheck",
+      "url": "https://www.cngwzj.com/gushi/TangDai/23964/",
+      "paragraphs": [
+        "吴丝蜀桐张高秋，空山凝云颓不流。",
+        "江娥啼竹素女愁，李凭中国弹箜篌。",
+        "昆山玉碎凤凰叫，芙蓉泣露香兰笑。",
+        "十二门前融冷光，二十三丝动紫皇。",
+        "女娲炼石补天处，石破天惊逗秋雨。",
+        "梦入神山教神妪，老鱼跳波瘦蛟舞。",
+        "吴质不眠倚桂树，露脚斜飞湿寒兔。"
+      ],
+      "note": "选用所引页面的“空山”版本；底本“空白”是有记载的异文，不标作错字。异文依据：https://m.gushiwen.cn/mingju/juv_0bc857c8b864.aspx。"
+    }
+  ]
+}

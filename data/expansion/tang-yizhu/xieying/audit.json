@@ -1,0 +1,408 @@
+{
+  "stats": {
+    "catalogEntryCount": 297,
+    "poemEntryCount": 296,
+    "statuses": {
+      "excluded-preface": 1,
+      "user-confirmed-selection": 76,
+      "matched-single-candidate": 220
+    },
+    "candidateTextCount": 628,
+    "candidateAuthorCount": 205,
+    "entriesWithCandidateText": 296,
+    "selectedUniquePoemCount": 305,
+    "selectedEntryCount": 296,
+    "userConfirmedEntryCount": 76,
+    "userConfirmedPoemCount": 85,
+    "provisionallyMatchedEntriesWithAppDuplicate": 0,
+    "selectedEntriesWithAppDuplicate": 1,
+    "sections": {
+      "拾穗": 25,
+      "五古": 23,
+      "七古": 17,
+      "五律": 78,
+      "七律": 45,
+      "五绝": 29,
+      "七绝": 79
+    }
+  },
+  "duplicateCatalogTitles": [
+    {
+      "title": "野望",
+      "orders": [
+        36,
+        171
+      ]
+    },
+    {
+      "title": "咏风",
+      "orders": [
+        130,
+        189
+      ]
+    }
+  ],
+  "crossAuthorSameText": [
+    {
+      "poemIds": [
+        "yizhu-2bbf413cb3f7732a",
+        "yizhu-2b610eb4b7e1ee2c"
+      ],
+      "authors": [
+        "僧皎然",
+        "皎然"
+      ]
+    },
+    {
+      "poemIds": [
+        "yizhu-3ac62b79e9e9f056",
+        "yizhu-6df4f6b7a59e8ab5"
+      ],
+      "authors": [
+        "僧皎然",
+        "皎然"
+      ]
+    },
+    {
+      "poemIds": [
+        "yizhu-cc3e1f38f828b1f3",
+        "yizhu-e0d77712dccb128b"
+      ],
+      "authors": [
+        "皇甫冉",
+        "皇甫松"
+      ]
+    },
+    {
+      "poemIds": [
+        "yizhu-fafc019baec2f138",
+        "yizhu-4d740991172ef78c"
+      ],
+      "authors": [
+        "僧贯休",
+        "贯休"
+      ]
+    },
+    {
+      "poemIds": [
+        "yizhu-0a739f74d1513b2a",
+        "yizhu-61bae91912af98f5"
+      ],
+      "authors": [
+        "韦承庆",
+        "于季子"
+      ]
+    }
+  ],
+  "textReview": [
+    {
+      "poemId": "yizhu-e20a1fe86feea9fb",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "poemId": "yizhu-84a9347da2380295",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "poemId": "yizhu-2414a9f8dc3df429",
+      "issues": [
+        "embedded-annotations-separated"
+      ]
+    },
+    {
+      "poemId": "yizhu-2e324834c7f69514",
+      "issues": [
+        "embedded-annotations-separated"
+      ]
+    },
+    {
+      "poemId": "yizhu-aab295d979e333f2",
+      "issues": [
+        "embedded-annotations-separated"
+      ]
+    },
+    {
+      "poemId": "yizhu-fb5ad925346a41bb",
+      "issues": [
+        "embedded-annotations-separated",
+        "editorially-supplied-reading",
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "poemId": "yizhu-799eb572a74c2576",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "poemId": "yizhu-8421b10288cd8635",
+      "issues": [
+        "embedded-annotations-separated"
+      ]
+    },
+    {
+      "poemId": "yizhu-f3737ebcf8e5a861",
+      "issues": [
+        "embedded-annotations-separated",
+        "editorially-supplied-reading"
+      ]
+    },
+    {
+      "poemId": "yizhu-d5f0476d20fdcad7",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "poemId": "yizhu-544bd83c17680a2c",
+      "issues": [
+        "witness-cycle-numbering-differs"
+      ]
+    },
+    {
+      "poemId": "yizhu-ed9c3b19ab78dd76",
+      "issues": [
+        "title-variant-review"
+      ]
+    },
+    {
+      "poemId": "yizhu-772ff50ceeec074c",
+      "issues": [
+        "embedded-annotations-separated"
+      ]
+    },
+    {
+      "poemId": "yizhu-3bfb94e264ae3e4a",
+      "issues": [
+        "embedded-annotations-separated"
+      ]
+    },
+    {
+      "poemId": "yizhu-3fb43f0fddd4f5d7",
+      "issues": [
+        "embedded-annotations-separated"
+      ]
+    },
+    {
+      "poemId": "yizhu-01d674b9f7d2610c",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "poemId": "yizhu-0e7fae46cdc38100",
+      "issues": [
+        "source-missing-character",
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "poemId": "yizhu-757fb0ec4264fedc",
+      "issues": [
+        "embedded-annotations-separated"
+      ]
+    },
+    {
+      "poemId": "yizhu-e003ff3e16f206b0",
+      "issues": [
+        "embedded-annotations-separated"
+      ]
+    },
+    {
+      "poemId": "yizhu-c72b980eade67521",
+      "issues": [
+        "embedded-annotations-separated"
+      ]
+    },
+    {
+      "poemId": "yizhu-56784ed87e28db70",
+      "issues": [
+        "embedded-annotations-separated",
+        "editorially-supplied-reading"
+      ]
+    },
+    {
+      "poemId": "yizhu-b36e0246c6a17469",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "poemId": "yizhu-fc339b59d5c62888",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "poemId": "yizhu-0d2df8debe074fcf",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "poemId": "yizhu-6981c4e00ba1f533",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "poemId": "yizhu-623690f3218ce446",
+      "issues": [
+        "embedded-annotations-separated"
+      ]
+    },
+    {
+      "poemId": "yizhu-7b35012ff53b2316",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "poemId": "yizhu-66cd7c20bbab2a1d",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "poemId": "yizhu-9d76b0c4272ccc67",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "poemId": "yizhu-ce23e08aebdf2696",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "poemId": "yizhu-d441bf7024700e22",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "poemId": "yizhu-e1047d6a1b98b62f",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "poemId": "yizhu-5c0fab869cfc4636",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "poemId": "yizhu-16c14547b5f4eea1",
+      "issues": [
+        "embedded-annotations-separated"
+      ]
+    },
+    {
+      "poemId": "yizhu-965141fedde3c207",
+      "issues": [
+        "witness-cycle-numbering-differs"
+      ]
+    },
+    {
+      "poemId": "yizhu-60e8404df54fdde4",
+      "issues": [
+        "witness-cycle-numbering-differs"
+      ]
+    },
+    {
+      "poemId": "yizhu-3a45270741e85e84",
+      "issues": [
+        "witness-cycle-numbering-differs"
+      ]
+    },
+    {
+      "poemId": "yizhu-9252ac7c3f7c225b",
+      "issues": [
+        "out-of-tang-scope-candidate"
+      ]
+    },
+    {
+      "poemId": "yizhu-bb03f382bce2924d",
+      "issues": [
+        "embedded-annotations-separated",
+        "editorially-supplied-reading"
+      ]
+    },
+    {
+      "poemId": "yizhu-009fb1a9c180ce4b",
+      "issues": [
+        "attribution-or-edition-review"
+      ]
+    },
+    {
+      "poemId": "yizhu-61bf98cd957e268b",
+      "issues": [
+        "attribution-or-edition-review"
+      ]
+    },
+    {
+      "poemId": "yizhu-3b1f1c62d138ecf8",
+      "issues": [
+        "attribution-or-edition-review"
+      ]
+    }
+  ],
+  "editionDecisions": [
+    {
+      "poemId": "yizhu-b822224df2a84a19",
+      "basis": "选用所引页面的“空山”版本；底本“空白”是有记载的异文，不标作错字。异文依据：https://m.gushiwen.cn/mingju/juv_0bc857c8b864.aspx。",
+      "sourceRef": {
+        "sourceId": "classical-poem-crosscheck",
+        "url": "https://www.cngwzj.com/gushi/TangDai/23964/",
+        "accessedOn": "2026-09-28"
+      }
+    },
+    {
+      "poemId": "yizhu-9164aad9188fb29b",
+      "basis": "GitHub 底本缺末联，按维基文库所载全唐诗卷005补全为八句；署名仍保留底本的上官昭容（上官婉儿）。",
+      "sourceRef": {
+        "sourceId": "wikisource-qts",
+        "url": "https://zh.wikisource.org/w/index.php?title=奉和聖製立春日侍宴內殿出翦綵花應制&oldid=505960",
+        "accessedOn": "2026-09-28"
+      }
+    },
+    {
+      "poemId": "yizhu-3dde98270b38570b",
+      "basis": "按外部全文选用“暂来”版本，底本作“𫏐来”；另有《归燕诗》文本差异，保留来源全文供定本。",
+      "sourceRef": {
+        "sourceId": "classical-poem-crosscheck",
+        "url": "https://www.zggdwx.com/shici/2383.html",
+        "accessedOn": "2026-09-28"
+      }
+    }
+  ],
+  "titleReviews": [
+    {
+      "catalogEntryId": "xieying-track-263",
+      "status": "adopted-title-user-confirmed",
+      "sourceTitle": "江南曲",
+      "reportedBookTitle": "江南春",
+      "bookPageIndependentlyChecked": false,
+      "reportSource": {
+        "file": "sources/user-confirmations.json",
+        "batchId": "user-confirmation-2026-09-28-04",
+        "catalogEntryId": "xieying-track-263"
+      },
+      "decision": "按用户确认统一采用《江南曲》。此前报告的纸书题名仅供追溯，不影响当前采用题名。",
+      "adoptedTitle": "江南曲",
+      "titleConfirmation": {
+        "confirmedOn": "2026-09-28",
+        "source": "用户在当前会话确认",
+        "userStatement": "好的，那就叫江南曲吧"
+      }
+    }
+  ],
+  "unresolvedEntryIds": []
+}

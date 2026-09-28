@@ -1,0 +1,1898 @@
+{
+  "schemaVersion": "1.0.0",
+  "groups": [
+    {
+      "id": "group-3d397e89ba22",
+      "author": "元稹",
+      "title": "离思五首",
+      "poemIds": [
+        "yizhu-ac1d507a37399c22",
+        "yizhu-ead18be9345bca74",
+        "yizhu-cecdc7e03e52edeb",
+        "yizhu-d05fe8438a12505d",
+        "yizhu-c6ddfb8cc5fc94b7"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-5cd85ed9cfe1",
+      "author": "元稹",
+      "title": "遣悲怀三首",
+      "poemIds": [
+        "yizhu-2ef6b00978f54a5c",
+        "yizhu-233c08600b71eabe",
+        "yizhu-335725886aca7829"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-70d3a370bcc4",
+      "author": "刘禹锡",
+      "title": "杨柳枝词九首",
+      "poemIds": [
+        "yizhu-8a205305b5303569",
+        "yizhu-5156754d18948581",
+        "yizhu-fcb94b49a5867dc8",
+        "yizhu-5f8c85769bdd7f82",
+        "yizhu-82a92562fd009e67",
+        "yizhu-65ec46c04d536a2e",
+        "yizhu-bff05365d858777f",
+        "yizhu-0783e5e89a01726d",
+        "yizhu-8d9ff8c7a9806c7a"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-9a6aabf4b1c5",
+      "author": "刘禹锡",
+      "title": "浪淘沙九首",
+      "poemIds": [
+        "yizhu-08b0f4744fe5c4b5",
+        "yizhu-d6c1660f3ee19ecd",
+        "yizhu-96b8b4e9fc9a1cd6",
+        "yizhu-579d174482fc5c0d",
+        "yizhu-771d81beaae31bfa",
+        "yizhu-c2aa2981a375cc72",
+        "yizhu-8c48e859968b833b",
+        "yizhu-b1af6385f7c073ae",
+        "yizhu-a51e4e33a2cc1dc3"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-c9196785471b",
+      "author": "刘禹锡",
+      "title": "秋词二首",
+      "poemIds": [
+        "yizhu-9dbf0502988eb768",
+        "yizhu-eb48cab73fd9ca65"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-674d6a997305",
+      "author": "刘禹锡",
+      "title": "竹枝词九首",
+      "poemIds": [
+        "yizhu-98ee109c03f12992",
+        "yizhu-7d01e0660a39d971",
+        "yizhu-a1285ef2e5811cd5",
+        "yizhu-e95901c464fbb5aa",
+        "yizhu-96b9333f89db89e6",
+        "yizhu-502491178c849330",
+        "yizhu-60982a3fb24cd3b3",
+        "yizhu-3b01f46f2bc33f39",
+        "yizhu-c7de5d3bbd819c13"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-9486823509ea",
+      "author": "刘禹锡",
+      "title": "竹枝词二首",
+      "poemIds": [
+        "yizhu-20ba76b968927758",
+        "yizhu-550a57772740bbe8"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-c8b4b02048e1",
+      "author": "刘禹锡",
+      "title": "踏歌词四首",
+      "poemIds": [
+        "yizhu-93a5ac31359abd55",
+        "yizhu-cf67d13bf53fa03e",
+        "yizhu-11c65f6e1f20f42a",
+        "yizhu-c79a8e527e736367"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-368d99b6e1fc",
+      "author": "刘禹锡",
+      "title": "隄上行三首",
+      "poemIds": [
+        "yizhu-4274687556cc80c4",
+        "yizhu-67723ca6478e4fcf",
+        "yizhu-41bd2c54fc0451b9"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-386e940484c7",
+      "author": "刘采春",
+      "title": "啰唝曲六首",
+      "poemIds": [
+        "yizhu-25190ba705a19bd7",
+        "yizhu-2298ebb6af8115ef",
+        "yizhu-4a01e22ff59897bc",
+        "yizhu-c17fe7375d3f1ef9",
+        "yizhu-868c01bd3f947541",
+        "yizhu-999f3c233c4659c1"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-6c873666f331",
+      "author": "卢纶",
+      "title": "和张仆射塞下曲",
+      "poemIds": [
+        "yizhu-10199467d4f99f62",
+        "yizhu-562f62bdecffd1b6",
+        "yizhu-23562809f8f697be",
+        "yizhu-f29dbe2e1ed8b7b7",
+        "yizhu-04bdce57ec8fae65",
+        "yizhu-032aae5efc8fc754"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-fb60d04c9cd1",
+      "author": "姚合",
+      "title": "游春十二首",
+      "poemIds": [
+        "yizhu-292ed0cd94fea862",
+        "yizhu-32fee640fec1204b",
+        "yizhu-6b31c603313e9d2e",
+        "yizhu-290b57fa265121ac",
+        "yizhu-d6443c79231ed2f2",
+        "yizhu-5ae22ecdf3f0138e",
+        "yizhu-ba3c8f8c47f3e51d",
+        "yizhu-66fa5b31d633726e",
+        "yizhu-fd7ca0021c9b9549",
+        "yizhu-33cf91fc89665bd6",
+        "yizhu-09440ee341f943e3",
+        "yizhu-c01ece0b72f1d688"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-147fb1d6fc98",
+      "author": "姚合",
+      "title": "穷边词二首",
+      "poemIds": [
+        "yizhu-43981d901a7b6ee3",
+        "yizhu-d018f99d0cfb91df"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-14abd21c7195",
+      "author": "孟郊",
+      "title": "秋怀",
+      "poemIds": [
+        "yizhu-511aec942312f292",
+        "yizhu-a093f41fb84d6255",
+        "yizhu-58ec7672976d3d95",
+        "yizhu-4ce7059cf8f4ab23",
+        "yizhu-8f7e174b81edf6ce"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-c0488f391c7e",
+      "author": "岑参",
+      "title": "山房春事二首",
+      "poemIds": [
+        "yizhu-5fccbcbe3d4f50e8",
+        "yizhu-2b13585b9c8777b1"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-29c2f96b6672",
+      "author": "崔颢",
+      "title": "长干曲四首",
+      "poemIds": [
+        "yizhu-fbb3ac3fdd89a63a",
+        "yizhu-0d40d62e3a9b8d85",
+        "yizhu-e9845ddfa113db73",
+        "yizhu-13acbcfe594eb020"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-691b371bc202",
+      "author": "张九龄",
+      "title": "感遇十二首",
+      "poemIds": [
+        "yizhu-3920341cab849d7c",
+        "yizhu-28ef9c404f3f2516",
+        "yizhu-b308c9ffc255d609",
+        "yizhu-13b8c5e4a852e693",
+        "yizhu-57b307af569ab63f",
+        "yizhu-69c2bf60df398e1c",
+        "yizhu-aad7b986f1fd2bae",
+        "yizhu-d61646285551f4bb",
+        "yizhu-08d0fc8f0cf43a2b",
+        "yizhu-e1304cfff4b824b4",
+        "yizhu-d5fc76f4cf86aba5",
+        "yizhu-69f4b28aa257e85c"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-9134c84fa50a",
+      "author": "张仲素",
+      "title": "秋思二首",
+      "poemIds": [
+        "yizhu-86f79612085aa49f",
+        "yizhu-7efe16ff2c871ef9"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-4ad36043b986",
+      "author": "张泌",
+      "title": "寄人",
+      "poemIds": [
+        "yizhu-38f4a4041f244a74",
+        "yizhu-62aa83942c252b3c"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-466a8d117d91",
+      "author": "张祜",
+      "title": "宫词二首",
+      "poemIds": [
+        "yizhu-8cfb7d23b0818567",
+        "yizhu-4fed81a42232e68f"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-7ebe93469f3b",
+      "author": "张祜",
+      "title": "集灵台二首",
+      "poemIds": [
+        "yizhu-527c07a836af990f",
+        "yizhu-ed2390bf45e43ccd"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-006fdfadd238",
+      "author": "张籍",
+      "title": "凉州词",
+      "poemIds": [
+        "yizhu-b18ee3159b0ebd6d",
+        "yizhu-c6ca73eb8c3b2244"
+      ],
+      "collectedPositions": [
+        1,
+        3
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-af2349bd8340",
+      "author": "张籍",
+      "title": "凉州词三首",
+      "poemIds": [
+        "yizhu-0c12ab4cadccfede"
+      ],
+      "collectedPositions": [
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-9edcf20d2994",
+      "author": "戴叔伦",
+      "title": "塞上曲二首",
+      "poemIds": [
+        "yizhu-054c4701989c88d2",
+        "yizhu-c51e8985f06e055e"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-0ac479f8972c",
+      "author": "李商隐",
+      "title": "无题二首",
+      "poemIds": [
+        "yizhu-418fef44a8b13ab1",
+        "yizhu-74c4ce31ff50601f",
+        "yizhu-7d6b660d8465ef5c",
+        "yizhu-186b8f487144c10c",
+        "yizhu-577592a818d7011d",
+        "yizhu-df6945e95b6bea76"
+      ],
+      "collectedPositions": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-943c7709da51",
+      "author": "李商隐",
+      "title": "无题四首",
+      "poemIds": [
+        "yizhu-9824f72925aaffb1",
+        "yizhu-263902fe06953bdb",
+        "yizhu-b46bd1a04b41c090",
+        "yizhu-04c20ebcdce000f5"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-1dc2ff55ae07",
+      "author": "李商隐",
+      "title": "韩冬郎即席为诗相送一座尽惊他日余方追吟连宵侍坐裴回久之句有老成之风因成二绝寄酬兼呈畏之员外",
+      "poemIds": [
+        "yizhu-2fd33e58a17815e5",
+        "yizhu-af79c9f83c557671"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-53e766242530",
+      "author": "李峤",
+      "title": "中秋月二首",
+      "poemIds": [
+        "yizhu-2a4c05ab5b140f63",
+        "yizhu-65b3797b82843eb6"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-2f8ceaa233e1",
+      "author": "李白",
+      "title": "从军行二首",
+      "poemIds": [
+        "yizhu-06fb59b10302e0ab",
+        "yizhu-be0e293b13631d5e"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-b849d06fac90",
+      "author": "李白",
+      "title": "塞下曲六首",
+      "poemIds": [
+        "yizhu-320270075e2d7b36",
+        "yizhu-b798f6d8dcb3e17a",
+        "yizhu-054b5998ad63c3b9",
+        "yizhu-48844ebf39b40765",
+        "yizhu-0f79730257d6c84c",
+        "yizhu-80628212b6f3e284"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-e02c0553e970",
+      "author": "李白",
+      "title": "望庐山瀑布水二首",
+      "poemIds": [
+        "yizhu-9537f023a107654d",
+        "yizhu-4c147bd293553a25"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-27a0b776d7f4",
+      "author": "李白",
+      "title": "横江词六首",
+      "poemIds": [
+        "yizhu-f25620dfc1d71778",
+        "yizhu-4571f2daf88d961c",
+        "yizhu-d15aed3c98dc4fb4",
+        "yizhu-dfaffede6b0b5e4d",
+        "yizhu-043591230137f01d",
+        "yizhu-f4800bb9548fde89"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-b52455b587e7",
+      "author": "李白",
+      "title": "清平调",
+      "poemIds": [
+        "yizhu-9c2b56d4aa132a61",
+        "yizhu-f5e87e3315bac4ec",
+        "yizhu-e0ba9851ab5f78ab"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-4ad16301ad24",
+      "author": "李白",
+      "title": "独坐敬亭山",
+      "poemIds": [
+        "yizhu-3fb43f0fddd4f5d7"
+      ],
+      "collectedPositions": [
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-837d2afa83c8",
+      "author": "李白",
+      "title": "白头吟二首",
+      "poemIds": [
+        "yizhu-3f5c95eeaa2e0824",
+        "yizhu-d6a39456a0e796a1"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-560d4b9c69f3",
+      "author": "李白",
+      "title": "秋浦歌十七首",
+      "poemIds": [
+        "yizhu-04a002c4eb16b3d5",
+        "yizhu-4cbfb60f342ec9d5",
+        "yizhu-1986426da5f5a531",
+        "yizhu-fa65414b4e32b147",
+        "yizhu-c87ae649c3486697",
+        "yizhu-2e11e33d054f031b",
+        "yizhu-521303c4df4b33ed",
+        "yizhu-f56a9762e749e12b",
+        "yizhu-4e50e9f30c8f00be",
+        "yizhu-9f694d27013ad5ba",
+        "yizhu-772ff50ceeec074c",
+        "yizhu-ed1a664e75f21d24",
+        "yizhu-6d25139d54aa9567",
+        "yizhu-644d02502a0cd21b",
+        "yizhu-023c7ea7424c5d26",
+        "yizhu-4296d9b3bb48f3b6",
+        "yizhu-3bfb94e264ae3e4a"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-776e7b997128",
+      "author": "李白",
+      "title": "行路难三首",
+      "poemIds": [
+        "yizhu-6c01c92156c32c33",
+        "yizhu-e0b76f5a65df0ee3",
+        "yizhu-7538a4a5c25073f3"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-527c6a226bd1",
+      "author": "李白",
+      "title": "长干行二首",
+      "poemIds": [
+        "yizhu-0d483753404a3771",
+        "yizhu-2c015dffdccc5f4e"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-9c6806ffbfb4",
+      "author": "李白",
+      "title": "长相思三首",
+      "poemIds": [
+        "yizhu-864f5b7a22ae36aa",
+        "yizhu-13dab86f56661c91",
+        "yizhu-3d8aa27229b1139c"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-4f7f537d04f1",
+      "author": "李白",
+      "title": "陪侍郎叔游洞庭醉后三首",
+      "poemIds": [
+        "yizhu-7d4d28f657499c05",
+        "yizhu-5c4c699ce2744ab8",
+        "yizhu-790a9c12f29ec8ce"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-43ed9f5be0b0",
+      "author": "李益",
+      "title": "塞下曲",
+      "poemIds": [
+        "yizhu-402865afd25cad37",
+        "yizhu-19c97d8b56099558",
+        "yizhu-ebbe4b45a319190b",
+        "yizhu-bb4ee828abc36a03"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-6ec6bd40d5fb",
+      "author": "李益",
+      "title": "度破讷沙二首",
+      "poemIds": [
+        "yizhu-af44acf0a28b8b7e",
+        "yizhu-3e02dd0e4792eeb2"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-910e98a6a295",
+      "author": "李绅",
+      "title": "古风二首",
+      "poemIds": [
+        "yizhu-edf0e274d41716b3",
+        "yizhu-79aa95ffb774867a"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-053baa5eec59",
+      "author": "李贺",
+      "title": "南园十三首",
+      "poemIds": [
+        "yizhu-6f7c15f612a0db6a",
+        "yizhu-91791157de16a053",
+        "yizhu-931778f63317ae2f",
+        "yizhu-e61eda0514677988",
+        "yizhu-b23ff26692d6e06c",
+        "yizhu-6a89f8443daf5511",
+        "yizhu-e58391dc3d7a7da9",
+        "yizhu-ebf6519882f86188",
+        "yizhu-518916e637b5308f",
+        "yizhu-ff514011d4d442fe",
+        "yizhu-09aff3aad6d9ffda",
+        "yizhu-c4bf654a4cb4e9f8",
+        "yizhu-1d4d00e8a6c548d4"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-947f26822371",
+      "author": "李贺",
+      "title": "感讽五首",
+      "poemIds": [
+        "yizhu-1e2f682a3b0daab7",
+        "yizhu-be6aa7ae5f9da682",
+        "yizhu-e88abc31d8be4661",
+        "yizhu-14f50d535c9e5f72",
+        "yizhu-560786cc497b7cdb"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-e62e112543cf",
+      "author": "李贺",
+      "title": "感讽六首",
+      "poemIds": [
+        "yizhu-98768be20d335b95",
+        "yizhu-921f3be074b46e36",
+        "yizhu-34cbc34e19ebdc01",
+        "yizhu-6621aa618d9f8cb9",
+        "yizhu-5915ae5ab61f90f3",
+        "yizhu-276313243fe21e7c"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-360dcc952a71",
+      "author": "李贺",
+      "title": "昌谷北园新笋四首",
+      "poemIds": [
+        "yizhu-2d42e7e943c0518c",
+        "yizhu-1d4895215ecdd059",
+        "yizhu-73476d3a3bdf7fd1",
+        "yizhu-2f789c56f5ae82ec"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-a75a70e198eb",
+      "author": "李贺",
+      "title": "马诗二十三首",
+      "poemIds": [
+        "yizhu-20f18200de2be905",
+        "yizhu-ca5df6c35e557335",
+        "yizhu-a795924c30b0753f",
+        "yizhu-73694a62da078837",
+        "yizhu-17208736e57c036e",
+        "yizhu-c42c7267f539b662",
+        "yizhu-f00596d8febfeef1",
+        "yizhu-c8bb638bec1c9dd9",
+        "yizhu-26265a783053839a"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        4,
+        5,
+        8,
+        9,
+        10,
+        18,
+        23
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-bc77ca6a1f1b",
+      "author": "杜牧",
+      "title": "赠别二首",
+      "poemIds": [
+        "yizhu-c8ea47fe99cbfe16",
+        "yizhu-c7e12f98a4545938"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-89ca017e4207",
+      "author": "杜牧",
+      "title": "过华清宫绝句三首",
+      "poemIds": [
+        "yizhu-b6dbef9cd6ad7146",
+        "yizhu-48b4076dc01c966a",
+        "yizhu-325ebf89de076728"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-954832fb1f88",
+      "author": "杜牧",
+      "title": "齐安郡中偶题二首",
+      "poemIds": [
+        "yizhu-3bd683ea7021b8fa",
+        "yizhu-a7cf69714e7cc4dc"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-c8c9c39c73d6",
+      "author": "杜甫",
+      "title": "前出塞九首",
+      "poemIds": [
+        "yizhu-e4d44d8f5f6874a1",
+        "yizhu-be4ce471e50c4cf7",
+        "yizhu-4f29e3615bf223d6",
+        "yizhu-4edfcddf374c9478",
+        "yizhu-92b54aff1f6b91a5",
+        "yizhu-a20aac5361d1bc9b",
+        "yizhu-63a203a1fa2e44a3",
+        "yizhu-2a9d28e7e4f1e8a0",
+        "yizhu-95d46652a8a6ac55"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-767f39030a11",
+      "author": "杜甫",
+      "title": "后出塞五首",
+      "poemIds": [
+        "yizhu-abcd41edd526a649",
+        "yizhu-e424abbef4fb08bc",
+        "yizhu-52324da857de4a97",
+        "yizhu-965445ed4c9e2cff",
+        "yizhu-d96bd02dbc229edf"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-f8133ebb7372",
+      "author": "杜甫",
+      "title": "咏怀古迹五首",
+      "poemIds": [
+        "yizhu-7bdfa8b523d691e5",
+        "yizhu-b08f4481df132716",
+        "yizhu-c7908bd69071d6d4",
+        "yizhu-3e0953640e8ad114",
+        "yizhu-c7871d84c210c4b8"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-8ca4d057893d",
+      "author": "杜甫",
+      "title": "戏为六绝句",
+      "poemIds": [
+        "yizhu-cd84994043501e48",
+        "yizhu-30e5a723cd282cfd",
+        "yizhu-53b93b57305abfcd",
+        "yizhu-9a87020b84b6e042",
+        "yizhu-bb5f777bffca1e7d",
+        "yizhu-e8c449683e80b49a"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-ad1f522fe69b",
+      "author": "杜甫",
+      "title": "水槛遣心二首",
+      "poemIds": [
+        "yizhu-6bfaa3a4465fdfb4",
+        "yizhu-62bcf70d5296af6d"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-a2b2f4c47fff",
+      "author": "杜甫",
+      "title": "江畔独步寻花七绝句",
+      "poemIds": [
+        "yizhu-3fd79d4d2fda009b",
+        "yizhu-2f668b18681cee44",
+        "yizhu-8bb9f44a87de3793",
+        "yizhu-dda57b49d8dab33a",
+        "yizhu-cd8c186b01f761e8",
+        "yizhu-30af601deb578e89",
+        "yizhu-d74d5c272cd1c4a2"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-cbd48a0f916c",
+      "author": "杜甫",
+      "title": "漫成二首",
+      "poemIds": [
+        "yizhu-2a33d3cd39017e7e",
+        "yizhu-fb231fc172889633"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-b2830be015c2",
+      "author": "杜甫",
+      "title": "秋兴八首",
+      "poemIds": [
+        "yizhu-544bd83c17680a2c",
+        "yizhu-1fb68b69d11fdd30",
+        "yizhu-965141fedde3c207",
+        "yizhu-339e22da06691f7f",
+        "yizhu-60e8404df54fdde4",
+        "yizhu-865844629b1b6a22",
+        "yizhu-3a45270741e85e84",
+        "yizhu-15b768e34211dca5"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-e55b75fa2aed",
+      "author": "杜甫",
+      "title": "绝句九首",
+      "poemIds": [
+        "yizhu-735dd29a9043df0c",
+        "yizhu-9f82912556994334",
+        "yizhu-f678d21b595b2c29"
+      ],
+      "collectedPositions": [
+        7,
+        8,
+        9
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-ad28317f4833",
+      "author": "杜甫",
+      "title": "绝句二首",
+      "poemIds": [
+        "yizhu-97fd080a94419b18",
+        "yizhu-1adc5675f7bd0ad0"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-31fda2a6bd0b",
+      "author": "杜甫",
+      "title": "绝句六首",
+      "poemIds": [
+        "yizhu-efc93b63844fdae2",
+        "yizhu-54280f13d0c3b353",
+        "yizhu-37c10681bc23640f",
+        "yizhu-9ab84ffe5fb518ba",
+        "yizhu-fde4ac082c58ef2f",
+        "yizhu-740a80383c03c24f"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-de0dc19ebdcf",
+      "author": "杜甫",
+      "title": "绝句四首",
+      "poemIds": [
+        "yizhu-4a8d01966d9c250e",
+        "yizhu-a141528efb1be5ae",
+        "yizhu-7f3b5600483b7545",
+        "yizhu-86e0e8382b2d92ac"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-93689d62d607",
+      "author": "杜甫",
+      "title": "羌村",
+      "poemIds": [
+        "yizhu-8532b2840376f247",
+        "yizhu-62e2af8b14931e87",
+        "yizhu-6c72c061451dfb5b"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-33d48c18215e",
+      "author": "沈佺期",
+      "title": "杂诗三首",
+      "poemIds": [
+        "yizhu-bcadad76341fbc41",
+        "yizhu-f7009fda4eccba1b",
+        "yizhu-75f80e9a2bbb7220"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-02ae8a89339f",
+      "author": "温庭筠",
+      "title": "杨柳枝",
+      "poemIds": [
+        "yizhu-ece9a5341a0a777d",
+        "yizhu-9a706bc7c49e60c9",
+        "yizhu-25ca74f036366ba7",
+        "yizhu-34da03c0ae13284f",
+        "yizhu-79d633c1ef2acb1e",
+        "yizhu-3be29de8091d9455",
+        "yizhu-45774346d8285199",
+        "yizhu-e43f734b0324ebcb"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-9822d3d877cd",
+      "author": "王之涣",
+      "title": "凉州词二首",
+      "poemIds": [
+        "yizhu-d7c269faa09addbd",
+        "yizhu-fd0a3c4b8f7173c2"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-3274a966bf26",
+      "author": "王建",
+      "title": "宫词一百首",
+      "poemIds": [
+        "yizhu-0505f6061445032a",
+        "yizhu-63a7aebbf3da0f39",
+        "yizhu-5039ad3699028152",
+        "yizhu-38d5213da22e10a9",
+        "yizhu-ff8d4f0c3276169d",
+        "yizhu-451c39d98a4f8a22",
+        "yizhu-8a7b7e52a7feeaba",
+        "yizhu-ee06b2d3a320cd2c",
+        "yizhu-1b8db0c799fa6361",
+        "yizhu-0fe6d729410b87d7"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-15f79f8b15a8",
+      "author": "王建",
+      "title": "新嫁娘词三首",
+      "poemIds": [
+        "yizhu-6f0cea9034ebe27f",
+        "yizhu-d98ace96cbcc8b08",
+        "yizhu-e20352cd88e924a2"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-5542152bd26f",
+      "author": "王昌龄",
+      "title": "从军行七首",
+      "poemIds": [
+        "yizhu-22dc79e7dcad57bd",
+        "yizhu-b71af847f0535f14",
+        "yizhu-78c7a15607d2f18a",
+        "yizhu-64e81534e4431de8",
+        "yizhu-9eb865ce65811d46",
+        "yizhu-8c7f2b1d27e120f6",
+        "yizhu-0307047a2c6abbfc"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-f7922c27e3ae",
+      "author": "王昌龄",
+      "title": "从军行二首",
+      "poemIds": [
+        "yizhu-0c4ce7a61ed58f49"
+      ],
+      "collectedPositions": [
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-faecc66f9244",
+      "author": "王昌龄",
+      "title": "出塞",
+      "poemIds": [
+        "yizhu-fafab08720d4ada8",
+        "yizhu-46afa34926e8c771"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-f0cc8426b4e0",
+      "author": "王昌龄",
+      "title": "出塞二首",
+      "poemIds": [
+        "yizhu-83205a0229492e17"
+      ],
+      "collectedPositions": [
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-37dc130e74d8",
+      "author": "王昌龄",
+      "title": "芙蓉楼送辛渐二首",
+      "poemIds": [
+        "yizhu-c626188a442c5a03",
+        "yizhu-1628b11bcbf8f1c6"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-66ac1c0ce54d",
+      "author": "王昌龄",
+      "title": "采莲曲三首",
+      "poemIds": [
+        "yizhu-195bc449f5798d26",
+        "yizhu-09508198c71cbd6e",
+        "yizhu-7f533707ac7d7fa2"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-3dce0cc1f036",
+      "author": "王昌龄",
+      "title": "长信秋词五首",
+      "poemIds": [
+        "yizhu-180e770871e76754",
+        "yizhu-9d021ca8c78f9eb9",
+        "yizhu-a8ccad7b3323abf3",
+        "yizhu-f72e33728867749c",
+        "yizhu-f74c0f8b131296a1"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-81bb2ad7dc6b",
+      "author": "王维",
+      "title": "少年行四首",
+      "poemIds": [
+        "yizhu-f57616eb524a5a90",
+        "yizhu-5487126858992173",
+        "yizhu-736bd06f09c97a68",
+        "yizhu-953dc61ad5757020"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        3
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-5b5c998416e8",
+      "author": "王维",
+      "title": "杂诗三首",
+      "poemIds": [
+        "yizhu-172e07b732bc8f01",
+        "yizhu-d3daca3d8b21314f",
+        "yizhu-e784a6bbaa158076"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-864b58f376f3",
+      "author": "王维",
+      "title": "田园乐七首",
+      "poemIds": [
+        "yizhu-25b978fb545c3925",
+        "yizhu-2e8cd82e2ec8ea2a",
+        "yizhu-5a43a254f45f3068",
+        "yizhu-30db2349f341bded",
+        "yizhu-f83401bbaf60662a",
+        "yizhu-96257df29a6cadc0",
+        "yizhu-e1c4ba19736b564a"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-efee89cc21d4",
+      "author": "王翰",
+      "title": "凉州词二首",
+      "poemIds": [
+        "yizhu-ec145bf33808f8b1",
+        "yizhu-dc489dbda9c3db50"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-e7c2755fb257",
+      "author": "白居易",
+      "title": "惜牡丹花二首",
+      "poemIds": [
+        "yizhu-7e8a865461c4e982",
+        "yizhu-34125fe147ced857"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-547d321e96eb",
+      "author": "白居易",
+      "title": "放言五首",
+      "poemIds": [
+        "yizhu-7b32b25e7462b419",
+        "yizhu-7ab65d33f0eb348e",
+        "yizhu-b39c3ec3a2e80a17",
+        "yizhu-1df84331da439c71",
+        "yizhu-ae4ea8dedd11a895"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-6a3bcacc47b9",
+      "author": "白居易",
+      "title": "杨柳枝词八首",
+      "poemIds": [
+        "yizhu-76a31586ef12067a",
+        "yizhu-857b5cd6c049e069",
+        "yizhu-14acf44f1422b993",
+        "yizhu-9ecda1ad77551459",
+        "yizhu-527df3b99f939ede",
+        "yizhu-0b54239bf21e96c1",
+        "yizhu-7ed154e6426cc6d3",
+        "yizhu-cd22a1c500adf0e4"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-8e83cdfaa641",
+      "author": "白居易",
+      "title": "池上二绝",
+      "poemIds": [
+        "yizhu-ae61b9ca2c32c7e4",
+        "yizhu-b0706b7475be6adb"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-4e9524b9ec4e",
+      "author": "白居易",
+      "title": "竹枝词四首",
+      "poemIds": [
+        "yizhu-e78f8bc91f044cc2",
+        "yizhu-93b1fab8449884c8",
+        "yizhu-3062dad9af5985c7",
+        "yizhu-91c65f6553cf276f"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-2a32d551678a",
+      "author": "皮日休",
+      "title": "汴河怀古二首",
+      "poemIds": [
+        "yizhu-736bf3bd73f0a321",
+        "yizhu-6c12e64d898a7fd4"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-ece7cc06dcd7",
+      "author": "皮日休",
+      "title": "馆娃宫怀古五绝",
+      "poemIds": [
+        "yizhu-f8bde6e6ed06a2ef",
+        "yizhu-3ecc7e4681e10efd",
+        "yizhu-61b01e92b2fdf9a0",
+        "yizhu-2bdd0ec96e2c1ca7",
+        "yizhu-8c0f669a579c6a53"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-7cec4da0c3e9",
+      "author": "聂夷中",
+      "title": "公子行二首",
+      "poemIds": [
+        "yizhu-edbc11cc7661aaf5",
+        "yizhu-7acfdf16caa70f8e"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-c2278b3e96b4",
+      "author": "聂夷中",
+      "title": "田家二首",
+      "poemIds": [
+        "yizhu-e7356ff25baf7bdd",
+        "yizhu-579853514b0dfa67"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-fa0fab0440d3",
+      "author": "薛涛",
+      "title": "春望词四首",
+      "poemIds": [
+        "yizhu-e973e4edd8190d3c",
+        "yizhu-92c72cf664dbe6a2",
+        "yizhu-fc57c38488fb2ae5",
+        "yizhu-686b495c5261b599"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-1f9c9e3957b5",
+      "author": "贺知章",
+      "title": "回乡偶书二首",
+      "poemIds": [
+        "yizhu-800ebc41d16cbd82",
+        "yizhu-a0ddd3abc3f8060a"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-25840c923e7c",
+      "author": "陈子昂",
+      "title": "感遇诗三十八首",
+      "poemIds": [
+        "yizhu-17939ec5d09512c2",
+        "yizhu-5971557650b64586",
+        "yizhu-61a6c1bbadc3674a",
+        "yizhu-b7dff8cfc03637e7",
+        "yizhu-07acb556af593050",
+        "yizhu-912f5e74dbcbf1f4",
+        "yizhu-c641c26d881420cd",
+        "yizhu-014b41cefc32dec4",
+        "yizhu-b2b21572e069d77e",
+        "yizhu-607acf3a798d7c75",
+        "yizhu-b1fc1c921b2b255e"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        23
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-a13d6f9cca00",
+      "author": "陈子昂",
+      "title": "春夜别友人二首",
+      "poemIds": [
+        "yizhu-5a625c9608482633",
+        "yizhu-d16b54c5353bffc0"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-f2ec6730e15f",
+      "author": "陈陶",
+      "title": "陇西行四首",
+      "poemIds": [
+        "yizhu-97065e84744d11ec",
+        "yizhu-585a38964ccab728",
+        "yizhu-727a019800f3f61c",
+        "yizhu-794577dbca3f1efb"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-760f0f28abb5",
+      "author": "韩愈",
+      "title": "早春呈水部张十八员外二首",
+      "poemIds": [
+        "yizhu-cc66abbcb2258a48",
+        "yizhu-f499ef1b1d78ac82"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-1ffbcecfb9aa",
+      "author": "顾况",
+      "title": "宫词五首",
+      "poemIds": [
+        "yizhu-c0a1981be8c7bd75",
+        "yizhu-5cee91c6281e43df",
+        "yizhu-b17240b60a2f011f",
+        "yizhu-b69f82905b48206a",
+        "yizhu-6d064feb72689ee9"
+      ],
+      "collectedPositions": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    },
+    {
+      "id": "group-57e21e839544",
+      "author": "高适",
+      "title": "别董大二首",
+      "poemIds": [
+        "yizhu-a81faf7f6003c564",
+        "yizhu-7722f01fc965d3d1"
+      ],
+      "collectedPositions": [
+        1,
+        2
+      ],
+      "completeness": "not-asserted",
+      "note": "底本题名与序号；部分组诗有意节选，不等于全组收齐。"
+    }
+  ]
+}

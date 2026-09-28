@@ -1,0 +1,4764 @@
+{
+  "schemaVersion": "1.0.0",
+  "authors": [
+    {
+      "id": "author-9b08b3c01205",
+      "name": "丁仙芝",
+      "sourceBiographies": [
+        {
+          "sourceText": "丁仙芝，曲阿人，登開元進士第，爲餘杭尉，詩十四首。 丁仙芝，曲阿人。登開元進士第，爲餘杭尉。詩十四首。",
+          "sourceAuthorId": "6d93cdf1-8e8e-48f5-91b1-02c067000da9",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-0645c7c55a298fee"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [
+        "yizhu-0645c7c55a298fee"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-c32044f60ed7",
+      "name": "七岁女子",
+      "sourceBiographies": [
+        {
+          "sourceText": "女子，南海人。詩一首。",
+          "sourceAuthorId": "1a4c91c8-676d-4ed3-b792-a80e36b9685e",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-a47f660cc637e6c3"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-a47f660cc637e6c3"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-2c2858da92f9",
+      "name": "上官昭容",
+      "sourceBiographies": [
+        {
+          "sourceText": "昭容名婉兒，西臺侍郎儀之孫。天后時，配入掖庭。天性韶警，善文章，年十四，后召見。自通天以來，內掌詔令。中宗即位，大被信任，進拜昭容，勸帝侈大書館，增學士員，引大臣名儒充選。數賜宴，賦詩，君臣賡和。婉兒常代帝及后長寧、安樂二主，衆篇竝作，詞旨益新。又差第羣臣所賦，賜金爵，故朝廷靡然成風。當時屬辭者，大抵雖浮豔，然皆有可觀，婉兒力也。臨淄王兵起，被誅。開元初，裒次其文章，詔張說題篇，集二十卷，今失傳，存詩三十二篇。",
+          "sourceAuthorId": "bd995deb-f5be-465f-bc1f-9348f0ae3631",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-6e1906d8c7cee98e",
+        "yizhu-9164aad9188fb29b"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-6e1906d8c7cee98e"
+      ],
+      "userConfirmedPoemIds": [
+        "yizhu-9164aad9188fb29b"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-44aaaed90e94",
+      "name": "丘为",
+      "sourceBiographies": [
+        {
+          "sourceText": "丘爲，蘇州嘉興人。事繼母孝，常有靈芝生堂下。累官太子右庶子，致仕，給俸祿之半以終身，年八十餘，母尚無恙。及居憂，觀察使韓滉以致仕官給祿，所以惠養老臣，不可在喪而異，惟罷春秋羊酒，卒年九十六。與劉長卿善，其赴上都也，長卿有詩送之，亦與王維爲友。詩十三首。",
+          "sourceAuthorId": "848118cd-09ab-4bb1-a9f0-c87d2f8e18e0",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-8f33b3f7ece0490a"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [
+        "yizhu-8f33b3f7ece0490a"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-c22ceb272f59",
+      "name": "严武",
+      "sourceBiographies": [
+        {
+          "sourceText": "嚴武，字季鷹，華州人，工部侍郎挺之之子。以蔭調太原府參軍，累遷殿中侍御史。從明皇入蜀，擢諫議大夫。至德初，房琯以其名臣子，薦爲給事中。歷劒南節度使，入爲太子賓客兼御史大夫，改吏部侍郎，尋轉黃門侍郎，再爲成都尹。以破吐蕃功，進檢校吏部尚書，封鄭國公。最善杜甫，其復鎮劒南，甫往依之。詩六首。",
+          "sourceAuthorId": "052e3e11-c95b-4bb3-83e9-87e49d61b457",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-48caa3afad646324"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-48caa3afad646324"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-08de932d33c4",
+      "name": "乔知之",
+      "sourceBiographies": [
+        {
+          "sourceText": "喬知之，同州馮翊人，與弟侃、備竝以文詞知名，知之尤稱俊才。則天時，累除右補闕，遷左司郎中，爲武承嗣所害。詩一卷。",
+          "sourceAuthorId": "5fbbb254-1f00-4d96-a79a-1a7d570b22ca",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-c5421485c7e95e86"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-5730d20c445c",
+      "name": "于季子",
+      "sourceBiographies": [
+        {
+          "sourceText": "于季子，咸亨中登進士第，則天時司封員外。詩七首。",
+          "sourceAuthorId": "96732339-216a-4c10-baaf-ecaacbb30df0",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-61bae91912af98f5"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-93a25f45ffbe",
+      "name": "于武陵",
+      "sourceBiographies": [
+        {
+          "sourceText": "于武陵，會昌時人。詩一卷通考，大中進士。 于武陵，會昌時人。詩一卷。通考，大中進士。",
+          "sourceAuthorId": "7f940d53-e264-49bd-a337-3678ea2c3e53",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-14c98af445cdc277"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-14c98af445cdc277"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-a7547d947028",
+      "name": "于鹄",
+      "sourceBiographies": [
+        {
+          "sourceText": "于鵠，大曆、貞元間詩人也。隱居漢陽，嘗爲諸府從事。詩一卷。",
+          "sourceAuthorId": "ae390033-daab-4b86-b818-5f7dd8abc410",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-427a1abdff56f151",
+        "yizhu-bc0134c91b1e83cd",
+        "yizhu-382c04c5f3b659c1",
+        "yizhu-3a8e065c056823c1"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-427a1abdff56f151",
+        "yizhu-bc0134c91b1e83cd",
+        "yizhu-382c04c5f3b659c1"
+      ],
+      "userConfirmedPoemIds": [
+        "yizhu-3a8e065c056823c1"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-90fa31e544c9",
+      "name": "于𣸣",
+      "sourceBiographies": [
+        {
+          "sourceText": "濆寓居堯山南六十里，里有富農，得氏琅琊，人指其貌，此多蔵者也。積粟萬庾，馬牛無算，血屬星居於里土，生不遺，死不贈，環顧妻孥，意與天地等。故作是詩，用廣知者。",
+          "sourceAuthorId": "c20bb440-18ce-45cb-a362-1db7e55c7fb5",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-e55f6d1301e10933"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-c8da6032a43b",
+      "name": "令狐楚",
+      "sourceBiographies": [
+        {
+          "sourceText": "令狐楚，字殼士，宜州華原人。貞元七年及第，由太原掌書記至判官。德宗好文，每省太原奏，必能辨楚所爲。數稱之，召授右拾遺。憲宗時，累擢職方員外郎、知制誥。皇甫鎛薦爲翰林學士，進中書舍人，出爲華州刺史。鎛既相，復薦楚爲中書侍郎同平章事。穆宗即位，進門下侍郎，尋出爲宣歙觀察使，貶衡州刺史，再徙太子賓客，分司東都。長慶二年，擢陝虢觀察使。敬宗立，拜楚爲河南尹，遷宣武節度使，入爲戶部尚書，俄拜東都留守，徙天平節度使，召爲吏部尚書，檢校尚書右僕射，進拜左僕射，彭陽郡公。開成元年，上疏辭位，拜山南西道節度使。卒，贈司空，諡曰文。集一百三十卷，歌詩一卷，今編詩一卷。",
+          "sourceAuthorId": "81448fb7-ba3f-41ac-9485-7cfb16be9d39",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-1629d51b7e326d34",
+        "yizhu-c90631990fda283f",
+        "yizhu-94bab0fab881b03f",
+        "yizhu-e61555e2d0b6ad9e",
+        "yizhu-85b9ca0151c3c0ff"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-a595b5352231",
+      "name": "储光羲",
+      "sourceBiographies": [
+        {
+          "sourceText": "儲光羲，兗州人。登開元中進士第，又詔中書試文章，歷監察御史。祿山亂後，坐陷賊貶官。集七十卷，今編詩四卷。 扶風馬挺，余之元伯也。舍人諸昆，知己之目，挺充鄭鄉之賦，予乃貽此詩。",
+          "sourceAuthorId": "783d770f-a248-4c04-ac0f-1f8468714731",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-6cf706b3e20e29c8",
+        "yizhu-1f6423c4b21135b5",
+        "yizhu-d5215e712b137462"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-6cf706b3e20e29c8",
+        "yizhu-1f6423c4b21135b5",
+        "yizhu-d5215e712b137462"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-e220a9285928",
+      "name": "僧皎然",
+      "sourceBiographies": [
+        {
+          "sourceText": "",
+          "sourceAuthorId": "d031d511-00fb-47fd-8345-864309b121e2",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-96c2e4802fba0757",
+        "yizhu-7b0a31d018c6e560",
+        "yizhu-2bbf413cb3f7732a",
+        "yizhu-3ac62b79e9e9f056",
+        "yizhu-adcb32c4f3a3ef5c"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-03b7b02aeaad",
+      "name": "僧贯休",
+      "sourceBiographies": [
+        {
+          "sourceText": "",
+          "sourceAuthorId": "2f390450-2daa-424a-9330-8269402ce797",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-a449237eda701cb9",
+        "yizhu-fafc019baec2f138"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-a6e550c3b7b6",
+      "name": "元稹",
+      "sourceBiographies": [
+        {
+          "sourceText": "元稹，字微之，河南河內人。幼孤，母鄭賢而文，親授書傳，舉明經書判入等，補校書郎。元和初，應制策第一，除左拾遺，歷監察御史。坐事貶江陵士曹參軍，徙通州司馬。自虢州長史徵爲膳部員外郎，拜祠部郎中、知制誥。召入翰林爲中書舍人、承旨學士，進工部侍郎同平章事。未幾罷相，出爲同州刺史，改越州刺史，兼御史大夫、浙東觀察使。太和初，入爲尚書左丞、檢校戶部尚書，兼鄂州刺史、武昌軍節度使。年五十三卒，贈尚書右僕射。稹自少與白居易倡和，當時言詩者稱元白，號爲元和體。其集與居易同名長慶，今編詩二十八卷。",
+          "sourceAuthorId": "fadd002b-cc87-4e2a-a4d1-dc20bde90e86",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-d05fe8438a12505d",
+        "yizhu-62764ea95ffb50d5",
+        "yizhu-5c0fab869cfc4636",
+        "yizhu-041331a21fb60212",
+        "yizhu-5adfc6b3a4188f55",
+        "yizhu-ebc04ac89cf1ff3a",
+        "yizhu-016c99a404a36be7"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-d05fe8438a12505d",
+        "yizhu-041331a21fb60212",
+        "yizhu-5adfc6b3a4188f55",
+        "yizhu-ebc04ac89cf1ff3a"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-43d9c859d9be",
+      "name": "刘元载妻",
+      "sourceBiographies": [
+        {
+          "sourceText": "",
+          "sourceAuthorId": "f57a8fef-c9b1-4f83-af1f-a4c730e8a76a",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-44ceed44a842cc5a"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-2954f51d8322",
+      "name": "刘商",
+      "sourceBiographies": [
+        {
+          "sourceText": "劉商，字子夏，彭城人。少好學，工文，善畫。登大曆進士第，官至檢校禮部郎中，汴州觀察判官。集十卷，今編詩二卷。  劉商，字子夏，彭城人。少好學，工文，善畫。登大曆進士第，官至檢校禮部郎中，汴州觀察判官。集十卷，今編詩二卷。",
+          "sourceAuthorId": "cd73eab1-6f79-4151-b042-0068a43eef23",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-1bbc7db73d2ab8d2",
+        "yizhu-e8be264a49e1827a",
+        "yizhu-d0d3ace5968d316f"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-4ae84a9b0b8c",
+      "name": "刘威",
+      "sourceBiographies": [
+        {
+          "sourceText": "劉威，會昌時人。詩二十七首。",
+          "sourceAuthorId": "693b6381-62cd-442f-96f9-815fdf18a782",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-b50e56319e862ef4"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-c239e7382d86",
+      "name": "刘希夷",
+      "sourceBiographies": [
+        {
+          "sourceText": "劉希夷，一名庭芝，汝州人。少有文華，落魄不拘常格，後爲人所害。希夷善爲從軍閨情詩，詞旨悲苦，未爲人重。後孫昱撰《正聲集》，以希夷詩爲集中之最，由是大爲時所稱賞。集十卷，今編詩一卷。",
+          "sourceAuthorId": "29383517-9b77-4d2c-a7ed-3543c8b79cfd",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-e94c85e077f88ca4",
+        "yizhu-873a9dd8fedf78eb"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-873a9dd8fedf78eb"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-df5456bb4999",
+      "name": "刘方平",
+      "sourceBiographies": [
+        {
+          "sourceText": "劉方平，河南人。邢襄公政會之後，與元德秀善，不仕。詩一卷。",
+          "sourceAuthorId": "bcc19379-0cd3-45d1-985f-8aa6bf5c5476",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-177016c7f723aa15"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-177016c7f723aa15"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-cd88b597e786",
+      "name": "刘眘虚",
+      "sourceBiographies": [
+        {
+          "sourceText": "劉眘虛，江東人，天寶時官夏縣令。詩一卷。",
+          "sourceAuthorId": "60641e34-aad2-4bed-98a6-ae98ef7538d7",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-9bacec71631cb657"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-9bacec71631cb657"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-8c0945ba0b6c",
+      "name": "刘禹锡",
+      "sourceBiographies": [
+        {
+          "sourceText": "劉禹錫，字夢得，彭城人。貞元九年，擢進士第。登博學宏詞科，從事淮南幕府，入爲監察御史。王叔文用事，引入禁中，與之圖議，言無不從。轉屯田員外郎，判度支鹽鐵案。叔文敗，坐貶連州刺史，在道貶朗州司馬，落魄不自聊。吐詞多諷託幽遠，蠻俗好巫。嘗依騷人之旨，倚其聲作《竹枝詞》十餘篇，武陵谿洞悉歌之。居十年，召還。將置之郎署，以作《玄都觀看花》詩涉譏忿，執政不悅，復出刺播州。裴度以母老爲言，改連州，徙夔、和二州。久之，徵入爲主客郎中，又以作《重游玄都觀》詩，出分司東都，度仍薦爲禮部郎中，集賢直學士。度罷，出刺蘇州，徙汝、同二州，遷太子賓客分司。禹錫素善詩，晚節尤精，不幸坐廢，偃蹇寡所合，乃以文章自適，與白居易酬復頗多。居易嘗敘其詩曰：“彭城劉夢得，詩豪者也。其鋒森然，少敢當者。”又言其詩在處應有神物護持，其爲名流推重如此。會昌時，加檢校禮部尚書，卒年七十二，贈戶部尚書。詩集十八卷，今編爲十二卷。              劉禹錫，字夢得，彭城人。貞元九年，擢進士第。登博學宏詞科，從事淮南幕府，入爲監察御史。王叔文用事，引入禁中，與之圖議，言無不從。轉屯田員外郎，判度支鹽鐵案。叔文敗，坐貶連州刺史，在道貶朗州司馬，落魄不自聊。吐詞多諷託幽遠，蠻俗好巫。嘗依騷人之旨，倚其聲作竹枝詞十餘篇。武陵谿洞悉歌之。居十年，召還。將置之郎署，以作玄都觀看花詩涉譏忿，執政不悅，復出刺播州。裴度以母老爲言，改連州，徙夔、和二州。久之，徵入为主客郎中，又以作重游玄都觀詩。出分司東都，度仍薦爲禮部郎中，集賢直學士。度罷，出刺蘇州，徙汝、同二州，遷太子賓客分司。禹錫素善詩，晚節尤精，不幸坐廢，偃蹇寡所合，乃以文章自適，與白居易酬復頗多。居易嘗敘其詩曰：彭城劉夢得，詩豪者也。其鋒森然，少敢當者。又言其詩在處應有神物護持，其爲名流推重如此。會昌時，加檢校禮部尚書，卒年七十二。贈戶部尚書，詩集十八卷。今編爲十二卷。",
+          "sourceAuthorId": "6202bbb8-ed35-45f7-aaa1-cef518a65b6b",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-456df820a8b75674",
+        "yizhu-6bc4921f54ea9b1e",
+        "yizhu-20ba76b968927758",
+        "yizhu-98ee109c03f12992",
+        "yizhu-161c01906b04bd1b",
+        "yizhu-08b0f4744fe5c4b5",
+        "yizhu-d6c1660f3ee19ecd",
+        "yizhu-96b8b4e9fc9a1cd6",
+        "yizhu-579d174482fc5c0d",
+        "yizhu-771d81beaae31bfa",
+        "yizhu-c2aa2981a375cc72",
+        "yizhu-8c48e859968b833b",
+        "yizhu-b1af6385f7c073ae",
+        "yizhu-a51e4e33a2cc1dc3",
+        "yizhu-9a8f4a102349b247",
+        "yizhu-c5f51db6220a5729",
+        "yizhu-9dbf0502988eb768",
+        "yizhu-eb48cab73fd9ca65",
+        "yizhu-772905ade5996b4e",
+        "yizhu-5791591736c476e7",
+        "yizhu-06083b726c44a0a9",
+        "yizhu-9c1f70a04168b268",
+        "yizhu-93a5ac31359abd55",
+        "yizhu-84a9dc9b9840e234"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-456df820a8b75674",
+        "yizhu-161c01906b04bd1b",
+        "yizhu-9a8f4a102349b247",
+        "yizhu-c5f51db6220a5729",
+        "yizhu-772905ade5996b4e",
+        "yizhu-9c1f70a04168b268",
+        "yizhu-84a9dc9b9840e234"
+      ],
+      "userConfirmedPoemIds": [
+        "yizhu-6bc4921f54ea9b1e",
+        "yizhu-20ba76b968927758",
+        "yizhu-08b0f4744fe5c4b5",
+        "yizhu-9dbf0502988eb768",
+        "yizhu-93a5ac31359abd55"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-27c3617d3289",
+      "name": "刘长卿",
+      "sourceBiographies": [
+        {
+          "sourceText": "劉長卿，字文房，河間人。開元二十一年進士，至德中，爲監察御史，以檢校祠部員外郎爲轉運使判官，知淮南鄂岳轉運留後。鄂岳觀察使吳仲孺誣奏，貶潘州南邑尉，會有爲之辯者，除睦州司馬，終隨州刺史。以詩馳聲上元、寶應間，權德輿[嘗]常謂爲五言長城。皇甫湜亦云：“詩未有劉長卿一句，已呼宋玉爲老兵。”其見重如此。集十卷，內詩九卷，今編詩五卷。     劉長卿，字文房，河間人。開元二十一年進士。至德中，爲監察御史，以檢校祠部員外郎爲轉運使判官。知淮南鄂岳轉運留後。鄂岳觀察使吳仲孺誣奏，貶潘州南邑尉，會有爲之辯者，除睦州司馬。終隨州刺史。以詩馳聲上元、寶應間。權德輿[嘗]常謂爲五言長城。皇甫湜亦云：詩未有劉長卿一句，已呼宋玉爲老兵。其見重如此。集十卷，內詩九卷，今編詩五卷。 劉長卿，字文房，河間人。開元二十一年進士。至德中，爲監察御史，以檢校祠部員外郎爲轉運使判官。知淮南鄂岳轉運留後。鄂岳觀察使吳仲孺誣奏，貶潘州南邑尉，會有爲之辯者，除睦州司馬。終隨州刺史。以詩馳聲上元、寶應間。權德輿[嘗]常謂爲五言長城。皇甫湜亦云：詩未有劉長卿一句，已呼宋玉爲老兵。其見重如此。集十卷，內詩九卷，今編詩五卷。",
+          "sourceAuthorId": "396ab354-2295-408d-a8fe-b577e163956f",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-9aea75c1a815593f",
+        "yizhu-4dd50a65f2d323f7",
+        "yizhu-49e7eacbba4e8fdc",
+        "yizhu-8ff693de251b6547",
+        "yizhu-12edead6b42d349c",
+        "yizhu-db64851a84eceb71",
+        "yizhu-f0aba72a70e80ff8",
+        "yizhu-a41921ac08510403",
+        "yizhu-0643d4651b35bf37",
+        "yizhu-a2c41f99796b977c"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-9aea75c1a815593f",
+        "yizhu-a41921ac08510403",
+        "yizhu-0643d4651b35bf37",
+        "yizhu-a2c41f99796b977c"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-b463f90cc7a7",
+      "name": "刘驾",
+      "sourceBiographies": [
+        {
+          "sourceText": "劉駕，字司南，江東人。登大中進士第，官國子博士。詩一卷。",
+          "sourceAuthorId": "614823fd-ee12-4d3a-8272-54c705644217",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-bade06b8d8b54109",
+        "yizhu-33189ab8568c6dbc"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-c3b7d51d82b3",
+      "name": "卢照邻",
+      "sourceBiographies": [
+        {
+          "sourceText": "盧照鄰，字昇之，范陽人。十歲，從曹憲、王義方授蒼雅，調鄧王府典籤。王有書十二車，照鄰總披覽，略能記憶。王愛重，比之相如，調新都尉。染風疾，去官，居太白山，以服餌爲事。又客東龍門山，疾甚，足攣，一手又廢，乃去陽翟具茨山下，買園數十畝，疏潁水周舍，復豫爲墓，偃臥其中。後不堪其苦，與親屬訣，自投潁水死，年四十，嘗著《五悲文》以自明。有集二十卷，又《幽憂子》三卷，今編詩二卷。",
+          "sourceAuthorId": "0287dd77-babe-4297-8d18-25097156b4ab",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-f3737ebcf8e5a861",
+        "yizhu-4896735a222e1d47"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-f3737ebcf8e5a861"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-968e2dc1b7f3",
+      "name": "卢纶",
+      "sourceBiographies": [
+        {
+          "sourceText": "盧綸，字允言，河中蒲人。大曆初，數舉進士不第。元載取其文以進，補閿鄉尉，累遷監察御史，輒稱疾去。坐與王縉善，久不調。建中初，爲昭應令。渾瑊鎮河中，辟元帥判官，累遷檢校戶部郎中。貞元中，舅韋渠牟表其才，驛召之，會卒。集十卷，今編詩五卷。",
+          "sourceAuthorId": "770ff328-161f-4754-ba6c-9875b0ca8f45",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-28a0be76603d3dc5"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-8794abf9a265",
+      "name": "卢群玉",
+      "sourceBiographies": [
+        {
+          "sourceText": "",
+          "sourceAuthorId": "957e8693-821c-410d-9016-7fc4d217d96e",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-c72d1b7b2f9b3cd9"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-70b574ae63c1",
+      "name": "卢频",
+      "sourceBiographies": [
+        {
+          "sourceText": "盧頻，唐末人，詩四首。",
+          "sourceAuthorId": "48e3383b-2fb3-48c5-84b9-9ff2dc834d28",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-c5510fd6e2718d00",
+        "yizhu-8205dad9ac1ee8ca"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-1cfb4d5bc325",
+      "name": "厉玄",
+      "sourceBiographies": [
+        {
+          "sourceText": "厲玄，登太和二年進士第，官終侍御史，姚合同時人。詩五首。 厲玄，登太和二年進士第，官終侍御史，姚合同時人。詩五首。",
+          "sourceAuthorId": "1bb99cff-8449-44c8-8297-1e5eb119b959",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-3f60405e6464c411"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-63f6fe70c61e",
+      "name": "司空图",
+      "sourceBiographies": [
+        {
+          "sourceText": "司空圖，字表聖，河中虞鄉人。咸通末，擢進士第。由宣歙幕歷禮部郎中，僖宗行在用爲知制誥、中書舍人，歸隱中條山王官谷。龍紀、乾寧間，徵拜舊官，及以戶、兵二部侍郎召，皆不起。遷洛後，被詔入朝，以野耄丐歸。朱全忠受禪，召爲禮部尚書，不食而卒。圖少有俊才，晚年避世棲遯，自號知非子、耐辱居士。有先世別墅，泉石林亭，頗愜幽趣，日與名僧、高士遊詠其中。有《一鳴集》三十卷，內詩十卷，今編詩三卷。   司空圖，字表聖，河中虞鄉人，咸通末，擢進士第，由宣歙幕歷禮部郎中，僖宗行在用爲知制誥、中書舍人，歸隱中條山王官谷，龍紀、乾寧間，徵拜舊官，及以戶、兵二部侍郎召，皆不起，遷洛後，被詔入朝，以野耄丐歸，朱全忠受禪，召爲禮部尚書，不食而卒，圖少有俊才，晚年避世棲遯，自號知非子、耐辱居士，有先世別墅，泉石林亭，頗愜幽趣，日與名僧、高士遊詠其中，有一鳴集三十卷，內詩十卷，今編詩三卷。 司空圖，字表聖，河中虞鄉人，咸通末，擢進士第，由宣歙幕歷禮部郎中，僖宗行在用爲知制誥、中書舍人，歸隱中條山王官谷，龍紀、乾寧間，徵拜舊官，及以戶、兵二部侍郎召，皆不起，遷洛後，被詔入朝，以野耄丐歸，朱全忠受禪，召爲禮部尚書，不食而卒，圖少有俊才，晚年避世棲遯，自號知非子、耐辱居士，有先世別墅，泉石林亭，頗愜幽趣，日與名僧、高士遊詠其中，有一鳴集三十卷，內詩十卷，今編詩三卷。 司空圖字表聖，河中虞鄉人。登咸通十年進士第，後梁太祖開平二年卒，年七十二（據兩《唐書》本傳）。補詩一首。",
+          "sourceAuthorId": "dcf9380f-c7cf-4737-8a49-6c3300bff2ee",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-72005a7da868a225"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-4569525e1fca",
+      "name": "司空曙",
+      "sourceBiographies": [
+        {
+          "sourceText": "司空曙，字文明一作初，廣平人。登進士第，從韋臯於劒南。貞元中，爲水部郎中，終虞部郎中。詩格清華，爲大曆十才子之一。集三卷，今編詩二卷。",
+          "sourceAuthorId": "43b9fd0c-f2f5-4cfb-902a-d0c30a18d0c1",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-27f060821b732b89",
+        "yizhu-141b38efdd46ba23"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-141b38efdd46ba23"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-de6c95ba22f6",
+      "name": "司马扎",
+      "sourceBiographies": [
+        {
+          "sourceText": "司馬扎，大中時詩人，詩一卷。",
+          "sourceAuthorId": "92e0f38f-bab7-4b70-9b06-c4f358a7174f",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-2e2b9cf585bae5f3"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-23fc209c36ab",
+      "name": "吴仁璧",
+      "sourceBiographies": [
+        {
+          "sourceText": "吳仁璧，字廷寶，吳人或云關右人。大順二年，登進士第。錢鏐據浙，累辟不就，鏐怒，沈之江。詩一卷，今存十一首。",
+          "sourceAuthorId": "0e00f753-ea09-4b95-951c-4ba61ff3a886",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-fa610bba23667c16"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-cda2b4ec3ebb",
+      "name": "吴公",
+      "sourceBiographies": [
+        {
+          "sourceText": "",
+          "sourceAuthorId": "ea706621-0378-4922-b1d9-6cfa6bb1f7e3",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-ac3a387b99b45ea0"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-db94a89c2222",
+      "name": "吴融",
+      "sourceBiographies": [
+        {
+          "sourceText": "吳融，字子華，越州山陰人。龍紀初，及進士第，韋昭度討蜀，表掌書記，累遷侍御史。去官依荆南成汭。久之，召爲左補闕，拜中書舍人。昭宗反正，造次草詔，無不稱旨，進戶部侍郎。鳳翔劫遷，融不克從，去客閿鄉，俄召還翰林，遷承旨卒。有《唐英集》三卷，今編詩四卷。",
+          "sourceAuthorId": "30e67692-6b75-48ce-a0b0-d868b91b2849",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-63208ad818712531"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-a4ec47d8fc65",
+      "name": "吴黔",
+      "sourceBiographies": [
+        {
+          "sourceText": "",
+          "sourceAuthorId": "1ae32553-ac1c-4008-97a3-1819b99da32c",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-fc6f152a3bce05a9"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-02f1092c5396",
+      "name": "周祚",
+      "sourceBiographies": [
+        {
+          "sourceText": "周祚，唐末進士，詩一首。",
+          "sourceAuthorId": "290fbfc9-875d-4b59-929c-f26bfa8da01a",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-6f48dd1110d85ab8"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-39f29a0a0f94",
+      "name": "唐备",
+      "sourceBiographies": [
+        {
+          "sourceText": "備，龍紀元年進士。工古詩，多極諷刺，頗干教化，非浮豔輕斐之作。",
+          "sourceAuthorId": "d288504d-f971-4d34-b815-5877ba6dfb34",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-06cb3db8d9ebab03",
+        "yizhu-4d6dfb3a8c202e94"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-a7abfbd6dce0",
+      "name": "唐彦谦",
+      "sourceBiographies": [
+        {
+          "sourceText": "唐彥謙，字茂業，幷州人。咸通時，舉進士十餘年不第。乾符末，攜家避地漢南。中和中，王重榮鎮河中，辟爲從事。光啓末，貶漢中掾曹。楊守亮鎮興元，署爲判官，累官至副使，閬、壁、絳三州刺史。彥謙博學多藝，文詞壯麗，至於書畫音樂，無不出於輩流，號鹿門先生。集三卷，今編詩二卷。  唐彥謙，字茂業，幷州人。咸通時，舉進士十餘年不第。乾符末，攜家避地漢南。中和中，王重榮鎮河中，辟爲從事。光啓末，貶又中掾曹。楊守亮鎮興元，署爲判官，累官至副使，閬、壁、絳三州刺史。彥謙博學多藝，文詞壯麗。至於書畫音樂。無不出於輩流。號鹿門先生。集三卷，今編詩二卷。",
+          "sourceAuthorId": "4d8119db-52b8-4403-a93e-37aa69d4ee61",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-4c5a7792db231830"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-9cfce135f919",
+      "name": "圆观",
+      "sourceBiographies": [
+        {
+          "sourceText": "洛陽惠雨寺僧，梵學之外，音律貫通，與諫議大夫李源爲忘年友，亡于杭州天特寺。○東坡詩及他本作圓澤。東坡挽文長老詩云「向欲錢塘訪圓澤，葛洪畔待秋深。」",
+          "sourceAuthorId": "246a6bf8-2556-4935-a46c-8046c1378a57",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-8a7836a44b1e371d"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-0937557d8cba",
+      "name": "太上隐君",
+      "sourceBiographies": [
+        {
+          "sourceText": "",
+          "sourceAuthorId": "cc80cfc4-1b56-4e7c-a5de-f76d0867881e",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-85bbe362b2ffead7"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-85bbe362b2ffead7"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-42a91c849e61",
+      "name": "太宗皇帝",
+      "sourceBiographies": [
+        {
+          "sourceText": "帝姓李氏，諱世民，神堯次子，聰明英武。貞觀之治，庶幾成康，功德兼隆。由漢以來，未之有也。而銳情經術，初建秦邸，即開文學館，召名儒十八人爲學士。既即位，殿左置弘文館，悉引內學士，番宿更休。聽朝之間，則與討論典籍，雜以文詠。或日昃夜艾，未嘗少怠。詩筆草隸，卓越前古。至於天文秀發，沈麗高朗，有唐三百年風雅之盛，帝實有以啓之焉。在位二十四年，諡曰文。集四十卷。館閣書目，詩一卷，六十九首。今編詩一卷。",
+          "sourceAuthorId": "f78aa699-e012-4059-9e29-5d30e16cc1d8",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-8f011c5ea5f90537"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-417875b1b2d4",
+      "name": "姚合",
+      "sourceBiographies": [
+        {
+          "sourceText": "姚合，陝州硤石人，宰相崇曾孫。登元和進士第，授武功主簿，調富平、萬年尉。寶曆中監察御史、戶部員外郎，出荆、杭州刺史，後爲給事中、陝虢觀察使。開成末，終秘書監，與馬戴、與冠卿、殷堯藩、張籍遊，李頻師之。合詩名重於時，人稱姚武功云。詩七卷。       姚合，陝州硤石人，宰相崇曾孫。登元和進士第，授武功主簿，調富平、萬年尉。寶曆中監察御史、戶部員外郎，出荆、杭州刺史，後爲給事中、陝虢觀察使。開成末，終秘書監，與馬戴、與冠卿、殷堯藩、張籍遊，李頻師之，合詩名重於時，人稱姚武功云。詩七卷。",
+          "sourceAuthorId": "a99e9854-eb4d-4b8f-a6c4-f49575af1f39",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-2a05d14c11e47678",
+        "yizhu-1b7f85e5cb8efaa9",
+        "yizhu-a3eb3f6e677b5c3e"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-4411d3ff43d6",
+      "name": "孙光宪",
+      "sourceBiographies": [
+        {
+          "sourceText": "孫光憲，字孟文，陵州人。爲荆南高從誨書記，歷檢校秘書，兼御史大夫。有集五十餘卷，今存詩八首。  孫光憲，字孟文，陵州人。爲荆南高從誨書記，歷檢校祕書，兼御史大夫。有集五十餘卷，今存詩八首。",
+          "sourceAuthorId": "dec90a21-52ca-48ea-86a8-9b99cb36c5c0",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-bbf05428fa687990"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-40bda34b616c",
+      "name": "孙处玄",
+      "sourceBiographies": [
+        {
+          "sourceText": "孫處玄，江寧人。則天長安中，官左拾遺。神龍初，論時事不合，歸里。開元初，薦不起。詩二首。",
+          "sourceAuthorId": "ff872886-34c2-434f-bd91-add5eb426b0e",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-dddcc3f87d4a7c74"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-41276fe010b5",
+      "name": "孙昌胤",
+      "sourceBiographies": [
+        {
+          "sourceText": "孫昌胤，登天寶進士第。柳宗元與韋中立書，稱其爲子舉冠禮事，人以爲迂。詩四首。",
+          "sourceAuthorId": "d2b6d847-7bb1-45a5-96c0-54e46e36ed4a",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-e6247568089091ee"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-2f2b2c3b008a",
+      "name": "孟浩然",
+      "sourceBiographies": [
+        {
+          "sourceText": "孟浩然，字浩然，襄陽人。少隱鹿門山，年四十，乃遊京師。常於太學賦詩，一坐嗟伏，與張九齡、王維爲忘形交。維私邀入內署，適明皇至，浩然匿牀下，維以實對。帝喜曰：“朕聞其人而未見也。”詔浩然出，誦所爲詩。至“不才明主棄”，帝曰：“卿不求仕，朕未[嘗]常棄卿，奈何誣我？”因放還。採訪使韓朝宗約浩然偕至京師，欲薦諸朝。會與故人劇飲懽甚，不赴。朝宗怒，辭行，浩然亦不悔也。張九齡鎮荆州，署爲從事。開元末，疽發背卒。浩然爲詩，佇興而作，造意極苦，篇什既成，洗削凡近，超然獨妙，雖氣象清遠，而采秀內映，藻思所不及。當明皇時，章句之風大得建安體，論者推李杜爲尤，介其間能不媿者，浩然也。集三卷，今編詩二卷。  孟浩然，襄陽人。開元二十八年卒，年五十二。（複出一首）",
+          "sourceAuthorId": "20006a9f-ad85-44c8-a5ea-df55c005e3f5",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-444a0ce4ebffe52f",
+        "yizhu-2f7901ac0629a7e6",
+        "yizhu-c3c41d1723150505",
+        "yizhu-811f71ccdd7b1ed2",
+        "yizhu-794ce348ff07bc9d",
+        "yizhu-91ac8b5bce8dcae1"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-444a0ce4ebffe52f",
+        "yizhu-2f7901ac0629a7e6",
+        "yizhu-c3c41d1723150505",
+        "yizhu-811f71ccdd7b1ed2",
+        "yizhu-91ac8b5bce8dcae1"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-4c08c6df0702",
+      "name": "孟郊",
+      "sourceBiographies": [
+        {
+          "sourceText": "孟郊，字東野，湖州武康人。少隱嵩山，性介，少諧合。韓愈一見爲忘形交。年五十，得進士第，調溧陽尉。縣有投金瀨、平陵城，林薄蒙翳，下有積水。郊間往坐水旁，裴回賦詩，曹務多廢，令白府以假尉代之，分其半奉。鄭餘慶爲東都留守，署水陸轉運判官。餘慶鎮興元，奏爲參謀，卒，張籍私諡曰貞曜先生。郊爲詩有理致，最爲愈所稱。然思苦奇澀，李觀亦論其詩曰“高處在古無上，平處下顧二謝”云。集十卷，今編詩十卷。",
+          "sourceAuthorId": "d7518065-3ac9-4075-b656-c0e80365e6a7",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-a952b9a2bfd9c56a",
+        "yizhu-ae60637468dadc2c",
+        "yizhu-d5e1d7f1576ef443"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-a952b9a2bfd9c56a",
+        "yizhu-d5e1d7f1576ef443"
+      ],
+      "userConfirmedPoemIds": [
+        "yizhu-ae60637468dadc2c"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-0a6c808f358b",
+      "name": "宋之问",
+      "sourceBiographies": [
+        {
+          "sourceText": "宋之問，一名少連，字延清，虢州弘農人。弱冠知名，初徵，令與楊炯分直內教，俄授雒州參軍，累轉尚方監丞，預修《三教珠英》。後坐附張易之，左遷瀧州參軍。武三思用事，起爲鴻臚丞。景龍中，再轉考功員外郎，時中宗增置修文館學士，之問與薛稷、杜審言首膺其選，轉越州長史。睿宗即位，徙欽州，尋賜死。集十卷，今編詩三卷。   宋之問，一名少連，字延清，虢州弘農人。弱冠知名，初徵，令與楊炯分直內教，俄授雒州參軍，累轉尚方監丞，預修三教珠英，後坐附張易之，左遷瀧州參軍，武三思用事，起爲鴻臚丞。景龍中，再轉考功員外郎，時中宗增置修文館學士，之問與薛稷、杜審言首膺其選，轉越州長史。睿宗即位，徙欽州，尋賜死。集十卷，今編詩三卷。 宋之問，字延清，虢州弘農人。弱冠知名，尤善五言詩。以附張易之、武三思，配徙欽州，先天元年賜死。補詩五首。",
+          "sourceAuthorId": "b3b4eabb-dd08-430f-bfed-11893b7fdc76",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-f25fff9d1f292c6f"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-f25fff9d1f292c6f"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-0293a063e554",
+      "name": "宋雍",
+      "sourceBiographies": [
+        {
+          "sourceText": "",
+          "sourceAuthorId": "cf5c0e6d-5469-4915-944d-90b780195cb9",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-989e32c1b48f96c4"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-20f4503a81aa",
+      "name": "宣宗宫人",
+      "sourceBiographies": [
+        {
+          "sourceText": "宣宗宮人，姓韓氏。詩一首。",
+          "sourceAuthorId": "e2338b0b-fac3-476d-8a5c-321a57fe04a0",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-a491b5ea79d79310"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-a491b5ea79d79310"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-5052c731a66b",
+      "name": "宣宗皇帝",
+      "sourceBiographies": [
+        {
+          "sourceText": "帝諱忱，憲宗第十三子，初名怡，封光王。會昌六年，立爲皇太叔，恭儉好善，虛襟聽納，大中之政，有貞觀風。每曲宴，與學士倡和，公卿出鎮，多賦詩餞行。重科第，留心貢舉。常微行，采輿論，察知選士之得失。其對朝臣，必問及第與所試詩賦題，主司姓氏，苟有科名對者，必大喜。或佳人物偶不中第，必歎息移時。常於內自題鄉貢進士李道龍云。在位十三年，諡曰獻文，詩六首。",
+          "sourceAuthorId": "004b8cf8-4ce4-4226-af20-28fddd009d90",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-8fabb9a4dae92d7c"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-8fabb9a4dae92d7c"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-faa78014733b",
+      "name": "岑参",
+      "sourceBiographies": [
+        {
+          "sourceText": "岑參，南陽人，文本之後。少孤貧，篤學，登天寶三載進士第。由率府參軍累官右補闕，論斥權佞，改起居郎，尋出爲虢州長史，復入爲太子中允。代宗總戎陝服，委以書奏之任，由庫部郎出刺嘉州。杜鴻漸鎮西川，表爲從事，以職方郎兼侍御史領幕職。使罷，流寓不還，遂終於蜀。參詩辭意清切，迥拔孤秀，多出佳境；每一篇出，人競傳寫，比之吳均、何遜焉。集八卷，今編四卷。",
+          "sourceAuthorId": "8f550fa6-3a7e-4616-9d9b-980185c85ef7",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-613f88266532be90",
+        "yizhu-0d2df8debe074fcf",
+        "yizhu-e107bee505d548ba",
+        "yizhu-6b9a2c15611a9d5c",
+        "yizhu-17182130b363d0e6",
+        "yizhu-a839f7e0c1fd72bf",
+        "yizhu-79ae009a9819bfd8",
+        "yizhu-5fccbcbe3d4f50e8",
+        "yizhu-2b13585b9c8777b1",
+        "yizhu-ce898d85359f1705"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-0d2df8debe074fcf",
+        "yizhu-e107bee505d548ba",
+        "yizhu-6b9a2c15611a9d5c",
+        "yizhu-17182130b363d0e6",
+        "yizhu-a839f7e0c1fd72bf",
+        "yizhu-79ae009a9819bfd8",
+        "yizhu-ce898d85359f1705"
+      ],
+      "userConfirmedPoemIds": [
+        "yizhu-5fccbcbe3d4f50e8",
+        "yizhu-2b13585b9c8777b1"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-eda1442802ae",
+      "name": "崔国辅",
+      "sourceBiographies": [
+        {
+          "sourceText": "崔國輔，吳郡人。開元中，應縣令舉，授許昌令。累遷集賢直學士，禮部員外郎，後坐事貶晉陵郡司馬。詩一卷。",
+          "sourceAuthorId": "07f07897-ed45-4a0e-9f07-dcbdbfd2f11f",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-c5597c1689a89aee"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-9e7c9ee57730",
+      "name": "崔护",
+      "sourceBiographies": [
+        {
+          "sourceText": "崔護，字殷功，博陵人。貞元十二年登第，終嶺南節度使。詩六首。",
+          "sourceAuthorId": "80b4b5df-c5b0-4fdc-88a5-f983275ea301",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-0206697548357784"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-0206697548357784"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-be0458f923aa",
+      "name": "崔曙",
+      "sourceBiographies": [
+        {
+          "sourceText": "崔曙，宋州人。開元二十六年登進士第，以試明堂火珠詩得名。詩一卷。",
+          "sourceAuthorId": "6cba0d46-8e07-41cf-abfd-e2e6e8dd5dc1",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-06c25370a335cdbb",
+        "yizhu-9e4cdfe8469bf5ba"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-06c25370a335cdbb",
+        "yizhu-9e4cdfe8469bf5ba"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-7b5f341e3a53",
+      "name": "崔涂",
+      "sourceBiographies": [
+        {
+          "sourceText": "崔塗，字禮山，江南人。光啓四年，登進士第。詩一卷。",
+          "sourceAuthorId": "d4ff64e6-663b-4294-8c3a-2b5c6234841d",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-00d6ffc786a2497e"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [
+        "yizhu-00d6ffc786a2497e"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-d843b0ab4d99",
+      "name": "崔融",
+      "sourceBiographies": [
+        {
+          "sourceText": "崔融，字安成，齊州全節人。擢八科高第，補宮門丞，遷崇文館學士。中宗爲太子時，融爲侍讀，典東朝章疏。長安中，授著作佐郎，遷右史，進鳳閣舍人。坐附張易之兄弟貶袁州刺史，尋召拜國子司業。融爲文華婉典麗，朝廷諸大手筆多手敕委之，卒，謚曰文。集六十卷，今編詩一卷。  崔融字安成，齊州全節人。爲文以華婉典麗稱。神龍二年卒，年五十四。補詩二首。（按唐有兩崔融。《全唐詩》卷六十八之崔融，武后時人也。卷八百八十七《補遺》六之崔融，則唐末乾寧時吳郡人。今兹所補，蓋即武后時崔融之作。）",
+          "sourceAuthorId": "fee52be3-9dbf-49b0-811a-7fa71985b765",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-0ba616c7776fe130"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-6fcba65f2e40",
+      "name": "崔郊",
+      "sourceBiographies": [
+        {
+          "sourceText": "崔郊，元和間秀才。詩一首。",
+          "sourceAuthorId": "8a03fa1e-e67f-44dc-ba80-f0fddd6d80e2",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-f7c5f55702aff3f5"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-f7c5f55702aff3f5"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-87d06fc3ac67",
+      "name": "常建",
+      "sourceBiographies": [
+        {
+          "sourceText": "常建，開元中進士第。大曆中，爲盱眙尉。詩似初發通莊，却尋野徑，百里之外，方歸大道，其旨遠，其興僻，佳句輒來，唯論意表。淪於一尉，士論悲之。詩一卷。",
+          "sourceAuthorId": "9c9beb6d-5d90-4816-949d-64b2f0d313d0",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-39d0c9040c0577f5"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-39d0c9040c0577f5"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-479affe5dc46",
+      "name": "庄南杰",
+      "sourceBiographies": [
+        {
+          "sourceText": "莊南傑，進士，與賈島同時，雜歌行一卷，今存詩五首。 莊南傑，進士，與賈島同時，雜歌行一卷，今存詩五首。",
+          "sourceAuthorId": "998a453e-7ad8-44a7-ac68-91abf4146a26",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-a52ded7030fd45a2"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-317c63d2af82",
+      "name": "张九龄",
+      "sourceBiographies": [
+        {
+          "sourceText": "張九齡，字子壽，韶州曲江人。七歲知屬文，擢進士，始調校書郎，以道侔伊呂科爲左拾遺，進中書舍人，出爲冀州刺史。以母不肻去鄉里，表換洪州都督，徙桂州兼嶺南按察選補使，以張說薦，爲集賢院學士，俄拜中書侍郎，同平章事，遷中書令。爲李林甫所忮，改尚書右丞相。罷政事，貶荆州長史，請歸還展墓。卒，諡文獻。九齡風度醖藉，在相位，有謇諤匪躬之誠，以直道黜，不戚戚嬰望，惟文史自娛。嘗識安祿山必反，請誅，不許。後明皇在蜀思其言，遣使致祭，卹其家。集二十卷，今編詩三卷。",
+          "sourceAuthorId": "61ac39ce-7be0-4731-bb9f-3c34fdb7d73f",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-28ef9c404f3f2516",
+        "yizhu-ce9f85366dfd2c37",
+        "yizhu-3dde98270b38570b"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-ce9f85366dfd2c37",
+        "yizhu-3dde98270b38570b"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-fd77ab9c2dd5",
+      "name": "张仲素",
+      "sourceBiographies": [
+        {
+          "sourceText": "張仲素，字繪之，河間人。憲宗時爲翰林學士，後終中書舍人。詩一卷。",
+          "sourceAuthorId": "f841c0a4-cfe1-4d0b-a30c-6261191f82e2",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-86f79612085aa49f",
+        "yizhu-7efe16ff2c871ef9"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-d5adc113b95b",
+      "name": "张子容",
+      "sourceBiographies": [
+        {
+          "sourceText": "張子容，先天二年擢進士第，爲樂城尉，與孟浩然友善。詩一卷。",
+          "sourceAuthorId": "c306d73f-3f8d-455d-a993-1114979907e9",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-d083b0d2faae9692",
+        "yizhu-0d9e004f36df078f"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-7493d721d983",
+      "name": "张巡",
+      "sourceBiographies": [
+        {
+          "sourceText": "張巡，蒲州河東人。開元末，舉進士第三，以書判拔萃入等。天寶中，爲真源令。祿山之亂，巡起兵討賊。後至睢陽，與太守許遠嬰城固守經年。乏食，城陷死之。巡博通羣書，爲文操紙筆立就。有《謝金吾表》云：“想峨眉之碧峰，豫遊西蜀，追綠耳於懸圃，保壽南山。臣被圍四十七日，凡一千八百餘戰。當臣效命之時，是賊滅亡之日。”文辭悲壯，讀者哀之。詩二首。",
+          "sourceAuthorId": "134facea-f346-487b-a0fc-d3d8d032e787",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-79d83fafaec00ab4"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [
+        "yizhu-79d83fafaec00ab4"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-d1fc555d1732",
+      "name": "张文姬",
+      "sourceBiographies": [
+        {
+          "sourceText": "張文姬，鮑參軍妻也。詩四首。",
+          "sourceAuthorId": "ee311e74-3cc3-45e2-b162-bec8242cc2d0",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-5f2e43b7969745be"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-5f2e43b7969745be"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-260dd822d61d",
+      "name": "张泌",
+      "sourceBiographies": [
+        {
+          "sourceText": "張泌，字子澄，淮南人。仕南唐爲句容縣尉，累官至內史舍人。詩一卷。 張泌，字子澄，淮南人。仕南唐爲句容縣尉，累官至內史舍人。詩一卷。",
+          "sourceAuthorId": "9dd49f54-7d4b-43e9-9fd7-d30a2912fd1d",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-5eae2ae5dece4a91"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-5eae2ae5dece4a91"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-16683a6fad58",
+      "name": "张祜",
+      "sourceBiographies": [
+        {
+          "sourceText": "張祜，字承吉，清河人，以宮詞得名。長慶中，令狐楚表薦之，不報，辟諸侯府，多不合，自劾去。嘗客淮南，愛丹陽曲阿地，築室卜隱。集十卷，今編詩二卷。    張祜，字承吉，清河人，以宮詞得名。長慶中，令狐楚表薦之，不報，辟諸侯府，多不合，自劾去。嘗客淮南，愛丹陽曲阿地，築室卜隱。集十卷，今編詩二卷。",
+          "sourceAuthorId": "8623e227-7d3b-4875-b776-d9a2271445b2",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        },
+        {
+          "sourceText": "張祜字承吉，清河人。元和中作宮體小詩，情詞豔發，稍流輕薄。晚歲乃窺建安風格，短章大篇往往間出，諫諷怨譎，頗深寄意，爲時所稱，皮日休、陸龜蒙尤重之。大中中卒於丹陽。補詩四卷。",
+          "sourceAuthorId": "2fed37c6-3fb8-407e-8df8-4853a275e3f7",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-8a02b46628507820",
+        "yizhu-d256ba6da2adeeaa",
+        "yizhu-929c38d010bd5949",
+        "yizhu-15cb9088d84bb384",
+        "yizhu-ae44e3fa071a2a81"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-ae44e3fa071a2a81"
+      ],
+      "userConfirmedPoemIds": [
+        "yizhu-929c38d010bd5949"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-f7fa1a50b108",
+      "name": "张窈窕",
+      "sourceBiographies": [
+        {
+          "sourceText": "張窈窕，寓居於蜀，當時詩人雅相推重。詩六首。",
+          "sourceAuthorId": "0d402104-88cd-46a1-b00b-3d52e193c9ef",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-2f6d768baa4853ed"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-c16b03b4b126",
+      "name": "张籍",
+      "sourceBiographies": [
+        {
+          "sourceText": "張籍，字文昌，蘇州吳人，或曰和州烏江人。貞元十五年登進士第，授太常寺太祝。久之，遷祕書郎。韓愈薦爲國子博士，歷水部員外郎、主客郎中。當時有名士皆與游，而愈賢重之。籍爲詩長于樂府，多警句，仕終國子司業。詩集七卷，今編爲五卷。",
+          "sourceAuthorId": "1c9c325a-5ebf-42a7-a8c9-644f1e17a32a",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-66cd7c20bbab2a1d",
+        "yizhu-f38c613f28c38450"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-66cd7c20bbab2a1d"
+      ],
+      "userConfirmedPoemIds": [
+        "yizhu-f38c613f28c38450"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-c5259b379127",
+      "name": "张翚",
+      "sourceBiographies": [
+        {
+          "sourceText": "張翬，曲阿人。開元二十三年進士，爲蕭穎士同年生，官校書郎。詩二首。",
+          "sourceAuthorId": "228d7b43-01db-4fd9-88d2-d31627d5c0db",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-6581c7c6a41d5ac0"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-dd929948cade",
+      "name": "张若虚",
+      "sourceBiographies": [
+        {
+          "sourceText": "張若虛，揚州人。兗州兵曹，與賀知章、張旭、包融，號吳中四士。詩二首。",
+          "sourceAuthorId": "f309e4dc-8e63-458b-8edf-b5c1873c0bd5",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-76caedeb379ad9e0"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [
+        "yizhu-76caedeb379ad9e0"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-3d0c04a04ac8",
+      "name": "张说",
+      "sourceBiographies": [
+        {
+          "sourceText": "張說，字道濟，一字說之，洛陽人。武后策賢良方正，說所對第一，授左補闕，擢鳳閣舍人。忤旨，配流欽州。中宗召還，累遷工部、兵部侍郎，修文館學士。睿宗拜爲中書侍郎，知政事。開元初，進中書令，封燕國公，尋出刺相州，左轉岳州，召拜兵部尚書，知政事，敕令巡邊。後爲集賢院學士，尚書左丞相，卒，謚文貞。說爲人敦氣義，重然諾，喜延納後進。朝廷大述作，多出其手，與蘇頲號燕許大手筆。謫岳州後，詩益悽惋，人謂得江山之助。集三十卷，內詩九卷，今編詩五卷。     張說，字道濟，一字說之，洛陽人，武后策賢良方正，說所對第一，授左補闕，擢鳳閣舍人，忤旨，配流欽州。中宗召還，累遷工部、兵部侍郎，修文館學士，睿宗拜爲中書侍郎，知政事，開元初，進中書令，封燕國公，尋出刺相州，左轉岳州，召拜兵部尚書，知政事，敕令巡邊，後爲集賢院學士，尚書左丞相，卒，謚文貞，說爲人敦氣義，重然諾，喜延納後進，朝廷大述作，多出其手，與蘇頲號燕許大手筆，謫岳州後，詩益悽惋，人謂得江山之助，集三十卷，內詩九卷，今編詩五卷。",
+          "sourceAuthorId": "627c6adb-d828-48b5-b606-edd7c97eaf8f",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-85597a8ea153a353",
+        "yizhu-f0707cb890640d1b",
+        "yizhu-27cc621730c2e348"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-85597a8ea153a353",
+        "yizhu-f0707cb890640d1b"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-6d4656f3944b",
+      "name": "张谓",
+      "sourceBiographies": [
+        {
+          "sourceText": "張謂，字正言，河南人。天寶二年登進士第。乾元中，爲尚書郎。大曆間，官至禮部侍郎、三典貢舉。詩一卷。",
+          "sourceAuthorId": "8f7aa8e3-f4fd-48cf-b313-984d3a4513a9",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-3cd75431d898f09a"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [
+        "yizhu-3cd75431d898f09a"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-43511e8cb43a",
+      "name": "张𧏖",
+      "sourceBiographies": [
+        {
+          "sourceText": "張蠙，字象文，清河人，初與許棠、張喬齊名。登乾寧二年進士第，爲校書郎、櫟陽尉、犀浦令。入蜀，拜膳部員外，終金堂令。詩一卷。 張蠙，字象文，清河人。初與許棠、張喬齊名。登乾寧二年進士第，爲校書郎、櫟陽尉、犀浦令。入蜀，拜膳部員外，終金堂令。詩一卷。",
+          "sourceAuthorId": "4877a957-dc0d-4443-84f2-e824145f6295",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-c0f759f641e5d591"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-343467cff956",
+      "name": "徐九臯",
+      "sourceBiographies": [
+        {
+          "sourceText": "徐九臯，河陰尉。詩五首。",
+          "sourceAuthorId": "0822ab2a-0223-457d-a409-3eca678fbc76",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-ccc93031483a5c38"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-614d44656c43",
+      "name": "徐凝",
+      "sourceBiographies": [
+        {
+          "sourceText": "徐凝，睦州人，元和中官至侍郎。詩一卷。 徐凝，與白居易沈亞之輩友善，元和中官至侍郎。補詩一首。",
+          "sourceAuthorId": "5878e662-1f91-4e4a-8f37-082a0a73270a",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-f4e4ecfc81b8b72c"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-f4e4ecfc81b8b72c"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-6d91a265e3c3",
+      "name": "徐夤",
+      "sourceBiographies": [
+        {
+          "sourceText": "徐夤，字昭夢，莆田人。登乾寧進士第，授秘書省正字。依王審知，禮待簡畧，遂拂衣去，歸隱延壽溪。著有《探龍》、《釣磯》二集，編詩四卷。",
+          "sourceAuthorId": "936abb1d-fe0e-45a1-af44-21dfcd6d1489",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-19cb829bc6b3a673",
+        "yizhu-30846d46f56b6b42"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-30846d46f56b6b42"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-7245420f5c24",
+      "name": "徐璧",
+      "sourceBiographies": [
+        {
+          "sourceText": "今按：徐安貞，初名楚璧，或爲一人。",
+          "sourceAuthorId": "025022cd-ba33-4ebc-9ecf-26f53a73cf34",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-f4c8c87067755006"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-14dd1e6a9c28",
+      "name": "徐铉",
+      "sourceBiographies": [
+        {
+          "sourceText": "徐鉉，字鼎臣，廣陵人。十歲能屬文，與韓熙載齊名，江東謂之韓徐。仕吳爲祕書郎。仕南唐，歷中書舍人、翰林學士、吏部尚書。歸宋，爲散騎常侍，坐貶卒。鉉文思敏速，凡所撰述，往往執筆立就。精小學，篆隸尤工。集三十卷，今編詩六卷。      徐鉉，字鼎臣，廣陵人。十歲能屬文，與韓熙載齊名，江東謂之韓徐。仕吳爲秘書郎，仕南唐，歷中書舍人、翰林學士、吏部尚書，歸宋，爲散騎常侍，坐貶卒。鉉文思敏速，凡所撰述，往往執筆立就。精小學，篆隸尤工。集三十卷，今編詩六卷。 徐鉉字鼎臣，廣陵人。仕南唐，官至吏部尚書。隨後主李煜歸宋，累官散騎常侍。淳化三年坐貶卒，年七十六。（據李昉撰《故靜難軍節度行軍司馬檢校工部尚書東海徐公墓誌銘》）鉉精小學，尤工篆隸，與弟鍇俱有名於江左。補詩二首並句四。",
+          "sourceAuthorId": "bccea2dd-8df6-4b03-98e3-79e9785fa29f",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-b7985afa7cb0e176"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-484a1dc58d34",
+      "name": "戎昱",
+      "sourceBiographies": [
+        {
+          "sourceText": "戎昱，荆南人，登進士第。衛伯玉鎮荆南，辟爲從事。建中中，爲辰、虔二州刺史。集五卷，今編爲一卷。",
+          "sourceAuthorId": "35f5fc85-e44a-4035-8ba7-4d6b03d80243",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-7c54a77141144190",
+        "yizhu-a293b8d088f5ca2d",
+        "yizhu-da054914e59f5b52",
+        "yizhu-79386cbeba3320d8",
+        "yizhu-b6b062579d100cce"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-9d0d113f0181",
+      "name": "戴叔伦",
+      "sourceBiographies": [
+        {
+          "sourceText": "戴叔倫，字幼公，潤州金壇人。劉晏管鹽鐵，表主運湖南。嗣曹王臯領湖南、江西，表佐幕府。臯討李希烈，留叔倫領府事，試守撫州刺史。俄即真，遷容管經略使，綏徠蠻落，威名流聞。德宗嘗賦中和節詩，遣使者寵賜，世以爲榮。集十卷，今編詩二卷。  戴叔倫，字幼公，潤州金壇人，劉晏管鹽鐵，表主運湖南，嗣曹王臯領湖南、江西，表佐幕府，臯討李希烈，留叔倫領府事，試守撫州刺史，俄即真，遷容管經略使，綏徠蠻落，威名流聞，德宗嘗賦中和節詩，遣使者寵賜，世以爲榮。集十卷，今編詩二卷。",
+          "sourceAuthorId": "0163e7a0-df79-4e69-bfe9-2f3aee0f68cc",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-199ad85e68150e85",
+        "yizhu-a91c9b484162102e",
+        "yizhu-539c8259b08aa595",
+        "yizhu-34352bd4a1a6cd68",
+        "yizhu-815a2ac4a4682364"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-539c8259b08aa595",
+        "yizhu-815a2ac4a4682364"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-19b92c82fcf8",
+      "name": "方干",
+      "sourceBiographies": [
+        {
+          "sourceText": "方干，字雄飛，新定人。徐凝一見器之，授以詩律，始舉進士。謁錢塘太守姚合，合視其貌陋，甚卑之。坐定覽卷，乃駭目變容。館之數日，登山臨水，無不與焉。咸通中，一舉不得志，遂遯會稽，漁於鑑湖，太守王龜以其亢直，宜在諫署，欲薦之，不果。干自咸通得名，迄文德，江之南無有及者。歿後十餘年，宰臣張文蔚奏名儒不第者五人，請賜一官，以慰其魂，干其一也。後進私謚曰玄英先生，門人楊弇與釋子居遠收得詩三百七十餘篇，集十卷。今編詩六卷。",
+          "sourceAuthorId": "5b832ff7-21a7-43cd-859c-6e60a66d0244",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-0ad61674df364aa7"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-dc5cc449f3ed",
+      "name": "方棫",
+      "sourceBiographies": [
+        {
+          "sourceText": "",
+          "sourceAuthorId": "71dd057c-7ca9-4077-b84e-2179728def37",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-102c9c2258bc0f6a"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-7bbcf77681ea",
+      "name": "无名氏",
+      "sourceBiographies": [
+        {
+          "sourceText": "",
+          "sourceAuthorId": "3fef2451-3384-4e62-9fb2-2e1e3fb62673",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-923c57a0d582b804",
+        "yizhu-0e7fae46cdc38100",
+        "yizhu-e003ff3e16f206b0",
+        "yizhu-623690f3218ce446"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-b31382467e97",
+      "name": "曹修古",
+      "sourceBiographies": [
+        {
+          "sourceText": "",
+          "sourceAuthorId": "baa1f229-5b84-41b9-8ac2-a3003299831e",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-9252ac7c3f7c225b"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-2f0173fcd090",
+      "name": "曹松",
+      "sourceBiographies": [
+        {
+          "sourceText": "曹松，字夢徴，舒州人。學賈島爲詩，久困名場。至天復初，杜德祥主文，放松及王希羽、劉象、柯崇、鄭希顏等及第，年皆七十餘，時號五老牓。授祕書省正字。集三卷，今編詩二卷。  曹松，字夢徴，舒州人。學賈島爲詩，久困名場。至天復初，杜德祥主文，放松及王希羽、劉象、柯崇、鄭希顏等及第。年皆七十餘，時號五老牓。授祕書省正字。集三卷，今編詩二卷。 曹松字夢徵，舒州人。爲詩宗賈島，深入幽境，然無枯淡之癖。初在建州依李頻。眧宗光化四年，禮部侍郎杜德祥下與王希羽、劉象、柯崇、鄭希顏皆七十餘始及第，時號五老榜，爲秘書曲校書郎。補詩一首。",
+          "sourceAuthorId": "66cf80f4-db5f-475b-b42d-a4fe02c0d601",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-6e5ceb963ae8b76e",
+        "yizhu-f4d7dc865dc69ed7"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-6e5ceb963ae8b76e"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-82167c4c3623",
+      "name": "曹邺",
+      "sourceBiographies": [
+        {
+          "sourceText": "曹鄴，字業一作鄴之，桂州人。登大中進士第，由天平幕府遷太常博士，歷祠部郎中、洋州刺史。詩二卷。",
+          "sourceAuthorId": "f6b51c59-f2f3-47f8-8d5b-38e48745f7ff",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-d9a1032d535ff756"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-d5662a18c97b",
+      "name": "朱存",
+      "sourceBiographies": [
+        {
+          "sourceText": "朱存，金陵人。詩一首。",
+          "sourceAuthorId": "bad50f1f-7129-472c-8ad2-4ebcd3d9d710",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-4c2a553eaf2c7949"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-5c6ce54e943e",
+      "name": "朱庆余",
+      "sourceBiographies": [
+        {
+          "sourceText": "朱慶餘，名可久，以字行，越州人。受知於張籍，登寶曆進士第。詩二卷。",
+          "sourceAuthorId": "33826d8b-2626-42f7-bcd1-c5acd8fda055",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-53090e31cb81eeb4"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-c43556ce4cb6",
+      "name": "李中",
+      "sourceBiographies": [
+        {
+          "sourceText": "李中，字有中，隴西人，仕南唐爲淦陽宰。《碧雲集》三卷，今編詩四卷。",
+          "sourceAuthorId": "051b930e-3c22-4c7b-8373-ece2bed07031",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-b5d7ae0bb7ab1551"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-ecd1b6c7daf4",
+      "name": "李咸用",
+      "sourceBiographies": [
+        {
+          "sourceText": "李咸用，與來鵬同時，工詩。不第，嘗應辟爲推官，有《披沙集》六卷，今編爲三卷。",
+          "sourceAuthorId": "f9e0f6a1-7146-4c74-a533-a0a2eeee6c6c",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-e8ea8df4901e92bf"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-e5ed99b81551",
+      "name": "李商隐",
+      "sourceBiographies": [
+        {
+          "sourceText": "李商隱，字義山，懷州河內人。令狐楚帥河陽，奇其文，使與諸子游。楚徙天平、宣武，皆表署巡官。開成二年，高鍇知貢舉，令狐綯雅善鍇，獎譽甚力，故擢進士第，調弘農尉，以忤觀察使，罷去。尋復官，又試拔萃中選。王茂元鎮河陽，愛其才，表掌書記，以子妻之，得侍御史。茂元死，來游京師，久不調，更依桂管觀察使鄭亞府爲判官，亞謫循州，商隱從之，凡三年乃歸。茂元與亞皆李德裕所善，綯以商隱爲忘家恩，謝不通。京兆尹盧弘正表爲府參軍，典箋奏。綯當國，商隱歸，窮自解，綯憾不置，弘正鎮徐州，表爲掌書記。久之，還朝，復干綯，乃補太學博士。柳仲郢節度劍南東川，辟判官、檢校工部員外郎，府罷，客滎陽卒。商隱初爲文，瑰邁奇古，及在令狐楚府，楚本工章奏，因授其學，商隱儷偶長短而繁縟過之。時溫[庭]廷筠、段成式俱用是相誇，號三十六體。《樊南甲集》二十卷、《乙集》二十卷，《玉溪生詩》三卷，今合編詩三卷。   李商隱字義山，號玉谿生，懷州河內人。生元和八年，大中十二年卒（據馮浩《玉谿生年譜》及岑仲勉《玉谿生年譜會箋平質》所推定。）補詩一首。",
+          "sourceAuthorId": "17ddf6b9-7076-45cf-be31-cf743784bbe9",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-4a3d7a099e66f8e6",
+        "yizhu-5ee627f18eec074b",
+        "yizhu-f566dae78afc131e",
+        "yizhu-cf2e4d3b499271f7",
+        "yizhu-2fd33e58a17815e5",
+        "yizhu-756f4b3f28ed8d37",
+        "yizhu-45eed1cfe099a082",
+        "yizhu-8b5779168e29571a",
+        "yizhu-024fc4ae363effa2",
+        "yizhu-9fb7e600caf01997",
+        "yizhu-5dc7d095fb080d99"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-f566dae78afc131e",
+        "yizhu-cf2e4d3b499271f7",
+        "yizhu-2fd33e58a17815e5",
+        "yizhu-8b5779168e29571a",
+        "yizhu-024fc4ae363effa2",
+        "yizhu-9fb7e600caf01997",
+        "yizhu-5dc7d095fb080d99"
+      ],
+      "userConfirmedPoemIds": [
+        "yizhu-5ee627f18eec074b"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-1b43526caf02",
+      "name": "李嘉祐",
+      "sourceBiographies": [
+        {
+          "sourceText": "李嘉祐，字從一，趙州人。天寶七年擢第，授秘書正字。坐事謫鄱江令，調江陰，入爲中臺郎。上元中，出爲台州刺史。大曆中，復爲袁州刺史，與嚴維、冷朝陽諸人友善。爲詩麗婉，有齊梁風。集一卷，今編詩二卷。",
+          "sourceAuthorId": "b6582665-d9aa-4446-9323-461712ed8a50",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-41ef8dccbf3a5af6",
+        "yizhu-d6d48b5f5a4a3c3c",
+        "yizhu-6e364bc4e812a8be"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-41ef8dccbf3a5af6",
+        "yizhu-d6d48b5f5a4a3c3c",
+        "yizhu-6e364bc4e812a8be"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-c9eb82f1a49c",
+      "name": "李山甫",
+      "sourceBiographies": [
+        {
+          "sourceText": "李山甫，咸通中累舉不第，依魏博幕府爲從事，嘗逮事樂彥禎、羅弘信父子。文筆雄健，名著一方。詩一卷。",
+          "sourceAuthorId": "26db398d-83ab-4071-9fce-c38ac49e34f7",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-ef4b64a328e660a5"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-401f2ee617a8",
+      "name": "李峤",
+      "sourceBiographies": [
+        {
+          "sourceText": "李嶠，字巨山，趙州贊皇人。兒時夢人遺雙筆，由是有文辭。弱冠擢進士第，始調安定尉，舉制策甲科。武后時，官鳳閣舍人，每有大手筆，皆特命嶠爲之，累遷鸞臺侍郎，知政事，封趙國公。景龍中，以特進守兵部尚書同中書門下三品。睿宗立，出刺懷州，明皇貶爲滁州別駕，改廬州。嶠富於才思，初與王、楊接踵，中與崔、蘇齊名，晚諸人沒，獨爲文章宿老，一時學者取法焉。集五十卷，今編詩五卷。",
+          "sourceAuthorId": "5222ef24-2258-46f7-b33f-5fefb57b56a6",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-cc29cfa96ef5d6f7",
+        "yizhu-00aadd974ccb2f62",
+        "yizhu-563d3a1e243438a3"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-cc29cfa96ef5d6f7"
+      ],
+      "userConfirmedPoemIds": [
+        "yizhu-563d3a1e243438a3"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-045530eed8b1",
+      "name": "李昂",
+      "sourceBiographies": [
+        {
+          "sourceText": "李昂，開元中考功員外郎。詩二首。",
+          "sourceAuthorId": "4835e3a8-cb3e-406b-bd92-c7fe981bca5b",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-799eb572a74c2576"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-43e73cef8a81",
+      "name": "李涉",
+      "sourceBiographies": [
+        {
+          "sourceText": "李涉，洛陽人。初與弟李渤同隱廬山，後應陳許辟。憲宗時，爲太子通事舍人，尋謫峽州司倉參軍。太和中，爲太學博士，復流康州，自號清谿子。集二卷，今編詩一卷。 李涉，洛陽人。初與弟李渤同隱廬山，後應陳許辟，憲宗時，爲太子通事舍人，尋謫峽州司倉參軍。太和中，爲太學博士，復流康州，自號清谿子。集二卷，今編詩一卷。 李涉，洛陽人，渤之兄。補詩一首。",
+          "sourceAuthorId": "916a18bf-0188-4719-8ba5-0727ca7d4e1f",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-bbe9b5e9cc702ead",
+        "yizhu-6f97236359abefda",
+        "yizhu-77cbe605a39dcb53"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-6f97236359abefda"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-b23f840ff52e",
+      "name": "李白",
+      "sourceBiographies": [
+        {
+          "sourceText": "李白，字太白，隴西成紀人，涼武昭王暠九世孫。或曰山東人，或曰蜀人。白少有逸才，志氣宏放，飄然有超世之心。初隱岷山，益州長史蘇頲見而異之曰：“是子天才英特，可比相如。”天寶初，至長安，往見賀知章。知章見其文，歎曰：“子謫仙人也。”言於明皇，召見金鑾殿，奏頌一篇。帝賜食，親爲調羹。有詔供奉翰林，白猶與酒徒飲於巿。帝坐沈香亭子，意有所感，欲得白爲樂章，召入，而白已醉。左右以水頮面，稍解，援筆成文，婉麗精切。帝愛其才，數宴見。白常侍帝，醉，使高力士脫鞾。力士素貴，恥之，摘其詩以激楊貴妃。帝欲官白，妃輙沮止。白自知不爲親近所容，懇求還山。帝賜金放還，乃浪跡江湖，終日沈飲。永王璘都督江陵，辟爲僚佐。璘謀亂，兵敗，白坐長流夜郎，會赦得還。族人陽冰爲當塗令，白往依之。代宗立，以左拾遺召，而白已卒。文宗時，詔以白歌詩、裴旻劒舞、張旭草書爲三絕云。集三十卷，今編詩二十五卷。",
+          "sourceAuthorId": "c9f24fee-b387-48bb-866a-7f30cdc279a0",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-b869dbec30a29d4f",
+        "yizhu-d8d5798e021c3cc0",
+        "yizhu-06fb59b10302e0ab",
+        "yizhu-be0e293b13631d5e",
+        "yizhu-9537f023a107654d",
+        "yizhu-4c147bd293553a25",
+        "yizhu-9edb0daf6e8f7316",
+        "yizhu-320270075e2d7b36",
+        "yizhu-1986426da5f5a531",
+        "yizhu-fa65414b4e32b147",
+        "yizhu-c87ae649c3486697",
+        "yizhu-2e11e33d054f031b",
+        "yizhu-521303c4df4b33ed",
+        "yizhu-f56a9762e749e12b",
+        "yizhu-4e50e9f30c8f00be",
+        "yizhu-772ff50ceeec074c",
+        "yizhu-ed1a664e75f21d24",
+        "yizhu-6d25139d54aa9567",
+        "yizhu-644d02502a0cd21b",
+        "yizhu-023c7ea7424c5d26",
+        "yizhu-4296d9b3bb48f3b6",
+        "yizhu-3bfb94e264ae3e4a",
+        "yizhu-3fb43f0fddd4f5d7",
+        "yizhu-02af59611398ae08",
+        "yizhu-8326588384876656",
+        "yizhu-b19e76bd6bae9b74",
+        "yizhu-4afdd0eb157e969d",
+        "yizhu-dde372cfe430385e",
+        "yizhu-a88d5c158f3213c7",
+        "yizhu-2cb4f2f447c87293",
+        "yizhu-f06b517781ff1b64",
+        "yizhu-56e927d173326589",
+        "yizhu-327f3041750d7096",
+        "yizhu-0a62ab779f1141d5",
+        "yizhu-56784ed87e28db70",
+        "yizhu-7a6b554f8ae37b2d",
+        "yizhu-6981c4e00ba1f533",
+        "yizhu-e85490ec49cfaa36",
+        "yizhu-ce23e08aebdf2696",
+        "yizhu-b798f6d8dcb3e17a",
+        "yizhu-054b5998ad63c3b9",
+        "yizhu-0f79730257d6c84c",
+        "yizhu-80628212b6f3e284",
+        "yizhu-fb3d752bef9a661e",
+        "yizhu-23049350661b66c9",
+        "yizhu-42bd9ca37fccffb5",
+        "yizhu-758d86baafcf84d9",
+        "yizhu-b241f1bb8b7f6f0c",
+        "yizhu-4f97d4634f016f6b",
+        "yizhu-816306623d0b747b",
+        "yizhu-5c0a7e0b2794a4d9",
+        "yizhu-e745437e567f41d0",
+        "yizhu-b6752b8d78ca848c",
+        "yizhu-c597ab7707f0b709",
+        "yizhu-35061b6c70d467b1"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-9edb0daf6e8f7316",
+        "yizhu-8326588384876656",
+        "yizhu-b19e76bd6bae9b74",
+        "yizhu-4afdd0eb157e969d",
+        "yizhu-dde372cfe430385e",
+        "yizhu-a88d5c158f3213c7",
+        "yizhu-2cb4f2f447c87293",
+        "yizhu-56784ed87e28db70",
+        "yizhu-7a6b554f8ae37b2d",
+        "yizhu-e85490ec49cfaa36",
+        "yizhu-23049350661b66c9",
+        "yizhu-42bd9ca37fccffb5",
+        "yizhu-758d86baafcf84d9",
+        "yizhu-b241f1bb8b7f6f0c",
+        "yizhu-4f97d4634f016f6b",
+        "yizhu-816306623d0b747b",
+        "yizhu-5c0a7e0b2794a4d9",
+        "yizhu-e745437e567f41d0",
+        "yizhu-b6752b8d78ca848c",
+        "yizhu-c597ab7707f0b709",
+        "yizhu-35061b6c70d467b1"
+      ],
+      "userConfirmedPoemIds": [
+        "yizhu-4c147bd293553a25",
+        "yizhu-320270075e2d7b36",
+        "yizhu-644d02502a0cd21b",
+        "yizhu-023c7ea7424c5d26",
+        "yizhu-02af59611398ae08",
+        "yizhu-0a62ab779f1141d5",
+        "yizhu-6981c4e00ba1f533",
+        "yizhu-054b5998ad63c3b9",
+        "yizhu-0f79730257d6c84c",
+        "yizhu-fb3d752bef9a661e"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-d569b7bd732c",
+      "name": "李益",
+      "sourceBiographies": [
+        {
+          "sourceText": "李益，字君虞，姑臧人。大曆四年登進士第，授鄭縣尉，久不調。益不得意，北遊河朔，幽州劉濟辟爲從事，嘗與濟詩，有怨望語。憲宗時，召爲祕書少監、集賢殿學士，自負才地，多所凌忽，爲衆不容。諫官舉其幽州詩句，降居散秩。俄復用爲祕書監，遷太子賓客、集賢學士、判院事，轉右散騎常侍。太和初，以禮部尚書致仕卒。益長於歌詩，貞元末，與宗人李賀齊名，每作一篇，教坊樂人以賂求取，唱爲供奉歌辭。其《征人歌》、《早行篇》，好事畫爲屏障。集一卷，今編詩二卷。",
+          "sourceAuthorId": "44c46282-131e-4541-8222-d5f36b186cd5",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-935dec6ac8fd0c00",
+        "yizhu-818223566f901515",
+        "yizhu-24c4c1ed56773f86",
+        "yizhu-0bb8231aede7d3c7",
+        "yizhu-fe4e20df21e2d54e"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-818223566f901515",
+        "yizhu-24c4c1ed56773f86"
+      ],
+      "userConfirmedPoemIds": [
+        "yizhu-fe4e20df21e2d54e"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-12cf177d29f8",
+      "name": "李约",
+      "sourceBiographies": [
+        {
+          "sourceText": "李約，字存博，汧公勉之子。自稱蕭齋，官兵員外郎。詩十首。",
+          "sourceAuthorId": "5482c330-a2bc-43e7-829b-2bdd17a56fdb",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-99192a9ba7f11e5c",
+        "yizhu-78debde2590249df",
+        "yizhu-e02774db02ea10ec",
+        "yizhu-f810f3e4aa0a372c"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-dd7e7eab9343",
+      "name": "李绅",
+      "sourceBiographies": [
+        {
+          "sourceText": "李紳，字公垂，潤州無錫人。爲人短小精悍，於詩最有名，時號短李。元和初，擢進士第，補國子助教，不樂輒去。李錡辟掌書記，錡抗命，不爲草表，幾見害。穆宗召爲右拾遺、翰林學士，與李德裕、元稹同時號三俊。歷中書舍人、御史中丞、戶部侍郎。敬宗立，李逢吉搆之，貶端州司馬，徙江州長史，遷滁、壽二州刺史，以太子賓客分司東都。太和中，擢浙東觀察使。開成初，遷河南尹、宣武節度使。武宗即位，召拜中書侍郎同平章事，進尚書右僕射，封趙郡公。居位四年，以檢校右僕射平章事節度淮南。卒，贈太尉，諡文肅。《追昔游詩》三卷，雜詩一卷，今合編爲四卷。     李紳字公垂，潤州無錫人，登元和元年武翊黃榜進士第，武宗會昌六年卒。補詩一首。",
+          "sourceAuthorId": "ae9cc624-259b-4885-8b37-9442fd6d5de9",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-79aa95ffb774867a",
+        "yizhu-edf0e274d41716b3"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-79aa95ffb774867a",
+        "yizhu-edf0e274d41716b3"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-4ceee2db1671",
+      "name": "李群玉",
+      "sourceBiographies": [
+        {
+          "sourceText": "李羣玉，字文山，[澧]灃州人。性曠逸，赴舉一上而止，惟以吟詠自適。裴休觀察湖南，延致之。及爲相，以詩論薦，授弘文館校書郎。未幾，乞假歸卒。集三卷，後集五卷，今編詩三卷。",
+          "sourceAuthorId": "0df5a45d-efe9-4b4f-be36-4ca79d1b0a22",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-b54b43c05b598b4b"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-c7b0626bfdbe",
+      "name": "李贺",
+      "sourceBiographies": [
+        {
+          "sourceText": "李賀，字長吉，系出鄭王後。七歲能辭章，韓愈、皇甫湜始聞未信，過其家，使賀賦詩，援筆輙就，自目曰《高軒過》，二人大驚，自是有名。賀每旦日出，騎弱馬，從小奚奴，背古錦囊，遇所得，書投囊中，及暮歸，足成之，率爲常。以父名晉肅，不肯舉進士。詩尚奇詭，絕去畦徑，當時無能效者。樂府數十篇，雲韶諸工皆合之弦管，仕爲協律郎，卒年二十七。詩四卷，外集一卷，今編詩五卷。",
+          "sourceAuthorId": "c5f95f75-00b0-4da7-b0dd-5b6b2f3efa0e",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-b822224df2a84a19",
+        "yizhu-85f57e822a5eff50",
+        "yizhu-e8d9e6396bc188a1",
+        "yizhu-d5f0476d20fdcad7",
+        "yizhu-d441bf7024700e22",
+        "yizhu-e1047d6a1b98b62f",
+        "yizhu-6f7c15f612a0db6a",
+        "yizhu-91791157de16a053",
+        "yizhu-931778f63317ae2f",
+        "yizhu-e61eda0514677988",
+        "yizhu-b23ff26692d6e06c",
+        "yizhu-6a89f8443daf5511",
+        "yizhu-e58391dc3d7a7da9",
+        "yizhu-ebf6519882f86188",
+        "yizhu-518916e637b5308f",
+        "yizhu-ff514011d4d442fe",
+        "yizhu-09aff3aad6d9ffda",
+        "yizhu-c4bf654a4cb4e9f8"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-b822224df2a84a19",
+        "yizhu-e8d9e6396bc188a1",
+        "yizhu-d5f0476d20fdcad7"
+      ],
+      "userConfirmedPoemIds": [
+        "yizhu-85f57e822a5eff50",
+        "yizhu-e1047d6a1b98b62f",
+        "yizhu-b23ff26692d6e06c",
+        "yizhu-6a89f8443daf5511"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-ebaa4238614b",
+      "name": "李远",
+      "sourceBiographies": [
+        {
+          "sourceText": "李遠，字求一作承古，蜀人。第太和進士，歷忠、建、江三州刺史，終御史中丞。集一卷。",
+          "sourceAuthorId": "e253c306-862d-45e9-b0be-f690cff97912",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-7cfccb86b79e93e4",
+        "yizhu-8c4e1084bf59eae2"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [
+        "yizhu-8c4e1084bf59eae2"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-d9268eefeead",
+      "name": "李郢",
+      "sourceBiographies": [
+        {
+          "sourceText": "李郢，字楚望，長安人。大中十年，第進士，官終侍御史。詩一卷。 李郢，字楚望，長安人。大中十年，第進士，官終侍御史。詩一卷。",
+          "sourceAuthorId": "1d1f8e7e-94f0-47db-b76f-d10f8155bfcc",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-7bfed4e00dd206bf"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-19f5c760a876",
+      "name": "李颀",
+      "sourceBiographies": [
+        {
+          "sourceText": "李頎，東川人，家於潁陽。擢開元十三年進士第，官新鄉尉。集一卷，今編詩三卷。",
+          "sourceAuthorId": "e7091833-f8c1-44a0-ae16-cf52c39c60f1",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-dbadcabcecec8ddd",
+        "yizhu-f0e9206644c72093",
+        "yizhu-fc339b59d5c62888",
+        "yizhu-b637454bda9c280b",
+        "yizhu-3f617ff867b72649",
+        "yizhu-53dc8a015852982a"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-fc339b59d5c62888",
+        "yizhu-b637454bda9c280b"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-746019fe9e5c",
+      "name": "李频",
+      "sourceBiographies": [
+        {
+          "sourceText": "李頻，字德新，睦州壽昌人。少秀悟，逮長，廬西山，多所記覽，其屬辭於詩尤長。給事中姚合名爲詩，士多歸重。頻走千里，丐其品，合大加獎挹，以女妻之。大中八年，擢進士第，調秘書郎，爲南陵主簿、判入等，再遷武功令，俄擢侍御史，守法不阿狥，遷累都官員外郎，表丐建州刺史，以禮法治下，建賴以安。卒官，父老爲立廟棃山，歲祠之。有《建州刺史集》一卷，又號《棃岳集》，今編爲三卷。   李頻，字德新，睦州壽昌人。少秀悟。逮長，廬西山，多所記覽，其屬辭於詩尤長。給事中姚合名爲詩，士多歸重。頻走千里，丐其品，合大加獎挹，以女妻之。大中八年，擢進士第，調祕書郎，爲南陵主簿、判入等，再遷武功令，俄擢侍御史，守法不阿徇，遷累都官員外郎，表丐建州刺史，以禮法治下，建賴以安，卒官，父老爲立廟梨山，歲祠之。有建州刺史集一卷，又號梨岳集，今編爲三卷。",
+          "sourceAuthorId": "19a6c4c6-187a-45a0-a6a4-c1764045b245",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-38e0d19550d22db5",
+        "yizhu-7921fcba7694703f",
+        "yizhu-a69b6050a14102a0"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-a69b6050a14102a0"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-f66c94d9050d",
+      "name": "杜牧",
+      "sourceBiographies": [
+        {
+          "sourceText": "杜牧，字牧之，京兆萬年人。太和二年，擢進士第，復舉賢良方正。沈傳師表爲江西團練府巡官，又爲牛僧孺淮南節度府掌書記，擢監察御史。移疾，分司東都，以弟顗病棄官。復爲宣州團練判官，拜殿中侍御史、內供奉。累遷左補闕、史館修撰，改膳部員外郎，歷黃、池、睦三州刺史。入爲司勳員外郎，常兼史職，改吏部，復乞爲湖州刺史。踰年，拜考功郎中、知制誥，遷中書舍人卒。牧剛直有奇節，不爲齪齪小謹，敢論列大事，指陳病利尤切。其詩情致豪邁，人號爲小杜，以別甫云。《樊川詩》四卷，外集詩一卷，別集詩一卷，今編爲八卷。       杜牧，字牧之，京兆萬年人。太和二年，擢進士第，復舉賢良方正。沈傳師表爲江西團練府巡官，又爲牛僧孺淮南節度府掌書記，擢監察御史，移疾，分司東都，以弟顗病棄官。復爲宣州團練判官，拜殿中侍御史、內供奉。累遷左補闕、史館修撰，改膳部員外郎，歷黃、池、睦三州刺史。入爲司勳員外郎，常兼史職。改吏部，復乞爲湖州刺史。踰年，拜考功郎中、知制誥，遷中書舍人，卒。牧剛直有奇節，不爲齪齪小謹，敢論列大事。指陳病利尤切。其詩情致豪邁。人號爲小杜，以別甫云。樊川詩四卷，外集詩一卷，別集詩一卷，今編爲八卷。    杜牧，字牧之，京兆萬年人。太和二年，擢進士第，復舉賢良方正。沈傳師表爲江西團練府巡官，又爲牛僧孺淮南節度府掌書記，擢監察御史，移疾，分司東都，以弟顗病棄官。復爲宣州團練判官，拜殿中侍御史、內供奉。累遷左補闕、史館修撰，改膳部員外郎，歷黃、池、睦三州刺史。入爲司勳員外郎，常兼史職。改吏部，復乞爲湖州刺史。踰年，拜考功郎中、知制誥，遷中書舍人，卒。牧剛直有奇節，不爲齪齪小謹，敢論列大事。指陳病利尤切。其詩情致豪邁。人號爲小杜，以別甫云。樊川詩四卷，外集詩一卷，別集詩一卷，今編爲八卷。 杜牧，字牧之，京兆萬年人。太和二年，擢進士第，復舉賢良方正。沈傳師表爲江西團練府巡官，又爲牛僧孺淮南節度府掌書記，擢監察御史，移疾，分司東都，以弟顗病棄官。復爲宣州團練判官，拜殿中侍御史、內供奉。累遷左補闕、史館修撰，改膳部員外郎，歷黃、池、睦三州刺史。入爲司勳員外郎，常兼史職。改吏部，復乞爲湖州刺史。踰年，拜考功郎中、知制誥，遷中書舍人，卒。牧剛直有奇節，不爲齪齪小謹，敢論列大事。指陳病利尤切。其詩情致豪邁。人號爲小杜，以別甫云。樊川詩四卷，外集詩一卷，別集詩一卷，今編爲八卷。 杜牧，字牧之，京兆萬年人。卒大中七年，五十一歲。（據岑仲勉先生作《李德裕會昌伐叛編證》一文所推定之結論。）補詩一首。",
+          "sourceAuthorId": "c0decb09-1133-44ee-8fa8-2386c17d68ae",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-c4adf6ab8ef4f9ed",
+        "yizhu-ceb3ce9e6f23d140",
+        "yizhu-ed9c3b19ab78dd76",
+        "yizhu-a8e4bcce1aceeed9",
+        "yizhu-b6dbef9cd6ad7146",
+        "yizhu-af6e40af1d96c5d2",
+        "yizhu-db89a0fed55d2ba6",
+        "yizhu-500eebb955553e13",
+        "yizhu-5b2e7f59909f37cb",
+        "yizhu-ddc441065e1d93be",
+        "yizhu-7a7d5743f02c6ad2",
+        "yizhu-009fb1a9c180ce4b"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-ceb3ce9e6f23d140",
+        "yizhu-ed9c3b19ab78dd76",
+        "yizhu-b6dbef9cd6ad7146",
+        "yizhu-af6e40af1d96c5d2",
+        "yizhu-db89a0fed55d2ba6",
+        "yizhu-500eebb955553e13",
+        "yizhu-5b2e7f59909f37cb",
+        "yizhu-ddc441065e1d93be",
+        "yizhu-7a7d5743f02c6ad2"
+      ],
+      "userConfirmedPoemIds": [
+        "yizhu-c4adf6ab8ef4f9ed",
+        "yizhu-a8e4bcce1aceeed9",
+        "yizhu-009fb1a9c180ce4b"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-d1a76721cd00",
+      "name": "杜甫",
+      "sourceBiographies": [
+        {
+          "sourceText": "杜甫，字子美，其先襄陽人，曾祖依藝爲鞏令，因居鞏。甫天寶初應進士，不第。後獻《三大禮賦》，明皇奇之，召試文章，授京兆府兵曹參軍。安祿山陷京師，肅宗即位靈武，甫自賊中遯赴行在，拜左拾遺。以論救房琯，出爲華州司功參軍。關輔饑亂，寓居同州同谷縣，身自負薪采梠，餔糒不給。久之，召補京兆府功曹，道阻不赴。嚴武鎮成都，奏爲參謀、檢校工部員外郎，賜緋。武與甫世舊，待遇甚厚。乃於成都浣花里種竹植樹，枕江結廬，縱酒嘯歌其中。武卒，甫無所依，乃之東蜀就高適，既至而適卒。是歲，蜀帥相攻殺，蜀大擾。甫攜家避亂荆楚，扁舟下峽，未維舟而江陵亦亂。乃泝沿湘流，遊衡山，寓居耒陽，卒年五十九。元和中，歸葬偃師首陽山，元稹志其墓。天寶間，甫與李白齊名，時稱李杜。然元稹之言曰：“李白壯浪縱恣，擺去拘束，誠亦差肩子美矣。至若鋪陳終始，排比聲韻，大或千言，次猶數百，詞氣豪邁，而風調清深，屬對律切，而脫棄凡近，則李尚不能歷其藩翰，況堂奧乎？”白居易亦云：“杜詩貫穿古今，盡工盡善，殆過於李。”元、白之論如此，蓋其出處勞佚，喜樂悲憤，好賢惡惡，一見之於詩，而又以忠君憂國，傷時念亂爲本旨。讀其詩，可以知其世，故當時謂之詩史。舊集詩文共六十卷，今編詩十九卷。                  杜甫，字子美，其先襄陽人，曾祖依藝爲鞏令，因居鞏。甫天寶初應進士，不第。後獻三大禮賦，明皇奇之，召試文章，授京兆府兵曹參軍。安祿山陷京師，肅宗即位靈武，甫自賊中遯赴行在，拜左拾遺，以論救房琯，出爲華州司功參軍，關輔饑亂，寓居同州同谷縣，身自負薪采梠，餔糒不給。久之，召補京兆府功曹，道阻不赴。嚴武鎮成都，奏爲參謀、檢校工部員外郎，賜緋，武與甫世舊，待遇甚厚，乃於成都浣花里種竹植樹，枕江結廬，縱酒嘯歌其中。武卒，甫無所依，乃之東蜀就高適，既至而適卒。是歲，蜀帥相攻殺，蜀大擾。甫攜家避亂荆楚，扁舟下峽，未維舟而江陵亦亂，乃泝沿湘流，遊衡山，寓居耒陽，卒年五十九。元和中，歸葬偃師首陽山，元稹志其墓。天寶間，甫與李白齊名，時稱李杜。然元稹之言曰：李白壯浪縱恣，擺去拘束，誠亦差肩子美矣。至若鋪陳終始，排比聲韻，大或千言，次猶數百，詞氣豪邁，而風調清深，屬對律切，而脫棄凡近，則李尚不能歷其藩翰，況堂奧乎？白居易亦云：杜詩貫穿古今，盡工盡善，殆過於李。元、白之論如此，蓋其出處勞佚，喜樂悲憤，好賢惡惡，一見之於詩，而又以忠君憂國，傷時念亂爲本旨。讀其詩，可以知其世，故當時謂之詩史。舊集詩文共六十卷，今編詩十九卷。  杜甫，字子美，其先襄陽人，曾祖依藝爲鞏令，因居鞏。甫天寶初應進士，不第。後獻三大禮賦，明皇奇之，召試文章，授京兆府兵曹參軍。安祿山陷京師，肅宗即位靈武，甫自賊中遯赴行在，拜左拾遺，以論救房琯，出爲華州司功參軍，關輔饑亂，寓居同州同谷縣，身自負薪采梠，餔糒不給。久之，召補京兆府功曹，道阻不赴。嚴武鎮成都，奏爲參謀、檢校工部員外郎，賜緋，武與甫世舊，待遇甚厚，乃於成都浣花里種竹植樹，枕江結廬，縱酒嘯歌其中。武卒，甫無所依，乃之東蜀就高適，既至而適卒。是歲，蜀帥相攻殺，蜀大擾。甫攜家避亂荆楚，扁舟下峽，未維舟而江陵亦亂，乃泝沿湘流，遊衡山，寓居耒陽，卒年五十九。元和中，歸葬偃師首陽山，元稹志其墓。天寶間，甫與李白齊名，時稱李杜。然元稹之言曰：李白壯浪縱恣，擺去拘束，誠亦差肩子美矣。至若鋪陳終始，排比聲韻，大或千言，次猶數百，詞氣豪邁，而風調清深，屬對律切，而脫棄凡近，則李尚不能歷其藩翰，況堂奧乎？白居易亦云：杜詩貫穿古今，盡工盡善，殆過於李。元、白之論如此，蓋其出處勞佚，喜樂悲憤，好賢惡惡，一見之於詩，而又以忠君憂國，傷時念亂爲本旨。讀其詩，可以知其世，故當時謂之詩史。舊集詩文共六十卷，今編詩十九卷。",
+          "sourceAuthorId": "23379253-f84b-4c79-a76c-ba53836f1a14",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-e20a1fe86feea9fb",
+        "yizhu-00076e7d82bc60a0",
+        "yizhu-1976296dba39c861",
+        "yizhu-f0459d560bf184b8",
+        "yizhu-962aef4e0fc331fa",
+        "yizhu-aaf4f486503e9bb2",
+        "yizhu-a6bdf70848c441ec",
+        "yizhu-c1c3b87ff02d6d3e",
+        "yizhu-59e46553b17227cf",
+        "yizhu-ade4087e0b09e485",
+        "yizhu-3ea255ae5fcb81d9",
+        "yizhu-86e0e301abeddce2",
+        "yizhu-b9a5af47e7d1ba0b",
+        "yizhu-544bd83c17680a2c",
+        "yizhu-413683288473521d",
+        "yizhu-73714dbbf0cf0ee3",
+        "yizhu-5616cf07291d6d09",
+        "yizhu-97fd080a94419b18",
+        "yizhu-efc93b63844fdae2",
+        "yizhu-54280f13d0c3b353",
+        "yizhu-37c10681bc23640f",
+        "yizhu-9ab84ffe5fb518ba",
+        "yizhu-fde4ac082c58ef2f",
+        "yizhu-740a80383c03c24f",
+        "yizhu-735dd29a9043df0c",
+        "yizhu-9f82912556994334",
+        "yizhu-f678d21b595b2c29",
+        "yizhu-30e5a723cd282cfd",
+        "yizhu-c196071b1bfd4db1",
+        "yizhu-59339b04d8546fa9",
+        "yizhu-8532b2840376f247",
+        "yizhu-bcb2760b2915b596",
+        "yizhu-57ad928e09e1204d",
+        "yizhu-0130438e20af81a9",
+        "yizhu-8b288388bb7ad81c",
+        "yizhu-7442f5f91d51afc7",
+        "yizhu-edc11eb22502bd9d",
+        "yizhu-fcb1dbc548790abd",
+        "yizhu-a4d60668f482e736",
+        "yizhu-59e007fb2c2b12fc",
+        "yizhu-bc59c6b363451f18",
+        "yizhu-6bfaa3a4465fdfb4",
+        "yizhu-11aa46e3ed9f0f50",
+        "yizhu-90894c8bddc9e2f2",
+        "yizhu-55d5c7536da19e20",
+        "yizhu-1fb68b69d11fdd30",
+        "yizhu-965141fedde3c207",
+        "yizhu-339e22da06691f7f",
+        "yizhu-60e8404df54fdde4",
+        "yizhu-865844629b1b6a22",
+        "yizhu-3a45270741e85e84",
+        "yizhu-15b768e34211dca5",
+        "yizhu-ce4519cbb3d9a7c1",
+        "yizhu-faa1afab6422f114",
+        "yizhu-3fd79d4d2fda009b",
+        "yizhu-2f668b18681cee44",
+        "yizhu-8bb9f44a87de3793",
+        "yizhu-dda57b49d8dab33a",
+        "yizhu-cd8c186b01f761e8",
+        "yizhu-30af601deb578e89",
+        "yizhu-d74d5c272cd1c4a2"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-e20a1fe86feea9fb",
+        "yizhu-00076e7d82bc60a0",
+        "yizhu-aaf4f486503e9bb2",
+        "yizhu-a6bdf70848c441ec",
+        "yizhu-ade4087e0b09e485",
+        "yizhu-3ea255ae5fcb81d9",
+        "yizhu-544bd83c17680a2c",
+        "yizhu-73714dbbf0cf0ee3",
+        "yizhu-30e5a723cd282cfd",
+        "yizhu-c196071b1bfd4db1",
+        "yizhu-59339b04d8546fa9",
+        "yizhu-8532b2840376f247",
+        "yizhu-bcb2760b2915b596",
+        "yizhu-57ad928e09e1204d",
+        "yizhu-0130438e20af81a9",
+        "yizhu-8b288388bb7ad81c",
+        "yizhu-bc59c6b363451f18",
+        "yizhu-6bfaa3a4465fdfb4",
+        "yizhu-11aa46e3ed9f0f50",
+        "yizhu-90894c8bddc9e2f2",
+        "yizhu-55d5c7536da19e20",
+        "yizhu-ce4519cbb3d9a7c1"
+      ],
+      "userConfirmedPoemIds": [
+        "yizhu-c1c3b87ff02d6d3e",
+        "yizhu-413683288473521d",
+        "yizhu-97fd080a94419b18",
+        "yizhu-59e007fb2c2b12fc",
+        "yizhu-965141fedde3c207",
+        "yizhu-339e22da06691f7f",
+        "yizhu-3a45270741e85e84",
+        "yizhu-faa1afab6422f114",
+        "yizhu-cd8c186b01f761e8",
+        "yizhu-30af601deb578e89"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-892030c12201",
+      "name": "杜荀鹤",
+      "sourceBiographies": [
+        {
+          "sourceText": "杜荀鶴，字彥之，池州人。有詩名，自號九華山人。大順二年，第一人擢第，復還舊山。宣州田頵遣至汴通好朱全忠，厚遇之，表授翰林學士、主客員外郎、知制誥，恃勢侮易縉紳，衆怒，欲殺之而未及。天祐初卒。自序其文爲《唐風集》十卷，今編詩三卷。   杜荀鶴，字彥之，池州人。有詩名，自號九華山人。大順二年，第一人擢第，復還舊山。宣州田頵遣至汴通好，朱全忠厚遇之，表授翰林學士、主客員外郎、知制誥，恃勢侮易縉紳，衆怒，欲殺之而未及。天祐初卒。自序其文爲唐風集十卷，今編詩三卷。",
+          "sourceAuthorId": "f1dea1de-2c32-4a70-9702-0689730a2812",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-43528a26a60da9d9",
+        "yizhu-9fbef28bdcaf2683",
+        "yizhu-5cae51f3d0aeb5b5",
+        "yizhu-29238e168c4826e9"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-43528a26a60da9d9",
+        "yizhu-5cae51f3d0aeb5b5",
+        "yizhu-29238e168c4826e9"
+      ],
+      "userConfirmedPoemIds": [
+        "yizhu-9fbef28bdcaf2683"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-8cef49cb6043",
+      "name": "杜𬱟",
+      "sourceBiographies": [
+        {
+          "sourceText": "杜頠，開元十五年同王昌齡登第。詩二首。",
+          "sourceAuthorId": "b0b1df55-b885-4329-abbd-f559bf77a4ec",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-8b4f474e96d75727"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-4fe17bc56907",
+      "name": "杨凝",
+      "sourceBiographies": [
+        {
+          "sourceText": "楊凝，字懋功。由協律郎三遷侍御史，爲司封員外郎，徙吏部。稍遷右司郎中，終兵部郎中。集二十卷，今存一卷。",
+          "sourceAuthorId": "13d123dd-24ec-4a44-ba33-867392db91d3",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-35892b792109c840"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-6c69cc1bbe8c",
+      "name": "杨巨源",
+      "sourceBiographies": [
+        {
+          "sourceText": "楊巨源，字景山，河中人。貞元五年擢進士第，爲張弘靖從事，由秘書郎擢太常博士、禮部員外郎。出爲鳳翔少尹，復召除國子司業，年七十致仕歸。時宰白以爲河中少尹，食其祿終身。集五卷，今編詩一卷。 楊巨源，字景山，河中人，貞元五年擢進士第，爲張弘靖從事，由祕書郎擢太常博士、禮部員外郎。出爲鳳翔少尹，復召除國子司業，年七十致仕歸，時宰白以爲河中少尹，食其祿終身。集五卷，今編詩一卷。",
+          "sourceAuthorId": "08b14256-c564-4489-be33-927205119c81",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-4dc4c7862cba36ec",
+        "yizhu-4581c35c062f94ac",
+        "yizhu-505e64ab2fe7f288"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-4581c35c062f94ac",
+        "yizhu-505e64ab2fe7f288"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-3cf956d07506",
+      "name": "杨敬之",
+      "sourceBiographies": [
+        {
+          "sourceText": "楊敬之，字茂孝。元和初，登進士第，擢累屯田、戶部二郎中。坐李宗閔黨，貶連州刺史。文宗向儒術，以敬之爲國子祭酒。詩二首。",
+          "sourceAuthorId": "ab535ed1-cf46-401e-b901-5df8ebb09e5c",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-2dead8a4a99296b0"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-2dead8a4a99296b0"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-c76fdfd7a05e",
+      "name": "杨炯",
+      "sourceBiographies": [
+        {
+          "sourceText": "楊炯，華陰人，幼聰敏博學，善屬文。年十一，舉神童，授校書郎，爲崇文館學士，遷詹事司直，恃才簡倨，人不容之。武后時，左轉梓州司法參軍，秩滿，遷婺州盈川令，卒於官。中宗即位，以舊僚贈著作郎。炯聞時人以四傑稱，乃自言曰：“吾愧在盧前，恥居王後。”張說曰：“楊盈川文思如懸河注水，酌之不竭，既優於盧，亦不減王也。”有盈川集三十卷，今存詩一卷。",
+          "sourceAuthorId": "df46e9a6-93d8-4fe8-ab85-6936a9ad0fcd",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-ff979f3398f01a49",
+        "yizhu-5d2a77f69f5531b7"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-d88c35018fc8",
+      "name": "杨行敏",
+      "sourceBiographies": [
+        {
+          "sourceText": "",
+          "sourceAuthorId": "62ca6d5e-d157-48e7-bdfa-c4b6afad1ca9",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-2e26c836691c7d17",
+        "yizhu-0a1aae450ace6aa2"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-5cdcdcf0a663",
+      "name": "杨达",
+      "sourceBiographies": [
+        {
+          "sourceText": "楊達，姚月華同時人。詩一首。（《全唐詩》卷七七六收楊達詩，但與此詩作者恐非一人。）",
+          "sourceAuthorId": "743cb80e-754a-4d49-ac64-0876297052b2",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-e1097ecfbc529291"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-e1984b26e01a",
+      "name": "柯崇",
+      "sourceBiographies": [
+        {
+          "sourceText": "柯崇，閩人，天復元年進士第，授太子校書。詩二首。",
+          "sourceAuthorId": "d0d77d95-7ff6-457c-806c-63032d3b340e",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-344e16b8d11b647c",
+        "yizhu-938fcefcf22d0904"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-9b9a59036ffc",
+      "name": "柳宗元",
+      "sourceBiographies": [
+        {
+          "sourceText": "柳宗元，字子厚，河東人。登進士第，應舉宏辭，授校書郎，調藍田尉。貞元十九年，爲監察御史裏行。王叔文、韋執誼用事，尤奇待宗元，擢尚書禮部員外郎。會叔文敗，貶永州司馬。宗元少精警絕倫，爲文章雄深雅健，踔厲風發，爲當時流輩所推仰。既罹竄逐，涉履蠻瘴，居閒益自刻苦。其堙厄感鬱，一寓諸文，讀者爲之悲惻。元和十年，移柳州刺史。江嶺間爲進士者，走數千里，從宗元遊。經指授者，爲文辭皆有法，世號柳柳州。元和十四年卒，年四十七。集四十五卷，內詩二卷，今編爲四卷。",
+          "sourceAuthorId": "dbb37cbd-be84-419a-a619-47c9e48e04a6",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-b834d350fdf1a4d4",
+        "yizhu-adf4b5cda2b88111",
+        "yizhu-d751fe033d52bba2",
+        "yizhu-dea79b5764566303"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-adf4b5cda2b88111",
+        "yizhu-d751fe033d52bba2",
+        "yizhu-dea79b5764566303"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-913c28c84530",
+      "name": "武元衡",
+      "sourceBiographies": [
+        {
+          "sourceText": "武元衡，字伯蒼，河南緱氏人。建中四年，登進士第。累辟使府，至監察御史，後改華原縣令。德宗知其才，召授比部員外郎。歲內，三遷至右司郎中，尋擢御史中丞。順宗立，罷爲右庶子。憲宗即位，復前官，進戶部侍郎。元和二年，拜門下侍郎平章事，尋出爲劍南節度使。八年，徴還秉政，早朝爲盜所害，贈司徒，諡忠愍。臨淮集十卷，今編詩二卷。   武元衡字伯蒼，河南緱氏人。憲宗朝宰相，元和十年六月癸卯早朝，爲盗所害，年五十八。補詩一首。",
+          "sourceAuthorId": "673def2a-df72-45ac-b66b-ad84724381b7",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-f4a4025020887e47"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-abb0fbd987bd",
+      "name": "江为",
+      "sourceBiographies": [
+        {
+          "sourceText": "江爲，宋州人。避亂家建陽，遊廬山，師陳貺爲詩。集一卷，今存詩八首。",
+          "sourceAuthorId": "2c295e1d-037e-4c56-af87-f798cee2799b",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-9375d176327f34de"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-c0aa06fcafd8",
+      "name": "汪遵",
+      "sourceBiographies": [
+        {
+          "sourceText": "汪遵，宣城人，幼爲縣吏，後辭役就貢。咸通七年，登進士第。詩一卷。 遵，宣城人，與許棠同鄉。幼爲小吏。咸通七年登進士第。流寓楚卒。王漁洋《五代詩話》作楚人。（《四部業刊》影印明刻本《詩話總龜》作江遵，周本淳校點本據清抄本改善汪遵，今據改。下同。另參張忱石《全唐詩人名索引》附考。）",
+          "sourceAuthorId": "644b5ee8-e190-46c4-ab1e-ba18ff83659e",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-e09359992e2b16fa"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-a6ebd1c7c793",
+      "name": "沈佺期",
+      "sourceBiographies": [
+        {
+          "sourceText": "沈佺期，字雲卿，相州內黃人。善屬文，尤長七言之作，擢進士第。長安中，累遷通事舍人，預修《三教珠英》，轉考功郎給事中，坐交張易之，流驩州，稍遷台州錄事參軍。神龍中，召見，拜起居郎，修文館直學士。歷中書舍人，太子少詹事，開元初卒。建安後，訖江左，詩律屢變，至沈約、庾信，以音韻相婉附，屬對精密。及佺期與宋之問，尤加靡麗，回忌聲病，約句準篇，如錦繡成文，學者宗之，號爲沈宋。語曰，蘇李居前，沈宋比肩。集十卷，今編詩三卷。   沈佺期，字雲卿，相州內黃人，善屬文，尤長七言之作，擢進士第，長安中，累遷通事舍人，預修三教珠英，轉考功郎給事中，坐交張易之，流驩州，稍遷台州錄事參軍。神龍中，召見，拜起居郎，修文館直學士，歷中書舍人，太子少詹事，開元初卒，建安後，訖江左，詩律屢變，至沈約、庾信，以音韻相婉附，屬對精密，及佺期與宋之問，尤加靡麗，回忌聲病，約句準篇，如錦繡成文，學者宗之，號爲沈宋。語曰，蘇李居前，沈宋比肩。集十卷，今編詩三卷。",
+          "sourceAuthorId": "e3813c1b-e287-4602-ac85-11dc1c4c9633",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-4a88216298c3a2f7"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-4a88216298c3a2f7"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-07496d24dd29",
+      "name": "沈彬",
+      "sourceBiographies": [
+        {
+          "sourceText": "沈彬，字子文，高安人。唐末應進士，不第。浪跡湖湘，嘗與僧虛中、齊己爲詩友，事吳爲秘書郎，以吏部郎中致仕。年八十餘，李璟以舊恩召見，賜粟帛，官其子。詩十九首。",
+          "sourceAuthorId": "49d09d65-92ee-43dd-a9f1-1d23f75b9ff0",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-c7c6ea136eb9dbfd"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-c7c6ea136eb9dbfd"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-59897fb9b4e6",
+      "name": "温庭筠",
+      "sourceBiographies": [
+        {
+          "sourceText": "溫庭筠，本名岐，字飛卿，太原人，宰相彥博裔孫。少敏悟，才思豔麗，韻格清拔，工爲詞章小賦，與李商隱皆有名，稱溫李。然行無檢幅，數舉進士不第，思神速，每入試，押官韻作賦，凡八叉手而成，時號溫八叉。徐商鎮襄陽，署爲巡官，不得志去，歸江東。後商知政事，頗右之，欲白用，會商罷相，楊收疾之，貶方城尉，再遷隋縣尉卒。集二十八卷，今編詩爲九卷。        溫庭筠，本名岐，字飛卿，太原人，宰相彥博裔孫。少敏悟，才思豔麗，韻格清拔，工爲詞章小賦，與李商隱皆有名，稱溫李。然行無檢幅，數舉進士不第，思神速，每入試，押官韻作賦，凡八叉手而成，時號溫八叉。徐商鎮襄陽，署爲巡官，不得志去，歸江東。後商知政事，頗右之，欲白用，會商罷相，楊收疾之，貶方城尉，再遷隋縣尉卒。集二十八卷，今編詩爲九卷。  溫庭筠，本名岐，字飛卿，太原人，宰相彥博裔孫。少敏悟，才思豔麗，韻格清拔，工爲詞章小賦，與李商隱皆有名，稱溫李。然行無檢幅，數舉進士不第，思神速，每入試，押官韻作賦，凡八叉手而成，時號溫八叉。徐商鎮襄陽，署爲巡官，不得志去，歸江東。後商知政事，頗右之，欲白用，會商罷相，楊收疾之，貶方城尉，再遷隋縣尉卒。集二十八卷，今編詩爲九卷。",
+          "sourceAuthorId": "d42f7cb0-5bba-4d5b-9810-c01815d8c793",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-6b983add49f6e31f",
+        "yizhu-b8a5b9a7e27f797c",
+        "yizhu-a96d004b090011ee"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-b8a5b9a7e27f797c",
+        "yizhu-a96d004b090011ee"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-4f635b98e764",
+      "name": "潘佑",
+      "sourceBiographies": [
+        {
+          "sourceText": "潘佑，幽州人，南唐時，累官虞部員外郎、內史舍人。《滎陽集》十卷，今存詩四首。",
+          "sourceAuthorId": "458918d8-a1b6-44cb-9338-181d6089e74f",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-5477200b570c10eb"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-a6f63b618ec4",
+      "name": "焦郁",
+      "sourceBiographies": [
+        {
+          "sourceText": "焦郁，元和間人。詩三首。",
+          "sourceAuthorId": "503529d4-5b09-4df2-a8b6-f5876ca57a20",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-09744d3cb97513c7"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-41d520853b04",
+      "name": "王勃",
+      "sourceBiographies": [
+        {
+          "sourceText": "王勃，字子安，絳州龍門人，文中子通之孫。六歲善文辭，未冠，應舉及第，授朝散郎，數獻頌闕下。沛王聞其名，召署府修撰。是時諸王鬬雞，勃戲爲文，檄英王雞，高宗斥之。勃既廢，客劍南，久之，補虢州參軍。坐事，復除名。勃父福畤，坐勃故，左遷交趾令，勃往交趾省父，渡海溺水，悸而卒，年二十八。勃好讀書，屬文初不精思，先磨墨數升，引被覆面而臥，忽起書之，不易一字，時人謂之腹藁。與楊炯、盧照鄰、駱賓王皆以文章齊名，天下稱王楊盧駱，號四傑。勃有集三十卷，今編詩二卷。",
+          "sourceAuthorId": "eaee4526-06e8-4038-83c7-7262edd19178",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-8091478d4d4dbd34",
+        "yizhu-a755a1abe8cba890",
+        "yizhu-6d2782686cad6d56"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-8091478d4d4dbd34"
+      ],
+      "userConfirmedPoemIds": [
+        "yizhu-a755a1abe8cba890"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-c84be1347cc6",
+      "name": "王宏",
+      "sourceBiographies": [
+        {
+          "sourceText": "王宏，濟南人。與太宗幼日同學問，爲八體書。及帝即位，因訪鄉人，竟傳隱去。詩一首。",
+          "sourceAuthorId": "5857f16b-1269-4af1-be95-72ab6b01bdaa",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-795963783fff04ff"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-603d100e6fa9",
+      "name": "王宠",
+      "sourceBiographies": [
+        {
+          "sourceText": "",
+          "sourceAuthorId": "d46e096a-2502-4e0d-b053-67b4df6a30f6",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-8421b10288cd8635"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-e68c49b0c2f4",
+      "name": "王建",
+      "sourceBiographies": [
+        {
+          "sourceText": "王建，字仲初，潁川人。大曆十年進士，初爲渭南尉，歷祕書丞、侍御史。太和中，出爲陝州司馬，從軍塞上，後歸咸陽，卜居原上。建工樂府，與張籍齊名，宮詞百首，尤傳誦人口。詩集十卷，今編爲六卷。      王建，字仲初，潁川人，大曆十年進士，初爲渭南尉，歷祕書丞、侍御史。太和中，出爲陝州司馬，從軍塞上，後歸咸陽，卜居原上，建工樂府，與張籍齊名，宮詞百首，尤傳誦人口。詩集十卷，今編爲六卷。",
+          "sourceAuthorId": "9e7ec19a-3d8c-4b67-abd7-bb4cc803ce4e",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-31e3dc791aaa3e8e",
+        "yizhu-d5fcfaf83a84a0df",
+        "yizhu-bcce570a2720b190"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-d5fcfaf83a84a0df",
+        "yizhu-bcce570a2720b190"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-b14c0c6ac0f6",
+      "name": "王昌龄",
+      "sourceBiographies": [
+        {
+          "sourceText": "王昌齡，字少伯，京兆人。登開元十五年進士第，補秘書郎。二十二年，中宏詞科，調汜水尉，遷江寧丞。晚節不護細行，貶龍標尉卒。昌齡詩緒密而思清，與高適、王[之渙]渙之齊名，時謂王江寧。集六卷，今編詩四卷。",
+          "sourceAuthorId": "a4a10e63-d822-47a6-9064-444a6d7a9ffa",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-5c7ef8edade62c44",
+        "yizhu-4914d1dd53fe35d7",
+        "yizhu-80e7043205276bda",
+        "yizhu-3da5a71eca324f84",
+        "yizhu-aafb675e8b63f9fd",
+        "yizhu-0c4ce7a61ed58f49",
+        "yizhu-5a9b178e69c4e4db",
+        "yizhu-78c7a15607d2f18a",
+        "yizhu-9eb865ce65811d46",
+        "yizhu-8c7f2b1d27e120f6",
+        "yizhu-0307047a2c6abbfc",
+        "yizhu-88f02630f779b839",
+        "yizhu-6d77f320d9e51557",
+        "yizhu-aa30df5d1f2a83fd",
+        "yizhu-370f725b350d3dd3",
+        "yizhu-d95748a9f81b9e1d",
+        "yizhu-2734d51f16d8cbe8",
+        "yizhu-c599ca66e0fb0806",
+        "yizhu-339188e48f43b469",
+        "yizhu-18786301629289de",
+        "yizhu-33e72a0447c118b2",
+        "yizhu-09508198c71cbd6e"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-18786301629289de",
+        "yizhu-33e72a0447c118b2"
+      ],
+      "userConfirmedPoemIds": [
+        "yizhu-aafb675e8b63f9fd",
+        "yizhu-9eb865ce65811d46",
+        "yizhu-370f725b350d3dd3",
+        "yizhu-d95748a9f81b9e1d",
+        "yizhu-09508198c71cbd6e"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-e1ac55962a0d",
+      "name": "王涯",
+      "sourceBiographies": [
+        {
+          "sourceText": "王涯，字廣津，太原人。博學，工屬文。貞元中，擢進士，又舉宏辭，調藍田尉，以左拾遺爲翰林學士，進起居舍人。憲宗元和初，貶虢州司馬，徙袁州刺史，以兵部員外郎召知制誥。再爲翰林學士，累遷工部侍郎。涯文有雅思，永貞、元和間，訓誥溫麗，多所槀定。拜中書侍郎、同中書門下平章事。尋罷，再遷吏部侍郎。穆宗立，出爲劒南、東川節度使。長慶三年，入爲御史大夫，遷戶部尚書、鹽鐵轉運使。敬宗寶曆時，復出領山南西道節度使。文宗嗣位，召拜太常卿，以吏部尚書總鹽鐵，歲中，進尚書右僕射、代郡公。久之，以本官同中書門下平章事，俄檢校司空、兼門下侍郎。李訓敗，乃及禍。集十卷，今編詩一卷。",
+          "sourceAuthorId": "76ac0589-e4ad-488e-bdb3-e3aa76967a89",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-abf87a122f126196",
+        "yizhu-7d19f5ae4fbc02e4",
+        "yizhu-4f773cb63d7a11c1",
+        "yizhu-e1bbc2d8c5192b4e",
+        "yizhu-41b63f91a30715e7"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-0f1947519d20",
+      "name": "王绩",
+      "sourceBiographies": [
+        {
+          "sourceText": "王績，字無功，絳州龍門人，文中子之弟。隋末，授祕書省正字，不樂在朝，求爲六合丞，嗜酒不任事，尋還鄉里。唐高祖武德初，以前官待詔門下省，時太樂署史焦革家善釀，績求爲丞。革死，棄官歸東皐著書，號東皐子。集五卷，今編詩一卷。 王績，字無功，絳州龍門人，文中子之弟。隋末，授祕書省正字，不樂在朝，求爲六合丞，嗜酒不任事，尋還鄉里。唐高祖武德初，以前官待詔門下省，時太樂署史焦革家善釀，績求爲丞。革死，棄官歸東臯著書，號東臯子，集五卷，今編詩一卷。",
+          "sourceAuthorId": "ec9b007a-4edc-47f0-8af9-384be7339ad1",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        },
+        {
+          "sourceText": "王績字無功，太原祁人。隋末大儒文中子王通之弟。貞觀十八年卒，年六十一。補詩一首。",
+          "sourceAuthorId": "24545951-5e18-436e-b7b7-ba8191227f84",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-24a386f1d0e1bb54"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [
+        "yizhu-24a386f1d0e1bb54"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-3dc14978a158",
+      "name": "王维",
+      "sourceBiographies": [
+        {
+          "sourceText": "王維，字摩詰，河東人。工書畫，與弟縉俱有俊才。開元九年，進士擢第，調太樂丞，坐累爲濟州司倉參軍。歷右拾遺、監察御史、左補闕、庫部郎中，拜吏部郎中。天寶末，爲給事中。安祿山陷兩都，維爲賊所得，服藥陽瘖，拘于菩提寺。祿山宴凝碧池，維潛賦詩悲悼，聞于行在。賦平，陷賊官三等定罪，特原之。責授太子中允，遷中庶子、中書舍人，復拜給事中，轉尚書右丞。維以詩名盛於開元、天寶間，寧薛諸王駙馬豪貴之門，無不拂席迎之。得宋之問輞川別墅，山水絕勝，與道友裴迪，浮舟往來，彈琴賦詩，嘯詠終日。篤於奉佛，晚年長齋禪誦。一日，忽索筆作書數紙，別弟縉及平生親故，舍筆而卒，贈祕書監。寶應中，代宗問縉：“朕常於諸王坐聞維樂章，今存幾何？”縉集詩六卷，文四卷，表上之。勅答云：“卿伯氏位列先朝，名高希代，抗行周雅，長揖楚辭，詩家者流，時論歸美，克成編錄，歎息良深。”殷璠謂：“維詩詞秀調雅，意新理愜，在泉成珠，著壁成繪。”蘇軾亦云：“維詩中有畫，畫中有詩也。”今編詩四卷。",
+          "sourceAuthorId": "0a9829cc-805b-4812-a86a-1b2aee6a69ad",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-68170c83f1106590",
+        "yizhu-e50f62e605ab8e0b",
+        "yizhu-3966bd162f79b1d4",
+        "yizhu-d82faeb7efdeb7f8",
+        "yizhu-7c8f5c19787c1286",
+        "yizhu-0d54a2651b87c2f2",
+        "yizhu-349c6169e45a856c",
+        "yizhu-e3280df4c4e8294a",
+        "yizhu-26703b205c4bca28"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-68170c83f1106590",
+        "yizhu-0d54a2651b87c2f2",
+        "yizhu-349c6169e45a856c"
+      ],
+      "userConfirmedPoemIds": [
+        "yizhu-e50f62e605ab8e0b",
+        "yizhu-d82faeb7efdeb7f8",
+        "yizhu-7c8f5c19787c1286",
+        "yizhu-26703b205c4bca28"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-afdec2e8577b",
+      "name": "王贞白",
+      "sourceBiographies": [
+        {
+          "sourceText": "王貞白，字有道，永豐人。乾寧二年張貽憲榜進士。後七年，始授校書郎。嘗與羅隱、方干、貫休同倡和。有《靈溪集》七卷，今編詩一卷。 王貞白，字有道，永豐人。乾寧二年張貽憲榜進士。後七年，始授校書郎。嘗與羅隱、方干、貫休同倡和。有靈溪集七卷，今編詩一卷。 王貞白字有道，永豐人。乾寧二年張貽憲榜進士。補詩十二首。",
+          "sourceAuthorId": "18576a5b-0d4c-4266-84e8-85895155467a",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-2dd8d0ec3b00b4c1",
+        "yizhu-1d9f5786bafeb3b1"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-e1299b92df50",
+      "name": "王驾",
+      "sourceBiographies": [
+        {
+          "sourceText": "王駕，字大用，河中人。大順元年登進士第，仕至禮部員外郎，自號守素先生。集六卷，今存詩六首。 王駕，字大用，河中人。大順元年登進士第，仕至禮部員外郎。自號守素先生。集六卷，今存詩六首。",
+          "sourceAuthorId": "9a23bff2-b883-4702-bb77-a8084c235acb",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-bdb70d2a52e032f4",
+        "yizhu-68e172d457be83ff"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-bdb70d2a52e032f4",
+        "yizhu-68e172d457be83ff"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-f3db4e2d5d1b",
+      "name": "田淳",
+      "sourceBiographies": [
+        {
+          "sourceText": "淳，孟蜀時進士。後任犀浦簿、龍遊令。詩一首。（《全唐詩》無田淳詩）",
+          "sourceAuthorId": "bc411a10-e9f1-4dd0-9f6e-8cee20fc341d",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-c72b980eade67521"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-4db0d950f314",
+      "name": "白居易",
+      "sourceBiographies": [
+        {
+          "sourceText": "白居易，字樂天，下邽人。貞元中，擢進士第，補校書郎。元和初，對制策，入等，調盩厔尉、集賢校理，尋召爲翰林學士、左拾遺，拜贊善大夫。以言事貶江州司馬，徙忠州刺史。穆宗初，徵爲主客郎中、知制誥，復乞外，歷杭、蘇二州刺史。文宗立，以祕書監召，遷刑部侍郎。俄移病，除太子賓客分司東都，拜河南尹。開成初，起爲同州刺史，不拜，改太子少傅。會昌初，以刑部尚書致仕。卒贈尚書右僕射，諡曰文。自號醉吟先生，亦稱香山居士。與同年元稹酬詠，號元白；與劉禹錫酬詠，號劉白。《長慶集》詩二十卷，後集詩十七卷，別集補遺二卷，今編詩三十九卷。                                     白居易，字樂天，下邽人。貞元中，擢進士第，補校書郎。元和初，對制策，入等，調盩厔尉、集賢校理，尋召爲翰林學士、左拾遺，拜贊善大夫。以言事貶江州司馬，徙忠州刺史。穆宗初，徵爲主客郎中、知制誥，復乞外，歷杭、蘇二州刺史。文宗立，以祕書監召，遷刑部侍郎。俄移病，除太子賓客分司東都，拜河南尹。開成初，起爲同州刺史，不拜，改太子少傅。會昌初，以刑部尚書致仕。卒贈尚書右僕射，諡曰文。自號醉吟先生，亦稱香山居士。與同年元稹酬詠，號元白；與劉禹錫酬詠，號劉白。《長慶集》詩二十卷，後集詩十七卷，別集補遺二卷，今編詩三十九卷。 白居易，字樂天，下邽人。貞元中，擢進士第，補校書郎。元和初，對制策，入等，調盩厔尉、集賢校理，尋召爲翰林學士、左拾遺，拜贊善大夫。以言事貶江州司馬，徙忠州刺史。穆宗初，徵爲主客郎中、知制誥，復乞外，歷杭、蘇二州刺史。文宗立，以祕書監召，遷刑部侍郎。俄移病，除太子賓客分司東都，拜河南尹。開成初，起爲同州刺史，不拜，改太子少傅。會昌初，以刑部尚書致仕。卒贈尚書右僕射，諡曰文。自號醉吟先生，亦稱香山居士。與同年元稹酬詠，號元白；與劉禹錫酬詠，號劉白。《長慶集》詩二十卷，後集詩十七卷，別集補遺二卷，今編詩三十九卷。  白居易，字樂天，下邽人。貞元中，擢進士第，補校書郎。元和初，對制策，入等，調盩厔尉、集賢校理，尋召爲翰林學士、左拾遺，拜贊善大夫。以言事貶江州司馬，徙忠州刺史。穆宗初，徵爲主客郎中、知制誥，復乞外，歷杭、蘇二州刺史。文宗立，以祕書監召，遷刑部侍郎。俄移病，除太子賓客分司東都，拜河南尹。開成初，起爲同州刺史，不拜，改太子少傅。會昌初，以刑部尚書致仕。卒贈尚書右僕射，諡曰文。自號醉吟先生，亦稱香山居士。與同年元稹酬詠，號元白；與劉禹錫酬詠，號劉白。長慶集詩二十卷，後集詩十七卷，別集補遺二卷，今編詩三十九卷。 白居易，字樂天，下邽人。貞元中，擢進士第，補校書郎。元和初，對制策，入等，調盩厔尉、集賢校理，尋召爲翰林學士、左拾遺，拜贊善大夫。以言事貶江州司馬，徙忠州刺史。穆宗初，徵爲主客郎中、知制誥，復乞外，歷杭、蘇二州刺史。文宗立，以祕書監召，遷刑部侍郎。俄移病，除太子賓客分司東都，拜河南尹。開成初，起爲同州刺史，不拜，改太子少傅。會昌初，以刑部尚書致仕。卒贈尚書右僕射，諡曰文。自號醉吟先生，亦稱香山居士。與同年元稹酬詠，號元白；與劉禹錫酬詠，號劉白。長慶集詩二十卷，後集詩十七卷，別集補遺二卷，今編詩三十九卷。 白居易字樂天，其先太原人，後遷居下邽。貞元十六年擢進士第，元和初又擢才識兼茂、明於禮用科。任左拾遺，出爲江州司馬，歷刺杭、蘇二州，以刑部尚書致仕。會昌六我卒，年七十五。補詩二首。（複出一首）",
+          "sourceAuthorId": "30911bfe-abb2-471d-9f59-1fe94901459d",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-84a9347da2380295",
+        "yizhu-d5e90af45bfdfc41",
+        "yizhu-e78f8bc91f044cc2",
+        "yizhu-b39c3ec3a2e80a17",
+        "yizhu-30ef606ee322f893",
+        "yizhu-bc1b3caba2bd8580",
+        "yizhu-6bec53728926e2a5",
+        "yizhu-7c1b880743ff8ce9",
+        "yizhu-bb88b6b5f2933dc8",
+        "yizhu-cca846aaf3b7b3f8",
+        "yizhu-50f6a48f21358e1e",
+        "yizhu-757fb0ec4264fedc",
+        "yizhu-b36e0246c6a17469",
+        "yizhu-13ebdd098d8ba7ab",
+        "yizhu-9d76b0c4272ccc67",
+        "yizhu-ae61b9ca2c32c7e4",
+        "yizhu-b0706b7475be6adb",
+        "yizhu-81103a41ebffcbf7",
+        "yizhu-a4c2ff60c459aec9",
+        "yizhu-d4a91b762895b1b0",
+        "yizhu-0368706708594f67",
+        "yizhu-7a68f7d48852feff"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-84a9347da2380295",
+        "yizhu-d5e90af45bfdfc41",
+        "yizhu-50f6a48f21358e1e",
+        "yizhu-b36e0246c6a17469",
+        "yizhu-13ebdd098d8ba7ab",
+        "yizhu-9d76b0c4272ccc67",
+        "yizhu-81103a41ebffcbf7",
+        "yizhu-a4c2ff60c459aec9",
+        "yizhu-d4a91b762895b1b0"
+      ],
+      "userConfirmedPoemIds": [
+        "yizhu-b39c3ec3a2e80a17",
+        "yizhu-b0706b7475be6adb"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-c1409aa2eb8b",
+      "name": "皇甫冉",
+      "sourceBiographies": [
+        {
+          "sourceText": "皇甫冉，字茂政，潤州丹陽人，晉高士謐之後。十歲能屬文，張九齡深器之。天寶十五載，舉進士第一，授無錫尉，歷左金吾兵曹。王縉爲河南帥，表掌書記。大曆初，累遷右補闕，奉使江表，卒於家。冉詩天機獨得，遠出情外。集三卷，今編詩二卷。  皇甫冉，字茂政，潤州丹陽人。晉高士謐之後，十歲能屬文，張九齡深器之。天寶十五載，舉進士第一，授無錫尉，歷左金吾兵曹，王縉爲河南帥，表掌書記。大曆初，累遷右補闕，奉使江表，卒於家，冉詩天機獨得，遠出情外。集三卷，今編詩二卷。 皇甫冉字茂政，安定執行，避地寓居丹陽。天寶十五載盧庚榜進士。大曆二年卒，年五十四（據獨孤及撰《唐故左補闕安定皇甫公集序》）。補詩一首。（復出一首）",
+          "sourceAuthorId": "c8b96765-1f05-47b2-9e29-9199151c2381",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-cc3e1f38f828b1f3",
+        "yizhu-9bd3734aea7535e0",
+        "yizhu-63bd1a6e30b39ec8"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-98edfa0ce946",
+      "name": "皇甫松",
+      "sourceBiographies": [
+        {
+          "sourceText": "皇甫松，湜之子，自稱檀欒子。詩十三首。 皇甫松，湜之子，自稱檀欒子。詩十三首。",
+          "sourceAuthorId": "37062e0e-9110-41cd-9fa9-382cc9ed45d4",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-59d4b6d8debb99e9",
+        "yizhu-e0d77712dccb128b"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-043f314546ed",
+      "name": "皎然",
+      "sourceBiographies": [
+        {
+          "sourceText": "皎然，名晝，姓謝氏，長城人，靈運十世孫也。居杼山，文章儁麗，顏真卿、韋應物竝重之，與之酬倡。貞元中，敕寫其文集，入於祕閣。詩七卷。        皎然，福州人。嗣靈峰。住福州長生山，世稱長生和尚。詩二首。（《全唐詩》卷八一五所收皎然爲貞元間僧，此爲另一人）",
+          "sourceAuthorId": "bb4ad56e-6b2d-4af7-b957-2025be7b7ced",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-ce5cda4f7793f0a9",
+        "yizhu-daac7c085de759fb",
+        "yizhu-2b610eb4b7e1ee2c",
+        "yizhu-6df4f6b7a59e8ab5",
+        "yizhu-e2d25770854e3dba"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-a8556564d340",
+      "name": "皮日休",
+      "sourceBiographies": [
+        {
+          "sourceText": "皮日休，字襲美，一字逸少，襄陽人。性傲誕，隱居鹿門，自號間氣布衣。咸通八年，登進士第。崔璞守蘇，辟軍事判官。入朝，授太常博士。黃巢陷長安，僞署學士，使爲讖文，疑其譏己，遂及禍。集二十八卷，今編詩九卷。           皮日休，字襲美，一字逸少，襄陽人，性傲誕，隱居鹿門，自號間氣布衣，咸通八年，登進士第，崔璞守蘇，辟軍事判官，入朝，授太常博士，黃巢陷長安，僞署學士，使爲讖文，疑其譏己，遂及禍。集二十八卷，今編詩九卷。 皮日休字襲美，一字逸少，襄陽人。補詩一首。",
+          "sourceAuthorId": "d40f2921-9c7e-4269-bc34-690f16c476d2",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-cd08297678958ae4",
+        "yizhu-7d60bd1b038b7df8",
+        "yizhu-6c12e64d898a7fd4",
+        "yizhu-b252c75f642efd11"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-cd08297678958ae4",
+        "yizhu-6c12e64d898a7fd4"
+      ],
+      "userConfirmedPoemIds": [
+        "yizhu-7d60bd1b038b7df8"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-9117971b93dc",
+      "name": "祖咏",
+      "sourceBiographies": [
+        {
+          "sourceText": "祖詠，洛陽人。登開元十二年進士第，與王維友善。詩一卷。",
+          "sourceAuthorId": "ad0c2f94-fc30-4693-aa87-4aeabcf876de",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-a95bf955adec4476"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-a95bf955adec4476"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-ab339193f5a0",
+      "name": "窦叔向",
+      "sourceBiographies": [
+        {
+          "sourceText": "竇叔向，字遺直，京兆人。代宗時，常衮爲相，引爲左拾遺、內供奉。衮貶，出爲溧水令。五子羣、常、牟、庠、鞏，皆工詞章，有《聯珠集》行於時。叔向工五言，名冠時輩。集七卷，今存詩九首。 竇叔向，字遺直，京兆人。代宗時，常袞爲相，引爲左拾遺、內供奉。袞貶，出爲溧水令。五子羣、常、牟、庠、鞏，皆工詞章，有聯珠集行於時，叔向工五言，名冠時輩。集七卷，今存詩九首。",
+          "sourceAuthorId": "06e56031-264e-4496-916b-e86a866d0222",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-6aa17caab9f8b2ea"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-6aa17caab9f8b2ea"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-1d66c2951dc7",
+      "name": "章怀太子",
+      "sourceBiographies": [
+        {
+          "sourceText": "太子名賢，字明允，高宗第六子。容止端重，甫數歲，讀書一覽輒不忘。上元二年，立爲皇太子。嘗詔集諸儒張大安等注《後漢書》。武后以明崇儼爲盜所殺，疑出太子之謀，誣搆而廢之。后得政，遂遇害。詩一首。",
+          "sourceAuthorId": "0fc43481-64f8-4539-82e0-3dc7c4038e96",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-0f13e4bff2e42d96"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-0f13e4bff2e42d96"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-14b4ffccd55a",
+      "name": "章谒",
+      "sourceBiographies": [
+        {
+          "sourceText": "章碣，孝標之子。登乾符進士第，後流落不知所終。詩一卷。",
+          "sourceAuthorId": "afcd951e-874b-4217-82b9-e8ff9eedfe9a",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-d19ba0f18fc616ce"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [
+        "yizhu-d19ba0f18fc616ce"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-a7fdbb4e4859",
+      "name": "童汉卿",
+      "sourceBiographies": [
+        {
+          "sourceText": "",
+          "sourceAuthorId": "d285fe3a-99d9-47c4-b6d5-c0eea2b02754",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-2414a9f8dc3df429"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-aa8876760875",
+      "name": "童翰卿",
+      "sourceBiographies": [
+        {
+          "sourceText": "童翰卿，大中、咸通間人。詩二首。",
+          "sourceAuthorId": "b9992e46-4a02-45a6-882f-d676daca0656",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-70b430ce476299eb"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-64c3d5d1c745",
+      "name": "罗隐",
+      "sourceBiographies": [
+        {
+          "sourceText": "羅隱，字昭諫，餘杭人。本名橫，十上不中第，遂更名，從事湖南淮潤，無所合。久之，歸投錢鏐，累官錢塘令、鎮海軍掌書記、節度判官、鹽鐵發運副使、著作佐郎，奏授司勳郎。朱全忠以諫議大夫召，不行。魏博羅紹威推爲叔父，表薦給事中，年七十七卒。隱少聰敏，既不得志，其詩以風剌爲主，有《歌詩集》十四卷，《甲乙集》三卷，外集一卷。今編詩十一卷。          羅隱，字昭諫，餘杭人。本名橫，十上不中第，遂更名。從事湖南淮潤，無所合，久之，歸投錢鏐，累官錢塘令、鎮海軍掌書記、節度判官、鹽鐵發運副使、著作佐郎，奏授司勳郎。朱全忠以諫議大夫召，不行。魏博羅紹威推爲叔父，表薦給事中，年七十七卒。隱少聰敏，既不得志，其詩以風剌爲主，有歌詩集十四卷，甲乙集三卷，外集一卷。今編詩十一卷。 羅隱，字昭諫，餘杭人。本名橫，十上不中第，遂更名，從事湖南淮潤，無所合，久之，歸投錢鏐，累官錢塘令、鎮海軍掌書記、節度判官、鹽鐵發運副使、著作佐郎，奏授司勳郎，朱全忠以諫議大夫召，不行。魏博羅紹威推爲叔父，表薦給事中，年七十七卒。隱少聰敏，既不得志，其詩以風剌爲主，有歌詩集十四卷，甲乙集三卷，外集一卷，今編詩十一卷。  羅隱字昭諫，餘杭人。後梁太祖開平三年卒，年七十七。補詩一首。",
+          "sourceAuthorId": "73a469dc-43f9-492b-9f3e-98e18b7e533e",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-aab295d979e333f2",
+        "yizhu-1a5b013193a6623b",
+        "yizhu-f56dd40a67e79437",
+        "yizhu-4d5a57c5a6a7500e"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-4d5a57c5a6a7500e"
+      ],
+      "userConfirmedPoemIds": [
+        "yizhu-1a5b013193a6623b"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-3feee8f6fe18",
+      "name": "翁宏",
+      "sourceBiographies": [
+        {
+          "sourceText": "翁宏，字大舉，桂州人。詩三首。 宏，字大舉，桂嶺人，寓居韶、賀間。",
+          "sourceAuthorId": "a1d05118-24e3-4c82-827f-cd7965e5ee20",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-0417cd3171644211"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [
+        "yizhu-0417cd3171644211"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-1d97a3dce048",
+      "name": "聂夷中",
+      "sourceBiographies": [
+        {
+          "sourceText": "聶夷中，字坦之，河東人。咸通十二年登第，官華陰尉。詩一卷。",
+          "sourceAuthorId": "cffe5078-65a3-4b73-9d54-6590b97ba7af",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-3aefc236bd838537"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-3aefc236bd838537"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-796a0d3d7cba",
+      "name": "胡令能",
+      "sourceBiographies": [
+        {
+          "sourceText": "胡令能，莆田隱者。少爲負局鎪釘之業，夢人剖其腹，以一卷書內之，遂能吟詠，遠近號爲胡釘鉸。詩四首。",
+          "sourceAuthorId": "75ee7d1c-5555-401f-9f15-9b993a0c4531",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-fee339f944357ac5"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-fee339f944357ac5"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-8ccd9d5a0cc5",
+      "name": "苏味道",
+      "sourceBiographies": [
+        {
+          "sourceText": "蘇味道，趙州欒城人，與里人李嶠俱以文翰顯，時人謂之蘇李。弱冠擢進士第，累轉咸陽尉，裴行儉引管書記。延載中，歷鳳閣舍人、檢校侍郎。證聖元年，出爲集州刺史，俄召拜天官侍郎。聖曆初，遷鳳閣侍郎同鳳閣鸞臺三品，前後居相位數載，多識臺閣故事。神龍時，坐張易之黨貶眉州刺史，還爲益州長史卒。集十五卷，今編詩一卷。",
+          "sourceAuthorId": "1984e783-841c-49b3-9f15-812adafd5242",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-7968f964d40de859"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-7968f964d40de859"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-c2c6a1d4e737",
+      "name": "苏颋",
+      "sourceBiographies": [
+        {
+          "sourceText": "蘇頲，字廷碩，瓌之子。幼敏悟，一覽至千言，輙覆誦，擢進士第，調烏程尉，舉賢良方正，歷監察御史。神龍中，遷給事中、脩文館學士、中書舍人。明皇愛其文，由工部侍郎進紫微侍郎，知政事，與李乂對掌書命。帝曰：“前世李嶠、蘇味道，文擅當時，號蘇李，今朕得頲及乂，何愧前人。”襲父封爵，號小許公。後罷爲益州長史，復入知吏部選事，卒，謚文憲。頲以文章顯，與燕國公張說稱望略等，世稱燕許。集三十卷，今編詩二卷。   蘇頲，字延碩，環之子。幼敏悟，一覽至千言，輒覆誦，擢進士第，調烏程尉，舉賢良方正，歷監察御史，神龍中，遷給事中、脩文館學士、中書舍人，明皇愛其文，由工部侍郎進紫微侍郎，知政事，與李乂對掌書命，帝曰，前世李嶠、蘇味道，文擅當時，號蘇李，今朕得頲及乂，何愧前人，襲父封爵，號小許公。後罷爲益州長史，復入知吏部選事，卒，謚文憲。頲以文章顯，與燕國公張說稱望略等，世稱燕許。集三十卷，今編詩二卷。",
+          "sourceAuthorId": "93a2c850-c875-4649-8c16-96e884fbb99e",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-6c1a66e4bccc7178"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-6c1a66e4bccc7178"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-62734684e6c9",
+      "name": "范夜",
+      "sourceBiographies": [
+        {
+          "sourceText": "",
+          "sourceAuthorId": "8ca950be-1ecc-4fc0-9a66-dd7c89c6c8d8",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-97d57663736eb833"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-150bf1379b9d",
+      "name": "葛鵶儿",
+      "sourceBiographies": [
+        {
+          "sourceText": "",
+          "sourceAuthorId": "3b9ff774-2322-4af4-8e86-5ef3bda576e2",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-14bae97899303583"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-14bae97899303583"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-de12322eba07",
+      "name": "董思恭",
+      "sourceBiographies": [
+        {
+          "sourceText": "董思恭，蘇州吳人，高宗時官中書舍人。初爲右史，後知考功舉，坐事流嶺表。所著篇詠，爲時所重。今存詩十九首。",
+          "sourceAuthorId": "ccecc1bb-eb6f-4fb5-be66-3bade24af40f",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-fdc1c5acb2d9fc2f"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-9fdaf5ba7e42",
+      "name": "薛涛",
+      "sourceBiographies": [
+        {
+          "sourceText": "薛濤，字洪度。本長安良家女，隨父宦，流落蜀中，遂入樂籍，辨慧工時，有林下風致。韋臯鎮蜀，召令侍酒賦詩，稱爲女校書。出入幕府，歷事十一鎮，皆以詩受知。暮年屏居浣花溪，著女冠服，好製松花小箋，時號薛濤箋。有《洪度集》一卷，今存編詩一卷。  薛濤字洪度，本長安人，隨父宦流落蜀中。文宗大和五年卒，年六十四。補詩二首。",
+          "sourceAuthorId": "f5420a2f-ceb8-4039-ad6e-7251d1852014",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-67ad7c7621c5748e",
+        "yizhu-8c8837ea9fb630fa"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-504b5969fd1f",
+      "name": "薛能",
+      "sourceBiographies": [
+        {
+          "sourceText": "薛能，字太拙，汾州人。登會昌六年進士第。大中末，書判中選，補盩厔尉，李福鎮滑，表署觀察判官，歷御史、都官刑部員外郎。福徙西蜀，奏以自副。咸通中，攝嘉州刺史，遷主客、度支、刑部郎中，權知京兆尹事，授工部尚書，節度徐州，徙忠武。廣明元年，徐軍戍溵水，經許，能以舊軍，館之城中，軍懼見襲。大將周岌乘衆疑逐能，自稱留後，因屠其家。能僻于詩，日賦一章，有集十卷，今編詩四卷。     薛能，字太拙，汾州人。登會昌六年進士第。大中末，書判中選，補盩厔尉，李福鎮滑，表署觀察判官，歷御史、都官刑部員外郎。福徙西蜀，奏以自副。咸通中，攝嘉州刺史，遷主客、度支、刑部郎中，權知京兆尹事，授工部尚書，節度徐州，徙忠武。廣明元年，徐軍戍溵水，經許。能以舊軍，館之城中，軍懼見襲。大將周岌乘衆疑逐能，自稱留後，因屠其家。能僻于詩，日賦一章，有集十卷，今編詩四卷。",
+          "sourceAuthorId": "d62cbac9-409f-4c33-9042-cf4ab7c9263f",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-7c3e46a24d1301cf",
+        "yizhu-cae009dbc93b55d2"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-cdba9c7f26bc",
+      "name": "薛逢",
+      "sourceBiographies": [
+        {
+          "sourceText": "薛逢，字陶臣，蒲州河東人。會昌初，擢進士第，授爲萬年尉，直弘文館，歷侍御史、尚書郎。出爲巴州刺史，復斥蓬州，尋以太常少卿召還，歷給事中，遷祕書監，卒。集十卷，今編詩一卷。",
+          "sourceAuthorId": "836bf652-34d2-4128-bfb5-84b33cc3a31c",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-7fe0deee62623bab",
+        "yizhu-2176ed558419cbc4",
+        "yizhu-0b4d98afb790e62c"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-0b4d98afb790e62c"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-a62d3a01360b",
+      "name": "薛郧、薛涛（传）",
+      "sourceBiographies": [],
+      "poemIds": [
+        "yizhu-3b1f1c62d138ecf8"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [
+        "yizhu-3b1f1c62d138ecf8"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-69af39239b17",
+      "name": "虞世南",
+      "sourceBiographies": [
+        {
+          "sourceText": "虞世南，字伯施，餘姚人。沈靜寡欲，精思讀書，至累旬不盥櫛，文章婉縟，見稱於僕射徐陵，由是有名。在隋，官秘書郎，十年不徙。入唐，爲秦府記室參軍，遷太子中舍人。太宗踐祚，歷弘文館學士、秘書監，卒諡文懿。太宗稱其德行、忠直、博學、文詞、書翰爲五絕。手詔魏王泰曰：“世南當代名臣，人倫準的，今其云亡，石渠、東觀中無復人矣。”集三十卷，今編詩一卷。",
+          "sourceAuthorId": "d49f99f5-9103-47f4-9679-5afe351ebd51",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-58528cd270f4a24d",
+        "yizhu-43a2a70d5929192d",
+        "yizhu-a57d736e983d8b03"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [
+        "yizhu-a57d736e983d8b03"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-bb846c7ba0f3",
+      "name": "袁朗",
+      "sourceBiographies": [
+        {
+          "sourceText": "袁朗，雍州長安人，勤學，好屬文，在陳釋褐祕書郎，甚爲江總所重。嘗製千字詩，當時以爲盛作。後主召入禁中，使爲《月賦》，染翰立成，遷太子洗馬。仕隋，爲儀曹郎。入唐，授齊王文學，轉給事中。貞觀初卒，太宗稱其謹厚，悼惜之。集十四卷，今存詩四首。",
+          "sourceAuthorId": "7f5b8321-3a66-4a98-8eae-a72d67d79920",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-bc69ee1059c1b8e7"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-ce42a42d80f3",
+      "name": "詹雄",
+      "sourceBiographies": [
+        {
+          "sourceText": "",
+          "sourceAuthorId": "57f5c661-8ebb-4d9a-b0da-d25bce583447",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-2e324834c7f69514"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-19d54a68664e",
+      "name": "许棠",
+      "sourceBiographies": [
+        {
+          "sourceText": "許棠，字文化，宣州涇縣人。咸通十二年，登進士第，授涇縣尉，又嘗爲江寧丞。集一卷，今編詩二卷。",
+          "sourceAuthorId": "9359b2e5-d3a8-48c4-979e-18471c9aeaad",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-f38eced556e2679f"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-d31e5b5e59e3",
+      "name": "许浑",
+      "sourceBiographies": [
+        {
+          "sourceText": "許渾，字用晦，丹陽人，故相圉師之後。太和六年進士第，爲當塗、太平二縣令，以病免，起潤州司馬。大中三年，爲監察御史，歷虞部員外郎，睦、郢二州刺史。潤州有丁卯橋，渾別墅在焉，因以名其集。集二卷，今編詩十一卷。             許渾字用晦，丹陽人，故相國圉師之後。登太和六年李珪榜進士第。補詩二首。",
+          "sourceAuthorId": "d14614b6-d1e2-4ceb-929f-dccd6729bbfe",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-2b3a9e48d77def9f",
+        "yizhu-8281c9158adaeff6",
+        "yizhu-ccdac5f31ab7c32a"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-2b3a9e48d77def9f",
+        "yizhu-8281c9158adaeff6"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-d2fca7ab6f6e",
+      "name": "谭用之",
+      "sourceBiographies": [
+        {
+          "sourceText": "譚用之，字藏用，五代末人。善爲詩，而官不達。詩一卷。",
+          "sourceAuthorId": "ff6cf23b-5732-4221-9c9d-0067b57c72de",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-3235391bcbbe2384"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-3235391bcbbe2384"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-7cb911002d6d",
+      "name": "贯休",
+      "sourceBiographies": [
+        {
+          "sourceText": "貫休，字德隱，俗姓姜氏，蘭谿人。七歲出家，日讀經書千字，過目不忘，既精奧義，詩亦奇險，兼工書畫。初爲吳越錢鏐所重，後謁成汭荆南。汭欲授書法，休曰：“須登壇乃授。”汭怒，遰放之黔。天復中，入益州，王建禮遇之，署號禪月大師，或呼爲得得來和尚，終於蜀，年八十一。初有《西嶽集》，吳融爲序，極稱之，後弟子曇域更名《寶月集》，其全集三十卷，已亡。胡震亨謂“宋睦州刻本多載他人詩，不足信”，其說亦不知何據，胡存詩僅三卷，今編十二卷。            貫休，字德隱，俗姓姜氏，蘭谿人。七歲出家，日讀經書千字，過目不忘，既精奧義，詩亦奇險，兼工書畫。初爲吳越錢鏐所重，後謁成汭荆南。汭欲授書法，休曰：須登壇乃授。汭怒，遞放之黔。天復中，入益州，王建禮遇之，署號禪月大師，或呼爲得得來和尚，終於蜀，年八十一。初有西嶽集，吳融爲序，極稱之，後弟子曇域更名寶月集，其全集三十卷，已亡。胡震亨謂宋睦州刻本多載他人詩，不足信，其說亦不知何據，胡存詩僅三卷，今編十二卷。 貫休，俗姓姜氏，字德隱，蘭谿人。補詩二首。",
+          "sourceAuthorId": "5c0b571b-6de6-475b-8818-d8155d362f65",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-1ca40efebb5bc4e1",
+        "yizhu-4d740991172ef78c"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-cbe534db1d62",
+      "name": "贺朝",
+      "sourceBiographies": [
+        {
+          "sourceText": "賀朝，越州人，官止山陰尉。詩八首。",
+          "sourceAuthorId": "a4f46bf4-38c2-4e8d-94ed-57197830ca1a",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-fb5ad925346a41bb"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-75e991dd1b8b",
+      "name": "贺知章",
+      "sourceBiographies": [
+        {
+          "sourceText": "賀知章，字季真，會稽永興人。少以文詞知名，擢進士，累遷太常博士。開元中，張說爲麗正殿修書使，奏請知章入書院，同撰《六典》及《文纂》。後轉太常少卿，遷禮部侍郎，加集賢院學士，改授工部侍郎，俄遷秘書監。知章性放曠，晚尤縱誕，自號四明狂客，醉後屬詞，動成卷軸。又善草隸，人共傳寶。天寶初，請爲道士還鄉里。詔賜《鏡湖剡川》一曲，御製詩以贈行，皇太子已下咸就執別，年八十六卒，肅宗贈禮部尚書。詩一卷。  賀知章字季真，會稽永興人。證聖初擢進士第，陸象先引爲太常博士，累遷祕書監。天寶三載請爲道士還鄉里，未幾卒，年八十六。補詩一首。",
+          "sourceAuthorId": "3379ae1d-ad39-42f1-aa77-0a168f065885",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-700df717b52858f7"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [
+        "yizhu-700df717b52858f7"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-ab8f3c273bbb",
+      "name": "贾岛",
+      "sourceBiographies": [
+        {
+          "sourceText": "賈島，字浪一作閬仙，范陽人。初爲浮屠，名無本。來東都時，洛陽令禁僧午後不得出，島爲詩自傷，韓愈憐之，因敎其爲文，遂去浮屠，舉進士。詩思入僻，當其苦吟，雖逢公卿貴人，不之覺也。累舉不中第，文宗時，坐飛謗，貶長江主簿。會昌初，以普州司倉參軍遷司戶，未受命卒。有《長江集》十卷，小集三卷，今編詩四卷。     賈島，字浪一作閬仙，范陽人。初爲浮屠，名無本。來東都時，洛陽令禁僧午後不得出，島爲詩自傷，韓愈憐之，因敎其爲文。遂去浮屠，舉進士。詩思入僻，當其苦吟，雖逢公卿貴人，不之覺也。累舉不中第。文宗時，坐飛謗，貶長江主簿。會昌初，以普州司倉參軍遷司戶，未受命卒。有長江集十卷，小集三卷，今編詩四卷。  賈島字浪仙，范陽人。初爲僧，法名無本。韓愈重其才，勸之還俗。文宗時爲長江（屬劍南道遂州）主簿，後改普州（亦屬劍南道）司倉參軍。武宗會昌三年七月卒，年六十四（據蘇絳撰《唐故司倉參軍賈公墓誌銘》）。補詩一首。",
+          "sourceAuthorId": "f2670833-4855-4d4e-9523-6e76091e2eee",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-e4a6874197df2930",
+        "yizhu-e0c7823d3af8fb4f",
+        "yizhu-fbee29955bd44e93",
+        "yizhu-6dff5ef67b41e83b"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-e4a6874197df2930",
+        "yizhu-e0c7823d3af8fb4f"
+      ],
+      "userConfirmedPoemIds": [
+        "yizhu-6dff5ef67b41e83b"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-ef3177269710",
+      "name": "贾至",
+      "sourceBiographies": [
+        {
+          "sourceText": "賈至，字幼鄰，洛陽人。父曾，開元初掌制誥，至擢明經第，爲單父尉，拜起居舍人、知制誥。父子繼美，帝常稱之。肅宗擢爲中書舍人，坐小法，貶岳州司馬。寶應初，召復故官，除尚書左丞。大曆初，封信都縣伯，遷京兆尹、右散騎常侍。卒，諡曰文，集十卷，今編詩一卷。",
+          "sourceAuthorId": "c661347d-c063-4eea-b3a6-8506c7b7489d",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-2f2678bfff98e963"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [
+        "yizhu-2f2678bfff98e963"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-8e84677bd960",
+      "name": "赵嘏",
+      "sourceBiographies": [
+        {
+          "sourceText": "趙嘏，字承祐，山陽人。會昌二年，登進士弟。大中間，仕至渭南尉卒，嘏爲詩贍美，多興味，杜牧嘗愛其“長笛一聲人倚樓”之句，吟歎不已，人因目爲趙倚樓。有《渭南集》三卷，編年詩二卷，今合編爲二卷。   趙嘏字承祐，山陽人。武宗會昌中登鄭言榜進士第。補詩一首。",
+          "sourceAuthorId": "5cd52905-b045-47c2-85ac-1ed3560eea06",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-d216aed3ea3fe698",
+        "yizhu-489fd89ead6d99c0"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-d216aed3ea3fe698"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-247dc3c449e8",
+      "name": "邵谒",
+      "sourceBiographies": [
+        {
+          "sourceText": "邵謁，韶州翁源縣人。少爲縣吏，令怒，逐去，遂截髻著縣門，發憤讀書。工古調，釋褐赴官，不知所終。詩一卷。",
+          "sourceAuthorId": "2c4e290a-207e-496d-b0b0-277bbeaddf13",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-95123a884d3af983"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-050248303f12",
+      "name": "郎士元",
+      "sourceBiographies": [
+        {
+          "sourceText": "郎士元，字君胄，中山人。天寶十五載擢進士第，寶應初，選畿縣官。詔試中書，補渭南尉。歷右拾遺，出爲郢州刺史，與錢起齊名。自丞相以下，出使作牧，二君無詩祖餞，時論鄙之，故語曰：“前有沈、宋，後有錢、郎。”集二卷，今編詩一卷。",
+          "sourceAuthorId": "63b8c7c6-78d9-48b0-8d3a-b9fec399c7b1",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-9f2e018f1b8609ea"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-9f2e018f1b8609ea"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-f55eb3f8cd8f",
+      "name": "郑愔",
+      "sourceBiographies": [
+        {
+          "sourceText": "鄭愔，字文靖，滄州人。年十七，進士擢第。天后時，張易之兄弟薦爲殿中侍御史。易之敗，貶宣州司戶。既而附武三思，累遷吏部侍郎，後預譙王重福謀，被誅。詩一卷。",
+          "sourceAuthorId": "86e135d6-5da2-49b1-afbf-81ea45ee411e",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-8e1b3dea51fdb704"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-5b28525042d1",
+      "name": "郑谷",
+      "sourceBiographies": [
+        {
+          "sourceText": "鄭谷，字守愚，袁州人。光啓三年擢第，官右拾遺，歷都官郎中。幼即能詩，名盛唐末。有《雲臺編》三卷，《宜陽集》三卷，外集三卷，今編詩四卷。",
+          "sourceAuthorId": "fc4490cb-c1d4-431f-b018-2ebbceabf3c3",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-2a4e57838fcc98bd",
+        "yizhu-3d6f9fe19a768d36"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-2a4e57838fcc98bd",
+        "yizhu-3d6f9fe19a768d36"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-7a2dbc8bb513",
+      "name": "钱珝",
+      "sourceBiographies": [
+        {
+          "sourceText": "錢珝，字瑞文，吏部尚書徽之子，善文詞。宰相王溥薦知制誥，進中書舍人，後貶撫州司馬。有《舟中錄》二十卷，今編詩一卷。",
+          "sourceAuthorId": "8f402dc5-9107-408c-bc89-c9075aa90d19",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-2edf2c8d3bc75b19"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [
+        "yizhu-2edf2c8d3bc75b19"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-3a6bf40ea4b0",
+      "name": "钱起",
+      "sourceBiographies": [
+        {
+          "sourceText": "錢起，字仲文，吳興人。天寶十載登進士第，官祕書省校書郎，終尚書考功郎中。大曆中，與韓翃、李端輩號十才子。詩格新奇，理致清贍。集十三卷，今編詩四卷。     錢起字仲文，吳興人。天寶十載李巨榜及第。大曆中，與韓翃、李端輩號十才子。補詩一首。",
+          "sourceAuthorId": "0afc7911-b074-4331-bf0b-be0e49a2dbce",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-488e461abecf4d5e",
+        "yizhu-f960609722c9d6cd",
+        "yizhu-d10285b4dbac0c56",
+        "yizhu-16c14547b5f4eea1",
+        "yizhu-ab71790033df766f",
+        "yizhu-528388c52025ac6b",
+        "yizhu-acdda2ab0b7de84e",
+        "yizhu-a5d5487811ac6076"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-488e461abecf4d5e",
+        "yizhu-ab71790033df766f",
+        "yizhu-528388c52025ac6b",
+        "yizhu-acdda2ab0b7de84e",
+        "yizhu-a5d5487811ac6076"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-38fb11c6df64",
+      "name": "陆龟蒙",
+      "sourceBiographies": [
+        {
+          "sourceText": "陸龜蒙，字魯望，蘇州人，元方七世孫。舉進士不第，辟蘇、湖二郡從事，退隱松江甫里，多所論撰，自號天隨子。以高士召，不赴。李蔚、虞攜素重之，及當國，召拜拾遺，詔方下卒。光化中，贈右補闕。集二十卷，今編詩十四卷。",
+          "sourceAuthorId": "37141540-d31f-4016-b1c0-0f45248e4abe",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-3af8fad9467ad698",
+        "yizhu-b9c3526b6fdd9115"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [
+        "yizhu-b9c3526b6fdd9115"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-717056771d22",
+      "name": "陈子昂",
+      "sourceBiographies": [
+        {
+          "sourceText": "陳子昂，字伯玉，梓州射洪人。少以富家子，尚氣決，好弋博，後遊鄉校，乃感悔修飭。初舉進士入京，不爲人知。有賣胡琴者，價百萬，子昂顧左右，輦千緡市之。衆驚問，子昂曰：“余善此。”曰：“可得聞乎？”曰：“明日可入宣陽里。”如期偕往，則酒肴畢具。奉琴語曰：“蜀人陳子昂，有文百軸，不爲人知，此賦工之伎，豈宜留心？”舉而碎之，以其文百軸徧贈會者。一日之內，名滿都下。擢進士第。武后朝，爲靈臺正字。數上書言事，遷右拾遺。武攸宜北討，表爲管記，軍中文翰，皆委之子昂。父爲縣令段簡所辱，子昂聞之，遽還鄉里，簡乃因事收繫獄中，憂憤而卒。唐興，文章承徐庾餘風，駢麗穠縟，子昂橫制頹波，始歸雅正，李杜以下，咸推宗之。集十卷，今編詩二卷。",
+          "sourceAuthorId": "cb7dbcc9-63f9-4ef0-aee2-d4b99fd366ee",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-5971557650b64586",
+        "yizhu-f98f00cd64b670ac",
+        "yizhu-2223ffac378a52a6",
+        "yizhu-5a625c9608482633"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-f98f00cd64b670ac",
+        "yizhu-5a625c9608482633"
+      ],
+      "userConfirmedPoemIds": [
+        "yizhu-5971557650b64586",
+        "yizhu-2223ffac378a52a6"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-a0c320f86926",
+      "name": "陈羽",
+      "sourceBiographies": [
+        {
+          "sourceText": "陳羽，江東人。登貞元進士第，歷官樂宮尉佐。詩一卷。",
+          "sourceAuthorId": "5ae26e41-52b1-4abf-9b0e-4fb0336eac15",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-8c90d3a1a8a7d113"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-bc8134d42b32",
+      "name": "陈陶",
+      "sourceBiographies": [
+        {
+          "sourceText": "陳陶，字嵩伯，嶺南一云鄱陽，一云劍浦人。大中時，遊學長安，南唐昇元中，隱洪州西山，後不知所終。詩十卷，今編爲二卷。",
+          "sourceAuthorId": "fb352359-7e7f-42ea-b777-0181bc1d9aeb",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-278b572a7cc57834",
+        "yizhu-b4f3f9251205244c",
+        "yizhu-7a6af1bc10cafca4"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-c552fcc4cc75",
+      "name": "雍陶",
+      "sourceBiographies": [
+        {
+          "sourceText": "雍陶，字國鈞，成都人，太和間第進士。大中八年，自國子毛詩博士出刺簡州。詩一卷。 雍陶字國鈞，成都人，大和八年陳寬榜進士及第。補詩一首。",
+          "sourceAuthorId": "599809db-834b-4917-8831-3b919c8a1737",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-c373ebb21b1af860"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-1536f92539ce",
+      "name": "霍总",
+      "sourceBiographies": [
+        {
+          "sourceText": "霍總，咸通時池州刺史，詩七首。",
+          "sourceAuthorId": "d182ddde-7af8-401a-91f5-6e14b60d5289",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-766a10459983b340"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-655ae6421abe",
+      "name": "韦庄",
+      "sourceBiographies": [
+        {
+          "sourceText": "韋莊，字端己，杜陵人，見素之後，疎曠不拘小節。乾寧元年第進士，授校書郎，轉補闕。李詢爲兩川宣諭和協使，辟爲判官，以中原多故，潛欲依王建。建辟爲掌書記，尋召爲起居舍人，建表留之，後相建爲平章事。集二十卷。今編詩五卷、補遺一卷。      韋莊，字端已，杜陵人，見素之後，疎曠不拘小節。乾寧元年第進士，授校書郎，轉補闕。李詢爲兩川宣諭和協使，辟爲判官，以中原多故，潛欲依王建，建辟爲掌書記，尋召爲起居舍人，建表留之，後相建爲平章事。集二十卷。今編詩五卷、補遺一卷。",
+          "sourceAuthorId": "1d129c74-b6d8-4c32-b989-99d9f979c2fb",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-7703652063004648",
+        "yizhu-63e3280d5508fc9a",
+        "yizhu-f00085a79d549589"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [
+        "yizhu-63e3280d5508fc9a"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-04f89aaec7be",
+      "name": "韦应物",
+      "sourceBiographies": [
+        {
+          "sourceText": "韋應物，京兆長安人。少以三衛郎事明皇，晚更折節讀書。永泰中，授京兆功曹，遷洛陽丞。大曆十四年，自鄠令制除櫟陽令，以疾辭不就。建中三年，拜比部員外郎，出爲滁州刺史。久之，調江州，追赴闕，改左司郎中，復出爲蘇州刺史。應物性高潔，所在焚香埽地而坐，唯顧況、劉長卿、丘丹、秦系、皎然之儔，得廁賓客，與之酬倡。其詩閑澹簡遠，人比之陶潛，稱陶韋云。集十卷，今編詩十卷。          韋應物，京兆長安人。少以三衛郎事明皇，晚更折節讀書。永泰中，授京兆功曹，遷洛陽丞。大曆十四年，自鄠令制除櫟陽令，以疾辭不就。建中三年，拜比部員外郎，出爲滁州刺史。久之，調江州，追赴闕，改左司郎中，復出爲蘇州刺史。應物性高潔，所在焚香掃地而坐，唯顧況、劉長卿、丘丹、秦系、皎然之儔，得廁賓客，與之酬倡。其詩閑澹簡遠，人比之陶潛，稱陶韋云。集十卷，今編詩十卷。 韋應物，京兆長安人。生開元二十五年。少以三衛郎事明皇。乾元間爲太學生，始折節讀書。永泰中爲洛陽丞。大曆間歷仕京兆府功曹參軍。十四年，自鄠縣令制除櫟陽令，公疾辭不就。建中中拜尚書比部員外郎，出爲滁州刺史。調江州。追赴闕，改左司郎中。復出爲蘇州刺史。約卒於貞元九年。其詩閑澹簡遠，人比之陶潛，稱陶韋云。補詩一首。",
+          "sourceAuthorId": "291d83cc-0172-4769-9eb9-93186f0b0bb9",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-8236d4a136e952ea",
+        "yizhu-7d2fbbf4acc64092"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-8236d4a136e952ea"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-79c37a59691c",
+      "name": "韦承庆",
+      "sourceBiographies": [
+        {
+          "sourceText": "韋承慶，字延休，鄭州陽武人，事繼母以孝聞。舉進士，官太子司議，屢有諫納。長壽中，累遷鳳閣侍郎，三掌天官選事，銓授平允，尋知政事。神龍初，坐附張易之，流嶺表，起爲秘書少監，授黃門侍郎，未拜卒。集六十卷，今存詩七首。",
+          "sourceAuthorId": "1a2f17fc-4959-4965-acd0-6e6c5c735a73",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-0a739f74d1513b2a",
+        "yizhu-dedf0340ba26f2dc"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [
+        "yizhu-0a739f74d1513b2a",
+        "yizhu-dedf0340ba26f2dc"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-1372f6ad6494",
+      "name": "韩偓",
+      "sourceBiographies": [
+        {
+          "sourceText": "韓偓，字致光一作堯，京兆萬年人。龍紀元年，擢進士第，佐河中幕府，召拜左拾遺，累遷諫議大夫，歷翰林學士、中書舍人、兵部侍郎。以不附朱全忠，貶濮州司馬，再貶榮懿尉，徙鄧州司馬。天祐二年，復原官，偓不赴召，南依王審知而卒。《翰林集》一卷，《香籢集》三卷，今合編四卷。    韓偓，字致光一作堯，京兆萬年人。龍紀元年，擢進士第，佐河中幕府，召拜左拾遺，累遷諫議大夫，歷翰林學士，中書舍人、兵部侍郎，以不附朱全忠，貶濮州司馬，再貶榮懿尉，徙鄧州司馬。天祐二年，復原官，偓不赴召，南依王審知而卒。翰林集一卷，香籢集三卷，今合編四卷。",
+          "sourceAuthorId": "6f7c6dc6-031d-4d59-bd7a-8ec0bdf37658",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-fa4d5fdc55520929",
+        "yizhu-d820d3e0ce4d3055",
+        "yizhu-6a9c887ca201be9f",
+        "yizhu-6a08a87994f04eda"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-d820d3e0ce4d3055"
+      ],
+      "userConfirmedPoemIds": [
+        "yizhu-6a08a87994f04eda"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-e64481990cc8",
+      "name": "韩愈",
+      "sourceBiographies": [
+        {
+          "sourceText": "韓愈，字退之，南陽人。少孤，刻苦爲學，盡通六經百家。貞元八年，擢進士第，才高，又好直言，累被黜貶。初爲監察御史，上疏極論時事，貶陽山令。元和中，再爲博士，改比部郎中、史館修撰，轉考功、知制誥，進中書舍人，又改庶子。裴度討淮西，請爲行軍司馬，以功遷刑部侍郎。諫迎佛骨，謫刺史潮州，移袁州。穆宗即位，召拜國子祭酒、兵部侍郎。使王廷湊，歸，轉吏部。爲時宰所搆，罷爲兵部侍郎，尋復吏部。卒，贈禮部尚書，諡曰文。愈自比孟軻，闢佛老異端，篤舊卹孤，好誘進後學，以之成名者甚衆。文自魏晉來，拘偶對，體日衰，至愈，一返之古。而爲詩豪放，不避麤險，格之變亦自愈始焉。集四十卷，內詩十卷，外集遺文十卷，內詩十八篇，今合編爲十卷。",
+          "sourceAuthorId": "b09cb1e1-03d0-4ffd-ad81-3c20266fd65c",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-59a335c4bc9a0977",
+        "yizhu-d0ef83f2f67206d2",
+        "yizhu-cc66abbcb2258a48",
+        "yizhu-05835816f18e6b27",
+        "yizhu-7b35012ff53b2316",
+        "yizhu-43e8885daeb22139",
+        "yizhu-9a921a4327366cdd",
+        "yizhu-9307b533647ccc6f",
+        "yizhu-bb03f382bce2924d",
+        "yizhu-19c79b8160027d5c"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-59a335c4bc9a0977",
+        "yizhu-cc66abbcb2258a48",
+        "yizhu-05835816f18e6b27",
+        "yizhu-7b35012ff53b2316"
+      ],
+      "userConfirmedPoemIds": [
+        "yizhu-d0ef83f2f67206d2",
+        "yizhu-9a921a4327366cdd",
+        "yizhu-19c79b8160027d5c"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-fc3d5e6a6cc9",
+      "name": "韩翃",
+      "sourceBiographies": [
+        {
+          "sourceText": "韓翃，字君平，南陽人。登天寶十三載進士第，淄青侯希逸，宣武李勉相繼辟幕府。建中初，以詩受知德宗，除駕部郎中、知制誥，擢中書舍人卒。翃與錢起、盧綸輩號大曆十才子，爲詩興致繁富，一篇一詠，朝野珍之。集五卷，今編詩三卷。   韓翃，字君平，南陽人。登天寶十三載進士第，淄青侯希逸，宣武李勉相繼辟幕府。建中初，以詩受知德宗，除駕部郎中、知制誥，擢中書舍人卒。翃與錢起、盧綸輩號大曆十才子，爲詩興致繁富，一篇一詠，朝野珍之，集五卷，今編詩三卷。 韓翃字君平，南陽人。天寶十三載楊紘榜進士。其詩興致繁富，人謂如芙蓉出水云。補詩二首。",
+          "sourceAuthorId": "77895f9a-8a15-4992-974c-58d1b01c372b",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-ba01378b4171eb26"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-76d58c2a6703",
+      "name": "项斯",
+      "sourceBiographies": [
+        {
+          "sourceText": "項斯，字子遷，江東人。會昌四年擢第，終丹徒尉。詩一卷。",
+          "sourceAuthorId": "657ade8f-f7a7-4440-9c51-4ceab3ab5142",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-8c87f013e815295d"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-d2627581c883",
+      "name": "顾云",
+      "sourceBiographies": [
+        {
+          "sourceText": "顧雲，字垂象，池州人。風韻詳整，與杜荀鶴、殷文圭友善，同肄業九華。咸通十五年登第，爲高駢淮南從事。[畢]師鐸之亂，退居霅川，杜門著書。大順中，與羊昭業、盧知猷、陸希聲、錢翊、馮渥、司空圖等分修宣懿[僖]德三朝實錄，書成，加虞部員外郎，乾寧初卒。存詩一卷。",
+          "sourceAuthorId": "44d45c55-d6a9-4165-b318-a4f60b04a4f6",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-59ad0ee2f55e52a6",
+        "yizhu-afe7136cc2af7e94"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-f1253bfd62ab",
+      "name": "顾况",
+      "sourceBiographies": [
+        {
+          "sourceText": "顧況，字逋翁，海鹽人。肅宗至德進士，長於歌詩，性好詼諧。嘗爲韓滉節度判官，與柳渾、李泌善。渾輔政，以校書徴。泌爲相，稍遷著作郎。悒悒不樂，求歸，坐詩語調謔，貶饒州司戶參軍。後隱茅山，以壽終。集二十卷，今編詩四卷。     顧況，字逋翁，海鹽人。肅宗至德進士，長於歌詩，性好詼諧，嘗爲韓滉節度判官，與柳渾、李泌善。渾輔政，以校書徴，泌爲相，稍遷著作郎。悒悒不樂，求歸，坐詩語調謔，貶饒州司戶參軍，後隱茅山，以壽終。集二十卷，今編詩四卷。",
+          "sourceAuthorId": "a6b9d980-d193-440f-9a68-9059e7de0b6e",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-cf6c2b9925f29c10",
+        "yizhu-002d821245c7cd5c"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-2e56dd13882f",
+      "name": "马戴",
+      "sourceBiographies": [
+        {
+          "sourceText": "馬戴，字虞臣，會昌四年進士第。宣宗大中初，太原李司空辟掌書記，以正言被斥爲龍陽尉。懿宗咸通末，佐大同軍幕，終太學博士。詩集一卷，今編二卷。",
+          "sourceAuthorId": "5233419b-71dc-4365-810c-516ecc58cb7a",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-c74de02f29c3ecb9",
+        "yizhu-bf43fb24db480c18"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-5c0e97ea4bec",
+      "name": "骆宾王",
+      "sourceBiographies": [
+        {
+          "sourceText": "駱賓王，義烏人。七歲能屬文，尤妙於五言詩，嘗作《帝京篇》，當時以爲絕唱。初爲道王府屬，歷武功主簿，又調長安主簿。武后時，左遷臨海丞，怏怏失志，棄官去。徐敬業舉義，署爲府屬，爲敬業草檄，斥武后罪狀。后讀之，矍然歎曰：“宰相安得失此人？”敬業事敗，賓王亡命，不知所終。中宗時，詔求其文，得數百篇，集成十卷，今編詩爲三卷。",
+          "sourceAuthorId": "8273f36f-2e1d-4891-b19b-5ea766fc9ee1",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-6552f73df161fd2a",
+        "yizhu-5ae3131b9e1a5354",
+        "yizhu-01d674b9f7d2610c"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-5ae3131b9e1a5354",
+        "yizhu-01d674b9f7d2610c"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-204557271651",
+      "name": "高蟾",
+      "sourceBiographies": [
+        {
+          "sourceText": "高蟾，河朔人。乾符三年，登進士第。乾寧間，爲御史中丞。詩一卷。",
+          "sourceAuthorId": "9ef44ab6-ad91-45a6-8d7d-a648210bc609",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-a6a7e2200f3b8792"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-a6a7e2200f3b8792"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-5692ef6e246e",
+      "name": "高适",
+      "sourceBiographies": [
+        {
+          "sourceText": "高適，字達夫，渤海蓚人。舉有道科，釋褐封丘尉，不得志，去游河右。哥舒翰表爲左驍衛兵曹、掌書記，進左拾遺，轉監察御史。潼關失守，適奔赴行在，擢諫議大夫，節度淮南。李輔國譖之，左授太子少詹事，出爲蜀、彭二州刺史。進成都尹、劒南西川節度使。召爲刑部侍郎，轉散騎常侍，封渤海縣侯。永泰二年卒，贈禮部尚書，諡曰忠。適喜功名，尚節義，年過五十，始學爲詩。以氣質自高，每吟一篇，已爲好事者傳誦。開、寶以來，詩人之達者，惟適而已。集二卷，今編四卷。",
+          "sourceAuthorId": "776aa2d1-2611-44eb-88cd-f71e110255b4",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-a81faf7f6003c564",
+        "yizhu-7722f01fc965d3d1",
+        "yizhu-79f5b8acd86596c1",
+        "yizhu-9e5cda572cf07a2f",
+        "yizhu-30a530ead9358cb8",
+        "yizhu-8f799f1c3c3b03a9",
+        "yizhu-49decbc0d045a891",
+        "yizhu-756acb8e1399fae9",
+        "yizhu-9faa3a24581f1c0d",
+        "yizhu-61bf98cd957e268b"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-79f5b8acd86596c1",
+        "yizhu-9e5cda572cf07a2f",
+        "yizhu-30a530ead9358cb8",
+        "yizhu-8f799f1c3c3b03a9",
+        "yizhu-756acb8e1399fae9",
+        "yizhu-9faa3a24581f1c0d",
+        "yizhu-61bf98cd957e268b"
+      ],
+      "userConfirmedPoemIds": [
+        "yizhu-a81faf7f6003c564",
+        "yizhu-49decbc0d045a891"
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-30a40d55b51c",
+      "name": "高骈",
+      "sourceBiographies": [
+        {
+          "sourceText": "高駢，字千里，南平郡王崇文之孫。家世禁衛，幼頗修飭，折節爲文學。初事朱叔明爲司馬，後歷右神策軍都虞侯、秦州刺史。咸通中，拜安南都護，進檢校刑部尚書，以都護府爲靜海軍，授駢節度，兼諸道行營招討使。僖宗立，加同中書門下平章事，遷劒南西川節度，進檢校司徒，封燕國公。徙荆南節度，加諸道行營都統、鹽鐵轉運等使，俄徙淮南節度副大使。廣明初，進檢校太尉、東面都統、京西京北神策軍諸道兵馬等使，封渤海郡王，爲部將畢師鐸所害。詩一卷。 高駢字千里，南平郡王高崇文之孫，卒僖宗光啓三年。補詩四句。",
+          "sourceAuthorId": "38432d51-6b73-41d2-8df1-71c52aea0667",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-ced3d8a8916a0c1d"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-ced3d8a8916a0c1d"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-021bef5b65f7",
+      "name": "鲍溶",
+      "sourceBiographies": [
+        {
+          "sourceText": "鮑溶，字德源，元和進士第，與韓愈、李正封、孟郊友善。集五卷，今編詩三卷。    鮑溶字德源，元和四年韋瓘榜進士第。補詩一首。",
+          "sourceAuthorId": "11289b06-5a69-43a6-bbb8-98bc7e15ec06",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-aea68e052b08ba8f"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-c1de53564f11",
+      "name": "黄巢",
+      "sourceBiographies": [
+        {
+          "sourceText": "黃巢，寃句人。舉進士不第，廣明作亂，破京都，後滅于泰山狼虎谷。詩三首。",
+          "sourceAuthorId": "a062b987-27d8-4706-acac-8707dd87cd89",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-3d0f6856233727f7",
+        "yizhu-eab3b6f8629dd93b"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-3d0f6856233727f7",
+        "yizhu-eab3b6f8629dd93b"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-b065287a62cd",
+      "name": "黄滔",
+      "sourceBiographies": [
+        {
+          "sourceText": "黃滔，字文江，莆田人。昭宗乾寧二年，擢進士第。光化中，除四門博士，尋遷監察御史裏行，充威武軍節度推官。王審知據有全閩，而終其身爲節將者，滔規正有力焉。集十五卷，今編詩三卷。   黃滔字文江，莆田人。補詩一首。",
+          "sourceAuthorId": "ebae6edb-03e9-4d62-812f-c2bd9db0a902",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-60a9235edce41052",
+        "yizhu-8a72e5b311dd1e42"
+      ],
+      "provisionallyMatchedPoemIds": [],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    },
+    {
+      "id": "author-1459891ab11e",
+      "name": "齐己",
+      "sourceBiographies": [
+        {
+          "sourceText": "齊己，名得生，姓胡氏，潭之益陽人。出家大潙山同慶寺，復棲衡嶽東林。後欲入蜀，經江陵，高從誨留爲僧正，居之龍興寺，自號衡嶽沙門。《白蓮集》十卷，外編一卷，今編詩十卷。          齊己，名得生，姓胡氏，潭之益陽人。出家大潙山同慶寺，復棲衡嶽東林。後欲入蜀，經江陵，高從誨留爲僧正，居之龍興寺，自號衡嶽沙門。白蓮集十卷，外編一卷，今編詩十卷。",
+          "sourceAuthorId": "7fc0424d-5546-4ecc-a5dc-11a7b08d8228",
+          "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/authors.tang.json"
+        }
+      ],
+      "poemIds": [
+        "yizhu-0e4bcc6b9b43e4c2"
+      ],
+      "provisionallyMatchedPoemIds": [
+        "yizhu-0e4bcc6b9b43e4c2"
+      ],
+      "userConfirmedPoemIds": [],
+      "birthYear": null,
+      "deathYear": null,
+      "notice": "姓名与小传保留来源；未逐位统一别称或抽取未经验证的生卒年。"
+    }
+  ]
+}

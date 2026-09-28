@@ -1,0 +1,3978 @@
+{
+  "stats": {
+    "recordCount": 1073,
+    "authorCount": 88,
+    "selectedSourceRecordCount": 1146,
+    "newCandidateCount": 863,
+    "reviewBeforeInclusionCount": 7,
+    "alreadyInAppCount": 203,
+    "bookConfirmedCount": 4,
+    "qianjiashiComparisonCount": 59,
+    "sourceVersionsMerged": 81,
+    "withWitnessCount": 141,
+    "withTextVariantsCount": 79,
+    "groupCount": 97,
+    "selectionRequestCount": 715,
+    "unresolvedRequestCount": 2,
+    "uniqueExistingAppPoemCount": 202,
+    "genreCounts": {
+      "五言绝句": 159,
+      "七言绝句": 397,
+      "六言绝句": 9,
+      "五言律诗": 171,
+      "七言律诗": 118,
+      "五言排律": 1,
+      "五言古诗": 84,
+      "七言古诗": 34,
+      "乐府": 72,
+      "杂言古诗": 27,
+      "六言律诗": 1
+    },
+    "issueCounts": {
+      "existing-library-author-differs": 2,
+      "attribution-or-edition-review": 3,
+      "embedded-annotations-separated": 12,
+      "title-variant-review": 4,
+      "editorially-supplied-reading": 8,
+      "witness-cycle-numbering-differs": 4,
+      "mixed-length-verse-review": 50,
+      "source-editorial-markers": 1
+    }
+  },
+  "mergedVersions": [
+    {
+      "retainedId": "yizhu-06fb59b10302e0ab",
+      "mergedSourceId": "8da2fb55-b15b-4e42-a060-a7dddacbc6d3",
+      "title": "從軍行"
+    },
+    {
+      "retainedId": "yizhu-be0e293b13631d5e",
+      "mergedSourceId": "32fdc25f-0345-4675-a120-5ba61540eae0",
+      "title": "從軍行"
+    },
+    {
+      "retainedId": "yizhu-82c8bd21249aa8f1",
+      "mergedSourceId": "6b5af006-ef8b-4e17-8109-a2824e4e720f",
+      "title": "俠客行"
+    },
+    {
+      "retainedId": "yizhu-0d483753404a3771",
+      "mergedSourceId": "8b867382-97cb-47c3-aa9a-c3fe87346200",
+      "title": "長干行二首 一"
+    },
+    {
+      "retainedId": "yizhu-864f5b7a22ae36aa",
+      "mergedSourceId": "3c1693fc-f4e6-43b7-a66f-6379c3a26eef",
+      "title": "長相思"
+    },
+    {
+      "retainedId": "yizhu-13dab86f56661c91",
+      "mergedSourceId": "427d3ea5-681b-4689-90f4-6da4f116ef11",
+      "title": "長相思 一"
+    },
+    {
+      "retainedId": "yizhu-9c2b56d4aa132a61",
+      "mergedSourceId": "d5da9d7d-1e52-4992-8be5-73e556b07e0b",
+      "title": "清平調 一"
+    },
+    {
+      "retainedId": "yizhu-f5e87e3315bac4ec",
+      "mergedSourceId": "59063901-7dbc-4f22-974f-ddccab675cbc",
+      "title": "清平調 二"
+    },
+    {
+      "retainedId": "yizhu-3f5c95eeaa2e0824",
+      "mergedSourceId": "f51e574b-61c2-45fb-b60d-2de4ecae9ce3",
+      "title": "白頭吟"
+    },
+    {
+      "retainedId": "yizhu-8cd24d26e90c8147",
+      "mergedSourceId": "716047ac-0c4b-4cf0-8eab-b2e93d55bf19",
+      "title": "怨歌行"
+    },
+    {
+      "retainedId": "yizhu-d1c6ec1563a6a588",
+      "mergedSourceId": "c38a852c-9bf1-4ce5-9c91-80a9d1ec34b0",
+      "title": "北風行"
+    },
+    {
+      "retainedId": "yizhu-cc7f768cd8e4fd18",
+      "mergedSourceId": "4be77185-992e-4614-9746-de2e73c8a3c3",
+      "title": "關山月"
+    },
+    {
+      "retainedId": "yizhu-ce23e08aebdf2696",
+      "mergedSourceId": "e5e5f969-ddac-4491-9cfe-d77742e1416d",
+      "title": "將進酒"
+    },
+    {
+      "retainedId": "yizhu-e0b76f5a65df0ee3",
+      "mergedSourceId": "801c3192-8001-4238-8ecf-0111f490e84c",
+      "title": "行路難三首 二"
+    },
+    {
+      "retainedId": "yizhu-7538a4a5c25073f3",
+      "mergedSourceId": "a7b8e17f-ee93-4bdc-a144-b1ba5ab32bb5",
+      "title": "行路難三首 三"
+    },
+    {
+      "retainedId": "yizhu-e4d44d8f5f6874a1",
+      "mergedSourceId": "b7464f5a-53ed-4e78-92b9-331f0c5a39e9",
+      "title": "前出塞九首 一"
+    },
+    {
+      "retainedId": "yizhu-be4ce471e50c4cf7",
+      "mergedSourceId": "c95e1e06-9ca3-46b0-9a8b-f5673b9c7e7d",
+      "title": "前出塞九首 二"
+    },
+    {
+      "retainedId": "yizhu-4f29e3615bf223d6",
+      "mergedSourceId": "db93335b-fb58-4e18-b7dc-a0f59a083af3",
+      "title": "前出塞九首 三"
+    },
+    {
+      "retainedId": "yizhu-4edfcddf374c9478",
+      "mergedSourceId": "253b667d-e9bb-44ec-8ea9-03e1d552d9a7",
+      "title": "前出塞九首 四"
+    },
+    {
+      "retainedId": "yizhu-92b54aff1f6b91a5",
+      "mergedSourceId": "9434b028-3ff5-4d33-866b-e0e2b2d6dc70",
+      "title": "前出塞九首 五"
+    },
+    {
+      "retainedId": "yizhu-63a203a1fa2e44a3",
+      "mergedSourceId": "f3f3eb2b-20da-4636-b1cc-a0e09a0620c4",
+      "title": "前出塞九首 七"
+    },
+    {
+      "retainedId": "yizhu-2a9d28e7e4f1e8a0",
+      "mergedSourceId": "a4b24339-00c0-4745-b66f-11216db55ef6",
+      "title": "前出塞九首 八"
+    },
+    {
+      "retainedId": "yizhu-95d46652a8a6ac55",
+      "mergedSourceId": "39f9beec-1292-4208-a8b5-ec971ac6d965",
+      "title": "前出塞九首 九"
+    },
+    {
+      "retainedId": "yizhu-abcd41edd526a649",
+      "mergedSourceId": "39687061-12a7-4ac3-b911-eb7419d4ac3e",
+      "title": "後出塞五首 一"
+    },
+    {
+      "retainedId": "yizhu-e424abbef4fb08bc",
+      "mergedSourceId": "0e981612-b3bb-4124-93a1-06e4abd82099",
+      "title": "後出塞五首 二"
+    },
+    {
+      "retainedId": "yizhu-52324da857de4a97",
+      "mergedSourceId": "dc65d380-14d7-4ed4-b225-a6a976172050",
+      "title": "後出塞五首 三"
+    },
+    {
+      "retainedId": "yizhu-965445ed4c9e2cff",
+      "mergedSourceId": "74e31da9-682f-45e2-8c18-c5a5689c3ba9",
+      "title": "後出塞五首 四"
+    },
+    {
+      "retainedId": "yizhu-d96bd02dbc229edf",
+      "mergedSourceId": "0fa40901-8543-407c-97dc-95d9e3201b85",
+      "title": "後出塞五首 五"
+    },
+    {
+      "retainedId": "yizhu-f57616eb524a5a90",
+      "mergedSourceId": "8b9762d3-db7a-4e3c-971a-cbd221d44531",
+      "title": "少年行四首 一"
+    },
+    {
+      "retainedId": "yizhu-953dc61ad5757020",
+      "mergedSourceId": "38b9bb47-c5d9-47db-8ceb-f559e5ff6360",
+      "title": "少年行四首 二"
+    },
+    {
+      "retainedId": "yizhu-5487126858992173",
+      "mergedSourceId": "197fcb93-3d7f-4cf9-b6c4-410b48e7de14",
+      "title": "少年行四首 四"
+    },
+    {
+      "retainedId": "yizhu-fafab08720d4ada8",
+      "mergedSourceId": "de6b7e3d-03cd-4daa-bdc2-7fb820fda441",
+      "title": "出塞二首 一"
+    },
+    {
+      "retainedId": "yizhu-4914d1dd53fe35d7",
+      "mergedSourceId": "23f9cc7d-51cf-4f53-a8ad-58f107aec73d",
+      "title": "從軍行二首 一"
+    },
+    {
+      "retainedId": "yizhu-195bc449f5798d26",
+      "mergedSourceId": "84f40b5c-4c5b-43c4-822a-d2b92c7b41e1",
+      "title": "采蓮曲二首 一"
+    },
+    {
+      "retainedId": "yizhu-09508198c71cbd6e",
+      "mergedSourceId": "5383487f-7c1f-43ee-9cf9-c1f44a4a0e45",
+      "title": "采蓮曲二首 二"
+    },
+    {
+      "retainedId": "yizhu-d2e8d6f555f0a31d",
+      "mergedSourceId": "e34f74b5-69ff-4136-927a-80d42eaeef6d",
+      "title": "燕歌行"
+    },
+    {
+      "retainedId": "yizhu-682a5e3fb0e59640",
+      "mergedSourceId": "685928fd-174e-4f7a-9071-b7ad0e08531e",
+      "title": "採蓮曲"
+    },
+    {
+      "retainedId": "yizhu-08b0f4744fe5c4b5",
+      "mergedSourceId": "52598ca7-8d4b-40c4-9814-e82a51ec379d",
+      "title": "雜曲歌辭 浪淘沙 一"
+    },
+    {
+      "retainedId": "yizhu-579d174482fc5c0d",
+      "mergedSourceId": "529c0d3e-48e1-4c90-b552-53472032523c",
+      "title": "雜曲歌辭 浪淘沙 四"
+    },
+    {
+      "retainedId": "yizhu-771d81beaae31bfa",
+      "mergedSourceId": "0980785c-7c0b-4dad-8ce9-7412dab56f0e",
+      "title": "雜曲歌辭 浪淘沙 五"
+    },
+    {
+      "retainedId": "yizhu-c2aa2981a375cc72",
+      "mergedSourceId": "b29b3e4b-125f-4b2f-a0fb-44e5d40694f5",
+      "title": "雜曲歌辭 浪淘沙 六"
+    },
+    {
+      "retainedId": "yizhu-8c48e859968b833b",
+      "mergedSourceId": "ff1a5ac4-3d25-4735-a33a-175b394c5d88",
+      "title": "雜曲歌辭 浪淘沙 七"
+    },
+    {
+      "retainedId": "yizhu-b1af6385f7c073ae",
+      "mergedSourceId": "1f4d7c75-238b-4f92-917c-bcdf16e8c7a4",
+      "title": "雜曲歌辭 浪淘沙 八"
+    },
+    {
+      "retainedId": "yizhu-a51e4e33a2cc1dc3",
+      "mergedSourceId": "fe65ba74-a10a-460f-b406-7ede22d6b4db",
+      "title": "雜曲歌辭 浪淘沙 九"
+    },
+    {
+      "retainedId": "yizhu-36cdfb1e8721ab6d",
+      "mergedSourceId": "fef2d7dc-e0bb-4d6f-b683-ffb1db9f8008",
+      "title": "秋風引"
+    },
+    {
+      "retainedId": "yizhu-f8fc49b3c743fb6b",
+      "mergedSourceId": "41a7ff30-5f3a-44dd-bdf9-217b0772d04e",
+      "title": "浩歌"
+    },
+    {
+      "retainedId": "yizhu-b18ee3159b0ebd6d",
+      "mergedSourceId": "0d5cfc9c-9522-44de-9c4b-17c73394212a",
+      "title": "涼州詞三首 一"
+    },
+    {
+      "retainedId": "yizhu-c6ca73eb8c3b2244",
+      "mergedSourceId": "41b2a7ad-b60f-46aa-b9a0-42535c232763",
+      "title": "涼州詞三首 三"
+    },
+    {
+      "retainedId": "yizhu-446b1a42fd63b0ee",
+      "mergedSourceId": "1ea88702-91b1-4d3c-870b-14f3d4114781",
+      "title": "渡遼水"
+    },
+    {
+      "retainedId": "yizhu-2287b351cae9b67a",
+      "mergedSourceId": "1eff153c-0993-4236-8430-289b1d13c8a0",
+      "title": "短歌行"
+    },
+    {
+      "retainedId": "yizhu-55f4ef72b213d482",
+      "mergedSourceId": "4cf19354-4c0a-4e55-980b-69fa7f81ed0f",
+      "title": "遊子吟"
+    },
+    {
+      "retainedId": "yizhu-da9e718ad4b21504",
+      "mergedSourceId": "bf16dec6-a78d-48d3-805e-8c4cd378df40",
+      "title": "怨詩"
+    },
+    {
+      "retainedId": "yizhu-63e3280d5508fc9a",
+      "mergedSourceId": "aacef7e5-0597-435e-9477-d5d1b5ed52ea",
+      "title": "古離別"
+    },
+    {
+      "retainedId": "yizhu-f582d618a9fe2911",
+      "mergedSourceId": "d3357800-9021-4647-a0a0-98499a0ee3c5",
+      "title": "春宮怨"
+    },
+    {
+      "retainedId": "yizhu-4896735a222e1d47",
+      "mergedSourceId": "6a143f96-ed36-4fab-a412-73d4459e498e",
+      "title": "戰城南"
+    },
+    {
+      "retainedId": "yizhu-76caedeb379ad9e0",
+      "mergedSourceId": "587422bf-52ac-4755-97fc-1b22ad6ae626",
+      "title": "春江花月夜"
+    },
+    {
+      "retainedId": "yizhu-5bc471da1556b9ba",
+      "mergedSourceId": "b22991a8-329e-4ec2-9c1e-b0648d7ab01b",
+      "title": "雜曲歌辭 拜新月"
+    },
+    {
+      "retainedId": "yizhu-e9845ddfa113db73",
+      "mergedSourceId": "88c46a8d-d2b8-415d-9bae-1de77f2bfddd",
+      "title": "長干曲四首 三"
+    },
+    {
+      "retainedId": "yizhu-13acbcfe594eb020",
+      "mergedSourceId": "9f5f18e9-b433-48c2-9a89-fa1056b74e3a",
+      "title": "長干曲四首 四"
+    },
+    {
+      "retainedId": "yizhu-d6c1660f3ee19ecd",
+      "mergedId": "yizhu-c7283b9a716d21b8",
+      "mergedSourceIds": [
+        "fc30758f-4193-49ff-af8d-dbc8695f082b"
+      ],
+      "title": "雜曲歌辭 浪淘沙 二",
+      "basis": "reviewed-version-link"
+    },
+    {
+      "retainedId": "yizhu-96b8b4e9fc9a1cd6",
+      "mergedId": "yizhu-2a7c6dbe79797f4f",
+      "mergedSourceIds": [
+        "0e0c0380-f696-4e39-ab6b-116e307d07cd"
+      ],
+      "title": "雜曲歌辭 浪淘沙 三",
+      "basis": "reviewed-version-link"
+    },
+    {
+      "retainedId": "yizhu-72de4d1b54a13fac",
+      "mergedId": "yizhu-ee54b078cb1490a8",
+      "mergedSourceIds": [
+        "7ccd9915-51a1-4748-9989-af243036455b"
+      ],
+      "title": "琴曲歌辭 列女操",
+      "basis": "reviewed-version-link"
+    },
+    {
+      "retainedId": "yizhu-fbb3ac3fdd89a63a",
+      "mergedId": "yizhu-addc891fef35d1f6",
+      "mergedSourceIds": [
+        "4bef9a5e-f4a1-44bd-a78c-cb0fe38ccdff"
+      ],
+      "title": "雜曲歌辭 長干曲四首 一",
+      "basis": "reviewed-version-link"
+    },
+    {
+      "retainedId": "yizhu-0d40d62e3a9b8d85",
+      "mergedId": "yizhu-f59ab2545841c951",
+      "mergedSourceIds": [
+        "8d480633-1876-4082-aaca-a7b3a26c04d7"
+      ],
+      "title": "雜曲歌辭 長干曲四首 二",
+      "basis": "reviewed-version-link"
+    },
+    {
+      "retainedId": "yizhu-60670f4f796b1384",
+      "mergedId": "yizhu-62b9c7f3b3653039",
+      "mergedSourceIds": [
+        "acd009f5-60ec-4569-878f-28fb51b0ef0f"
+      ],
+      "title": "雜曲歌辭 秋夜曲",
+      "basis": "reviewed-version-link"
+    },
+    {
+      "retainedId": "yizhu-e0ba9851ab5f78ab",
+      "mergedId": "yizhu-539dcc98f6825333",
+      "mergedSourceIds": [
+        "0db5450e-f1e0-4d53-8106-529def535537"
+      ],
+      "title": "雜曲歌辭 清平調 三",
+      "basis": "reviewed-version-link"
+    },
+    {
+      "retainedId": "yizhu-e12acbd486434027",
+      "mergedId": "yizhu-8bc7ab13dd882f61",
+      "mergedSourceIds": [
+        "11470667-67f3-4142-b415-e82d74b30252"
+      ],
+      "title": "雜曲歌辭 妾薄命",
+      "basis": "reviewed-version-link"
+    },
+    {
+      "retainedId": "yizhu-2c015dffdccc5f4e",
+      "mergedId": "yizhu-942011ef2c119235",
+      "mergedSourceIds": [
+        "529cf938-bb80-4453-b73f-7425d18396e4"
+      ],
+      "title": "雜曲歌辭 長干行二首 二",
+      "basis": "reviewed-version-link"
+    },
+    {
+      "retainedId": "yizhu-5eed36d0b38e4ca9",
+      "mergedId": "yizhu-cfd81276a30dca3f",
+      "mergedSourceIds": [
+        "f15c4b50-ee89-4927-8cf3-15e3a6a6ab95"
+      ],
+      "title": "蜀道難",
+      "basis": "reviewed-version-link"
+    },
+    {
+      "retainedId": "yizhu-6c01c92156c32c33",
+      "mergedId": "yizhu-fcc1a11ee9e46113",
+      "mergedSourceIds": [
+        "c348bc2e-f50d-436b-88b7-c198d63dacfc"
+      ],
+      "title": "行路難三首 一",
+      "basis": "reviewed-version-link"
+    },
+    {
+      "retainedId": "yizhu-3d8aa27229b1139c",
+      "mergedId": "yizhu-f035e347fea26257",
+      "mergedSourceIds": [
+        "12792cda-8a0c-4af3-b338-c6fbe036b865"
+      ],
+      "title": "長相思 二",
+      "basis": "reviewed-version-link"
+    },
+    {
+      "retainedId": "yizhu-2628fe56fb4aba74",
+      "mergedId": "yizhu-85f57e822a5eff50",
+      "mergedSourceIds": [
+        "d8ff176a-ba69-4277-a54e-9e515bc19304"
+      ],
+      "title": "相和歌辭 雁門太守行",
+      "basis": "reviewed-version-link"
+    },
+    {
+      "retainedId": "yizhu-81063e07d4e06a08",
+      "mergedId": "yizhu-e1047d6a1b98b62f",
+      "mergedSourceIds": [
+        "4d22a2f9-a696-435c-8d2e-7c7e1b3c1af9"
+      ],
+      "title": "鼓吹曲辭 將進酒",
+      "basis": "reviewed-version-link"
+    },
+    {
+      "retainedId": "yizhu-a20aac5361d1bc9b",
+      "mergedId": "yizhu-59339b04d8546fa9",
+      "mergedSourceIds": [
+        "5683781e-f55a-49ad-8c3a-de7a2f217a35"
+      ],
+      "title": "橫吹曲辭 前出塞九首 六",
+      "basis": "reviewed-version-link"
+    },
+    {
+      "retainedId": "yizhu-22dc79e7dcad57bd",
+      "mergedId": "yizhu-80e7043205276bda",
+      "mergedSourceIds": [
+        "10936c86-53b1-4d8b-ac56-861934572d14"
+      ],
+      "title": "相和歌辭 從軍行 二",
+      "basis": "reviewed-version-link"
+    },
+    {
+      "retainedId": "yizhu-b71af847f0535f14",
+      "mergedId": "yizhu-3da5a71eca324f84",
+      "mergedSourceIds": [
+        "f5a35d99-b904-4c04-a5a7-e57bc6b50f2c"
+      ],
+      "title": "相和歌辭 從軍行 三",
+      "basis": "reviewed-version-link"
+    },
+    {
+      "retainedId": "yizhu-64e81534e4431de8",
+      "mergedId": "yizhu-aafb675e8b63f9fd",
+      "mergedSourceIds": [
+        "0edc1f37-50aa-48ac-9fb3-1def51c4319c"
+      ],
+      "title": "相和歌辭 從軍行 四",
+      "basis": "reviewed-version-link"
+    },
+    {
+      "retainedId": "yizhu-736bd06f09c97a68",
+      "mergedId": "yizhu-b87d3326bd9a4081",
+      "mergedSourceIds": [
+        "66f48ee1-6f1b-4a05-89ae-c904f70ac9b7"
+      ],
+      "title": "雜曲歌辭 少年行四首 四",
+      "basis": "reviewed-version-link"
+    },
+    {
+      "retainedId": "yizhu-dd286718fa19b7b7",
+      "mergedId": "yizhu-fe5ad97ecd486c07",
+      "mergedSourceIds": [
+        "e4a87504-f9a3-4599-b770-aba4afd3cb04"
+      ],
+      "title": "雜曲歌辭 渭城曲",
+      "basis": "reviewed-version-link"
+    },
+    {
+      "retainedId": "yizhu-68170c83f1106590",
+      "mergedId": "yizhu-87d218ee863e2f58",
+      "mergedSourceIds": [
+        "8d9fabc0-2285-4a7d-84f0-c12f22b6d57b"
+      ],
+      "title": "使至塞上",
+      "basis": "reviewed-version-link"
+    },
+    {
+      "retainedId": "yizhu-0c12ab4cadccfede",
+      "mergedId": "yizhu-6cc5e946946458a3",
+      "mergedSourceIds": [
+        "e8284624-2472-47b7-ab3f-0bc99f42df81"
+      ],
+      "title": "雜曲歌辭 涼州詞 二",
+      "basis": "reviewed-version-link"
+    }
+  ],
+  "existingMatches": [
+    {
+      "id": "yizhu-0e6fe2c377b71e4a",
+      "title": "行宫",
+      "matches": [
+        {
+          "id": "tang-245-xing-gong",
+          "title": "行宫",
+          "author": "元稹",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-e8538776915e8a08",
+      "title": "听弹琴",
+      "matches": [
+        {
+          "id": "tang-238-tan-qin",
+          "title": "弹琴",
+          "author": "刘长卿",
+          "similarity": 0.95,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-382acabc23dc7d30",
+      "title": "送方外上人",
+      "matches": [
+        {
+          "id": "tang-239-song-shang-ren",
+          "title": "送上人",
+          "author": "刘长卿",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-63d9eeb09e9be4b3",
+      "title": "送灵澈上人",
+      "matches": [
+        {
+          "id": "tang-237-song-ling-che",
+          "title": "送灵澈",
+          "author": "刘长卿",
+          "similarity": 0.95,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-10199467d4f99f62",
+      "title": "和张仆射塞下曲 一",
+      "matches": [
+        {
+          "id": "tang-256-sai-xia-qu-si-shou-zhi-yi",
+          "title": "塞下曲四首之一",
+          "author": "卢纶",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-562f62bdecffd1b6",
+      "title": "和张仆射塞下曲 二",
+      "matches": [
+        {
+          "id": "tang-257-sai-xia-qu-si-shou-zhi-er",
+          "title": "塞下曲四首之二",
+          "author": "卢纶",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-23562809f8f697be",
+      "title": "和张仆射塞下曲 三",
+      "matches": [
+        {
+          "id": "tang-258-sai-xia-qu-si-shou-zhi-san",
+          "title": "塞下曲四首之三",
+          "author": "卢纶",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-f29dbe2e1ed8b7b7",
+      "title": "和张仆射塞下曲 四",
+      "matches": [
+        {
+          "id": "tang-259-sai-xia-qu-si-shou-zhi-si",
+          "title": "塞下曲四首之四",
+          "author": "卢纶",
+          "similarity": 0.95,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-ec4607f287ea949a",
+      "title": "宿建德江",
+      "matches": [
+        {
+          "id": "tang-231-su-jian-de-jiang",
+          "title": "宿建德江",
+          "author": "孟浩然",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-fa627dd0ad01956c",
+      "title": "春晓",
+      "matches": [
+        {
+          "id": "tang-232-chun-xiao",
+          "title": "春晓",
+          "author": "孟浩然",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-1bc143c8feac0c75",
+      "title": "渡汉江",
+      "matches": [
+        {
+          "id": "tang-250-du-han-jiang",
+          "title": "渡汉江",
+          "author": "李频",
+          "similarity": 0.95,
+          "type": "same-work-text-variant",
+          "authorAgrees": false
+        }
+      ]
+    },
+    {
+      "id": "yizhu-fbb3ac3fdd89a63a",
+      "title": "长干曲四首 一",
+      "matches": [
+        {
+          "id": "tang-253-zhang-gan-xing-er-shou-zhi-yi",
+          "title": "长干行二首之一",
+          "author": "崔颢",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-0d40d62e3a9b8d85",
+      "title": "长干曲四首 二",
+      "matches": [
+        {
+          "id": "tang-254-zhang-gan-xing-er-shou-zhi-er",
+          "title": "长干行二首之二",
+          "author": "崔颢",
+          "similarity": 0.95,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-8cfb7d23b0818567",
+      "title": "宫词二首 一",
+      "matches": [
+        {
+          "id": "tang-247-he-man-zi",
+          "title": "何满子",
+          "author": "张祜",
+          "similarity": 0.95,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-3f5573a123a92cd7",
+      "title": "乐游原",
+      "matches": [
+        {
+          "id": "tang-248-deng-le-you-yuan",
+          "title": "登乐游原",
+          "author": "李商隐",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-0c8f60e531cfdf09",
+      "title": "听筝",
+      "matches": [
+        {
+          "id": "tang-241-ting-zheng",
+          "title": "听筝",
+          "author": "李端",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-2146f1a9de428b51",
+      "title": "渡汉江",
+      "matches": [
+        {
+          "id": "tang-250-du-han-jiang",
+          "title": "渡汉江",
+          "author": "李频",
+          "similarity": 0.95,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-6a1480eca97d73a5",
+      "title": "八阵图",
+      "matches": [
+        {
+          "id": "tang-235-ba-zhen-tu",
+          "title": "八阵图",
+          "author": "杜甫",
+          "similarity": 0.95,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-112ad63df6bef8a4",
+      "title": "江雪",
+      "matches": [
+        {
+          "id": "tang-244-jiang-xue",
+          "title": "江雪",
+          "author": "柳宗元",
+          "similarity": 0.95,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-a3dff3b2e4fc2fc7",
+      "title": "登鹳雀楼",
+      "matches": [
+        {
+          "id": "tang-236-deng-guan-que-lou",
+          "title": "登鹳雀楼",
+          "author": "王之涣",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-e20352cd88e924a2",
+      "title": "新嫁娘词三首 三",
+      "matches": [
+        {
+          "id": "tang-242-xin-jia-niang",
+          "title": "新嫁娘",
+          "author": "王建",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-d3daca3d8b21314f",
+      "title": "杂诗三首 二",
+      "matches": [
+        {
+          "id": "tang-228-za-shi",
+          "title": "杂诗",
+          "author": "王维",
+          "similarity": 0.95,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-cb836353ad78c222",
+      "title": "相思",
+      "matches": [
+        {
+          "id": "tang-227-xiang-si",
+          "title": "相思",
+          "author": "王维",
+          "similarity": 0.9,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-61015034980119d1",
+      "title": "辋川集 竹里馆",
+      "matches": [
+        {
+          "id": "tang-225-zhu-li-guan",
+          "title": "竹里馆",
+          "author": "王维",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-072e6e485f35346e",
+      "title": "辋川集 鹿柴",
+      "matches": [
+        {
+          "id": "tang-224-lu-chai",
+          "title": "鹿柴",
+          "author": "王维",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-be404398be62affe",
+      "title": "送别",
+      "matches": [
+        {
+          "id": "tang-226-song-bie",
+          "title": "送别",
+          "author": "王维",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-f877785ff733c98c",
+      "title": "终南望余雪",
+      "matches": [
+        {
+          "id": "tang-230-zhong-nan-wang-yu-xue",
+          "title": "终南望余雪",
+          "author": "祖咏",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-0c92d57632e60b5e",
+      "title": "寻隐者不遇",
+      "matches": [
+        {
+          "id": "tang-249-xun-yin-zhe-bu-yu",
+          "title": "寻隐者不遇",
+          "author": "贾岛",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-fdc776bd4905f85b",
+      "title": "秋夜寄丘二十二员外",
+      "matches": [
+        {
+          "id": "tang-240-qiu-ye-ji-qiu-yuan-wai",
+          "title": "秋夜寄邱员外",
+          "author": "韦应物",
+          "similarity": 0.95,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-fe39a99765a610eb",
+      "title": "夜月",
+      "matches": [
+        {
+          "id": "tang-275-yue-ye",
+          "title": "月夜",
+          "author": "刘方平",
+          "similarity": 0.9643,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-14987ae9cbee01cb",
+      "title": "春怨",
+      "matches": [
+        {
+          "id": "tang-276-chun-yuan",
+          "title": "春怨",
+          "author": "刘方平",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-c106c65e57dc3ad6",
+      "title": "和乐天春词",
+      "matches": [
+        {
+          "id": "tang-281-chun-ci",
+          "title": "春词",
+          "author": "刘禹锡",
+          "similarity": 0.9643,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-9747e343d89e21d8",
+      "title": "金陵五题 乌衣巷",
+      "matches": [
+        {
+          "id": "tang-280-wu-yi-xiang",
+          "title": "乌衣巷",
+          "author": "刘禹锡",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-2018f9730b58a6c6",
+      "title": "逢入京使",
+      "matches": [
+        {
+          "id": "tang-270-feng-ru-jing-shi",
+          "title": "逢入京使",
+          "author": "岑参",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-130a056580a21e17",
+      "title": "桃花谿",
+      "matches": [
+        {
+          "id": "tang-262-tao-hua-xi",
+          "title": "桃花谿",
+          "author": "张旭",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-38f4a4041f244a74",
+      "title": "寄人 一",
+      "matches": [
+        {
+          "id": "tang-310-ji-ren",
+          "title": "寄人",
+          "author": "张泌",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-0d276df331d8343d",
+      "title": "赠内人",
+      "matches": [
+        {
+          "id": "tang-283-zeng-nei-ren",
+          "title": "赠内人",
+          "author": "张祜",
+          "similarity": 0.8929,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-527c07a836af990f",
+      "title": "集灵台二首 一",
+      "matches": [
+        {
+          "id": "tang-284-ji-ling-tai-zhi-yi",
+          "title": "集灵台之一",
+          "author": "张祜",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-ed2390bf45e43ccd",
+      "title": "集灵台二首 二",
+      "matches": [
+        {
+          "id": "tang-285-ji-ling-tai-zhi-er",
+          "title": "集灵台之二",
+          "author": "张祜",
+          "similarity": 0.9643,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-d024bec8d8e8cb7b",
+      "title": "题金陵渡",
+      "matches": [
+        {
+          "id": "tang-286-ti-jin-ling-du",
+          "title": "题金陵渡",
+          "author": "张祜",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-80d8d8b974d3d86d",
+      "title": "为有",
+      "matches": [
+        {
+          "id": "tang-300-wei-you",
+          "title": "为有",
+          "author": "李商隐",
+          "similarity": 0.9643,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-0c52f5c2e6575629",
+      "title": "夜雨寄北",
+      "matches": [
+        {
+          "id": "tang-298-ye-yu-ji-bei",
+          "title": "夜雨寄北",
+          "author": "李商隐",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-e0c2a1e4ecb2ebe3",
+      "title": "常娥",
+      "matches": [
+        {
+          "id": "tang-303-chang-e",
+          "title": "嫦娥",
+          "author": "李商隐",
+          "similarity": 0.9643,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-07be1f41c88e3d49",
+      "title": "瑶池",
+      "matches": [
+        {
+          "id": "tang-302-yao-chi",
+          "title": "瑶池",
+          "author": "李商隐",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-cdbc1a55157d12ed",
+      "title": "贾生",
+      "matches": [
+        {
+          "id": "tang-304-jia-sheng",
+          "title": "贾生",
+          "author": "李商隐",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-14602ed63250423c",
+      "title": "隋宫",
+      "matches": [
+        {
+          "id": "tang-301-sui-gong",
+          "title": "隋宫",
+          "author": "李商隐",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-9c2b56d4aa132a61",
+      "title": "清平调 一",
+      "matches": [
+        {
+          "id": "tang-317-qing-ping-diao-zhi-yi",
+          "title": "清平调之一",
+          "author": "李白",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-e0ba9851ab5f78ab",
+      "title": "清平调 三",
+      "matches": [
+        {
+          "id": "tang-319-qing-ping-diao-zhi-san",
+          "title": "清平调之三",
+          "author": "李白",
+          "similarity": 0.9643,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-8e1e6089217714a6",
+      "title": "夜上受降城闻笛",
+      "matches": [
+        {
+          "id": "tang-279-ye-shang-shou-xiang-cheng-wen-di",
+          "title": "夜上受降城闻笛",
+          "author": "李益",
+          "similarity": 0.9643,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-a2fd4c90ec9b7ef2",
+      "title": "寄扬州韩绰判官",
+      "matches": [
+        {
+          "id": "tang-292-ji-yang-zhou-han-chuo-pan-guan",
+          "title": "寄扬州韩绰判官",
+          "author": "杜牧",
+          "similarity": 0.9643,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-5cdd229ebf0ddd3b",
+      "title": "将赴吴兴登乐游原一绝",
+      "matches": [
+        {
+          "id": "tang-289-jiang-fu-wu-xing-deng-le-you-yuan",
+          "title": "将赴吴兴登乐游原",
+          "author": "杜牧",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-66ad23ad1846124e",
+      "title": "泊秦淮",
+      "matches": [
+        {
+          "id": "tang-291-po-qin-huai",
+          "title": "泊秦淮",
+          "author": "杜牧",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-c8f58e256fac4343",
+      "title": "秋夕",
+      "matches": [
+        {
+          "id": "tang-294-qiu-xi",
+          "title": "秋夕",
+          "author": "杜牧",
+          "similarity": 0.9643,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-c8ea47fe99cbfe16",
+      "title": "赠别二首 一",
+      "matches": [
+        {
+          "id": "tang-295-zeng-bie-zhi-yi",
+          "title": "赠别之一",
+          "author": "杜牧",
+          "similarity": 0.9286,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-c7e12f98a4545938",
+      "title": "赠别二首 二",
+      "matches": [
+        {
+          "id": "tang-296-zeng-bie-zhi-er",
+          "title": "赠别之二",
+          "author": "杜牧",
+          "similarity": 0.9643,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-0d82c891907e313c",
+      "title": "赤壁",
+      "matches": [
+        {
+          "id": "tang-290-chi-bi",
+          "title": "赤壁",
+          "author": "杜牧",
+          "similarity": 0.9643,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-d60c52f1a960fd01",
+      "title": "遣怀",
+      "matches": [
+        {
+          "id": "tang-293-qian-huai",
+          "title": "遣怀",
+          "author": "杜牧",
+          "similarity": 0.8929,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-c3c4e75bd7a129a8",
+      "title": "金谷园",
+      "matches": [
+        {
+          "id": "tang-297-jin-gu-yuan",
+          "title": "金谷园",
+          "author": "杜牧",
+          "similarity": 0.9643,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-2aa0568c2e1fffc5",
+      "title": "江南逢李龟年",
+      "matches": [
+        {
+          "id": "tang-271-jiang-nan-feng-li-gui-nian",
+          "title": "江南逢李龟年",
+          "author": "杜甫",
+          "similarity": 0.9643,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-86f253727fafb931",
+      "title": "征怨",
+      "matches": [
+        {
+          "id": "tang-277-zheng-ren-yuan",
+          "title": "征人怨",
+          "author": "柳中庸",
+          "similarity": 0.9643,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-8c98e9bbcc00f790",
+      "title": "瑶瑟怨",
+      "matches": [
+        {
+          "id": "tang-305-yao-se-yuan",
+          "title": "瑶瑟怨",
+          "author": "温庭筠",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-d7c269faa09addbd",
+      "title": "凉州词二首 一",
+      "matches": [
+        {
+          "id": "tang-316-chu-sai",
+          "title": "出塞",
+          "author": "王之涣",
+          "similarity": 0.9643,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-c626188a442c5a03",
+      "title": "芙蓉楼送辛渐二首 一",
+      "matches": [
+        {
+          "id": "tang-264-fu-rong-lou-song-xin-jian",
+          "title": "芙蓉楼送辛渐",
+          "author": "王昌龄",
+          "similarity": 0.9286,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-a8ccad7b3323abf3",
+      "title": "长信秋词五首 三",
+      "matches": [
+        {
+          "id": "tang-314-zhang-xin-yuan",
+          "title": "长信怨",
+          "author": "王昌龄",
+          "similarity": 0.8929,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-211eb2d576178ccd",
+      "title": "闺怨",
+      "matches": [
+        {
+          "id": "tang-265-gui-yuan",
+          "title": "闺怨",
+          "author": "王昌龄",
+          "similarity": 0.9286,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-dd286718fa19b7b7",
+      "title": "渭城曲",
+      "matches": [
+        {
+          "id": "tang-312-wei-cheng-qu",
+          "title": "渭城曲",
+          "author": "王维",
+          "similarity": 0.9286,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-ec145bf33808f8b1",
+      "title": "凉州词二首 一",
+      "matches": [
+        {
+          "id": "tang-267-liang-zhou-ci",
+          "title": "凉州词",
+          "author": "王翰",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-5548fc7a5ff18991",
+      "title": "后宫词",
+      "matches": [
+        {
+          "id": "tang-282-hou-gong-ci",
+          "title": "后宫词",
+          "author": "白居易",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-800ebc41d16cbd82",
+      "title": "回乡偶书二首 一",
+      "matches": [
+        {
+          "id": "tang-261-hui-xiang-ou-shu",
+          "title": "回乡偶书",
+          "author": "贺知章",
+          "similarity": 0.9643,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-585a38964ccab728",
+      "title": "陇西行四首 二",
+      "matches": [
+        {
+          "id": "tang-309-long-xi-xing",
+          "title": "陇西行",
+          "author": "陈陶",
+          "similarity": 0.9643,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-f8fa542feaf27723",
+      "title": "台城",
+      "matches": [
+        {
+          "id": "tang-308-jin-ling-tu",
+          "title": "金陵图",
+          "author": "韦庄",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-29fc0fcc4550cb0a",
+      "title": "滁州西涧",
+      "matches": [
+        {
+          "id": "tang-272-chu-zhou-xi-jian",
+          "title": "滁州西涧",
+          "author": "韦应物",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-a0439d35ee01e75b",
+      "title": "已凉",
+      "matches": [
+        {
+          "id": "tang-307-yi-liang",
+          "title": "已凉",
+          "author": "韩偓",
+          "similarity": 0.9643,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-fbb2b8be4df23479",
+      "title": "寒食",
+      "matches": [
+        {
+          "id": "tang-274-han-shi",
+          "title": "寒食",
+          "author": "韩翃",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-5cee91c6281e43df",
+      "title": "宫词五首 二",
+      "matches": [
+        {
+          "id": "tang-278-gong-ci",
+          "title": "宫词",
+          "author": "顾况",
+          "similarity": 0.9286,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-8f101dc94f5b3e67",
+      "title": "蜀先主庙",
+      "matches": [
+        {
+          "id": "tang-150-shu-xian-zhu-miao",
+          "title": "蜀先主庙",
+          "author": "刘禹锡",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-f6b75064833d5ad3",
+      "title": "新年作",
+      "matches": [
+        {
+          "id": "tang-137-xin-nian-zuo",
+          "title": "新年作",
+          "author": "刘长卿",
+          "similarity": 0.95,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-a4ba432ad3242d0c",
+      "title": "送李中丞之襄州",
+      "matches": [
+        {
+          "id": "tang-134-song-li-zhong-cheng-gui-han-yang-bie-ye",
+          "title": "送李中丞归汉阳别业",
+          "author": "刘长卿",
+          "similarity": 0.9,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-932db0a9cbd72ec9",
+      "title": "李端公",
+      "matches": [
+        {
+          "id": "tang-145-li-duan-gong",
+          "title": "李端公",
+          "author": "卢纶",
+          "similarity": 0.975,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-0e6d7aaef3993e85",
+      "title": "云阳馆与韩绅宿别",
+      "matches": [
+        {
+          "id": "tang-147-yun-yang-guan-yu-han-shen-su-bie",
+          "title": "云阳馆与韩绅宿别",
+          "author": "司空曙",
+          "similarity": 0.975,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-ce23c4c3fdc23277",
+      "title": "喜外弟卢纶见宿",
+      "matches": [
+        {
+          "id": "tang-148-xi-wai-di-lu-lun-jian-su",
+          "title": "喜外弟卢纶见宿",
+          "author": "司空曙",
+          "similarity": 0.95,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-e3fb040b546db15f",
+      "title": "贼平后送人北归",
+      "matches": [
+        {
+          "id": "tang-149-zei-ping-hou-song-ren-bei-gui",
+          "title": "贼平后送人北归",
+          "author": "司空曙",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-bb46a1bfa1277f3d",
+      "title": "与诸子登岘山",
+      "matches": [
+        {
+          "id": "tang-125-yu-zhu-zi-deng-xian-shan",
+          "title": "与诸子登岘山",
+          "author": "孟浩然",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-3b8e85118ecdb7b4",
+      "title": "宿业师山房期丁大不至",
+      "matches": [
+        {
+          "id": "tang-020-su-ye-shi-shan-fang-dai-ding-da-bu-zhi",
+          "title": "宿业师山房待丁大不至",
+          "author": "孟浩然",
+          "similarity": 0.975,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-12d6bf3c3d6b3e96",
+      "title": "宿桐庐江寄广陵旧游",
+      "matches": [
+        {
+          "id": "tang-130-su-tong-lu-jiang-ji-guang-ling-jiu-you",
+          "title": "宿桐庐江寄广陵旧游",
+          "author": "孟浩然",
+          "similarity": 0.975,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-e4836f465dfc7c2a",
+      "title": "岁暮归南山",
+      "matches": [
+        {
+          "id": "tang-127-sui-mu-gui-nan-shan",
+          "title": "岁暮归南山",
+          "author": "孟浩然",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-6c4d3d2a934d6325",
+      "title": "早寒江上有怀",
+      "matches": [
+        {
+          "id": "tang-132-zao-han-jiang-shang-you-huai",
+          "title": "早寒江上有怀",
+          "author": "孟浩然",
+          "similarity": 0.95,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-80120ab9c882f896",
+      "title": "望洞庭湖赠张丞相",
+      "matches": [
+        {
+          "id": "tang-124-wang-dong-ting-hu-zeng-zhang-cheng-xiang",
+          "title": "望洞庭湖赠张丞相",
+          "author": "孟浩然",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-32b156f711a86fe4",
+      "title": "留别王侍御维",
+      "matches": [
+        {
+          "id": "tang-131-liu-bie-wang-shi-yu-wei",
+          "title": "留别王侍御维",
+          "author": "孟浩然",
+          "similarity": 0.95,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-74217c0871bc3da7",
+      "title": "过故人庄",
+      "matches": [
+        {
+          "id": "tang-128-guo-gu-ren-zhuang",
+          "title": "过故人庄",
+          "author": "孟浩然",
+          "similarity": 0.975,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-68a4dc904d4d2f12",
+      "title": "题大庾岭北驿",
+      "matches": [
+        {
+          "id": "tang-096-ti-da-yu-ling-bei-yi",
+          "title": "题大庾岭北驿",
+          "author": "宋之问",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-6cf1c41a9d09c0be",
+      "title": "宿王昌龄隐居",
+      "matches": [
+        {
+          "id": "tang-024-su-wang-chang-ling-yin-ju",
+          "title": "宿王昌龄隐居",
+          "author": "常建",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-fec39f3c5c626618",
+      "title": "题破山寺后禅院",
+      "matches": [
+        {
+          "id": "tang-098-ti-po-shan-si-hou-chan-yuan",
+          "title": "题破山寺后禅院",
+          "author": "常建",
+          "similarity": 0.9,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-3920341cab849d7c",
+      "title": "感遇十二首 一",
+      "matches": [
+        {
+          "id": "tang-002-gan-yu-qi-er",
+          "title": "感遇其二",
+          "author": "张九龄",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-28ef9c404f3f2516",
+      "title": "感遇十二首 二",
+      "matches": [
+        {
+          "id": "tang-003-gan-yu-qi-san",
+          "title": "感遇其三",
+          "author": "张九龄",
+          "similarity": 0.975,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-2d66e869b23dc893",
+      "title": "望月怀远",
+      "matches": [
+        {
+          "id": "tang-091-wang-yue-huai-yuan",
+          "title": "望月怀远",
+          "author": "张九龄",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-b935766b959eeb09",
+      "title": "没蕃故人",
+      "matches": [
+        {
+          "id": "tang-151-mei-fan-gu-ren",
+          "title": "没蕃故人",
+          "author": "张籍",
+          "similarity": 0.975,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-0ce573517a6a6358",
+      "title": "凉思",
+      "matches": [
+        {
+          "id": "tang-159-liang-si",
+          "title": "凉思",
+          "author": "李商隐",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-7684abc082cdc104",
+      "title": "落花",
+      "matches": [
+        {
+          "id": "tang-158-luo-hua",
+          "title": "落花",
+          "author": "李商隐",
+          "similarity": 0.975,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-59ba3f52774e46f3",
+      "title": "蝉",
+      "matches": [
+        {
+          "id": "tang-156-chan",
+          "title": "蝉",
+          "author": "李商隐",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-df9076953c5293dd",
+      "title": "听蜀僧濬弹琴",
+      "matches": [
+        {
+          "id": "tang-103-ting-shu-seng-jun-tan-qin",
+          "title": "听蜀僧濬弹琴",
+          "author": "李白",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-bb707cf01da4d90d",
+      "title": "渡荆门送别",
+      "matches": [
+        {
+          "id": "tang-101-du-jing-men-song-bie",
+          "title": "渡荆门送别",
+          "author": "李白",
+          "similarity": 0.975,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-0a98c5ce4513aa9f",
+      "title": "和晋陵陆丞早春游望",
+      "matches": [
+        {
+          "id": "tang-094-he-jin-ling-lu-cheng-zao-chun-you-wang",
+          "title": "和晋陵路丞早春游望",
+          "author": "杜审言",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-53460c8994e1b3c6",
+      "title": "旅宿",
+      "matches": [
+        {
+          "id": "tang-153-lv-su",
+          "title": "旅宿",
+          "author": "杜牧",
+          "similarity": 0.975,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-785caa0a582c52e7",
+      "title": "天末忆李白",
+      "matches": [
+        {
+          "id": "tang-110-tian-mo-huai-li-bai",
+          "title": "天末怀李白",
+          "author": "杜甫",
+          "similarity": 0.975,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-e1494400bcbb0202",
+      "title": "奉济驿重送严公四韵",
+      "matches": [
+        {
+          "id": "tang-111-feng-ji-yi-zhong-song-yan-gong-si-yun",
+          "title": "奉济驿重送严公四韵",
+          "author": "杜甫",
+          "similarity": 0.975,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-56837db9c1c54078",
+      "title": "旅夜书怀",
+      "matches": [
+        {
+          "id": "tang-113-lv-ye-shu-huai",
+          "title": "旅夜书怀",
+          "author": "杜甫",
+          "similarity": 0.975,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-b5f9ba769fdd879c",
+      "title": "春望",
+      "matches": [
+        {
+          "id": "tang-106-chun-wang",
+          "title": "春望",
+          "author": "杜甫",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-a2b3114bcbeebeb6",
+      "title": "月夜忆舍弟",
+      "matches": [
+        {
+          "id": "tang-109-yue-ye-yi-she-di",
+          "title": "月夜忆舍弟",
+          "author": "杜甫",
+          "similarity": 0.975,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-7cf6435f34e2be05",
+      "title": "登岳阳楼",
+      "matches": [
+        {
+          "id": "tang-114-deng-yue-yang-lou",
+          "title": "登岳阳楼",
+          "author": "杜甫",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-f582d618a9fe2911",
+      "title": "春宫怨",
+      "matches": [
+        {
+          "id": "tang-167-chun-gong-yuan",
+          "title": "春宫怨",
+          "author": "杜荀鹤",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-10316e8f8822ff5c",
+      "title": "溪居",
+      "matches": [
+        {
+          "id": "tang-035-xi-ju",
+          "title": "溪居",
+          "author": "柳宗元",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-75f80e9a2bbb7220",
+      "title": "杂诗三首 三",
+      "matches": [
+        {
+          "id": "tang-095-za-shi",
+          "title": "杂诗",
+          "author": "沈佺期",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-67d5c77241206312",
+      "title": "杜少府之任蜀州",
+      "matches": [
+        {
+          "id": "tang-092-song-du-shao-fu-zhi-ren-shu-zhou",
+          "title": "送杜少府之任蜀州",
+          "author": "王勃",
+          "similarity": 0.95,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-38f9fde0a7c4e4c3",
+      "title": "次北固山下",
+      "matches": [
+        {
+          "id": "tang-097-ci-bei-gu-shan-xia",
+          "title": "次北固山下",
+          "author": "王湾",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-8cc8e762d043a7ef",
+      "title": "汉江临泛",
+      "matches": [
+        {
+          "id": "tang-122-han-jiang-lin-tiao",
+          "title": "汉江临眺",
+          "author": "王维",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-2151655360ad3878",
+      "title": "终南别业",
+      "matches": [
+        {
+          "id": "tang-123-zhong-nan-bie-ye",
+          "title": "终南别业",
+          "author": "王维",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-73f28557d5a1f2f5",
+      "title": "辋川闲居赠裴秀才迪",
+      "matches": [
+        {
+          "id": "tang-115-wang-chuan-xian-ju-zeng-pei-xiu-cai-di",
+          "title": "辋川闲居赠裴秀才迪",
+          "author": "王维",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-3526b6dca7afecac",
+      "title": "送梓州李使君",
+      "matches": [
+        {
+          "id": "tang-121-song-zi-zhou-li-shi-jun",
+          "title": "送梓州李使君",
+          "author": "王维",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-cb8be3fc8ae03f4b",
+      "title": "赋得古原草送别",
+      "matches": [
+        {
+          "id": "tang-152-fu-de-gu-yuan-cao-song-bie",
+          "title": "赋得古原草送别",
+          "author": "白居易",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-e4d07d7600c824cb",
+      "title": "秋日赴阙题潼关驿楼",
+      "matches": [
+        {
+          "id": "tang-154-qiu-ri-fu-que-ti-tong-guan-yi-lou",
+          "title": "秋日赴阙题潼关驿楼",
+          "author": "许浑",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-2b9ccc24c9cdfdd2",
+      "title": "谷口书斋寄杨补阙",
+      "matches": [
+        {
+          "id": "tang-139-gu-kou-shu-zhai-ji-yang-bu-que",
+          "title": "谷口书斋寄杨补阙",
+          "author": "钱起",
+          "similarity": 0.975,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-8b4b112a3af154c2",
+      "title": "送僧归日本",
+      "matches": [
+        {
+          "id": "tang-138-song-seng-gui-ri-ben",
+          "title": "送僧归日本",
+          "author": "钱起",
+          "similarity": 0.975,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-0c500a2c0a3d4af5",
+      "title": "夕次盱眙县",
+      "matches": [
+        {
+          "id": "tang-031-xi-ci-xu-yi-xian",
+          "title": "夕次盱眙县",
+          "author": "韦应物",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-1e7e4e61cdd71e62",
+      "title": "寄全椒山中道士",
+      "matches": [
+        {
+          "id": "tang-029-ji-quan-jiao-shan-zhong-dao-shi",
+          "title": "寄全椒山中道士",
+          "author": "韦应物",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-d4515849bd6840a2",
+      "title": "赋得暮雨送李胄",
+      "matches": [
+        {
+          "id": "tang-141-fu-de-mu-yu-song-li-zhou",
+          "title": "赋得暮雨送李胄",
+          "author": "韦应物",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-1ec112158d7f0036",
+      "title": "酬程延秋夜即事见赠",
+      "matches": [
+        {
+          "id": "tang-142-chou-cheng-yan-qiu-ye-ji-shi-jian-zeng",
+          "title": "酬程延秋夜即事见赠",
+          "author": "韩翃",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-694bf40f67ce947f",
+      "title": "在岳咏蝉",
+      "matches": [
+        {
+          "id": "tang-093-zai-yu-yong-chan-bing-xu",
+          "title": "在狱咏蝉并序",
+          "author": "骆宾王",
+          "similarity": 0.975,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-2ef6b00978f54a5c",
+      "title": "遣悲怀三首 一",
+      "matches": [
+        {
+          "id": "tang-205-qian-bei-huai-zhi-yi",
+          "title": "遣悲怀之一",
+          "author": "元稹",
+          "similarity": 0.9643,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-233c08600b71eabe",
+      "title": "遣悲怀三首 二",
+      "matches": [
+        {
+          "id": "tang-206-qian-bei-huai-zhi-er",
+          "title": "遣悲怀之二",
+          "author": "元稹",
+          "similarity": 0.9643,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-335725886aca7829",
+      "title": "遣悲怀三首 三",
+      "matches": [
+        {
+          "id": "tang-207-qian-bei-huai-zhi-san",
+          "title": "遣悲怀之三",
+          "author": "元稹",
+          "similarity": 0.9821,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-36d8d7b5e80084af",
+      "title": "西塞山怀古",
+      "matches": [
+        {
+          "id": "tang-204-xi-sai-shan-huai-gu",
+          "title": "西塞山怀古",
+          "author": "刘禹锡",
+          "similarity": 0.9286,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-2d291834ad2b76be",
+      "title": "长沙过贾谊宅",
+      "matches": [
+        {
+          "id": "tang-196-chang-sha-guo-jia-yi-zhai",
+          "title": "长沙过贾谊宅",
+          "author": "刘长卿",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-978bc86b347593ff",
+      "title": "晚次鄂州",
+      "matches": [
+        {
+          "id": "tang-202-wan-ci-e-zhou",
+          "title": "晚次鄂州",
+          "author": "卢纶",
+          "similarity": 0.9821,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-5ce50475d8d1f04b",
+      "title": "行经华阴",
+      "matches": [
+        {
+          "id": "tang-171-xing-jing-hua-yin",
+          "title": "行经华阴",
+          "author": "崔颢",
+          "similarity": 0.9821,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-67854609c506eee5",
+      "title": "黄鹤楼",
+      "matches": [
+        {
+          "id": "tang-170-huang-he-lou",
+          "title": "黄鹤楼",
+          "author": "崔颢",
+          "similarity": 0.9464,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-063fe88a349db43c",
+      "title": "无题",
+      "matches": [
+        {
+          "id": "tang-215-wu-ti-zhi-san",
+          "title": "无题之三",
+          "author": "李商隐",
+          "similarity": 0.9821,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-7d6b660d8465ef5c",
+      "title": "无题二首 一",
+      "matches": [
+        {
+          "id": "tang-210-wu-ti",
+          "title": "无题",
+          "author": "李商隐",
+          "similarity": 0.9821,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-186b8f487144c10c",
+      "title": "无题二首 二",
+      "matches": [
+        {
+          "id": "tang-218-wu-ti-zhi-wu",
+          "title": "无题之五",
+          "author": "李商隐",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-9824f72925aaffb1",
+      "title": "无题四首 一",
+      "matches": [
+        {
+          "id": "tang-212-wu-ti-zhi-yi",
+          "title": "无题之一",
+          "author": "李商隐",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-263902fe06953bdb",
+      "title": "无题四首 二",
+      "matches": [
+        {
+          "id": "tang-213-wu-ti-zhi-er",
+          "title": "无题之二",
+          "author": "李商隐",
+          "similarity": 0.9821,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-5b0f986d4f08f7c5",
+      "title": "春雨",
+      "matches": [
+        {
+          "id": "tang-216-chun-yu",
+          "title": "春雨",
+          "author": "李商隐",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-28e3c2d2d10c58ec",
+      "title": "筹笔驿",
+      "matches": [
+        {
+          "id": "tang-214-chou-bi-yi",
+          "title": "筹笔驿",
+          "author": "李商隐",
+          "similarity": 0.9821,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-b3602a3a1df0c3a8",
+      "title": "隋宫",
+      "matches": [
+        {
+          "id": "tang-211-sui-gong",
+          "title": "隋宫",
+          "author": "李商隐",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-0c2a1d2abd8f6823",
+      "title": "登金陵凤凰台",
+      "matches": [
+        {
+          "id": "tang-175-deng-jin-ling-feng-huang-tai",
+          "title": "登金陵凤凰台",
+          "author": "李白",
+          "similarity": 0.9821,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-7bdfa8b523d691e5",
+      "title": "咏怀古迹五首 一",
+      "matches": [
+        {
+          "id": "tang-190-yong-huai-gu-ji-wu-shou-zhi-yi",
+          "title": "咏怀古迹五首之一",
+          "author": "杜甫",
+          "similarity": 0.9821,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-b08f4481df132716",
+      "title": "咏怀古迹五首 二",
+      "matches": [
+        {
+          "id": "tang-191-yong-huai-gu-ji-wu-shou-zhi-er",
+          "title": "咏怀古迹五首之二",
+          "author": "杜甫",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-c7908bd69071d6d4",
+      "title": "咏怀古迹五首 三",
+      "matches": [
+        {
+          "id": "tang-192-yong-huai-gu-ji-wu-shou-zhi-san",
+          "title": "咏怀古迹五首之三",
+          "author": "杜甫",
+          "similarity": 0.9643,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-3e0953640e8ad114",
+      "title": "咏怀古迹五首 四",
+      "matches": [
+        {
+          "id": "tang-193-yong-huai-gu-ji-wu-shou-zhi-si",
+          "title": "咏怀古迹五首之四",
+          "author": "杜甫",
+          "similarity": 0.9821,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-c7871d84c210c4b8",
+      "title": "咏怀古迹五首 五",
+      "matches": [
+        {
+          "id": "tang-194-yong-huai-gu-ji-wu-shou-zhi-wu",
+          "title": "咏怀古迹五首之五",
+          "author": "杜甫",
+          "similarity": 0.9643,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-370b0dbc92022bf9",
+      "title": "客至",
+      "matches": [
+        {
+          "id": "tang-183-ke-zhi",
+          "title": "客至",
+          "author": "杜甫",
+          "similarity": 0.9643,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-65834dc6021fd94e",
+      "title": "登楼",
+      "matches": [
+        {
+          "id": "tang-187-deng-lou",
+          "title": "登楼",
+          "author": "杜甫",
+          "similarity": 0.9643,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-5b6e776145183967",
+      "title": "登高",
+      "matches": [
+        {
+          "id": "tang-186-deng-gao",
+          "title": "登高",
+          "author": "杜甫",
+          "similarity": 0.9286,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-53d1b7a4bbfdec11",
+      "title": "蜀相",
+      "matches": [
+        {
+          "id": "tang-182-shu-xiang",
+          "title": "蜀相",
+          "author": "杜甫",
+          "similarity": 0.9821,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-2d0db3fcffd86200",
+      "title": "野望",
+      "matches": [
+        {
+          "id": "tang-184-ye-wang",
+          "title": "野望",
+          "author": "杜甫",
+          "similarity": 0.9821,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-917e6ca185d2555f",
+      "title": "闻官军收河南河北",
+      "matches": [
+        {
+          "id": "tang-185-wen-guan-jun-shou-he-nan-he-bei",
+          "title": "闻官军收河南河北",
+          "author": "杜甫",
+          "similarity": 0.9821,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-f3b188f04766e95c",
+      "title": "阁夜",
+      "matches": [
+        {
+          "id": "tang-189-ge-ye",
+          "title": "阁夜",
+          "author": "杜甫",
+          "similarity": 0.9286,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-b6f0a41fa48cb549",
+      "title": "登柳州城楼寄漳汀封连四州",
+      "matches": [
+        {
+          "id": "tang-203-deng-liu-zhou-cheng-lou-ji-zhang-ting-feng-lian-si-zhou-ci-shi",
+          "title": "登柳州城楼寄漳汀封连四州刺史",
+          "author": "柳宗元",
+          "similarity": 0.9821,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-b9d285faff5f5cb0",
+      "title": "古意呈补阙乔知之",
+      "matches": [
+        {
+          "id": "tang-223-gu-yi-cheng-bu-que-qiao-zhi-zhi",
+          "title": "古意呈补阙乔知之",
+          "author": "沈佺期",
+          "similarity": 0.9643,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-b458d83204b03f48",
+      "title": "利州南渡",
+      "matches": [
+        {
+          "id": "tang-219-li-zhou-nan-du",
+          "title": "利洲南渡",
+          "author": "温庭筠",
+          "similarity": 0.9821,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-b191dbae526f27a1",
+      "title": "苏武庙",
+      "matches": [
+        {
+          "id": "tang-220-su-wu-miao",
+          "title": "苏武庙",
+          "author": "温庭筠",
+          "similarity": 0.9643,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-27c1dc35a538a977",
+      "title": "积雨辋川庄作",
+      "matches": [
+        {
+          "id": "tang-180-ji-yu-wang-chuan-zhuang-zuo",
+          "title": "积雨辋川庄作",
+          "author": "王维",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-dab2232cf7347bbe",
+      "title": "酬郭给事",
+      "matches": [
+        {
+          "id": "tang-181-chou-guo-gei-shi",
+          "title": "酬郭给事",
+          "author": "王维",
+          "similarity": 0.9821,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-e5af3206cc4822ae",
+      "title": "春思",
+      "matches": [
+        {
+          "id": "tang-201-chun-si",
+          "title": "春思",
+          "author": "皇甫冉",
+          "similarity": 0.9464,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-f7d8c353e7cdd767",
+      "title": "望蓟门",
+      "matches": [
+        {
+          "id": "tang-172-wang-ji-men",
+          "title": "望蓟门",
+          "author": "祖咏",
+          "similarity": 0.9643,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-d298d77bc8516dbc",
+      "title": "赠阙下裴舍人",
+      "matches": [
+        {
+          "id": "tang-198-zeng-que-xia-pei-she-ren",
+          "title": "赠阙下裴舍人",
+          "author": "钱起",
+          "similarity": 0.9643,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-e4aa769acfb18d78",
+      "title": "寄李儋元锡",
+      "matches": [
+        {
+          "id": "tang-199-ji-li-dan-yuan-xi",
+          "title": "寄李儋元锡",
+          "author": "韦应物",
+          "similarity": 0.9643,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-e4e9564285d34415",
+      "title": "同题仙游观",
+      "matches": [
+        {
+          "id": "tang-200-tong-ti-xian-you-guan",
+          "title": "同题仙游观",
+          "author": "韩翃",
+          "similarity": 0.9821,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-a35b4aaaf7ac5a93",
+      "title": "送李少府贬峡中王少府贬长沙",
+      "matches": [
+        {
+          "id": "tang-176-song-li-shao-fu-bian-xia-zhong-wang-shao-fu-bian-chang-sha",
+          "title": "送李少府贬峡中王少府贬长沙",
+          "author": "高适",
+          "similarity": 0.9643,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-8f87f463b82d18d3",
+      "title": "寻西山隐者不遇",
+      "matches": [
+        {
+          "id": "tang-022-xun-xi-shan-yin-zhe-bu-yu",
+          "title": "寻西山隐者不遇",
+          "author": "邱为",
+          "similarity": 0.975,
+          "type": "same-work-text-variant",
+          "authorAgrees": false
+        }
+      ]
+    },
+    {
+      "id": "yizhu-72de4d1b54a13fac",
+      "title": "列女操",
+      "matches": [
+        {
+          "id": "tang-044-lie-nv-cao",
+          "title": "烈女操",
+          "author": "孟郊",
+          "similarity": 0.9333,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-13b8c5e4a852e693",
+      "title": "感遇十二首 四",
+      "matches": [
+        {
+          "id": "tang-001-gan-yu-qi-yi",
+          "title": "感遇其一",
+          "author": "张九龄",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-aad7b986f1fd2bae",
+      "title": "感遇十二首 七",
+      "matches": [
+        {
+          "id": "tang-004-gan-yu-qi-si",
+          "title": "感遇其四",
+          "author": "张九龄",
+          "similarity": 0.98,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-e9aa6b13c9f3541a",
+      "title": "晨诣超师院读禅经",
+      "matches": [
+        {
+          "id": "tang-034-chen-yi-chao-shi-yuan-du-chan-jing",
+          "title": "晨诣超师院读禅经",
+          "author": "柳宗元",
+          "similarity": 0.9857,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-aaf2f37733f3037b",
+      "title": "送别",
+      "matches": [
+        {
+          "id": "tang-013-song-bie",
+          "title": "送别",
+          "author": "王维",
+          "similarity": 0.9667,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-e18a1ec7aa4547ef",
+      "title": "春泛若耶溪",
+      "matches": [
+        {
+          "id": "tang-023-chun-fan-ruo-ye-xi",
+          "title": "春泛若耶溪",
+          "author": "綦毋潜",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-418fef44a8b13ab1",
+      "title": "无题二首 一",
+      "matches": [
+        {
+          "id": "tang-217-wu-ti-zhi-si",
+          "title": "无题之四",
+          "author": "李商隐",
+          "similarity": 0.8571,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-faba732d5d2afabc",
+      "title": "送陈章甫",
+      "matches": [
+        {
+          "id": "tang-048-song-chen-zhang-fu",
+          "title": "送陈章甫",
+          "author": "李颀",
+          "similarity": 0.9841,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-cb0d48af3aca65c6",
+      "title": "渔翁",
+      "matches": [
+        {
+          "id": "tang-070-yu-weng",
+          "title": "渔翁",
+          "author": "柳宗元",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-1ef3f8e2e3370e35",
+      "title": "桃源行",
+      "matches": [
+        {
+          "id": "tang-078-tao-yuan-xing",
+          "title": "桃源行",
+          "author": "王维",
+          "similarity": 0.9911,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-f79b3a6d7ee69775",
+      "title": "老将行",
+      "matches": [
+        {
+          "id": "tang-077-lao-jiang-xing",
+          "title": "老将行",
+          "author": "王维",
+          "similarity": 0.9524,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-85d3fa0e5eec5b98",
+      "title": "琵琶引",
+      "matches": [
+        {
+          "id": "tang-072-pi-pa-xing-bing-xu",
+          "title": "琵琶行并序",
+          "author": "白居易",
+          "similarity": 0.9659,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-7dd2cf4b21f5b6da",
+      "title": "长恨歌",
+      "matches": [
+        {
+          "id": "tang-071-chang-hen-ge",
+          "title": "长恨歌",
+          "author": "白居易",
+          "similarity": 0.9774,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-fa48a510518bc90f",
+      "title": "八月十五夜赠张功曹",
+      "matches": [
+        {
+          "id": "tang-067-ba-yue-shi-wu-ye-zeng-zhang-gong-cao",
+          "title": "八月十五夜赠张功曹",
+          "author": "韩愈",
+          "similarity": 0.9195,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-98e9d3ea95452eba",
+      "title": "山石",
+      "matches": [
+        {
+          "id": "tang-066-shan-shi",
+          "title": "山石",
+          "author": "韩愈",
+          "similarity": 0.9929,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-1ce782db891280ce",
+      "title": "石鼓歌",
+      "matches": [
+        {
+          "id": "tang-069-shi-gu-ge",
+          "title": "石鼓歌",
+          "author": "韩愈",
+          "similarity": 0.9762,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-55f4ef72b213d482",
+      "title": "游子吟",
+      "matches": [
+        {
+          "id": "tang-045-you-zi-yin",
+          "title": "游子吟",
+          "author": "孟郊",
+          "similarity": 0.9667,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-cc7f768cd8e4fd18",
+      "title": "关山月",
+      "matches": [
+        {
+          "id": "tang-038-guan-shan-yue",
+          "title": "关山月",
+          "author": "李白",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-ce23e08aebdf2696",
+      "title": "将进酒",
+      "matches": [
+        {
+          "id": "tang-085-qiang-jin-jiu",
+          "title": "将进酒",
+          "author": "李白",
+          "similarity": 0.9659,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-f5e87e3315bac4ec",
+      "title": "清平调 二",
+      "matches": [
+        {
+          "id": "tang-318-qing-ping-diao-zhi-er",
+          "title": "清平调之二",
+          "author": "李白",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-5eed36d0b38e4ca9",
+      "title": "蜀道难",
+      "matches": [
+        {
+          "id": "tang-079-shu-dao-nan",
+          "title": "蜀道难",
+          "author": "李白",
+          "similarity": 0.9556,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-6c01c92156c32c33",
+      "title": "行路难三首 一",
+      "matches": [
+        {
+          "id": "tang-082-xing-lu-nan-zhi-yi",
+          "title": "行路难之一",
+          "author": "李白",
+          "similarity": 0.9268,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-e0b76f5a65df0ee3",
+      "title": "行路难三首 二",
+      "matches": [
+        {
+          "id": "tang-083-xing-lu-nan-zhi-er",
+          "title": "行路难之二",
+          "author": "李白",
+          "similarity": 0.9806,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-7538a4a5c25073f3",
+      "title": "行路难三首 三",
+      "matches": [
+        {
+          "id": "tang-084-xing-lu-nan-zhi-san",
+          "title": "行路难之三",
+          "author": "李白",
+          "similarity": 0.9826,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-0d483753404a3771",
+      "title": "长干行二首 一",
+      "matches": [
+        {
+          "id": "tang-043-chang-gan-xing",
+          "title": "长干行",
+          "author": "李白",
+          "similarity": 0.9733,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-864f5b7a22ae36aa",
+      "title": "长相思三首 一",
+      "matches": [
+        {
+          "id": "tang-080-zhang-xiang-si-zhi-yi",
+          "title": "长相思之一",
+          "author": "李白",
+          "similarity": 0.9733,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-13dab86f56661c91",
+      "title": "长相思三首 二",
+      "matches": [
+        {
+          "id": "tang-081-zhang-xiang-si-zhi-er",
+          "title": "长相思之二",
+          "author": "李白",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-a3b9e8a7d7b17b0a",
+      "title": "江南曲",
+      "matches": [
+        {
+          "id": "tang-260-jiang-nan-qu",
+          "title": "江南曲",
+          "author": "李益",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-fafab08720d4ada8",
+      "title": "出塞 一",
+      "matches": [
+        {
+          "id": "tang-315-chu-sai",
+          "title": "出塞",
+          "author": "王昌龄",
+          "similarity": 0.9643,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-d2e8d6f555f0a31d",
+      "title": "燕歌行",
+      "matches": [
+        {
+          "id": "tang-074-yan-ge-xing-bing-xu",
+          "title": "燕歌行并序",
+          "author": "高适",
+          "similarity": 0.9695,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-f0beca0a0db44330",
+      "title": "古意",
+      "matches": [
+        {
+          "id": "tang-047-gu-yi",
+          "title": "古意",
+          "author": "李颀",
+          "similarity": 0.9861,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-41c317e3e84d7aab",
+      "title": "听董大弹胡笳声兼寄语弄房给事",
+      "matches": [
+        {
+          "id": "tang-050-ting-dong-da-dan-hu-jia-sheng-jian-ji-yu-nong-fang-gei-shi",
+          "title": "听董大弹胡笳声兼寄语弄房给事",
+          "author": "李颀",
+          "similarity": 0.9948,
+          "type": "same-work-text-variant",
+          "authorAgrees": true
+        }
+      ]
+    },
+    {
+      "id": "yizhu-fcc8f505009f856e",
+      "title": "登幽州台歌",
+      "matches": [
+        {
+          "id": "tang-046-deng-you-zhou-tai-ge",
+          "title": "登幽州台歌",
+          "author": "陈子昂",
+          "similarity": 1.0,
+          "type": "same-text",
+          "authorAgrees": true
+        }
+      ]
+    }
+  ],
+  "reviewQueue": [
+    {
+      "id": "yizhu-1bc143c8feac0c75",
+      "title": "渡汉江",
+      "author": "宋之问",
+      "issues": [
+        "existing-library-author-differs"
+      ]
+    },
+    {
+      "id": "yizhu-6095d75d12de135e",
+      "title": "夜宿山寺",
+      "author": "李白",
+      "issues": [
+        "attribution-or-edition-review"
+      ]
+    },
+    {
+      "id": "yizhu-3fb43f0fddd4f5d7",
+      "title": "独坐敬亭山 二",
+      "author": "李白",
+      "issues": [
+        "embedded-annotations-separated"
+      ]
+    },
+    {
+      "id": "yizhu-772ff50ceeec074c",
+      "title": "秋浦歌十七首 十一",
+      "author": "李白",
+      "issues": [
+        "embedded-annotations-separated"
+      ]
+    },
+    {
+      "id": "yizhu-3bfb94e264ae3e4a",
+      "title": "秋浦歌十七首 十七",
+      "author": "李白",
+      "issues": [
+        "embedded-annotations-separated"
+      ]
+    },
+    {
+      "id": "yizhu-d3dc83a55007f322",
+      "title": "元和十一年自朗州召至京戏赠看花诸君子",
+      "author": "刘禹锡",
+      "issues": [
+        "title-variant-review"
+      ]
+    },
+    {
+      "id": "yizhu-009fb1a9c180ce4b",
+      "title": "清明",
+      "author": "杜牧",
+      "issues": [
+        "attribution-or-edition-review"
+      ]
+    },
+    {
+      "id": "yizhu-a8ccad7b3323abf3",
+      "title": "长信秋词五首 三",
+      "author": "王昌龄",
+      "issues": [
+        "embedded-annotations-separated",
+        "editorially-supplied-reading"
+      ]
+    },
+    {
+      "id": "yizhu-2bdd0ec96e2c1ca7",
+      "title": "馆娃宫怀古五绝 四",
+      "author": "皮日休",
+      "issues": [
+        "embedded-annotations-separated",
+        "editorially-supplied-reading"
+      ]
+    },
+    {
+      "id": "yizhu-61bf98cd957e268b",
+      "title": "塞上听吹笛",
+      "author": "高适",
+      "issues": [
+        "attribution-or-edition-review"
+      ]
+    },
+    {
+      "id": "yizhu-ec214d4193995ea0",
+      "title": "柳",
+      "author": "李商隐",
+      "issues": [
+        "embedded-annotations-separated",
+        "editorially-supplied-reading"
+      ]
+    },
+    {
+      "id": "yizhu-694bf40f67ce947f",
+      "title": "在岳咏蝉",
+      "author": "骆宾王",
+      "issues": [
+        "title-variant-review"
+      ]
+    },
+    {
+      "id": "yizhu-ed9c3b19ab78dd76",
+      "title": "九日齐安登高",
+      "author": "杜牧",
+      "issues": [
+        "title-variant-review"
+      ]
+    },
+    {
+      "id": "yizhu-544bd83c17680a2c",
+      "title": "秋兴八首 一",
+      "author": "杜甫",
+      "issues": [
+        "witness-cycle-numbering-differs"
+      ]
+    },
+    {
+      "id": "yizhu-965141fedde3c207",
+      "title": "秋兴八首 三",
+      "author": "杜甫",
+      "issues": [
+        "witness-cycle-numbering-differs"
+      ]
+    },
+    {
+      "id": "yizhu-60e8404df54fdde4",
+      "title": "秋兴八首 五",
+      "author": "杜甫",
+      "issues": [
+        "witness-cycle-numbering-differs"
+      ]
+    },
+    {
+      "id": "yizhu-3a45270741e85e84",
+      "title": "秋兴八首 七",
+      "author": "杜甫",
+      "issues": [
+        "witness-cycle-numbering-differs"
+      ]
+    },
+    {
+      "id": "yizhu-8f87f463b82d18d3",
+      "title": "寻西山隐者不遇",
+      "author": "丘为",
+      "issues": [
+        "embedded-annotations-separated",
+        "editorially-supplied-reading",
+        "existing-library-author-differs"
+      ]
+    },
+    {
+      "id": "yizhu-a80b79935c08977c",
+      "title": "春雪",
+      "author": "韩愈",
+      "issues": [
+        "embedded-annotations-separated",
+        "editorially-supplied-reading"
+      ]
+    },
+    {
+      "id": "yizhu-f3737ebcf8e5a861",
+      "title": "长安古意",
+      "author": "卢照邻",
+      "issues": [
+        "embedded-annotations-separated",
+        "editorially-supplied-reading"
+      ]
+    },
+    {
+      "id": "yizhu-cad270356b2f4555",
+      "title": "赠荷花",
+      "author": "李商隐",
+      "issues": [
+        "embedded-annotations-separated",
+        "editorially-supplied-reading"
+      ]
+    },
+    {
+      "id": "yizhu-cb0d48af3aca65c6",
+      "title": "渔翁",
+      "author": "柳宗元",
+      "issues": [
+        "embedded-annotations-separated",
+        "editorially-supplied-reading"
+      ]
+    },
+    {
+      "id": "yizhu-df45c103928da5ce",
+      "title": "秦妇吟",
+      "author": "韦庄",
+      "issues": [
+        "embedded-annotations-separated"
+      ]
+    },
+    {
+      "id": "yizhu-d1c6ec1563a6a588",
+      "title": "北风行",
+      "author": "李白",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-ce23e08aebdf2696",
+      "title": "将进酒",
+      "author": "李白",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-3f5c95eeaa2e0824",
+      "title": "白头吟二首 一",
+      "author": "李白",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-d6a39456a0e796a1",
+      "title": "白头吟二首 二",
+      "author": "李白",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-5eed36d0b38e4ca9",
+      "title": "蜀道难",
+      "author": "李白",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-6c01c92156c32c33",
+      "title": "行路难三首 一",
+      "author": "李白",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-e0b76f5a65df0ee3",
+      "title": "行路难三首 二",
+      "author": "李白",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-7538a4a5c25073f3",
+      "title": "行路难三首 三",
+      "author": "李白",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-864f5b7a22ae36aa",
+      "title": "长相思三首 一",
+      "author": "李白",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-13dab86f56661c91",
+      "title": "长相思三首 二",
+      "author": "李白",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-3d8aa27229b1139c",
+      "title": "长相思三首 三",
+      "author": "李白",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-d441bf7024700e22",
+      "title": "将进酒",
+      "author": "李贺",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-446b1a42fd63b0ee",
+      "title": "渡辽水",
+      "author": "王建",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-2287b351cae9b67a",
+      "title": "短歌行",
+      "author": "王建",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-07f30d39363b355d",
+      "title": "上阳白发人",
+      "author": "白居易",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-7d28b3302142b5dc",
+      "title": "井底引银缾",
+      "author": "白居易",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-84a9347da2380295",
+      "title": "卖炭翁",
+      "author": "白居易",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-a718d0502ddb870a",
+      "title": "新丰折臂翁",
+      "author": "白居易",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-b2018b9d9b4c0b9a",
+      "title": "杜陵叟",
+      "author": "白居易",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-d5384961b6af9da9",
+      "title": "母别子",
+      "author": "白居易",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-b9edeed78ba03190",
+      "title": "红线毯",
+      "author": "白居易",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-7cb722236c445834",
+      "title": "缭绫",
+      "author": "白居易",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-d2e8d6f555f0a31d",
+      "title": "燕歌行",
+      "author": "高适",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-001947ad8e3ce28e",
+      "title": "乐府古题序 田家词",
+      "author": "元稹",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-f9274dfa136c0357",
+      "title": "乐府古题序 织妇词",
+      "author": "元稹",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-ff949ac8b4d4a29b",
+      "title": "春晚谣",
+      "author": "张泌",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-1984170d01acd3b9",
+      "title": "牧童词",
+      "author": "张籍",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-66cd7c20bbab2a1d",
+      "title": "节妇吟寄东平李司空师道",
+      "author": "张籍",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-301dc4908229f0fb",
+      "title": "汾阴行",
+      "author": "李峤",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-f25620dfc1d71778",
+      "title": "横江词六首 一",
+      "author": "李白",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-81063e07d4e06a08",
+      "title": "将进酒",
+      "author": "李贺",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-d5f0476d20fdcad7",
+      "title": "致酒行",
+      "author": "李贺",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-4e4250323b7d765a",
+      "title": "苏小小墓",
+      "author": "李贺",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-a76d7d053e9faf68",
+      "title": "苦昼短",
+      "author": "李贺",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-652dc91d0746f7fc",
+      "title": "黄头郎",
+      "author": "李贺",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-f0beca0a0db44330",
+      "title": "古意",
+      "author": "李颀",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-41c317e3e84d7aab",
+      "title": "听董大弹胡笳声兼寄语弄房给事",
+      "author": "李颀",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-fc339b59d5c62888",
+      "title": "送刘昱",
+      "author": "李颀",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-ffc75a5a037c5a50",
+      "title": "狂夫",
+      "author": "杜甫",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-538a0ecd51611173",
+      "title": "画鹰",
+      "author": "杜甫",
+      "issues": [
+        "source-editorial-markers",
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-e20a1fe86feea9fb",
+      "title": "茅屋为秋风所破歌",
+      "author": "杜甫",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-bd53709caca59728",
+      "title": "当窗织",
+      "author": "王建",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-101c51f6b5d5b7c0",
+      "title": "望夫石",
+      "author": "王建",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-6befdb1ea3bf3434",
+      "title": "春女行",
+      "author": "王翰",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-b36e0246c6a17469",
+      "title": "观刈麦",
+      "author": "白居易",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-fcc8f505009f856e",
+      "title": "登幽州台歌",
+      "author": "陈子昂",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-7b35012ff53b2316",
+      "title": "听颖师弹琴",
+      "author": "韩愈",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-442cf7ee8c4317e4",
+      "title": "上古之什补亡训传十三章",
+      "author": "顾况",
+      "issues": [
+        "mixed-length-verse-review",
+        "title-variant-review"
+      ]
+    },
+    {
+      "id": "yizhu-01d674b9f7d2610c",
+      "title": "咏鹅",
+      "author": "骆宾王",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-d1257053e8c44193",
+      "title": "塞下曲",
+      "author": "高适",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    }
+  ]
+}
