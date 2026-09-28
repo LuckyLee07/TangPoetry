@@ -5,9 +5,12 @@
 .home-art .cover-rain { z-index: 2; }
 .home-art[data-atmosphere="playing"] canvas, .home-art[data-atmosphere="paused"] canvas { display: block; }
 .home-art[data-atmosphere="playing"] .home-art-main, .home-art[data-atmosphere="paused"] .home-art-main { visibility: hidden; }
-.daily-poem { position: relative; z-index: 6; display: grid; gap: 6px; padding: 12px 8px; margin-top: 12px; text-align: center; min-height: 60px; }
-.daily-poem small { font: 11px var(--sans); color: #655b4d; letter-spacing: .18em; }
-.daily-poem span { font: 17px/1.5 var(--serif); overflow-wrap: anywhere; }
+.cover-poem, .daily-poem { position: relative; display: grid; gap: 6px; padding: 12px 8px; margin-top: 12px; min-height: 60px; }
+.cover-poem { z-index: 6; text-align: center; }
+.daily-poem { width: 100%; text-align: left; padding: 14px 0; margin: 4px 0 12px; border-bottom: 1px solid var(--line); }
+.cover-poem[hidden], .daily-poem[hidden] { display: none; }
+.cover-poem small, .daily-poem small { font: 11px var(--sans); color: #655b4d; letter-spacing: .18em; }
+.cover-poem span, .daily-poem span { font: 17px/1.5 var(--serif); overflow-wrap: anywhere; }
 .home-meta { flex-wrap: wrap; padding: 10px 0 16px; }
 .extras-hint { font: 12px/1.7 var(--sans); color: #655b4d; }
 .card-sheet { height: 88dvh; overflow: hidden; }
@@ -23,5 +26,5 @@
 .gentle-motion.leaves i { background: #52664a; }
 .gentle-motion.snow i { width: 2.5px; height: 2.5px; background: #fff; border-radius: 50%; }
 @keyframes quiet-fall { 0% { transform: translate(-8px,0) rotate(0); opacity: 0; } 35% { opacity: .32; } 65% { opacity: .32; } 100% { transform: translate(14px,200px) rotate(170deg); opacity: 0; } }
-@media (max-height: 600px) { .daily-poem { padding: 4px; min-height: 48px; } .home-meta { font-size: 10px; gap: 4px; } .home-copy { margin-top: 0; } .home-copy h1 { font-size: 30px; } }
+@media (max-height: 600px) { .cover-poem { padding: 4px; min-height: 48px; } .home-meta { font-size: 10px; gap: 4px; } .home-copy { margin-top: 0; } .home-copy h1 { font-size: 30px; } }
 @media (prefers-reduced-motion: reduce) { .gentle-motion { display: none; } }

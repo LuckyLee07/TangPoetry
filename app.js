@@ -1,12 +1,12 @@
-import { setupReadingExtras } from './reader-extras.js?v=0.6.11';
-import { setupNarration } from './reader-narration.js?v=0.6.11';
+import { setupReadingExtras } from './reader-extras.js?v=0.6.12';
+import { setupNarration } from './reader-narration.js?v=0.6.13';
 import { setupCoverAtmosphere } from './reader-cover.js?v=0.6.11';
 import { parseStored, sanitizeSettings, migrateFavorites, filterPoems, initialIndex, createPoemLoader } from './reader-core.js?v=0.6.11';
 
 import { escapeHTML, layoutReadingPage, poemMarkup, notesMarkup, directoryArtworkMarkup } from './reader-renderer.js?v=0.6.11';
 import { ALL_POEMS, sanitizeReadingScope, isAllPoems, readingScopeLabel, selectionAfterScopeChange, sanitizeReadingProgress, captureParagraphProgress, restoreParagraphProgress, paragraphMetrics, isReadingSurfaceTap } from './reader-continuity.js?v=0.6.11';
 
-import { ReadingSession, sanitizeReadIDs, restoreReadingSequence } from './reader-history.js?v=0.6.11';
+import { ReadingSession, sanitizeReadIDs, restoreReadingSequence, readingSurfaceCountsTime } from './reader-history.js?v=0.6.14';
 
 import { createReadingIdle } from './reader-controls.js?v=0.6.11';
 
@@ -32,7 +32,7 @@ const idleControls = createReadingIdle({
   canHide: () => controlsVisible && !homeVisible && !document.hidden && !pointerHeld &&
     !document.querySelector('dialog[open]') && !keyboardNavigation && !window.getSelection()?.toString()
 });
-const narration = setupNarration(() => poems[currentIndex], openPoem);
+const narration = setupNarration(() => poems[currentIndex], openPoem, sampleRead);
 setupCoverAtmosphere();
 
 async function fetchJSON(url) {
@@ -46,8 +46,12 @@ function sampleRead() {
   const element = shells[currentIndex], body = element?.querySelector('.poem-body');
   const lastLine = body?.querySelector('.verse-line:last-child');
   const id = poems[currentIndex]?.id;
-  const active = Boolean(id && body && lastLine && !homeVisible && !document.hidden && document.hasFocus() &&
-    !document.querySelector('dialog[open]') && !readIDs.has(id) && Math.abs(pages.scrollLeft - currentIndex * pages.clientWidth) < 2);
+  const surface = homeVisible || document.querySelector('dialog[open]:not(#narrationDialog)') ? 'covered'
+    : $('#narrationDialog').open ? 'narration' : 'poem';
+  const countsTime = readingSurfaceCountsTime({ foreground: !document.hidden && document.hasFocus(), surface,
+    currentNarrationPlaying: narration.isCurrentPlaying() });
+  const active = Boolean(id && body && lastLine && countsTime && !readIDs.has(id) &&
+    Math.abs(pages.scrollLeft - currentIndex * pages.clientWidth) < 2);
   const endVisible = active && lastLine.getBoundingClientRect().bottom <= body.getBoundingClientRect().bottom + 2 &&
     lastLine.getBoundingClientRect().bottom > body.getBoundingClientRect().top;
   if (readSession.sample({ id, section: poems[currentIndex]?.section, active, endVisible, now: performance.now() / 1000 })) setPoemRead(id, true, false);
@@ -245,6 +249,7 @@ function openPoem(id, { scope = 'all' } = {}) {
 }
 
 function renderLibrary() {
+  extras?.updateRecommendations();
   const list = filterPoems(catalogPoems, filters, favorites, readIDs);
   const groups = new Map();
   for (const poem of list) {
@@ -309,6 +314,8 @@ async function init() {
     if (!extras) extras = setupReadingExtras({
       getCatalog: () => catalogPoems, getCurrentPoem: () => poems[currentIndex],
       loadPoem: id => loader.load(id), openPoem: id => openPoem(id),
+      showDailyRecommendation: () => filters.collection === 'featured' && !filters.query.trim()
+        && filters.category === 'all' && filters.author === 'all' && filters.readStatus === 'all',
       notice: message => { $('#readerStatus').textContent = message; }
     });
     updateState();

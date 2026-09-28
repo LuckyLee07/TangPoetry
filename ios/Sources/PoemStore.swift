@@ -139,9 +139,9 @@ final class PoemStore: ObservableObject {
     }
 
     func beginReadingVisit() { readSession = ReadingSession() }
-    func setReadingActive(_ active: Bool) {
+    func setReadingActive(_ active: Bool, now: Double = ProcessInfo.processInfo.systemUptime) {
         readingActive = active
-        sampleReading()
+        sampleReading(now: now)
     }
     func recordReadViewport(for id: String, endIsVisible: Bool) { endVisible[id] = endIsVisible }
     func clearReadViewport(for id: String) { endVisible.removeValue(forKey: id) }

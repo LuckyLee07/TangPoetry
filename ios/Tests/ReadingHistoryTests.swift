@@ -2,9 +2,50 @@ import XCTest
 @testable import TangPoetry
 
 final class ReadingHistoryTests: XCTestCase {
+    @MainActor func testShortNarrationAndContinuedReadingAccumulateTwentySeconds() throws {
+        let suite = "TangPoetryListeningReceipt.\(UUID().uuidString)"
+        let defaults = try XCTUnwrap(UserDefaults(suiteName: suite))
+        defer { defaults.removePersistentDomain(forName: suite) }
+        let store = PoemStore(defaults: defaults)
+        let poem = try XCTUnwrap(store.poems.first { $0.section == "五言绝句" })
+        store.openPoem(poem.id)
+        store.recordReadViewport(for: poem.id, endIsVisible: true)
+        let active = ReadingSurface.narration.countsTime(inForeground: true, isCurrentNarrationPlaying: true)
+        store.setReadingActive(active, now: 0)
+        for second in 1...16 {
+            store.sampleReading(now: Double(second))
+            XCTAssertFalse(store.readIDs.contains(poem.id))
+        }
+        store.setReadingActive(false, now: 17) // Finished audio; player sheet is still open.
+        for second in 18...20 { store.sampleReading(now: Double(second)) }
+        XCTAssertFalse(store.readIDs.contains(poem.id))
+        store.setReadingActive(true, now: 21) // Return to reading the poem.
+        for second in 22...25 {
+            store.sampleReading(now: Double(second))
+            XCTAssertEqual(store.readIDs.contains(poem.id), second == 25)
+        }
+        XCTAssertTrue(PoemStore(defaults: defaults).readIDs.contains(poem.id))
+    }
+
+    func testPausedPlayerBackgroundAndOtherSheetsDoNotCountAsListening() {
+        XCTAssertTrue(ReadingSurface.poem.countsTime(inForeground: true, isCurrentNarrationPlaying: false))
+        XCTAssertFalse(ReadingSurface.narration.countsTime(inForeground: true, isCurrentNarrationPlaying: false))
+        for surface in [ReadingSurface.poem, .narration, .covered] {
+            XCTAssertFalse(surface.countsTime(inForeground: false, isCurrentNarrationPlaying: true))
+        }
+        XCTAssertFalse(ReadingSurface.covered.countsTime(inForeground: true, isCurrentNarrationPlaying: true))
+
+        var session = ReadingSession()
+        for t in 0...4 { _ = session.sample(id: "a", section: "五言绝句", active: true, endVisible: true, now: Double(t)) }
+        for t in 5...25 { _ = session.sample(id: "a", section: "五言绝句", active: false, endVisible: true, now: Double(t)) }
+        XCTAssertEqual(session.seconds, 4)
+        for t in 26...41 { XCTAssertFalse(session.sample(id: "a", section: "五言绝句", active: true, endVisible: true, now: Double(t))) }
+        XCTAssertTrue(session.sample(id: "a", section: "五言绝句", active: true, endVisible: true, now: 42))
+    }
+
     func testAllGenresUseTheirOwnDurationAndRequireTheLastVerse() {
-        let durations = ["五言绝句": 10, "七言绝句": 10, "五言律诗": 20, "七言律诗": 20,
-                         "五言古诗": 30, "七言古诗": 30, "乐府": 30]
+        let durations = ["五言绝句": 20, "七言绝句": 20, "五言律诗": 30, "七言律诗": 30,
+                         "五言古诗": 40, "七言古诗": 40, "乐府": 40]
         for (section, seconds) in durations {
             var session = ReadingSession()
             for t in 0..<seconds {
@@ -25,8 +66,8 @@ final class ReadingHistoryTests: XCTestCase {
         let defaults = try XCTUnwrap(UserDefaults(suiteName: suite))
         defer { defaults.removePersistentDomain(forName: suite) }
         let store = PoemStore(defaults: defaults)
-        let durations = ["五言绝句": 10, "七言绝句": 10, "五言律诗": 20, "七言律诗": 20,
-                         "五言古诗": 30, "七言古诗": 30, "乐府": 30]
+        let durations = ["五言绝句": 20, "七言绝句": 20, "五言律诗": 30, "七言律诗": 30,
+                         "五言古诗": 40, "七言古诗": 40, "乐府": 40]
         XCTAssertEqual(Set(store.poems.map(\.section)), Set(durations.keys))
         store.setReadingActive(true)
         var now = ProcessInfo.processInfo.systemUptime
@@ -52,8 +93,8 @@ final class ReadingHistoryTests: XCTestCase {
         _ = session.sample(id: "a", section: "五言律诗", active: false, endVisible: true, now: 3600)
         XCTAssertFalse(session.sample(id: "a", section: "五言律诗", active: true, endVisible: true, now: 3601))
         XCTAssertEqual(session.seconds, 5)
-        for t in 3602..<3616 { XCTAssertFalse(session.sample(id: "a", section: "五言律诗", active: true, endVisible: true, now: Double(t))) }
-        XCTAssertTrue(session.sample(id: "a", section: "五言律诗", active: true, endVisible: true, now: 3616))
+        for t in 3602..<3626 { XCTAssertFalse(session.sample(id: "a", section: "五言律诗", active: true, endVisible: true, now: Double(t))) }
+        XCTAssertTrue(session.sample(id: "a", section: "五言律诗", active: true, endVisible: true, now: 3626))
         for t in 0..<100 { XCTAssertFalse(session.sample(id: "poem-\(t)", section: "五言律诗", active: true, endVisible: true, now: Double(t))) }
     }
 
@@ -63,8 +104,8 @@ final class ReadingHistoryTests: XCTestCase {
         session.suppress("a")
         for t in 10..<40 { XCTAssertFalse(session.sample(id: "a", section: "五言律诗", active: true, endVisible: true, now: Double(t))) }
         _ = session.sample(id: "b", section: "五言律诗", active: true, endVisible: true, now: 40)
-        for t in 41..<61 { XCTAssertFalse(session.sample(id: "a", section: "五言律诗", active: true, endVisible: true, now: Double(t))) }
-        XCTAssertTrue(session.sample(id: "a", section: "五言律诗", active: true, endVisible: true, now: 61))
+        for t in 41..<71 { XCTAssertFalse(session.sample(id: "a", section: "五言律诗", active: true, endVisible: true, now: Double(t))) }
+        XCTAssertTrue(session.sample(id: "a", section: "五言律诗", active: true, endVisible: true, now: 71))
     }
 
     @MainActor func testReceiptsPersistWithoutInferringLegacyBookmarksAndFiltersKeepCurrentPoem() throws {

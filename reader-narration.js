@@ -20,7 +20,7 @@ export function narrationGroups(manifest) {
   return groups;
 }
 
-export function setupNarration(getPoem, openPoem) {
+export function setupNarration(getPoem, openPoem, playbackChanged = () => {}) {
   const button = document.querySelector('#listenPoem');
   const inlineButton = document.querySelector('#inlineNarration');
   const inlineStatus = document.querySelector('#inlineNarrationStatus');
@@ -168,7 +168,13 @@ export function setupNarration(getPoem, openPoem) {
     inlineNotice('暂时无法朗读，请轻点重试。');
     update();
   });
-  for (const event of ['play', 'pause', 'ended']) audio.addEventListener(event, update);
+  for (const event of ['playing', 'pause', 'ended', 'waiting', 'seeking', 'seeked']) {
+    audio.addEventListener(event, () => { update(); playbackChanged(); });
+  }
   window.addEventListener('pagehide', stop);
-  return { update };
+  return {
+    update,
+    isCurrentPlaying: () => loadedID === getPoem()?.id && !audio.paused && !audio.ended &&
+      !audio.seeking && audio.readyState >= HTMLMediaElement.HAVE_FUTURE_DATA
+  };
 }

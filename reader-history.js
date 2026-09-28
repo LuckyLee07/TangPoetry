@@ -1,13 +1,17 @@
 // New read receipts never infer completion from older bookmarks or saved positions.
+export function readingSurfaceCountsTime({ foreground, surface, currentNarrationPlaying }) {
+  return foreground && (surface === 'poem' || (surface === 'narration' && currentNarrationPlaying));
+}
+
 export function sanitizeReadIDs(value, poems) {
   const valid = new Set(poems.map(poem => poem.id));
   return new Set(Array.isArray(value) ? value.filter(id => typeof id === 'string' && valid.has(id)) : []);
 }
 
 export function requiredReadingSeconds(section) {
-  if (section === '五言绝句' || section === '七言绝句') return 10;
-  if (section === '五言律诗' || section === '七言律诗') return 20;
-  return 30;
+  if (section === '五言绝句' || section === '七言绝句') return 20;
+  if (section === '五言律诗' || section === '七言律诗') return 30;
+  return 40;
 }
 
 export class ReadingSession {

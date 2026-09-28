@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		00C69CD8696398B2320A1AC3 /* PoemCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 160F53AB46010EB9B90F0C99 /* PoemCard.swift */; };
+		06ED43724C3B7DFFD918E225 /* PoemScrollDirectionLock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37D20AC828BDE666CEB344A4 /* PoemScrollDirectionLock.swift */; };
 		11C02CEA0BE23EC3E7FF0D52 /* CoverAtmosphereTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2BAD0527705E111D84B05A3 /* CoverAtmosphereTests.swift */; };
 		1498D81A7530008D82D0F1CF /* ExtrasTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A4BE8683F6FCAC5D384CDD6 /* ExtrasTests.swift */; };
 		1ACD50DDC7EAC535E0664D68 /* ReaderControls.swift in Sources */ = {isa = PBXBuildFile; fileRef = F62A7E15247B667EC5B1D348 /* ReaderControls.swift */; };
@@ -55,6 +56,7 @@
 		1E0649FAE9B0C3AAC76402FA /* ArtworkTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtworkTests.swift; sourceTree = "<group>"; };
 		1F93592D7CC90500672C0A5B /* ReaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReaderView.swift; sourceTree = "<group>"; };
 		2982F09D9099426D599371E2 /* ReadingProgress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadingProgress.swift; sourceTree = "<group>"; };
+		37D20AC828BDE666CEB344A4 /* PoemScrollDirectionLock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PoemScrollDirectionLock.swift; sourceTree = "<group>"; };
 		420956B2E7D9F3703C8B2A3C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5C1C390DDFEC6B9237450DD6 /* ReadingHistory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadingHistory.swift; sourceTree = "<group>"; };
 		5D0F2FFAF8BD5B03D3E4E5A2 /* TangPoetry.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = TangPoetry.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -125,6 +127,7 @@
 				8B6380B9C195168262907848 /* PoemExtras.swift */,
 				0D40D206DB7CB7E1ABD1B9F9 /* PoemLayout.swift */,
 				C2289FF90704AB956B18DF63 /* PoemPager.swift */,
+				37D20AC828BDE666CEB344A4 /* PoemScrollDirectionLock.swift */,
 				CD686B9B29E8138D666B0E5A /* PoemStore.swift */,
 				F62A7E15247B667EC5B1D348 /* ReaderControls.swift */,
 				1F93592D7CC90500672C0A5B /* ReaderView.swift */,
@@ -233,6 +236,7 @@
 				E8AB39A3FAD0DD4314BBF630 /* PoemExtras.swift in Sources */,
 				895B76EFD25E57BF94A58D2B /* PoemLayout.swift in Sources */,
 				4B38B8D04DF6002E578F9009 /* PoemPager.swift in Sources */,
+				06ED43724C3B7DFFD918E225 /* PoemScrollDirectionLock.swift in Sources */,
 				432F73C3D2781C4AE72D2A9D /* PoemStore.swift in Sources */,
 				1ACD50DDC7EAC535E0664D68 /* ReaderControls.swift in Sources */,
 				F06B6BDD283C67BA6538DF7D /* ReaderView.swift in Sources */,

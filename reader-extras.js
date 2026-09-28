@@ -58,19 +58,30 @@ export async function makePoemCard(poem, detail) {
 
 const motions = { 'tang-232-chun-xiao': 'petals', 'tang-244-jiang-xue': 'snow', 'tang-225-zhu-li-guan': 'leaves' };
 
-export function setupReadingExtras({ getCatalog, getCurrentPoem, loadPoem, openPoem, notice }) {
+export function setupReadingExtras({ getCatalog, getCurrentPoem, loadPoem, openPoem, showDailyRecommendation, notice }) {
   const $ = selector => document.querySelector(selector);
+  const cover = document.createElement('button'); cover.className = 'cover-poem'; cover.id = 'coverPoem';
+  $('.home-meta').before(cover);
   const daily = document.createElement('button'); daily.className = 'daily-poem'; daily.id = 'dailyPoem';
-  $('.home-meta').before(daily);
+  $('#poemList').before(daily);
+  const setPoemButton = (button, poem, captionText, onOpen) => {
+    button.replaceChildren();
+    const caption = document.createElement('small'); caption.textContent = captionText;
+    const title = document.createElement('span'); title.textContent = `${poem.title} · ${poem.author}`;
+    button.append(caption, title);
+    button.setAttribute('aria-label', `${captionText}，${poem.title}，${poem.author}`);
+    button.onclick = () => onOpen(poem.id);
+  };
+  const updateCover = () => {
+    const poem = getCatalog().find(poem => poem.id === 'tang-157-feng-yu');
+    cover.hidden = !poem;
+    if (poem) setPoemButton(cover, poem, '画中诗', openPoem);
+  };
   const updateDaily = () => {
     const poem = dailyPoem(getCatalog());
-    daily.hidden = !poem;
+    daily.hidden = !poem || !showDailyRecommendation();
     if (poem) {
-      daily.replaceChildren();
-      const caption = document.createElement('small'); caption.textContent = '每日一首';
-      const title = document.createElement('span'); title.textContent = `${poem.title} · ${poem.author}`;
-      daily.append(caption, title);
-      daily.onclick = () => openPoem(poem.id);
+      setPoemButton(daily, poem, '每日一首', id => { $('#library').close(); openPoem(id); });
     }
   };
   const motionRow = document.createElement('label'); motionRow.className = 'setting-row';
@@ -143,6 +154,6 @@ export function setupReadingExtras({ getCatalog, getCurrentPoem, loadPoem, openP
   document.querySelectorAll('dialog').forEach(item => new MutationObserver(updateMotion).observe(item, { attributes: true, attributeFilter: ['open'] }));
   new MutationObserver(updateMotion).observe($('.reader'), { attributes: true, attributeFilter: ['data-home'] });
   setInterval(updateDaily, 60000);
-  updateDaily(); updateMotion();
-  return { update: () => { updateDaily(); updateMotion(); } };
+  updateCover(); updateDaily(); updateMotion();
+  return { update: () => { updateCover(); updateDaily(); updateMotion(); }, updateRecommendations: updateDaily };
 }

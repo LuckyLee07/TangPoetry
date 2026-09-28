@@ -6,8 +6,8 @@
   <meta name="theme-color" content="#f6f1e6" />
   <meta name="description" content="一页一诗，一诗一画。安静地读唐诗。" />
   <title>唐诗画笺</title>
-  <link rel="stylesheet" href="./styles.css?v=0.6.11" />
-  <link rel="stylesheet" href="./styles-extras.css?v=0.6.11" />
+  <link rel="stylesheet" href="./styles.css?v=0.6.14" />
+  <link rel="stylesheet" href="./styles-extras.css?v=0.6.14" />
 </head>
 <body>
 <main class="reader" data-home="true" aria-label="唐诗画笺">
@@ -44,7 +44,7 @@
   <div class="reading-summary"><span id="readingTotal">已读 0 / 320 首</span><label>阅读状态<select id="readStatusFilter"><option value="all">全部进度</option><option value="unread">未读</option><option value="read">已读</option></select></label></div>
   <label class="filter-label">分类<select id="categorySelect"><option value="all">全部分类</option></select></label>
   <label class="filter-label">作者<select id="authorSelect"><option value="all">全部作者</option></select></label>
-  <p class="result-count" id="resultCount" role="status"></p><p class="reading-rule">绝句 10 秒、律诗 20 秒、古诗与乐府 30 秒，并读到末尾后记为已读；点击诗目右侧可修改。</p><p id="libraryReadNotice" class="sr-only" role="status"></p><div class="poem-list" id="poemList"></div>
+  <p class="result-count" id="resultCount" role="status"></p><p class="reading-rule">前台阅读或听诗累计：绝句 20 秒、律诗 30 秒、古诗与乐府 40 秒，并读到末尾后记为已读；点击诗目右侧可修改。</p><p id="libraryReadNotice" class="sr-only" role="status"></p><div class="poem-list" id="poemList"></div>
 </dialog>
 <dialog id="settings" class="sheet settings-sheet" aria-labelledby="settingsTitle">
   <div class="sheet-header"><div><span class="library-kicker">依你的习惯</span><h2 id="settingsTitle">阅读设置</h2></div><button class="icon-button" data-close="settings" aria-label="关闭设置">×</button></div>
@@ -54,7 +54,7 @@
   <button class="setting-row setting-link" id="manageFavorites"><span>我的收藏</span><span id="favoriteCount">0 首 ›</span></button>
   <label class="setting-row"><span>首页风雨</span><input id="settingCoverMotion" type="checkbox" role="switch" aria-describedby="coverMotionHint" checked /></label>
   <p class="extras-hint" id="coverMotionHint">柳条轻摆，细雨轻落。默认开启，可随时关闭。</p>
-  <div class="about"><h3>唐诗画笺</h3><p>一页一诗，一诗一画。</p><p>阅读位置、已读记录、收藏与设置仅保存在当前设备。无需账号，无广告、无统计追踪。</p><p>诗文按体裁分卷，同体裁内沿用选本书序，部分题名保留常用别名。文字与简注持续校订。版本 0.6.11</p></div>
+  <div class="about"><h3>唐诗画笺</h3><p>一页一诗，一诗一画。</p><p>阅读位置、已读记录、收藏与设置仅保存在当前设备。无需账号，无广告、无统计追踪。</p><p>诗文按体裁分卷，同体裁内沿用选本书序，部分题名保留常用别名。文字与简注持续校订。版本 0.6.14</p></div>
 </dialog>
 <dialog id="notesDialog" class="sheet" aria-labelledby="notesTitle"><div class="sheet-header"><h2 id="notesTitle">诗意与注释</h2><button class="icon-button" data-close="notesDialog" aria-label="关闭注释">×</button></div><div id="fullNotes" class="full-notes"></div></dialog>
 <dialog id="narrationDialog" class="sheet narration-sheet" aria-labelledby="narrationTitle">
@@ -68,6 +68,6 @@
   <p class="narration-hint">换到另一首诗时，当前朗读会停止。</p>
 </dialog>
 <noscript>请开启 JavaScript 后阅读诗笺。</noscript>
-<script type="module" src="./app.js?v=0.6.11"></script>
+<script type="module" src="./app.js?v=0.6.14"></script>
 </body>
 </html>

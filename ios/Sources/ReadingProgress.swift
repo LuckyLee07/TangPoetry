@@ -32,6 +32,7 @@ struct ResumablePoemText: View {
     let toggleControls: () -> Void
     let readingActivity: () -> Void
     @State private var restoredKey: ReadingRestorationKey?
+    @State private var measuredFrames: [PoemScrollAnchor: CGRect] = [:]
 
     private var coordinateSpace: String { "poem-scroll-\(poem.id)" }
     private var restorationKey: ReadingRestorationKey {
@@ -80,12 +81,13 @@ struct ResumablePoemText: View {
                             .accessibilityValue(detail.note)
                     }
                 }.frame(maxWidth: .infinity).padding(.bottom, 20)
+                    .background(PoemScrollDirectionLock().allowsHitTesting(false))
             }
+            .scrollBounceBehavior(.basedOnSize, axes: .vertical)
             .coordinateSpace(name: coordinateSpace)
             .onPreferenceChange(VerseFramePreferenceKey.self) { frames in
-                if let index = detail.rubyLines.indices.last, let last = frames[.line(index)] {
-                    store.recordReadViewport(for: poem.id, endIsVisible: last.maxY > 0 && last.maxY <= viewportHeight + 2)
-                }
+                measuredFrames = frames
+                recordViewport(frames)
                 // New font/width measurements can arrive before the new task starts.
                 // Never let those measurements overwrite the verse awaiting restoration.
                 guard restoredKey == restorationKey, !frames.isEmpty else { return }
@@ -98,6 +100,11 @@ struct ResumablePoemText: View {
                         ?? detail.rubyLines.indices.last
                 }
                 store.recordReadingBookmark(ReadingBookmark(lineIndex: line), for: poem.id, lineCount: detail.rubyLines.count)
+            }
+            .onAppear {
+                // Cached pages can reappear with identical geometry, so no new
+                // preference callback is guaranteed after onDisappear cleared it.
+                recordViewport(measuredFrames)
             }
             .task(id: restorationKey) {
                 let key = restorationKey
@@ -116,6 +123,12 @@ struct ResumablePoemText: View {
                 restoredKey = nil
                 store.flushReadingProgress()
             }
+        }
+    }
+
+    private func recordViewport(_ frames: [PoemScrollAnchor: CGRect]) {
+        if let index = detail.rubyLines.indices.last, let last = frames[.line(index)] {
+            store.recordReadViewport(for: poem.id, endIsVisible: last.maxY > 0 && last.maxY <= viewportHeight + 2)
         }
     }
 

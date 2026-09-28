@@ -4,6 +4,47 @@ import AVFoundation
 @testable import TangPoetry
 
 final class ListeningAndPagingTests: XCTestCase {
+    @MainActor func testHorizontalDirectionProbeDoesNotWakeVerticalScrollOrPreventPaging() throws {
+        class Probe: HorizontalScrollBlocker {
+            var speed = CGPoint.zero
+            override func velocity(in view: UIView?) -> CGPoint { speed }
+        }
+        let scroll = UIScrollView()
+        let probe = Probe()
+        scroll.addGestureRecognizer(probe)
+        let pagerPan = UIPanGestureRecognizer()
+        let gate = HorizontalPageGesture(original: nil)
+        probe.speed = CGPoint(x: -350, y: 45)
+        XCTAssertTrue(probe.gestureRecognizerShouldBegin(probe))
+        probe.speed = CGPoint(x: 40, y: 300)
+        XCTAssertFalse(probe.gestureRecognizerShouldBegin(probe))
+        probe.speed = .zero
+        XCTAssertFalse(probe.gestureRecognizerShouldBegin(probe))
+        XCTAssertFalse(probe.canPrevent(pagerPan))
+        XCTAssertFalse(probe.canBePrevented(by: pagerPan))
+        XCTAssertTrue(gate.gestureRecognizer(pagerPan, shouldRecognizeSimultaneouslyWith: probe))
+        XCTAssertTrue(gate.gestureRecognizer(pagerPan, shouldRecognizeSimultaneouslyWith: scroll.panGestureRecognizer))
+    }
+
+    @MainActor func testScrollDirectionMarkerAttachesOnceAndCleansUp() throws {
+        let window = UIWindow(frame: CGRect(x: 0, y: 0, width: 390, height: 844))
+        let scroll = UIScrollView(frame: window.bounds)
+        window.addSubview(scroll)
+        let marker = PoemScrollDirectionLock.Marker()
+        scroll.addSubview(marker)
+        marker.attach()
+        let first = try XCTUnwrap(marker.blocker)
+        XCTAssertTrue(marker.scrollView === scroll)
+        XCTAssertTrue(scroll.isDirectionalLockEnabled)
+        XCTAssertFalse(scroll.showsHorizontalScrollIndicator)
+        marker.attach()
+        XCTAssertTrue(marker.blocker === first)
+        XCTAssertEqual(scroll.gestureRecognizers?.filter { $0 is HorizontalScrollBlocker }.count, 1)
+        marker.removeFromSuperview()
+        XCTAssertNil(marker.blocker)
+        XCTAssertFalse(scroll.gestureRecognizers?.contains(first) ?? false)
+    }
+
     @MainActor func testCurlDeclinesVerticalPansWithoutOverridingUIKitRules() {
         final class Pan: UIPanGestureRecognizer {
             var speed = CGPoint.zero

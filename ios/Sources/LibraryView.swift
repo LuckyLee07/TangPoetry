@@ -11,6 +11,10 @@ struct LibraryView: View {
     let select: (String, ReadingScope) -> Void
 
     private var scope: ReadingScope { ReadingScope(collection: collection, category: category, author: author, query: query, readStatus: readStatus) }
+    private var showsDailyPoem: Bool {
+        collection == "featured" && query.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty
+            && category == "all" && author == "all" && readStatus == "all"
+    }
     private var results: [PoemSummary] {
         scope.poems(in: store.poems, favorites: store.favorites, readIDs: store.readIDs)
     }
@@ -48,6 +52,12 @@ struct LibraryView: View {
                     ContentUnavailableView(collection == "favorites" && store.favorites.isEmpty ? "还没有收藏" : "没有找到相符的诗", systemImage: "book", description: Text("试试其他诗句或分类；在诗页轻点「藏」，留给下次重读。"))
                 } else {
                     List {
+                        if showsDailyPoem {
+                            Section {
+                                DailyPoemButton(poems: store.poems) { id in select(id, .all) }
+                                    .listRowBackground(store.settings.paperColor)
+                            }
+                        }
                         ForEach(groupedResults, id: \.section) { group in
                             Section(group.section) {
                                 ForEach(group.poems) { poem in
@@ -82,7 +92,7 @@ struct LibraryView: View {
                         }
                     }.listStyle(.plain).scrollContentBackground(.hidden)
                 }
-                Text("绝句 10 秒、律诗 20 秒、古诗与乐府 30 秒，并读到末尾后记为已读；长按诗目可修改。")
+                Text("前台阅读或听诗累计：绝句 20 秒、律诗 30 秒、古诗与乐府 40 秒，并读到末尾后记为已读；长按诗目可修改。")
                     .font(.caption2).foregroundStyle(.secondary).padding(.horizontal).padding(.vertical, 8)
             }
             .background(store.settings.paperColor)

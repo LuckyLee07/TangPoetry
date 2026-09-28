@@ -28,7 +28,12 @@ struct ReaderView: View {
     @State private var sheet: ReaderSheet?
     @State private var collection = "all"
     @State private var notesOpen = false
-    private var readingActive: Bool { !home && sheet == nil && !notesOpen && scenePhase == .active }
+    private var readingActive: Bool {
+        let surface: ReadingSurface = home || notesOpen ? .covered
+            : sheet == .narration ? .narration : sheet == nil ? .poem : .covered
+        return surface.countsTime(inForeground: scenePhase == .active,
+                                 isCurrentNarrationPlaying: narration.isPlaying && narration.track?.id == store.selectedID)
+    }
 
     var body: some View {
         ZStack {
@@ -117,7 +122,7 @@ struct ReaderView: View {
                             Text("唐诗画笺").font(.custom("STSongti-SC-Regular", size: 32, relativeTo: .largeTitle))
                                 .multilineTextAlignment(.center).accessibilityAddTraits(.isHeader)
                             coverIntroduction
-                            DailyPoemButton(poems: store.poems, open: openDailyPoem)
+                            CoverPoemButton(poems: store.poems, open: openCoverPoem)
                             Text("\(store.poems.count) 首 · \(store.poems.filter(\.dedicatedArt).count) 幅画笺").font(.caption)
                             VStack(spacing: 16) { coverButtons }.controlSize(.large).buttonBorderShape(.capsule)
                         }.frame(maxWidth: .infinity).padding(28)
@@ -132,7 +137,7 @@ struct ReaderView: View {
                 }.padding(.top, 42).padding(.trailing, 42)
                 VStack(spacing: 20) {
                     Spacer()
-                    DailyPoemButton(poems: store.poems, open: openDailyPoem)
+                    CoverPoemButton(poems: store.poems, open: openCoverPoem)
                     coverIntroduction
                     Text("\(store.poems.count) 首 · \(store.poems.filter(\.dedicatedArt).count) 幅画笺").font(.caption)
                     ViewThatFits(in: .horizontal) {
@@ -161,7 +166,7 @@ struct ReaderView: View {
             .multilineTextAlignment(.center).fixedSize(horizontal: false, vertical: true)
     }
 
-    private func openDailyPoem(_ id: String) {
+    private func openCoverPoem(_ id: String) {
         store.openPoem(id)
         home = false
         controls.interacted(reveal: true)

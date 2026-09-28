@@ -201,7 +201,13 @@ final class HorizontalPageGesture: NSObject, UIGestureRecognizerDelegate {
 
     func gestureRecognizer(_ gestureRecognizer: UIGestureRecognizer,
                            shouldRecognizeSimultaneouslyWith otherGestureRecognizer: UIGestureRecognizer) -> Bool {
+        if otherGestureRecognizer is HorizontalScrollBlocker {
+            return true
+        }
         if otherGestureRecognizer is UIPanGestureRecognizer, otherGestureRecognizer.view is UIScrollView {
+            // Preserve UIKit's curl/scroll arbitration. The inner scroll's
+            // failure dependency on HorizontalScrollBlocker rejects horizontal
+            // pans before they begin, without preventing the curl recognizer.
             return true
         }
         return original?.gestureRecognizer?(gestureRecognizer, shouldRecognizeSimultaneouslyWith: otherGestureRecognizer) ?? false

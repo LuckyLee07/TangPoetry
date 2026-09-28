@@ -1,14 +1,25 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
-import { ReadingSession, sanitizeReadIDs, restoreReadingSequence } from '../reader-history.js';
+import { ReadingSession, sanitizeReadIDs, restoreReadingSequence, readingSurfaceCountsTime } from '../reader-history.js';
 import { filterPoems } from '../reader-core.js';
 import { sanitizeReadingScope, readingScopeLabel } from '../reader-continuity.js';
 const { poems } = JSON.parse(await readFile(new URL('../data/reader/catalog.json', import.meta.url)));
 const sample = (session, now, extra = {}) => session.sample({ id: 'a', section: '五言律诗', now, active: true, endVisible: true, ...extra });
 
-test('all catalog genres use 10/20/30 foreground seconds and still require the last verse', () => {
-  const durations = { 五言绝句: 10, 七言绝句: 10, 五言律诗: 20, 七言律诗: 20, 五言古诗: 30, 七言古诗: 30, 乐府: 30 };
+test('foreground narration counts toward twenty seconds, while paused and covered playback does not', () => {
+  const active = readingSurfaceCountsTime({ foreground: true, surface: 'narration', currentNarrationPlaying: true });
+  const session = new ReadingSession();
+  for (let t = 0; t < 20; t++) assert.equal(sample(session, t, { section: '五言绝句', active }), false);
+  assert.equal(sample(session, 20, { section: '五言绝句', active }), true);
+  assert.equal(readingSurfaceCountsTime({ foreground: true, surface: 'narration', currentNarrationPlaying: false }), false);
+  assert.equal(readingSurfaceCountsTime({ foreground: false, surface: 'narration', currentNarrationPlaying: true }), false);
+  assert.equal(readingSurfaceCountsTime({ foreground: true, surface: 'covered', currentNarrationPlaying: true }), false);
+  assert.equal(readingSurfaceCountsTime({ foreground: true, surface: 'poem', currentNarrationPlaying: false }), true);
+});
+
+test('all catalog genres use 20/30/40 foreground seconds and still require the last verse', () => {
+  const durations = { 五言绝句: 20, 七言绝句: 20, 五言律诗: 30, 七言律诗: 30, 五言古诗: 40, 七言古诗: 40, 乐府: 40 };
   assert.deepEqual(new Set(poems.map(p => p.section)), new Set(Object.keys(durations)));
   for (const [section, seconds] of Object.entries(durations)) {
     const session = new ReadingSession();
@@ -23,9 +34,9 @@ test('all catalog genres use 10/20/30 foreground seconds and still require the l
 
 test('moving from an ode to a quatrain resets both elapsed time and the completion threshold', () => {
   const session = new ReadingSession();
-  for (let t = 0; t <= 29; t++) assert.equal(sample(session, t, { section: '乐府' }), false);
-  for (let t = 30; t < 40; t++) assert.equal(sample(session, t, { id: 'b', section: '七言绝句' }), false);
-  assert.equal(sample(session, 40, { id: 'b', section: '七言绝句' }), true);
+  for (let t = 0; t <= 39; t++) assert.equal(sample(session, t, { section: '乐府' }), false);
+  for (let t = 40; t < 60; t++) assert.equal(sample(session, t, { id: 'b', section: '七言绝句' }), false);
+  assert.equal(sample(session, 60, { id: 'b', section: '七言绝句' }), true);
 });
 
 test('sheets, background time, unloaded neighbors and rapid paging cannot mark poems read', () => {
@@ -35,8 +46,8 @@ test('sheets, background time, unloaded neighbors and rapid paging cannot mark p
   sample(session, 3600, { active: false });
   assert.equal(sample(session, 3601), false);
   assert.equal(session.seconds, 5);
-  for (let t = 3602; t < 3616; t++) assert.equal(sample(session, t), false);
-  assert.equal(sample(session, 3616), true);
+  for (let t = 3602; t < 3626; t++) assert.equal(sample(session, t), false);
+  assert.equal(sample(session, 3626), true);
   const paging = new ReadingSession();
   for (let t = 0; t < 100; t++) assert.equal(sample(paging, t, { id: `poem-${t}` }), false);
   const unloaded = new ReadingSession();
@@ -52,8 +63,8 @@ test('a manual unread correction suppresses completion for that visit but a new 
   session.suppress('a');
   for (let t = 10; t < 40; t++) assert.equal(sample(session, t), false);
   sample(session, 40, { id: 'b' });
-  for (let t = 41; t < 61; t++) assert.equal(sample(session, t), false);
-  assert.equal(sample(session, 61), true);
+  for (let t = 41; t < 71; t++) assert.equal(sample(session, t), false);
+  assert.equal(sample(session, 71), true);
 });
 
 test('receipts start empty on upgrade, reject corrupt IDs and compose with catalog filters', () => {

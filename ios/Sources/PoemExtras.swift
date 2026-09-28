@@ -20,6 +20,25 @@ enum DailyPoem {
     }
 }
 
+struct CoverPoemButton: View {
+    let poems: [PoemSummary]
+    let open: (String) -> Void
+    var body: some View {
+        if let poem = poems.first(where: { $0.id == "tang-157-feng-yu" }) {
+            Button { open(poem.id) } label: {
+                VStack(spacing: 5) {
+                    Text("画中诗").font(.caption)
+                    Text("\(poem.title) · \(poem.author)")
+                        .font(.custom("STSongti-SC-Regular", size: 17, relativeTo: .body))
+                        .multilineTextAlignment(.center)
+                }.frame(maxWidth: .infinity).padding(.vertical, 12)
+            }.buttonStyle(.plain)
+                .accessibilityLabel("画中诗，\(poem.title)，\(poem.author)")
+                .accessibilityHint("打开与封面风雨意境相映的诗笺")
+        }
+    }
+}
+
 struct DailyPoemButton: View {
     let poems: [PoemSummary]
     let open: (String) -> Void
@@ -27,12 +46,16 @@ struct DailyPoemButton: View {
         TimelineView(.periodic(from: .now, by: 60)) { context in
             if let poem = DailyPoem.poem(in: poems, date: context.date) {
                 Button { open(poem.id) } label: {
-                    VStack(spacing: 5) {
-                        Text("每日一首").font(.caption)
-                        Text("\(poem.title) · \(poem.author)")
-                            .font(.custom("STSongti-SC-Regular", size: 17, relativeTo: .body))
-                            .multilineTextAlignment(.center)
-                    }.frame(maxWidth: .infinity).padding(.vertical, 12)
+                    HStack(spacing: 12) {
+                        VStack(alignment: .leading, spacing: 5) {
+                            Text("每日一首").font(.caption).foregroundStyle(.secondary)
+                            Text("\(poem.title) · \(poem.author)")
+                                .font(.custom("STSongti-SC-Regular", size: 17, relativeTo: .body))
+                                .fixedSize(horizontal: false, vertical: true)
+                        }
+                        Spacer(minLength: 0)
+                        Image(systemName: "chevron.right").font(.caption).foregroundStyle(.secondary)
+                    }.padding(.vertical, 8).contentShape(Rectangle())
                 }.buttonStyle(.plain)
                     .accessibilityLabel("每日一首，\(poem.title)，\(poem.author)")
                     .accessibilityHint("打开今天的诗笺，每天更新")
