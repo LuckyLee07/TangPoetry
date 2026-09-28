@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-349c6169e45a856c",
+  "order": 148,
+  "title": "冬晚对雪忆胡居士家",
+  "author": "王维",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A snow-filled mountain courtyard seen from an opened wooden door, bamboo bowed beyond a lattice window, no footprints leading to a distant shut cottage; clean still whites warmed by paper.\nPoem (semantic reference only, do not paint words): 冬晚对雪忆胡居士家 — 王维\n寒更传晓箭，清镜览衰颜。\n隔牖风惊竹，开门雪满山。\n洒空深巷静，积素广庭闲。\n借问袁安舍，翛然尚闭关。\nNo text or seal in any corner; birds and human anatomy must be natural.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-3ec85b78-69ba-4b6d-8dd1-482d7f489937.png",
+  "image": "assets/volume-2/poem-art/148-yizhu-349c6169e45a856c.png",
+  "sha256": "25d283de72ebc96c7736453016c36a4028fdb805dd4c51b94e582db143f6480c",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "开门见雪满山庭，窗外竹叶积雪、对面小舍闭关，院中没有来访脚印；室内微烛与冬晨冷色相对，无不合时令花朵。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T20:28:37.706383+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-ceb3ce9e6f23d140",
+  "order": 46,
+  "title": "题扬州禅智寺",
+  "author": "杜牧",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Moss-covered temple steps after rain, a lingering white bird near pine and cassia trees, last sunlight under a small tower, distant city rooftops barely visible beyond bamboo. Focus on the temple stillness, not a festival.\nPoem (semantic reference only, do not paint words): 题扬州禅智寺 — 杜牧\n雨过一蝉噪，飘萧松桂秋。\n青苔满阶砌，白鸟故迟留。\n暮霭生深树，斜阳下小楼。\n谁知竹西路，歌吹是扬州。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-afd8a5bc-b838-40dc-b90e-1e640011925b.png",
+  "image": "assets/volume-2/poem-art/046-yizhu-ceb3ce9e6f23d140.png",
+  "sha256": "9fd4d4969ebd163c2b406ace520aecd345761f3c45a2de8352095dcc7f5ff7e1",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "雨后寺阶细水、桂花与竹林远城体现禅寺清幽和城中喧闹的对照，上景自然晕开。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:02:57.449509+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-af6e40af1d96c5d2",
+  "order": 91,
+  "title": "叹花",
+  "author": "杜牧",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A once-flowering tree now dense with green leaves and small fruit, a few fallen petals stirred by wind beneath a returning solitary visitor. Late spring regret, no invented lover or children.\nPoem (semantic reference only, do not paint words): 叹花 — 杜牧\n自恨寻芳到已迟，往年曾见未开时。\n如今风摆花狼籍，绿叶成阴子满枝。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-0c2b1033-5044-443e-8314-ef5cbf18e00a.png",
+  "image": "assets/volume-2/poem-art/091-yizhu-af6e40af1d96c5d2.png",
+  "sha256": "c1d503ad63b90ed6b6f163ffe417c6ce8928830ca1075a93ad706f690076fd8b",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：浓绿树荫及枝上果实清晰，落花零星，访者回望；未添加女子孩子或附会婚恋情节，画面高置、下方无字留白。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:44:08.102008+00:00"
+}

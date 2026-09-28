@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-b822224df2a84a19",
+  "order": 4,
+  "title": "李凭箜篌引",
+  "author": "李贺",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A Tang musician seated playing an upright angular ancient konghou harp with taut strings in a quiet autumn setting; musical feeling suggested by pale clouds held still and a few glimmering droplets in the high background. Refined otherworldly poetic atmosphere but grounded instrument and musician, no modern concert harp or piano, no floating musical notes. One principal musician; do not collage all of the poem's mythical images.\nPoem (semantic reference only, no printed text): 李凭箜篌引 — 李贺\n吴丝蜀桐张高秋，空山凝云颓不流。\n江娥啼竹素女愁，李凭中国弹箜篌。\n昆山玉碎凤凰叫，芙蓉泣露香兰笑。\n十二门前融冷光，二十三丝动紫皇。\n女娲炼石补天处，石破天惊逗秋雨。\n梦入神山教神妪，老鱼跳波瘦蛟舞。\n吴质不眠倚桂树，露脚斜飞湿寒兔。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-fd105e24-fdbc-486a-b0ff-e5e51eb48ebe.png",
+  "image": "assets/volume-2/poem-art/004-yizhu-b822224df2a84a19.png",
+  "sha256": "b1739b00876dda41b1fb1baeed63738317b1b906a9bde30b904c9b616b92e75a",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "Observed one seated long-haired musician playing an angular konghou-like string instrument, autumn foliage and hanging pale cloud/rain motifs. The ethereal mountain setting evokes musical imagery; detailed subjects high on page, lower ivory paper quiet, no written music or words. Historical instrument detail remains an illustration, not a scholarly reconstruction.",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:16:39.671213+00:00"
+}

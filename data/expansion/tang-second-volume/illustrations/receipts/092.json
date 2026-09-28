@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-8281c9158adaeff6",
+  "order": 92,
+  "title": "谢亭送别",
+  "author": "许浑",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: An empty riverside farewell pavilion at rainy dusk, a solitary figure descending the stairs, red autumn leaves beside fast water and a departing sail almost lost. Focus on after-departure silence.\nPoem (semantic reference only, do not paint words): 谢亭送别 — 许浑\n劳歌一曲解行舟，红叶青山水急流。\n日暮酒醒人已远，满天风雨下西楼。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-a816bf1c-2c79-4a5f-8fd8-fd1ede765c31.png",
+  "image": "assets/volume-2/poem-art/092-yizhu-8281c9158adaeff6.png",
+  "sha256": "8b43a7a46e3596362abd1b4dc4a8e8b11f382d4855d2ca363464d78f97887879",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：红叶青山、雨中急流与将远小帆，独行者在亭阶边；天气暮雨吻合送别后的孤寂，未画重逢，两下角仅淡草。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:44:14.036214+00:00"
+}

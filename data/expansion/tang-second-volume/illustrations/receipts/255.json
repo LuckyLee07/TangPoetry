@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-9faa3a24581f1c0d",
+  "order": 255,
+  "title": "除夜作",
+  "author": "高适",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A solitary middle-aged traveler awake beside a small cold lamp in a modest inn on New Year’s Eve, untouched bedding, dark window and a travel bundle. No festive crowd; a quiet suggestion of distant home through warm memory.\nPoem (semantic reference only, do not paint words): 除夜作 — 高适\n旅馆寒灯独不眠，客心何事转凄然。\n故乡今夜思千里，愁鬓明朝又一年。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-13fc2ebc-6e6f-4737-879b-6886d292e910.png",
+  "image": "assets/volume-2/poem-art/255-yizhu-9faa3a24581f1c0d.png",
+  "sha256": "e00424b0e724046a866f512625b438abb3d549aea1c47ddfa14c79bab508461f",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：鬓发见白的独客托腮坐在寒灯旁，空床、包袱与暗窗构成除夜旅舍；窗外遥远灯火衬孤独，暖纸下部足够排诗，无文字。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:52:57.592353+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-6a08a87994f04eda",
+  "order": 296,
+  "title": "寒食夜",
+  "author": "韩偓",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A solitary figure leaning on a south-facing upper balcony late on a spring night, a clear river and long green banks below, a few falling petals caught near the railing. Quiet loneliness, no bonfire at the Cold Food Festival.\nPoem (semantic reference only, do not paint words): 寒食夜 — 韩偓\n清江碧草两悠悠，各自风流一种愁。\n正是落花寒食夜，夜深无伴倚南楼。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-93a31c4c-a0c8-47c3-866b-c12cb0da87bd.png",
+  "image": "assets/volume-2/poem-art/296-yizhu-6a08a87994f04eda.png",
+  "sha256": "97e35faf0a0f1bf134a0c0d1de269fb9e27c536e2fde7fb630f906717c4c9d2a",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：寒食深夜独人倚楼，清江青草向远方展开，近枝落花数瓣；没有篝火宴会，月色安静、孤独克制，中央空纸。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T20:20:52.025861+00:00"
+}

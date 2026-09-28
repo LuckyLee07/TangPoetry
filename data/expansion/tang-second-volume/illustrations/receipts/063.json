@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-5ae3131b9e1a5354",
+  "order": 63,
+  "title": "于易水送人",
+  "author": "骆宾王",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Two restrained farewell silhouettes on the cold Yi River bank, grey water, bare reeds and a distant low road. Evoke heroic memory through emptiness; no assassination scene or modern weapons.\nPoem (semantic reference only, do not paint words): 于易水送人 — 骆宾王\n此地别燕丹，壮士髪冲冠。\n昔时人已没，今日水犹寒。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-afba149c-e959-4c6c-b1c6-cb44b1135ab5.png",
+  "image": "assets/volume-2/poem-art/063-yizhu-5ae3131b9e1a5354.png",
+  "sha256": "c8c1b2cc43ee28eee4a20d8166b97d2ed67350aa761999864c9a56ee4f1fe998",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐图查看：易水岸边两位送别者、寒风芦苇与远处行旅相呼应，未加入刺杀或暴力场面；人物和景物集中于上部，下部纸面留白充足。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:33:27.683924+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-00076e7d82bc60a0",
+  "order": 8,
+  "title": "春夜喜雨",
+  "author": "杜甫",
+  "method": "built-in image_gen",
+  "prompt": "Edit this supplied poetry illustration. Preserve its paper texture, vertical 9:16 dimensions, quiet riverboat and single warm boat lantern, river path, leafy foreground, watercolor style and large blank lower two-thirds. Correct the night lighting for Du Fu's 春夜喜雨: REMOVE the visible moon completely and paint softly continuous dark rain clouds there. REMOVE ALL distant glowing windows, bridge lights, riverside lights and their reflections; distant architecture must be unlit shadow silhouettes or dissolve into dark mist. The ONLY artificial light in the entire scene is the ONE warm lantern on the foreground moored boat, plus its small reflection immediately beneath. Add subtle fine spring rain visible near that one lantern, without dramatic streaks. No stars or new light source. Do not change the blank paper area, add text, frame, stamps or UI.",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-dac119a0-f288-4972-a754-7787a8394310.png",
+  "image": "assets/volume-2/poem-art/008-yizhu-00076e7d82bc60a0.png",
+  "sha256": "eaf038907dfac47f41b6b50940075c12e25269b145129827b9824c29e60df8df",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "Revised image viewed: sky is continuous dark rain cloud without moon; distant houses/lights removed. One warm lantern on foreground boat and its reflection remain, with fine spring rain. Clear lower paper preserved. This revision resolves the initial conflict with 江船火独明.",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:23:54.530639+00:00"
+}

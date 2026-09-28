@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-7d60bd1b038b7df8",
+  "order": 220,
+  "title": "西塞山泊渔家",
+  "author": "皮日休",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A white-haired fisherman in a pale cloth headscarf beneath maple roots by the water, a boy returning with a straw rain cape, a woman carrying mulberry leaves farther away. A small boat glides among water plants after rain; intimate rural life.\nPoem (semantic reference only, do not paint words): 西塞山泊渔家 — 皮日休\n白纶巾下髪如丝，静倚枫根坐钓矶。\n中妇桑村挑叶去，小儿沙市买蓑归。\n雨来莼菜流船滑，春后鲈鱼坠钓肥。\n西塞山前终日客，隔波相羡尽依依。\nSeason accuracy essential: late spring / early summer immediately after spring. Maple leaves are fresh GREEN, mulberry leaves fresh GREEN. Absolutely NO red or orange maple leaves, no autumn foliage anywhere. Elderly fisherman white headscarf, boy with straw rain cape, woman carrying mulberry leaves, lush aquatic greens after soft rain. Main scene small within top third.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-c5f7b50d-446e-4059-8607-b6ddfadbb598.png",
+  "image": "assets/volume-2/poem-art/220-yizhu-7d60bd1b038b7df8.png",
+  "sha256": "511c9725762ea9dd2baeb58b01686a40982b634a4d6474e3399dbaaff4610361",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "重生成后枫叶与桑叶均为春后新绿，白巾老人钓鱼、孩子背蓑归来、妇人携桑叶的细节保留；消除了首图秋红与时令冲突，水草小舟自然，正文留白充足。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T20:27:49.369028+00:00"
+}

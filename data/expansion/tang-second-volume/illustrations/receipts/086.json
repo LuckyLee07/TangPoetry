@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-c5f51db6220a5729",
+  "order": 86,
+  "title": "赏牡丹",
+  "author": "刘禹锡",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A richly layered but muted coral peony in full bloom dominates an upper garden corner, a few distant Tang visitors pausing beyond. Warm understated grandeur; no crowded mixed-season flower competition.\nPoem (semantic reference only, do not paint words): 赏牡丹 — 刘禹锡\n庭前芍药妖无格，池上芙蕖净少情。\n唯有牡丹真国色，花开时节动京城。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-5e893739-0e86-4ccd-a5f3-92102d6255d5.png",
+  "image": "assets/volume-2/poem-art/086-yizhu-c5f51db6220a5729.png",
+  "sha256": "91b3a7f96053e9c22dcceb52acda2b912bb21e858feb63ac0d4af7c45da8cb8c",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "逐张查看：淡珊瑚色牡丹大花为视觉中心，后景少量赏花人及庭院，未混入荷花等不同季节；主景在上部，下方纸面连续无框无字。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:40:57.159999+00:00"
+}

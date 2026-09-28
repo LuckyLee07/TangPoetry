@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-0d54a2651b87c2f2",
+  "order": 147,
+  "title": "登裴秀才迪小台",
+  "author": "王维",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A small secluded terrace above a garden, a guest leaning toward distant cloud hills and birds beside the setting sun, an unlatched simple gate below; hospitable autumn stillness.\nPoem (semantic reference only, do not paint words): 登裴秀才迪小台 — 王维\n端居不出户，满目望云山。\n落日鸟边下，秋原人外闲。\n遥知远林际，不见此簷间。\n好客多乘月，应门莫上关。\nNo text or seal in any corner; birds and human anatomy must be natural.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-cd6f4dd0-5876-455f-8eef-1bd9e7867ac8.png",
+  "image": "assets/volume-2/poem-art/147-yizhu-0d54a2651b87c2f2.png",
+  "sha256": "7151362077a823d0a493bd1a83a4b89f0cedf26a72c7e59c91a5e0ad48235dc5",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "秋日小台前独立望远者，落日旁归鸟、庭下虚掩门扉与云山相连；保持好客与闲居气氛，主景下方清淡空净。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T20:28:33.492026+00:00"
+}

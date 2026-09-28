@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-30a530ead9358cb8",
+  "order": 150,
+  "title": "醉后赠张九旭",
+  "author": "高适",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: White-haired calligrapher Zhang Xu relaxed beside brush and ink after drinking, a small wine jug near his couch, expressive but not comic posture; blank paper without legible writing.\nPoem (semantic reference only, do not paint words): 醉后赠张九旭 — 高适\n世上谩相识，此翁殊不然。\n兴来书自圣，醉后语尤颠。\n白发老闲事，青云在目前。\n床头一壶酒，能更几回眠。\nNo text or seal in any corner; all scrolls and paper must be unmarked. Exactly two hands for each person, realistic hands, limbs and horses.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-fc39da71-52d1-4969-94fe-75c2f0220e20.png",
+  "image": "assets/volume-2/poem-art/150-yizhu-30a530ead9358cb8.png",
+  "sha256": "06e3a0021211e8d9edc41417f3c45c4d86beeb4a8776f1d3c052081fe33fc279",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "白发张旭倚榻持杯，身旁酒壶、笔墨与空白纸卷，神态放达而不滑稽；双手与衣袍自然，留白干净。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T20:32:58.908853+00:00"
+}

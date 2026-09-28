@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-456df820a8b75674",
+  "order": 10,
+  "title": "酬乐天扬州初逢席上见赠",
+  "author": "刘禹锡",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A weathered abandoned wooden boat at the riverbank while several small white-sailed boats pass on open water beyond; an old bare tree at the edge with fresh green woodland behind. Evoke loss and renewal with calm spring light; no sinking people or disaster. One coherent riverside scene.\nPoem (semantic reference only, no printed text): 酬乐天扬州初逢席上见赠 — 刘禹锡\n巴山楚水凄凉地，二十三年弃置身。\n怀旧空吟闻篴赋，到乡翻似烂柯人。\n沈舟侧畔千帆过，病树前头万木春。\n今日听君歌一曲，暂凭杯酒长精神。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-bd29b88f-1c9e-41db-9d68-d097dda82525.png",
+  "image": "assets/volume-2/poem-art/010-yizhu-456df820a8b75674.png",
+  "sha256": "090d01afd72dcf7844ef891ec7c76b3991b287711d7b1f15930982cfd81271d5",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "Viewed an abandoned old boat and bare tree at near bank contrasted with passing sailboats and new green trees across the river. Coherent calm river scene, not a literal casualty scene. Lower paper remains clear; no text or modern objects.",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:23:54.604951+00:00"
+}

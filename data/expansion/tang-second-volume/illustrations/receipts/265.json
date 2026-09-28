@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-acdda2ab0b7de84e",
+  "order": 265,
+  "title": "与赵莒茶䜩",
+  "author": "钱起",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Two Tang friends drinking tea quietly beneath bamboo in late afternoon, small earthen tea bowls and kettle between them, one tree casting a long slanting shadow. Summer cicadas implied on bark, clear calm tea rather than purple liquid.\nPoem (semantic reference only, do not paint words): 与赵莒茶䜩 — 钱起\n竹下忘言对紫茶，全胜羽客醉流霞。\n尘心洗尽兴难尽，一树蝉声片影斜。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-ccd5656e-3710-4b85-af5d-7782acc94199.png",
+  "image": "assets/volume-2/poem-art/265-yizhu-acdda2ab0b7de84e.png",
+  "sha256": "8020ce0991ce750870bb96f8e3fcba9b58b9f8b8afe044a982902ef8e64f6178",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：两位友人竹下对饮小茶碗，陶壶、树干上蝉与地上斜影均可辨，茶并非紫色液体；清静夏日氛围，文字区无物体侵入。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:01:37.423985+00:00"
+}

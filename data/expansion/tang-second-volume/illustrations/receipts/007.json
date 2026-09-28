@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-e50f62e605ab8e0b",
+  "order": 7,
+  "title": "观猎",
+  "author": "王维",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A Tang general in practical muted hunting attire on horseback after a winter hunt, bow lowered, a hunting hawk poised nearby, dried grasses and the last small patches of thawing snow on the plain. Flat evening clouds recede beyond distant encampment roofs. Composed energy, no gore, no dead animals or battle scene.\nPoem (semantic reference only, no printed text): 观猎 — 王维\n风劲角弓鸣，将军猎渭城。\n草枯鹰眼疾，雪尽马蹄轻。\n忽过新丰市，还归细柳营。\n回看射雕处，千里暮云平。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-b4d81a53-ad09-4ccc-8749-2a22667a664a.png",
+  "image": "assets/volume-2/poem-art/007-yizhu-e50f62e605ab8e0b.png",
+  "sha256": "d9ad6f898f2328e22484c49cef6a3771a1d0401fb6c7f4f9a7530e3203741f8b",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "Viewed mounted hunter with lowered bow and hawk, dry grass, small snow patches and distant tent camp under flat evening cloud. No visible gore or modern objects. Lower writing area clear; image conveys an energetic return from hunting.",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:20:19.651533+00:00"
+}

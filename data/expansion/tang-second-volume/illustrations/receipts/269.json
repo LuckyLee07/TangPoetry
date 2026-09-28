@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-815a2ac4a4682364",
+  "order": 269,
+  "title": "题稚川山水",
+  "author": "戴叔伦",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A traveler resting in a pine-shaded thatched pavilion during a cool May evening, broad water and sandy islets leading to familiar-looking green hills opposite. Lush summer foliage, never autumn leaves despite the allusive phrase autumn-wind longing.\nPoem (semantic reference only, do not paint words): 题稚川山水 — 戴叔伦\n松下茅亭五月凉，汀沙云树晚苍苍。\n行人无限秋风思，隔水青山似故乡。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-bab75ae6-8cde-4674-8db8-742ee4a54da3.png",
+  "image": "assets/volume-2/poem-art/269-yizhu-815a2ac4a4682364.png",
+  "sha256": "74aef1561c6a196689e2112a9815a665c6eee09bd735c3ccb9828853ee7f5123",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：五月松下茅亭中旅人隔水望青山，沙汀与暮云树色苍苍；保持青绿叶色，没有因秋风典故误画红叶秋景，中下留白充足。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:06:03.127064+00:00"
+}

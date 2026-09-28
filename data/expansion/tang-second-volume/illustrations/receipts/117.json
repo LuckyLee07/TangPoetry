@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-ae60637468dadc2c",
+  "order": 117,
+  "title": "游终南山",
+  "author": "孟郊",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Immense Zhongnan peaks with a last strip of light high above a dark valley, wind-bent pines and a tiny steady traveler on a narrow path; monumental but inwardly calm.\nPoem (semantic reference only, do not paint words): 游终南山 — 孟郊\n南山塞天地，日月石上生。\n高峰夜留景，深谷昼未明。\n山中人自正，路险心亦平。\n长风驱松柏，声拂万壑清。\n到此悔读书，朝朝近浮名。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-1d72f1a2-6a09-4e49-afd8-136907fa2004.png",
+  "image": "assets/volume-2/poem-art/117-yizhu-ae60637468dadc2c.png",
+  "sha256": "4506fb786fda715e8eee6572ac1326595717ef6ffbe1159a48183e7fff8a84bb",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "高峰留有暮光、深谷沉暗，松树临风，微小行人稳步立于山径；山势宏阔但无险坠动作，正文区由云雾自然淡出留白。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:17:54.629532+00:00"
+}

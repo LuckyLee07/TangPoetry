@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-f566dae78afc131e",
+  "order": 58,
+  "title": "马嵬二首 二",
+  "author": "李商隐",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A halted imperial horse and a silent military line on a dusty road near Mawei, abandoned palace-like luxury reduced to a small carriage, dim night watch light. Historical lament without depicting an execution.\nPoem (semantic reference only, do not paint words): 马嵬二首 二 — 李商隐\n海外徒闻更九州，他生未卜此生休。\n空闻虎旅传宵柝，无复鸡人报晓筹。\n此日六军同驻马，当时七夕笑牵牛。\n如何四纪为天子，不及卢家有莫愁。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-5c4295d3-7150-485f-93ca-756ff4e0e1a1.png",
+  "image": "assets/volume-2/poem-art/058-yizhu-f566dae78afc131e.png",
+  "sha256": "9400ca37234321b886cc1fc4b4a153747ef703a7084cfe300a99ea2215f2f8a2",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "月夜车驾与止步的护卫营造马嵬悲凉，空车帘保留缺席感，不描绘死亡场面。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:21:13.616070+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-c196071b1bfd4db1",
+  "order": 79,
+  "title": "赠花卿",
+  "author": "杜甫",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A small elegant Tang ensemble of strings and wind instruments beside an open riverside hall in Chengdu, curtains stirring toward high pale clouds. Musical beauty without literal angels or celestial palace.\nPoem (semantic reference only, do not paint words): 赠花卿 — 杜甫\n锦城丝管日纷纷，半入江风半入云。\n此曲秪应天上有，人间能得几回闻。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-fd274c06-dcd3-4131-8b09-1a15cae1af67.png",
+  "image": "assets/volume-2/poem-art/079-yizhu-c196071b1bfd4db1.png",
+  "sha256": "bd68250c85df70d2ae40ab1e6501db92cfd07534c8e4305eccba91c37d2b05c9",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐图查看：临江楼阁中笛、琵琶、筝与箫合奏，轻纱微动和锦城远景表现乐声缭绕；未画神仙或天宫，下部纸面安静。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T19:52:27.068506+00:00"
+}

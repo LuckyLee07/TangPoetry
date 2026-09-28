@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-fe4e20df21e2d54e",
+  "order": 270,
+  "title": "宫怨",
+  "author": "李益",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A neglected palace woman seated beside a bronze water clock in a dim moonlit room, distant warm-lit halls across the courtyard suggesting music elsewhere. Dewy flowers at the window; contrast isolation and remote festivity without a literal sea indoors.\nPoem (semantic reference only, do not paint words): 宫怨 — 李益\n露湿晴花宫殿香，月明歌吹在昭阳。\n似将海水添宫漏，共滴长门一夜长。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-b1984010-9a3a-42a6-9703-b2e0310d4c36.png",
+  "image": "assets/volume-2/poem-art/270-yizhu-fe4e20df21e2d54e.png",
+  "sha256": "78ba24d904c4694cec02ea04b0413fecca463fde75c4c5649a55c7848454cd3f",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：月夜宫女独坐铜漏旁，滴水可辨，窗外远殿灯火与歌舞人影形成冷暖距离；花带露色，无室内海水夸张，下方纸色清净。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:06:08.540708+00:00"
+}

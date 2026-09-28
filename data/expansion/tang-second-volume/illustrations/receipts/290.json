@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-7a7d5743f02c6ad2",
+  "order": 290,
+  "title": "题桃花夫人庙",
+  "author": "杜牧",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A quiet ancient Chu palace courtyard, dew on fresh peach blossoms, a silent woman half-seen behind a curtain looking toward the flowers. Convey constrained grief and historical vulnerability; no suicide depiction or moralizing split-screen comparison.\nPoem (semantic reference only, do not paint words): 题桃花夫人庙 — 杜牧\n细腰宫里露桃新，脉脉无言度几春。\n至竟息亡缘底事，可怜金谷坠楼人。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-b407deea-0e1a-4513-aad4-1a15dc7952e4.png",
+  "image": "assets/volume-2/poem-art/290-yizhu-7a7d5743f02c6ad2.png",
+  "sha256": "6a22747aad63643f275c10dfae60c03cc3d3301d8b2dc3891ef82038ed735837",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：半隐帘后的沉默女子望向宫院新桃，枝花带露、院落冷清；只呈受困悲伤，不画坠楼自尽或道德裁判式对照，中下温暖空纸。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:53:22.628738+00:00"
+}

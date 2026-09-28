@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-17182130b363d0e6",
+  "order": 154,
+  "title": "武威春暮闻宇文判官西使还已到晋昌",
+  "author": "岑参",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A frontier tower after a passing spring shower with an oriole on the parapet and fresh willows below, a gray-haired traveler reading news beside an old fur coat; a bright but wistful western horizon.\nPoem (semantic reference only, do not paint words): 武威春暮闻宇文判官西使还已到晋昌 — 岑参\n岸雨过城头，黄鹂上戍楼。\n塞北飘客泪，边柳挂乡愁。\n白发悲明镜，青春换敝裘。\n君从万里使，闻已到瓜州。\nNo written marks, seal or watermark in any corner or on paper. Keep main scene high on the page and the lower two thirds blank.\nEDIT: Preserve this entire Chinese watercolor portrait, composition, man, frontier tower, yellow oriole, willow, old fur coat, sunset and huge lower blank paper area. Correct ONLY the letter in his hands: remove all dark handwriting-like marks and make the sheet completely unmarked ivory paper. No writing, symbols, seals or watermarks anywhere. Do not add anything.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-d75fc5d9-7f97-4567-9fbf-721d1e11808a.png",
+  "image": "assets/volume-2/poem-art/154-yizhu-17182130b363d0e6.png",
+  "sha256": "80ad5a04f0084a5eb30654948c5297706a0fa86fa718842486f1da2ad280e3df",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "雨后戍楼黄鹂、新柳与白发旅人、旧裘相衬，远队归来含蓄对应友人消息；纸上初稿伪字已编辑清除，人物双手与画面留白检查通过。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T20:38:29.483420+00:00",
+  "generationHistory": [
+    {
+      "kind": "generate",
+      "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-b4f3ac1b-4862-44e8-bfe7-fa0ea59879bc.png",
+      "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A frontier tower after a passing spring shower with an oriole on the parapet and fresh willows below, a gray-haired traveler reading news beside an old fur coat; a bright but wistful western horizon.\nPoem (semantic reference only, do not paint words): 武威春暮闻宇文判官西使还已到晋昌 — 岑参\n岸雨过城头，黄鹂上戍楼。\n塞北飘客泪，边柳挂乡愁。\n白发悲明镜，青春换敝裘。\n君从万里使，闻已到瓜州。\nNo written marks, seal or watermark in any corner or on paper. Keep main scene high on the page and the lower two thirds blank.",
+      "status": "rejected",
+      "reason": "首轮信纸残存细小文字；编辑为完全空白的纸面。"
+    },
+    {
+      "kind": "edit",
+      "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-d75fc5d9-7f97-4567-9fbf-721d1e11808a.png",
+      "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A frontier tower after a passing spring shower with an oriole on the parapet and fresh willows below, a gray-haired traveler reading news beside an old fur coat; a bright but wistful western horizon.\nPoem (semantic reference only, do not paint words): 武威春暮闻宇文判官西使还已到晋昌 — 岑参\n岸雨过城头，黄鹂上戍楼。\n塞北飘客泪，边柳挂乡愁。\n白发悲明镜，青春换敝裘。\n君从万里使，闻已到瓜州。\nNo written marks, seal or watermark in any corner or on paper. Keep main scene high on the page and the lower two thirds blank.\nEDIT: Preserve this entire Chinese watercolor portrait, composition, man, frontier tower, yellow oriole, willow, old fur coat, sunset and huge lower blank paper area. Correct ONLY the letter in his hands: remove all dark handwriting-like marks and make the sheet completely unmarked ivory paper. No writing, symbols, seals or watermarks anywhere. Do not add anything.",
+      "status": "accepted"
+    }
+  ]
+}

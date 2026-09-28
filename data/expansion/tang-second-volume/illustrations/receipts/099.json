@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-6e5ceb963ae8b76e",
+  "order": 99,
+  "title": "己亥岁二首 一",
+  "author": "曹松",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A deserted water-country village at the edge of a silent battlefield, a neglected bundle of firewood and distant military standards reflected in misty channels. Human cost suggested through absence, no graphic bones or glorified victorious general.\nPoem (semantic reference only, do not paint words): 己亥岁二首 一 — 曹松\n泽国江山入战图，生民何计乐樵苏。\n凭君莫话封侯事，一将功成万骨枯。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-e8e9bba3-94fa-480e-8435-029c647c837c.png",
+  "image": "assets/volume-2/poem-art/099-yizhu-6e5ceb963ae8b76e.png",
+  "sha256": "8ea7d18686efe69527035b557eaf2635572859bc37eacd02b312add9ef9d0286",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "逐张查看：水乡空屋、弃置柴束与远方军旗表现战争对樵苏生计的侵扰；无枯骨特写或歌颂战功画面，留白充分。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:51:20.967551+00:00"
+}

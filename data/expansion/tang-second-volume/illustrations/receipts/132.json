@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-f98f00cd64b670ac",
+  "order": 132,
+  "title": "送著作佐郎崔融等从梁王东征",
+  "author": "陈子昂",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: An autumn departure outside a northern pass, two scholars saying farewell to a departing military retinue, frost-pale grasses and windblown banners, sober restraint rather than triumph.\nPoem (semantic reference only, do not paint words): 送著作佐郎崔融等从梁王东征 — 陈子昂\n金天方肃杀，白露始专征。\n王师非乐战，之子慎佳兵。\n海气侵南部，边风扫北平。\n莫卖卢龙塞，归邀麟阁名。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-dcbf47db-fc3a-4ce6-af14-9e20f2f56a42.png",
+  "image": "assets/volume-2/poem-art/132-yizhu-f98f00cd64b670ac.png",
+  "sha256": "f25d851291399bd3e7a3630377ad4c2e4a1e9cc117b361bb76d90afa4effd09f",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "秋草边两位文士送军旅离关，旌旗迎风、队伍远去，神情和色调肃穆；未画得胜欢庆和杀戮，留白完整。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:32:36.797338+00:00"
+}

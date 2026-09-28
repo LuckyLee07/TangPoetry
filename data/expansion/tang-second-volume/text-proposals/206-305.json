@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "preparedOn": "2026-09-29",
+  "sourceUnchanged": true,
+  "scope": "仅供统一校订显示层采用的建议；不修改归档 poems.json",
+  "proposals": [
+    {
+      "id": "yizhu-0b4d98afb790e62c",
+      "order": 226,
+      "title": "开元后乐",
+      "author": "薛逢",
+      "verificationRefs": [
+        "https://ctext.org/wiki.pl?chapter=746601&if=gb",
+        "https://www.shidianguji.com/zh/book/NA11841/chapter/1m46fezup0ism",
+        "https://www.shidianguji.com/zh/book/HY1033/chapter/1kobhgxn29ekp"
+      ],
+      "status": "proposed-source-correction",
+      "evidenceLevel": "concordant-transcribed-primary-witnesses",
+      "facsimileVerified": false,
+      "sourceText": "郐王",
+      "proposedText": "邠王",
+      "reason": "《唐诗鼓吹》卷二（元郝天挺注、四库全书本）电子原典作“邠王玉笛三更咽”；《全唐诗钞》卷六十四与《唐诗贯珠》卷二十三同作“邠王”。《唐诗贯珠》的注文还再次论述“今称邠王之笛咽”，故不是仅凭单处 OCR 或现代译文推改。提出显示层修订，不覆盖归档源文。",
+      "reviewNotes": [
+        "核验的是古籍电子转录及注文，多种原典相互印证；尚未逐页核看影印本，不能称影像校勘定本。",
+        "诗中邠王的具体身份及玉笛典故的指实有讨论空间，本建议只校字，不强定李守礼、李承宁或宁王。"
+      ]
+    },
+    {
+      "id": "yizhu-0b4d98afb790e62c",
+      "order": 226,
+      "title": "开元后乐",
+      "author": "薛逢",
+      "verificationRefs": [
+        "https://ctext.org/wiki.pl?chapter=746601&if=gb",
+        "https://www.shidianguji.com/zh/book/NA11841/chapter/1m46fezup0ism",
+        "https://www.shidianguji.com/zh/book/HY1033/chapter/1kobhgxn29ekp"
+      ],
+      "status": "proposed-source-correction",
+      "evidenceLevel": "concordant-transcribed-primary-witnesses",
+      "facsimileVerified": false,
+      "sourceText": "苏北",
+      "proposedText": "蓟北",
+      "reason": "《唐诗鼓吹》卷二、《全唐诗钞》卷六十四和《唐诗贯珠》卷二十三的这一句均作“一自犬戎生薊北”，薊的简体为蓟；《唐诗鼓吹》注又明确将犬戎联系安禄山。三份古籍文本在目标地名一致，不采用问题较多的《全唐诗》单页 OCR 作唯一依据。仅修订所指地名，其他异文不顺带改动。",
+      "reviewNotes": [
+        "核验的是古籍电子转录，尚未逐页核看影印本；保留书本终校事项。",
+        "《全唐诗钞》的“老漁陽”“沙苑年年”等与源文另有差别，本次不采纳这些非目标异文，仍保留“汾阳”“年来”。"
+      ]
+    }
+  ],
+  "cleanInterpretations": {
+    "yizhu-0b4d98afb790e62c": {
+      "order": 226,
+      "requiresProposals": [
+        "郐王→邠王",
+        "苏北→蓟北"
+      ],
+      "interpretation": [
+        "不要再演奏开元时的旧乐章了，那些曾供欢娱的曲调，如今听来反叫人断肠。邠王的玉笛曾在夜半呜咽，虢国夫人的华丽车驾经过，香气绵延十里。",
+        "自从蓟北兴起叛乱，汾阳王郭子仪便在连年征战中渐渐老去。曾经的歌舞繁华，终于变作绵延不息的兵火。",
+        "中原的骏马为战争被搜求一空，沙苑牧场这些年却又长满芳草。昔日享乐与后来的耗损，在这片空旷草地上形成沉痛的对照。"
+      ],
+      "reviewNotes": [
+        "此为采用上述两项校字后的编辑释义；校勘过程留在本文件及 reviewNotes，不进入读者可见释义。",
+        "邠王身份不作唯一指实；“犬戎”为原诗借古讽今的称谓，释义转述为叛乱。"
+      ]
+    }
+  }
+}

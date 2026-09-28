@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-0645c7c55a298fee",
+  "order": 180,
+  "title": "渡扬子江",
+  "author": "丁仙芝",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Midstream view from an ancient ferry: bright open water, a river station revealed through trees on one bank and a walled town under hills on the other, leaves lifted by a cool north wind.\nPoem (semantic reference only, do not paint words): 渡扬子江 — 丁仙芝\n桂檝中流望，空波两畔明。\n林开扬子驿，山出润州城。\n海尽边阴静，江寒朔吹生。\n更闻风叶下，淅沥度秋声。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-cbff2077-f524-4e57-b311-02ddedd31926.png",
+  "image": "assets/volume-2/poem-art/180-yizhu-0645c7c55a298fee.png",
+  "sha256": "18693b14e5d701d975bf31287a44819101d3cd7d85f1dd8a14e685bb3a80c843",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "旅人从舟中望向林岸驿站与依山城郭，宽江有日光，飞落秋叶表现北风；船、人物和远岸构成前后层次，中下部留白完整。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:55:25.860922+00:00"
+}

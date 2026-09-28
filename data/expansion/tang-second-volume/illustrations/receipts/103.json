@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-ce9f85366dfd2c37",
+  "order": 103,
+  "title": "叙怀二首 一",
+  "author": "张九龄",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A young scholar in coarse robes reading a plain scroll beside a bundle of firewood under an unadorned window; another scholarly figure approaching as an equal. Inner worth and fellowship, no literal jewel held as wealth.\nPoem (semantic reference only, do not paint words): 叙怀二首 一 — 张九龄\n弱岁读群史，抗迹追古人。\n被褐有怀玉，佩印从负薪。\n志合岂兄弟，道行无贱贫。\n孤根亦何赖，感激此为邻。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-87e26e89-e6e7-4092-9d87-67e7022070f8.png",
+  "image": "assets/volume-2/poem-art/103-yizhu-ce9f85366dfd2c37.png",
+  "sha256": "daa21e0b617abbb1ce55c91a7427e3b1cf853bcd8af325bb77dd6defc0bec174",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "简陋柴门旁少年读书，来访者与他相对，柴薪与素衣对应贫居求学，人物手部和书卷关系可辨；画面下部留白，书上无可读文字。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:56:52.710829+00:00"
+}

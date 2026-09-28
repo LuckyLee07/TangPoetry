@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-bc59c6b363451f18",
+  "order": 176,
+  "title": "江汉",
+  "author": "杜甫",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A gray-haired traveler standing upright beside a wide Jianghan river, a lone cloud and pale moon over distant water, his walking staff steady; aged strength rather than defeat.\nPoem (semantic reference only, do not paint words): 江汉 — 杜甫\n江汉思归客，乾坤一腐儒。\n片云天共远，永夜月同孤。\n落日心犹壮，秋风病欲疎。\n古来存老马，不必取长途。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-fac20a35-019b-4876-8819-faedeb715ba9.png",
+  "image": "assets/volume-2/poem-art/176-yizhu-bc59c6b363451f18.png",
+  "sha256": "842f4e3677824af1fee49db2b903f51d1171709724c7eaf5d9b214cee7021b7a",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "白发旅人拄杖挺立江汉岸边，秋枝、片云与孤月构成暮年仍自持的形象；没有颓废倒伏姿态，诗文区保留大幅淡纸。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:52:15.177733+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-9e4cdfe8469bf5ba",
+  "order": 157,
+  "title": "途中晓发",
+  "author": "崔曙",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A traveler setting out on a high ridge after dawn rain, full moon sinking slowly behind hills while thin clouds hurry seaward, a few falling petals on the path.\nPoem (semantic reference only, do not paint words): 途中晓发 — 崔曙\n晓霁长风里，劳歌赴远期。\n云轻归海疾，月满下山迟。\n旅望因高尽，乡心遇物悲。\n故林遥不见，况在落花时。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-3a53bc5c-1ef8-4345-8a32-e8df264101d5.png",
+  "image": "assets/volume-2/poem-art/157-yizhu-9e4cdfe8469bf5ba.png",
+  "sha256": "45f0154a3b1dc05154bd1ec7d71f76c9093240fed161ec978e308e2864fd9cb3",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "上方山径旅人与马回望低月及远水，花瓣和薄云传达雨后晓行；主体约上三成，雾气自然过渡，中下部留白，底角淡枝不影响正文。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:33:52.317755+00:00"
+}

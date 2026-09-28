@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-2223ffac378a52a6",
+  "order": 133,
+  "title": "送客",
+  "author": "陈子昂",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Two friends parting on a spring river islet at dusk, willows opening new leaves and aromatic waterside plants at their feet; a small boat waiting quietly near reeds.\nPoem (semantic reference only, do not paint words): 送客 — 陈子昂\n故人洞庭去，杨柳春风生。\n相送河洲晚，苍茫别思盈。\n白苹已堪把，绿芷复含荣。\n江南多桂树，归客赠生平。\nKeep all paper, hanging boards and scrolls completely unmarked. No pseudo-Chinese scribbles.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-860d0c4a-2434-4cad-957f-b85de429d647.png",
+  "image": "assets/volume-2/poem-art/133-yizhu-2223ffac378a52a6.png",
+  "sha256": "d97d0feb060bab7b7ea8d5e5d75cc8fd8c1968223771daa512231d8e545898fd",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "春柳河洲上两友道别，旁边小舟静候，香草与水岸白花形成春日气息；人物尺度和动作清楚，画面下部留白。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:54:42.894082+00:00"
+}

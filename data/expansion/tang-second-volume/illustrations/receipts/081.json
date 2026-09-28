@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-0206697548357784",
+  "order": 81,
+  "title": "题都城南庄",
+  "author": "崔护",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A closed rustic garden gate framed by blooming peach branches in spring, one visitor standing outside and no person inside. Emphasize the absent encounter; do not invent death or a reunion.\nPoem (semantic reference only, do not paint words): 题都城南庄 — 崔护\n去年今日此门中，人面桃花相映红。\n人面不知何处在，桃花依旧笑春风。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-0c20345c-e916-449d-807a-49f6a18e2c1b.png",
+  "image": "assets/volume-2/poem-art/081-yizhu-0206697548357784.png",
+  "sha256": "95f000d51d07ae5fd5a759113bd23233ed13455923b022866f51c141d099060d",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：桃花掩映的闭门、门外单独来访者，无门内女子或重逢情节；主体在上方约三分之一，下方宣纸留白充足，无文字或边框。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:34:50.529748+00:00"
+}

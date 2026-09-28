@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-6aa17caab9f8b2ea",
+  "order": 53,
+  "title": "夏夜宿表兄话旧",
+  "author": "窦叔向",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Two middle-aged kinsmen quietly talking beside a window after a little summer rain, pale silk-like mimosa blossoms in the courtyard, one dim lamp and simple wine cups. Intimate reunion touched by loss.\nPoem (semantic reference only, do not paint words): 夏夜宿表兄话旧 — 窦叔向\n夜合花开香满庭，夜深微雨醉初醒。\n远书珍重何曾达，旧事凄凉不可听。\n去日儿童皆长大，昔年亲友半凋零。\n明朝又是孤舟别，愁见河桥酒幔青。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-c1d272df-ff62-489a-8c37-dd2f46cd2b72.png",
+  "image": "assets/volume-2/poem-art/053-yizhu-6aa17caab9f8b2ea.png",
+  "sha256": "a3e1e06829e4b9fc830a2d9454d72d87b05eb83aacb0e3ff5d3954bc97aa2a36",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "两位中年亲人灯下对饮话旧，窗外夏夜细雨与花树，人物温厚，中央留白完整。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:10:41.485359+00:00"
+}

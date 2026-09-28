@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-d751fe033d52bba2",
+  "order": 212,
+  "title": "柳州城西北隅种柑树",
+  "author": "柳宗元",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A Tang scholar kneeling beside young citrus trees along an old city corner, bright tender leaves after spring rain, two hundred saplings suggested by receding rows. Emphasize patient cultivation, not a mature orchard laden with fruit.\nPoem (semantic reference only, do not paint words): 柳州城西北隅种柑树 — 柳宗元\n手种黄柑二百株，春来新叶徧城隅。\n方同楚客怜皇树，不学荆州利木奴。\n几岁开花闻喷雪，何人摘实见垂珠。\n若教坐待成林日，滋味还堪养老夫。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-5d58edf8-9e4a-4a81-af15-f7bcb18dd92d.png",
+  "image": "assets/volume-2/poem-art/212-yizhu-d751fe033d52bba2.png",
+  "sha256": "c89d99f8e115cea7a2ca0fbbaa009519bebe3bcf136aad7f8096a01e11ec188b",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "文士俯身扶土种柑，嫩绿小苗沿城隅成行，雨后泥土湿润；没有把盼望中的果实画成已成熟果园，诗意时序准确，中央下方留白完整。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:32:04.598162+00:00"
+}

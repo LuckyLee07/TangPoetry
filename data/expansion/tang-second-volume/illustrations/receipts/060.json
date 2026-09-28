@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-43528a26a60da9d9",
+  "order": 60,
+  "title": "山中寡妇",
+  "author": "杜荀鹤",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A widowed peasant woman in coarse hemp clothing outside an isolated mountain hut, washing wild roots beside fresh leafy firewood and a weak smoky hearth. Respectful quiet hardship, no caricature or explicit violence.\nPoem (semantic reference only, do not paint words): 山中寡妇 — 杜荀鹤\n夫因兵死守蓬茅，麻苎衣衫鬓发焦。\n桑柘废来犹纳税，田园荒后尚征苗。\n时挑野菜和根煮，旋斫生柴带叶烧。\n任是深山更深处，也应无计避征徭。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-b377aabe-e541-431d-a1ea-58b8d8a676f7.png",
+  "image": "assets/volume-2/poem-art/060-yizhu-43528a26a60da9d9.png",
+  "sha256": "adc7922bc1a0fe17a201649761b8608636fd720802a2d22eb84a24f36df614f9",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "寡妇洗野菜、破衣茅屋与劈柴器具呈现困苦劳作，人物有尊严，无夸张悲惨面容，正文区空白。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:21:13.699105+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-6981c4e00ba1f533",
+  "order": 123,
+  "title": "战城南",
+  "author": "李白",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A silent deserted frontier after battle, an unmounted horse beside abandoned armor and a fading watchfire, huge empty yellow plain; mournful and restrained, no explicit wounds or remains.\nPoem (semantic reference only, do not paint words): 战城南 — 李白\n去年战桑干源，今年战葱河道。\n洗兵条支海上波，放马天山雪中草。\n万里长征战，三军尽衰老。\n匈奴以杀戮为耕作，古来唯见白骨黄沙田。\n秦家筑城备胡处，汉家还有烽火然。\n烽火然不息，征战无已时。\n野战格鬬死，败马号鸣向天悲。\n乌鸢啄人肠，衔飞上挂枯树枝。\n士卒涂草莽，将军空尔为。\n乃知兵者是凶器，圣人不得已而用之。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-a8899645-5d64-4b89-a338-ec5d36bc7b92.png",
+  "image": "assets/volume-2/poem-art/123-yizhu-6981c4e00ba1f533.png",
+  "sha256": "3e02a4954c5881c0268ad8f320cf0e3384180e5cc4c239fda215af949e76c820",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "无骑士的马、弃置甲胄与残旗，烽火仍在远处升起，突出战争循环的凄凉；无尸首伤口，符合克制的反战表达，留白完整。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:22:57.201895+00:00"
+}

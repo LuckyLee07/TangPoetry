@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-d82faeb7efdeb7f8",
+  "order": 39,
+  "title": "秋夜独坐",
+  "author": "王维",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: An aging scholar sitting alone by a small oil lamp in an empty wooden hall, rain outside and one fallen mountain fruit beneath a tree. Fine insect silhouette near the lamp, deep stillness rather than despair.\nPoem (semantic reference only, do not paint words): 秋夜独坐 — 王维\n独坐悲双鬓，空堂欲二更。\n雨中山果落，灯下草虫鸣。\n白发终难变，黄金不可成。\n欲知除老病，唯有学无生。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-4c9c33ff-410b-4b94-b4de-56ad1e4181b3.png",
+  "image": "assets/volume-2/poem-art/039-yizhu-d82faeb7efdeb7f8.png",
+  "sha256": "71d509a4c5a0a5f97aa6286f3348f8bcbaa9bbe16fe097343283c1b97268dc3b",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "秋雨檐下老者灯前独坐，飞虫与落果呼应细节；无多余人物，暗景集中上部、正文纸色明净。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:02:57.209309+00:00"
+}

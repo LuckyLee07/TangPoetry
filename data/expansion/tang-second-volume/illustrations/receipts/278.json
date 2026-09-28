@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-84a9dc9b9840e234",
+  "order": 278,
+  "title": "望夫石",
+  "author": "刘禹锡",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A solitary weathered rock resembling an upright waiting woman on a high riverbank, immense quiet distance beyond. No living woman turning into stone on screen; use the enduring silhouette and long horizon to convey centuries of waiting.\nPoem (semantic reference only, do not paint words): 望夫石 — 刘禹锡\n终日望夫夫不归，化为孤石苦相思。\n望来已是几千载，只似当时初望时。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-76cc998a-179b-439d-9c49-0629377368d2.png",
+  "image": "assets/volume-2/poem-art/278-yizhu-84a9dc9b9840e234.png",
+  "sha256": "3dca0d2198937b155cc087054a91a239627c979ee6dd0722f370fc01b8ab5ce5",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：临江孤石保留近似久候女子的轮廓，石质斑驳、远江帆影与漫长山线衬千载凝望；没有当场变石的奇观，纸色下部完整。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:20:34.153307+00:00"
+}

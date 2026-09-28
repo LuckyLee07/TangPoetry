@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-9a921a4327366cdd",
+  "order": 272,
+  "title": "盆池五首 二",
+  "author": "韩愈",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A small clay basin pond in a modest courtyard, several freshly unfurled young lotus leaves rising together, fine rain tapping their surfaces. Close intimate scale, spare bamboo stool beside it awaiting a friend, no enormous natural lake.\nPoem (semantic reference only, do not paint words): 盆池五首 二 — 韩愈\n莫道盆池作不成，藕稍初种已齐生。\n从今有雨君须记，来听萧萧打叶声。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-2b4ac35b-f2af-462c-94bc-bc26577aaf5b.png",
+  "image": "assets/volume-2/poem-art/272-yizhu-9a921a4327366cdd.png",
+  "sha256": "5a4c810423e96df6243668f6f859521cb2510c1cf656486342ccedb35eadf28c",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：庭院陶盆中荷叶新生，雨滴与叶面水珠清楚，旁有空竹凳等人来听雨；近景小尺度，没有误成自然湖泊，纸色渐出自然。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:10:37.472049+00:00"
+}

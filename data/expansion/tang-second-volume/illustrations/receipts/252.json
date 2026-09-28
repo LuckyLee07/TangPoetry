@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-3cd75431d898f09a",
+  "order": 252,
+  "title": "早梅",
+  "author": "张谓",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A single white-flowering plum tree beside a narrow stream bridge and a distant wooded village, blossoms so pale they resemble lingering snow on the branches. Early spring cold light; do not add actual deep snow that would erase the visual surprise.\nPoem (semantic reference only, do not paint words): 早梅 — 张谓\n一树寒梅白玉条，逈临林村傍谿桥。\n不知近水花先发，疑是经春雪未销。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-065dce5a-4820-445d-9017-3b38ed2a1a80.png",
+  "image": "assets/volume-2/poem-art/252-yizhu-3cd75431d898f09a.png",
+  "sha256": "058c759283695536ba6f07619e7c53a4afa62e021287ced0098debc794b2d286",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：白梅在溪桥侧盛开，远方林村与水流呼应原诗；枝花似雪而地面没有厚雪，突出近水先发，中下方完整纸色留白。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:52:44.605079+00:00"
+}

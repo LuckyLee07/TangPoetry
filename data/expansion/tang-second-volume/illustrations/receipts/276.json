@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-9c1f70a04168b268",
+  "order": 276,
+  "title": "望洞庭",
+  "author": "刘禹锡",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A broad motionless Dongting Lake under soft autumn moonlight, the small dark green rounded island of Junshan at a distance, lake glowing silver around it. Keep the shell and platter purely visual metaphors, not literal objects.\nPoem (semantic reference only, do not paint words): 望洞庭 — 刘禹锡\n湖光秋月两相和，潭面无风镜未磨。\n遥望洞庭山水翠，白银盘里一青螺。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-8187d339-3987-46b4-b135-f83d314199e8.png",
+  "image": "assets/volume-2/poem-art/276-yizhu-9c1f70a04168b268.png",
+  "sha256": "842c101feeb6f8f0068720b397ad3b4d4defcf1bf5106e9fdff42bbf33a20965",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：秋月下洞庭湖银光平静，远处小青山岛如青螺，左侧小人物只是观望尺度；没有把比喻画成真盘真螺，正文区暖纸。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:14:58.235707+00:00"
+}

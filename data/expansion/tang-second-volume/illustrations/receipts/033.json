@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-85f57e822a5eff50",
+  "order": 33,
+  "title": "雁门太守行",
+  "author": "李贺",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A fortress under heavy purple-black autumn clouds, close ranks of worn golden-scale armor and a half-furled crimson banner beside a cold river. Moonlit gleam to match this textual witness, austere resolve without graphic combat.\nPoem (semantic reference only, do not paint words): 雁门太守行 — 李贺\n黑云压城城欲摧，甲光向月金鳞开。\n角声满天秋色里，塞上燕支凝夜紫。\n半卷红旗临易水，霜重鼓寒声不起。\n报君黄金台上意，提携玉龙为君死。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-b8f6e7c9-3439-4642-bf69-37edea7d86d5.png",
+  "image": "assets/volume-2/poem-art/033-yizhu-85f57e822a5eff50.png",
+  "sha256": "7795a2f336d586494650f377588d91513341a26ee250c949306151c58cdd51c8",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "边城黑云、夜月、寒河与披甲将士呼应所存“向月”读法，红旗与金甲点色，未画血腥搏杀，下方暖纸留白。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:54:55.039168+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-a491b5ea79d79310",
+  "order": 70,
+  "title": "题红叶",
+  "author": "宣宗宫人",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A palace woman behind a quiet stone water channel releases one red leaf through a low opening in the wall, soft autumn light outside. Longing for ordinary freedom, no written characters on the leaf.\nPoem (semantic reference only, do not paint words): 题红叶 — 宣宗宫人\n流水何太急，深宫尽日闲。\n殷勤谢红叶，好去到人间。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-7b3f728c-5220-4fef-92b3-1c226109f77c.png",
+  "image": "assets/volume-2/poem-art/070-yizhu-a491b5ea79d79310.png",
+  "sha256": "72264c3eb3b30448715c656739d952b3260b5ec28a0ebcfc215b6ad0365cae9b",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐图查看：宫中女子将红叶放向流水，秋树、宫墙与水道呼应寄意情境；叶面无可见题字，下部纸面清净。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:33:58.138083+00:00"
+}

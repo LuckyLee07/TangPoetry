@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-2b3a9e48d77def9f",
+  "order": 12,
+  "title": "咸阳城东楼",
+  "author": "许浑",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: View from an old high city tower as gusting wind moves reeds and willow branches; heavy clouds gather behind a pavilion hiding the sinking sun, abandoned palace grounds and a river stretch into evening haze. A few distant birds settle in wild grass. Historical melancholy, no lightning or violent storm.\nPoem (semantic reference only, no printed text): 咸阳城东楼 — 许浑\n一上高城万里愁，蒹葭杨柳似汀洲。\n溪云初起日沈阁，山雨欲来风满楼。\n鸟下绿芜秦苑夕，蝉鸣黄叶汉宫秋。\n行人莫问当年事，故国东来渭水流。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-ba0fc211-4dd5-4677-9339-caa11e356254.png",
+  "image": "assets/volume-2/poem-art/012-yizhu-2b3a9e48d77def9f.png",
+  "sha256": "c82fa8a2f4817d8cd7903a40699ec3a2c852ccdd49110aaaab70f6dfbf7f298a",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "Viewed solitary figure in old tower looking over reed marsh, weathered palace grounds, river and gathering dark clouds near sunset. Wind visible in reeds and hanging branches; historical melancholy retained. Central and lower paper clear, no writing or frame.",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:28:29.476682+00:00"
+}

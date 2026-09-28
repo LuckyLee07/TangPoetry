@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-a8e4bcce1aceeed9",
+  "order": 89,
+  "title": "江南春绝句",
+  "author": "杜牧",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Layered Jiangnan water villages and low hills in spring drizzle, green trees reflected in the river, a small plain wine flag and distant temple towers fading into mist. No text on the flag, no excessive crimson blossom.\nPoem (semantic reference only, do not paint words): 江南春绝句 — 杜牧\n千里莺啼绿映江，水村山郭酒旗风。\n南朝四百八十寺，多少楼台烟雨中。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-e73bf713-75e1-4db8-952d-3d5058f5f07d.png",
+  "image": "assets/volume-2/poem-art/089-yizhu-a8e4bcce1aceeed9.png",
+  "sha256": "fba7b19c6b46b40f8dce362a5fc14821572296a589e2946fc822f45b28f03f2d",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "逐张查看：柳岸水村、无字酒旗、远山寺塔在烟雨中递远；未画红花以匹配“绿映江”底本，中下部淡纸无硬边。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:41:13.327531+00:00"
+}

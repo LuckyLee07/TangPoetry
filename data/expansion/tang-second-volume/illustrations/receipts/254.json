@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-756acb8e1399fae9",
+  "order": 254,
+  "title": "营州歌",
+  "author": "高适",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Young frontier riders in thick shaggy fur garments crossing open grassland outside an earthen city, a younger child confidently riding beside older youths. Clear cold light and vigorous movement; no drinking child, trophies, or graphic hunt.\nPoem (semantic reference only, do not paint words): 营州歌 — 高适\n营州少年厌原野，狐裘蒙茸猎城下。\n虏酒千钟不醉人，胡儿十岁能骑马。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-4f186a39-6998-4c21-a369-46f661888768.png",
+  "image": "assets/volume-2/poem-art/254-yizhu-756acb8e1399fae9.png",
+  "sha256": "cc518cf892565f760520dee044fe6bae4cccdc724ea0fb8fa60bc66cc7572cbd",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：着蓬松裘衣的年轻骑者与较小少年驰马于边城外，土色城墙和冷山衬出边地气势；没有儿童饮酒或血腥狩猎，中央下部留白。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:52:52.965043+00:00"
+}

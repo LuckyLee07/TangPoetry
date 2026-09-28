@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-ed9c3b19ab78dd76",
+  "order": 57,
+  "title": "九日齐安登高",
+  "author": "杜牧",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Two friends climbing a green autumn ridge with a small wine flask and chrysanthemums tucked into their headwear, geese crossing a river reflection below. Warm, wry conviviality against a lowering sun.\nPoem (semantic reference only, do not paint words): 九日齐安登高 — 杜牧\n江涵秋影鴈初飞，与客携壶上翠微。\n尘世难逢开口笑，菊花须插满头归。\n但将酩酊酬佳节，不用登临叹落晖。\n古往今来只如此，牛山何必泪沾衣。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-04cda44c-e29b-4024-8970-bb9efab19799.png",
+  "image": "assets/volume-2/poem-art/057-yizhu-ed9c3b19ab78dd76.png",
+  "sha256": "de0d4b408d93134313eb01b947214936075f6dad5812456ee6eefa2edde9c0e5",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "重阳携友登高，簪菊、酒壶、南飞雁与夕照同现，人物疏朗，留白充足。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:21:13.576569+00:00"
+}

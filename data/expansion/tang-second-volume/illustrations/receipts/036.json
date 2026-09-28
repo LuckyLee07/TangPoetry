@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-24a386f1d0e1bb54",
+  "order": 36,
+  "title": "野望",
+  "author": "王绩",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A solitary scholar on an autumn ridge at dusk, shepherds driving calves home and a distant returning hunter below, every tree rust-gold under fading sun. Separate paths emphasize quiet estrangement.\nPoem (semantic reference only, do not paint words): 野望 — 王绩\n东皐薄暮望，徙倚欲何依。\n树树皆秋色，山山唯落晖。\n牧人驱犊返，猎马带禽归。\n相顾无相识，长歌怀采薇。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-29628c58-8482-4fec-8adf-eeb9708910e0.png",
+  "image": "assets/volume-2/poem-art/036-yizhu-24a386f1d0e1bb54.png",
+  "sha256": "740ad7b70c7f1eaa9eb713a915979b13ce3d9d84b8e535f8abcb91490fbf5c86",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "秋树晚照、牧人返村、骑马猎者与独立远望人构成归途与孤独对照，无字留白。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:54:55.152639+00:00"
+}

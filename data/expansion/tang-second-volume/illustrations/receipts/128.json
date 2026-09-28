@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-9d76b0c4272ccc67",
+  "order": 128,
+  "title": "花非花",
+  "author": "白居易",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Indistinct blossom-like forms dissolving into morning mist beyond a half-open window, a pale cloud already disappearing in dawn light; dreamlike but sparse, no invented identifiable lover.\nPoem (semantic reference only, do not paint words): 花非花 — 白居易\n花非花，雾非雾，夜半来，天明去。\n来如春梦几多时，去似朝云无觅处。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-e74905e9-f169-4aed-b695-ae3d933ad701.png",
+  "image": "assets/volume-2/poem-art/128-yizhu-9d76b0c4272ccc67.png",
+  "sha256": "0c71982e8b72f24474d3aca70fc5195b397a987a95ee3fb7108b6210701d7206",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "半开窗帘外花影与晨雾渐散，朝光淡出，没有擅定诗中所指为某位情人；画面轻柔，空白区完整，无文字与边框。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:28:09.856415+00:00"
+}

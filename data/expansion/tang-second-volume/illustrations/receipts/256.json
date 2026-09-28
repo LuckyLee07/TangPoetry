@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-79ae009a9819bfd8",
+  "order": 256,
+  "title": "碛中作",
+  "author": "岑参",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A small lone mounted traveler crossing immense level pale desert under a full moon, distant horizons merging with the sky, no inns or settlements. Strong feeling of vastness without a violent sandstorm.\nPoem (semantic reference only, do not paint words): 碛中作 — 岑参\n走马西来欲到天，辞家见月两回圆。\n今夜不知何处宿，平沙万里绝人烟。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-de4d05d2-ef9d-4369-a319-a0c1feefd21f.png",
+  "image": "assets/volume-2/poem-art/256-yizhu-79ae009a9819bfd8.png",
+  "sha256": "e5d5134f0019e7536fed6575c01e3840ad933c91dfd15375f23a2af92a5a94d8",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：月下平沙上单骑远行，蹄迹引向广阔地平线，没有村落与客栈；荒漠的空旷自然融入下方纸色，留白尤其充足。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:55:38.606054+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-b39c3ec3a2e80a17",
+  "order": 55,
+  "title": "放言五首 三",
+  "author": "白居易",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A scholar comparing a pale uncarved jade stone beside a small brazier and a young tree outside a study window. Quiet patient judgment; keep the philosophical images spare, no written lesson or magical divination props.\nPoem (semantic reference only, do not paint words): 放言五首 三 — 白居易\n赠君一法决狐疑，不用钻龟与祝蓍。\n试玉要烧三日满，辨材须待七年期。\n周公恐惧流言后，王莽谦恭未篡时。\n向使当初身便死，一生真伪复谁知。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-524cfcaa-6cbd-49ae-b7d5-439aee3f1f48.png",
+  "image": "assets/volume-2/poem-art/055-yizhu-b39c3ec3a2e80a17.png",
+  "sha256": "82d6a9bb5e59f984179d1c9c369b5179c370d88f8e342fd03769ededc561edbd",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "诗人观玉、试玉火炉与新栽树木表现识人与考验时间，人物沉静，留白完整，无伪字。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:21:13.499403+00:00"
+}

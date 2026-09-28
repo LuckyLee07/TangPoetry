@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-9e5cda572cf07a2f",
+  "order": 149,
+  "title": "送郑侍御谪闽中",
+  "author": "高适",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Two friends parting at the beginning of a misty southern mountain road, layered humid hills and a modest travel bundle; one gently gestures caution, compassion without gloomy exaggeration.\nPoem (semantic reference only, do not paint words): 送郑侍御谪闽中 — 高适\n谪去君无恨，闽中我旧过。\n大都秋雁少，只是夜猿多。\n东路云山合，南天瘴疠和。\n自当逢雨露，行矣慎风波。\nNo text or seal in any corner; all scrolls and paper must be unmarked. Exactly two hands for each person, realistic hands, limbs and horses.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-8d357a87-57e6-4c03-b750-cdb9191c8ebb.png",
+  "image": "assets/volume-2/poem-art/149-yizhu-9e5cda572cf07a2f.png",
+  "sha256": "ddca95d91384f6843e20c0deb6847643ee0b511ec10d885b2713919b6c389fd8",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "云山相合的南行路上送者抬手叮咛、马上旅人回望，行囊和湿润远山回应谪行；没有凶险灾难夸张，人物关系清楚。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T20:32:53.659972+00:00"
+}

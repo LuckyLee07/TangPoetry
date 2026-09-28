@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-a95bf955adec4476",
+  "order": 158,
+  "title": "江南旅情",
+  "author": "祖咏",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A traveler beside an empty riverside landing holding a sealed letter, a small branch of ripe oranges over clear water, broad hazy southern river and remote northward clouds.\nPoem (semantic reference only, do not paint words): 江南旅情 — 祖咏\n楚山不可极，归路但萧条。\n海色晴看雨，江声夜听潮。\n劒留南斗近，书寄北风遥。\n为报空潭橘，无媒寄洛桥。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-66f8566e-b93a-4ed3-beae-b1717c528f0e.png",
+  "image": "assets/volume-2/poem-art/158-yizhu-a95bf955adec4476.png",
+  "sha256": "74c1153c0b231ccf7a4498a2b5be79589fab0427aaefa890f295344ccef076f0",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "临江旅人手持书信，橘枝、渡口小船、遥山构成独立场景；主题明确，中下部大幅米色留白，底部淡山较低对比，无文字边框。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:33:56.322931+00:00"
+}

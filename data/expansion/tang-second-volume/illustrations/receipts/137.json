@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-9164aad9188fb29b",
+  "order": 137,
+  "title": "奉和圣制立春日侍宴内殿出翦彩花应制",
+  "author": "上官昭容",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A Tang palace craft table with scissors and silk cut into delicate peach and plum blossoms, a few real buds nearby, soft early spring window light; no modern paper decorations or writing.\nPoem (semantic reference only, do not paint words): 奉和圣制立春日侍宴内殿出翦彩花应制 — 上官昭容\n密叶因裁吐，新花逐翦舒。\n攀条虽不谬，摘蕊讵知虚。\n春至由来发，秋还未肯疏。\n借问桃将李，相乱欲何如。\nAll manuscript surfaces and signage blank, without any tiny lettering. No readable or pseudo writing.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-54692df0-a11c-41c1-b76a-bf1a2a769a50.png",
+  "image": "assets/volume-2/poem-art/137-yizhu-9164aad9188fb29b.png",
+  "sha256": "50f8ff8ed5fdf0f4668eae45ad1896d23585d9b91be689899dc5d045f1a5e192",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "宫中女子持剪修整绢制桃李花，侍者端彩花、桌面绢布与剪瓣形成手工现场；双手与剪刀关系可辨，花与真枝对照，主景外大面积纸面。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T20:19:47.406715+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-a47f660cc637e6c3",
+  "order": 249,
+  "title": "送兄",
+  "author": "七岁女子",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A young girl saying goodbye to her older brother near a roadside pavilion, leaves moving in a rising autumn breeze, a unified line of geese overhead. Their paths separate gently in the foreground; age-appropriate plain historical clothing.\nPoem (semantic reference only, do not paint words): 送兄 — 七岁女子\n别路云初起，离亭叶正飞。\n所嗟人异鴈，不作一行归。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-8bb4d518-170f-486e-919e-d82e237efa22.png",
+  "image": "assets/volume-2/poem-art/249-yizhu-a47f660cc637e6c3.png",
+  "sha256": "8078d44535eecdf136a8349cf098e9a086444b7091295ff8f215051f76ef5b06",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：秋亭旁幼女向背行兄长挥手，橙褐叶片飘落，头顶雁群一行齐飞与兄妹分离相对照；主体上置，中下部完整留白。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:50:02.283836+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-320270075e2d7b36",
+  "order": 40,
+  "title": "塞下曲六首 一",
+  "author": "李白",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Snowy Tian Shan peaks in late spring, a weary Tang soldier resting against a saddle near a small military camp while a companion plays a flute. Cold pale blues, resilient posture, no summer flowers.\nPoem (semantic reference only, do not paint words): 塞下曲六首 一 — 李白\n五月天山雪，无花祗有寒。\n笛中闻折柳，春色未曾看。\n晓战随金鼓，宵眠抱玉鞍。\n愿将腰下劒，直为斩楼兰。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-d8601691-9d89-4e93-814e-430afad3c688.png",
+  "image": "assets/volume-2/poem-art/040-yizhu-320270075e2d7b36.png",
+  "sha256": "102302baced2d8407ecee6f6de1b93a7649f7acd7ede1a02aa2d4c423c0fb221",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "雪山军营、吹笛士卒与抱鞍休息者表现苦寒，“折柳”未画成柳树，中央留白。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:02:57.247635+00:00"
+}

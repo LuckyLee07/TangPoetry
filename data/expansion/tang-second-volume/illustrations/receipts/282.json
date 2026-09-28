@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-041331a21fb60212",
+  "order": 282,
+  "title": "闻乐天授江州司马",
+  "author": "元稹",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A sick Tang poet suddenly sitting upright on a low bed after receiving a letter, a nearly spent oil lamp casting wavering shadows, night wind driving rain through a cold window. Strong emotional immediacy without melodramatic injury.\nPoem (semantic reference only, do not paint words): 闻乐天授江州司马 — 元稹\n残灯无焰影幢幢，此夕闻君谪九江。\n垂死病中惊坐起，暗风吹雨入寒窗。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-402c2bf5-c759-4941-a214-bf340539f660.png",
+  "image": "assets/volume-2/poem-art/282-yizhu-041331a21fb60212.png",
+  "sha256": "2e5d8b297718674caafe7e0ab704215cf1ad992c055cdd04386e3f65ea8dee0c",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：病榻上诗人握来信突然撑身坐起，残灯将尽，风吹窗帘、暗雨入窗，惊痛情绪具体；没有创伤夸张或信中文字，下部纸色完整。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:26:38.286697+00:00"
+}

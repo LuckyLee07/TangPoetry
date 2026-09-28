@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-8091478d4d4dbd34",
+  "order": 119,
+  "title": "滕王阁",
+  "author": "王勃",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A high Tang riverside pavilion seen through drifting cloud and fine dusk rain, empty railings facing a broad endlessly flowing river; faded architectural color and quiet historical distance.\nPoem (semantic reference only, do not paint words): 滕王阁 — 王勃\n滕王高阁临江渚，珮玉鸣鸾罢歌舞。\n画栋朝飞南浦云，珠帘暮卷西山雨。\n闲云潭影日悠悠，物换星移几度秋。\n阁中帝子今何在？槛外长江空自流。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-5ad50387-034d-4760-aac4-5dd99bc0c9d0.png",
+  "image": "assets/volume-2/poem-art/119-yizhu-8091478d4d4dbd34.png",
+  "sha256": "55582e91c9b2b2414187470806aeb46bf4f6197cea2bb21e262b6ee1247db5a2",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "江边高阁空栏，暮雨薄云、远帆与长江水表现繁华散去后的悠悠岁月；无舞宴人群和牌匾文字，下部保留纸面。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:18:04.246709+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-161c01906b04bd1b",
+  "order": 54,
+  "title": "始闻秋风",
+  "author": "刘禹锡",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: An aging poet ascending a high terrace with a staff in crisp autumn wind, a spirited horse in distant grass and a hawk opening its wings toward blue-grey sky. Invigorating clear air, not conventional desolate autumn.\nPoem (semantic reference only, do not paint words): 始闻秋风 — 刘禹锡\n昔看黄菊与君别，今听玄蝉我却回。\n五夜飕飗枕前觉，一年颜状镜中来。\n马思边草拳毛动，雕眄青云睡眼开。\n天地肃清堪四望，为君扶病上高台。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-cf12833a-7fb9-43a2-87e3-73d62e2d333b.png",
+  "image": "assets/volume-2/poem-art/054-yizhu-161c01906b04bd1b.png",
+  "sha256": "e7246b16d8447fc4ddbb2a5a6ae4425c4b17568f415ae0cac326fa3a50323126",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "秋风吹衣、老者登阶望远，健鹰、远马、黄菊表现振作昂扬，气氛不悲寒，下部暖纸安静。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:10:41.526997+00:00"
+}

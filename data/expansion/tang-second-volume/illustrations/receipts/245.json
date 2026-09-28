@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-edf0e274d41716b3",
+  "order": 245,
+  "title": "古风二首 一",
+  "author": "李绅",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A vast ripe grain field surrounding a thin exhausted farming family at the edge of a simple hut, harvest bundles plentiful yet their food bowl nearly empty. Humane restraint, no graphic death, highlighting abundance and deprivation side by side.\nPoem (semantic reference only, do not paint words): 古风二首 一 — 李绅\n春种一粒粟，秋成万颗子。\n四海无闲田，农夫犹饿死。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-1cc13ac3-a1fc-4dbc-85a1-a241904ab018.png",
+  "image": "assets/volume-2/poem-art/245-yizhu-edf0e274d41716b3.png",
+  "sha256": "b84343c918566f098e33e551b1b94392588f587fe3a265a8b73e75d520a11162",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：丰收稻田与成束庄稼围绕茅屋，疲惫农夫坐在近空食碗旁，妇人与孩子相伴，远处仍有人劳作；丰收与贫困形成对照，没有直白血腥场面，中下留白充足。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:47:27.054768+00:00"
+}

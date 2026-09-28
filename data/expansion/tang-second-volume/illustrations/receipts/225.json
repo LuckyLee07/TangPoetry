@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-8c4e1084bf59eae2",
+  "order": 225,
+  "title": "失鹤",
+  "author": "李远",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A scholar looking upward beside an empty garden pool, a single white crane already distant in an autumn sky, a weathered stone column at the edge. Tender loss of a once-young companion, no cage or chase scene.\nPoem (semantic reference only, do not paint words): 失鹤 — 李远\n秋风吹却九臯禽，一片闲云万里心。\n碧落有情应怅望，青天无路可追寻。\n来时白雪翎犹短，去日丹砂顶渐深。\n华表柱头留语后，更无消息到如今。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-db6a1590-16c2-4236-b9e5-9a9ef8cb2334.png",
+  "image": "assets/volume-2/poem-art/225-yizhu-8c4e1084bf59eae2.png",
+  "sha256": "a6f8aff92fb5ea1428f56c9e1b369e18557f4832e606215cff604c321ceac3dd",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "文士在空池边抬头望远飞白鹤，风化石柱与秋叶表现失伴惆怅，没有笼子或追捕；池边浅景延至约四成半，需后续叠字检查上缘，中央下部保持空白。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T20:28:00.028575+00:00"
+}

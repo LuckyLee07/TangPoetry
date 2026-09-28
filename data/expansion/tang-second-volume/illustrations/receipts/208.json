@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-bc0134c91b1e83cd",
+  "order": 208,
+  "title": "送宫人入道归山",
+  "author": "于鹄",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: An elderly former palace woman in a muted yellow Daoist robe at a mountain hermitage at dawn. Tall pines shelter a young crane, an old monkey by the simple gate; the palace is absent, emphasizing release after a long confined life.\nPoem (semantic reference only, do not paint words): 送宫人入道归山 — 于鹄\n十岁吹萧入汉宫，看修水殿种芙蓉。\n自伤白发辞金屋，许著黄衣向玉峰。\n解语老猨开晓户，学飞雏鹤落高松。\n定知别后宫中伴，应听缑山半夜钟。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-19b8d44b-9d62-47cd-b41a-614f96b3fd46.png",
+  "image": "assets/volume-2/poem-art/208-yizhu-bc0134c91b1e83cd.png",
+  "sha256": "fb33bd9fa9a92084461b5dc00bf82fe6fcd8c4f2325138ba58f2d45c7afaefc2",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "白发女子穿黄衣立于山居门口，老猿守门、幼鹤落松，远峰晨光清淡；人物未画成少女，年老出宫之意明确，正文留白充足。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:28:17.742465+00:00"
+}

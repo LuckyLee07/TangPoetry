@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-0130438e20af81a9",
+  "order": 173,
+  "title": "后游",
+  "author": "杜甫",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A visitor recrossing a small bridge toward a quiet temple amid flowering trees and fresh willow, lightly misted wet fields and warm sandy bank in gentle spring sun.\nPoem (semantic reference only, do not paint words): 后游 — 杜甫\n寺忆新游处，桥怜再渡时。\n江山如有待，花柳更无私。\n野润烟光薄，沙暄日色迟。\n客愁全为减，舍此复何之。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-b5e4821c-68dc-4ce2-a256-752f74ee397c.png",
+  "image": "assets/volume-2/poem-art/173-yizhu-0130438e20af81a9.png",
+  "sha256": "715aa2176669f9c6b1cede80336e5d92ea13eb87f4e469183143be5fb2597be4",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "春日寺院、湿润江岸与花树环绕小桥，旅人再次过桥入寺，坡田与水色相连；符合重游而见春景更浓。景物从上部渐淡，中下部宣纸可容完整诗文，无文字。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:49:36.375186+00:00"
+}

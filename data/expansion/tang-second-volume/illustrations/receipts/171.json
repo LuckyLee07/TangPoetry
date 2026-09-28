@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-57ad928e09e1204d",
+  "order": 171,
+  "title": "天河",
+  "author": "杜甫",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A clear autumn Milky Way arching over a tiny palace silhouette and distant frontier tower, a pale moon nearby; no literal riverboats in the sky, vast peaceful celestial light.\nPoem (semantic reference only, do not paint words): 天河 — 杜甫\n常时任显晦，秋至辄分明。\n纵被微云掩，终能永夜清。\n含星动双阙，伴月照边城。\n牛女年年渡，何曾风浪生。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-eb293e04-a257-46a0-bf77-3bbea3d46a5a.png",
+  "image": "assets/volume-2/poem-art/171-yizhu-57ad928e09e1204d.png",
+  "sha256": "fbae59c5d30a81c856fc3fd1536df06807817fd4857e533cd0f95abc259b87bf",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "上方淡蓝夜空有清晰但柔和的银河与月光，左右分别以小宫殿和边地望楼呼应千家望夜与关塞夜行；没有将银河画成实河。下方约三分之二保留暖白宣纸，无文字。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:49:28.206660+00:00"
+}

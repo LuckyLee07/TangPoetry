@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-3d6f9fe19a768d36",
+  "order": 223,
+  "title": "中年",
+  "author": "郑谷",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A middle-aged poet revising a manuscript by a low desk while spring rain falls outside, moss on the courtyard wall and faint fields beyond. Muted early-year light, quiet concentration, a small wine cup without festive excess.\nPoem (semantic reference only, do not paint words): 中年 — 郑谷\n漠漠秦云澹澹天，新年景象入中年。\n情多最恨花无语，愁破方知酒有权。\n苔色满墙寻故第，雨声一夜忆春田。\n衰迟自喜添诗学，更把前题改数联。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-71962330-89e2-457e-babf-23a09f0438da.png",
+  "image": "assets/volume-2/poem-art/223-yizhu-3d6f9fe19a768d36.png",
+  "sha256": "663a63e7a5533e6378785737534e8b2f3cbad1c963e646eeeeb1d9fe1af7b06f",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "中年诗人灯前改稿，窗外春雨湿苔墙与远田，案上小杯、书卷具日常感；脸部年岁感适当，有细小不可辨笔痕而无附加诗句，留白充分。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T20:24:09.927647+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-9a8f4a102349b247",
+  "order": 85,
+  "title": "再游玄都观",
+  "author": "刘禹锡",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: An old Taoist courtyard with moss covering broad paving stones and soft yellow vegetable blossoms where peach trees once grew, a returning scholar at the gate. Wry persistence and changed fortunes, no surviving pink peach orchard.\nPoem (semantic reference only, do not paint words): 再游玄都观 — 刘禹锡\n百亩庭中半是苔，桃花净尽菜花开。\n种桃道士归何处，前度刘郎今又来。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-934c7c7d-4425-4835-bbe1-90708d419145.png",
+  "image": "assets/volume-2/poem-art/085-yizhu-9a8f4a102349b247.png",
+  "sha256": "280d7b9a5ebb3e40ac6e96eba31b07e26c89724df1df9838a344fab23c8938b0",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：返访者立于旧观门前，石阶苔痕与黄色菜花明确，枯桃枝无盛开桃花；上方主景，下方暖纸留白。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:37:25.497708+00:00"
+}

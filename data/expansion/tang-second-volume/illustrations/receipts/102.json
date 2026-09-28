@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-f25fff9d1f292c6f",
+  "order": 102,
+  "title": "题张老松树",
+  "author": "宋之问",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A very tall spare pine rising straight from an eastern rocky slope at winter dusk, lateral branches minimal, surrounding grasses dark with cold. One tiny observer, austere dignity and loneliness.\nPoem (semantic reference only, do not paint words): 题张老松树 — 宋之问\n岁晚东岩下，周顾何凄恻。\n日落西山阴，众草起寒色。\n中有乔松树，使我长叹息。\n百尺无寸枝，一生自孤直。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-696bb56e-8554-41fe-ba51-63c424b607fd.png",
+  "image": "assets/volume-2/poem-art/102-yizhu-f25fff9d1f292c6f.png",
+  "sha256": "02c706d4e6b8d20021e0cf899258b80f777ffb7465e29af8a7e3b90fdbdb83db",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "挺拔孤松立在山石旁，长直树干与高处松冠突出凌云之势，山间晚照与远小人物构成尺度，画面下方大部留白；未把拟人语画成怪诞形象。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:56:49.651085+00:00"
+}

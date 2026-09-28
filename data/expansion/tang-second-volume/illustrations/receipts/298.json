@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-29238e168c4826e9",
+  "order": 298,
+  "title": "再经胡城县",
+  "author": "杜荀鹤",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A traveling poet witnessing a county official in a newly red-marked ceremonial robe passing silent impoverished townspeople outside a plain county gate. Red stays restrained and symbolic, no literal blood or gore; contrast promotion and suffering.\nPoem (semantic reference only, do not paint words): 再经胡城县 — 杜荀鹤\n去岁曾经此县城，县民无口不冤声。\n今来县宰加朱绂，便是生灵血染成。\nHistorical clothing is TANG dynasty. The official wears a PLAIN vermilion ROUND-COLLARED robe with a belt and small dark soft futou cap. Absolutely NO square embroidered rank badge on front or back, NO Ming/Qing mandarin costume, NO stiff wide-winged Ming court hat. Keep his red robe plain without logos, text, embroidered animals or patch panels.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-13a8385a-8232-4dac-a3a1-4765ffdde05c.png",
+  "image": "assets/volume-2/poem-art/298-yizhu-29238e168c4826e9.png",
+  "sha256": "00d076259913f48f3d8645a041c65b9b4a1c418a6a46f5ad87e5cdd3dd67ffdd",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：上方道路上官员着无胸背补子的纯朱红圆领袍骑马入城，穷老者与母子在路旁，旅人驻足回望；重画已去除首稿误入的明式方形补子。城楼及小红盖仅占上部，下方纸面洁净，无字。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T20:28:09.044501+00:00"
+}

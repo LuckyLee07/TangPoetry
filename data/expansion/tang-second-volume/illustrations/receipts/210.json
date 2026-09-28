@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-bcce570a2720b190",
+  "order": 210,
+  "title": "李处士故居",
+  "author": "王建",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A deserted garden courtyard in damp dawn mist, fallen blossoms beneath a half-moon and a tiny oriole on a branch. A traveler halts his horse outside an overgrown gate; weathered railings and willows retain the shape of past gatherings.\nPoem (semantic reference only, do not paint words): 李处士故居 — 王建\n露浓烟重草萋萋，树映阑干柳拂堤。\n一院落花无客醉，半窗残月有莺啼。\n芳筵想像情难尽，故榭荒凉路欲迷。\n风景宛然人自改，却经门外马频嘶。\nCritical correction: exactly ONE crescent moon in the sky at the upper right. The open window shows ONLY dark empty interior, no moon, no reflection, no circular bright object. Keep the abandoned garden, oriole, lone traveler and horse. Do not duplicate celestial bodies.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-f595bfb5-9cd3-4b44-9fec-0c815ba94bbd.png",
+  "image": "assets/volume-2/poem-art/210-yizhu-bcce570a2720b190.png",
+  "sha256": "f2ce7f9a2438ee7e3d8a0e69635d93661fa7726af78a51a05b16dfa05edf3f6d",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "重生成后天空仅一弯残月，空窗内为暗色而无重复月亮。荒园落花、柳堤与莺声的意象清楚，旅人牵马驻足门外，中下部淡纸可读。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:53:58.933920+00:00"
+}

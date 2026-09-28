@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-4c147bd293553a25",
+  "order": 18,
+  "title": "望庐山瀑布水二首 二",
+  "author": "李白",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A single immense white waterfall descending beneath the Lushan incense-burner peak, sunlit mist softly lavender, tiny forest ledges establishing height. Clear vertical movement and spacious pale lower mist.\nPoem (semantic reference only, do not paint words): 望庐山瀑布水二首 二 — 李白\n日照香炉生紫烟，遥看瀑布挂前川。\n飞流直下三千尺，疑是银河落九天。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-616f83ed-080c-4391-bcf2-b6f2307b5e07.png",
+  "image": "assets/volume-2/poem-art/018-yizhu-4c147bd293553a25.png",
+  "sha256": "10ba2b75eddb0ac22d768c4e6743441cb1bdab9d8d1882f16abd21cebce15866",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "上方山峰瀑布与淡紫水汽表现香炉峰日照，细笔松石与暖纸相融，正文区域安静。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:36:59.370461+00:00"
+}

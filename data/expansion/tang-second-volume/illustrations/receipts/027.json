@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-6cf706b3e20e29c8",
+  "order": 27,
+  "title": "杂咏五首 钓鱼湾",
+  "author": "储光羲",
+  "method": "built-in image_gen",
+  "prompt": "Preserve this image's exact refined pale Chinese ink-watercolor composition, warm ivory full-bleed paper and vast blank lower area. Correct only the aquatic flowers: this is late SPRING, with peach blossom floating on a clear pool, not summer. Remove every white or pink lotus/water-lily flower and lotus bud in the water and bottom corners, keeping just modest fresh young green aquatic leaves, clear water and fallen peach petals. Keep the man, moored boat, fishing pole, willow, peach tree, sunset and distant houses. Do not add text, borders, or new people.",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-974a78d1-66d7-4dcf-8e2e-f802fa42ab6e.png",
+  "image": "assets/volume-2/poem-art/027-yizhu-6cf706b3e20e29c8.png",
+  "sha256": "3757100fe205dd956407f02503dade0a5d8af7c52393402c56be200b10e2f3bb",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "修订后主景夏荷花已移除，保留春潭新叶和桃花落瓣；垂钓者系舟柳下等待，水面清淡。右下极淡小花苞仍可见，后续终校可再简化。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:49:54.638380+00:00"
+}

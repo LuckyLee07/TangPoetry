@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-63e3280d5508fc9a",
+  "order": 300,
+  "title": "古离别",
+  "author": "韦庄",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A mounted traveler lifting his riding whip toward distant southern clouds while a friend stands beside roadside wine cups, long willow strands in pale spring haze. Gesture directs longing far beyond the frame, no aggressive whip action.\nPoem (semantic reference only, do not paint words): 古离别 — 韦庄\n晴烟漠漠柳毵毵，不那离情酒半酣。\n更把马鞭云外指，断肠春色在江南。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-e6b86ea3-f32d-455f-ac83-bedf64b44e56.png",
+  "image": "assets/volume-2/poem-art/300-yizhu-63e3280d5508fc9a.png",
+  "sha256": "4d1146b4c9ff107d0cc9500c6b4bdcf9c73e9b5e906dcb322f58a4b16054d170",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：柳丝春烟中的临水送别，骑马行者举鞭指向远方云际，友人仍在酒案旁；动作是指路而非鞭打，人物建筑在上方，中央和下部留纸白，无字。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T20:28:17.745807+00:00"
+}

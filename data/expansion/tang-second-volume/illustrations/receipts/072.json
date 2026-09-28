@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-61bf98cd957e268b",
+  "order": 72,
+  "title": "塞上听吹笛",
+  "author": "高适",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A moonlit frontier watchtower, returning horses in the distance, a soldier quietly playing a flute at an open parapet. Bare cold landscape; only a few abstract pale petal-like wisps in mist if needed, no blooming plum orchard.\nPoem (semantic reference only, do not paint words): 塞上听吹笛 — 高适\n雪净胡天牧马还，月明羌笛戍楼间。\n借问梅花何处落，风吹一夜满关山。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-c796d5c7-9b65-47a0-9283-74167be70bc9.png",
+  "image": "assets/volume-2/poem-art/072-yizhu-61bf98cd957e268b.png",
+  "sha256": "c294793227852e70de24cc844723c34582c64f317e93dd4960ec0c199278424d",
+  "width": 940,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐图查看：雪后边塞月夜，城头吹笛者与远处骑兵呼应；没有把曲名梅花落画成飘花，主体集中上部。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:56:02.014426+00:00"
+}

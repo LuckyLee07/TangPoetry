@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-42bd9ca37fccffb5",
+  "order": 163,
+  "title": "访戴天山道士不遇",
+  "author": "李白",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Rain-bright peach blossoms over a mountain stream, a small deer partly visible among deep trees, waterfall on a green peak and a traveler leaning against two pines near an empty hermitage.\nPoem (semantic reference only, do not paint words): 访戴天山道士不遇 — 李白\n犬吠水声中，桃花带雨浓。\n树深时见鹿，溪午不闻钟。\n野竹分青霭，飞泉挂碧峰。\n无人知所去，愁倚两三松。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-e57d77f8-5145-4967-a90f-85004ec49bcb.png",
+  "image": "assets/volume-2/poem-art/163-yizhu-42bd9ca37fccffb5.png",
+  "sha256": "49f3cd5fa83728152ce837be156e5b26154ee288acdebccccb2a4b42c72d19f5",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "桃花、流水、深树鹿影、飞泉与倚松访客均可辨，空庐无人符合访而不遇；上方图景稍深入约四成但中央自三分之一后渐淡，诗页中下留白充分。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:40:46.628164+00:00"
+}

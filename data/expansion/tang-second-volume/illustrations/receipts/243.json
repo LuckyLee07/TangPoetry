@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-b0706b7475be6adb",
+  "order": 243,
+  "title": "池上二绝 二",
+  "author": "白居易",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A small child returning in a tiny punt with a few green lotus seedpods, an unmistakable narrow trail opened through floating duckweed behind the boat. Summer pond intimacy and innocent secrecy, no adult scolding scene.\nPoem (semantic reference only, do not paint words): 池上二绝 二 — 白居易\n小娃撑小艇，偷采白莲回。\n不解藏踪迹，浮萍一道开。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-99f43d27-716b-4807-b3b4-9502334b20c9.png",
+  "image": "assets/volume-2/poem-art/243-yizhu-b0706b7475be6adb.png",
+  "sha256": "6f7ec2dc4889885191994b9bd4511e8c94e41d192d7a4ae01ab25ce534b986c9",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：小孩撑艇回望，舟上青莲蓬清楚，浮萍间留出弯曲船痕；夏荷在上部，中央下部淡化干净，无文字或框。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:42:14.126360+00:00"
+}

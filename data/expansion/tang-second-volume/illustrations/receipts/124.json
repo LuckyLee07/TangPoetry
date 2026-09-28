@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-e85490ec49cfaa36",
+  "order": 124,
+  "title": "把酒问月",
+  "author": "李白",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A Tang poet pausing with a small wine cup on an open terrace, one bright moon reflected in the cup and pale water, distant vermilion architecture almost lost in mist; contemplative expansiveness.\nPoem (semantic reference only, do not paint words): 把酒问月 — 李白\n青天有月来几时，我今停杯一问之。\n人攀明月不可得，月行却与人相随。\n皎如飞镜临丹阙，绿烟灭尽清辉发。\n但见宵从海上来，宁知晓向云间没。\n白兔捣药秋复春，嫦娥孤栖与谁邻。\n今人不见古时月，今月曾经照古人。\n古人今人若流水，共看明月皆如此。\n唯愿当歌对酒时，月光长照金樽里。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-d156b3c3-ef51-4a72-9ac8-da1ee83e2f0a.png",
+  "image": "assets/volume-2/poem-art/124-yizhu-e85490ec49cfaa36.png",
+  "sha256": "1953e881bbf119d04fd251892a49cf07ae15ab365b08dca262926eb0edafa1ed",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "诗人停杯仰月，月光映江、淡红宫阙在远雾中，松枝与衣袍宁静；未将嫦娥白兔等典故全部实物化，下方纸面适于阅读。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:23:02.586962+00:00"
+}

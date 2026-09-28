@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-9f2e018f1b8609ea",
+  "order": 183,
+  "title": "盩厔县郑𥐟宅送钱大",
+  "author": "郎士元",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Autumn farewell outside a quiet old town beside running water, a few remaining chrysanthemums near a rustic doorway, two travelers and geese entering cold high clouds.\nPoem (semantic reference only, do not paint words): 盩厔县郑𥐟宅送钱大 — 郎士元\n暮蝉不可听，落叶岂堪闻。\n共是悲秋客，那知此路分。\n荒城背流水，远鴈入寒云。\n陶令门前菊，余花可赠君。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-5ed595e8-f8b5-481c-ac41-50238d54774e.png",
+  "image": "assets/volume-2/poem-art/183-yizhu-9f2e018f1b8609ea.png",
+  "sha256": "cc42f6c27df6a17ceb5ee73f71ff68ececff5f160d1dadf1b31c6235fff47914",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "两位秋客在门前菊边作别，背后流水与荒城、远雁寒云合成清冷秋意；旅客背向前路而送者驻足，中央下方纸面清空。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:58:15.390659+00:00"
+}

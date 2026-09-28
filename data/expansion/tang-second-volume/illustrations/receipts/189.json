@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-ae44e3fa071a2a81",
+  "order": 189,
+  "title": "题松汀驿",
+  "author": "张祜",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: An old waterside relay station at sunrise, bright eastern horizon over broad water, narrow paths linking hillside homes, a lone arriving traveler facing an empty doorway.\nPoem (semantic reference only, do not paint words): 题松汀驿 — 张祜\n山色远含空，苍茫泽国东。\n海明先见日，江白逈闻风。\n鸟道高原去，人烟小径通。\n那知旧遗逸，不在五湖中。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-6d1bbaee-e8a9-41f7-ae05-8b8198e11d8c.png",
+  "image": "assets/volume-2/poem-art/189-yizhu-ae44e3fa071a2a81.png",
+  "sha256": "f761910817cf87ba98965191f328d22edb5f96bd97ab767a279211e591a3a887",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "清晨水岸旧驿门前旅人带驴驻足，狭窄山路通向零落民居，远江旭日与山色相连；人物、屋宇在上部，中央下方留白自然。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:02:08.773866+00:00"
+}

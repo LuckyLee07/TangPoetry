@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-ce898d85359f1705",
+  "order": 259,
+  "title": "赵将军歌",
+  "author": "岑参",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A vigorous Tang frontier general laughing beside a simple board game inside an open camp shelter, a folded dark fur robe as the prize, wind-bent horses and cold Tian Shan foothills beyond. No battlefield victory staged as fact.\nPoem (semantic reference only, do not paint words): 赵将军歌 — 岑参\n九月天山风似刀，城南猎马缩寒毛。\n将军纵博场场胜，赌得单于貂鼠袍。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-97e09cf7-e282-47b6-943c-73e9827a95f2.png",
+  "image": "assets/volume-2/poem-art/259-yizhu-ce898d85359f1705.png",
+  "sha256": "d42d05d9622213d49c91448ce89c6e2bf1effb21851a3010c0c99f214d10fa98",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：天山军帐里将军开怀而笑，博戏盘与所得深色裘袍清晰，帐外马匹与寒山相衬；未将赌胜画成真实战争胜利，下方大留白。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:55:50.640197+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-59a335c4bc9a0977",
+  "order": 9,
+  "title": "左迁至蓝关示姪孙湘",
+  "author": "韩愈",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A weary elderly Tang scholar on horseback halted on a snowbound mountain pass, with a younger male relative approaching beside the trail. Qinling peaks and a bank of clouds cut across the high background; snow partly blocks the narrow road. Somber dignified exile, all high in the painting.\nPoem (semantic reference only, no printed text): 左迁至蓝关示姪孙湘 — 韩愈\n一封朝奏九重天，夕贬潮州路八千。\n欲为圣朝除弊事，肯将衰朽惜残年。\n云横秦岭家何在，雪拥蓝关马不前。\n知汝远来应有意，好收吾骨瘴江边。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-52ab6865-1ae0-4ae1-9d3b-567220780766.png",
+  "image": "assets/volume-2/poem-art/009-yizhu-59a335c4bc9a0977.png",
+  "sha256": "0c8beecef69dddd1d81f3b5fd6e82ee1ba487ed38ba59571113a24a16b452b10",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "Viewed older scholar on a horse accompanied by a younger relative at a snowbound mountain pass. Snow and crossing cloud match the Qinling/Languan passage. Somber restrained grey palette; main figures high, lower ivory writing area clear; no text or frame.",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:23:54.568267+00:00"
+}

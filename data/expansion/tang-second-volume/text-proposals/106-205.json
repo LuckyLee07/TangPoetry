@@ -1,0 +1,332 @@
+{
+  "schemaVersion": 1,
+  "method": "依据原典见证提出校勘建议；保留原始诗库，未经编辑采纳不自动覆盖。",
+  "createdOn": "2026-09-29",
+  "scope": "orders 106–205 中五篇待核正文",
+  "proposals": [
+    {
+      "id": "yizhu-56784ed87e28db70",
+      "order": 108,
+      "title": "古风 三",
+      "author": "李白",
+      "status": "proposed-source-correction",
+      "adoptionRecommendation": "apply-after-editor-review",
+      "sourceText": "秦皇扫六合，虎视何雄哉。\n飞劒决浮云，诸侯尽西来。\n明断自天启，大略驾群才。\n收兵铸金人，函谷正东开。\n铭功会稽岭，骋望瑯琊台。\n刑徒七十万，起土骊山隈。\n尚采不死药，茫然使心哀。\n连弩射海鱼，长鲸正崔嵬。\n额鼻象五岳，扬波喷云雷。\n鬐鬣蔽青天，何由覩蓬莱。\n徐巿载秦女，楼船几时迥。\n但见三泉下，金棺葬寒灰。",
+      "proposedText": "秦皇扫六合，虎视何雄哉。\n飞劒决浮云，诸侯尽西来。\n明断自天启，大略驾群才。\n收兵铸金人，函谷正东开。\n铭功会稽岭，骋望瑯琊台。\n刑徒七十万，起土骊山隈。\n尚采不死药，茫然使心哀。\n连弩射海鱼，长鲸正崔嵬。\n额鼻象五岳，扬波喷云雷。\n鬐鬣蔽青天，何由覩蓬莱。\n徐巿载秦女，楼船几时回。\n但见三泉下，金棺葬寒灰。",
+      "changes": [
+        {
+          "source": "楼船几时迥",
+          "proposed": "楼船几时回",
+          "reason": "所核原诗转录作“樓船幾時迴”；此句问出海楼船何时返回。拟按简体呈现为“回”，不把“迥”解释为返回。",
+          "witness": {
+            "title": "古风（秦皇扫六合）原诗转录",
+            "url": "https://zh.wikisource.org/zh-hant/古風_(秦皇掃六合)",
+            "reading": "徐氏載秦女，樓船幾時迴。"
+          }
+        }
+      ],
+      "verificationRefs": [
+        "https://zh.wikisource.org/zh-hant/古風_(秦皇掃六合)"
+      ],
+      "sourceRefs": [
+        "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.7000.json"
+      ],
+      "summary": "秦始皇曾以雄强之势统一天下，却又劳役万民，执意寻求长生。楼船远去，仙药无踪，最后留下的仍是陵墓中的一具遗骸。",
+      "interpretation": [
+        "秦始皇扫平六国，威势如猛虎，仿佛能以利剑劈开浮云，使诸侯都向西归服。他的决断和谋略超越群才；统一后收缴兵器铸成金人，函谷关也向东敞开。",
+        "他登会稽刻石纪功，又在琅琊台纵目远望；却征发七十万刑徒，在骊山修筑陵墓。已有如此权势，还要寻求不死之药，实在令人悲叹。",
+        "又用连弩射海中大鱼。诗把长鲸写得如山岳一般，喷浪如雷，鳍鬣遮天：面对这般巨物，又到哪里去找蓬莱？徐巿带着秦地女子乘楼船出海，不知何时能返回，最终只见深深地下的金棺，收着已经冷却的生命。"
+      ],
+      "glossary": [
+        {
+          "term": "六合",
+          "text": "天地四方，这里指天下。"
+        },
+        {
+          "term": "徐巿",
+          "text": "秦时求仙者，通常称徐福；巿读 fú。"
+        },
+        {
+          "term": "三泉",
+          "text": "深地下，借指墓穴。"
+        }
+      ],
+      "variants": [
+        {
+          "locus": "飞劒决浮云",
+          "decision": "retain-source",
+          "note": "其他转录有“挥剑”读法；此项不在本次正文替换中。飞／挥及劒字形保留原数据，不扩大改字。"
+        },
+        {
+          "locus": "徐巿",
+          "decision": "retain-source",
+          "note": "所核转录作“徐氏”，当前源文作“徐巿”。保留徐巿，不据单一电子转录改人名字形。"
+        }
+      ]
+    },
+    {
+      "id": "yizhu-b36e0246c6a17469",
+      "order": 114,
+      "title": "观刈麦",
+      "author": "白居易",
+      "status": "proposed-source-correction",
+      "adoptionRecommendation": "apply-after-editor-review",
+      "sourceText": "田家少闲月，五月人倍忙。\n夜来南风起，小麦覆陇黄。\n妇姑荷箪食，童穉携壶浆。\n相随饷田去，丁壮在南冈。\n足蒸暑土气，背灼炎天光。\n力尽不知热，但惜夏日长。\n复有贫妇人，抱子在其傍。\n右手秉遗穗，左臂悬敝筐。\n听其相顾言，闻者为悲伤。\n家田输税尽，拾此充饥肠。\n今我何功德，曾不事农桑。\n吏禄三百石，岁晏有余粮。\n念此私自媿尽日不能忘。",
+      "proposedText": "田家少闲月，五月人倍忙。\n夜来南风起，小麦覆陇黄。\n妇姑荷箪食，童穉携壶浆。\n相随饷田去，丁壮在南冈。\n足蒸暑土气，背灼炎天光。\n力尽不知热，但惜夏日长。\n复有贫妇人，抱子在其傍。\n右手秉遗穗，左臂悬敝筐。\n听其相顾言，闻者为悲伤。\n家田输税尽，拾此充饥肠。\n今我何功德，曾不事农桑。\n吏禄三百石，岁晏有余粮。\n念此私自媿，尽日不能忘。",
+      "changes": [
+        {
+          "source": "念此私自媿尽日不能忘。",
+          "proposed": "念此私自媿，尽日不能忘。",
+          "reason": "《白氏长庆集》卷一原诗转录末联分作两个五字句；仅补读逗号，不替换“媿”等异体字。",
+          "witness": {
+            "title": "白氏长庆集卷一·观刈麦",
+            "url": "https://zh.wikisource.org/wiki/白氏長慶集/卷001",
+            "reading": "念此私自愧，盡日不能忘。"
+          }
+        }
+      ],
+      "verificationRefs": [
+        "https://zh.wikisource.org/wiki/白氏長慶集/卷001"
+      ],
+      "sourceRefs": [
+        "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.21000.json"
+      ],
+      "summary": "麦收时，壮劳力顶着炎日割麦，妇人和孩子送来饭水；一旁还有抱着孩子拾穗的穷妇。诗人想到自己不事耕种却有余粮，惭愧久久不能平息。",
+      "interpretation": [
+        "农家本来少有闲月，五月收麦更加忙碌。南风一夜吹过，垄上的麦子已黄；妇人们担饭，孩子们提水，相伴到南冈给割麦的人送食。",
+        "脚下是蒸人的热土，背上是灼人的阳光。劳力已经耗尽，却顾不得酷热，只盼白昼长些，多收一点。旁边一位贫妇抱着孩子，右手捡拾遗落的麦穗，左臂挂着破筐；听她对人诉说，田产为交税已耗尽，只好靠拾穗充饥，令人悲伤。",
+        "我又有什么功劳德行，从来不做农桑，却一年领取三百石俸粮，到年末还有余粮？想到这里便暗自惭愧，整天不能忘怀。"
+      ],
+      "glossary": [
+        {
+          "term": "饷田",
+          "text": "往田里送饭。"
+        },
+        {
+          "term": "遗穗",
+          "text": "收割时遗落的麦穗。"
+        },
+        {
+          "term": "岁晏",
+          "text": "年末。"
+        }
+      ],
+      "variants": [
+        {
+          "locus": "媿",
+          "decision": "retain-source",
+          "note": "本次为标点修复，媿／愧及穉／稚等字形未统一。"
+        }
+      ]
+    },
+    {
+      "id": "yizhu-66cd7c20bbab2a1d",
+      "order": 126,
+      "title": "节妇吟寄东平李司空师道",
+      "author": "张籍",
+      "status": "proposed-source-correction",
+      "adoptionRecommendation": "apply-after-editor-review",
+      "sourceText": "君知妾有夫，赠妾双明珠。\n感君缠绵意，系在红罗襦。\n妾家高楼连苑起，良人执戟明光里。\n知君用心如日月，事夫誓拟同生死。",
+      "proposedText": "君知妾有夫，赠妾双明珠。\n感君缠绵意，系在红罗襦。\n妾家高楼连苑起，良人执戟明光里。\n知君用心如日月，事夫誓拟同生死。\n还君明珠双泪垂，何不相逢未嫁时。",
+      "changes": [
+        {
+          "source": "原文止于“事夫誓拟同生死。”",
+          "proposed": "末尾补“还君明珠双泪垂，何不相逢未嫁时。”",
+          "reason": "《唐张司业诗集》卷第一《节妇吟》明确有还珠末联，现有数据漏收。该见证作“何不”，本建议据此补足，不默换成通行“恨不”。",
+          "witness": {
+            "title": "唐张司业诗集卷第一·节妇吟",
+            "url": "https://ctext.org/wiki.pl?chapter=801973&if=gb",
+            "reading": "還君明珠𩀱淚垂何不相逢未嫁時"
+          }
+        }
+      ],
+      "verificationRefs": [
+        "https://ctext.org/wiki.pl?chapter=801973&if=gb",
+        "https://zh.wikisource.org/wiki/節婦吟_(張籍)"
+      ],
+      "sourceRefs": [
+        "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json"
+      ],
+      "summary": "赠珠的人明知女子已经有丈夫，仍送来一双明珠。她感念厚意，却含泪归还，以婉转的言辞守住与丈夫相守的誓约。",
+      "interpretation": [
+        "你知道我已经有丈夫，仍赠来一双明珠。我感激这份缠绵的情意，把珠子系在红罗短衫上。",
+        "我家高楼连着苑囿，丈夫正在宫中执戟供职。我知道你的用心如日月般明白，但我早已立誓，要与丈夫同生共死。",
+        "我含着泪把这双明珠还给你，叹惜我们为什么没能在我出嫁以前相逢。虽感念你的情意，却不能改变与丈夫相守的誓言。"
+      ],
+      "glossary": [
+        {
+          "term": "襦",
+          "text": "短上衣。"
+        },
+        {
+          "term": "良人",
+          "text": "妻子对丈夫的称呼。"
+        },
+        {
+          "term": "明光",
+          "text": "汉代宫殿名，此处借指宫廷。"
+        }
+      ],
+      "variants": [
+        {
+          "locus": "何不相逢未嫁时",
+          "alternative": "恨不相逢未嫁时",
+          "decision": "use-selected-witness",
+          "note": "维基文库《节妇吟》转录作“恨不”；两读均存。若编辑改取“恨不”，应同步更换所据版本说明，释义仍为未嫁时未能相逢的叹惜。",
+          "url": "https://zh.wikisource.org/wiki/節婦吟_(張籍)"
+        }
+      ],
+      "editorialNotes": [
+        "clean summary 已将“已有婚约”改为“已经有丈夫”，与“妾有夫”一致。",
+        "末联属于全诗的关键还珠动作，正文补齐后再使用所附完整释义。",
+        "题目寄李师道可另说明婉拒招揽的寄托；不把女性抒情角色等同作者实历。"
+      ]
+    },
+    {
+      "id": "yizhu-17182130b363d0e6",
+      "order": 154,
+      "title": "武威春暮闻宇文判官西使还已到晋昌",
+      "author": "岑参",
+      "status": "proposed-source-correction",
+      "adoptionRecommendation": "retain-source-record-variant",
+      "sourceText": "岸雨过城头，黄鹂上戍楼。\n塞北飘客泪，边柳挂乡愁。\n白发悲明镜，青春换敝裘。\n君从万里使，闻已到瓜州。",
+      "proposedText": "岸雨过城头，黄鹂上戍楼。\n塞北飘客泪，边柳挂乡愁。\n白发悲明镜，青春换敝裘。\n君从万里使，闻已到瓜州。",
+      "changes": [
+        {
+          "source": "岸雨过城头",
+          "proposed": "暂保留“岸雨过城头”",
+          "reason": "补核《全唐诗》卷200原诗转录明确“岸〈一作片〉雨过城头”，故“岸雨”有版本依据，不能仅因别本作“片雨”就判断为讹字。本项由疑似错字降为异文记录，不建议自动替换。",
+          "witness": {
+            "title": "全唐诗卷200所收本诗",
+            "url": "https://zh.wikisource.org/zh-hans/武威春暮聞宇文判官西使還已到晉昌",
+            "reading": "岸〈一作片〉雨過城頭，黃鸝上戍樓。塞北飄客淚，邊柳掛鄉愁。"
+          }
+        }
+      ],
+      "verificationRefs": [
+        "https://zh.wikisource.org/zh-hans/武威春暮聞宇文判官西使還已到晉昌",
+        "https://ctext.org/wiki.pl?chapter=609025&if=gb&remap=gb",
+        "https://www.shidianguji.com/zh/mid-page/7675479871514558490"
+      ],
+      "sourceRefs": [
+        "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.9000.json"
+      ],
+      "summary": "春雨掠过边城，黄鹂停上戍楼，春色反添乡愁。白发照见镜中，旧裘又过一季，忽听远使归来的消息，心便追到了瓜州。",
+      "interpretation": [
+        "春雨掠过城头，黄鹂飞上戍楼。客居塞北，不禁流下眼泪，边地的柳条也仿佛挂着乡愁。",
+        "镜里照见白发，令人悲伤；春天到了，又该换下身上的旧皮衣。你出使万里之外，如今听说已经回到瓜州，我的心便遥遥迎向你的归途。"
+      ],
+      "glossary": [
+        {
+          "term": "戍楼",
+          "text": "边地守城的楼台。"
+        },
+        {
+          "term": "青春",
+          "text": "这里指春天、春光。"
+        },
+        {
+          "term": "敝裘",
+          "text": "破旧的皮衣。"
+        },
+        {
+          "term": "瓜州",
+          "text": "唐代西北州名，处于河西走廊西部，诗中友人归程所到之地。"
+        }
+      ],
+      "variants": [
+        {
+          "locus": "岸雨／塞北",
+          "alternative": "片雨／塞花",
+          "decision": "not-adopted",
+          "note": "《瀛奎律髓》卷三十作“片雨过城头……塞花飘客泪”。若后续改依该本，可同时讨论两处异文；当前不混拼成新底本。",
+          "url": "https://ctext.org/wiki.pl?chapter=609025&if=gb&remap=gb"
+        },
+        {
+          "locus": "原 commentary 疑讹判断",
+          "decision": "superseded-by-this-note",
+          "note": "原 commentary 中“岸雨疑讹”是初查意见；补核发现全唐诗明列异文后，不再维持径改为片雨的建议。原稿未修改，整合时应替换校稿说明。"
+        }
+      ]
+    },
+    {
+      "id": "yizhu-0417cd3171644211",
+      "order": 194,
+      "title": "春残",
+      "author": "翁宏",
+      "status": "proposed-source-correction",
+      "adoptionRecommendation": "apply-after-editor-review",
+      "sourceText": "又是春残也，如何出翠帏。\n落花人独立，微雨燕双飞。\n寓目魂将断，经年梦亦非。\n那堪向愁夕，萧飒暮蝉辉。",
+      "proposedText": "又是春残也，如何出翠帏。\n落花人独立，微雨燕双飞。\n寓目魂将断，经年梦亦非。\n那堪向秋夕，萧飒暮蟾辉。",
+      "changes": [
+        {
+          "source": "那堪向愁夕",
+          "proposed": "那堪向秋夕",
+          "reason": "《增修诗话总龟》前卷十一所引翁宏《宫词》与《诗话总龟》卷十一的转录均作“秋夕”。建议按此见证处理；“那堪”引出更难承受的秋夜，释义不把秋夕硬译作春日晚间。",
+          "witness": {
+            "title": "增修诗话总龟前卷十一·雅什门",
+            "url": "https://ctext.org/wiki.pl?chapter=873754&if=en",
+            "reading": "那堪向秋夕"
+          }
+        },
+        {
+          "source": "萧飒暮蝉辉",
+          "proposed": "萧飒暮蟾辉",
+          "reason": "同一见证作“暮蟾辉”。蟾辉即月光，“蝉辉”不可按会发光的蝉解释。",
+          "witness": {
+            "title": "增修诗话总龟前卷十一·雅什门",
+            "url": "https://zh.wikisource.org/wiki/Page:Sibu_Congkan2077-阮閱-增修詩話總龜-12-03.djvu/3",
+            "reading": "蕭颯暮蟾輝"
+          }
+        }
+      ],
+      "verificationRefs": [
+        "https://ctext.org/wiki.pl?chapter=873754&if=en",
+        "https://www.shidianguji.com/zh/book/SK3337/chapter/1lbaepowec7pl",
+        "https://zh.wikisource.org/wiki/Page:Sibu_Congkan2077-阮閱-增修詩話總龜-12-03.djvu/3"
+      ],
+      "sourceRefs": [
+        "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.42000.json"
+      ],
+      "summary": "春又将尽，庭院落花，独立的人望见细雨里双飞的燕子。眼前的孤单已难承受，更不敢想秋风月色中的漫长等待。",
+      "interpretation": [
+        "又到了春天将尽的时候，怎有心情走出翠色帷幕？落花中我独自站着，细雨里燕子却成双飞过。",
+        "目光所及都使人伤心，长久以来的期盼，在梦中也难成真。此时已如此难熬，更何况再面对秋夜的萧瑟风声和清冷月光，这份孤独又如何承受？"
+      ],
+      "glossary": [
+        {
+          "term": "翠帏",
+          "text": "翠色的帷帐。"
+        },
+        {
+          "term": "寓目",
+          "text": "观看，目光所及。"
+        },
+        {
+          "term": "经年",
+          "text": "经过一年，亦可泛指长久。"
+        },
+        {
+          "term": "蟾辉",
+          "text": "月光。古代传说月中有蟾蜍，因而常借蟾代指月亮。"
+        },
+        {
+          "term": "萧飒",
+          "text": "风吹动的声音，也形容清冷、萧瑟的景象。"
+        }
+      ],
+      "variants": [
+        {
+          "locus": "题名",
+          "alternative": "宫词",
+          "decision": "retain-source-title",
+          "note": "《诗话总龟》引诗称《宫词》，当前库题作《春残》。此次仅校末联，不变更题名。"
+        }
+      ],
+      "editorialNotes": [
+        "本提案采用“秋夕”读法，末联释为由眼前春愁想到更难承受的秋夜；这是文意解释，不是创作年代断言。",
+        "翁宏生平跨唐末五代，朝代归属另作整库统一复核。"
+      ]
+    }
+  ]
+}

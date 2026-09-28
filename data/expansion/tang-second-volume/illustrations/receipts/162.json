@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-23049350661b66c9",
+  "order": 162,
+  "title": "秋登宣城谢朓北楼",
+  "author": "李白",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: View from a northern pavilion over an autumn river town, two clear waterways and two arched bridges, smoke drifting through citrus trees and aging plane trees; a solitary figure at the railing.\nPoem (semantic reference only, do not paint words): 秋登宣城谢朓北楼 — 李白\n江城如画里，山晓望晴空。\n两水夹明镜，双桥落彩虹。\n人烟寒橘柚，秋色老梧桐。\n谁念北楼上，临风怀谢公。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-cfef35c9-0814-4d22-babf-1947ee4b45f1.png",
+  "image": "assets/volume-2/poem-art/162-yizhu-23049350661b66c9.png",
+  "sha256": "8492d04cad4f1e5b9f777ca6a8299f2742b15cd8be2d7e9f4afb5409377e3ac0",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "北楼凭栏人、双桥流水、橘树与秋叶齐备；主要细节在上部，中央至下方为空纸，构图有明晰眺望层次，无文字和硬框。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:37:21.503659+00:00"
+}

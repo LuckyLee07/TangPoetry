@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-19c79b8160027d5c",
+  "order": 273,
+  "title": "盆池五首 五",
+  "author": "韩愈",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A shallow small garden basin filled near its rim at deep night, reflected stars floating in very still dark blue water, a simple water bottle set nearby. No moon dominating the reflection; scale small and sky imaginatively vast.\nPoem (semantic reference only, do not paint words): 盆池五首 五 — 韩愈\n池光天影共青青，拍岸才添水数缾。\n且待夜深明月去，试看涵泳几多星。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-deaef46e-0ee7-4057-b232-3ad8dbb78f91.png",
+  "image": "assets/volume-2/poem-art/273-yizhu-19c79b8160027d5c.png",
+  "sha256": "c304c61dcd74c8c268fb29ebaf02e09552c890120d14edb937a1e88204606385",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：小庭石盆水面映星，旁置水瓶，月已不在画中，院落灯火微弱；星空与盆池大小相映，深色只在顶端，下部留白清爽。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:10:41.410140+00:00"
+}

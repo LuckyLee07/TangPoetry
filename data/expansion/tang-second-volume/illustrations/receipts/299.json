@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-68e172d457be83ff",
+  "order": 299,
+  "title": "雨晴",
+  "author": "王驾",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A rain-washed courtyard with bare flower stems and a few petals on wet ground, two butterflies lifting over a low garden wall toward unseen neighboring greenery. Tender curiosity after loss, no lush surviving flowers in the foreground.\nPoem (semantic reference only, do not paint words): 雨晴 — 王驾\n雨前初见花间蘂，雨后兼无叶里花。\n蛱蝶飞来过墙去，却疑春色在邻家。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-3efc0fbf-f0ad-4991-895a-46dd8ecdc784.png",
+  "image": "assets/volume-2/poem-art/299-yizhu-68e172d457be83ff.png",
+  "sha256": "b596b5195d17490eed454c757702f020391c84a269ecc61cef2e7654de8c218e",
+  "width": 940,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：雨后庭院地面有湿润落花，枝头花已稀疏，两只蝴蝶越过矮墙，人物背向观望；画面表现春色转移而非繁花盛开，中央和下方留白，无字。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T20:28:14.131761+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-6c1a66e4bccc7178",
+  "order": 231,
+  "title": "汾上惊秋",
+  "author": "苏颋",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A lone traveler crossing the Fen River in a small ferry under north-driven white clouds, bare twigs and falling leaves along a cold shore. Broad pale sky and an exposed ferry convey sudden autumn unease.\nPoem (semantic reference only, do not paint words): 汾上惊秋 — 苏颋\n北风吹白云，万里渡河汾。\n心绪逢摇落，秋声不可闻。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-90815cc1-6455-401c-8c50-96287e579472.png",
+  "image": "assets/volume-2/poem-art/231-yizhu-6c1a66e4bccc7178.png",
+  "sha256": "5a73b9ea2cbeba5d49f7cba0710f4d9bda680301b785257ec56ff0262b908e9e",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：上部秋岸疏树、落叶、渡舟与斜卷白云，冷灰淡彩契合惊秋；中下约六成以上暖纸留白，四边无框，无文字，人物小而清楚。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:32:52.341382+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-93a5ac31359abd55",
+  "order": 277,
+  "title": "踏歌词四首 一",
+  "author": "刘禹锡",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Young women in simple Tang dresses moving hand in hand along a level spring river embankment as a pale moon sinks toward dawn and red light touches trees. One woman glances expectantly down the path, festive motion tinged with waiting.\nPoem (semantic reference only, do not paint words): 踏歌词四首 一 — 刘禹锡\n春江月出大堤平，堤上女郎连袂行。\n唱尽新词欢不见，红霞映树鹧鸪鸣。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-691b520f-bb6c-4293-b6f5-7a45149e7eae.png",
+  "image": "assets/volume-2/poem-art/277-yizhu-93a5ac31359abd55.png",
+  "sha256": "dd4c2cfa3746201b464b5ed4d00bb58c953bc113bb8ea3203295b10260953b12",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：江堤四位女子相携而行，前方一人回望等候，霞光映树与月色相融；动作轻而不舞台化，衣裙与风相应，主体集中顶部。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:15:02.684489+00:00"
+}

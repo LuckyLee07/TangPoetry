@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-427a1abdff56f151",
+  "order": 186,
+  "title": "题邻居",
+  "author": "于鹄",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Two neighboring thatched homes in a quiet town lane, a shared cooking stove with pears and one irrigation channel for small vegetable beds; evening lamplight passed between neighbors, gentle domestic warmth.\nPoem (semantic reference only, do not paint words): 题邻居 — 于鹄\n僻巷邻家少，茅簷喜竝居。\n蒸梨常共灶，浇薤亦同渠。\n传屐朝寻药，分灯夜读书。\n虽然在城市，还得似樵渔。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-bb435ea9-9b90-4426-bde8-ddd960aec4ac.png",
+  "image": "assets/volume-2/poem-art/186-yizhu-427a1abdff56f151.png",
+  "sha256": "b69ed5eca4c0fab6fdc52b8be39f7ed1d6cc4310ef58dcdfec20c47f6b26ee88",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "两家茅檐相邻，一位邻人蒸梨、一位举灯，菜畦共用小渠，室内见书案；用生活细节呈现邻里相亲，主体上部而中下部纸色完整。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:01:51.378339+00:00"
+}

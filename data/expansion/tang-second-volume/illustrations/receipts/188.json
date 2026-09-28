@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-4581c35c062f94ac",
+  "order": 188,
+  "title": "长城闻笛",
+  "author": "杨巨源",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Moonlit frontier woods beside an old walled camp, a small flute player and distant cloth-beating stone, a weathered soldier listening silently; frost-blue light, no literal plum blossoms.\nPoem (semantic reference only, do not paint words): 长城闻笛 — 杨巨源\n孤城笛满林，断续共霜砧。\n夜月降羌泪，秋风老将心。\n静过寒垒遍，暗入故关深。\n惆怅梅花落，山川不可寻。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-4a94d6db-f63d-491a-8854-24974970b607.png",
+  "image": "assets/volume-2/poem-art/188-yizhu-4581c35c062f94ac.png",
+  "sha256": "a9aa5b746d98d43b44d5db8d6b82c0857266413f2b974c74b8d49294ce912e4d",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "冷月城垒旁有人吹横笛，老将披甲静听，远处捣衣人可见；画中只有秋林霜色，没有将曲名“梅花落”画作梅树。正文区清空。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:02:02.122200+00:00"
+}

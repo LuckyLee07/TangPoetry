@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-dde372cfe430385e",
+  "order": 77,
+  "title": "戏赠杜甫",
+  "author": "李白",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Two Tang poet friends meet on a sunlit hill path at noon, one noticeably lean under a bamboo rain hat, the other smiling with gentle teasing. Warm familiarity, no mocking caricature.\nPoem (semantic reference only, do not paint words): 戏赠杜甫 — 李白\n饭颗山头逢杜甫，顶戴笠子日卓午。\n借问别来太瘦生，总为从前作诗苦。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-03cdaea9-3b41-408d-8e20-b7d507ca59a7.png",
+  "image": "assets/volume-2/poem-art/077-yizhu-dde372cfe430385e.png",
+  "sha256": "68cad55b506081e677b14d7becf84201cd449ec481f6eb0eb3534f943c073c4d",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐图查看：山路上两位诗人相遇谈笑，戴笠清瘦者与友人戏谑神态相称；没有夸张丑化，画面温暖，下部留白充足。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T19:52:19.311223+00:00"
+}

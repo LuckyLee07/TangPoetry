@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-929c38d010bd5949",
+  "order": 190,
+  "title": "咏风",
+  "author": "张祜",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A seven-string qin near an open window, a silk sleeve and light fan stirred by wind, distant geese turning around a mountain beyond; choose one intimate musical moment, not a montage of all regions.\nPoem (semantic reference only, do not paint words): 咏风 — 张祜\n摇摇歌扇举，悄悄舞衣轻。\n引笛秋临塞，吹沙夜遶城。\n向峰回鴈影，出峡送猨声。\n何似琴中奏，依依别带情。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-0061de51-cd00-4615-9605-e79bcf27a25c.png",
+  "image": "assets/volume-2/poem-art/190-yizhu-929c38d010bd5949.png",
+  "sha256": "712e603ab37ed751b68e917a3fdf3ff00d9239c00c59a4997f7f80ed503921df",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "临窗琴案前女子衣袖、发带和纱帘随风轻扬，团扇与远山回雁相呼应；以一个室内音乐瞬间统摄咏风，未堆叠多地域画面，下方留白充分。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:05:47.518134+00:00"
+}

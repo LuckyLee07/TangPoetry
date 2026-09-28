@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-e20a1fe86feea9fb",
+  "order": 2,
+  "title": "茅屋为秋风所破歌",
+  "author": "杜甫",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: An elderly Tang poet with a thin grey beard and plain robe leaning on a wooden walking stick outside his humble damaged thatched cottage, wet straw torn from its roof and blown toward a few bamboo stems, late autumn gusts and a dark rain cloud. Show dignified concern and hardship without melodrama, no mansion or fantasy vision. The small cottage and poet are both high in the composition; descending rain dissolves into clean blank paper.\nPoem (semantic reference only, no printed text): 茅屋为秋风所破歌 — 杜甫\n八月秋高风怒号，卷我屋上三重茅。\n茅飞度江洒江郊，高者挂罥长林梢。\n下者飘转沈塘坳，南邨群童欺我老无力。\n忍能对面为盗贼，公然抱茅入竹去。\n唇焦口燥呼不得，归来倚仗自叹息。\n俄顷风定云墨色，秋天漠漠向昏黑。\n布衾多年冷似铁，骄儿恶卧踏里裂。\n床床屋漏无干处，雨脚如麻未断绝。\n自经丧乱少睡眠，长夜沾湿何由彻。\n安得广厦千万间，大庇天下寒士俱欢颜。\n风雨不动安如山，呜呼！何时眼前突兀见此屋？\n吾庐独破受冻死亦足。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-c964dc25-a997-4ccd-9a7e-42b1ac00bf50.png",
+  "image": "assets/volume-2/poem-art/002-yizhu-e20a1fe86feea9fb.png",
+  "sha256": "2dabaa83aa89be3fcf9273af008ca5c4f35c319aff94d89fb53e6c28fa3bbed3",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "Observed elderly poet with staff at a damaged thatched hut in wind and rain, torn straw and bamboo visible. Main subjects remain in upper portion, dissolving by about 38%; warm paper below is clear and tiny pale corner motifs remain outside text area. No text, frame or modern objects; somber scene matches hardship in the poem.",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:16:31.673704+00:00"
+}

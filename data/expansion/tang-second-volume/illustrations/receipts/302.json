@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-eab3b6f8629dd93b",
+  "order": 302,
+  "title": "不第后赋菊",
+  "author": "黄巢",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Golden chrysanthemums spreading through an imagined Chang’an garden court under crisp autumn light, layered petals subtly echoing ranks of armor without soldiers. Strong upright flowers and expansive scent-like haze convey confidence, no battle violence.\nPoem (semantic reference only, do not paint words): 不第后赋菊 — 黄巢\n待到秋来九月八，我花开后百花杀。\n冲天香阵透长安，满城尽带黄金甲。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-421252c5-1384-4288-8ea2-69799339d06e.png",
+  "image": "assets/volume-2/poem-art/302-yizhu-eab3b6f8629dd93b.png",
+  "sha256": "efef53aac4102e62b3aada41933cd619d111da71bf796096a182f157be015f4e",
+  "width": 940,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：上方金菊层叠盛放，后方长安宫阙与城墙浸在金色秋光中，花瓣随风而起；以菊花呼应黄金甲，没有把比喻画成战场，中央以下留白，无字。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T20:30:54.778987+00:00"
+}

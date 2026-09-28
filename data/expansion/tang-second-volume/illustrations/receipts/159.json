@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-054b5998ad63c3b9",
+  "order": 159,
+  "title": "塞下曲六首 三",
+  "author": "李白",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A long line of returning cavalry fading into pale distance while one decorated commander approaches a far palace gate, restrained contrast between many anonymous soldiers and concentrated honor.\nPoem (semantic reference only, do not paint words): 塞下曲六首 三 — 李白\n骏马似风飙，鸣鞭出渭桥。\n弯弓辞汉月，插羽破天骄。\n阵解星芒尽，营空海雾消。\n功成画麟阁，独有霍嫖姚。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-cddc4d07-c2ef-4299-8ec2-245fb65a0d92.png",
+  "image": "assets/volume-2/poem-art/159-yizhu-054b5998ad63c3b9.png",
+  "sha256": "a811bf260cc0d5794d00f9f05f5a4d3e985b6ec20f499d3648e348a0a60e3264",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "上方归军队列与独骑将军、宫门呼应功成意象，红旌少量点色，主体止于上三成，中央下方大幅宣纸留白，无文字。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:37:07.058866+00:00"
+}

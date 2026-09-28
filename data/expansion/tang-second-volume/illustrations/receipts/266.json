@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-a5d5487811ac6076",
+  "order": 266,
+  "title": "归雁",
+  "author": "钱起",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A few returning geese above clear southern river shallows, bright sandbanks with moss at the margins, pale moon reflected in water. A very distant empty waterside pavilion suggests an unheard zither song, no literal goddess required.\nPoem (semantic reference only, do not paint words): 归雁 — 钱起\n潇湘何事等闲回，水碧沙明两岸苔。\n二十五弦弹夜月，不胜清怨却飞来。\nBird accuracy: depict native Eurasian GREYLAG GEESE with grey-brown heads and necks, orange beaks, mottled grey-brown wings and pale bellies. Do NOT depict Canada geese: no black necks and no white chinstrap patches. Keep the three geese small and natural in the sky.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-f18f157e-3320-43c6-8270-364c17e5c0ae.png",
+  "image": "assets/volume-2/poem-art/266-yizhu-a5d5487811ac6076.png",
+  "sha256": "43a6031a8ffa8bcc6f3f8423c59fd65e95584afd10ef8c46e2561cb45d02b91a",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：重画后雁改为灰褐头颈、橙喙与斑灰羽色的小型天际主体，避开首版加拿大雁的黑颈白颊；碧水明沙、苔岸与月下远亭齐备，留白干净。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:05:56.928995+00:00"
+}

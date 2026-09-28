@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-3aefc236bd838537",
+  "order": 29,
+  "title": "咏田家",
+  "author": "聂夷中",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: An abandoned humble farmhouse beside young grain and mulberry shoots, a weary peasant family at the margin and one small candle-like warm light. Emphasize unripe crops and precarious livelihood, not a prosperous harvest.\nPoem (semantic reference only, do not paint words): 咏田家 — 聂夷中\n二月卖新丝，五月粜新谷。\n医得眼前疮，剜却心头肉。\n我愿君王心，化作光明烛。\n不照绮罗筵，只照逃亡屋。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-c8294136-f507-4142-80cf-2a697d774ce5.png",
+  "image": "assets/volume-2/poem-art/029-yizhu-3aefc236bd838537.png",
+  "sha256": "b8cb702900450b0fd1e2e6551505f96e86b73319bbbfdf42e98f669636cca8f2",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "破屋前忧困农家、空农具与薄苗表现田家艰辛，未夸张丑化人物，下部留白安静。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:49:54.712580+00:00"
+}

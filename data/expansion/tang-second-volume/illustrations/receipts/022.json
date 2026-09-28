@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-d05fe8438a12505d",
+  "order": 22,
+  "title": "离思五首 四",
+  "author": "元稹",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A solitary figure passing flowering branches without turning, distant sea-like mist and high Wushan clouds above. Reserve a quiet empty space to suggest absence rather than adding a ghostly woman.\nPoem (semantic reference only, do not paint words): 离思五首 四 — 元稹\n曾经沧海难为水，除却巫山不是云。\n取次花丛嬾回顾，半缘修道半缘君。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-003e2df7-8e61-4017-b0e7-fac9e4fe869e.png",
+  "image": "assets/volume-2/poem-art/022-yizhu-d05fe8438a12505d.png",
+  "sha256": "bee837cf665b5d77213c57afd1aea67a9bc0016d182e4b90eb02c7c212b79a7b",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "山海云气与不回首的独行者、花径表现珍重旧情；画面疏淡，下方留白完整。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:40:04.882523+00:00"
+}

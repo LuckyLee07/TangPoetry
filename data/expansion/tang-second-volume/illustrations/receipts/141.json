@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-b637454bda9c280b",
+  "order": 141,
+  "title": "望秦川",
+  "author": "李颀",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Dawn panorama over the Guanzhong plain with layered ancient city gates, frosty pine trees and bamboo foreground, a lone traveler at a viewpoint; exceptionally clear autumn distance.\nPoem (semantic reference only, do not paint words): 望秦川 — 李颀\n秦川朝望迥，日出正东峰。\n远近山河净，逶迤城阙重。\n秋声万户竹，寒色五陵松。\n客有归欤叹，凄其霜露浓。\nNo text or tiny seal in any corner. Human anatomy natural: exactly two hands per person.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-78e7854e-14ae-44f7-a5fa-6a67473e13af.png",
+  "image": "assets/volume-2/poem-art/141-yizhu-b637454bda9c280b.png",
+  "sha256": "a51b2d32e565f07ef154cc67b4a733eb780745ddccf08f2e4082f050c39445be",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "清晨秦川城阙层叠远展，东峰日出、近处松竹霜露与独立游子形成寒秋望乡；景物无现代标记，正文区自然留白。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T20:24:20.839238+00:00"
+}

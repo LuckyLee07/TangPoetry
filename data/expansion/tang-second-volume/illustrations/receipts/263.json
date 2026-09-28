@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-30af601deb578e89",
+  "order": 263,
+  "title": "江畔独步寻花七绝句 六",
+  "author": "杜甫",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A narrow cottage path overhung with abundant flowering branches bending low, butterflies lingering close to blossoms and a small yellow oriole perched above. Lively spring garden, no crowded figures or invented formal estate.\nPoem (semantic reference only, do not paint words): 江畔独步寻花七绝句 六 — 杜甫\n黄四娘家花满蹊，千朵万朵压枝低。\n留连戏蝶时时舞，自在娇莺恰恰啼。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-0f4f8a87-8ce1-4aa8-a19a-942d1cca55e8.png",
+  "image": "assets/volume-2/poem-art/263-yizhu-30af601deb578e89.png",
+  "sha256": "cfc93aa8fc43b0acd5952868762ef94be565394a4a07b25ab4d822c4cbc0cb48",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：茅屋篱径被繁花压低的枝条覆盖，黄莺张口、几只蝶在花间舞，表现花满蹊而非一般空山；下部空纸足够，底角花瓣很淡。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:58:39.820015+00:00"
+}

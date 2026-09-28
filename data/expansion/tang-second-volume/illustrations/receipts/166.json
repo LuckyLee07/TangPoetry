@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-4f97d4634f016f6b",
+  "order": 166,
+  "title": "送张舍人之江东",
+  "author": "李白",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A single distant sail moving slowly across a vast autumn river beneath one high goose, a friend remains near the landing in late light; reserve a small pale moonlike glow in haze.\nPoem (semantic reference only, do not paint words): 送张舍人之江东 — 李白\n张翰江东去，正值秋风时。\n天清一鴈远，海阔孤帆迟。\n白日行欲暮，沧波杳难期。\n吴洲如见月，千里幸相思。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-2e22a9db-c811-4bad-b233-aa7abc5adbc9.png",
+  "image": "assets/volume-2/poem-art/166-yizhu-4f97d4634f016f6b.png",
+  "sha256": "35e1a3a80b918877528ed1db98ccd4a59b59f4e9615425b78c103cd98956bda5",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "泊岸送行者、远去孤帆与一只高雁形成远近关系，秋树、迟暮天色柔和；中央及下方纸面安静，底角仅淡草。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:40:57.861007+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-84a9347da2380295",
+  "order": 3,
+  "title": "卖炭翁",
+  "author": "白居易",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A frail elderly charcoal seller, soot-darkened fingers and grey temples, in thin patched clothes beside a tired ox and a wooden cart carrying charcoal sacks, resting outside an ancient city gate on a cold snowy morning. Small dull-red silk strip tied to the ox hints at unfair forced trade, but no written document or lettering. Muted winter grey and warm paper; poignant dignity, not a cheerful market scene.\nPoem (semantic reference only, no printed text): 卖炭翁 — 白居易\n卖炭翁，伐薪烧炭南山中。\n满面尘灰烟火色，两鬓苍苍十指黑。\n卖炭得钱何所营，身上衣裳口中食。\n可怜身上衣正单，心忧炭贱愿天寒。\n夜来城上一尺雪，晓驾炭车辗冰辙。\n牛困人饥日已高，市南门外泥中歇。\n翩翩两骑来是谁，黄衣使者白衫儿。\n手把文书口称敕，回车叱牛牵向北。\n一车炭，千余斤，官使驱将惜不得。\n半匹红纱一丈绫，系向牛头充炭直。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-286d3058-ec47-4fc3-aefe-5d34f4aad054.png",
+  "image": "assets/volume-2/poem-art/003-yizhu-84a9347da2380295.png",
+  "sha256": "52ba82a4a60a9a5bae8c6aa0be8c3c958ed110a5de2b22bf68897e1e9b82b40c",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "Observed grey-haired charcoal seller, tired ox and laden cart outside an old city gate in snow; two mounted officials recede at upper right. Thin patched clothing and soot convey hardship without graphic violence. Main figures in upper third and central writing region clear; no text or frame.",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:16:36.081996+00:00"
+}

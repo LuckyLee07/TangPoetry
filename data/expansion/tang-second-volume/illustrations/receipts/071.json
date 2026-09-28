@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-85bbe362b2ffead7",
+  "order": 71,
+  "title": "荅人",
+  "author": "太上隐君",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A relaxed recluse asleep with head on a smooth stone under an old pine, sparse pale mountain air and a tiny sign of thawing spring. No calendar prop, no sentimental audience.\nPoem (semantic reference only, do not paint words): 荅人 — 太上隐君\n偶来松树下，高枕石头眠。\n山中无历日，寒尽不知年。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-574e4028-3e9b-4cb1-bbc2-4bc5498d8484.png",
+  "image": "assets/volume-2/poem-art/071-yizhu-85bbe362b2ffead7.png",
+  "sha256": "7d7830065f5f35a87e730c8e086ae5fe5dc6bd6da36f034083fbc331939fe71c",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐图查看：松下高枕而卧的隐者、远山流泉和山花构成自由闲适的山居场景；无题字，下部纸面留白充足。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:55:54.276892+00:00"
+}

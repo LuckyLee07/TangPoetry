@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-85597a8ea153a353",
+  "order": 138,
+  "title": "幽州夜饮",
+  "author": "张说",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A frontier hall at a rainy night, a restrained sword dance silhouetted before seated guests and a reed-pipe player, cold wind stirring trees outside; warmth within and somber age in the observer.\nPoem (semantic reference only, do not paint words): 幽州夜饮 — 张说\n凉风吹夜雨，萧瑟动寒林。\n正有高堂宴，能忘迟暮心。\n军中宜劒舞，塞上重笳音。\n不作边城将，谁知恩遇深。\nAll manuscript surfaces and signage blank, without any tiny lettering. No readable or pseudo writing.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-d920533a-2e14-4da3-9f0e-6a305c5b4c84.png",
+  "image": "assets/volume-2/poem-art/138-yizhu-85597a8ea153a353.png",
+  "sha256": "ee5b7b292103b2e6356ecacc54f63094328cf539b378ad2792e9e39d9eb575ca",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "军中夜宴的剑舞、笳管乐者与年长座客，门外寒雨林木清楚，暖灯和寒夜相对；无战斗伤害、无文字，留白完整。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T20:19:51.949951+00:00"
+}

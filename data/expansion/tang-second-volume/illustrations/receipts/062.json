@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-a57d736e983d8b03",
+  "order": 62,
+  "title": "蝉",
+  "author": "虞世南",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: One cicada resting high on a slender sparse wutong branch with clear dew, broad quiet sky around it. Refined, unforced dignity; no visible sound symbols.\nPoem (semantic reference only, do not paint words): 蝉 — 虞世南\n垂緌饮清露，流响出疎桐。\n居高声自远，非是藉秋风。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-a588ec9a-8c7c-4265-b65e-63cee0ab0d2d.png",
+  "image": "assets/volume-2/poem-art/062-yizhu-a57d736e983d8b03.png",
+  "sha256": "94a2cbc4d2a73a4ce9f2f599555da7466c697cfc0886a6a7af105cffea06ff51",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "一只蝉停在高枝，叶露、疏远山与淡日表现清高远声，近景细致、下方开阔无字。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:21:13.780055+00:00"
+}

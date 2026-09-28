@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-7a6b554f8ae37b2d",
+  "order": 109,
+  "title": "送杨山人归嵩山",
+  "author": "李白",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Song Mountain peaks and a pine above an eastern stream under a clear moon; a distant returning recluse carrying a small herb basket, airy and welcoming, dragon only suggested by a pale cloud.\nPoem (semantic reference only, do not paint words): 送杨山人归嵩山 — 李白\n我有万古宅，嵩阳玉女峰。\n长留一片月，挂在东溪松。\n尔去掇仙草，菖蒲花紫茸。\n岁晚或相访，青天骑白龙。\nEDIT: Edit this Chinese watercolor portrait. Keep its moonlit Song Mountain, pine, tiny returning recluse and herb basket, stream, ivory paper texture and restrained traditional brushwork. Remove the explicit dragon head/body at top right, replacing it with ordinary soft wisps of cloud with NO recognizable creature. Recompose the whole landscape and person into the top 30 percent of the full portrait, dissolve fully into paper mist by 35 percent. Preserve a vast genuinely empty lower 65 percent writing space, only extremely faint small corner plants. No text, frame or symbols.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-0983c7de-3d54-4a05-bb89-3f6ab1180a27.png",
+  "image": "assets/volume-2/poem-art/109-yizhu-7a6b554f8ae37b2d.png",
+  "sha256": "c5b1a63448a21ff19cb3203730ed6d4510463c0fbd8bff3228927e336ce37178",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "嵩山群峰、东溪松月与背药篓归山人关系清楚；初稿过于具体的龙已编辑为普通淡云，山水主景上收，中央至下部大面积留白。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:07:42.297513+00:00",
+  "generationHistory": [
+    {
+      "kind": "generate",
+      "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-c2005599-4aea-42df-a420-20aaa287f300.png",
+      "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Song Mountain peaks and a pine above an eastern stream under a clear moon; a distant returning recluse carrying a small herb basket, airy and welcoming, dragon only suggested by a pale cloud.\nPoem (semantic reference only, do not paint words): 送杨山人归嵩山 — 李白\n我有万古宅，嵩阳玉女峰。\n长留一片月，挂在东溪松。\n尔去掇仙草，菖蒲花紫茸。\n岁晚或相访，青天骑白龙。",
+      "status": "rejected",
+      "reason": "首轮把白龙意象具象成龙形生物且主体下探过多；编辑为云气并收拢景物至上部。"
+    },
+    {
+      "kind": "edit",
+      "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-0983c7de-3d54-4a05-bb89-3f6ab1180a27.png",
+      "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Song Mountain peaks and a pine above an eastern stream under a clear moon; a distant returning recluse carrying a small herb basket, airy and welcoming, dragon only suggested by a pale cloud.\nPoem (semantic reference only, do not paint words): 送杨山人归嵩山 — 李白\n我有万古宅，嵩阳玉女峰。\n长留一片月，挂在东溪松。\n尔去掇仙草，菖蒲花紫茸。\n岁晚或相访，青天骑白龙。\nEDIT: Edit this Chinese watercolor portrait. Keep its moonlit Song Mountain, pine, tiny returning recluse and herb basket, stream, ivory paper texture and restrained traditional brushwork. Remove the explicit dragon head/body at top right, replacing it with ordinary soft wisps of cloud with NO recognizable creature. Recompose the whole landscape and person into the top 30 percent of the full portrait, dissolve fully into paper mist by 35 percent. Preserve a vast genuinely empty lower 65 percent writing space, only extremely faint small corner plants. No text, frame or symbols.",
+      "status": "accepted"
+    }
+  ]
+}

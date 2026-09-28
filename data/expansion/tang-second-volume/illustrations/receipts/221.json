@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-4d5a57c5a6a7500e",
+  "order": 221,
+  "title": "绵谷回寄蔡氏昆仲",
+  "author": "罗隐",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A traveler on horseback pausing on a mountain road beyond Mianzhou, looking back across pale smoke and tall trees toward Chengdu. Grass brushes the horse, a distant river threads into mist; affectionate farewell rather than bleak abandonment.\nPoem (semantic reference only, do not paint words): 绵谷回寄蔡氏昆仲 — 罗隐\n一年两度锦城游，前值东风后值秋。\n芳草有情皆碍马，好云无处不遮楼。\n山将别恨和心断，水带离声入梦流。\n今日因君试回首，淡烟乔木隔绵州。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-47c3e2bf-706b-487b-b6d7-0d1f2d1f5ee3.png",
+  "image": "assets/volume-2/poem-art/221-yizhu-4d5a57c5a6a7500e.png",
+  "sha256": "6c575e2e55c6c28a96f85b7c7bd569be24e74395139998c4c6dc3efe60a064b2",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "骑者在草木掩映的山道上回首城郭，高乔木和淡烟隔着归望，河水引向远处；表情姿态克制，未画成荒凉灾难，正文区留白完整。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T20:24:00.104797+00:00"
+}

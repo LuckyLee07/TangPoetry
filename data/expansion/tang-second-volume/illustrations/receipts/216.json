@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-ddc441065e1d93be",
+  "order": 216,
+  "title": "早鴈",
+  "author": "杜牧",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Scattered wild geese flying through a pale moonlit sky above remote palace silhouettes, one isolated bird emphasized. Below, the scene dissolves into safe southern reed marshes with wild rice; avoid literal human refugees mixed into the sky.\nPoem (semantic reference only, do not paint words): 早鴈 — 杜牧\n金河秋半虏弦开，云外惊飞四散哀。\n仙掌月明孤影过，长门灯暗数声来。\n须知胡骑纷纷在，岂逐春风一一回。\n莫厌潇湘少人处，水多菰米岸莓苔。\nBird accuracy: all birds are Eurasian GREYLAG GEESE, grey-brown head and neck, soft pale grey-brown body, small muted orange bill. Absolutely no Canada goose: no black head or neck, no white chin patch. Paint the geese smaller and looser in watercolor, no oversized foreground bird. Keep the entire marsh, birds and palace above the top 32 percent, everything below fades to blank ivory.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-7716e82d-a63a-42c5-9348-9faa7248f562.png",
+  "image": "assets/volume-2/poem-art/216-yizhu-ddc441065e1d93be.png",
+  "sha256": "aeb71d1f903fd84287e0c1374a7fd89dfd97be7b0d81427ef9b30893ba3ad1f9",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "重生成后飞雁改为较小的灰褐色头颈、淡灰翅腹，去除了首图明显黑颈白颏的加拿大雁外观。宫阙、月色、芦荡菰米在上部铺陈，下方留白宽阔。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:59:40.657520+00:00"
+}

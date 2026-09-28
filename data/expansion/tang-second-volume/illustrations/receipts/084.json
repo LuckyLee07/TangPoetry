@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-08b0f4744fe5c4b5",
+  "order": 84,
+  "title": "浪淘沙九首 一",
+  "author": "刘禹锡",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A wide yellow river carrying pale sand around immense curves, its upper reaches gently dissolving into a silver starry band. One tiny traveler boat at most, imaginative grandeur without literal cartoon deities.\nPoem (semantic reference only, do not paint words): 浪淘沙九首 一 — 刘禹锡\n九曲黄河万里沙，浪淘风簸自天涯。\n如今直上银河去，同到牵牛织女家。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-67ab7bcb-1d5b-4fc2-951e-9aef98be1f23.png",
+  "image": "assets/volume-2/poem-art/084-yizhu-08b0f4744fe5c4b5.png",
+  "sha256": "02f3b0784ce647bf296478133e18aeccad0ebbbaeb189eb8876715444b781379",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：黄河沙色曲流与上方银河相接，岸上远望者和小帆尺度适当；没有卡通神仙，远景消融后中下部留白充足。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:37:19.933624+00:00"
+}

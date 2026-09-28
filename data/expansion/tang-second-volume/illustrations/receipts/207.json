@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-24c4c1ed56773f86",
+  "order": 207,
+  "title": "同崔邠登鹳雀楼",
+  "author": "李益",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Two Tang scholars on an old river watchtower, high masts below, broad sandbars and dim tree lines merging into mist. Half the distant hills catch sunset; the river is empty of ancient armies, a quiet scene of time and longing.\nPoem (semantic reference only, do not paint words): 同崔邠登鹳雀楼 — 李益\n鹳雀楼西百尺樯，汀洲云树共茫茫。\n汉家箫鼓空流水，魏国山河半夕阳。\n事去千年犹恨速，愁来一日即为长。\n风烟倂起思归望，远目非春亦自伤。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-596d7e57-c2db-4431-8487-8e66ab95c5c8.png",
+  "image": "assets/volume-2/poem-art/207-yizhu-24c4c1ed56773f86.png",
+  "sha256": "aa6519f3d9cbda0cab5f7049fbb34e3c8fa93196f80dda5de94d8f5982b98c64",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "两位文士登高楼望河，楼下船樯与汀洲树林相融，半边远山沐夕阳；没有把千年前军乐画成现实军阵，中下部空阔。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:28:12.170409+00:00"
+}

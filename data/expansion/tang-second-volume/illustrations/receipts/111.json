@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-8532b2840376f247",
+  "order": 111,
+  "title": "羌村 一",
+  "author": "杜甫",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: An exhausted returning traveler at a humble brushwood gate in red sunset, wife and children hesitating in tearful recognition, neighbors glimpsed beyond an earthen wall; intimate and dignified.\nPoem (semantic reference only, do not paint words): 羌村 一 — 杜甫\n峥嵘赤云西，日脚下平地。\n柴门鸟雀噪，归客千里至。\n妻孥怪我在，惊定还拭泪。\n世乱遭飘荡，生还偶然遂。\n邻人满墙头，感叹亦歔欷。\n夜阑更秉烛，相对如梦寐。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-f05c2080-9b04-42c5-a53a-0129823dc2d5.png",
+  "image": "assets/volume-2/poem-art/111-yizhu-8532b2840376f247.png",
+  "sha256": "ab4c16b5f84dff8029c93fd4efe3037dc8db998d6117728066b5c1724122f151",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "夕照下归客与妻儿柴门重逢，妻子拭泪、孩子靠近，邻人从土墙后探望，未添喜宴或战斗；人物关系与原诗相符，下方纸面空净。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:07:53.481564+00:00"
+}

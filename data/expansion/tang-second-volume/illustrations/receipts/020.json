@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-6bc4921f54ea9b1e",
+  "order": 20,
+  "title": "金陵五题 石头城",
+  "author": "刘禹锡",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: An empty old stone city wall above a tidal river, a pale moon just clearing low battlements, dark surrounding hills unchanged by time. Silent deserted architecture, soft reflected moonlight.\nPoem (semantic reference only, do not paint words): 金陵五题 石头城 — 刘禹锡\n山围故国周遭在，潮打空城寂寞回。\n淮水东边旧时月，夜深还过女墙来。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-54b600d6-ba02-483a-8f78-a21787c2effd.png",
+  "image": "assets/volume-2/poem-art/020-yizhu-6bc4921f54ea9b1e.png",
+  "sha256": "cfe7cc1200974013205cb2e29f0dbb1df082ab32d0c6da2fa841fc10974737a6",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "孤城旧垒、环山江潮与夜月集中上部，城郭无人而显苍凉；暖纸下部无字留白。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:40:04.839689+00:00"
+}

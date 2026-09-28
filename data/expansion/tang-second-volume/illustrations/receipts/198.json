@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-55d5c7536da19e20",
+  "order": 198,
+  "title": "九日蓝田崔氏庄",
+  "author": "杜甫",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: An elderly poet at an autumn hillside gathering, one companion gently straightening his cap while he studies a small sprig of cornel in hand, two cool peaks and a stream far below.\nPoem (semantic reference only, do not paint words): 九日蓝田崔氏庄 — 杜甫\n老去悲秋强自宽，兴来今日尽君欢。\n羞将短发还吹帽，笑倩旁人为正冠。\n蓝水远从千涧落，玉山高并两峰寒。\n明年此会知谁健，醉把茱萸子细看。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-47340d00-c09b-429f-8ade-9ab3eabcc9d5.png",
+  "image": "assets/volume-2/poem-art/198-yizhu-55d5c7536da19e20.png",
+  "sha256": "cb6f9e50dfcb19d2ecb9d51adeabe2545ba7f51ce31a0492424b0dfa8a06d459",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "老诗人手持茱萸细看，同伴替他整理帽冠，菊花与远处双峰涧流构成重阳山会；动作准确，情绪温厚，纸色留白完整。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:16:12.529629+00:00"
+}

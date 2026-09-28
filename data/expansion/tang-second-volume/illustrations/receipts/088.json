@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-50f6a48f21358e1e",
+  "order": 88,
+  "title": "暮江吟",
+  "author": "白居易",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A broad river at sunset divided naturally between muted jade shadow and a warm red reflection, a thin crescent above and tiny dew on foreground reeds. A gentle evening transition, keep moon slender.\nPoem (semantic reference only, do not paint words): 暮江吟 — 白居易\n一道残阳铺水中，半江瑟瑟半江红。\n可怜九月初三夜，露似真珠月似弓。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-612f31f6-52a1-4f5b-baba-1b6f4a1dd389.png",
+  "image": "assets/volume-2/poem-art/088-yizhu-50f6a48f21358e1e.png",
+  "sha256": "d2ff31950579465e2318cc59ab21a8984707845652fa7dab85030aba20754c9a",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "逐张查看：江水左青右红，落日与细弯新月同处傍晚，近岸草上细露；光色温和，景物消融后有充分正文留白，无文字。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:41:08.386780+00:00"
+}

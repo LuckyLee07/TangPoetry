@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-444a0ce4ebffe52f",
+  "order": 38,
+  "title": "题大禹寺义公禅房",
+  "author": "孟浩然",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A small woodland meditation room opening toward one elegant peak and deep ravines, sunset through thinning rain, a simple lotus bloom near shaded stone steps. Still contemplative air.\nPoem (semantic reference only, do not paint words): 题大禹寺义公禅房 — 孟浩然\n义公习禅处，结构依空林。\n户外一峰秀，阶前群壑深。\n夕阳连雨足，空翠落庭阴。\n看取莲花净，应知不染心。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-9266cd11-3537-4269-910a-a5a69713f3a8.png",
+  "image": "assets/volume-2/poem-art/038-yizhu-444a0ce4ebffe52f.png",
+  "sha256": "5e20b99524005d65226b04ccc07b61f24ef25fc4895ff675aea4dfec6278cb3f",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "僧人禅坐山房，林泉、石阶和莲花表现清净，夕照远峰疏淡，中央大留白无硬边。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:54:55.226638+00:00"
+}

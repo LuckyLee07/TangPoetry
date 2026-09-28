@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-9fbef28bdcaf2683",
+  "order": 193,
+  "title": "送人游吴",
+  "author": "杜荀鹤",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: An intimate Suzhou canal at spring dusk with low stone bridges, riverside homes and a small market selling lotus roots and water chestnuts, one silk-laden boat under a pale moon.\nPoem (semantic reference only, do not paint words): 送人游吴 — 杜荀鹤\n君到姑苏见，人家尽枕河。\n古宫闲地少，水港小桥多。\n夜市卖菱藕，春船载绮罗。\n遥知未眠月，乡思在渔歌。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-441969e1-fa03-48a9-b62c-cbe792ee0311.png",
+  "image": "assets/volume-2/poem-art/193-yizhu-9fbef28bdcaf2683.png",
+  "sha256": "7b312b213f903eaf53004471103ce253fca5d09787121ae340f55c3352411889",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "姑苏水巷夜市、拱桥和枕河人家明确可辨，岸边菱藕摊与船上彩绢对应诗句，月与灯光柔和；热闹集中上部，中下方宣纸留白完整。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:06:00.168872+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-39d0c9040c0577f5",
+  "order": 105,
+  "title": "江上琴兴",
+  "author": "常建",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A lone guqin player at a quiet moonlit river under wutong trees, a natural wooden seven-string instrument with tiny gold position markers, clear moon reflection and deep calm water. Intimate purification and spacious silence.\nPoem (semantic reference only, do not paint words): 江上琴兴 — 常建\n江上调玉琴，一弦清一心。\n泠泠七弦遍，万木澄幽阴。\n能使江月白，又令江水深。\n始知梧桐枝，可以徽黄金。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-a3928672-72a5-4e07-a357-16955aea32d9.png",
+  "image": "assets/volume-2/poem-art/105-yizhu-39d0c9040c0577f5.png",
+  "sha256": "617c3553fc474afa0d60fa7f18b503cb1d84e085d9c83154720a4d648738cbaf",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "江岸独坐抚琴者、木琴与月光水纹构成安静主景，上方阔叶枝干映衬幽阴；琴身和手部可辨，人物集中上部，下方正文区留白。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:59:38.754871+00:00"
+}

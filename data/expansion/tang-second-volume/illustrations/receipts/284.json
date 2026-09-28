@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-ebc04ac89cf1ff3a",
+  "order": 284,
+  "title": "使东川 江花落",
+  "author": "元稹",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: White pear petals caught in river wind at dusk above the Jialing River, half suspended in air and half touching the flowing surface. A small pear branch at the upper bank, no cherry-pink blossoms; fleeting motion and tender loss.\nPoem (semantic reference only, do not paint words): 使东川 江花落 — 元稹\n日暮嘉陵江水东，棃花万片逐江风。\n江花何处最肠断，半落江流半在空。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-ccc422a4-a7d9-4e21-926b-e13165a7495f.png",
+  "image": "assets/volume-2/poem-art/284-yizhu-ebc04ac89cf1ff3a.png",
+  "sha256": "7ee8297145e21b682e4f6de17d43dbe482d01c7ea995435bad89de488e72a386",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：白梨花瓣由枝头随江风飞落，一部分在空中、一部分落向夕照水面，小人物望江；颜色没有误作粉桃，画面稍深到上方四成后转为大留白。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:26:47.725819+00:00"
+}

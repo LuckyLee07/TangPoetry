@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-3a45270741e85e84",
+  "order": 201,
+  "title": "秋兴八首 七",
+  "author": "杜甫",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: An old imperial lake in autumn: a weathered stone whale partly in water, a distant stone maiden, dark reflected clouds and faded lotus; an almost invisible fisherman at the edge, no living whale or goddess.\nPoem (semantic reference only, do not paint words): 秋兴八首 七 — 杜甫\n昆明池水汉时功，武帝旌旗在眼中。\n织女机丝虚月夜，石鲸鳞甲动秋风。\n波漂菰米沈云黑，露冷莲房坠粉红。\n关塞极天唯鸟道，江湖满地一渔翁。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-2f131f48-408e-45aa-83a5-4fe52118a2b7.png",
+  "image": "assets/volume-2/poem-art/201-yizhu-3a45270741e85e84.png",
+  "sha256": "14dc968267b4b5eb7e0e8a08973b0ee54b4d11658e815f165ad4bc5ae9c091a0",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "秋池中石鲸明确带石纹苔痕，远方织女为石像，残荷与水中黑云相映，小渔翁在岸边；是诗意重构而非汉代遗址实景复原，没有活鲸或神女，正文区域留白宽阔。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:16:35.056175+00:00"
+}

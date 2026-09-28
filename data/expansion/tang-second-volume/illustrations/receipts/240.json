@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-8f33b3f7ece0490a",
+  "order": 240,
+  "title": "左掖梨花",
+  "author": "丘为",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A white pear-blossom branch beside pale palace steps, a few petals carried toward the stairs by a gentle breeze, the edge of a scholar’s sleeve catching a petal. Cool purity on warm paper, no literal snowstorm.\nPoem (semantic reference only, do not paint words): 左掖梨花 — 丘为\n冷艳全欺雪，余香乍入衣。\n春风且莫定，吹向玉阶飞。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-b7afd00d-93b5-45cd-9a6c-b06ecc16fcf1.png",
+  "image": "assets/volume-2/poem-art/240-yizhu-8f33b3f7ece0490a.png",
+  "sha256": "ca56b7fb395c1fd787d531c15fdd6a0f7fd29c9caadfed3f7d91984da31d03db",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：白梨花与石阶在上部，风中花瓣飘向台阶，人物袖口轻柔；下方暖纸充分留白，未把梨花比雪画成雪景，无文字。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:42:01.038891+00:00"
+}

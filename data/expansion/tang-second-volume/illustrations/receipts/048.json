@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-b8a5b9a7e27f797c",
+  "order": 48,
+  "title": "商山早行",
+  "author": "温庭筠",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A frosty plank bridge with clear footprints before dawn, a thatched inn and small rooster under the waning moon, dry oak leaves and white trifoliate-orange blossoms along an old post wall. Travel loneliness, no snowstorm.\nPoem (semantic reference only, do not paint words): 商山早行 — 温庭筠\n晨起动征铎，客行悲故乡。\n鸡声茅店月，人迹板桥霜。\n槲叶落山路，枳花明驿墙。\n因思杜陵梦，凫雁满回塘。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-f58d0a59-eacb-48c4-a538-ea047c2a681f.png",
+  "image": "assets/volume-2/poem-art/048-yizhu-b8a5b9a7e27f797c.png",
+  "sha256": "3c831015a85f088b247685eed6679107fc229f96c668934537e44cd6c55b8889",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "残月茅店、晨鸡、板桥霜痕与足迹，枳花槲叶点明早行清寒，未画密集人群。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:10:41.283357+00:00"
+}

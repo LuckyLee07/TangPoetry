@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-9eb865ce65811d46",
+  "order": 17,
+  "title": "从军行七首 五",
+  "author": "王昌龄",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Half-furled crimson standards emerging from a desert camp under dusty dim sunlight, disciplined Tang riders moving forward while a lone messenger approaches. Energetic but not crowded, muted red against pale sand.\nPoem (semantic reference only, do not paint words): 从军行七首 五 — 王昌龄\n大漠风尘日色昏，红旗半卷出辕门。\n前军夜战洮河北，已报生擒吐谷浑。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-3ef53e42-0029-412e-b75f-1a792432b3c2.png",
+  "image": "assets/volume-2/poem-art/017-yizhu-9eb865ce65811d46.png",
+  "sha256": "c9622528ea4954c08b6c5a75e879593e38986e9ccf57edafcf6119976df94c88",
+  "width": 940,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "红旗半卷的营门出兵与策马传讯者形成叙事，日色被风尘压暗，无战斗血腥场面，下方留白充足。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:36:59.332365+00:00"
+}

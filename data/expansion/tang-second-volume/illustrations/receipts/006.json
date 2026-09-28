@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-68170c83f1106590",
+  "order": 6,
+  "title": "使至塞上",
+  "author": "王维",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Vast pale sandy desert at sunset, ONE narrow straight column of smoke rising from a distant frontier beacon, ONE round low sun beside a long smooth river, a tiny envoy carriage far off on the desert path. Majestic open horizontal space contained high on the portrait paper, muted sand and terracotta glow, no multiple suns or modern towers.\nPoem (semantic reference only, no printed text): 使至塞上 — 王维\n单车欲问边，属国过居延。\n征蓬出汉塞，归雁入胡天。\n大漠孤烟直，长河落日圆。\n萧关逢候吏，都护在燕然。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-dd0bf4c2-745c-41d2-b464-7b0af92e71d7.png",
+  "image": "assets/volume-2/poem-art/006-yizhu-68170c83f1106590.png",
+  "sha256": "d386b4fdd12cd8845ab1295488b6af47b4a45cea10f8088770dda1a4ca65b5e2",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "Viewed desert scene has one round sunset, one upright column of beacon smoke, a long calm river and tiny traveling carriage; distant geese fit the poem. Vastness and restrained ochre palette retained. Main dark marks confined high; no text or border.",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:20:19.613631+00:00"
+}

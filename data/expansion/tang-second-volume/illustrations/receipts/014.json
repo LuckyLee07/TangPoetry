@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-79aa95ffb774867a",
+  "order": 14,
+  "title": "古风二首 二",
+  "author": "李绅",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A Tang-era farmer in plain coarse clothing bent over with a hoe tending young grain in a dry field at high noon, beads of effort suggested through posture, small modest terraced strips and warm summer haze. Dignified labor, no giant bowl of rice or modern machinery, no decorative celebration.\nPoem (semantic reference only, no printed text): 古风二首 二 — 李绅\n锄禾日当午，汗滴禾下土。\n谁知盘中餐，粒粒皆辛苦。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-e822c034-cecc-4275-ae6e-a7a38c0b4920.png",
+  "image": "assets/volume-2/poem-art/014-yizhu-79aa95ffb774867a.png",
+  "sha256": "df1a8564e5dc8caa8ab941a3820875bc8937d134a46c36dc302f4268041552df",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "Viewed farmer bending over a hoe among low grain plants under bright high sun, plain coarse clothes, effort visible in posture. Rural background subdued and high; lower paper clear. No rice-bowl symbolism, text or modern machine.",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:28:29.554332+00:00"
+}

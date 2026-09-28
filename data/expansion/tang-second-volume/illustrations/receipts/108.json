@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-56784ed87e28db70",
+  "order": 108,
+  "title": "古风 三",
+  "author": "李白",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A distant ancient expedition vessel departing into a vast misty sea beneath towering wave-like clouds, a tiny imperial observer on shore; grandeur fading into emptiness, no literal immortal island.\nPoem (semantic reference only, do not paint words): 古风 三 — 李白\n秦皇扫六合，虎视何雄哉。\n飞劒决浮云，诸侯尽西来。\n明断自天启，大略驾群才。\n收兵铸金人，函谷正东开。\n铭功会稽岭，骋望瑯琊台。\n刑徒七十万，起土骊山隈。\n尚采不死药，茫然使心哀。\n连弩射海鱼，长鲸正崔嵬。\n额鼻象五岳，扬波喷云雷。\n鬐鬣蔽青天，何由覩蓬莱。\n徐巿载秦女，楼船几时迥。\n但见三泉下，金棺葬寒灰。\nHistorical specificity: Qin dynasty voyage, Qin-era dark plain robes and simple pre-Han sea vessel, not Tang palace fashions. No written emblems.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-0c59d0ea-9ea7-434d-824b-b8c9ed1af395.png",
+  "image": "assets/volume-2/poem-art/108-yizhu-56784ed87e28db70.png",
+  "sha256": "a893a8626aaebeabe98a85d78efea6cabb9ae0ed674a8b8492c9f0823270b478",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "黑袍帝王站岸上望船队远去，高云与波浪表现求仙远航的空茫；无文字与仙山实景，主体上部集中，未混入现代船只。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:00:12.137492+00:00"
+}

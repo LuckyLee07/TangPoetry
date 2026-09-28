@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-d5fcfaf83a84a0df",
+  "order": 127,
+  "title": "水夫谣",
+  "author": "王建",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A line of weary boat haulers leaning into ropes along a river embankment in sleet before dawn, short straw rain capes and a small distant hut; cold mist with a faint warm horizon, no graphic injury.\nPoem (semantic reference only, do not paint words): 水夫谣 — 王建\n苦哉生长当驿边，官家使我牵驿船。\n辛苦日多乐日少，水宿沙行如海鸟。\n逆风上水万斛重，前驿迢迢后淼淼。\n半夜缘堤雪和雨，受他驱遣还复去。\n衣寒衣湿披短蓑，臆穿足裂忍痛何。\n到明辛苦无处说，齐声腾踏牵船出。\n一间茆屋何所值，父母之乡去不得。\n我愿此水作平田，长使水夫不怨天。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-d39b2e1f-c56f-40a7-a24a-a4cf0a33b5d3.png",
+  "image": "assets/volume-2/poem-art/127-yizhu-d5fcfaf83a84a0df.png",
+  "sha256": "0e69febabfc82e57e4aff2e3d8c2f5e146453b750f5e09fc40c385c6616897ea",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "雨雪河堤上穿短蓑的纤夫逆向牵船，远处茅屋微光与冷水相对；牵索方向、船与人关系合理，寒苦场景无伤口特写。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:28:03.738075+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-6b9a2c15611a9d5c",
+  "order": 153,
+  "title": "巴南舟中夜市",
+  "author": "岑参",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A lone traveler in a moored boat watches a bustling dusk ferry landing fade into distant village lights, a temple partly hidden on the bank and a thin autumn moon above the river.\nPoem (semantic reference only, do not paint words): 巴南舟中夜市 — 岑参\n渡口欲黄昏，归人争渡喧。\n近钟清野寺，远火点江村。\n见雁思乡信，闻猿积泪痕。\n孤舟万里外，秋月不堪论。\nNo written marks, seal or watermark in any corner or on paper. Keep main scene high on the page and the lower two thirds blank.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-d039a89b-4ba5-42a2-af85-a732b4f041bc.png",
+  "image": "assets/volume-2/poem-art/153-yizhu-6b9a2c15611a9d5c.png",
+  "sha256": "88da20f22cae72963a3b9c1b900042fee05b6c34bc58d57c9c63be70045fd103",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "孤舟旅人面向暮色渡口，岸边归人争渡与江村点灯、野寺、秋雁薄月形成喧处见孤的对照；舟体人形自然，画面下部留白。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T20:38:24.474479+00:00"
+}

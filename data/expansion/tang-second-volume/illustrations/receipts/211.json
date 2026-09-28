@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-772905ade5996b4e",
+  "order": 211,
+  "title": "再授连州至衡阳酬柳柳州赠别",
+  "author": "刘禹锡",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Two middle-aged Tang friends saying farewell beside the Xiang River, two boats facing different southern channels, a thin line of northbound geese disappearing above spring mountains. Restrained grief and shared political exile.\nPoem (semantic reference only, do not paint words): 再授连州至衡阳酬柳柳州赠别 — 刘禹锡\n去国十年同赴召，渡湘千里又分岐。\n重临事异黄丞相，三黜名慙柳士师。\n归目并随回鴈尽，愁肠正遇断猿时。\n桂江东过连山下，相望长吟有所思。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-77ebdfd7-7eef-4bc0-9420-b225a008465e.png",
+  "image": "assets/volume-2/poem-art/211-yizhu-772905ade5996b4e.png",
+  "sha256": "dfed9b2bb332c0357cecf9be01ebe9506a3e49ba5c685a60cc29eb28711b7fd8",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "两位中年友人立于湘江岸边，两只船分别待发，北归雁横过春山；是共同贬谪后的别离，没有夸张哭泣，主体上部、下方留白清净。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:31:59.002152+00:00"
+}

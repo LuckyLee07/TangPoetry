@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-6dff5ef67b41e83b",
+  "order": 68,
+  "title": "剑客",
+  "author": "贾岛",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A modestly dressed swordsman presenting a newly polished straight Chinese sword with both hands, cool glint along the blade, plain stone setting. Readiness and justice, no attack or blood.\nPoem (semantic reference only, do not paint words): 剑客 — 贾岛\n十年磨一剑，霜刃未曾试。\n今日把似君，谁为不平事。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-161cbe27-4790-4674-8110-0c7a2f4a28eb.png",
+  "image": "assets/volume-2/poem-art/068-yizhu-6dff5ef67b41e83b.png",
+  "sha256": "0062a0de70fb62a40723b88b8a7635b385e9ffee6371c67dd880e2df03409d05",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐图查看：持剑者向来访者平持展示古代直剑，场景为松石庭院，没有打斗血腥；主体集中上部，下部安静。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:33:48.909941+00:00"
+}

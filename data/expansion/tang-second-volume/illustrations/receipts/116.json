@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-a952b9a2bfd9c56a",
+  "order": 116,
+  "title": "长安羁旅行",
+  "author": "孟郊",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A solitary impoverished traveler in a quiet Chang’an lodging, dusty comb and plain bowl, an open doorway revealing distant green hills and a light walking staff; restrained longing for retreat.\nPoem (semantic reference only, do not paint words): 长安羁旅行 — 孟郊\n十日一理发，每梳飞旅尘。\n三旬九过饮，每食唯旧贫。\n万物皆及时，独余不觉春。\n失名谁肯访，得意争相亲。\n直木有恬翼，静流无躁鳞。\n始知喧竞场，莫处君子身。\n野策藤竹轻，山蔬薇蕨新。\n潜歌归去来，事外风景真。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-a4986b24-34fe-496f-a2ae-b9769a911848.png",
+  "image": "assets/volume-2/poem-art/116-yizhu-a952b9a2bfd9c56a.png",
+  "sha256": "93dd6c75aac3efad0e7273a49a547dd164cc00c9d4a131c2e44108c2a729860d",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "贫寒旅人在旧屋内凝望门外青山，素碗、梳子与门边藤杖回应羁旅困顿和归隐意愿；没有添宴饮访客，主体上部、正文区清淡。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:13:49.526275+00:00"
+}

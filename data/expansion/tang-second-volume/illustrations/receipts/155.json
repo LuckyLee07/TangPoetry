@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-1f6423c4b21135b5",
+  "order": 155,
+  "title": "咏山泉",
+  "author": "储光羲",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A small unnamed mountain spring flowing over rock into a dark ravine and a clear shallow pool reflecting sky, no buildings or people; purity through moving and still water.\nPoem (semantic reference only, do not paint words): 咏山泉 — 储光羲\n山中有流水，借问不知名。\n映地为天色，飞空作雨声。\n转来深涧满，分出小池平。\n恬澹无人见，年年长自清。\nNo written marks, seal or watermark in any corner or on paper. Keep main scene high on the page and the lower two thirds blank.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-887f38f7-644f-4580-b334-ef40b105ba10.png",
+  "image": "assets/volume-2/poem-art/155-yizhu-1f6423c4b21135b5.png",
+  "sha256": "3f524c37401772a76e05f591e19a2ffcb9fa693fe619a1b95d1c5817f9b55f25",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "无人山泉分流入深涧与浅池，水面映天、石间跌水清亮，纯山水且无建筑人物；岩石水流关系自然，下方大面积素纸。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T20:38:35.277673+00:00"
+}

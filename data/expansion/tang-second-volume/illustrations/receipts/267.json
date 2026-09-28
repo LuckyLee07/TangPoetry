@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-382c04c5f3b659c1",
+  "order": 267,
+  "title": "巴女谣",
+  "author": "于鹄",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A village girl singing on a water buffalo along a summer river path lined with lotus and water-chestnut leaves, a banana plant rising above a hibiscus hedge ahead. Dusk warmth, ease and a recognizable humble home.\nPoem (semantic reference only, do not paint words): 巴女谣 — 于鹄\n巴女骑牛唱竹枝，藕丝菱叶傍江时。\n不愁日暮还家错，记得芭蕉出槿篱。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-e9d2473c-ddf2-4612-86e9-d39f53e194b7.png",
+  "image": "assets/volume-2/poem-art/267-yizhu-382c04c5f3b659c1.png",
+  "sha256": "16591e8cfcc5c3606958ec639f8ede77718c16b1464cd96c01547674450bd2f0",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：村女骑水牛唱歌归家，江边荷叶与屋前突出篱墙的芭蕉都是明确线索，暮色暖和；村舍朴素，主体上部，留白自然。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:01:43.183993+00:00"
+}

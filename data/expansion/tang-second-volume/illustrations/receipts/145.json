@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-811f71ccdd7b1ed2",
+  "order": 145,
+  "title": "舟中晓望",
+  "author": "孟浩然",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: View from a small sailboat at dawn across a watery landscape, several distant sails following the tide, pale reddish peaks mistaken within rosy cloud; serene anticipation and open space.\nPoem (semantic reference only, do not paint words): 舟中晓望 — 孟浩然\n挂席东南望，青山水国遥。\n舳舻争利涉，来往接风潮。\n问我今何去，天台访石桥。\n坐看霞色晓，疑是赤城标。\nNo text or seal in any corner; birds and human anatomy must be natural.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-d28f5cbe-be08-4c7c-95a2-206c4474f2cc.png",
+  "image": "assets/volume-2/poem-art/145-yizhu-811f71ccdd7b1ed2.png",
+  "sha256": "4135a454005899de137993966ab58563f1ed1a66f2370d7e6795679e34bf11f0",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "舟中旅人向东南看晨霞赤峰，帆船顺风潮往来，江面开阔；未把赤城山拟成城堡，船体人物关系合理，留白干净。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T20:28:24.313937+00:00"
+}

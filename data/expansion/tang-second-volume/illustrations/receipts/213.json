@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-8fabb9a4dae92d7c",
+  "order": 213,
+  "title": "吊白居易",
+  "author": "宣宗皇帝",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A quiet Tang memorial scene: a closed writing desk with brushes and scrolls, a fading oil lamp, and outside a courtyard a child softly reciting beside an older listener. No readable writing; warm remembrance of a poet through ordinary voices.\nPoem (semantic reference only, do not paint words): 吊白居易 — 宣宗皇帝\n缀玉联珠六十年，谁教冥路作诗仙。\n浮云不系名居易，造化无为字乐天。\n童子解吟《长恨曲》，胡儿能唱《琵琶篇》。\n文章已满行人耳，一度思卿一怆然。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-be1aabd9-371c-430e-aeec-151bd2789e9d.png",
+  "image": "assets/volume-2/poem-art/213-yizhu-8fabb9a4dae92d7c.png",
+  "sha256": "b54f4fa4ef4299af74e0e706a40f5405aa4f1905b2e28e32f6f6f8b44b68b198",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "室内无人使用的书案与灯火、庭院里向老人吟诵的孩子呼应诗人作品留在人间；气氛温柔哀思，书页无可读文字，留白充足。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:32:09.101761+00:00"
+}

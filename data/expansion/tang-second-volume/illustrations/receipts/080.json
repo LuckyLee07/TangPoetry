@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-539c8259b08aa595",
+  "order": 80,
+  "title": "兰溪棹歌",
+  "author": "戴叔伦",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A crescent moon over a willow-curved bay, mirror-like dark green mountain reflections, a small boat and a few carp quietly breaking the water at a shallow shoal after spring rain. Delicate night vitality.\nPoem (semantic reference only, do not paint words): 兰溪棹歌 — 戴叔伦\n凉月如眉挂柳湾，越中山色镜中看。\n兰溪三日桃花雨，半夜鲤鱼来上滩。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-76351b4e-902b-4a77-89a6-91f32eeb5a9d.png",
+  "image": "assets/volume-2/poem-art/080-yizhu-539c8259b08aa595.png",
+  "sha256": "b5931453db73e591a72bb52e1bbc4762da06e8246fe7ba2c504cd3375128ae5a",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐图查看：柳梢弯月、镜面溪水、夜舟、远岸桃花与鲤鱼起涟漪对应原诗；只有一轮月亮，保留大面积下方纸面。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T19:52:31.039143+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-6f97236359abefda",
+  "order": 93,
+  "title": "题鹤林寺僧舍",
+  "author": "李涉",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A traveler and monk conversing quietly in a bamboo courtyard late in spring, soft moss and a few fallen petals on stone steps. A small pause of relief, warm restrained faces, no crowded temple ritual.\nPoem (semantic reference only, do not paint words): 题鹤林寺僧舍 — 李涉\n终日昏昏醉梦间，忽闻春尽强登山。\n因过竹院逢僧话，又得浮生半日闲。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-38f85c2a-85c0-449f-9de8-3dc043d14ba1.png",
+  "image": "assets/volume-2/poem-art/093-yizhu-6f97236359abefda.png",
+  "sha256": "03ceb33caf5907a35af4b9bb20e4c0b8358484937269b745a641c5859a2dee80",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：僧人与旅人坐竹院台阶交谈，人物关系明确，春花零落；无现代器具，主景上方，下方连续暖纸可读。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:44:18.142490+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-cc29cfa96ef5d6f7",
+  "order": 135,
+  "title": "送李邕",
+  "author": "李峤",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Two friends beside a quiet canal outside the city at sunset, one standing to leave near a saddled horse, a small emptied wine pot on a stone seat; tender muted twilight.\nPoem (semantic reference only, do not paint words): 送李邕 — 李峤\n落日荒郊外，风景正凄凄。\n离人席上起，征马路傍嘶。\n别酒倾壶赠，行书掩泪题。\n殷勤御沟水，从此各东西。\nKeep all paper, hanging boards and scrolls completely unmarked. No pseudo-Chinese scribbles.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-a3ad5fdd-e340-449a-b666-148600e94994.png",
+  "image": "assets/volume-2/poem-art/135-yizhu-cc29cfa96ef5d6f7.png",
+  "sha256": "b060188b4017a5f223af52b427b115e88c012d782c33d388ed5580285b51271d",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "郊外夕阳与御沟水旁一人起身牵马、一人留坐，酒壶放于石面，表现辞席将行；没有增添团聚人物，下方素净。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:54:52.065615+00:00"
+}

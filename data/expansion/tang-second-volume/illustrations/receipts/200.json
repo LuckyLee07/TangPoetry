@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-339e22da06691f7f",
+  "order": 200,
+  "title": "秋兴八首 四",
+  "author": "杜甫",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Cold quiet autumn river beneath a scholar’s lodging, distant northern mountains obscured by storm-gray haze and a folded dispatch on the desk; suggest troubled capital through a faint far-off skyline, no chessboard literalism.\nPoem (semantic reference only, do not paint words): 秋兴八首 四 — 杜甫\n闻道长安似弈棋，百年世事不胜悲。\n王侯第宅皆新主，文武衣冠异昔时。\n直北关山金鼓振，征西车马羽书迟。\n鱼龙寂寞秋江冷，故国平居有所思。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-f09067ba-8ede-4ca4-82d5-d03bc4f71214.png",
+  "image": "assets/volume-2/poem-art/200-yizhu-339e22da06691f7f.png",
+  "sha256": "43ce17e210ca06daf3fbb5ef43801d3d4aa84e595c4a6b99a72ed77180017bae",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "江楼书案有书信，诗人面向冷秋江与远处城关、骑队，表现忧乱思京；无字面棋盘，灰色天空压抑但主体未侵占下方留白。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:16:30.487986+00:00"
+}

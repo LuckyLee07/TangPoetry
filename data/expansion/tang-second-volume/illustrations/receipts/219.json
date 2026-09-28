@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-a69b6050a14102a0",
+  "order": 219,
+  "title": "湘口送友人",
+  "author": "李频",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A solitary traveler boarding a small boat on the Xiang River in late-winter twilight, reed shores receding toward fields, distant geese against snow-colored clouds. A few plum petals on the shore hint at the approaching New Year.\nPoem (semantic reference only, do not paint words): 湘口送友人 — 李频\n中流欲暮见湘烟，苇岸无穷接楚田。\n去雁远冲云梦雪，离人独上洞庭船。\n风波尽日依山转，星汉通霄向水连。\n零落梅花过残腊，故园归醉及新年。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-ef1c875a-bcb5-4b11-8d71-e5808705b1da.png",
+  "image": "assets/volume-2/poem-art/219-yizhu-a69b6050a14102a0.png",
+  "sha256": "4c89b383d5c74aeea3461148a7732f7eaafaff352ae732a199fc4f5b92211dfd",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "残冬暮色中旅人登洞庭舟，苇岸连着楚田，远峰雪色与去雁、岸梅兼见；不夸张风浪，形象清晰，中下部留白充分。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:59:54.483135+00:00"
+}

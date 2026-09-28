@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-a81faf7f6003c564",
+  "order": 73,
+  "title": "别董大二首 一",
+  "author": "高适",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Two friends bidding farewell on an open snowy road, strong northern wind carries a small flock of geese under ochre-grey clouds. Their upright gestures convey encouragement, not helpless despair.\nPoem (semantic reference only, do not paint words): 别董大二首 一 — 高适\n十里黄云白日曛，北风吹雁雪纷纷。\n莫愁前路无知己，天下谁人不识君。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-09f2f2c8-f287-4259-9a47-2b60da861fb2.png",
+  "image": "assets/volume-2/poem-art/073-yizhu-a81faf7f6003c564.png",
+  "sha256": "49cd5e162337de0d6e52e7466e07824af74402af4fc9a557b588957b790d04a6",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐图查看：黄云暗日、北风雪地与远雁，两个行旅者挥手道别，神情昂扬而不哀颓；下部留白清静。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:56:05.457778+00:00"
+}

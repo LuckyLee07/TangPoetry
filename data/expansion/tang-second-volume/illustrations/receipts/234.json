@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-dedf0340ba26f2dc",
+  "order": 234,
+  "title": "南行别弟",
+  "author": "韦承庆",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Two brothers parting on a quiet riverbank in late spring, their gestures small and subdued, pale petals falling silently onto earth. Long gentle water and a modest waiting boat emphasize tenderness.\nPoem (semantic reference only, do not paint words): 南行别弟 — 韦承庆\n澹澹长江水，悠悠远客情。\n落花相与恨，到地一无声。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-da604067-d799-4ba5-8e23-cb8acd0bac2b.png",
+  "image": "assets/volume-2/poem-art/234-yizhu-dedf0340ba26f2dc.png",
+  "sha256": "446ced0aabb269a4f3ce8230e88f0d2b10c7406047645b623e42f2ab61f73038",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：江岸两兄弟相别，手轻触肩，落花与待发篷舟呈现安静离情；主体集中上方，连续大留白、无字无框。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:35:54.565763+00:00"
+}

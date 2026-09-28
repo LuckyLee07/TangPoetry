@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-e107bee505d548ba",
+  "order": 152,
+  "title": "登总持阁",
+  "author": "岑参",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: View from the high wooden railing of a Buddhist pavilion, Qinling ridges low in the distance and a winding Wei River below, sunlit city trees with a veil of distant haze.\nPoem (semantic reference only, do not paint words): 登总持阁 — 岑参\n高阁逼诸天，登临近日边。\n晴开万井树，愁看五陵烟。\n槛外低秦岭，牕中小渭川。\n蚤知清净理，常愿奉金仙。\nNo text or seal in any corner; all scrolls and paper must be unmarked. Exactly two hands for each person, realistic hands, limbs and horses.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-c7b5ac1c-14ec-4462-90f3-0ecf735164ad.png",
+  "image": "assets/volume-2/poem-art/152-yizhu-e107bee505d548ba.png",
+  "sha256": "c2cab4dbf63620ccfd1f28ff3c4d85afee8df502edafdb2704d3c45aec2a956a",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "从高阁栏边远看秦岭与渭川、万户树色，檐铃提示佛寺；人物端静、城市与河山尺度相衬，无文字牌匾，正文区域清淡。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T20:33:09.184394+00:00"
+}

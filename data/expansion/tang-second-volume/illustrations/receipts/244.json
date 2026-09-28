@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-81103a41ebffcbf7",
+  "order": 244,
+  "title": "夜雪",
+  "author": "白居易",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A quiet room at night with folded bedding in the foreground, a window glowing from snowlight, and bamboo just outside sagging under thick snow. One newly broken small branch is visible, no blizzard or daytime sun.\nPoem (semantic reference only, do not paint words): 夜雪 — 白居易\n已讶衾枕冷，复见窗户明。\n夜深知雪重，时闻折竹声。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-9e6b8e68-32d0-4da2-bc82-635e7a5bf854.png",
+  "image": "assets/volume-2/poem-art/244-yizhu-81103a41ebffcbf7.png",
+  "sha256": "98c4b7256b422ef7a25bbcd45324db2e683168fa3958c4ae0de9ea3e96ec1754",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：室内褥被和格窗位于上部，窗外积雪压弯竹枝并有折竹，灰蓝夜色与小烛光形成冷暖对比；下方大面积暖纸留白，无文字与边框。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:47:23.493565+00:00"
+}

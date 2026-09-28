@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-33e72a0447c118b2",
+  "order": 250,
+  "title": "送魏二",
+  "author": "王昌龄",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A small departing boat below a riverside upper room in light rain, orange and pomelo branches at the bank, two friends sharing a final glance. Cool air enters the boat canopy; the future moonlit journey is hinted only by distant pale water.\nPoem (semantic reference only, do not paint words): 送魏二 — 王昌龄\n醉别江楼橘柚香，江风引雨入舟凉。\n忆君遥在潇湘月，愁听清猿梦里长。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-cde7be37-baa0-4279-a710-6c6ad758afb3.png",
+  "image": "assets/volume-2/poem-art/250-yizhu-33e72a0447c118b2.png",
+  "sha256": "63acec50c6738cf653fef29b515e18280ea462143df90ebc05ccd7dc13b2938e",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：江楼故人与篷舟友人相望，橘柚枝果明确、细雨斜入水面；加入淡月将后半想象与送别合景，属于诗意合成而非严格单一时刻，中下留白充足。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:50:05.524975+00:00"
+}

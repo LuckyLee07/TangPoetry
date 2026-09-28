@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-5a625c9608482633",
+  "order": 134,
+  "title": "春夜别友人二首 一",
+  "author": "陈子昂",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A farewell table with nearly spent candles and two cups beside an open doorway, high trees hiding a pale moon as dawn erases the stars; restrained blue-gray and candle gold.\nPoem (semantic reference only, do not paint words): 春夜别友人二首 一 — 陈子昂\n银烛吐青烟，金樽对绮筵。\n离堂思琴瑟，别路遶山川。\n明月隐高树，长河没晓天。\n悠悠洛阳道，此会在何年。\nKeep all paper, hanging boards and scrolls completely unmarked. No pseudo-Chinese scribbles.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-0029eb94-a770-4189-8849-20abd20d5792.png",
+  "image": "assets/volume-2/poem-art/134-yizhu-5a625c9608482633.png",
+  "sha256": "5af6eb93629d99c399c89458ba5dd4243bc3e8d18967094cd7a200501a9117e1",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "残烛旁两位友人将别，高树掩月、天际初明，琴与杯留在室内，符合彻夜相聚至晓；没有热闹宴客场景，留白完整。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:54:47.414485+00:00"
+}

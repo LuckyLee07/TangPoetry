@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-c1c3b87ff02d6d3e",
+  "order": 172,
+  "title": "野望",
+  "author": "杜甫",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A solitary crane flying late toward a sparse riverside wood already dark with returning crows, a distant city lost in layered mist and an immense clean band of water at sunset.\nPoem (semantic reference only, do not paint words): 野望 — 杜甫\n清秋望不极，迢遰起曾阴。\n远水兼天净，孤城隐雾深。\n叶稀风更落，山迥日初沈。\n独鹤归何晚，昏鸦已满林。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-59ca8541-d198-4306-ba86-fd895acffe85.png",
+  "image": "assets/volume-2/poem-art/172-yizhu-c1c3b87ff02d6d3e.png",
+  "sha256": "74135994de48f3615c180ff4ea0dadd789882028766102bcf1386e84e2c68600",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "秋江上空一只白鹤独飞，左侧疏树有归鸦，远城与夕照隐入云雾，符合孤飞鹤与栖宿乌的对照。主体处于上部，中央与下方留白宽阔，无文字。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:49:31.985364+00:00"
+}

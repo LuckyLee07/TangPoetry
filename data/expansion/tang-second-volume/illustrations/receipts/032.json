@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-a6bdf70848c441ec",
+  "order": 32,
+  "title": "饮中八仙歌",
+  "author": "杜甫",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: An airy Tang tavern gathering with eight distinct scholars arranged naturally around sparse wine vessels; one writes calligraphy, one looks skyward, one dozes. Warm humor and individuality, no drunken injuries or illegible calligraphic text.\nPoem (semantic reference only, do not paint words): 饮中八仙歌 — 杜甫\n知章骑马似乘船，眼花落井水底眠。\n汝阳三斗始朝天，道逢曲车口流涎。\n恨不移封向酒泉，左相日兴费万钱。\n饮如长鲸吸百川，衔杯乐圣称世贤。\n宗之潇洒美少年，举觞白眼望青天。\n皎如玉树临风前，苏晋长斋绣佛前。\n醉中往往爱逃禅，李白一斗诗百篇。\n长安市上酒家眠，天子呼来不上船。\n自称臣是酒中仙，张旭三杯草圣传。\n脱帽露顶王公前，挥毫落纸如云烟。\n焦遂五斗方卓然，高谈雄辨惊四筵。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-093caffc-bd71-4953-b668-024f41584103.png",
+  "image": "assets/volume-2/poem-art/032-yizhu-a6bdf70848c441ec.png",
+  "sha256": "a5d27b8a8516c0113c735877010d6bd2537169aa082023137bda646da049fc81",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "上方八位主要饮者姿态有别，骑马、举杯、伏睡与挥毫同处写意场景，非八仙神怪形象；下部无字留白。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:49:54.829154+00:00"
+}

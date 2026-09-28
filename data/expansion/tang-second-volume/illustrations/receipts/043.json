@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-488e461abecf4d5e",
+  "order": 43,
+  "title": "省试湘灵鼓瑟",
+  "author": "钱起",
+  "method": "built-in image_gen",
+  "prompt": "Make a precise instrument correction to this fine Chinese ink-and-watercolor illustration. Preserve the female Xiang River spirit, misty river mountains, restrained warm ivory paper and entire composition/large blank lower space. Replace the narrow plain guqin-like instrument in front of her with an ancient Chinese SE zither (瑟): a broader long rectangular wooden soundboard with many parallel strings and clearly visible rows of individual movable triangular bridges under the strings, resting horizontally on a low stone or wooden support. Her hands naturally pluck it. It should unmistakably have bridges, unlike a guqin. Keep delicate painterly detail, never add words, labels, symbols, seals or borders.",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-7fe76d39-c68c-42d7-9f93-5daacdc4b6de.png",
+  "image": "assets/volume-2/poem-art/043-yizhu-488e461abecf4d5e.png",
+  "sha256": "15ddfecab2ad6c8886c396a471467d650f06355dae733ade4d7f36a6f8d8c4fd",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已把无柱的琴改成有独立弦柱的宽长瑟，女子在湘水烟山间弹奏，意境空灵，整页暖纸与大留白保留。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:10:41.206938+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-700df717b52858f7",
+  "order": 15,
+  "title": "咏柳",
+  "author": "贺知章",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: One graceful willow with fresh jade-green early-spring leaves and long slender hanging boughs, moved by a gentle breeze above a quiet riverbank. Fine ink stems, translucent young leaf tips, soft natural rhythm. No scissors, no figures or text; keep all willow ends within the upper third.\nPoem (semantic reference only, no printed text): 咏柳 — 贺知章\n碧玉妆成一树高，万条垂下绿丝绦。\n不知细叶谁裁出，二月春风似剪刀。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-57691a0d-4bf5-4ef4-9867-2ca8e00b1e89.png",
+  "image": "assets/volume-2/poem-art/015-yizhu-700df717b52858f7.png",
+  "sha256": "97c577bfbdff0fd15a56bbc6b8a60c7ed8ff254a0db18a927c5e3b4a1c503225",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "Viewed jade-green willow boughs hanging from upper left over a quiet pale riverside. Fine natural leaf detail and spring greenery, no literal scissors or added figure. Clear warm paper for short verse below, no title, border or stamp.",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:28:29.590927+00:00"
+}

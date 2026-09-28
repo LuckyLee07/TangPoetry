@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-adf4b5cda2b88111",
+  "order": 56,
+  "title": "别舍弟宗一",
+  "author": "柳宗元",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Two brothers parting at a riverbank strewn with fading red petals, one small boat ready to depart, dark southern hills behind and an open pale horizon ahead. Restrained tears, clear difference between staying and leaving.\nPoem (semantic reference only, do not paint words): 别舍弟宗一 — 柳宗元\n零落残红倍黯然，双垂别泪越江边。\n一身去国六千里，万死投荒十二年。\n桂岭瘴来云似墨，洞庭春尽水如天。\n欲知此后相思梦，长在荆门郢树烟。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-f49eab49-cfee-4250-8c15-165fab5e9a52.png",
+  "image": "assets/volume-2/poem-art/056-yizhu-adf4b5cda2b88111.png",
+  "sha256": "43d6ab7aee62cfa838413a848828011aa2665ab9b180c7458279fdf683dc0a91",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "两兄弟江岸执别，舟与楚山拉开别后空间，秋色淡红点染，中央清净。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:21:13.538523+00:00"
+}

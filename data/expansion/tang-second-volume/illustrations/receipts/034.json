@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-e8d9e6396bc188a1",
+  "order": 34,
+  "title": "金铜仙人辞汉歌",
+  "author": "李贺",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A solemn bronze immortal carrying a dew-catching plate on a wooden transport cart outside a deserted Han palace gate under autumn moonlight; sparse withered orchids, distant receding river. No modern statue machinery.\nPoem (semantic reference only, do not paint words): 金铜仙人辞汉歌 — 李贺\n茂陵刘郎秋风客，夜闻马嘶晓无迹。\n画栏桂树悬秋香，三十六宫土花碧。\n魏官牵车指千里，东关酸风射眸子。\n空将汉月出宫门，忆君清泪如铅水。\n衰兰送客咸阳道，天若有情天亦老。\n携盘独出月荒凉，渭城已远波声小。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-3daa8bc9-17ea-4b21-95a0-3083e8cd5d91.png",
+  "image": "assets/volume-2/poem-art/034-yizhu-e8d9e6396bc188a1.png",
+  "sha256": "10f6268a50d9158f100ad14bd7be3c655bfef07dffc51f867bb06d8615ea37bf",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "持承露盘的铜像随车离开旧宫，秋草、月色与渭水营造辞别感，铜质可辨并非真人仙女，主体止于上部。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:54:55.076981+00:00"
+}

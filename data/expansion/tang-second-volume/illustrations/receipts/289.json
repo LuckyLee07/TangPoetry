@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-6a89f8443daf5511",
+  "order": 289,
+  "title": "南园十三首 六",
+  "author": "李贺",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A weary young poet still at his writing desk near dawn, a bow-shaped waning moon beyond the hanging curtain, manuscripts and an unused sword beside him. Pale remote border hills hinted outside; no literal bow replacing the moon.\nPoem (semantic reference only, do not paint words): 南园十三首 六 — 李贺\n寻章摘句老雕虫，晓月当帘挂玉弓。\n不见年年辽海上，文章何处哭秋风。\nThe desk sheets show only the blank reverse sides and tightly closed scrolls; absolutely NO writing, no ink scribbles, no characters or letterlike markings on sheets, walls or books. For dawn, use a thin WANING crescent moon with illuminated LEFT edge and tips opening toward the RIGHT, not a waxing evening crescent. The weary poet holds his forehead over blank turned-over manuscript backs.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-618aa2db-1e0c-4690-86c6-98a3fa3bcae8.png",
+  "image": "assets/volume-2/poem-art/289-yizhu-6a89f8443daf5511.png",
+  "sha256": "9498d86a2306d897254c6b8e572ec41f76652c080c2acd980a14d2ca96a4eb33",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：重画的纸页只见空白背面与束起卷轴，不再含伪字；疲惫书生扶额，帘外左侧明亮的残月与黎明相合，闲剑在侧，正文留白完整。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:56:57.709995+00:00"
+}

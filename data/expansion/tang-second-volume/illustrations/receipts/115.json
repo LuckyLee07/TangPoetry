@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-13ebdd098d8ba7ab",
+  "order": 115,
+  "title": "李都尉古劒",
+  "author": "白居易",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: An ancient straight sword resting in an open jade-toned wooden case, a thin cool reflection like autumn water; sparse scholarly interior, dignified stillness, no combat or blood.\nPoem (semantic reference only, do not paint words): 李都尉古劒 — 白居易\n古劒寒黯黯，铸来几千秋。\n白光纳日月，紫气排斗牛。\n有客借一观，爱之不敢求。\n湛然玉匣中，秋水澄不流。\n至宝有本性，精刚无与俦。\n可使寸寸折，不能绕指柔。\n愿快直士心，将断佞臣头。\n不愿报小怨，夜半刺私雠。\n劝君慎所用，无作神兵羞。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-2759b6ee-62d6-4518-8358-bc3bf352f0e4.png",
+  "image": "assets/volume-2/poem-art/115-yizhu-13ebdd098d8ba7ab.png",
+  "sha256": "810fe756195f82ae2052250188368e76fd9a9fd0806268e4186ad57abc754629",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "古直剑静置开启的青玉色匣中，冷亮剑身呼应秋水，书斋陈设朴雅；没有流血或行刺场面，无可读文字，下部大面积留白。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:13:45.827944+00:00"
+}

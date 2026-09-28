@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-2f7901ac0629a7e6",
+  "order": 143,
+  "title": "晚泊浔阳望庐山",
+  "author": "孟浩然",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A moored wooden boat at Xunyang in dusk light facing Lushan’s incense-burner peak, a tiny temple roof hidden in trees and mist; listening silence, no giant incense vessel.\nPoem (semantic reference only, do not paint words): 晚泊浔阳望庐山 — 孟浩然\n挂席几千里，名山都未逢。\n泊舟浔阳郭，始见香炉峰。\n尝读远公传，永怀尘外踪。\n东林精舍近，日暮但闻钟。\nNo text or tiny seal in any corner. Human anatomy natural: exactly two hands per person.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-5489b184-d3ad-484f-925b-0dccc1f5ee60.png",
+  "image": "assets/volume-2/poem-art/143-yizhu-2f7901ac0629a7e6.png",
+  "sha256": "788baa10148cd02024c4a05d5ad1c5ac6a273602996dd55802fe00663d2a6622",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "浔阳泊舟上的旅人望向香炉峰，林间小寺与日暮薄雾呼应闻钟；未把峰名画成香炉器物，人物与舟体结构清楚。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T20:24:31.851903+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-5eae2ae5dece4a91",
+  "order": 229,
+  "title": "洞庭阻风",
+  "author": "张泌",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A boat held among reeds on a wind-roughened spring lake, pale willow fluff crossing smoky water, a few widely spaced fishermen’s huts at sunset. A poor traveler waits quietly beneath the boat canopy; no crowded village or storm spectacle.\nPoem (semantic reference only, do not paint words): 洞庭阻风 — 张泌\n空江浩荡景萧然，尽日菰蒲泊钓船。\n青草浪高三月渡，绿杨花扑一溪烟。\n情多莫举伤春目，愁极兼无买酒钱。\n犹有渔人数家住，不成村落夕阳边。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-c5b37e7f-17fd-4136-be0c-3bd05ec5b573.png",
+  "image": "assets/volume-2/poem-art/229-yizhu-5eae2ae5dece4a91.png",
+  "sha256": "ab511696b890cf5e6a8609857c663f1239037fbc3da09cbfdad6f1ef9314b13d",
+  "width": 940,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "春日湖面起风浪，旅人小舟停在菰蒲边，柳絮扑水，远处仅几户渔家；无密集村镇和灾难巨浪，景色上方渐淡、下方充分留白。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T20:33:23.328860+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-f0707cb890640d1b",
+  "order": 232,
+  "title": "蜀道后期",
+  "author": "张说",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A traveler hurrying along a narrow Sichuan mountain path, cloak lifted by the first autumn breeze, distant road dissolving into clouds. One wind-carried leaf overtakes him; do not place Luoyang visibly beside the mountain path.\nPoem (semantic reference only, do not paint words): 蜀道后期 — 张说\n客心争日月，来往预期程。\n秋风不相待，先至洛阳城。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-17e16f23-e3de-491f-91c6-49e19597607a.png",
+  "image": "assets/volume-2/poem-art/232-yizhu-f0707cb890640d1b.png",
+  "sha256": "7120546b951e7deb83c176fa52ded41c568d805c9d3d4f953f673470ff3a0285",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：上方背包行人走蜀道，衣袂与单片秋叶受风，峭壁层次自然；约中部以下充分留白，底角淡草不压正文，无题字印章。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:32:56.889846+00:00"
+}

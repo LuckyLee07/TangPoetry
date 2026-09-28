@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-6e1906d8c7cee98e",
+  "order": 136,
+  "title": "彩书怨",
+  "author": "上官昭容",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A woman sealing a small letter beside a dim screen at late autumn dawn, a folded quilt and a quiet instrument nearby, a few fallen leaves beyond the window; intimate longing.\nPoem (semantic reference only, do not paint words): 彩书怨 — 上官昭容\n叶下洞庭初，思君万里余。\n露浓香被冷，月落锦屏虚。\n欲奏江南曲，贪封蓟北书。\n书中无别意，惟怅久离居。\nKeep all paper, hanging boards and scrolls completely unmarked. No pseudo-Chinese scribbles.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-dd7ccd0b-c58e-4593-a0a9-68e2b404bf99.png",
+  "image": "assets/volume-2/poem-art/136-yizhu-6e1906d8c7cee98e.png",
+  "sha256": "03036d3a164e1827155dc190e8825f02b74b3b3c1a5c714078a590d7fa285c85",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "女子在屏风旁封书，香被、闲琴、窗外秋叶与将明天色呼应离居；信面无字，手部动作可辨，未将远方爱人同时画入室内。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:55:02.064165+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-141b38efdd46ba23",
+  "order": 275,
+  "title": "江村即事",
+  "author": "司空曙",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: An untied small fishing boat drifting gently in shallow water beside pale reed plumes, a modest river village beyond under a setting moon. No rushing current; secure intimate waters and deep quiet suggest the fisherman sleeping nearby.\nPoem (semantic reference only, do not paint words): 江村即事 — 司空曙\n钓罢归来不系船，江村月落正堪眠。\n纵然一夜风吹去，只在芦花浅水边。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-d28d8780-854c-42a0-8f6b-9a31531181d1.png",
+  "image": "assets/volume-2/poem-art/275-yizhu-141b38efdd46ba23.png",
+  "sha256": "f45f1d14d524446c010649fb073a0e4c4daecfc8aa7317e364045bdfd3b4ecb8",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：小渔舟无人系泊，停在芦花浅水边，远村灯火和将沉的月亮营造可安眠的静夜；没有激流和危险感，留白完整。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:14:54.304736+00:00"
+}

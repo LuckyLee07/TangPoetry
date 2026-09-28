@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-fb3d752bef9a661e",
+  "order": 161,
+  "title": "送友人入蜀",
+  "author": "李白",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A small traveler on horseback along a narrow wooden mountain gallery, cloud brushing the horse’s head and blossoming spring trees framing immense rock, a distant river winding toward a city.\nPoem (semantic reference only, do not paint words): 送友人入蜀 — 李白\n见说蚕丛路，崎岖不易行。\n山从人面起，云傍马头生。\n芳树笼秦栈，春流遶蜀城。\n升沉应已定，不必问君平。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-59abc57b-374d-4cb4-a5f9-c1dabb44ddba.png",
+  "image": "assets/volume-2/poem-art/161-yizhu-fb3d752bef9a661e.png",
+  "sha256": "d9f70e17d8bcbbbd5c8f112adc82d1ad81cfe4052d644e0edcdbb096f3e0fa6b",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "山壁栈道、骑马旅人与云气交织，春树及远城有蜀道特色；中央与下方留白。左侧山石淡景延至约四成，记录为排版时需复看而非遮挡中心。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:37:16.917985+00:00"
+}

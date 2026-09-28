@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-d0ef83f2f67206d2",
+  "order": 82,
+  "title": "春雪",
+  "author": "韩愈",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Soft late snow drifting through bare courtyard branches above the first tiny green grass shoots, flakes resembling loose blossom petals. Light playful anticipation, no heavy winter blizzard.\nPoem (semantic reference only, do not paint words): 春雪 — 韩愈\n新年都未有芳华，二月初惊见草芽。\n白雪却嫌春色晚，故穿庭树作飞花。\nImportant exact subject correction: NO people anywhere, NO blossoming flowers, NO woman. Only bare deciduous courtyard tree branches, delicate falling snowflakes separate from branches, and tiny first grass sprouts visible at the foot of the tree. Mild early-spring snowfall with small residual snow on roof, not deep winter snow. The poem compares snow to flowers; do not paint actual flowering branches.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-64d305ce-9f84-46fe-8265-53c755f455f6.png",
+  "image": "assets/volume-2/poem-art/082-yizhu-d0ef83f2f67206d2.png",
+  "sha256": "201eac9636ee4d5361ee987deda2b8757db37b3823cb5d903d0219f79a16605b",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "第二版已逐张查看：去掉初版额外人物与真花，改为裸枝庭树间飞雪、地面初生细草；上方场景清楚，中下部留白约65%，无文字边框。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:37:15.323585+00:00",
+  "generationHistory": [
+    {
+      "kind": "generate",
+      "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-f5c5b9ba-15ef-44f7-811a-4bec7436341d.png",
+      "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Soft late snow drifting through bare courtyard branches above the first tiny green grass shoots, flakes resembling loose blossom petals. Light playful anticipation, no heavy winter blizzard.\nPoem (semantic reference only, do not paint words): 春雪 — 韩愈\n新年都未有芳华，二月初惊见草芽。\n白雪却嫌春色晚，故穿庭树作飞花。",
+      "status": "rejected",
+      "reason": "首轮添加不合原诗的女子及实花，将雪似飞花误画为花朵；重生成更克制的早春雪景。"
+    },
+    {
+      "kind": "regenerate",
+      "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-64d305ce-9f84-46fe-8265-53c755f455f6.png",
+      "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Soft late snow drifting through bare courtyard branches above the first tiny green grass shoots, flakes resembling loose blossom petals. Light playful anticipation, no heavy winter blizzard.\nPoem (semantic reference only, do not paint words): 春雪 — 韩愈\n新年都未有芳华，二月初惊见草芽。\n白雪却嫌春色晚，故穿庭树作飞花。\nImportant exact subject correction: NO people anywhere, NO blossoming flowers, NO woman. Only bare deciduous courtyard tree branches, delicate falling snowflakes separate from branches, and tiny first grass sprouts visible at the foot of the tree. Mild early-spring snowfall with small residual snow on roof, not deep winter snow. The poem compares snow to flowers; do not paint actual flowering branches.",
+      "status": "accepted"
+    }
+  ]
+}

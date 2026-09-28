@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-e41ada6b1ed668f7",
+  "order": 305,
+  "title": "早春寄王汉阳",
+  "author": "李白",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Early spring beside the broad river near Wuchang, yellow-gold willow buds and a few late white plum blossoms. A Tang poet brushing dust from a flat mountain rock, two simple wine cups waiting for an absent friend; hopeful companionship rather than romantic longing.\nPoem (semantic reference only, do not paint words): 早春寄王汉阳 — 李白\n闻道春还未相识，走傍寒梅访消息。\n昨夜东风入武昌，陌头杨柳黄金色。\n碧水浩浩云茫茫，美人不来空断肠。\n预拂青山一片石，与君连日醉壶觞。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-3ce2e229-1afe-4a06-a6b9-7ba909570f0a.png",
+  "image": "assets/volume-2/poem-art/305-yizhu-e41ada6b1ed668f7.png",
+  "sha256": "cfb19b9000e18003d46d4768f54df3880b2a973e43f1d53a1f3cc4729070334a",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：早春江岸，诗人俯身拂拭平石，石上备好两只酒杯；上方寒梅与金黄新柳并置，江水和远舟表现武昌春讯。画面没有把美人误画成恋人，大幅纸白完整，无文字。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T20:31:05.022315+00:00"
+}

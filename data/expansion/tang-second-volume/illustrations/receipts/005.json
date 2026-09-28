@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-5971557650b64586",
+  "order": 5,
+  "title": "感遇诗三十八首 二",
+  "author": "陈子昂",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A secluded woodland glade with lush fragrant orchid-like plants and ruocao, delicate reddish blossoms on purple-green stems, a few leaves beginning to fall in the first autumn breeze under low late sunlight. No human figures; express beauty flourishing unnoticed and the fragility of passing seasons. Botanical focal detail high on the paper.\nPoem (semantic reference only, no printed text): 感遇诗三十八首 二 — 陈子昂\n兰若生春夏，芊蔚何青青。\n幽独空林色，朱蕤冒紫茎。\n迟迟白日晚，袅袅秋风生。\n岁华尽摇落，芳意竟何成。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-58d65269-313e-4b0e-b1fc-ee766c897122.png",
+  "image": "assets/volume-2/poem-art/005-yizhu-5971557650b64586.png",
+  "sha256": "0784a00a99df744c4a5a93f599cfa62e5fa5071b833b94743b39e451317eb003",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "Viewed image shows a solitary woodland plant cluster with red flowers, pale autumn leaves and declining warm sunlight. No people or text; watercolor texture matches series. Main plant scene high on page, central/lower paper remains quiet.",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:20:19.576186+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-3dde98270b38570b",
+  "order": 139,
+  "title": "咏燕",
+  "author": "张九龄",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A pair of small swallows carrying mud beneath a refined Tang house eave, a distant hawk high in pale sky; emphasize fragile peaceful nesting, not predator attack.\nPoem (semantic reference only, do not paint words): 咏燕 — 张九龄\n海燕何微眇，乘春亦暂来。\n岂知泥滓贱，祗见玉堂开。\n绣户时双入，华轩日几回。\n无心与物竞，鹰隼莫相猜。\nAll manuscript surfaces and signage blank, without any tiny lettering. No readable or pseudo writing.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-51040a1a-e2b5-43d7-9771-a80567e46f2c.png",
+  "image": "assets/volume-2/poem-art/139-yizhu-3dde98270b38570b.png",
+  "sha256": "845a9aa719e6246c8cbf02bd5f71ce8ab0ad1610d8f9e6b3c6f1295795799b4d",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "两燕衔泥在屋檐下营巢，远处鹰隼保持距离，白花新叶符合乘春；燕子的翅、尾与泥巢可辨，未画捕食。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T20:19:56.587128+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-cf2e4d3b499271f7",
+  "order": 94,
+  "title": "宿骆氏亭寄怀崔雍衮",
+  "author": "李商隐",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A quiet bamboo-surrounded waterside pavilion, sparse withered lotus leaves catching small autumn raindrops, one empty seat by a clean wooden rail. Sound suggested with tiny water rings, subdued longing.\nPoem (semantic reference only, do not paint words): 宿骆氏亭寄怀崔雍衮 — 李商隐\n竹坞无尘水槛清，相思迢递隔重城。\n秋阴不散霜飞晚，留得枯荷听雨声。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-407e28e2-ceb4-4521-9bdb-c4abc99a4692.png",
+  "image": "assets/volume-2/poem-art/094-yizhu-cf2e4d3b499271f7.png",
+  "sha256": "461fab5a1504ee0a77f012f78441f3e97296c14b6aca9c01b13a3436d84b0505",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "逐张查看：竹坞亭阁、枯荷接雨形成明确晚秋景，未画盛荷；空座表达隔城相思，无凭空相见情节，下方纸面连续。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:48:12.743547+00:00"
+}

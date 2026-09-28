@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-370f725b350d3dd3",
+  "order": 104,
+  "title": "失题",
+  "author": "王昌龄",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A broad wind-scoured plain with a few burned roof beams and empty village paths, distant red-grey smoke fading into pale sky. Sober historical lament without corpses, identifiable villains, or imagined specific battles.\nPoem (semantic reference only, do not paint words): 失题 — 王昌龄\n奸雄乃得志，遂使群心摇。\n赤风荡中原，烈火无遗巢。\n一人计不用，万里空萧条。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-28e68a5f-4ca5-4e2b-849f-90527b7ef33a.png",
+  "image": "assets/volume-2/poem-art/104-yizhu-370f725b350d3dd3.png",
+  "sha256": "c92bc17e4a9a3faacc6db11a61ae2ca1c084898119fc7d25eb4fae4cb410d5f7",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "残垣与焦木、远方火烟表现乱世，单独书生面对空旷荒野，没有擅自指定历史战役或画出尸首；主景集中上部，正文区纸色清淡。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:56:57.094905+00:00"
+}

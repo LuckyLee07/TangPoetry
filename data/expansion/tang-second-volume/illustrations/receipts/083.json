@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-cc66abbcb2258a48",
+  "order": 83,
+  "title": "早春呈水部张十八员外二首 一",
+  "author": "韩愈",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A spacious Tang capital avenue in extremely fine spring drizzle, almost imperceptible green grass at the edge, bare-to-budding willows and softened rooftops. The faint green should appear only at distance, not lush summer turf.\nPoem (semantic reference only, do not paint words): 早春呈水部张十八员外二首 一 — 韩愈\n天街小雨润如酥，草色遥看近却无。\n最是一年春好处，绝胜烟柳满皇都。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-ef3933a9-9297-469a-ae2e-8ace353e7391.png",
+  "image": "assets/volume-2/poem-art/083-yizhu-cc66abbcb2258a48.png",
+  "sha256": "7ebd71edceb7bb9605eacee1f868ec3d0479f46a1e9d10edf3d4ec6511d261fa",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：细雨笼罩唐式街道，湿路反光、嫩柳与远处城门清晰；主景高置，中下部65%以上为宣纸留白，无文字边框。人物为街道生活陪景，未喧宾夺主。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:34:55.152213+00:00"
+}

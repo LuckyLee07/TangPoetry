@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-3d0f6856233727f7",
+  "order": 301,
+  "title": "题菊花",
+  "author": "黄巢",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Autumn chrysanthemums filling a quiet courtyard under a cool west wind, their bright muted-gold petals resilient among dark leaves. A distant soft pink glow can hint at wished-for spring, but no literal emperor or mixed-season garden presented as reality.\nPoem (semantic reference only, do not paint words): 题菊花 — 黄巢\n飒飒西风满院栽，蘂寒香冷蝶难来。\n他年我若为青帝，报与桃花一处开。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-40679cb1-95a3-4709-a4c7-94c7c59b934a.png",
+  "image": "assets/volume-2/poem-art/301-yizhu-3d0f6856233727f7.png",
+  "sha256": "18feb4e9674343ec82111185d79c7e06299c8714ea328badb56b7255871fbdd2",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：金黄菊花挺立在风中庭院，淡赭秋叶与青灰墙面相衬；远处月洞门一角的浅粉花影作为诗人愿望中的春意，并非主体实景，主体菊花与大幅留白清楚，无文字。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T20:28:21.958284+00:00"
+}

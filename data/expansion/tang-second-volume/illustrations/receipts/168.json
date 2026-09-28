@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-5c0a7e0b2794a4d9",
+  "order": 168,
+  "title": "过崔八丈水亭",
+  "author": "李白",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A refined but modest pavilion over a clear stream, distant Jingting clouds framed in an open window, a fishing boat beneath moonlight and a few white gulls on sand; deep repose.\nPoem (semantic reference only, do not paint words): 过崔八丈水亭 — 李白\n高阁横秀气，清幽并在君。\n簷飞宛溪水，窗落敬亭云。\n猨啸风中断，渔歌月里闻。\n闲随白鸥去，沙上自为群。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-dd76d31b-d1d1-4323-b26f-287c97348950.png",
+  "image": "assets/volume-2/poem-art/168-yizhu-5c0a7e0b2794a4d9.png",
+  "sha256": "f2b3efe5422fe242bc19b11555c992e82af2488ca9c4cd759c7d9fdf69a57781",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "临溪亭阁、望云之窗、月下渔舟与沙洲白鸥呈现清幽山居；冷淡月色不铺满全页，下方淡米纸留白充足。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:44:28.959499+00:00"
+}

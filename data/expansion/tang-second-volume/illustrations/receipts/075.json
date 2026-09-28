@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-b19e76bd6bae9b74",
+  "order": 75,
+  "title": "望天门山",
+  "author": "李白",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Two green cliffs framing a bright broad Yangtze channel, water curving between them and one small pale sail entering from the sunlit distance. Strong open perspective, no literal mountain explosion.\nPoem (semantic reference only, do not paint words): 望天门山 — 李白\n天门中断楚江开，碧水东流至北回。\n两岸青山相对出，孤帆一片日边来。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-add371d5-b250-4f7b-b5d5-4ba14128b05e.png",
+  "image": "assets/volume-2/poem-art/075-yizhu-b19e76bd6bae9b74.png",
+  "sha256": "868128be2ebf8afb225dd1c437782a6637e14b7aa33ec5f2f071b45feb16a6ef",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐图查看：两岸青山夹江，急流回旋处一叶帆船朝向日光，表现天门开阔壮丽的山水意象；下部留白充足。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:56:12.901578+00:00"
+}

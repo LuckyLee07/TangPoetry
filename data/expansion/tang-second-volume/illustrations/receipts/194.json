@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-0417cd3171644211",
+  "order": 194,
+  "title": "春残",
+  "author": "翁宏",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A solitary woman beside a late-spring courtyard with fallen petals, two swallows flying together through fine rain outside a green curtain; tender muted colors, do not draw glowing cicadas.\nPoem (semantic reference only, do not paint words): 春残 — 翁宏\n又是春残也，如何出翠帏。\n落花人独立，微雨燕双飞。\n寓目魂将断，经年梦亦非。\n那堪向愁夕，萧飒暮蝉辉。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-045e6f07-ee39-4f9e-8081-a17459b4b633.png",
+  "image": "assets/volume-2/poem-art/194-yizhu-0417cd3171644211.png",
+  "sha256": "dcddb664a3a87824b6f881b89ae76b7e66a52ac375bfa7d2fa31410303570ffb",
+  "width": 940,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "翠帘前女子独立，阶前落花、微雨和双燕对应“落花人独立，微雨燕双飞”，未将存疑尾句画作蝉光。人物淡色裙边至约四成但中央保持浅纸，后续叠字核对标题上缘。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:10:19.615231+00:00"
+}

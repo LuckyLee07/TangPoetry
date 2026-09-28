@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "scope": "仅第28、30、32首既有疑点；独立编辑建议，未改动原始正文或现有诗意",
+  "proposals": [
+    {
+      "id": "yizhu-aaf4f486503e9bb2",
+      "order": 28,
+      "title": "自京赴奉先县咏怀五百字",
+      "author": "杜甫",
+      "sourceText": "岂知秋未登，贫𪧘有苍卒。",
+      "proposedText": "岂知秋禾登，贫𪧘有苍卒。",
+      "sourceTextSha256": "9d3ada0ebead5710185e937a91d395a06bb35e56b859602ca01a146827e1d883",
+      "reason": "“秋未”与“秋禾”有版本和阐释分歧，不能仅凭常见教材文字判作录入错误。仇兆鳌《杜诗详注》卷四采用“秋禾登”，并解释秋粮虽收而仍无救于贫；《杜诗阐》卷四的电子古籍文本保留对“非秋未登不必作秋禾登”的讨论。本项只提供“秋禾”的可选呈现读法，暂不采纳，不改动原始正文；若后续确定采用某一校注底本，再一致处理释义。",
+      "verificationRefs": [
+        "https://www.shidianguji.com/book/SK2231/chapter/1l9f2c3mvmfq2",
+        "https://www.shidianguji.com/zh/book/CADAL02099542/chapter/1lcnvoupsujv7"
+      ],
+      "status": "proposed-source-correction",
+      "kind": "version-variant",
+      "adoptionRecommendation": "not-adopted",
+      "applied": false,
+      "commentarySuggestion": {
+        "ifReadingSelected": "秋禾登",
+        "interpretationSuggestion": "谁料秋粮已经收成，贫穷人家仍会遭到这样的急难。",
+        "notes": "仅为采用秋禾读法时的局部释义建议；未采用前不覆盖既有诗意。"
+      }
+    },
+    {
+      "id": "yizhu-f3737ebcf8e5a861",
+      "order": 30,
+      "title": "长安古意",
+      "author": "卢照邻",
+      "sourceText": "复道交窗作合欢，双阙连薨垂凤翼。",
+      "proposedText": "复道交窗作合欢，双阙连甍垂凤翼。",
+      "sourceTextSha256": "78e8903eec077a93784648300dd59fbd378bf0ccf828a8a682f352a7971aaf05",
+      "reason": "“甍”是屋脊，与复道、交窗、双阙、凤翼共同描写建筑；“薨”通常指诸侯等去世，于此义不合。核对《长安古意》的古诗电子文本作“双阙连甍垂凤翼”，建议将此处“薨”校为“甍”，并保留原始来源记录。本次只提出这一字的呈现修订。",
+      "verificationRefs": [
+        "https://zh.wikisource.org/zh-hant/長安古意"
+      ],
+      "status": "proposed-source-correction",
+      "kind": "probable-transcription-error",
+      "adoptionRecommendation": "recommend-adoption",
+      "applied": false,
+      "commentarySuggestion": {
+        "glossarySuggestion": {
+          "term": "连甍",
+          "text": "相接的屋脊。双阙的屋檐舒展开来，仿佛凤凰垂下的双翼。"
+        },
+        "notes": "现有诗意按建筑解读，无需重写整段。"
+      }
+    },
+    {
+      "id": "yizhu-a6bdf70848c441ec",
+      "order": 32,
+      "title": "饮中八仙歌",
+      "author": "杜甫",
+      "sourceText": "饮如长鲸吸百川，衔杯乐圣称世贤。",
+      "proposedText": "饮如长鲸吸百川，衔杯乐圣称避贤。",
+      "sourceTextSha256": "247e0aca0c22d40d27e9ab9c1fb03b77a149f3584ccc0c448e3cabe86b575e42",
+      "reason": "“世贤”在传本文字中有据，不宜当成新发现的单纯输入错误；但“避贤”有古代校勘依据。《苕溪渔隐丛话》引《少陵诗年谱》指出集中误为“称世贤”，并以李适之“避贤初罢相，乐圣且衔杯”说明“避贤”用典。建议编辑层可选择“避贤”并注一作“世贤”；由于这属于据校勘择本，本批不自动采用。",
+      "verificationRefs": [
+        "https://ctext.org/wiki.pl?chapter=362010&if=gb",
+        "https://upload.wikimedia.org/wikipedia/commons/3/36/NLC416-06jh008683-17219_%E8%8B%95%E6%BA%AA%E6%BC%81%E9%9A%B1%E5%8F%A2%E8%A9%B1%E5%89%8D%E5%BE%8C%E9%9B%86.pdf",
+        "https://zh.wikisource.org/zh-hant/飲中八仙歌"
+      ],
+      "status": "proposed-source-correction",
+      "kind": "documented-emendation",
+      "adoptionRecommendation": "editorial-choice-required",
+      "applied": false,
+      "commentarySuggestion": {
+        "glossarySuggestion": {
+          "term": "乐圣避贤",
+          "text": "清酒称“圣人”，浊酒称“贤人”，这里以好饮清酒为表层意思，又借李适之罢相诗语寄托政治意味。“避贤”另本作“世贤”。"
+        },
+        "notes": "现有释义已按乐圣避贤解释；最终呈现正文仍需与所选底本和异文注记一致。"
+      }
+    }
+  ]
+}

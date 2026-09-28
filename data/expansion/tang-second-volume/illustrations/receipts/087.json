@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-9dbf0502988eb768",
+  "order": 87,
+  "title": "秋词二首 一",
+  "author": "刘禹锡",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: One white crane rising strongly through a thin opening in autumn clouds, clear blue-grey sky and a low line of golden treetops. Upward energy, generous negative space, no mournful flock.\nPoem (semantic reference only, do not paint words): 秋词二首 一 — 刘禹锡\n自古逢秋悲寂寥，我言秋日胜春朝。\n晴空一鹤排云上，便引诗情到碧霄。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-78f74922-4e9b-4a96-be15-0918a2fccec2.png",
+  "image": "assets/volume-2/poem-art/087-yizhu-9dbf0502988eb768.png",
+  "sha256": "6881481b252f866d554d415c7af44df5882409597500c19731d629e5fa0329bb",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "逐张查看：一只白鹤向晴空上升，秋林金黄、云层明亮，表达昂扬秋意；下半大面积暖纸，主鹤不压正文区域。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:41:01.643648+00:00"
+}

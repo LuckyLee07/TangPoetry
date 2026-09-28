@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-0d2df8debe074fcf",
+  "order": 122,
+  "title": "胡笳歌送颜真卿使赴河陇",
+  "author": "岑参",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: An ancient reed-pipe player under a slanting moon near a frontier gate, sparse bowed autumn grasses and distant mountains; travelers listening quietly, no stereotyped caricature.\nPoem (semantic reference only, do not paint words): 胡笳歌送颜真卿使赴河陇 — 岑参\n君不闻胡笳声最悲，紫髯绿眼胡人吹。\n吹之一曲犹未了，愁杀楼兰征戍儿。\n凉秋八月萧关道，北风吹断天山草。\n昆仑山南月欲斜，胡人向月吹胡笳。\n胡笳怨兮将送君，秦山遥望陇山云。\n边城夜夜多愁梦，向月胡笳谁喜闻。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-7d349de8-7fba-474b-81e4-8e4ff9c3bb02.png",
+  "image": "assets/volume-2/poem-art/122-yizhu-0d2df8debe074fcf.png",
+  "sha256": "2bd78beeac47cba1fc884101cf59c746b2bfac05267d2e270d6c4328ac67bd25",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "秋草月下吹胡笳者与边关行旅构成送行气氛，芦管、双手及坐姿可辨，远山关门疏远；未添歌舞庆宴，中央下方留白。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:22:53.080473+00:00"
+}

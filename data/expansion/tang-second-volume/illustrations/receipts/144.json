@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-c3c41d1723150505",
+  "order": 144,
+  "title": "永嘉上浦馆逢张八子容",
+  "author": "孟浩然",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Two travelers sharing a small jug at a riverside guesthouse at sunset, an isolated rocky islet and layered hills beyond, modest coastal dwellings in haze; kinship within exile.\nPoem (semantic reference only, do not paint words): 永嘉上浦馆逢张八子容 — 孟浩然\n逆旅相逢处，江村日暮时。\n众山遥对酒，孤屿共题诗。\n廨宇邻蛟室，人烟接岛夷。\n乡园万余里，失路一相悲。\nNo text or tiny seal in any corner. Human anatomy natural: exactly two hands per person.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-29c105ef-4c82-4390-8363-00640e31461b.png",
+  "image": "assets/volume-2/poem-art/144-yizhu-c3c41d1723150505.png",
+  "sha256": "8f14e1c64179c9b63657cada7c04843d12a01a853141cc19ae02ec80c09a8b28",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "江村客馆中两位旅人对杯，远处孤屿群山与零落屋舍回应异乡相逢；人物平等相对、各执一杯，留白完整。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T20:24:36.178818+00:00"
+}

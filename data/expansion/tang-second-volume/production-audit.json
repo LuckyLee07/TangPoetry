@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "scope": "第二卷内容制作；不改写原底本、不导入第一卷 App",
+  "poemCount": 305,
+  "commentaryCount": 305,
+  "interpretationParagraphCount": 537,
+  "glossaryEntryCount": 843,
+  "illustrationCount": 305,
+  "illustrationBytes": 651071883,
+  "pendingIllustrationOrders": [],
+  "editorialNotePoemCount": 91,
+  "textCorrectionCount": 6,
+  "assetErrors": [],
+  "allAssetsPresent": true,
+  "publicationReady": false,
+  "checks": [
+    "稳定 ID 一一对应",
+    "全部诗意、解读、词注字段及来源非空检查",
+    "所记录原文哈希检查",
+    "校订前原文精确匹配与证据字段检查",
+    "PNG 尺寸、SHA-256 与重复文件检查"
+  ],
+  "limits": [
+    "结构检查不能代替学术终审",
+    "插画为逐张 AI 助手视觉复核，尚未整库真人审阅",
+    "校勘笔记含异文、释义边界及疑似缺字缺句，不等于全部是错误"
+  ]
+}

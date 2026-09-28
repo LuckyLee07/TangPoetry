@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-ab71790033df766f",
+  "order": 182,
+  "title": "和万年成少府寓直",
+  "author": "钱起",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A young scholar on autumn night duty in a quiet official chamber, moon beyond the eaves, one leaf and a firefly passing the window, faint goose high beside a lone cloud.\nPoem (semantic reference only, do not paint words): 和万年成少府寓直 — 钱起\n赤县新秋夜，文人藻思催。\n钟声自仙掖，月色近霜台。\n一叶兼萤度，孤云带鴈来。\n明朝紫书下，应问长卿才。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-0634d0f0-48a5-4be2-bb5c-778bd163d069.png",
+  "image": "assets/volume-2/poem-art/182-yizhu-ab71790033df766f.png",
+  "sha256": "dbf2105565ec8f8d15735ac0fafb0f9192e81bb1fc6867afd6db9eb155aa04fa",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "文士夜间案头停笔望窗，月、孤云、雁、秋叶与萤火对应具体诗意，室内灯暖而窗外夜清。中下部留白完整；书脊有极小不可辨装饰痕迹，未出现诗文题字。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:58:11.350665+00:00"
+}

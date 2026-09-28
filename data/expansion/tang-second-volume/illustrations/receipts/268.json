@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-3a8e065c056823c1",
+  "order": 268,
+  "title": "江南曲",
+  "author": "于鹄",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A young woman slightly apart from companions at a modest riverside ritual, quietly casting a few small bronze coins into her cupped space while holding white water plants. A glance toward the distant river reveals hidden longing; no fantastical fortune-telling effect.\nPoem (semantic reference only, do not paint words): 江南曲 — 于鹄\n偶向江边采白苹，还随女伴赛江神。\n众中不敢分明语，暗掷金钱卜远人。\nClarify the action: the young woman is fully ON DRY STONE STEPS ABOVE the river, clothed from head to foot, kneeling slightly behind the other women. She privately drops THREE small round square-holed bronze coins onto a dry cloth on a stone ledge as a divination cast, NOT into water. Her feet and skirt are on dry ground. She does not wade, swim or stand in the river. The river is distant background only. Small pale water plants gathered in a basket, not an oversized bouquet.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-19196e61-6197-44a1-87e4-684cfb55306e.png",
+  "image": "assets/volume-2/poem-art/268-yizhu-3a8e065c056823c1.png",
+  "sha256": "1ed64a156af9efbd4107eac260dd44364e404332bf234b71ea78aa22c28a05d4",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：重画后女子在干燥石阶上俯身暗掷三枚铜钱，同伴背对她在江神小祠前祭拜，江水在远处；不再误画成涉水投钱，私密怀人情境与留白均合适。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:10:28.440316+00:00"
+}

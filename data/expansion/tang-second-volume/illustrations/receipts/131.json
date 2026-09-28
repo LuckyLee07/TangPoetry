@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-4a88216298c3a2f7",
+  "order": 131,
+  "title": "夜宿七盘岭",
+  "author": "沈佺期",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A small high mountain lodging with an open window, a pale waning moon and low Milky Way above dark ridges, fresh ginkgo leaves close by; solitary predawn stillness.\nPoem (semantic reference only, do not paint words): 夜宿七盘岭 — 沈佺期\n独游千里外，高卧七盘西。\n晓月临窗近，天河入户低。\n芳春平仲绿，清夜子规啼。\n浮客空留听，褒城闻曙鸡。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-e5c690ec-3fb8-407b-843e-fa747815dd20.png",
+  "image": "assets/volume-2/poem-art/131-yizhu-4a88216298c3a2f7.png",
+  "sha256": "1bd033941df2f5caba8a808d77bb950b84641af3c65e65146661fd13c07472d7",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "山岭客舍临窗独坐，月与银河在夜色中，嫩绿银杏和子规回应春夜；远处晨色提示将明，主体在上部。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:32:32.242787+00:00"
+}

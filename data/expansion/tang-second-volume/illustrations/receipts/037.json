@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-7968f964d40de859",
+  "order": 37,
+  "title": "正月十五夜",
+  "author": "苏味道",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Tang lantern festival on an open bridge and avenue, warm clusters of lanterns among flowering silhouettes, a small elegant procession under the moon. Festive yet softly lit, no modern neon or written banners.\nPoem (semantic reference only, do not paint words): 正月十五夜 — 苏味道\n火树银花合，星桥铁锁开。\n暗尘随马去，明月逐人来。\n游伎皆秾李，行歌尽落梅。\n金吾不禁夜，玉漏莫相催。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-59e906ed-c25e-44e9-b555-e44a4021435c.png",
+  "image": "assets/volume-2/poem-art/037-yizhu-7968f964d40de859.png",
+  "sha256": "862b256c03617b9efffd53fa5877d75951093367accab29aef7e22fd0364da9a",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "元夕灯火、桥上游人歌者、夜月同现，暖灯色克制，主景上部与纸面柔和过渡。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:54:55.189802+00:00"
+}

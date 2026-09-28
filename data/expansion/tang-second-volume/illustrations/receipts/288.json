@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-b23ff26692d6e06c",
+  "order": 288,
+  "title": "南园十三首 五",
+  "author": "李贺",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A young Tang scholar standing before a distant gallery of indistinct merit portraits, one hand near a sheathed curved sword, mountain passes faintly beyond an open doorway. Resolve mixed with frustration; no triumphant battle or false portrait labels.\nPoem (semantic reference only, do not paint words): 南园十三首 五 — 李贺\n男儿何不带吴钩，收取关山五十州。\n请君暂上凌烟阁，若个书生万户侯。\nABSOLUTELY NO WRITING anywhere: all merit paintings are a continuous faded wall mural of distant soldier figures, WITHOUT separate hanging scrolls, WITHOUT empty label areas, WITHOUT inscriptions, WITHOUT calligraphy-like strokes. Architectural lintels are plain wood or abstract floral carvings only. The hero looks toward the small faded figures.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-be6d36fd-dcdd-4cde-99b9-f1eb5926b7aa.png",
+  "image": "assets/volume-2/poem-art/288-yizhu-b23ff26692d6e06c.png",
+  "sha256": "45c811bb9b1dc446663cac17f9f291f7f8cd28b67f403f76a1852286dc2db95d",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：重画后功臣意象成为连续淡旧武将壁画，已无像旁伪题字；青年书生执入鞘兵刃仰望，门外关山提示抱负，下部大留白。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:53:18.242381+00:00"
+}

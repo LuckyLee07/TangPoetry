@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-f7c5f55702aff3f5",
+  "order": 287,
+  "title": "赠去婢",
+  "author": "崔郊",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A young woman just inside a massive noble household gate holding a damp silk handkerchief, an old lover small and separated outside the threshold. Deep receding courtyard spaces imply an uncrossable distance; no coercion spectacle or ornate wedding celebration.\nPoem (semantic reference only, do not paint words): 赠去婢 — 崔郊\n公子王孙逐后尘，绿珠垂泪滴罗巾。\n侯门一入深如海，从此萧郎是路人。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-1f0d4955-817d-4b09-ae86-f0fe978a4504.png",
+  "image": "assets/volume-2/poem-art/287-yizhu-f7c5f55702aff3f5.png",
+  "sha256": "baa3e369348c04e63c5ddd21099f921e768107f5833e1676a8d1d94db8d43a37",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：深宅朱门内女子低头执巾，门外旧人被距离隔开，层层门洞加强侯门深意；没有喜庆婚礼或强迫场面，情绪克制，纸区充足。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:30:37.869937+00:00"
+}

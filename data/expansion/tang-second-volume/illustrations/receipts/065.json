@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-023c7ea7424c5d26",
+  "order": 65,
+  "title": "秋浦歌十七首 十五",
+  "author": "李白",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: An older poet studying his white hair in a small bronze mirror, a soft pale lock catching cool light near an autumn window. Express astonishment and sorrow without literally painting kilometers of hair.\nPoem (semantic reference only, do not paint words): 秋浦歌十七首 十五 — 李白\n白发三千丈，缘愁似个长。\n不知明镜里，何处得秋霜。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-b99f5fac-7269-430b-acbd-14518fe376a6.png",
+  "image": "assets/volume-2/poem-art/065-yizhu-023c7ea7424c5d26.png",
+  "sha256": "2dfa0af9dca9b1aa395a6498a7949c6bf404d3ba20180577026144e354d5bea1",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐图查看：白发诗人持镜自照，窗外秋意与忧思呼应；没有把三千丈画成夸张实体长发，下部留白充足。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:33:35.662776+00:00"
+}

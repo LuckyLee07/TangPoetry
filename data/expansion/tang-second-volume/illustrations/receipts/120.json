@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-fc339b59d5c62888",
+  "order": 120,
+  "title": "送刘昱",
+  "author": "李颀",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A small departing sailboat with a delicate wind vane on a choppy autumn river, pale reed flowers in foreground and a clearing shower over distant hills; one distant line of geese, muted cold light.\nPoem (semantic reference only, do not paint words): 送刘昱 — 李颀\n八月寒苇花，秋江浪头白。\n北风吹五两，谁是浔阳客。\n鸬鹚山头微雨晴，扬州郭里暮潮生。\n行人夜宿金陵渚，试听沙边有鴈声。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-70341ed5-4029-43b7-9a47-0df705cf5f1b.png",
+  "image": "assets/volume-2/poem-art/120-yizhu-fc339b59d5c62888.png",
+  "sha256": "233ff146c9c5e6687766e151c8de3631f7a46aa6dbb735a05014668ef8963e27",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "秋江风浪中的小帆船、船上细风带、近岸白芦花与远雁构成送行图；暮云初晴，未混入春花，主体上方收束。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:18:08.412197+00:00"
+}

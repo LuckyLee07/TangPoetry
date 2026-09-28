@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-500eebb955553e13",
+  "order": 214,
+  "title": "题宣州开元寺水阁阁下宛溪夹溪居人",
+  "author": "杜牧",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: View from an old temple waterside pavilion over a small creek town, low autumn rain over layered roofs, one distant tower warmed by sunset, mountains behind. A single distant bird and a barely visible flute player evoke ongoing ordinary joys and sorrows.\nPoem (semantic reference only, do not paint words): 题宣州开元寺水阁阁下宛溪夹溪居人 — 杜牧\n六朝文物草连空，天淡云闲今古同。\n鸟去鸟来山色里，人歌人哭水声中。\n深秋帘幕千家雨，落日楼台一笛风。\n惆怅无因见范蠡，参差烟树五湖东。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-2be8e0c9-818d-4a5c-b908-2a75b3b0e0ef.png",
+  "image": "assets/volume-2/poem-art/214-yizhu-500eebb955553e13.png",
+  "sha256": "03e02dde8e9560bf633e8e7f2959357b2a40c41ef8f7eb383fb75e58879d6007",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "水阁文士望夹溪人家，雨从檐头垂落，秋暮楼台与远山相接，右侧小人物吹笛；景中有人烟而不拥挤，主要纹理处上部，正文留白充足。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:54:03.404541+00:00"
+}

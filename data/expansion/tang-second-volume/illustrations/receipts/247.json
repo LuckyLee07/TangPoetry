@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-3b1f1c62d138ecf8",
+  "order": 247,
+  "title": "续父井梧吟",
+  "author": "薛郧、薛涛（传）",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A very tall old Chinese parasol tree rising from a simple courtyard, two small birds approaching from different sides and broad leaves stirred by a passing breeze. Frame trunk and canopy high, keeping the lower courtyard quiet; no invented tragic omen.\nPoem (semantic reference only, do not paint words): 续父井梧吟 — 薛郧、薛涛（传）\n庭除一古桐，耸干入云中。\n枝迎南北鸟，叶送往来风。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-574c32c5-4ca5-477b-955a-b6de75df1d35.png",
+  "image": "assets/volume-2/poem-art/247-yizhu-3b1f1c62d138ecf8.png",
+  "sha256": "69c275c2e2f78ef6b19738a164a1fe24588fa49a46de40317cffca46b67a3792",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：庭院梧桐主干与宽叶展开在画幅顶部，两只小鸟从不同方向趋向枝头，屋檐衬出庭院尺度；中央以下保持空纸，没有将身世传说画成灾祸场景。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:47:34.337034+00:00"
+}

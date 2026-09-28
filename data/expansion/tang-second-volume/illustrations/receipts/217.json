@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-5dc7d095fb080d99",
+  "order": 217,
+  "title": "安定城楼",
+  "author": "李商隐",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A young Tang scholar on a tall city tower, green willows framing broad pale sandbars, a tiny empty skiff far below. His upright still posture conveys unfulfilled ambition and eventual withdrawal, with no literal rotten mouse allegory.\nPoem (semantic reference only, do not paint words): 安定城楼 — 李商隐\n迢递高城百尺楼，绿杨枝外尽汀洲。\n贾生年少虚垂涕，王粲春来更远游。\n永忆江湖归白发，欲回天地入扁舟。\n不知腐鼠成滋味，猜意鹓雏竟未休。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-07b34c96-ba5d-4075-979b-5a1980bcdc4a.png",
+  "image": "assets/volume-2/poem-art/217-yizhu-5dc7d095fb080d99.png",
+  "sha256": "420e3c329cf87e6013767e4d353a99661fa95ad8b1d485067ad1e2e1980c3a01",
+  "width": 940,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "高城楼上青年文士远望汀洲，绿杨低垂、江中一叶舟渺小，人物姿态挺拔；未把腐鼠鹓雏典故画作动物寓言。左边柳梢延至约四成，中央正文区仍浅净。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:59:44.997231+00:00"
+}

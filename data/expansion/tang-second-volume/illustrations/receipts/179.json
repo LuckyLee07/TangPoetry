@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-79d83fafaec00ab4",
+  "order": 179,
+  "title": "闻笛",
+  "author": "张巡",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A lone defender on a high old city wall under a dim moon, enemy cavalry only tiny shapes below dusty haze, a distant watchtower hints at a flute; solemn endurance, no gore.\nPoem (semantic reference only, do not paint words): 闻笛 — 张巡\n岧嶤试一临，虏骑附城阴。\n不辨风尘色，安知天地心。\n营开边月近，战苦阵云深。\n旦夕更楼上，遥闻横笛音。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-53fff383-5bb8-4fd3-ba67-5a5c6ad97e51.png",
+  "image": "assets/volume-2/poem-art/179-yizhu-79d83fafaec00ab4.png",
+  "sha256": "a3a29b7451495b9a550d2ae1667da23b55109bfa258555378a79ac2e4ea8a13c",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "披甲守城者独立高墙，月色与阴云下可见远处敌骑、灯火和更楼；没有血腥交战，体现坚守与战云压迫，浓景止于上部并向纸色淡出。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:55:22.414417+00:00"
+}

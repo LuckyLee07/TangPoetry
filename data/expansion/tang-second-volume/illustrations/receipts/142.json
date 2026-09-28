@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-d95748a9f81b9e1d",
+  "order": 142,
+  "title": "胡笳曲",
+  "author": "王昌龄",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A reed-pipe player on a city tower beneath a fading moon, distant encampment rings soft in predawn mist; tiny listeners lower their heads, no active fighting or triumphant conquest.\nPoem (semantic reference only, do not paint words): 胡笳曲 — 王昌龄\n城南虏已合，一夜几重围。\n自有金笳引，能沾出塞衣。\n听临关月苦，清入海风微。\n三奏高楼晓，胡人掩涕归。\nNo text or tiny seal in any corner. Human anatomy natural: exactly two hands per person.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-375318e1-c37d-4099-9a6e-9703fc99b36d.png",
+  "image": "assets/volume-2/poem-art/142-yizhu-d95748a9f81b9e1d.png",
+  "sha256": "96a775118c7375ef03d09eb2de7115e056afeb9bcca87e8d94254cc19d1e1eb3",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "城楼吹笳者与低头听者面对远处营帐，晓色与残月表现一夜围困；未画交锋或征服欢庆，乐器与手势合理，下部空净。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T20:24:27.526245+00:00"
+}

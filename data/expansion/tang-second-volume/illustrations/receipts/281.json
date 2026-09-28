@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-dea79b5764566303",
+  "order": 281,
+  "title": "与浩初上人同看山寄京华亲故",
+  "author": "柳宗元",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A homesick Tang scholar and a monk standing before sharp inland southern limestone mountain ridges in autumn, the scholar looking toward the far northern horizon. Suggest the wish for countless viewpoints through repeating peaks, not clones pasted onto every summit.\nPoem (semantic reference only, do not paint words): 与浩初上人同看山寄京华亲故 — 柳宗元\n海畔尖山似劒铓，秋来处处割愁肠。\n若为化得身千亿，散上峰头望故乡。\nGeographical restraint: the poem was written in inland Liuzhou; 'by the sea' evokes the far southern region. Paint ONLY inland jagged karst peaks and cloud-filled valleys. NO ocean, surf, coastline or sea islands. If water appears, make it a small winding inland river far below.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-02b08698-ebf4-4e00-8bb7-4d457e397fd5.png",
+  "image": "assets/volume-2/poem-art/281-yizhu-dea79b5764566303.png",
+  "sha256": "d52bf9232cfdbd71096246c5c8ca341d352d4ceea0993d1996058d5e188b3575",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：重画后僧人与诗人立于内陆尖峭群山之前，云谷中仅曲折小江，没有海浪和海岸；重复峰峦传达千峰望乡，并未复制人物，暖纸下部留白。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:26:33.583458+00:00"
+}

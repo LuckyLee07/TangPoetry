@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-873a9dd8fedf78eb",
+  "order": 31,
+  "title": "代悲白头吟",
+  "author": "刘希夷",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Falling peach and plum petals beside an old Luoyang pleasure garden, a white-haired solitary elder near weathered steps, distant birds at dusk. Youth only suggested by a faint empty swing or fresh blossom, no supernatural double portrait.\nPoem (semantic reference only, do not paint words): 代悲白头吟 — 刘希夷\n洛阳城东桃李花，飞来飞去落谁家。\n洛阳女儿好颜色，坐见落花长叹息。\n今年花落颜色改，明年花开复谁在。\n已见松柏摧为薪，更闻桑田变成海。\n古人无复洛城东，今人还对落花风。\n年年岁岁花相似，岁岁年年人不同。\n寄言全盛红颜子，应怜半死白头翁。\n此翁白头真可怜，伊昔红颜美少年。\n公子王孙芳树下，清歌妙舞落花前。\n光禄池台开锦绣，将军楼阁画神仙。\n一朝卧病无相识，三春行乐在谁边。\n宛转蛾眉能几时，须臾鹤髪乱如丝。\n但看古来歌舞地，惟有黄昏鸟雀悲。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-795cf74d-8ceb-4337-bba6-068ff5529ca0.png",
+  "image": "assets/volume-2/poem-art/031-yizhu-873a9dd8fedf78eb.png",
+  "sha256": "3f31cc248fc39f77fbc2d805584d3b221b30eb1ef4367f646c9b74aa2fa6718d",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "白头人独立落花古阶，旧游园林与夕照飞鸟呼应盛衰感，落花疏淡不占正文区。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:49:54.792139+00:00"
+}

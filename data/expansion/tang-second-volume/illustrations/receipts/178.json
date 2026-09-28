@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-11aa46e3ed9f0f50",
+  "order": 178,
+  "title": "陪诸贵公子丈八沟携妓纳凉晚际遇雨二首 一",
+  "author": "杜甫",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A small summer pleasure boat beside deep bamboo and clean lotus leaves at sunset, a simple bowl of ice water and sliced white lotus root, one dark cloud arriving overhead; relaxed without spectacle.\nPoem (semantic reference only, do not paint words): 陪诸贵公子丈八沟携妓纳凉晚际遇雨二首 一 — 杜甫\n落日放船好，轻风生浪迟。\n竹深留客处，荷净纳凉时。\n公子调冰水，佳人雪藕丝。\n片云头上黑，应是雨催诗。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-68699f48-ef14-43bd-b803-41f056628ab6.png",
+  "image": "assets/volume-2/poem-art/178-yizhu-11aa46e3ed9f0f50.png",
+  "sha256": "5f5fd96dfe73d6ee49df60fbed002aff374a0dab2beb830f8ccf87080e7d228e",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "夏日晚照中的小船靠着竹林与荷叶，数位宾客围坐，桌有冰水及切藕，右上乌云点明将雨。人物仪态自然；荷叶淡影延至约四成位置，中央下方仍清空，后续排版复核上缘。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:55:18.333399+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-91ac8b5bce8dcae1",
+  "order": 235,
+  "title": "送朱大入秦",
+  "author": "孟浩然",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Two Tang friends at a roadside farewell, one respectfully handing over a sheathed sword from his belt to the departing traveler. Spring earth tones, plain robes and a waiting horse; the blade stays sheathed, warmth rather than combat.\nPoem (semantic reference only, do not paint words): 送朱大入秦 — 孟浩然\n游人武陵去，宝劒直千金。\n分手脱相赠，平生一片心。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-23496abb-86d5-4b7e-b1ed-6e8dd0f3b7a6.png",
+  "image": "assets/volume-2/poem-art/235-yizhu-91ac8b5bce8dcae1.png",
+  "sha256": "8860936be5b774e5a8e45dcdb7ef1126d3099dbc3a44919136f5cf973d488c91",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：两位友人双手交接有鞘宝剑，旁有待行马，人物手势与温厚神态基本自然；上部有春枝远城，中下大留白，无刀光战斗和文字。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:36:00.403943+00:00"
+}

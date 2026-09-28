@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-0f79730257d6c84c",
+  "order": 160,
+  "title": "塞下曲六首 五",
+  "author": "李白",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Soldiers resting quietly beside bows and sheathed swords on a cold desert night, moonlight silvering frost and distant pass walls; no battle, composed homesickness.\nPoem (semantic reference only, do not paint words): 塞下曲六首 五 — 李白\n塞虏乘秋下，天兵出汉家。\n将军分虎竹，战士卧龙沙。\n边月随弓影，胡霜拂劒花。\n玉关殊未入，少妇莫长嗟。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-13ed1d25-c8b1-4f51-94bc-8e0e2927e0ad.png",
+  "image": "assets/volume-2/poem-art/160-yizhu-0f79730257d6c84c.png",
+  "sha256": "9664c88105274d00a6741323b0eda5fe71c8ae039b60853857974cf5ca4d4378",
+  "width": 940,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "上部霜月边塞营帐与休息士卒，弓剑收置，人物无战斗伤害；冷灰色自然淡出，中下部留白完整。地面白色偏多，作为月下霜色接受，后续页面复核。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:37:12.759221+00:00"
+}

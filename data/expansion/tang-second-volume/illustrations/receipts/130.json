@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-a755a1abe8cba890",
+  "order": 130,
+  "title": "咏风",
+  "author": "王勃",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A secluded house beside a mountain stream at sunset, mist lifting between pillars and pine branches gently swaying, no visible wind creature; clear soft greens and gold.\nPoem (semantic reference only, do not paint words): 咏风 — 王勃\n肃肃凉景生，加我林壑清。\n驱烟寻磵户，卷雾出山楹。\n去来固无迹，动息如有情。\n日落山水静，为君起松声。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-920bc41b-af01-489f-b7a4-2eb230001281.png",
+  "image": "assets/volume-2/poem-art/130-yizhu-a755a1abe8cba890.png",
+  "sha256": "bc6d2dc2b7434701a14a86518325bd7a38fe5174dfb0459aea9891ea9f28edd5",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "山居门楹间薄雾流动，松枝临溪，落日远山安静；风借枝条与雾呈现，未添风神，淡出部分自然。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:32:27.603377+00:00"
+}

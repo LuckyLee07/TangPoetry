@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-e1047d6a1b98b62f",
+  "order": 129,
+  "title": "将进酒",
+  "author": "李贺",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: An amber-red wine cup and delicate dishes beside a gauze screen, faint silhouettes of musicians, peach petals falling outside at late spring dusk; sumptuous details kept few, melancholy beneath warmth.\nPoem (semantic reference only, do not paint words): 将进酒 — 李贺\n瑠璃钟，琥珀浓，小槽酒滴真珠红。\n烹龙炮凤玉脂泣，罗屏绣幕围香风。\n吹龙笛，击鼍鼓，皓齿歌，细腰舞。\n况是青春日将暮，桃花乱落如红雨。\n劝君终日酩酊醉，酒不到刘伶坟上土。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-1b59c130-cdfc-40cd-8a55-fac1d5f73e00.png",
+  "image": "assets/volume-2/poem-art/129-yizhu-e1047d6a1b98b62f.png",
+  "sha256": "ec7ab7d19ec52e1b77373b172aea9cfcab4ec8f0a5a88d35e9e11c1b67fe022f",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "琥珀红酒与简约席面在前，纱幕后笛鼓与舞者淡影、窗外晚春落桃花相衬；未画烹龙炮凤的怪诞实体，正文区除极淡边缘花瓣外空净。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:32:23.097924+00:00"
+}

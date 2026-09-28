@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-faa1afab6422f114",
+  "order": 203,
+  "title": "夜",
+  "author": "杜甫",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A sick elderly traveler with a walking staff beside a moored boat at autumn night, one small lamp, a new crescent and Milky Way over clear water, distant riverside laundry stones hinted faintly.\nPoem (semantic reference only, do not paint words): 夜 — 杜甫\n露下天高秋水清，空山独夜旅魂惊。\n疎灯自照孤帆宿，新月犹悬双杵鸣。\n南菊再逢人卧病，北书不至雁无情。\n步蟾倚杖看牛斗，银汉遥应接凤城。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-5d994b6a-762b-45ba-9914-1cff3e5cf5a0.png",
+  "image": "assets/volume-2/poem-art/203-yizhu-faa1afab6422f114.png",
+  "sha256": "3e9d70e3c5cc6f1802cfe99c1d195698722f3b4f58aaa0b39eba4e42416b1317",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "老人倚杖立于泊舟旁，孤灯、新月、银河与远处捣衣人共同呈现秋夜旅怀；没有添加战场，夜色只集中上部，正文区域为浅纸。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:21:18.979936+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-18786301629289de",
+  "order": 236,
+  "title": "送郭司仓",
+  "author": "王昌龄",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A host at a riverside doorway holding a departing friend’s horse for a final moment, green Huai River beside them and a pale moon rising. Spring tide runs quietly toward the distance.\nPoem (semantic reference only, do not paint words): 送郭司仓 — 王昌龄\n暎门淮水绿，留骑主人心。\n明月随良掾，春潮夜夜深。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-c24223f3-a399-4208-aa02-b2d47fadd786.png",
+  "image": "assets/volume-2/poem-art/236-yizhu-18786301629289de.png",
+  "sha256": "9edb38d730c19704a0b88699c5b9a732e5566bcbc918e5bed300c9d93c2d51ac",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：门前主人挽马，友人已上鞍，绿色潮水和一轮明月相映；上部景物往纸色自然淡出，中下留白充分，无文字印章。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:36:03.967984+00:00"
+}

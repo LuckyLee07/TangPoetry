@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-818223566f901515",
+  "order": 184,
+  "title": "竹窗闻风寄苗发司空曙",
+  "author": "李益",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: An empty bamboo-window study at dusk, door gently moved by wind, dew dripping onto mossy steps, a dusty seven-string qin inside; expectant quiet with no arriving figure.\nPoem (semantic reference only, do not paint words): 竹窗闻风寄苗发司空曙 — 李益\n微风惊暮坐，临牖思悠哉。\n开门复动竹，疑是故人来。\n时滴枝上露，稍沾堦下苔。\n何当一入幌，为拂绿琴埃。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-1c2ffa7f-6e83-420a-9b2d-85d28b541c0f.png",
+  "image": "assets/volume-2/poem-art/184-yizhu-818223566f901515.png",
+  "sha256": "9d17956e76b5c860b64131091d6330d35d8b93c3a29591cd94ea96cfcc0245dc",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "无人到来的竹窗书斋内古琴闲置，微开的门、竹叶水滴和苔阶表达误以为故人来的期待；画面没有添加到访人物，中下部均淡纸留白。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:58:25.018835+00:00"
+}

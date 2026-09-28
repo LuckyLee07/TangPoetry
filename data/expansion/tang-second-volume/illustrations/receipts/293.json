@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-a96d004b090011ee",
+  "order": 293,
+  "title": "蔡中郎坟",
+  "author": "温庭筠",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A neglected old scholar’s grave in spring with small wildflowers among broken stones, a Tang poet standing quietly at some distance. No readable gravestone inscription or visible ghost; contrast enduring flowers with forgotten learning.\nPoem (semantic reference only, do not paint words): 蔡中郎坟 — 温庭筠\n古坟零落野花春，闻说中郎有后身。\n今日爱才非昔日，莫抛心力作词人。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-b8b53547-2e7e-4c53-bb21-00c5fda15606.png",
+  "image": "assets/volume-2/poem-art/293-yizhu-a96d004b090011ee.png",
+  "sha256": "55f2c4c749f6582426d429cab1fbf3cb8a4257292355e725eb7830b2bbb67d67",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：春野孤坟石块残破，小花仍开，来访诗人静立远处；石碑没有题字，未画鬼魂，遗才与春草对照清楚，下方纸色柔和。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:57:07.412029+00:00"
+}

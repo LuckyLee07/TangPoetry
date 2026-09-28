@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-2a4e57838fcc98bd",
+  "order": 97,
+  "title": "淮上与友人别",
+  "author": "郑谷",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Two friends at a willow-lined Yangtze ferry at dusk, drifting pale catkins and a small departure boat, a remote pavilion flute player suggested. Opposing river paths imply separate destinations.\nPoem (semantic reference only, do not paint words): 淮上与友人别 — 郑谷\n扬子江头杨柳春，杨花愁杀渡江人。\n数声风笛离亭晚，君向潇湘我向秦。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-a23ab00d-12c3-466d-a89a-de9e0e463343.png",
+  "image": "assets/volume-2/poem-art/097-yizhu-2a4e57838fcc98bd.png",
+  "sha256": "0f6402d02a67ac86a17dceab3e6391f6fc9b755b0b46ec4fdbe38b8884a54837",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "逐张查看：两位友人在杨柳江岸分别，远亭吹笛，春水暮光与待渡小舟明确；人物为两位男性，未换成男女恋人，下方留白。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:48:20.745599+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-e4a6874197df2930",
+  "order": 44,
+  "title": "题李凝幽居",
+  "author": "贾岛",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A monk knocking gently at a secluded garden gate under moonlight, birds asleep in a tree beside a small pond, a narrow grassy path and a simple bridge. Quiet threshold as focal point.\nPoem (semantic reference only, do not paint words): 题李凝幽居 — 贾岛\n闲居少邻并，草径入荒园。\n鸟宿池边树，僧敲月下门。\n过桥分野色，移石动云根。\n暂去还来此，幽期不负言。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-2d044886-fca6-436c-9f77-d74874239174.png",
+  "image": "assets/volume-2/poem-art/044-yizhu-e4a6874197df2930.png",
+  "sha256": "bcb68b368c72e7c79fa05c2099774483148a1942cf718cb0eaafe9ca4d069673",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "月下僧人叩门，池边宿鸟与小桥幽径对应原诗，夜色不过度压暗整页。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:02:57.371529+00:00"
+}

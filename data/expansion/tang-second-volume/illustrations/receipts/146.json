@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-7c8f5c19787c1286",
+  "order": 146,
+  "title": "山居即事",
+  "author": "王维",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: Bamboo and fading lotus beside a rustic gate at sunset, pine trees with a few crane nests above, small gathering boats returning near cooking smoke at a distant landing; quiet life, not desolation.\nPoem (semantic reference only, do not paint words): 山居即事 — 王维\n寂寞掩柴扉，苍茫对落晖。\n鹤巢松树遍，人访荜门稀。\n绿竹含新粉，红莲落故衣。\n渡头烟火起，处处采菱归。\nNo text or seal in any corner; birds and human anatomy must be natural.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-dedd0a00-59dc-4950-8c27-5acd44abc3d5.png",
+  "image": "assets/volume-2/poem-art/146-yizhu-7c8f5c19787c1286.png",
+  "sha256": "5eafad5db76ef7f575bf84eccdc79c37ab2590505928318e2a26b8c1992c359b",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "柴门闭、绿竹和红莲、松间鹤巢与采菱归舟、渡头炊烟形成山居晚景；不是荒凉无人世界，物候和归舟动作一致。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T20:28:28.634044+00:00"
+}

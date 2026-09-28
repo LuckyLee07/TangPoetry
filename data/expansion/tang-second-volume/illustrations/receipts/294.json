@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-ced3d8a8916a0c1d",
+  "order": 294,
+  "title": "山亭夏日",
+  "author": "高骈",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A shaded summer pavilion beside a still pond reflecting its roof, a light translucent hanging curtain gently moved by breeze, flowering pale roses climbing a trellis nearby. Deep green canopy and warm dappled light, uncluttered luxurious quiet.\nPoem (semantic reference only, do not paint words): 山亭夏日 — 高骈\n绿树阴浓夏日长，楼台倒影入池塘。\n水精帘动微风起，满架蔷薇一院香。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-dbc4-7122-815c-ee8121da1587/exec-64c8ccb0-33ab-4e98-b6a2-e35aa9d8dc09.png",
+  "image": "assets/volume-2/poem-art/294-yizhu-ced3d8a8916a0c1d.png",
+  "sha256": "d4af488552a0265998303288106f062fb5ec3fcd730e4c39a4cb5c8ddf184889",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已逐张查看：浓荫夏亭倒映池塘，纱帘被微风吹起、架上浅色蔷薇繁盛，景色清凉安静；倒影延至约上四成后淡出，余下足以排绝句，无文字边框。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:57:12.322957+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-20ba76b968927758",
+  "order": 21,
+  "title": "竹枝词二首 一",
+  "author": "刘禹锡",
+  "method": "built-in image_gen",
+  "prompt": "Edit this image with one precise narrative correction, preserving the beautiful ink-watercolor style, warm ivory full-bleed paper, willow/river/rain-and-sun setting and all the large blank lower writing area. The young listener at the left willow tree must be a clearly female Tang-era young woman, seen mostly from behind with a graceful woman's hair arrangement and pale hanfu. The singer on the boat must be a young MAN, wearing simple male Tang-era clothes, singing naturally while handling a simple boat oar; REMOVE the musical instrument. This poem is a girl hearing her beloved young man's song across the river, not a male scholar listening to a female musician. Keep both figures small and restrained, no romance pose, no text, no frame.",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-4d9bfe4e-2617-4f51-a1db-c123b4b0e45d.png",
+  "image": "assets/volume-2/poem-art/021-yizhu-20ba76b968927758.png",
+  "sha256": "5067c072b5725b8d257d2f18bf1e34455e8e32747fce9b671608ec5227abeb12",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "已修正为岸边女子听江上男子歌唱，移除琵琶；杨柳、新晴与雨幕呼应晴情双关，中央留白完整。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:43:50.665719+00:00"
+}

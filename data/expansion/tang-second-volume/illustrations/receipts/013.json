@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-9aea75c1a815593f",
+  "order": 13,
+  "title": "逢雪宿芙蓉山主人",
+  "author": "刘长卿",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: At snowy dusk a tiny poor whitewashed mountain cottage with a rough wooden gate, a small dog at the entrance, a bundled traveler arriving along a snow-covered path, distant mountains fading into cold twilight. One faint warm light from the cottage, restrained winter watercolor.\nPoem (semantic reference only, no printed text): 逢雪宿芙蓉山主人 — 刘长卿\n日暮苍山远，天寒白屋贫。\n柴门闻犬吠，风雪夜归人。",
+  "source": "/Users/lizi/.codex/generated_images/01a0dbc2-ae4f-78b0-8578-d60e425856eb/exec-08e1a84a-9c67-4c37-aa8a-d98656b69ab0.png",
+  "image": "assets/volume-2/poem-art/013-yizhu-9aea75c1a815593f.png",
+  "sha256": "1d109f0cfacca0ae2044c09ed44b1eef920bc0a2d97dd6ac41737b72121cb4b3",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "Viewed solitary bundled arrival approaching a poor snowy cottage, dog by wooden gate and one warm window. Cold dusk mountains fade into mist; simple muted setting matches poem. No text, frame or modern objects; writing area clear.",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T16:28:29.514365+00:00"
+}

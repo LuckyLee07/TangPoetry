@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-79f5b8acd86596c1",
+  "order": 121,
+  "title": "人日寄杜二拾遗",
+  "author": "高适",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A middle-aged official writing a letter beside a window with early plum blossoms and budding willow, distant hazy roads separating two towns; warm interior with a melancholy spring outside.\nPoem (semantic reference only, do not paint words): 人日寄杜二拾遗 — 高适\n人日题诗寄草堂，遥怜故人思故乡。\n柳条弄色不忍见，梅花满枝空断肠。\n身在远藩无所预，心怀百忧复千虑。\n今年人日空相忆，明年人日知何处。\n一卧东山三十春，岂知书劒老风尘。\n龙钟还忝二千石，愧尔东西南北人。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-9a2bd589-f13e-4365-ad1a-0b58e2ebdaf8.png",
+  "image": "assets/volume-2/poem-art/121-yizhu-79f5b8acd86596c1.png",
+  "sha256": "2bcf3840017702dd2ee7beaa458aeea182b30f2b0734faf23aa3e8e449964cc1",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "中年官员停笔望远，窗前梅花与新柳表现人日春意，远路与城郭提示故人相隔；表情沉静，无团聚情节，主景外大面积留白。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:22:48.166510+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-8f799f1c3c3b03a9",
+  "order": 151,
+  "title": "送李侍御赴安西",
+  "author": "高适",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A mounted envoy preparing to leave the Wei River region, a friend offers a final cup, distant frontier mountains behind drifting seedheads; a sheathed sword catches restrained light.\nPoem (semantic reference only, do not paint words): 送李侍御赴安西 — 高适\n行子对飞蓬，金鞭指铁骢。\n功名万里外，心事一桮中。\n虏障燕支北，秦城太白东。\n离魂莫惆怅，看取宝刀雄。\nNo text or seal in any corner; all scrolls and paper must be unmarked. Exactly two hands for each person, realistic hands, limbs and horses.",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-c7323fa1-e2fb-4c5d-9c18-90b936137782.png",
+  "image": "assets/volume-2/poem-art/151-yizhu-8f799f1c3c3b03a9.png",
+  "sha256": "28ecdc0f2c7e7fdec521a9d8d849f81700511aa9559182beec352c2d54f27da5",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "送者递杯、骑者伸手接杯，铁青马与佩刀、远山关城暗示赴安西；动作关系合理，未画刀剑出鞘争斗，下方留白。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T20:33:03.528091+00:00"
+}

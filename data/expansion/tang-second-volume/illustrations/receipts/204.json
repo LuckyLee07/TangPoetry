@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-48caa3afad646324",
+  "order": 204,
+  "title": "巴岭荅杜二见忆",
+  "author": "严武",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A rider paused on a Bashan mountain road under a setting moon, red maples along river and a distant fence of yellow chrysanthemums, high autumn geese; look backward in affectionate longing.\nPoem (semantic reference only, do not paint words): 巴岭荅杜二见忆 — 严武\n卧向巴山落月时，两乡千里梦相思。\n可但步兵偏爱酒，也知光禄最能诗。\n江头赤叶枫愁客，篱外黄花菊对谁。\n跂马望君非一度，冷猨秋鴈不胜悲。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-7a42-78a3-ab88-031af124c852/exec-8639786e-6ed2-4904-86a5-afe3493c53a3.png",
+  "image": "assets/volume-2/poem-art/204-yizhu-48caa3afad646324.png",
+  "sha256": "4ae3087c3ead1750ec7594acaa10c85a9fae1d2257d46438615174d0329d20e5",
+  "width": 940,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "巴山江路上旅人骑马远望，近处赤枫、对岸村落与篱边黄菊、秋雁和低月构成思友意象；中下部留白完整，没有把地名图解成现代景点。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:21:24.442244+00:00"
+}

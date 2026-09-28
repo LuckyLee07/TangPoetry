@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "yizhu-7b35012ff53b2316",
+  "order": 125,
+  "title": "听颖师弹琴",
+  "author": "韩愈",
+  "method": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE full-bleed 9:16 portrait illustration for a premium Chinese poetry reader. Refined traditional Chinese ink with delicate translucent watercolor on warm ivory xuan paper, restrained celadon, soft ochre and ink grey, naturally textured brushwork, airy lyrical depth. Tang-era clothing, architecture and objects if relevant. CRITICAL COMPOSITION: main subjects are confined to the TOP 25–30% of the tall sheet, softly dissolving into ivory mist by 33% height. The central and lower 65% must be almost blank warm ivory writing paper for separately rendered poem text. No strong shapes below that area; tiny pale motifs at outermost bottom corners only if truly needed. All four paper edges are full bleed: no frame, rectangular picture boundary, green outer border, UI, collage, modern objects, written characters, title, calligraphy, stamp, seal, logo or watermark. Not a generic interchangeable landscape: use the exact poem's setting, season, emotional tone and main visual moment. Paint no words from the poem.\nSpecific scene: A seated qin master playing an unadorned seven-string zither while a nearby scholar lifts one hand, eyes wet and absorbed; windlike ribbons of pale cloud suggest music, no literal battle collage.\nPoem (semantic reference only, do not paint words): 听颖师弹琴 — 韩愈\n昵昵儿女语，恩怨相尔汝。\n划然变轩昂，勇士赴敌场。\n浮云柳絮无根蔕，天地阔远随飞扬。\n喧啾百鸟群，忽见孤凤皇。\n跻攀分寸不可上，失势一落千丈强。\n嗟余有两耳，未省听丝篁。\n自闻颖师弹，起坐在一旁。\n推手遽止之，湿衣泪滂滂。\n颖乎尔诚能，无以冰炭置我肠。",
+  "source": "/Users/lizi/.codex/generated_images/01a0e8c4-1732-7262-9c6c-ac23644f4352/exec-65d5adc5-1233-49ba-8824-d35e66268fe8.png",
+  "image": "assets/volume-2/poem-art/125-yizhu-7b35012ff53b2316.png",
+  "sha256": "9c1a24f8421e22a141aae18da4c8764b731b1cac48d42b4cf6da9f046fd39ab1",
+  "width": 941,
+  "height": 1672,
+  "status": "accepted",
+  "visualReview": "琴师抚七弦琴，身旁听者举手动容，淡云如音乐起伏；手与琴弦关系清楚，未拼贴勇士凤凰等实物，下部留白。",
+  "reviewKind": "assistant-visual-review",
+  "acceptedAt": "2026-09-28T17:27:53.383718+00:00"
+}
