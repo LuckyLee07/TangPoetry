@@ -1,0 +1,91 @@
+{
+  "scope": "Only these explicitly documented readings differ from the research corpus. Not a critical edition.",
+  "records": [
+    {
+      "poemId": "yizhu-73694a62da078837",
+      "kind": "targeted-reading-correction",
+      "replace": [
+        {
+          "old": "大漠山如雪",
+          "new": "大漠沙如雪"
+        }
+      ],
+      "sourceUrl": "https://www.gushiwen.cn/shiwenv_55174e6ebe20.aspx",
+      "accessedOn": "2026-09-28",
+      "note": "据对照页校正首句山/沙；其余保留底本。"
+    },
+    {
+      "poemId": "yizhu-eee2466eab37540c",
+      "kind": "targeted-reading-correction",
+      "replace": [
+        {
+          "old": "弄日临谿坐",
+          "new": "弄石临谿坐"
+        }
+      ],
+      "sourceUrl": "https://m.gushiwen.cn/shiwenv_981a524d54a5.aspx",
+      "accessedOn": "2026-09-28",
+      "note": "据对照页校正日/石；谿/溪属字形差别，保留底本，其余不变。"
+    },
+    {
+      "poemId": "yizhu-f582a46a634a9a25",
+      "kind": "targeted-reading-correction",
+      "replace": [
+        {
+          "old": "今陵驿路",
+          "new": "金陵驿路"
+        }
+      ],
+      "sourceUrl": "https://www.gushiwen.cn/gushiwen_fb20349512.aspx",
+      "accessedOn": "2026-09-28",
+      "note": "据对照页校正地名；底本归客与对照行客作为版本差异记录，暂留归客。"
+    },
+    {
+      "poemId": "yizhu-6c72c061451dfb5b",
+      "kind": "targeted-reading-correction",
+      "replace": [
+        {
+          "old": "艰难块深情",
+          "new": "艰难愧深情"
+        }
+      ],
+      "sourceUrl": "https://m.gushiwen.cn/shiwenv_5bc5500f6e92.aspx",
+      "accessedOn": "2026-09-28",
+      "note": "据对照页校正块/愧；苦辞/莫辞、兵革/兵戈等差别未据此连带改动。"
+    },
+    {
+      "poemId": "yizhu-bf7100c348c5786c",
+      "kind": "complete-comparison-reading",
+      "paragraphs": [
+        "流莺漂荡复参差，度陌临流不自持。",
+        "巧啭岂能无本意？良辰未必有佳期。",
+        "风朝露夜阴晴里，万户千门开闭时。",
+        "曾苦伤春不忍听，凤城何处有花枝。"
+      ],
+      "sourceUrl": "https://www.gushiwen.cn/shiwenv_5c6a6e4c7cb2.aspx",
+      "accessedOn": "2026-09-28",
+      "note": "底本仅六句，采用对照页八句全文，补回末联；漂/飘、度/渡及标点按所采页面，原六句另存。"
+    },
+    {
+      "poemId": "yizhu-d3dc83a55007f322",
+      "kind": "title-reading",
+      "title": "元和十年自朗州至京戏赠看花诸君子",
+      "sourceUrl": "https://www.gushiwen.cn/shiwenv_8749583f7c50.aspx",
+      "accessedOn": "2026-09-28",
+      "note": "展示题名据对照页作十年；原底本十一年题名继续保留，可按两种题名检索。"
+    },
+    {
+      "poemId": "yizhu-ffc75a5a037c5a50",
+      "kind": "targeted-reading-correction",
+      "replace": [
+        {
+          "old": "万里桥西一，草堂",
+          "new": "万里桥西一草堂"
+        }
+      ],
+      "sourceUrl": "https://www.gushiwen.cn/mingju/juv_bbb33b4b9139.aspx",
+      "accessedOn": "2026-09-28",
+      "note": "按对照页删除误断首句的逗号；其余字形与静/净异文沿底本，留待统一定本。"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "records": [
+    {
+      "poemId": "yizhu-df45c103928da5ce",
+      "code": "long-poem-collation-required",
+      "note": "保留完整来源转录；原记录的引号跨段及若干罕见字需要以可靠印本逐句校勘，尚不可直接用于TTS或出版。"
+    },
+    {
+      "poemId": "yizhu-d2e0f0c3e3c64973",
+      "code": "variant-review",
+      "note": "底本作人谁不愿老、多炙、微霞；对照页作人谁不顾老、多灸、为霞。微霞亦见其他传本，暂不凭熟悉程度判错，选定统一定本时再处理。",
+      "sourceUrl": "https://www.gushiwen.cn/shiwenv.aspx?id=e07317133df0",
+      "additionalSourceUrls": [
+        "https://www.shidianguji.com/book/GJTS15/chapter/1lpdeetfa0ene"
+      ]
+    },
+    {
+      "poemId": "yizhu-36ee6a7e3ab8993e",
+      "code": "circulating-text-variant",
+      "note": "采用所存底本的三言、五言、七言六句正文；不拼入其他流传文本的追加段落。"
+    },
+    {
+      "poemId": "yizhu-80b09d230a0e9226",
+      "code": "composition-date-unverified",
+      "note": "作者跨唐五代；本诗按常见唐诗选目收录，具体写作年份尚未核定。",
+      "sourceUrl": "https://m.gushiwen.cn/shiwenv_0564d7f8b06b.aspx"
+    },
+    {
+      "poemId": "yizhu-e3194e39b66ee0dd",
+      "code": "source-author-label",
+      "note": "底本署太宗皇帝，阅读显示采用李世民（唐太宗）；赠萧瑀、赐萧瑀为同篇异题。",
+      "authorDisplay": "李世民（唐太宗）",
+      "sourceUrl": "https://www.gushiwen.cn/mingju_719.aspx"
+    }
+  ]
+}

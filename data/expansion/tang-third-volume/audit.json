@@ -1,0 +1,399 @@
+{
+  "schemaVersion": 1,
+  "checkedOn": "2026-09-28",
+  "inputs": [
+    {
+      "path": "data/expansion/tang-yizhu/poems.json",
+      "sha256": "3a9acf7b13b9f43bc5110ced24534d4847b9c6391772d09299a9714eae03c588"
+    },
+    {
+      "path": "data/final/tang_poems_final.json",
+      "sha256": "55fe77c0c340639c2ad392909dae3ce590e6f58a6b6479a634a1d92f47d1b957"
+    },
+    {
+      "path": "data/expansion/tang-yizhu/xieying/matched-poems.json",
+      "sha256": "2a510657dad28d561a67185738460c1fc29e6677b5a665d89d9121966545bacb"
+    },
+    {
+      "path": "data/expansion/tang-third-volume/selection.json",
+      "sha256": "81115a52003bc2fb9cfa48e0d3a880ab6e94936c782dcb9854e057af65e513c1"
+    },
+    {
+      "path": "data/expansion/tang-third-volume/sources/editions.json",
+      "sha256": "7e0a203ed77d9ec64a7282e3fa031e692b54639d5e1246c0d06ccd2cf47501f0"
+    },
+    {
+      "path": "data/expansion/tang-third-volume/sources/editorial-notes.json",
+      "sha256": "64bb418b847bd18bff0bd07e5420f5bab3ffdf0295195ae37fd6595231443ec8"
+    },
+    {
+      "path": "data/expansion/tang-third-volume/sources/methodology.json",
+      "sha256": "3f2c70063b252abf8f7803b88af22734b07d72cdeec4837ced1a4485d1f150d7"
+    },
+    {
+      "path": "data/expansion/tang-third-volume/sources/retained-93.json",
+      "sha256": "e31a1d1bfe4bd0e52ab02d80efd11e7a0d0fec029aeaf7b0e618d49ad52302b0"
+    },
+    {
+      "path": "data/expansion/tang-third-volume/sources/additional-qts.json",
+      "sha256": "346973d584b5c522805b1763995722677d72009fd3909e0074ea544f68984ff0"
+    },
+    {
+      "path": "data/expansion/tang-third-volume/sources/popularity-revision.json",
+      "sha256": "c070125b345f65ba8e77c544a82d50c512de2ce4936dca8df856cbb6c191abfa"
+    },
+    {
+      "path": "data/expansion/tang-third-volume/sources/selection-before-popularity-review.json",
+      "sha256": "670be0399e83c9a6450013dea6d09278984812539aa9161318bf010a25b75d9c"
+    }
+  ],
+  "deduplication": {
+    "normalization": "build_tang_yizhu.key: punctuation removed, simplified + explicit glyph folding",
+    "allAvailableTextWitnessesCompared": true,
+    "authorsNotUsedAsFilter": true,
+    "similarityCandidateThreshold": 0.7,
+    "algorithm": "difflib.SequenceMatcher(autojunk=False); character-multiset upper bound prefilter",
+    "scope": "current 320 app records + 305 Xieying provisional selected records; not all historical anthologies",
+    "baselineCandidates": [],
+    "internalCandidates": [],
+    "sharedSourceRecordIdsChecked": true
+  },
+  "baseline": {
+    "appPoems": 320,
+    "xieyingPoems": 305,
+    "crossVolumeExactMatches": [
+      {
+        "appId": "tang-042-zi-ye-si-shi-ge-dong-ge",
+        "appTitle": "子夜四时歌冬歌",
+        "xieyingId": "yizhu-0a62ab779f1141d5",
+        "xieyingTitle": "子夜吴歌 冬歌",
+        "author": "李白"
+      }
+    ],
+    "uniquePoems": 624,
+    "xieyingUserConfirmedPoems": 85
+  },
+  "releasePlan": {
+    "volume1": 320,
+    "volume2Gross": 305,
+    "volume2NetNew": 304,
+    "volume3NetNew": 300,
+    "uniqueTotal": 924,
+    "status": "planned; volume2 and volume3 not imported"
+  },
+  "inheritedReviewFlags": [
+    {
+      "id": "yizhu-b2018b9d9b4c0b9a",
+      "title": "杜陵叟",
+      "author": "白居易",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-a718d0502ddb870a",
+      "title": "新丰折臂翁",
+      "author": "白居易",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-d1c6ec1563a6a588",
+      "title": "北风行",
+      "author": "李白",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-6095d75d12de135e",
+      "title": "夜宿山寺",
+      "author": "李白",
+      "issues": [
+        "attribution-or-edition-review"
+      ]
+    },
+    {
+      "id": "yizhu-001947ad8e3ce28e",
+      "title": "田家词",
+      "author": "元稹",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-36ee6a7e3ab8993e",
+      "title": "三五七言（秋风词）",
+      "author": "李白",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-d3dc83a55007f322",
+      "title": "元和十年自朗州至京戏赠看花诸君子",
+      "author": "刘禹锡",
+      "issues": [
+        "title-variant-review"
+      ]
+    },
+    {
+      "id": "yizhu-1984170d01acd3b9",
+      "title": "牧童词",
+      "author": "张籍",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-cad270356b2f4555",
+      "title": "赠荷花",
+      "author": "李商隐",
+      "issues": [
+        "embedded-annotations-separated",
+        "editorially-supplied-reading"
+      ]
+    },
+    {
+      "id": "yizhu-4e4250323b7d765a",
+      "title": "苏小小墓",
+      "author": "李贺",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-a76d7d053e9faf68",
+      "title": "苦昼短",
+      "author": "李贺",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-ffc75a5a037c5a50",
+      "title": "狂夫",
+      "author": "杜甫",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-07f30d39363b355d",
+      "title": "上阳白发人",
+      "author": "白居易",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-7d28b3302142b5dc",
+      "title": "井底引银缾",
+      "author": "白居易",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-d5384961b6af9da9",
+      "title": "母别子",
+      "author": "白居易",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-b9edeed78ba03190",
+      "title": "红线毯",
+      "author": "白居易",
+      "issues": [
+        "mixed-length-verse-review"
+      ]
+    },
+    {
+      "id": "yizhu-df45c103928da5ce",
+      "title": "秦妇吟",
+      "author": "韦庄",
+      "issues": [
+        "embedded-annotations-separated"
+      ]
+    }
+  ],
+  "editorialReviewNotes": [
+    {
+      "id": "yizhu-d2e0f0c3e3c64973",
+      "title": "酬乐天咏老见示",
+      "author": "刘禹锡",
+      "notes": [
+        {
+          "poemId": "yizhu-d2e0f0c3e3c64973",
+          "code": "variant-review",
+          "note": "底本作人谁不愿老、多炙、微霞；对照页作人谁不顾老、多灸、为霞。微霞亦见其他传本，暂不凭熟悉程度判错，选定统一定本时再处理。",
+          "sourceUrl": "https://www.gushiwen.cn/shiwenv.aspx?id=e07317133df0",
+          "additionalSourceUrls": [
+            "https://www.shidianguji.com/book/GJTS15/chapter/1lpdeetfa0ene"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yizhu-36ee6a7e3ab8993e",
+      "title": "三五七言（秋风词）",
+      "author": "李白",
+      "notes": [
+        {
+          "poemId": "yizhu-36ee6a7e3ab8993e",
+          "code": "circulating-text-variant",
+          "note": "采用所存底本的三言、五言、七言六句正文；不拼入其他流传文本的追加段落。"
+        }
+      ]
+    },
+    {
+      "id": "yizhu-80b09d230a0e9226",
+      "title": "白鹿洞二首·其一",
+      "author": "王贞白",
+      "notes": [
+        {
+          "poemId": "yizhu-80b09d230a0e9226",
+          "code": "composition-date-unverified",
+          "note": "作者跨唐五代；本诗按常见唐诗选目收录，具体写作年份尚未核定。",
+          "sourceUrl": "https://m.gushiwen.cn/shiwenv_0564d7f8b06b.aspx"
+        }
+      ]
+    },
+    {
+      "id": "yizhu-df45c103928da5ce",
+      "title": "秦妇吟",
+      "author": "韦庄",
+      "notes": [
+        {
+          "poemId": "yizhu-df45c103928da5ce",
+          "code": "long-poem-collation-required",
+          "note": "保留完整来源转录；原记录的引号跨段及若干罕见字需要以可靠印本逐句校勘，尚不可直接用于TTS或出版。"
+        }
+      ]
+    },
+    {
+      "id": "yizhu-e3194e39b66ee0dd",
+      "title": "赠萧瑀（赐萧瑀）",
+      "author": "太宗皇帝",
+      "notes": [
+        {
+          "poemId": "yizhu-e3194e39b66ee0dd",
+          "code": "source-author-label",
+          "note": "底本署太宗皇帝，阅读显示采用李世民（唐太宗）；赠萧瑀、赐萧瑀为同篇异题。",
+          "authorDisplay": "李世民（唐太宗）",
+          "sourceUrl": "https://www.gushiwen.cn/mingju_719.aspx"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "poems": 300,
+    "retainedRecommendations": 93,
+    "newSelections": 207,
+    "sourceAuthorLabels": 75,
+    "byProposedGenre": {
+      "五言绝句": 43,
+      "六言绝句": 4,
+      "七言绝句": 129,
+      "五言律诗": 32,
+      "五言古诗": 27,
+      "七言古诗": 16,
+      "七言律诗": 30,
+      "乐府": 13,
+      "杂言古诗": 5,
+      "六言律诗": 1
+    },
+    "bySourceAuthor": {
+      "白居易": 24,
+      "李白": 23,
+      "杜甫": 22,
+      "王维": 12,
+      "刘禹锡": 11,
+      "李贺": 11,
+      "岑参": 9,
+      "李商隐": 8,
+      "李益": 8,
+      "杜牧": 8,
+      "王昌龄": 7,
+      "罗隐": 7,
+      "元稹": 6,
+      "张籍": 6,
+      "孟浩然": 5,
+      "戴叔伦": 5,
+      "杜荀鹤": 5,
+      "柳宗元": 5,
+      "王建": 5,
+      "薛涛": 5,
+      "贾岛": 5,
+      "温庭筠": 4,
+      "陆龟蒙": 4,
+      "陈子昂": 4,
+      "韦庄": 4,
+      "韩愈": 4,
+      "鱼玄机": 4,
+      "孟郊": 3,
+      "宋之问": 3,
+      "张九龄": 3,
+      "张仲素": 3,
+      "戎昱": 3,
+      "李冶": 3,
+      "王勃": 3,
+      "许浑": 3,
+      "韦应物": 3,
+      "刘长卿": 2,
+      "卢纶": 2,
+      "常建": 2,
+      "杜审言": 2,
+      "杨炯": 2,
+      "王之涣": 2,
+      "皮日休": 2,
+      "贺知章": 2,
+      "赵嘏": 2,
+      "郑谷": 2,
+      "钱起": 2,
+      "韩偓": 2,
+      "高适": 2,
+      "于武陵": 1,
+      "刘方平": 1,
+      "卢照邻": 1,
+      "司空曙": 1,
+      "太宗皇帝": 1,
+      "姚合": 1,
+      "崔颢": 1,
+      "张旭": 1,
+      "张祜": 1,
+      "张说": 1,
+      "李华": 1,
+      "李峤": 1,
+      "李涉": 1,
+      "李端": 1,
+      "柳中庸": 1,
+      "沈佺期": 1,
+      "王绩": 1,
+      "王翰": 1,
+      "王贞白": 1,
+      "皇甫冉": 1,
+      "祖咏": 1,
+      "聂夷中": 1,
+      "钱珝": 1,
+      "陈羽": 1,
+      "顾况": 1,
+      "骆宾王": 1
+    },
+    "editionDecisions": 7,
+    "longPoemsOver24Sentences": 13
+  },
+  "selectionPolicy": {
+    "primaryCriterion": "广为传诵、值得熟读的唐诗优先",
+    "themeQuotas": false,
+    "authorQuotas": false,
+    "targetCount": 300,
+    "countIsHardQuota": false,
+    "popularityMeasurement": "editorial-judgment-not-statistical-ranking"
+  },
+  "revisionRef": "sources/popularity-revision.json",
+  "publicationReady": false
+}

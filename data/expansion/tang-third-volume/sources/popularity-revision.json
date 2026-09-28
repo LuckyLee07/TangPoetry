@@ -1,0 +1,408 @@
+{
+  "requestedPrinciple": "不必有主题，只要脍炙人口即可入选",
+  "changedOn": "2026-09-28",
+  "replacementCount": 20,
+  "popularityClaim": "不提供无依据的热度分数；更熟悉为本次编辑判断，未对全部300首测量传播范围。",
+  "replacements": [
+    {
+      "previous": {
+        "id": "yizhu-95ccca082c900e93",
+        "selectionOrder": 94,
+        "title": "题农父庐舍",
+        "author": "丘为",
+        "theme": "山水与日常",
+        "reason": "山色已绿而农事正忙，流水、耒耜和暮归饭牛连成完整的一天，使田园有劳作的实感。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "replacement": {
+        "id": "yizhu-6095d75d12de135e",
+        "selectionOrder": 94,
+        "title": "夜宿山寺",
+        "author": "李白",
+        "reason": "危楼摘星与低声怕惊天上人的想象清楚鲜明，语言易记，优先补入这首熟悉的短章。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "basis": "优先补入更熟悉、便于传诵的作品；是编辑判断，不是经统计验证的热度排名。"
+    },
+    {
+      "previous": {
+        "id": "yizhu-b308c9ffc255d609",
+        "selectionOrder": 131,
+        "title": "感遇十二首·其三",
+        "author": "张九龄",
+        "theme": "自处与年岁",
+        "reason": "鱼鸟各有所依，蜉蝣短促之生却引出反问，最后以歧路之叹收束生命与选择的困惑。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "replacement": {
+        "id": "yizhu-5ff21e3a4facace0",
+        "selectionOrder": 131,
+        "title": "上李邕",
+        "author": "李白",
+        "reason": "大鹏乘风直上九万里是鲜明的自我形象，通篇从壮志转到不应轻视年少者，豪迈而有辨识度。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "basis": "优先补入更熟悉、便于传诵的作品；是编辑判断，不是经统计验证的热度排名。"
+    },
+    {
+      "previous": {
+        "id": "yizhu-e41ada6b1ed668f7",
+        "selectionOrder": 162,
+        "title": "早春寄王汉阳",
+        "author": "李白",
+        "theme": "亲友与乡思",
+        "reason": "访梅寻春、预拂青石等待共饮，怀友写成一连串主动而亲切的邀约。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "replacement": {
+        "id": "yizhu-9711e9df6bcdc278",
+        "selectionOrder": 162,
+        "title": "南陵别儿童入京",
+        "author": "李白",
+        "reason": "从家中儿女嬉笑写到仰天大笑出门，完整呈现重获机会时的昂扬，适合连同名句熟读全篇。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "basis": "优先补入更熟悉、便于传诵的作品；是编辑判断，不是经统计验证的热度排名。"
+    },
+    {
+      "previous": {
+        "id": "yizhu-2f48a8b58afa80d7",
+        "selectionOrder": 184,
+        "title": "沈下贤",
+        "author": "杜牧",
+        "theme": "咏物、想象与怀古",
+        "reason": "前贤清唱无人相和，现实草径无从寻觅，却在梦中化作水声月色，凭吊因而兼具空灵与寂寞。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "replacement": {
+        "id": "yizhu-84b0a5d431ec6b8b",
+        "selectionOrder": 184,
+        "title": "越中览古",
+        "author": "李白",
+        "reason": "前三句铺陈凯旋与宫殿繁华，末句只剩鹧鸪飞，一转之间写出盛衰落差，是清楚有力的咏史名篇。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "basis": "优先补入更熟悉、便于传诵的作品；是编辑判断，不是经统计验证的热度排名。"
+    },
+    {
+      "previous": {
+        "id": "yizhu-55ab56191dee9c54",
+        "selectionOrder": 98,
+        "title": "代春怨",
+        "author": "刘方平",
+        "theme": "女性声音与细微情思",
+        "reason": "啼莺、萋草与千条向西的杨柳都围绕开帘人展开，春风有方向，愁绪却无从排遣。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "replacement": {
+        "id": "yizhu-36ee6a7e3ab8993e",
+        "selectionOrder": 98,
+        "title": "三五七言（秋风词）",
+        "author": "李白",
+        "reason": "秋风秋月与落叶寒鸦引出相思，三言、五言、七言逐步展开，声情鲜明，便于诵读。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "basis": "优先补入更熟悉、便于传诵的作品；是编辑判断，不是经统计验证的热度排名。"
+    },
+    {
+      "previous": {
+        "id": "yizhu-cd7f3be585581277",
+        "selectionOrder": 234,
+        "title": "辋川集·华子冈",
+        "author": "王维",
+        "theme": "自处与年岁",
+        "reason": "飞鸟不停、连山皆秋，人在山冈上下往返，景物的循环托起难以排解的惆怅。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "replacement": {
+        "id": "yizhu-1f7002d7c1259417",
+        "selectionOrder": 234,
+        "title": "忆东山二首·其一",
+        "author": "李白",
+        "reason": "以蔷薇几度开花衡量离别之久，再问明月落在谁家，短章清新而有绵长牵念。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "basis": "优先补入更熟悉、便于传诵的作品；是编辑判断，不是经统计验证的热度排名。"
+    },
+    {
+      "previous": {
+        "id": "yizhu-199ff3e79cd8e7b7",
+        "selectionOrder": 191,
+        "title": "冬日有怀李白",
+        "author": "杜甫",
+        "theme": "亲友与乡思",
+        "reason": "独坐书斋终日思友，风霜贫衣与未遂的访友之约相接，使怀念兼有对生活处境的体察。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "replacement": {
+        "id": "yizhu-ab887598746c43e6",
+        "selectionOrder": 191,
+        "title": "赠李白",
+        "author": "杜甫",
+        "reason": "秋来相顾的漂泊和痛饮狂歌的姿态相连，末句的赞叹带着知己口吻，是理解李杜交谊的常读短篇。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "basis": "优先补入更熟悉、便于传诵的作品；是编辑判断，不是经统计验证的热度排名。"
+    },
+    {
+      "previous": {
+        "id": "yizhu-15b768e34211dca5",
+        "selectionOrder": 201,
+        "title": "秋兴八首·其八",
+        "author": "杜甫",
+        "theme": "亲友与乡思",
+        "reason": "昆吾、渼陂的旧游经由稻香、舟侣重新显影，结尾回到白头低吟，与前两版秋兴选篇互补。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "replacement": {
+        "id": "yizhu-2378dcc475822dc6",
+        "selectionOrder": 201,
+        "title": "曲江二首·其一",
+        "author": "杜甫",
+        "reason": "从一片花飞减却春起笔，将惜春、饮酒和对浮名的反思连在一起，全篇兼有熟悉诗句与深长感慨。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "basis": "优先补入更熟悉、便于传诵的作品；是编辑判断，不是经统计验证的热度排名。"
+    },
+    {
+      "previous": {
+        "id": "yizhu-95d46652a8a6ac55",
+        "selectionOrder": 199,
+        "title": "前出塞九首·其九",
+        "author": "杜甫",
+        "theme": "普通人的生活与长篇叙事",
+        "reason": "老兵回看十年从军与争功之事，以个人口吻质疑军中功名的衡量。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "replacement": {
+        "id": "yizhu-035038b51e09f3c2",
+        "selectionOrder": 199,
+        "title": "奉赠韦左丞丈二十二韵",
+        "author": "杜甫",
+        "reason": "读书破万卷的自信与旅食京华的困顿相对，名句有完整的身世叙述支撑，值得保留长篇阅读。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "basis": "优先补入更熟悉、便于传诵的作品；是编辑判断，不是经统计验证的热度排名。"
+    },
+    {
+      "previous": {
+        "id": "yizhu-9fee56e72682b9a9",
+        "selectionOrder": 174,
+        "title": "溪行逢雨与柳中庸",
+        "author": "李端",
+        "theme": "亲友与乡思",
+        "reason": "同行遇雨从景物写到聚散，暮色中的溪路使友谊不必靠直白表态。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "replacement": {
+        "id": "yizhu-93fe80afa1863fbe",
+        "selectionOrder": 174,
+        "title": "漫成一绝",
+        "author": "杜甫",
+        "reason": "近身江月、风灯、静宿白鹭和突然跳鱼相互映衬，四句有声有色，诗境清晰，适合熟读。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "basis": "优先补入更熟悉、便于传诵的作品；是编辑判断，不是经统计验证的热度排名。"
+    },
+    {
+      "previous": {
+        "id": "yizhu-86666e41b80ea3e4",
+        "selectionOrder": 238,
+        "title": "送邢桂州",
+        "author": "王维",
+        "theme": "亲友与乡思",
+        "reason": "送行鼓吹渐入江湖潮色，日落的白与潮来的青尤其开阔，结尾寄望友人惠及地方。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "replacement": {
+        "id": "yizhu-fd6e3074a881d5cf",
+        "selectionOrder": 238,
+        "title": "送沈子归江东",
+        "author": "王维",
+        "reason": "把相思比作遍及江南江北的春色，景物与送别自然相接，末联尤其便于记诵。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "basis": "优先补入更熟悉、便于传诵的作品；是编辑判断，不是经统计验证的热度排名。"
+    },
+    {
+      "previous": {
+        "id": "yizhu-bc4f6862f0487277",
+        "selectionOrder": 115,
+        "title": "夜渡湘水",
+        "author": "孟浩然",
+        "theme": "边塞与行旅",
+        "reason": "暗夜航行靠杜草气味、采莲歌声和岸火辨认环境，结尾问路使湘江夜色带着行旅实感。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "replacement": {
+        "id": "yizhu-0574ce7b1183d1d9",
+        "selectionOrder": 115,
+        "title": "送杜十四之江南",
+        "author": "孟浩然",
+        "reason": "春江淼茫中遥问友舟日暮泊处，结尾把目送延伸到天涯，情景清楚而离意深长。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "basis": "优先补入更熟悉、便于传诵的作品；是编辑判断，不是经统计验证的热度排名。"
+    },
+    {
+      "previous": {
+        "id": "yizhu-25190ba705a19bd7",
+        "selectionOrder": 106,
+        "title": "啰唝曲六首·其一",
+        "author": "刘采春",
+        "theme": "女性声音与细微情思",
+        "reason": "对江水和舟船的怨意来自丈夫远行，经岁又经年的反复使等待有了重量。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "replacement": {
+        "id": "yizhu-13fa154a46356519",
+        "selectionOrder": 106,
+        "title": "劝酒",
+        "author": "于武陵",
+        "reason": "花发多风雨、人生足别离把惜别说得简明而深厚，短小完整，值得作为常读常诵的篇目。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "basis": "优先补入更熟悉、便于传诵的作品；是编辑判断，不是经统计验证的热度排名。"
+    },
+    {
+      "previous": {
+        "id": "yizhu-4a01e22ff59897bc",
+        "selectionOrder": 107,
+        "title": "啰唝曲六首·其三",
+        "author": "刘采春",
+        "theme": "女性声音与细微情思",
+        "reason": "用金钗占卜、日日认船等动作写商妇候归，错认之中既有希望也有失落。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "replacement": {
+        "id": "yizhu-80b09d230a0e9226",
+        "selectionOrder": 107,
+        "title": "白鹿洞二首·其一",
+        "author": "王贞白",
+        "reason": "一寸光阴一寸金广为引用，全诗将惜时之意落实到读书入神的场景，补齐名句背后的篇章。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "basis": "优先补入更熟悉、便于传诵的作品；是编辑判断，不是经统计验证的热度排名。"
+    },
+    {
+      "previous": {
+        "id": "yizhu-c17fe7375d3f1ef9",
+        "selectionOrder": 108,
+        "title": "啰唝曲六首·其四",
+        "author": "刘采春",
+        "theme": "女性声音与细微情思",
+        "reason": "原以为远人停留桐庐，来信却出自广州；地名突变便道尽音信迟滞与距离扩张。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "replacement": {
+        "id": "yizhu-e8c449683e80b49a",
+        "selectionOrder": 108,
+        "title": "戏为六绝句·其六",
+        "author": "杜甫",
+        "reason": "别裁伪体亲风雅、转益多师是汝师是常被引用的论诗名句，连同前半的自省一起读，更能理解取法前人的态度。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "basis": "优先补入更熟悉、便于传诵的作品；是编辑判断，不是经统计验证的热度排名。"
+    },
+    {
+      "previous": {
+        "id": "yizhu-6fd4872b335b87a1",
+        "selectionOrder": 149,
+        "title": "微雨",
+        "author": "李商隐",
+        "theme": "山水与日常",
+        "reason": "雨从林霭、夜凉写到侵灯与近水可闻，细微天气由不同感官逐渐显形。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "replacement": {
+        "id": "yizhu-c825845d7a160134",
+        "selectionOrder": 149,
+        "title": "花下醉",
+        "author": "李商隐",
+        "reason": "白日寻芳醉眠，深夜又举烛赏花，将流连之情写成连续动作，是意象鲜明、容易亲近的短篇。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "basis": "优先补入更熟悉、便于传诵的作品；是编辑判断，不是经统计验证的热度排名。"
+    },
+    {
+      "previous": {
+        "id": "yizhu-3505fb2752f96c50",
+        "selectionOrder": 154,
+        "title": "杜工部蜀中离席",
+        "author": "李商隐",
+        "theme": "亲友与乡思",
+        "reason": "以拟杜的离席场景把边地军情、醉醒宾客与成都美酒并置，欢聚始终笼着乱世之忧。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "replacement": {
+        "id": "yizhu-cad270356b2f4555",
+        "selectionOrder": 154,
+        "title": "赠荷花",
+        "author": "李商隐",
+        "reason": "花叶相映、卷舒任真的形象自成一体，末尾又转入荣衰同感，兼有熟悉佳句和完整情意。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "basis": "优先补入更熟悉、便于传诵的作品；是编辑判断，不是经统计验证的热度排名。"
+    },
+    {
+      "previous": {
+        "id": "yizhu-f0c9ee9afbd3d4b8",
+        "selectionOrder": 297,
+        "title": "送郑少府入辽共赋侠客远从戎",
+        "author": "骆宾王",
+        "theme": "边塞与行旅",
+        "reason": "侠客远行的剑气与边地想象贯穿全篇，赠别的期许具有初唐的昂扬声调。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "replacement": {
+        "id": "yizhu-e3194e39b66ee0dd",
+        "selectionOrder": 297,
+        "title": "赠萧瑀（赐萧瑀）",
+        "author": "太宗皇帝",
+        "reason": "疾风知劲草、板荡识诚臣以浅近比喻写经受考验的品格，名句和全篇都适合记诵。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "basis": "优先补入更熟悉、便于传诵的作品；是编辑判断，不是经统计验证的热度排名。"
+    },
+    {
+      "previous": {
+        "id": "yizhu-5947d28035d6a06a",
+        "selectionOrder": 190,
+        "title": "倦夜",
+        "author": "杜甫",
+        "theme": "自处与年岁",
+        "reason": "清夜的露、萤和水鸟都被细看，结尾却回到干戈未息，安静景色承载了无法平息的忧虑。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "replacement": {
+        "id": "yizhu-ffc75a5a037c5a50",
+        "selectionOrder": 190,
+        "title": "狂夫",
+        "author": "杜甫",
+        "reason": "草堂风雨中的清美与家计饥寒相对，最终收在自笑老更狂，以鲜明人格贯穿全篇。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "basis": "优先补入更熟悉、便于传诵的作品；是编辑判断，不是经统计验证的热度排名。"
+    },
+    {
+      "previous": {
+        "id": "yizhu-a093f41fb84d6255",
+        "selectionOrder": 119,
+        "title": "秋怀·其二",
+        "author": "孟郊",
+        "theme": "自处与年岁",
+        "reason": "冷露惊梦、峭风梳骨的触觉异常锋利，贫居秋夜因此具有孟郊独特的质感。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "replacement": {
+        "id": "yizhu-5e2d0db3c0d5a015",
+        "selectionOrder": 119,
+        "title": "劝学",
+        "author": "孟郊",
+        "reason": "由击石取火说明学习须亲自努力，结尾劝人及早珍惜青春，语言明确，便于熟读与记忆。",
+        "retainedFrom": "expanded-to-300"
+      },
+      "basis": "优先补入更熟悉、便于传诵的作品；是编辑判断，不是经统计验证的热度排名。"
+    }
+  ]
+}

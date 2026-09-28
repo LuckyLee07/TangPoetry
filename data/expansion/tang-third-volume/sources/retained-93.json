@@ -1,0 +1,565 @@
+{
+  "description": "此前80首独立推荐及后补13首的身份快照，用于防止扩充时静默替换；不是图书目录。",
+  "snapshotOn": "2026-09-28",
+  "original80Catalog": "../tang-yizhu/READER_SELECTION_80.md",
+  "entries": [
+    {
+      "id": "yizhu-004fae50ef0532a6",
+      "author": "王维",
+      "title": "鸟鸣涧",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-35cf0212f84d8ec0",
+      "author": "王维",
+      "title": "辛夷坞",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-6502516dc55215de",
+      "author": "王维",
+      "title": "白石滩",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-96257df29a6cadc0",
+      "author": "王维",
+      "title": "田园乐·其六",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-eee2466eab37540c",
+      "author": "白居易",
+      "title": "遗爱寺",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-7ca5c45f018733a0",
+      "author": "白居易",
+      "title": "村夜",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-727ee72dcd5eb70e",
+      "author": "孟浩然",
+      "title": "春中喜王九相寻",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-3447f9e291ca9273",
+      "author": "孟浩然",
+      "title": "夏日浮舟过陈大水亭",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-bb01dfaa500dbb24",
+      "author": "钱起",
+      "title": "暮春归故山草堂",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-69c0c8bcebd08829",
+      "author": "常建",
+      "title": "三日寻李九庄",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-de48b2f8bf413cc7",
+      "author": "张旭",
+      "title": "山行留客",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-b2590bf54e7d0257",
+      "author": "顾况",
+      "title": "过山农家",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-bb4ee62b1f61a110",
+      "author": "韩愈",
+      "title": "送桂州严大夫同用南字",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-3cd7b757c11d4fa0",
+      "author": "白居易",
+      "title": "舟中读元九诗",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-37ea8720927987b2",
+      "author": "元稹",
+      "title": "酬乐天舟泊夜读微之诗",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-4ccc1af05461a5eb",
+      "author": "元稹",
+      "title": "得乐天书",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-2a4f8f3257520d62",
+      "author": "王维",
+      "title": "齐州送祖三",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-9dd54c436f0fb6a8",
+      "author": "刘长卿",
+      "title": "重送裴郎中贬吉州",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-f550b8aba1031811",
+      "author": "张说",
+      "title": "送梁六自洞庭山作",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-cad37d1494c68df2",
+      "author": "戎昱",
+      "title": "移家别湖上亭",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-aa654f3ffafb101c",
+      "author": "司空曙",
+      "title": "峡口送友人",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-a0ddd3abc3f8060a",
+      "author": "贺知章",
+      "title": "回乡偶书·其二",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-0e437afa156e6458",
+      "author": "白居易",
+      "title": "邯郸冬至夜思家",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-dc335e3148d4fa93",
+      "author": "李白",
+      "title": "闻王昌龄左迁龙标遥有此寄",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-10f5da1d82560f51",
+      "author": "张九龄",
+      "title": "西江夜行",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-07bf6f0dfd8d249b",
+      "author": "李白",
+      "title": "山中与幽人对酌",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-4a89dad9ae1a0438",
+      "author": "李白",
+      "title": "江上吟",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-d2e0f0c3e3c64973",
+      "author": "刘禹锡",
+      "title": "酬乐天咏老见示",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-ae4ea8dedd11a895",
+      "author": "白居易",
+      "title": "放言五首·其五",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-fed55543b0747c9e",
+      "author": "罗隐",
+      "title": "自遣",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-733ce0dc8a49bf62",
+      "author": "贾岛",
+      "title": "题诗后",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-36cdfb1e8721ab6d",
+      "author": "刘禹锡",
+      "title": "秋风引",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-a0631aef0712b9df",
+      "author": "杜牧",
+      "title": "初冬夜饮",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-12cb528ad9b58d86",
+      "author": "李商隐",
+      "title": "忆梅",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-9f3eff9fb7376735",
+      "author": "李白",
+      "title": "金陵城西楼月下吟",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-3787f67df7bbb8f8",
+      "author": "岑参",
+      "title": "行军九日思长安故园",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-aa54f362a20908d9",
+      "author": "岑参",
+      "title": "凉州馆中与诸判官夜集",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-e0b243c5eec3ca10",
+      "author": "岑参",
+      "title": "热海行送崔侍御还京",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-0126f64b23628fa7",
+      "author": "岑参",
+      "title": "天山雪歌送萧治归京",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-13f508181f1f7231",
+      "author": "岑参",
+      "title": "火山云歌送别",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-1836291af2099b3b",
+      "author": "李益",
+      "title": "从军北征",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-5946cc008c7d16e1",
+      "author": "李益",
+      "title": "上汝州郡楼",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-8c90d3a1a8a7d113",
+      "author": "陈羽",
+      "title": "从军行",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-22dc79e7dcad57bd",
+      "author": "王昌龄",
+      "title": "从军行七首·其一",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-b71af847f0535f14",
+      "author": "王昌龄",
+      "title": "从军行七首·其二",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-cb15c433adc9bb47",
+      "author": "薛涛",
+      "title": "送友人",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-e973e4edd8190d3c",
+      "author": "薛涛",
+      "title": "春望词四首·其一",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-8efc417f5c67a326",
+      "author": "薛涛",
+      "title": "筹边楼",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-bd0ccdc6b4cc79f5",
+      "author": "鱼玄机",
+      "title": "江陵愁望寄子安",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-b4086a1eb2bdd641",
+      "author": "鱼玄机",
+      "title": "赋得江边柳",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-be60ad2d737c9cd3",
+      "author": "鱼玄机",
+      "title": "赠邻女",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-f3e903c853398621",
+      "author": "李冶",
+      "title": "八至",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-90cddb24dfca07b9",
+      "author": "李冶",
+      "title": "相思怨",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-7d7534bb98cd194a",
+      "author": "张仲素",
+      "title": "春闺思",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-71c394d99b1afc8c",
+      "author": "刘方平",
+      "title": "采莲曲",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-bf7100c348c5786c",
+      "author": "李商隐",
+      "title": "流莺",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-43ef2a5e2bcc0b91",
+      "author": "钱珝",
+      "title": "未展芭蕉",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-22ab0d72f3325e4b",
+      "author": "郑谷",
+      "title": "鹧鸪",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-4db24e8a1106404e",
+      "author": "杜荀鹤",
+      "title": "小松",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-0dc77602a30bf048",
+      "author": "李贺",
+      "title": "梦天",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-4c38058319e663f0",
+      "author": "李贺",
+      "title": "天上谣",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-89823591f6547ead",
+      "author": "李贺",
+      "title": "官街鼓",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-758e60fa5d50585f",
+      "author": "刘禹锡",
+      "title": "台城",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-029f5358d7305c9e",
+      "author": "罗隐",
+      "title": "西施",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-440b55055d4bef21",
+      "author": "许浑",
+      "title": "金陵怀古",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-e19ee54ac1ff344c",
+      "author": "皮日休",
+      "title": "天竺寺八月十五日夜桂子",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-b873cfe63cce3b02",
+      "author": "陆龟蒙",
+      "title": "吴宫怀古",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-a86f8fdf2b454f83",
+      "author": "杜甫",
+      "title": "石壕吏",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-00dddaa83950d44d",
+      "author": "杜甫",
+      "title": "新安吏",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-4412a1f3ba8a2438",
+      "author": "杜甫",
+      "title": "潼关吏",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-3613d1b2c3d675f7",
+      "author": "杜甫",
+      "title": "新婚别",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-74212c8b0c65736c",
+      "author": "杜甫",
+      "title": "垂老别",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-40e40b414dd6556b",
+      "author": "杜甫",
+      "title": "无家别",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-90b739e1a4ff78b3",
+      "author": "白居易",
+      "title": "轻肥",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-be613352ad32a918",
+      "author": "白居易",
+      "title": "买花",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-b2018b9d9b4c0b9a",
+      "author": "白居易",
+      "title": "杜陵叟",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-a718d0502ddb870a",
+      "author": "白居易",
+      "title": "新丰折臂翁",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-e5092e572aa72d87",
+      "author": "张籍",
+      "title": "野老歌",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-dcb23510e60d4dd6",
+      "author": "罗隐",
+      "title": "雪（尽道丰年瑞）",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-c1864b57120e7d72",
+      "author": "李贺",
+      "title": "老夫采玉歌",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-5c333b2e933d0c92",
+      "author": "李白",
+      "title": "峨眉山月歌",
+      "retainedFrom": "earlier-recommendations-13"
+    },
+    {
+      "id": "yizhu-43d8fa23c60ec548",
+      "author": "李白",
+      "title": "春夜洛城闻笛",
+      "retainedFrom": "earlier-recommendations-13"
+    },
+    {
+      "id": "yizhu-82c8bd21249aa8f1",
+      "author": "李白",
+      "title": "侠客行",
+      "retainedFrom": "earlier-recommendations-13"
+    },
+    {
+      "id": "yizhu-d1c6ec1563a6a588",
+      "author": "李白",
+      "title": "北风行",
+      "retainedFrom": "earlier-recommendations-13"
+    },
+    {
+      "id": "yizhu-7f3b5600483b7545",
+      "author": "杜甫",
+      "title": "绝句四首·其三",
+      "retainedFrom": "earlier-recommendations-13"
+    },
+    {
+      "id": "yizhu-1adc5675f7bd0ad0",
+      "author": "杜甫",
+      "title": "绝句二首·其二",
+      "retainedFrom": "earlier-recommendations-13"
+    },
+    {
+      "id": "yizhu-fe8312da264bcc04",
+      "author": "白居易",
+      "title": "白云泉",
+      "retainedFrom": "earlier-recommendations-13"
+    },
+    {
+      "id": "yizhu-1e8b7d3100010cf2",
+      "author": "王建",
+      "title": "十五夜望月寄杜郎中",
+      "retainedFrom": "earlier-recommendations-13"
+    },
+    {
+      "id": "yizhu-69ddd929e065bd24",
+      "author": "王建",
+      "title": "雨过山村",
+      "retainedFrom": "earlier-recommendations-13"
+    },
+    {
+      "id": "yizhu-b1af6385f7c073ae",
+      "author": "刘禹锡",
+      "title": "浪淘沙九首·其八",
+      "retainedFrom": "earlier-recommendations-13"
+    },
+    {
+      "id": "yizhu-73694a62da078837",
+      "author": "李贺",
+      "title": "马诗二十三首·其五",
+      "retainedFrom": "earlier-recommendations-13"
+    },
+    {
+      "id": "yizhu-3bc96bfa12f41230",
+      "author": "杜牧",
+      "title": "题乌江亭",
+      "retainedFrom": "earlier-recommendations-13"
+    },
+    {
+      "id": "yizhu-aee7e11eea795a7b",
+      "author": "元稹",
+      "title": "连昌宫词",
+      "retainedFrom": "earlier-recommendations-13"
+    }
+  ]
+}

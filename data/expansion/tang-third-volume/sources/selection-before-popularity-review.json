@@ -1,0 +1,2719 @@
+{
+  "schemaVersion": 1,
+  "name": "唐诗画笺·第三卷独立选目三百首",
+  "selectedOn": "2026-09-28",
+  "status": "editorial-selection-draft",
+  "importIntoApp": false,
+  "bookMembershipClaim": "none; independent selection inspired by editorial principles, not a verified union of either book",
+  "themes": [
+    "山水与日常",
+    "亲友与乡思",
+    "自处与年岁",
+    "边塞与行旅",
+    "女性声音与细微情思",
+    "咏物、想象与怀古",
+    "普通人的生活与长篇叙事"
+  ],
+  "entries": [
+    {
+      "id": "yizhu-004fae50ef0532a6",
+      "selectionOrder": 1,
+      "title": "鸟鸣涧",
+      "author": "王维",
+      "theme": "山水与日常",
+      "reason": "桂花、月光与偶尔的鸟声互相映衬，宁静中有细微的生命活动。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-35cf0212f84d8ec0",
+      "selectionOrder": 2,
+      "title": "辛夷坞",
+      "author": "王维",
+      "theme": "山水与日常",
+      "reason": "花在无人山涧自开自落，把无人观赏的生命也写得完整而庄严。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-6502516dc55215de",
+      "selectionOrder": 3,
+      "title": "白石滩",
+      "author": "王维",
+      "theme": "山水与日常",
+      "reason": "水、蒲草和月下浣纱构成清亮的小景，人物融在自然中。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-96257df29a6cadc0",
+      "selectionOrder": 4,
+      "title": "田园乐·其六",
+      "author": "王维",
+      "theme": "山水与日常",
+      "reason": "宿雨朝烟与未扫落花交织，末句的人未醒让全诗生出闲适的趣味。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-eee2466eab37540c",
+      "selectionOrder": 5,
+      "title": "遗爱寺",
+      "author": "白居易",
+      "theme": "山水与日常",
+      "reason": "临溪、寻花、听鸟与听泉都是细小体验，写出了游赏时的从容。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-7ca5c45f018733a0",
+      "selectionOrder": 6,
+      "title": "村夜",
+      "author": "白居易",
+      "theme": "山水与日常",
+      "reason": "从霜草虫声走向月下荞麦，视野忽然明亮，孤独也随之改变。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-727ee72dcd5eb70e",
+      "selectionOrder": 7,
+      "title": "春中喜王九相寻",
+      "author": "孟浩然",
+      "theme": "山水与日常",
+      "reason": "春水、鸟鸣和朋友来访相互照应，把乡居的欢喜写得很自然。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-3447f9e291ca9273",
+      "selectionOrder": 8,
+      "title": "夏日浮舟过陈大水亭",
+      "author": "孟浩然",
+      "theme": "山水与日常",
+      "reason": "松竹倒影、荷香与醉舞酣歌构成鲜活的夏日游赏，夕照又带来未尽之意。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-bb01dfaa500dbb24",
+      "selectionOrder": 9,
+      "title": "暮春归故山草堂",
+      "author": "钱起",
+      "theme": "山水与日常",
+      "reason": "花已换季，归人面对幽竹仍感亲近，重返旧居的意味很耐读。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-69c0c8bcebd08829",
+      "selectionOrder": 10,
+      "title": "三日寻李九庄",
+      "author": "常建",
+      "theme": "山水与日常",
+      "reason": "轻舟访友和桃花流水贯穿全篇，结尾把隐居的趣味落在具体人物上。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-de48b2f8bf413cc7",
+      "selectionOrder": 11,
+      "title": "山行留客",
+      "author": "张旭",
+      "theme": "山水与日常",
+      "reason": "以山色也能沾衣劝友留下，想象贴合现场，有鲜活的谈话感。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-b2590bf54e7d0257",
+      "selectionOrder": 12,
+      "title": "过山农家",
+      "author": "顾况",
+      "theme": "山水与日常",
+      "reason": "六言节奏带出板桥泉声与农家待客，质朴而有生活温度。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-bb4ee62b1f61a110",
+      "selectionOrder": 13,
+      "title": "送桂州严大夫同用南字",
+      "author": "韩愈",
+      "theme": "山水与日常",
+      "reason": "江流与群山的比喻鲜明，送别中饱含对远方山水的想象。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-3cd7b757c11d4fa0",
+      "selectionOrder": 14,
+      "title": "舟中读元九诗",
+      "author": "白居易",
+      "theme": "亲友与乡思",
+      "reason": "读诗直到灯残，风浪又逼入夜泊现场，友谊和旅愁相互加深。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-37ea8720927987b2",
+      "selectionOrder": 15,
+      "title": "酬乐天舟泊夜读微之诗",
+      "author": "元稹",
+      "theme": "亲友与乡思",
+      "reason": "遥想朋友夜读自己的诗，再转回自身处境，与白诗对读尤其动人。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-4ccc1af05461a5eb",
+      "selectionOrder": 16,
+      "title": "得乐天书",
+      "author": "元稹",
+      "theme": "亲友与乡思",
+      "reason": "一封信引出全家惊问，喜与悲挤在一个生活瞬间里。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-2a4f8f3257520d62",
+      "selectionOrder": 17,
+      "title": "齐州送祖三",
+      "author": "王维",
+      "theme": "亲友与乡思",
+      "reason": "相逢与相送紧接，友舟已远而送者仍站着，景物与动作共同延长离情。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-9dd54c436f0fb6a8",
+      "selectionOrder": 18,
+      "title": "重送裴郎中贬吉州",
+      "author": "刘长卿",
+      "theme": "亲友与乡思",
+      "reason": "暮江散客之后，愁绪追着友人远行，短诗有绵长的牵挂。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-f550b8aba1031811",
+      "selectionOrder": 19,
+      "title": "送梁六自洞庭山作",
+      "author": "张说",
+      "theme": "亲友与乡思",
+      "reason": "洞庭孤峰引向难以相接的远人，末尾湖水悠悠把牵挂写得开阔。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-cad37d1494c68df2",
+      "selectionOrder": 20,
+      "title": "移家别湖上亭",
+      "author": "戎昱",
+      "theme": "亲友与乡思",
+      "reason": "柳蔓与黄莺都像挽留搬家的人，惜别从人际扩展到日常栖居之地。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-aa654f3ffafb101c",
+      "selectionOrder": 21,
+      "title": "峡口送友人",
+      "author": "司空曙",
+      "theme": "亲友与乡思",
+      "reason": "原本一起远行的同伴，如今成了自己送别的人，身份转换加深了留者的孤独。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-a0ddd3abc3f8060a",
+      "selectionOrder": 22,
+      "title": "回乡偶书·其二",
+      "author": "贺知章",
+      "theme": "亲友与乡思",
+      "reason": "用未改的湖水对照消磨的人事，归乡的惆怅比热闹的相认更深一层。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-0e437afa156e6458",
+      "selectionOrder": 23,
+      "title": "邯郸冬至夜思家",
+      "author": "白居易",
+      "theme": "亲友与乡思",
+      "reason": "从自己想家转写家人谈论自己，换一个视角就把思念写深了。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-dc335e3148d4fa93",
+      "selectionOrder": 24,
+      "title": "闻王昌龄左迁龙标遥有此寄",
+      "author": "李白",
+      "theme": "亲友与乡思",
+      "reason": "把牵挂托付给明月，景物、消息与安慰连接得自然有力。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-10f5da1d82560f51",
+      "selectionOrder": 25,
+      "title": "西江夜行",
+      "author": "张九龄",
+      "theme": "亲友与乡思",
+      "reason": "夜航中的天地辽阔与归思相映，情绪沿水路逐层展开。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-07bf6f0dfd8d249b",
+      "selectionOrder": 26,
+      "title": "山中与幽人对酌",
+      "author": "李白",
+      "theme": "自处与年岁",
+      "reason": "饮酒、醉眠与改日再来全以口吻传神，交往中的自在很有感染力。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-4a89dad9ae1a0438",
+      "selectionOrder": 27,
+      "title": "江上吟",
+      "author": "李白",
+      "theme": "自处与年岁",
+      "reason": "以江上纵游展开想象，再转入功名与文章的思考，豪放中有自我辩护。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-d2e0f0c3e3c64973",
+      "selectionOrder": 28,
+      "title": "酬乐天咏老见示",
+      "author": "刘禹锡",
+      "theme": "自处与年岁",
+      "reason": "承认衰老的具体不便，再转出开阔心气，比单独摘出末联更有力量。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-ae4ea8dedd11a895",
+      "selectionOrder": 29,
+      "title": "放言五首·其五",
+      "author": "白居易",
+      "theme": "自处与年岁",
+      "reason": "把长短、大小与生死放在变化中观看，议论有舒展的诗意。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-fed55543b0747c9e",
+      "selectionOrder": 30,
+      "title": "自遣",
+      "author": "罗隐",
+      "theme": "自处与年岁",
+      "reason": "放达口吻里仍透出失意，自我排遣与无可奈何并存。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-733ce0dc8a49bf62",
+      "selectionOrder": 31,
+      "title": "题诗后",
+      "author": "贾岛",
+      "theme": "自处与年岁",
+      "reason": "寥寥二十字写出创作的投入与知音难得，适合与具体作品相互参读。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-36cdfb1e8721ab6d",
+      "selectionOrder": 32,
+      "title": "秋风引",
+      "author": "刘禹锡",
+      "theme": "自处与年岁",
+      "reason": "先写无形秋风进入庭院，再由孤客最先听见收束，景与身世凝在一起。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-a0631aef0712b9df",
+      "selectionOrder": 33,
+      "title": "初冬夜饮",
+      "author": "杜牧",
+      "theme": "自处与年岁",
+      "reason": "病中夜饮的勉强欢意转向明年的去留疑问，眼前一夜便有了漂泊的深度。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-12cb528ad9b58d86",
+      "selectionOrder": 34,
+      "title": "忆梅",
+      "author": "李商隐",
+      "theme": "自处与年岁",
+      "reason": "想梅又怨梅太早开放，曲折的心理让身世感不必直说。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-9f3eff9fb7376735",
+      "selectionOrder": 35,
+      "title": "金陵城西楼月下吟",
+      "author": "李白",
+      "theme": "自处与年岁",
+      "reason": "月夜登楼转向怀想谢朓，读诗者对前代诗人的亲近感很特别。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-3787f67df7bbb8f8",
+      "selectionOrder": 36,
+      "title": "行军九日思长安故园",
+      "author": "岑参",
+      "theme": "边塞与行旅",
+      "reason": "重阳无酒的孤独，最终落到战地故园的菊花，家国之思含在小景里。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-aa54f362a20908d9",
+      "selectionOrder": 37,
+      "title": "凉州馆中与诸判官夜集",
+      "author": "岑参",
+      "theme": "边塞与行旅",
+      "reason": "边城月色、琵琶和酒宴有热闹的声息，也容得下故人相聚的感慨。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-e0b243c5eec3ca10",
+      "selectionOrder": 38,
+      "title": "热海行送崔侍御还京",
+      "author": "岑参",
+      "theme": "边塞与行旅",
+      "reason": "以夸张想象描绘热海异景，展示边塞诗壮阔、奇异的一面。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-0126f64b23628fa7",
+      "selectionOrder": 39,
+      "title": "天山雪歌送萧治归京",
+      "author": "岑参",
+      "theme": "边塞与行旅",
+      "reason": "漫天寒雪铺陈到军营与道路，最后收在赠别的青松枝上，壮阔中仍有温情。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-13f508181f1f7231",
+      "selectionOrder": 40,
+      "title": "火山云歌送别",
+      "author": "岑参",
+      "theme": "边塞与行旅",
+      "reason": "火云、赤山与遥远征途相接，色彩浓烈，节奏也随景象展开。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-1836291af2099b3b",
+      "selectionOrder": 41,
+      "title": "从军北征",
+      "author": "李益",
+      "theme": "边塞与行旅",
+      "reason": "笛声让征人一夜望乡，集体的思念在一个动作中显现。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-5946cc008c7d16e1",
+      "selectionOrder": 42,
+      "title": "上汝州郡楼",
+      "author": "李益",
+      "theme": "边塞与行旅",
+      "reason": "三十年前后的登楼相叠，山川仍在而人生已变，时间感格外沉重。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-8c90d3a1a8a7d113",
+      "selectionOrder": 43,
+      "title": "从军行",
+      "author": "陈羽",
+      "theme": "边塞与行旅",
+      "reason": "寒风冻泥中忽见红旗，环境的严酷衬出行军者的力量。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-22dc79e7dcad57bd",
+      "selectionOrder": 44,
+      "title": "从军行七首·其一",
+      "author": "王昌龄",
+      "theme": "边塞与行旅",
+      "reason": "边楼秋风与羌笛触发乡思，最后又把视线移向闺中人的牵挂。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-b71af847f0535f14",
+      "selectionOrder": 45,
+      "title": "从军行七首·其二",
+      "author": "王昌龄",
+      "theme": "边塞与行旅",
+      "reason": "新曲仍是旧愁，议论止住后留下一轮秋月与长城，余味开阔。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-cb15c433adc9bb47",
+      "selectionOrder": 46,
+      "title": "送友人",
+      "author": "薛涛",
+      "theme": "女性声音与细微情思",
+      "reason": "霜夜山水展开辽阔离境，梦中的距离让友谊不止于眼前送别。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-e973e4edd8190d3c",
+      "selectionOrder": 47,
+      "title": "春望词四首·其一",
+      "author": "薛涛",
+      "theme": "女性声音与细微情思",
+      "reason": "用花开花落反复追问不能共同经历的时光，简净却不单薄。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-8efc417f5c67a326",
+      "selectionOrder": 48,
+      "title": "筹边楼",
+      "author": "薛涛",
+      "theme": "女性声音与细微情思",
+      "reason": "登楼远望转为边防关切，能呈现女诗人作品中开阔、有判断力的一面。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-bd0ccdc6b4cc79f5",
+      "selectionOrder": 49,
+      "title": "江陵愁望寄子安",
+      "author": "鱼玄机",
+      "theme": "女性声音与细微情思",
+      "reason": "层层枫叶和迟迟暮帆引出无尽江水，等待的时间感写得具体。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-b4086a1eb2bdd641",
+      "selectionOrder": 50,
+      "title": "赋得江边柳",
+      "author": "鱼玄机",
+      "theme": "女性声音与细微情思",
+      "reason": "柳的姿态与水边人事逐层展开，末尾风雨惊梦让咏物转为情思。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-be60ad2d737c9cd3",
+      "selectionOrder": 51,
+      "title": "赠邻女",
+      "author": "鱼玄机",
+      "theme": "女性声音与细微情思",
+      "reason": "直面求偶与失望，结尾的主动姿态使情感表达鲜明而有个性。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-f3e903c853398621",
+      "selectionOrder": 52,
+      "title": "八至",
+      "author": "李冶",
+      "theme": "女性声音与细微情思",
+      "reason": "由空间与自然的相对关系转向亲密关系，短短六言四句有突然的刺痛感。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-90cddb24dfca07b9",
+      "selectionOrder": 53,
+      "title": "相思怨",
+      "author": "李冶",
+      "theme": "女性声音与细微情思",
+      "reason": "从海水有涯写到琴弦与愁肠，情感强烈，结构又有清楚的推进。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-7d7534bb98cd194a",
+      "selectionOrder": 54,
+      "title": "春闺思",
+      "author": "张仲素",
+      "theme": "女性声音与细微情思",
+      "reason": "提着采桑篮却忘了采叶，一个失神动作就写出了梦醒后的牵挂。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-71c394d99b1afc8c",
+      "selectionOrder": 55,
+      "title": "采莲曲",
+      "author": "刘方平",
+      "theme": "女性声音与细微情思",
+      "reason": "从落日江景写到少女熟练乘潮，清新中有劳动生活的自信与活力。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-bf7100c348c5786c",
+      "selectionOrder": 56,
+      "title": "流莺",
+      "author": "李商隐",
+      "theme": "咏物、想象与怀古",
+      "reason": "流莺辗转、欲诉无人能解，咏鸟与心声难传的处境互相映照。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-43ef2a5e2bcc0b91",
+      "selectionOrder": 57,
+      "title": "未展芭蕉",
+      "author": "钱珝",
+      "theme": "咏物、想象与怀古",
+      "reason": "把卷叶想成未拆书信，让东风成为拆信者，拟物与情思结合得很巧。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-22ab0d72f3325e4b",
+      "selectionOrder": 58,
+      "title": "鹧鸪",
+      "author": "郑谷",
+      "theme": "咏物、想象与怀古",
+      "reason": "由鸟的形态转入啼声，再把听者拉进来，使咏物具有流动的乡愁。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-4db24e8a1106404e",
+      "selectionOrder": 59,
+      "title": "小松",
+      "author": "杜荀鹤",
+      "theme": "咏物、想象与怀古",
+      "reason": "小树尚未成材时就值得看见，咏物背后是识才与自许的问题。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-0dc77602a30bf048",
+      "selectionOrder": 60,
+      "title": "梦天",
+      "author": "李贺",
+      "theme": "咏物、想象与怀古",
+      "reason": "以天上视角观看人间时间与山海，想象跨度大，读后会重新感受尺度。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-4c38058319e663f0",
+      "selectionOrder": 61,
+      "title": "天上谣",
+      "author": "李贺",
+      "theme": "咏物、想象与怀古",
+      "reason": "星河、月宫与仙境细节奇丽，能补充诗库中瑰异幻想的一面。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-89823591f6547ead",
+      "selectionOrder": 62,
+      "title": "官街鼓",
+      "author": "李贺",
+      "theme": "咏物、想象与怀古",
+      "reason": "鼓声催着昼夜和人生向前，把抽象时间写成无法停歇的声音。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-758e60fa5d50585f",
+      "selectionOrder": 63,
+      "title": "台城",
+      "author": "刘禹锡",
+      "theme": "咏物、想象与怀古",
+      "reason": "极写繁华后收在野草，奢华与废墟之间的落差简洁而锋利。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-029f5358d7305c9e",
+      "selectionOrder": 64,
+      "title": "西施",
+      "author": "罗隐",
+      "theme": "咏物、想象与怀古",
+      "reason": "以连续反问质疑把兴亡归罪于女子的说法，见识与语言同样锐利。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-440b55055d4bef21",
+      "selectionOrder": 65,
+      "title": "金陵怀古",
+      "author": "许浑",
+      "theme": "咏物、想象与怀古",
+      "reason": "王朝兴亡置于山川秋色中，历史叙述与眼前所见层层相接。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-e19ee54ac1ff344c",
+      "selectionOrder": 66,
+      "title": "天竺寺八月十五日夜桂子",
+      "author": "皮日休",
+      "theme": "咏物、想象与怀古",
+      "reason": "把拾桂子的眼前动作接到月宫想象，轻盈而富有节令趣味。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-b873cfe63cce3b02",
+      "selectionOrder": 67,
+      "title": "吴宫怀古",
+      "author": "陆龟蒙",
+      "theme": "咏物、想象与怀古",
+      "reason": "由宫苑荒废把亡国责任移回君王，与罗隐《西施》并读，能比较两种反驳写法。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-a86f8fdf2b454f83",
+      "selectionOrder": 68,
+      "title": "石壕吏",
+      "author": "杜甫",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "夜间征役以听见的对话展开，叙述克制而压迫感不断累积。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-00dddaa83950d44d",
+      "selectionOrder": 69,
+      "title": "新安吏",
+      "author": "杜甫",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "点兵场景中有质问、悲悯与勉慰，能看到诗人在困局中的复杂立场。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-4412a1f3ba8a2438",
+      "selectionOrder": 70,
+      "title": "潼关吏",
+      "author": "杜甫",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "筑城问答逐渐转向对用兵的警惕，叙事背后有沉重的历史经验。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-3613d1b2c3d675f7",
+      "selectionOrder": 71,
+      "title": "新婚别",
+      "author": "杜甫",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "以新妇的口吻写新婚即别，私人幸福与战事需要彼此牵扯。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-74212c8b0c65736c",
+      "selectionOrder": 72,
+      "title": "垂老别",
+      "author": "杜甫",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "老人出征前后的身体细节与夫妻告别，令战争代价变得具体可感。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-40e40b414dd6556b",
+      "selectionOrder": 73,
+      "title": "无家别",
+      "author": "杜甫",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "归乡却无家可归，征役与荒村连在一起，写出了失去生活根基的痛苦。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-90b739e1a4ff78b3",
+      "selectionOrder": 74,
+      "title": "轻肥",
+      "author": "白居易",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "席间奢华铺陈至极，再以饥荒结尾，强烈对照迫使读者回看前文。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-be613352ad32a918",
+      "selectionOrder": 75,
+      "title": "买花",
+      "author": "白居易",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "买花盛事由田舍翁的目光重新衡量，让风雅消费显出另一面。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-b2018b9d9b4c0b9a",
+      "selectionOrder": 76,
+      "title": "杜陵叟",
+      "author": "白居易",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "天灾、征税与赦免的传达层层推进，把制度如何落在个人身上写清楚。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-a718d0502ddb870a",
+      "selectionOrder": 77,
+      "title": "新丰折臂翁",
+      "author": "白居易",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "从老人残臂追溯往事，以极端选择揭示征战的长期代价。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-e5092e572aa72d87",
+      "selectionOrder": 78,
+      "title": "野老歌",
+      "author": "张籍",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "山中老农的困顿与富商生活并置，结尾的反差有鲜明的讽刺力量。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-dcb23510e60d4dd6",
+      "selectionOrder": 79,
+      "title": "雪（尽道丰年瑞）",
+      "author": "罗隐",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "面对瑞雪先想到长安贫者，二十字就把观看风景的立场转了过来。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-c1864b57120e7d72",
+      "selectionOrder": 80,
+      "title": "老夫采玉歌",
+      "author": "李贺",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "首饰之美与采玉者之苦互相照见，冷峭想象承载着强烈的悲悯。",
+      "retainedFrom": "reader-selection-80"
+    },
+    {
+      "id": "yizhu-5c333b2e933d0c92",
+      "selectionOrder": 81,
+      "title": "峨眉山月歌",
+      "author": "李白",
+      "theme": "亲友与乡思",
+      "reason": "山月随江水与旅程流动，地名的递进带出离乡时的清朗与牵挂。",
+      "retainedFrom": "earlier-recommendations-13"
+    },
+    {
+      "id": "yizhu-43d8fa23c60ec548",
+      "selectionOrder": 82,
+      "title": "春夜洛城闻笛",
+      "author": "李白",
+      "theme": "亲友与乡思",
+      "reason": "笛声由暗处散满全城，再落回闻曲者的故园之思，声音组织了全篇。",
+      "retainedFrom": "earlier-recommendations-13"
+    },
+    {
+      "id": "yizhu-82c8bd21249aa8f1",
+      "selectionOrder": 83,
+      "title": "侠客行",
+      "author": "李白",
+      "theme": "边塞与行旅",
+      "reason": "从侠客形象写到救赵故事，把重诺与功成身退的理想连成雄健篇章。",
+      "retainedFrom": "earlier-recommendations-13"
+    },
+    {
+      "id": "yizhu-d1c6ec1563a6a588",
+      "selectionOrder": 84,
+      "title": "北风行",
+      "author": "李白",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "严寒与大雪的夸张写法渐渐落到征妇的痛苦，壮阔景象承载具体悲情。",
+      "retainedFrom": "earlier-recommendations-13"
+    },
+    {
+      "id": "yizhu-7f3b5600483b7545",
+      "selectionOrder": 85,
+      "title": "绝句四首·其三",
+      "author": "杜甫",
+      "theme": "山水与日常",
+      "reason": "由近处黄鹂到天际白鹭，再纳雪山与远船入窗，短章中空间层次清楚。",
+      "retainedFrom": "earlier-recommendations-13"
+    },
+    {
+      "id": "yizhu-1adc5675f7bd0ad0",
+      "selectionOrder": 86,
+      "title": "绝句二首·其二",
+      "author": "杜甫",
+      "theme": "亲友与乡思",
+      "reason": "江山春色越明艳，归期难定越惆怅，以乐景牵出客中思乡。",
+      "retainedFrom": "earlier-recommendations-13"
+    },
+    {
+      "id": "yizhu-fe8312da264bcc04",
+      "selectionOrder": 87,
+      "title": "白云泉",
+      "author": "白居易",
+      "theme": "自处与年岁",
+      "reason": "把山间云水的自在与人间波澜相对照，向泉水发问也在安顿自己。",
+      "retainedFrom": "earlier-recommendations-13"
+    },
+    {
+      "id": "yizhu-1e8b7d3100010cf2",
+      "selectionOrder": 88,
+      "title": "十五夜望月寄杜郎中",
+      "author": "王建",
+      "theme": "亲友与乡思",
+      "reason": "由庭院冷露写到天下望月者，把一人的秋思推向共同的情感。",
+      "retainedFrom": "earlier-recommendations-13"
+    },
+    {
+      "id": "yizhu-69ddd929e065bd24",
+      "selectionOrder": 89,
+      "title": "雨过山村",
+      "author": "王建",
+      "theme": "山水与日常",
+      "reason": "鸡鸣、板桥与浴蚕写出雨后劳作，用忙碌的人映出自在的花。",
+      "retainedFrom": "earlier-recommendations-13"
+    },
+    {
+      "id": "yizhu-b1af6385f7c073ae",
+      "selectionOrder": 90,
+      "title": "浪淘沙九首·其八",
+      "author": "刘禹锡",
+      "theme": "自处与年岁",
+      "reason": "把谗言、迁客与淘金连成比喻，反复锤炼后仍保有积极的自我判断。",
+      "retainedFrom": "earlier-recommendations-13"
+    },
+    {
+      "id": "yizhu-73694a62da078837",
+      "selectionOrder": 91,
+      "title": "马诗二十三首·其五",
+      "author": "李贺",
+      "theme": "咏物、想象与怀古",
+      "reason": "大漠与边月铺出天地，骏马盼望受用的设问把景象变成寄志。",
+      "retainedFrom": "earlier-recommendations-13"
+    },
+    {
+      "id": "yizhu-3bc96bfa12f41230",
+      "selectionOrder": 92,
+      "title": "题乌江亭",
+      "author": "杜牧",
+      "theme": "咏物、想象与怀古",
+      "reason": "从胜负难料反问历史的另一种可能，七绝议论有明确而有争议的个性。",
+      "retainedFrom": "earlier-recommendations-13"
+    },
+    {
+      "id": "yizhu-aee7e11eea795a7b",
+      "selectionOrder": 93,
+      "title": "连昌宫词",
+      "author": "元稹",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "借老人追述宫苑盛衰，把个人见闻与兴亡追问串成层次丰富的叙事。",
+      "retainedFrom": "earlier-recommendations-13"
+    },
+    {
+      "id": "yizhu-95ccca082c900e93",
+      "selectionOrder": 94,
+      "title": "题农父庐舍",
+      "author": "丘为",
+      "theme": "山水与日常",
+      "reason": "山色已绿而农事正忙，流水、耒耜和暮归饭牛连成完整的一天，使田园有劳作的实感。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-edd530de29425166",
+      "selectionOrder": 95,
+      "title": "酬乐天频梦微之",
+      "author": "元稹",
+      "theme": "亲友与乡思",
+      "reason": "从梦见朋友转到病中反而无梦，以不对称的处境写出深交的分量。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-c6ddfb8cc5fc94b7",
+      "selectionOrder": 96,
+      "title": "离思五首·其五",
+      "author": "元稹",
+      "theme": "亲友与乡思",
+      "reason": "昔日为爱人摘梨花，今日只见江头残春；同样的花木承载了前后不同的人生。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-001947ad8e3ce28e",
+      "selectionOrder": 97,
+      "title": "田家词",
+      "author": "元稹",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "丰收、差役与追租层层相逼，短促的歌行节奏使农家的窘迫有切身感。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-55ab56191dee9c54",
+      "selectionOrder": 98,
+      "title": "代春怨",
+      "author": "刘方平",
+      "theme": "女性声音与细微情思",
+      "reason": "啼莺、萋草与千条向西的杨柳都围绕开帘人展开，春风有方向，愁绪却无从排遣。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-d3dc83a55007f322",
+      "selectionOrder": 99,
+      "title": "元和十一年自朗州召至京戏赠看花诸君子",
+      "author": "刘禹锡",
+      "theme": "自处与年岁",
+      "reason": "看花的热闹中藏着归来的锋芒，桃树成为观察人事更替的线索。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-96b8b4e9fc9a1cd6",
+      "selectionOrder": 100,
+      "title": "浪淘沙九首·其三",
+      "author": "刘禹锡",
+      "theme": "咏物、想象与怀古",
+      "reason": "先写汴水与清淮的色泽，继而追问渡口往来之人，让流动的风景通向时间感。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-8c48e859968b833b",
+      "selectionOrder": 101,
+      "title": "浪淘沙九首·其七",
+      "author": "刘禹锡",
+      "theme": "山水与日常",
+      "reason": "涛声先至，继而浪头触山又卷沙入海，四句内完成江潮的来去与声势变化。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-eb48cab73fd9ca65",
+      "selectionOrder": 102,
+      "title": "秋词二首·其二",
+      "author": "刘禹锡",
+      "theme": "自处与年岁",
+      "reason": "以晴空、霜树和独登高楼写清醒开阔的秋意，与同组其一形成不同层次。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-7d01e0660a39d971",
+      "selectionOrder": 103,
+      "title": "竹枝词九首·其二",
+      "author": "刘禹锡",
+      "theme": "女性声音与细微情思",
+      "reason": "桃花易谢、水流无尽，两个比喻相互映照，将郎意的易变与女子的愁长并置。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-60982a3fb24cd3b3",
+      "selectionOrder": 104,
+      "title": "竹枝词九首·其七",
+      "author": "刘禹锡",
+      "theme": "自处与年岁",
+      "reason": "先写瞿塘险滩，再说平地人心更难测，以出人意料的转折写世路经验。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-359e2ed1a6acba36",
+      "selectionOrder": 105,
+      "title": "汉寿城春望",
+      "author": "刘禹锡",
+      "theme": "咏物、想象与怀古",
+      "reason": "荒祠、荆榛与旧碑使昔日城郭逐渐显影，结尾又把目光交给尚会变迁的未来。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-25190ba705a19bd7",
+      "selectionOrder": 106,
+      "title": "啰唝曲六首·其一",
+      "author": "刘采春",
+      "theme": "女性声音与细微情思",
+      "reason": "对江水和舟船的怨意来自丈夫远行，经岁又经年的反复使等待有了重量。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-4a01e22ff59897bc",
+      "selectionOrder": 107,
+      "title": "啰唝曲六首·其三",
+      "author": "刘采春",
+      "theme": "女性声音与细微情思",
+      "reason": "用金钗占卜、日日认船等动作写商妇候归，错认之中既有希望也有失落。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-c17fe7375d3f1ef9",
+      "selectionOrder": 108,
+      "title": "啰唝曲六首·其四",
+      "author": "刘采春",
+      "theme": "女性声音与细微情思",
+      "reason": "原以为远人停留桐庐，来信却出自广州；地名突变便道尽音信迟滞与距离扩张。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-f582a46a634a9a25",
+      "selectionOrder": 109,
+      "title": "送李判官之润州行营",
+      "author": "刘长卿",
+      "theme": "亲友与乡思",
+      "reason": "驿路与军行连接远方，末尾让青青草色代替送者伴随马蹄，情意含而不露。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-5690fdefb3b38c1a",
+      "selectionOrder": 110,
+      "title": "曲池荷",
+      "author": "卢照邻",
+      "theme": "咏物、想象与怀古",
+      "reason": "荷香与圆影之外忽然想到秋风，咏花中提前生出对凋零的惜意。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-9e234b97928faf6a",
+      "selectionOrder": 111,
+      "title": "山店",
+      "author": "卢纶",
+      "theme": "山水与日常",
+      "reason": "山路将尽时仍只闻泉声与犬吠，隔云一家的松火使旅途终于出现温暖的落脚处。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-f946ee2e9f350e18",
+      "selectionOrder": 112,
+      "title": "长安春望",
+      "author": "卢纶",
+      "theme": "亲友与乡思",
+      "reason": "故园难归与京城春景并行，浮云落日牵动乡思，结尾把失路与衰老一起写出。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-5e16bcb1e9d5f293",
+      "selectionOrder": 113,
+      "title": "庄居野行",
+      "author": "姚合",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "写农事荒废与市廛扩张的并置，将郊野见闻转成对生计失衡的追问。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-a9a586fe46bf5904",
+      "selectionOrder": 114,
+      "title": "过融上人兰若",
+      "author": "孟浩然",
+      "theme": "山水与日常",
+      "reason": "僧衣、水鸟与空窗留住山寺静意，下山途中又因泉声回恋，惜别落在声音里。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-bc4f6862f0487277",
+      "selectionOrder": 115,
+      "title": "夜渡湘水",
+      "author": "孟浩然",
+      "theme": "边塞与行旅",
+      "reason": "暗夜航行靠杜草气味、采莲歌声和岸火辨认环境，结尾问路使湘江夜色带着行旅实感。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-8736843e2893c6db",
+      "selectionOrder": 116,
+      "title": "田家元日",
+      "author": "孟浩然",
+      "theme": "自处与年岁",
+      "reason": "新年年岁增长与未仕之身相照，又以田父占年收尾，个人志意连接农家期待。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-3cd64c501af41bff",
+      "selectionOrder": 117,
+      "title": "洛桥晚望",
+      "author": "孟郊",
+      "theme": "山水与日常",
+      "reason": "结冰、疏柳与明月逐步清空视野，忽然望见嵩山积雪，结句拓开空间。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-58f8884e232c104c",
+      "selectionOrder": 118,
+      "title": "古怨别",
+      "author": "孟郊",
+      "theme": "亲友与乡思",
+      "reason": "面对面却哽咽不能言，离别从难以说尽的心事转到天涯共月的想象，层次清楚。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-a093f41fb84d6255",
+      "selectionOrder": 119,
+      "title": "秋怀·其二",
+      "author": "孟郊",
+      "theme": "自处与年岁",
+      "reason": "冷露惊梦、峭风梳骨的触觉异常锋利，贫居秋夜因此具有孟郊独特的质感。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-0bb5a86ec318769f",
+      "selectionOrder": 120,
+      "title": "度大庾岭",
+      "author": "宋之问",
+      "theme": "边塞与行旅",
+      "reason": "越岭时向家回望，南飞鸟与北枝花牵出离愁，晚霞中又自劝只盼归日。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-f6974866f7c5380f",
+      "selectionOrder": 121,
+      "title": "送杜审言",
+      "author": "宋之问",
+      "theme": "亲友与乡思",
+      "reason": "卧病不能亲送，就以江树寄情；失路宝剑的比喻将对友人才华的惋惜说得含蓄。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-41faa5a3f00ed55d",
+      "selectionOrder": 122,
+      "title": "灵隐寺",
+      "author": "宋之问",
+      "theme": "山水与日常",
+      "reason": "日出、江潮与月中桂子交织实景和想象，攀萝取泉的动作又把山寺带回可游的空间。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-a767ac04349f9c84",
+      "selectionOrder": 123,
+      "title": "戏问花门酒家翁",
+      "author": "岑参",
+      "theme": "边塞与行旅",
+      "reason": "花门酒店与门前榆荚带出即兴笑问，边地生活也有亲切诙谐的一面。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-df2727d321b998e8",
+      "selectionOrder": 124,
+      "title": "春梦",
+      "author": "岑参",
+      "theme": "亲友与乡思",
+      "reason": "白日仍隔湘江，枕上片时却已走遍江南，梦境的轻快使远行相见的愿望可感。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-47412f8cdcf17b40",
+      "selectionOrder": 125,
+      "title": "胡歌",
+      "author": "岑参",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "将军功成白首与醉中欢舞形成对照，边塞题材因而包含对功名分配的反问。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-1ae290eebb488d54",
+      "selectionOrder": 126,
+      "title": "碛西头送李判官入京",
+      "author": "岑参",
+      "theme": "边塞与行旅",
+      "reason": "长途行军和往返安西的经验写得凝练，送别也成为对边地劳苦的彼此理解。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-8c73fa2440f91e8d",
+      "selectionOrder": 127,
+      "title": "鴈门胡人歌",
+      "author": "崔颢",
+      "theme": "边塞与行旅",
+      "reason": "放鹰、猎马、寒山野火与酒家醉眠构成边地生活群像，也写出无战时难得的自在。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-563758de3213f6e0",
+      "selectionOrder": 128,
+      "title": "落第长安",
+      "author": "常建",
+      "theme": "自处与年岁",
+      "reason": "落第不归却说怕被故园莺花取笑，将自尊、失意和留京的勉强写成微妙的自嘲。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-109c6ff0a42770b1",
+      "selectionOrder": 129,
+      "title": "赋得自君之出矣",
+      "author": "张九龄",
+      "theme": "亲友与乡思",
+      "reason": "人去之后织机停歇，思念又像满月夜夜消减，劳作与月色共同写出情绪的耗损。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-2c01e9ebff9563d0",
+      "selectionOrder": 130,
+      "title": "湖口望庐山瀑布泉",
+      "author": "张九龄",
+      "theme": "山水与日常",
+      "reason": "瀑布穿树出云，日照似虹而晴天有风雨声，视觉与听觉合成山水的宏阔气象。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-b308c9ffc255d609",
+      "selectionOrder": 131,
+      "title": "感遇十二首·其三",
+      "author": "张九龄",
+      "theme": "自处与年岁",
+      "reason": "鱼鸟各有所依，蜉蝣短促之生却引出反问，最后以歧路之叹收束生命与选择的困惑。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-60670f4f796b1384",
+      "selectionOrder": 132,
+      "title": "秋夜曲",
+      "author": "张仲素",
+      "theme": "女性声音与细微情思",
+      "reason": "滴漏、秋虫和寒霜交织，深夜独坐仍盼寄衣，使闺中等待带有实际行动。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-7efe16ff2c871ef9",
+      "selectionOrder": 133,
+      "title": "秋思二首·其二",
+      "author": "张仲素",
+      "theme": "女性声音与细微情思",
+      "reason": "想寄征衣先得问军队去向，征人再次移防的消息，使闺中相思与边地不定直接相连。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-4fed81a42232e68f",
+      "selectionOrder": 134,
+      "title": "宫词二首·其二",
+      "author": "张祜",
+      "theme": "女性声音与细微情思",
+      "reason": "旧日能歌受宠与今日新声无处可唱形成反差，写出宫廷艺人在依附关系中的失落。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-a8d40e19c44cfe13",
+      "selectionOrder": 135,
+      "title": "成都曲",
+      "author": "张籍",
+      "theme": "山水与日常",
+      "reason": "江头新雨与蜀酒春光相接，成都的明丽具有可行、可饮的生活气息。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-fe30c1a46e0b17a6",
+      "selectionOrder": 136,
+      "title": "春别曲",
+      "author": "张籍",
+      "theme": "亲友与乡思",
+      "reason": "春水、莲叶和亲手种下的橘树都在挽留行舟，送别以家常景物而非空泛劝说动人。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-671310e9c30a29a5",
+      "selectionOrder": 137,
+      "title": "征妇怨",
+      "author": "张籍",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "边军覆没后，怀着遗腹子的妇人仍如白昼之烛；个体自述将战争推进到家庭内部。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-b18ee3159b0ebd6d",
+      "selectionOrder": 138,
+      "title": "凉州词·其一",
+      "author": "张籍",
+      "theme": "边塞与行旅",
+      "reason": "暮雨与低飞雁之后传来沙碛铃声，由声音想见运绢队伍，补入边地交通与贸易景象。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-1984170d01acd3b9",
+      "selectionOrder": 139,
+      "title": "牧童词",
+      "author": "张籍",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "牛群、吹叶与同伴应答先写牧童的活动，末尾对官家截角的担忧让田野生活显出压力。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-94a298af9e0fc0ca",
+      "selectionOrder": 140,
+      "title": "咏史",
+      "author": "戎昱",
+      "theme": "咏物、想象与怀古",
+      "reason": "把和亲与国家安危并置，直问庙堂计议，咏史的判断鲜明有力。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-34b0ff48dd99174d",
+      "selectionOrder": 141,
+      "title": "桂州腊夜",
+      "author": "戎昱",
+      "theme": "亲友与乡思",
+      "reason": "除夕旅居与归乡梦相交，残灯、角声和晓色使一夜难眠有清晰时间线。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-e79f385c26fe2f21",
+      "selectionOrder": 142,
+      "title": "过三闾庙",
+      "author": "戴叔伦",
+      "theme": "咏物、想象与怀古",
+      "reason": "经过三闾旧地而想及沉江者，用沅湘暮景托出跨越时代的凭吊。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-c51e8985f06e055e",
+      "selectionOrder": 143,
+      "title": "塞上曲二首·其二",
+      "author": "戴叔伦",
+      "theme": "边塞与行旅",
+      "reason": "阴山军旗与守边誓愿相接，以强烈决心推动结尾，提供选集中鲜明的昂扬声调。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-3cecc9ab958e144c",
+      "selectionOrder": 144,
+      "title": "苏溪亭",
+      "author": "戴叔伦",
+      "theme": "亲友与乡思",
+      "reason": "春暮倚栏与燕子不归相映，烟雨杏花把盼归之情留在没有回答的景里。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-d7f061c5cddce371",
+      "selectionOrder": 145,
+      "title": "除夜宿石头驿",
+      "author": "戴叔伦",
+      "theme": "亲友与乡思",
+      "reason": "客舍除夜把一年将尽和万里未归并写，寒灯中的人比议论更能传达孤独。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-b8bdd4072eb1a099",
+      "selectionOrder": 146,
+      "title": "女耕田行",
+      "author": "戴叔伦",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "借妇人田间劳作追溯赋役与家庭损耗，保留田园题材中沉重的一面。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-5985780375e7a54a",
+      "selectionOrder": 147,
+      "title": "寄朱放",
+      "author": "李冶",
+      "theme": "女性声音与细微情思",
+      "reason": "山高水阔仍日日相望，把积累的无数情绪留待相逢时倾诉，女性怀友的声音直接而主动。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-edeabcb94c5002e8",
+      "selectionOrder": 148,
+      "title": "春行寄兴",
+      "author": "李华",
+      "theme": "山水与日常",
+      "reason": "芳树花落与一路鸟啼本是春景，无人和空字却使繁盛中出现寂寥，余味来自景情错位。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-6fd4872b335b87a1",
+      "selectionOrder": 149,
+      "title": "微雨",
+      "author": "李商隐",
+      "theme": "山水与日常",
+      "reason": "雨从林霭、夜凉写到侵灯与近水可闻，细微天气由不同感官逐渐显形。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-456d67b0994e8973",
+      "selectionOrder": 150,
+      "title": "柳",
+      "author": "李商隐",
+      "theme": "自处与年岁",
+      "reason": "昔年东风里的舞态与今日秋日斜阳相照，柳的身姿承载盛衰感。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-601b5d77d2ea3e3b",
+      "selectionOrder": 151,
+      "title": "端居",
+      "author": "李商隐",
+      "theme": "亲友与乡思",
+      "reason": "端居听雨而遥想故乡，以青苔、红树之间的冷暖变化写孤客心境。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-4d71e707acbb56b0",
+      "selectionOrder": 152,
+      "title": "二月二日",
+      "author": "李商隐",
+      "theme": "自处与年岁",
+      "reason": "花柳蜂蝶处处有情，远游者却仍念归，江滩水声又化为檐间夜雨，明丽春景转成乡愁。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-382e4ba236230bec",
+      "selectionOrder": 153,
+      "title": "咏史",
+      "author": "李商隐",
+      "theme": "咏物、想象与怀古",
+      "reason": "从勤俭兴亡的判断推进到帝王典故与苍梧哀哭，议论并未消除对历史的沉重感。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-3505fb2752f96c50",
+      "selectionOrder": 154,
+      "title": "杜工部蜀中离席",
+      "author": "李商隐",
+      "theme": "亲友与乡思",
+      "reason": "以拟杜的离席场景把边地军情、醉醒宾客与成都美酒并置，欢聚始终笼着乱世之忧。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-65b3797b82843eb6",
+      "selectionOrder": 155,
+      "title": "中秋月二首·其二",
+      "author": "李峤",
+      "theme": "自处与年岁",
+      "reason": "明月之下不止晴空，也有风雨；四句把个人所见扩展为对不同处境的体察。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-772c5b1042d7845d",
+      "selectionOrder": 156,
+      "title": "井栏砂宿遇夜客",
+      "author": "李涉",
+      "theme": "边塞与行旅",
+      "reason": "暮雨遇绿林客的场面以一句反语转向整个世道，机智应对之中藏着对现实的讽刺。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-0127c876ca2ee4d6",
+      "selectionOrder": 157,
+      "title": "宣城见杜鹃花",
+      "author": "李白",
+      "theme": "亲友与乡思",
+      "reason": "异地杜鹃花与故乡子规声相接，重叠的春景把乡思推到强烈处。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-3767d1b0cfdba7b9",
+      "selectionOrder": 158,
+      "title": "登庐山五老峰",
+      "author": "李白",
+      "theme": "山水与日常",
+      "reason": "五老峰被写成天外芙蓉，夸张与亲近感并存，结尾转为愿在山中安居。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-6d25139d54aa9567",
+      "selectionOrder": 159,
+      "title": "秋浦歌十七首·其十三",
+      "author": "李白",
+      "theme": "山水与日常",
+      "reason": "清水、白鹭和采菱人的月下歌声构成轻盈夜景，声与影相互照应。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-790a9c12f29ec8ce",
+      "selectionOrder": 160,
+      "title": "陪侍郎叔游洞庭醉后三首·其三",
+      "author": "李白",
+      "theme": "自处与年岁",
+      "reason": "醉中竟想削平君山、铺开湘水，借不可能的豪举写酒兴，山水与夸张融为一体。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-eafcea8034de56f8",
+      "selectionOrder": 161,
+      "title": "登太白峰",
+      "author": "李白",
+      "theme": "山水与日常",
+      "reason": "从登峰到举手近月，攀登的实际空间渐转为天界想象，结尾仍牵挂山川。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-e41ada6b1ed668f7",
+      "selectionOrder": 162,
+      "title": "早春寄王汉阳",
+      "author": "李白",
+      "theme": "亲友与乡思",
+      "reason": "访梅寻春、预拂青石等待共饮，怀友写成一连串主动而亲切的邀约。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-2c015dffdccc5f4e",
+      "selectionOrder": 163,
+      "title": "长干行二首·其二",
+      "author": "李白",
+      "theme": "女性声音与细微情思",
+      "reason": "商妇按风向和月份遥想丈夫行程，江头风暴又激起恐惧，让等待有具体的季节与风险。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-8a58d9dda00a5f88",
+      "selectionOrder": 164,
+      "title": "上三峡",
+      "author": "李白",
+      "theme": "边塞与行旅",
+      "reason": "山高路险和舟行迟缓相互叠加，短诗写出被峡江滞留的真实焦急。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-e12acbd486434027",
+      "selectionOrder": 165,
+      "title": "妾薄命",
+      "author": "李白",
+      "theme": "女性声音与细微情思",
+      "reason": "以宫廷女子命运的骤变展开，显露恩宠关系的不可靠和难以自主。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-9537f023a107654d",
+      "selectionOrder": 166,
+      "title": "望庐山瀑布水二首·其一",
+      "author": "李白",
+      "theme": "山水与日常",
+      "reason": "较长篇幅容纳瀑布声势、游仙联想与归隐愿望，和七绝名篇形成互补。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-0470e881b703d4c4",
+      "selectionOrder": 167,
+      "title": "水宿闻雁",
+      "author": "李益",
+      "theme": "亲友与乡思",
+      "reason": "成双早雁惊动独宿之人，起身只见星月满江，以极少笔墨写出长夜的空阔和孤单。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-9285c361eef99bf8",
+      "selectionOrder": 168,
+      "title": "写情",
+      "author": "李益",
+      "theme": "女性声音与细微情思",
+      "reason": "千里佳期一夕成空，此后的良夜也失去吸引力，明月依然运行而人的心境已彻底改变。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-0825c5667c914a23",
+      "selectionOrder": 169,
+      "title": "塞下曲",
+      "author": "李益",
+      "theme": "边塞与行旅",
+      "reason": "伏波、定远与天山射箭的典故连续推进，誓志之声坚定，和低回思乡的边塞诗形成对照。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-af44acf0a28b8b7e",
+      "selectionOrder": 170,
+      "title": "度破讷沙二首·其一",
+      "author": "李益",
+      "theme": "边塞与行旅",
+      "reason": "流沙经风变动而草木无从报春，反问即使春来又如何察觉，写出沙漠独特的季节感。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-0c27d4a89bf53b7c",
+      "selectionOrder": 171,
+      "title": "春夜闻笛",
+      "author": "李益",
+      "theme": "亲友与乡思",
+      "reason": "笛声使迁客泪下，洞庭雁群却能连夜北归，以鸟的归去衬出人的留滞。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-ebc0925f9b460ccb",
+      "selectionOrder": 172,
+      "title": "汴河曲",
+      "author": "李益",
+      "theme": "咏物、想象与怀古",
+      "reason": "江流不改与行宫荒废并列，先盛后衰的落差压缩进四句咏史之中。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-5bc471da1556b9ba",
+      "selectionOrder": 173,
+      "title": "拜新月",
+      "author": "李端",
+      "theme": "女性声音与细微情思",
+      "reason": "开帘、拜月、低语几个动作连成小场景，未说出的愿望留下余味。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-9fee56e72682b9a9",
+      "selectionOrder": 174,
+      "title": "溪行逢雨与柳中庸",
+      "author": "李端",
+      "theme": "亲友与乡思",
+      "reason": "同行遇雨从景物写到聚散，暮色中的溪路使友谊不必靠直白表态。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-ebf6519882f86188",
+      "selectionOrder": 175,
+      "title": "南园十三首·其八",
+      "author": "李贺",
+      "theme": "山水与日常",
+      "reason": "乳燕、黄蜂与拥钩游鱼各有动作，书窗和石矶将家居生活融进活泼的春景。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-2d42e7e943c0518c",
+      "selectionOrder": 176,
+      "title": "昌谷北园新笋四首·其一",
+      "author": "李贺",
+      "theme": "咏物、想象与怀古",
+      "reason": "新笋的生长愿望被写得锐利昂扬，咏物同时寄托冲破束缚的心气。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-a5a1e7df8fd41065",
+      "selectionOrder": 177,
+      "title": "秋来",
+      "author": "李贺",
+      "theme": "自处与年岁",
+      "reason": "秋风、虫声和幽魂共同构成苦吟者的夜晚，将创作焦虑写成可见可闻的境界。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-2a57781d2b5f93ea",
+      "selectionOrder": 178,
+      "title": "昆仑使者",
+      "author": "李贺",
+      "theme": "咏物、想象与怀古",
+      "reason": "昆仑使者与求仙之事被拉回古墓荒凉，瑰奇意象中包含对长生幻想的反思。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-4e4250323b7d765a",
+      "selectionOrder": 179,
+      "title": "苏小小墓",
+      "author": "李贺",
+      "theme": "咏物、想象与怀古",
+      "reason": "幽兰、松风和冷翠烛光组成墓地想象，清丽景物与幽微情感交织。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-a76d7d053e9faf68",
+      "selectionOrder": 180,
+      "title": "苦昼短",
+      "author": "李贺",
+      "theme": "自处与年岁",
+      "reason": "对日月、神龙与仙人的诘问连环展开，奇崛想象最终指向生命短促。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-74017e54aff6575f",
+      "selectionOrder": 181,
+      "title": "渡湘江",
+      "author": "杜审言",
+      "theme": "边塞与行旅",
+      "reason": "渡江见春鸟春花，景色越鲜明越触发归思，表现迁谪旅途中的情绪反差。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-4b6f3773b6b4503e",
+      "selectionOrder": 182,
+      "title": "登襄阳城",
+      "author": "杜审言",
+      "theme": "山水与日常",
+      "reason": "秋日登城从楚山汉水的开阔写到古迹与归路尘埃，空间铺展中带着历史感。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-b834e08148832f05",
+      "selectionOrder": 183,
+      "title": "长安秋望",
+      "author": "杜牧",
+      "theme": "山水与日常",
+      "reason": "倚楼所见从霜树到南山，澄明秋色几乎无须抒情便自成气象。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-2f48a8b58afa80d7",
+      "selectionOrder": 184,
+      "title": "沈下贤",
+      "author": "杜牧",
+      "theme": "咏物、想象与怀古",
+      "reason": "前贤清唱无人相和，现实草径无从寻觅，却在梦中化作水声月色，凭吊因而兼具空灵与寂寞。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-56e5beaeb88d7487",
+      "selectionOrder": 185,
+      "title": "赠渔父",
+      "author": "杜牧",
+      "theme": "自处与年岁",
+      "reason": "渔父久居烟水却说未逢独醒之人，闲适身影忽转为带着反讽的世态观察。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-48b4076dc01c966a",
+      "selectionOrder": 186,
+      "title": "过华清宫绝句三首·其二",
+      "author": "杜牧",
+      "theme": "咏物、想象与怀古",
+      "reason": "宫阙歌舞与边地急报对照，以一段戏剧性信息差讽刺承平表象。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-3bd683ea7021b8fa",
+      "selectionOrder": 187,
+      "title": "齐安郡中偶题二首·其一",
+      "author": "杜牧",
+      "theme": "亲友与乡思",
+      "reason": "落日溪桥和轻烟柳影先造气氛，再让绿荷集体回首背风，以拟人动作承接难言之恨。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-12cc5f1701ae92cc",
+      "selectionOrder": 188,
+      "title": "齐安郡后池绝句",
+      "author": "杜牧",
+      "theme": "山水与日常",
+      "reason": "浮萍、菱叶、夏莺和蔷薇铺满后池，末尾微雨中鸳鸯相浴，使无人的园林自有生机。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-4075c1f91b3d3114",
+      "selectionOrder": 189,
+      "title": "河湟",
+      "author": "杜牧",
+      "theme": "咏物、想象与怀古",
+      "reason": "河湟故地与歌舞太平并写，失地之痛被安逸者的无知反衬出来。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-5947d28035d6a06a",
+      "selectionOrder": 190,
+      "title": "倦夜",
+      "author": "杜甫",
+      "theme": "自处与年岁",
+      "reason": "清夜的露、萤和水鸟都被细看，结尾却回到干戈未息，安静景色承载了无法平息的忧虑。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-199ff3e79cd8e7b7",
+      "selectionOrder": 191,
+      "title": "冬日有怀李白",
+      "author": "杜甫",
+      "theme": "亲友与乡思",
+      "reason": "独坐书斋终日思友，风霜贫衣与未遂的访友之约相接，使怀念兼有对生活处境的体察。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-6d2bf8d1810e2b8c",
+      "selectionOrder": 192,
+      "title": "南邻",
+      "author": "杜甫",
+      "theme": "山水与日常",
+      "reason": "儿童喜客、鸟雀驯亲与小舟柴门构成邻居生活，杜诗在这里呈现质朴温暖的一面。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-c6b73a17aaf681ec",
+      "selectionOrder": 193,
+      "title": "堂成",
+      "author": "杜甫",
+      "theme": "自处与年岁",
+      "reason": "草堂初成的花木禽鸟与暂栖之身互相映照，新居之喜里仍有飘零的自知。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-eeb56402aa477c50",
+      "selectionOrder": 194,
+      "title": "小寒食舟中作",
+      "author": "杜甫",
+      "theme": "边塞与行旅",
+      "reason": "舟中节令食物、江上飞蝶与远望故都交织，漂泊中的春天有贴身温度。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-fcdd83b80560208b",
+      "selectionOrder": 195,
+      "title": "恨别",
+      "author": "杜甫",
+      "theme": "亲友与乡思",
+      "reason": "洛阳久别与江边老去相照，昼夜忆弟思家，最终又将希望寄在战局的转机上。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-b82697727352c48d",
+      "selectionOrder": 196,
+      "title": "北征",
+      "author": "杜甫",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "返家旅途、妻儿饥寒与国家局势交替展开，长篇结构把私人生活放入乱世全景。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-62e2af8b14931e87",
+      "selectionOrder": 197,
+      "title": "羌村·其二",
+      "author": "杜甫",
+      "theme": "亲友与乡思",
+      "reason": "归家后的欣慰并未消除忧惧，孩子的亲近与未来别离形成难以排解的矛盾。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-6c72c061451dfb5b",
+      "selectionOrder": 198,
+      "title": "羌村·其三",
+      "author": "杜甫",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "父老携酒来访却诉说征役之苦，款待与落泪连成一幅战后乡村群像。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-95d46652a8a6ac55",
+      "selectionOrder": 199,
+      "title": "前出塞九首·其九",
+      "author": "杜甫",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "老兵回看十年从军与争功之事，以个人口吻质疑军中功名的衡量。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-d96bd02dbc229edf",
+      "selectionOrder": 200,
+      "title": "后出塞五首·其五",
+      "author": "杜甫",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "边地形势由盛而变，归乡者的隐忍成为观察战乱和军队生活的独特角度。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-15b768e34211dca5",
+      "selectionOrder": 201,
+      "title": "秋兴八首·其八",
+      "author": "杜甫",
+      "theme": "亲友与乡思",
+      "reason": "昆吾、渼陂的旧游经由稻香、舟侣重新显影，结尾回到白头低吟，与前两版秋兴选篇互补。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-24423a3b93584873",
+      "selectionOrder": 202,
+      "title": "泾溪",
+      "author": "杜荀鹤",
+      "theme": "自处与年岁",
+      "reason": "险水反使人戒惧，平流反见覆舟，以具体水势写出关于松懈的悖论。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-3727a3d9995ffa41",
+      "selectionOrder": 203,
+      "title": "溪兴",
+      "author": "杜荀鹤",
+      "theme": "山水与日常",
+      "reason": "风雨中收起钓丝独饮，醉后小舟顺流而下，失去方向反成片刻摆脱世虑的自在。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-ac0bbbe8c33d823d",
+      "selectionOrder": 204,
+      "title": "蚕妇",
+      "author": "杜荀鹤",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "蚕妇昼夜辛劳而衣食仍缺，劳作成果与个人所得的错位构成全诗力量。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-fdbdaa3562ceab38",
+      "selectionOrder": 205,
+      "title": "题弟姪书堂",
+      "author": "杜荀鹤",
+      "theme": "自处与年岁",
+      "reason": "乱世仍坚持读书，窗竹和泉声守住书堂的宁静，使劝勉少年珍惜时光有真实处境支撑。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-8c463b07ec8ed40a",
+      "selectionOrder": 206,
+      "title": "夜送赵纵",
+      "author": "杨炯",
+      "theme": "亲友与乡思",
+      "reason": "以连城璧比友人才质，送还旧府时明月照满前川，称许与祝愿融合在夜景中。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-ff979f3398f01a49",
+      "selectionOrder": 207,
+      "title": "从军行",
+      "author": "杨炯",
+      "theme": "边塞与行旅",
+      "reason": "烽火、铁骑与风雪一气推进，结尾由战争场景转成个人志愿，声调昂扬。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-f9dfaaef6eb99810",
+      "selectionOrder": 208,
+      "title": "听筝",
+      "author": "柳中庸",
+      "theme": "女性声音与细微情思",
+      "reason": "筝声依次化为春风花鸟、孤灯空楼和天涯歧路，一次听曲展开多重人物的情感空间。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-e1ff41caa013478e",
+      "selectionOrder": 209,
+      "title": "零陵早春",
+      "author": "柳宗元",
+      "theme": "亲友与乡思",
+      "reason": "把春天当作可返故园的使者，恳请它带走归梦，四句便写出归不得的柔肠。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-d80b4be698340923",
+      "selectionOrder": 210,
+      "title": "柳州二月榕叶落尽偶题",
+      "author": "柳宗元",
+      "theme": "自处与年岁",
+      "reason": "宦情与春色相逢却不相慰，榕叶尽落像秋天，异地物候写出迁谪心理。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-c59ca242136b0a74",
+      "selectionOrder": 211,
+      "title": "酬曹侍御过象县见寄",
+      "author": "柳宗元",
+      "theme": "亲友与乡思",
+      "reason": "遥想友人停舟碧流之间，自己却连采花相赠也不得自由，酬答中显出贬居的限制。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-fcfb17937e6db731",
+      "selectionOrder": 212,
+      "title": "重别梦得",
+      "author": "柳宗元",
+      "theme": "亲友与乡思",
+      "reason": "二十年共同经历却在岔路再别，末尾相约归田做邻舍，将深交寄托于朴素的晚年愿景。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-4de889497bbd0121",
+      "selectionOrder": 213,
+      "title": "雨晴至江渡",
+      "author": "柳宗元",
+      "theme": "山水与日常",
+      "reason": "雨后江岸与渡口的短暂宁静，令迁谪诗人的独处也保有清亮的观照。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-f7009fda4eccba1b",
+      "selectionOrder": 214,
+      "title": "杂诗三首·其二",
+      "author": "沈佺期",
+      "theme": "女性声音与细微情思",
+      "reason": "寒闺、明月和遥远战场彼此映照，以家中人的祈愿显出征战延续的压力。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-8c25811401dac303",
+      "selectionOrder": 215,
+      "title": "碧涧驿晓思",
+      "author": "温庭筠",
+      "theme": "亲友与乡思",
+      "reason": "香灯与残梦之后是月落鸟歇、满庭山杏，短诗以梦醒景象承接身在天涯的晓思。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-66eaa12d46b861b5",
+      "selectionOrder": 216,
+      "title": "咸阳值雨",
+      "author": "温庭筠",
+      "theme": "山水与日常",
+      "reason": "桥上密雨遮住钓船，眼前咸阳忽与洞庭水色重叠，联想让一场雨拓开千里空间。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-fbedad3679fe5104",
+      "selectionOrder": 217,
+      "title": "过分水岭",
+      "author": "温庭筠",
+      "theme": "山水与日常",
+      "reason": "溪水一路相随又在岭头分流，把无情水写成有意的旅伴，轻巧而深情。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-dfa67bfc34375805",
+      "selectionOrder": 218,
+      "title": "过陈琳墓",
+      "author": "温庭筠",
+      "theme": "咏物、想象与怀古",
+      "reason": "凭吊文学前贤兼有自负与落拓，古墓荒草收住身世之问。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-23fc7aa0e545c9ba",
+      "selectionOrder": 219,
+      "title": "送别",
+      "author": "王之涣",
+      "theme": "亲友与乡思",
+      "reason": "杨柳与御河原是春景，连日折枝却把它变成送别次数的见证。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-cf94b540143eb747",
+      "selectionOrder": 220,
+      "title": "宴词",
+      "author": "王之涣",
+      "theme": "亲友与乡思",
+      "reason": "春水催舟，送者却不愿再听催桨声，把不堪离别化成浅溪似乎载不动船的感受。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-6d2782686cad6d56",
+      "selectionOrder": 221,
+      "title": "山中",
+      "author": "王勃",
+      "theme": "亲友与乡思",
+      "reason": "长江阻归与高风黄叶相接，静景背后是滞留异乡的时间感。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-5fb840d17e7d30f0",
+      "selectionOrder": 222,
+      "title": "蜀中九日",
+      "author": "王勃",
+      "theme": "亲友与乡思",
+      "reason": "重阳他乡举杯已苦，见雁反问为何从北地而来，以看似无理的问话写念归。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-80fc62a802c6fb02",
+      "selectionOrder": 223,
+      "title": "别薛华",
+      "author": "王勃",
+      "theme": "亲友与乡思",
+      "reason": "送者与行者同在漂泊，末尾以无论去住皆是梦中人相慰，友谊来自处境相通。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-2f13f2893a84af9e",
+      "selectionOrder": 224,
+      "title": "海人谣",
+      "author": "王建",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "采珠役象的危险与宫库常满直接相对，以短促歌辞显出远地劳役与上层享用的落差。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-b7231bed7c11d777",
+      "selectionOrder": 225,
+      "title": "田家行",
+      "author": "王建",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "田家从耕收到输税的全年劳作连成一篇，让丰年也未必有余粮的处境可见。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-fa886fb82ff70c9a",
+      "selectionOrder": 226,
+      "title": "夜看扬州市",
+      "author": "王建",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "夜市灯火与笙歌看似繁盛，忽然点出今非太平，城市夜景因此含着隐忧。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-2d2b0fb66f66e6ec",
+      "selectionOrder": 227,
+      "title": "听流人水调子",
+      "author": "王昌龄",
+      "theme": "亲友与乡思",
+      "reason": "孤舟月色中的乐声引出远客之愁，重听之际又借异乡人的演奏形成共鸣。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-bc4113c05462cda6",
+      "selectionOrder": 228,
+      "title": "送柴侍御",
+      "author": "王昌龄",
+      "theme": "亲友与乡思",
+      "reason": "两乡相隔仍共一片云雨明月，送别的劝慰有具体山水作为依托。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-29c59c7907a5cf16",
+      "selectionOrder": 229,
+      "title": "西宫春怨",
+      "author": "王昌龄",
+      "theme": "女性声音与细微情思",
+      "reason": "花深宫暗中只见珠帘与斜月，宫中人的孤独被写在欲望无从抵达的空间里。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-180e770871e76754",
+      "selectionOrder": 230,
+      "title": "长信秋词五首·其一",
+      "author": "王昌龄",
+      "theme": "女性声音与细微情思",
+      "reason": "金井梧桐与珠帘夜霜构成冷清层次，漫长等待直到天明仍无结果。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-f3421041ac0dc7b0",
+      "selectionOrder": 231,
+      "title": "龙标野宴",
+      "author": "王昌龄",
+      "theme": "亲友与乡思",
+      "reason": "贬居宴饮中以月色暂解离愁，主动向友人宽慰，语气舒展而不失身世感。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-30902294b24e91e6",
+      "selectionOrder": 232,
+      "title": "秋夜喜遇王处士",
+      "author": "王绩",
+      "theme": "山水与日常",
+      "reason": "两位田间劳作者在满月与飞萤中相逢，不必铺陈言语便有忙后相见的欣喜。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-4217ffa58a789d7a",
+      "selectionOrder": 233,
+      "title": "息夫人",
+      "author": "王维",
+      "theme": "女性声音与细微情思",
+      "reason": "受宠与无言并不等于欢喜，短篇为处境被他人决定的女子保留内心空间。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-cd7f3be585581277",
+      "selectionOrder": 234,
+      "title": "辋川集·华子冈",
+      "author": "王维",
+      "theme": "自处与年岁",
+      "reason": "飞鸟不停、连山皆秋，人在山冈上下往返，景物的循环托起难以排解的惆怅。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-846bdf501305d28c",
+      "selectionOrder": 235,
+      "title": "辋川集·木兰柴",
+      "author": "王维",
+      "theme": "山水与日常",
+      "reason": "余照、烟岚和前山翠色一再变化，山林并非静止的装饰，而是观看中的生成。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-9fe0a9666967aa1a",
+      "selectionOrder": 236,
+      "title": "辋川集·栾家濑",
+      "author": "王维",
+      "theme": "山水与日常",
+      "reason": "秋雨、浅濑和溅起的水波惊动白鹭，鸟又落下，微小的自然事件使静景活了起来。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-f83401bbaf60662a",
+      "selectionOrder": 237,
+      "title": "田园乐七首·其五",
+      "author": "王维",
+      "theme": "山水与日常",
+      "reason": "孤烟远村与独树高原先铺出疏朗风景，再以颜回、陶潜想象邻里，六言节奏别有舒展感。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-86666e41b80ea3e4",
+      "selectionOrder": 238,
+      "title": "送邢桂州",
+      "author": "王维",
+      "theme": "亲友与乡思",
+      "reason": "送行鼓吹渐入江湖潮色，日落的白与潮来的青尤其开阔，结尾寄望友人惠及地方。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-cca503f89115a54f",
+      "selectionOrder": 239,
+      "title": "夷门歌",
+      "author": "王维",
+      "theme": "咏物、想象与怀古",
+      "reason": "围绕侯嬴的身份与识遇写侠义，和侠客题材中惯常的英雄正面描绘形成互补。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-f57616eb524a5a90",
+      "selectionOrder": 240,
+      "title": "少年行四首·其一",
+      "author": "王维",
+      "theme": "边塞与行旅",
+      "reason": "少年饮酒结交与骏马高楼连成豪迈群像，意气和人际信任共同构成吸引力。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-dc489dbda9c3db50",
+      "selectionOrder": 241,
+      "title": "凉州词二首·其二",
+      "author": "王翰",
+      "theme": "边塞与行旅",
+      "reason": "秦中花鸟与塞外寒沙形成季节反差，夜里胡笳再添乡思，补充另一种凉州声情。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-805ae86b72628eb6",
+      "selectionOrder": 242,
+      "title": "南浦别",
+      "author": "白居易",
+      "theme": "亲友与乡思",
+      "reason": "秋风中频频回头的送别动作，使一看肠一断的情绪有可见的节奏。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-519ff0e4c8c41208",
+      "selectionOrder": 243,
+      "title": "夜雨",
+      "author": "白居易",
+      "theme": "亲友与乡思",
+      "reason": "所念之人与所感之事反复交错，残灯空堂里风雨未停，回环句法写出无从解开的心绪。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-f94f9149d3742b00",
+      "selectionOrder": 244,
+      "title": "夜筝",
+      "author": "白居易",
+      "theme": "女性声音与细微情思",
+      "reason": "红弦紫袖的明丽外观转入停声指咽，乐曲中断之处反而显出最深的感情。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-7e8a865461c4e982",
+      "selectionOrder": 245,
+      "title": "惜牡丹花二首·其一",
+      "author": "白居易",
+      "theme": "自处与年岁",
+      "reason": "明知牡丹将谢仍夜里举火来看，把珍惜当下写成急切而温柔的行动。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-209398a773d3fb9f",
+      "selectionOrder": 246,
+      "title": "蓝桥驿见元九诗",
+      "author": "白居易",
+      "theme": "亲友与乡思",
+      "reason": "友人春归与自己秋去错开，每到驿亭便循墙寻诗，把牵挂写成持续的实际动作。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-c245ff08cde08807",
+      "selectionOrder": 247,
+      "title": "观游鱼",
+      "author": "白居易",
+      "theme": "山水与日常",
+      "reason": "童子垂钓与诗人爱鱼的心意被轻轻区分，池边日常也能引出不同立场。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-6dd15e006f36211e",
+      "selectionOrder": 248,
+      "title": "酬和元九东川路诗十二首·望驿台",
+      "author": "白居易",
+      "theme": "亲友与乡思",
+      "reason": "驿台与望江楼遥遥对应，从两地共同等候的设想写朋友及其家人的相思。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-7388d5ce3c542b02",
+      "selectionOrder": 249,
+      "title": "燕诗示刘叟",
+      "author": "白居易",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "燕子育雏的忙碌转成对亲子关系的省思，动物故事和人间伦理互相照应。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-ec0da96a909936e7",
+      "selectionOrder": 250,
+      "title": "秦中吟十首·伤宅",
+      "author": "白居易",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "豪宅层层铺陈后忽问主人为何不救贫寒骨肉，又以故宅易主收束，奢侈与无常相互照见。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-07f30d39363b355d",
+      "selectionOrder": 251,
+      "title": "上阳白发人",
+      "author": "白居易",
+      "theme": "女性声音与细微情思",
+      "reason": "宫中女子从少女等到白头，漫长时间与隔绝空间让个人生命的耗损清晰可见。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-7d28b3302142b5dc",
+      "selectionOrder": 252,
+      "title": "井底引银缾",
+      "author": "白居易",
+      "theme": "女性声音与细微情思",
+      "reason": "以器物破碎起兴再叙私奔遭际，情感承诺与现实处境的落差带出悲剧。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-d5384961b6af9da9",
+      "selectionOrder": 253,
+      "title": "母别子",
+      "author": "白居易",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "母子被迫分别的叙述直逼伦理冲突，家内秩序与弱者命运成为长篇关切。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-b9edeed78ba03190",
+      "selectionOrder": 254,
+      "title": "红线毯",
+      "author": "白居易",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "红毯由制作、进献写到铺用，精美物件与蚕桑耗费的关系被层层揭开。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-682a5e3fb0e59640",
+      "selectionOrder": 255,
+      "title": "采莲曲",
+      "author": "白居易",
+      "theme": "女性声音与细微情思",
+      "reason": "荷花深处的小船相逢，欲语低笑时发饰落水，以一个意外动作写出羞涩与慌乱。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-0412af4a0c49d3c9",
+      "selectionOrder": 256,
+      "title": "送魏十六还苏州",
+      "author": "皇甫冉",
+      "theme": "亲友与乡思",
+      "reason": "秋夜虫声令送别难堪，明日归舟与回首白云却只能遥想，短诗把此刻与来日连在一起。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-93f05667311cc12b",
+      "selectionOrder": 257,
+      "title": "春夕酒醒",
+      "author": "皮日休",
+      "theme": "山水与日常",
+      "reason": "乐声酒香散去后红烛已短，烛泪如珊瑚的比喻，把夜半酒醒的感受凝在一件小物上。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-c3e545e935f98de5",
+      "selectionOrder": 258,
+      "title": "苏氏别业",
+      "author": "祖咏",
+      "theme": "山水与日常",
+      "reason": "南山沣水映入园林，经冬积雪与庭阴保持幽冷，末尾闲听春禽写出别业的清寂。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-c54869e88167b1e7",
+      "selectionOrder": 259,
+      "title": "赠妓云英",
+      "author": "罗隐",
+      "theme": "自处与年岁",
+      "reason": "再遇旧识时彼此都未如世俗所愿，用带笑的自嘲写不被看重的人生。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-3459c99725067c9a",
+      "selectionOrder": 260,
+      "title": "鹦鹉",
+      "author": "罗隐",
+      "theme": "咏物、想象与怀古",
+      "reason": "鹦鹉的聪慧与囚禁相连，劝其慎言的口吻使咏物暗含社会讽意。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-4264bb11e956fed7",
+      "selectionOrder": 261,
+      "title": "筹笔驿",
+      "author": "罗隐",
+      "theme": "咏物、想象与怀古",
+      "reason": "凭诸葛亮旧迹议论时势与英雄，成败之间不作轻率结论，增加咏史的复杂性。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-8ec79ad7e561e7f2",
+      "selectionOrder": 262,
+      "title": "黄河",
+      "author": "罗隐",
+      "theme": "咏物、想象与怀古",
+      "reason": "由黄河难清追问世事，以夸张与反语保持尖锐，具有晚唐讽刺诗的代表性。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-e7356ff25baf7bdd",
+      "selectionOrder": 263,
+      "title": "田家二首·其一",
+      "author": "聂夷中",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "父子分头耕作而庄稼尚未成熟，官仓却已修好，时间上的抢先揭出赋敛压力。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-fc57c38488fb2ae5",
+      "selectionOrder": 264,
+      "title": "春望词四首·其三",
+      "author": "薛涛",
+      "theme": "女性声音与细微情思",
+      "reason": "风花渐老而佳期仍遥，只能结草不能结同心人，动作和愿望之间的落差格外明白。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-d14d3cc2c7ad2ef2",
+      "selectionOrder": 265,
+      "title": "题竹郎庙",
+      "author": "薛涛",
+      "theme": "山水与日常",
+      "reason": "古木、夕阳与更深的山绿构成庙前暮景，远处迎郎笛曲又把幽静景色带入民间声响。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-f76deb65a32ac5ea",
+      "selectionOrder": 266,
+      "title": "塞下",
+      "author": "许浑",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "丈夫战死的消息尚未传回，闺中仍在寄衣，结尾以信息错位显出战争的残酷。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-490856f4f474b173",
+      "selectionOrder": 267,
+      "title": "途经秦始皇墓",
+      "author": "许浑",
+      "theme": "咏物、想象与怀古",
+      "reason": "秦陵气势虽高终究崩坏，路人反去拜汉文陵，以选择谁受追念写出历史判断。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-59bccccaaf1ec9b3",
+      "selectionOrder": 268,
+      "title": "题袁氏别业",
+      "author": "贺知章",
+      "theme": "山水与日常",
+      "reason": "不相识也愿为林泉停坐，主动拿出酒钱免主人为难，率直口吻使隐逸题材充满人情。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-104e61dadb51d38e",
+      "selectionOrder": 269,
+      "title": "暮过山村",
+      "author": "贾岛",
+      "theme": "山水与日常",
+      "reason": "暮行时怪禽与旷野先令人不安，渐近的村落烟火又带来亲切，景色随旅人感受转变。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-2739bb2132bf0f68",
+      "selectionOrder": 270,
+      "title": "雪晴晚望",
+      "author": "贾岛",
+      "theme": "山水与日常",
+      "reason": "晴雪、归樵、寒日与山火逐层入目，回山寺时再闻暮钟，使远望有完整的归程。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-915c36a6d12c72bd",
+      "selectionOrder": 271,
+      "title": "宿山寺",
+      "author": "贾岛",
+      "theme": "山水与日常",
+      "reason": "星河、松月与险峭山势突显夜宿高处的感受，清幽中有紧张的空间体验。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-7794e5149a270cb9",
+      "selectionOrder": 272,
+      "title": "送邹明府游灵武",
+      "author": "贾岛",
+      "theme": "边塞与行旅",
+      "reason": "卸任后马仍瘦、债未清而载书而归，转赴灵武的风雪旅途显出友人的清贫与坚守。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-0481dbfee4489c22",
+      "selectionOrder": 273,
+      "title": "江楼旧感",
+      "author": "赵嘏",
+      "theme": "亲友与乡思",
+      "reason": "独上江楼重见旧景，江天月色依然，昔日同游者却不在，转折简单而有余痛。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-978a42f5b36e8a41",
+      "selectionOrder": 274,
+      "title": "寒塘",
+      "author": "赵嘏",
+      "theme": "亲友与乡思",
+      "reason": "清晨临水梳洗便觉秋寒，乡思正起又见飞雁，以小小的旅途片刻聚拢愁绪。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-4aed809ace60854e",
+      "selectionOrder": 275,
+      "title": "菊",
+      "author": "郑谷",
+      "theme": "咏物、想象与怀古",
+      "reason": "菊花不以生长环境论高下，清香与秋色支撑对品格的肯定。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-06825b971020b950",
+      "selectionOrder": 276,
+      "title": "蓝田溪与渔者宿",
+      "author": "钱起",
+      "theme": "山水与日常",
+      "reason": "因泉月留步，又与渔翁谈到天明，临别不舍使山水之趣最终落在人与人的契合。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-7d3f8bbd58d183c4",
+      "selectionOrder": 277,
+      "title": "和袭美春夕酒醒",
+      "author": "陆龟蒙",
+      "theme": "亲友与乡思",
+      "reason": "酬答友人酒醒之作，在相近夜景中续写不同感受，可展示唐诗唱和的阅读趣味。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-5211087a7e028e21",
+      "selectionOrder": 278,
+      "title": "新沙",
+      "author": "陆龟蒙",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "新生沙洲也会被官家划入征税范围，结尾借海上仙山反讽无所不至的赋敛。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-65b2e24da96edf0c",
+      "selectionOrder": 279,
+      "title": "别离",
+      "author": "陆龟蒙",
+      "theme": "亲友与乡思",
+      "reason": "送别先否定流泪的程式，转向宝剑与壮志，使离情有另一种坚决的声调。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-8d06efbaa8e1279d",
+      "selectionOrder": 280,
+      "title": "度荆门望楚",
+      "author": "陈子昂",
+      "theme": "边塞与行旅",
+      "reason": "远离巴国进入楚地，山川改变与人物怀想一同展开，表现出峡后的辽阔感。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-d16b54c5353bffc0",
+      "selectionOrder": 281,
+      "title": "春夜别友人二首·其二",
+      "author": "陈子昂",
+      "theme": "亲友与乡思",
+      "reason": "春夜芳樽和檐露烘托离忧，临别赠言却转向仕进期望，将惜别与勉励放在同一首中。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-5296b12a43c2b304",
+      "selectionOrder": 282,
+      "title": "送魏大从军",
+      "author": "陈子昂",
+      "theme": "边塞与行旅",
+      "reason": "匈奴未灭的时局与友人出征的志气并写，赠言有鲜明的奋发声调。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-b1fc1c921b2b255e",
+      "selectionOrder": 283,
+      "title": "感遇诗三十八首·其二十三",
+      "author": "陈子昂",
+      "theme": "咏物、想象与怀古",
+      "reason": "翡翠鸟因羽毛美丽而遭捕杀，诗由首饰锦衾反问才美为何成为负累，寓意尖锐。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-6621471ee87ecb1b",
+      "selectionOrder": 284,
+      "title": "含山店梦觉作",
+      "author": "韦庄",
+      "theme": "亲友与乡思",
+      "reason": "惯于流离的人仍在故园梦醒后惆怅，斜月照着旅店，将坚强外表下的思乡显露出来。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-142a5d034d1b22c9",
+      "selectionOrder": 285,
+      "title": "与东吴生相遇",
+      "author": "韦庄",
+      "theme": "自处与年岁",
+      "reason": "乱离中相遇先劝强笑，又借主人明月写处境差别，苦涩隐藏在应酬语气里。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-e3a4689dbe8051a2",
+      "selectionOrder": 286,
+      "title": "忆昔",
+      "author": "韦庄",
+      "theme": "咏物、想象与怀古",
+      "reason": "记忆中的歌舞城市与眼前乱世对照，追忆含有对繁华失落的切身感受。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-df45c103928da5ce",
+      "selectionOrder": 287,
+      "title": "秦妇吟",
+      "author": "韦庄",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "借逃难女子叙述战乱中的多重见闻，长篇层层转述，补入普通人视角的乱世叙事。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-6def389d7e3cf5f3",
+      "selectionOrder": 288,
+      "title": "咏露珠",
+      "author": "韦应物",
+      "theme": "咏物、想象与怀古",
+      "reason": "露珠在荷叶与玉盘之间被细看，因滚动不定才知其圆，以微物写出观察的趣味。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-13f05ac816ed146a",
+      "selectionOrder": 289,
+      "title": "闻鴈",
+      "author": "韦应物",
+      "theme": "亲友与乡思",
+      "reason": "故园想象被雨夜雁声触动，独卧高斋的静与声音的远互相映衬。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-287b506ec56338bd",
+      "selectionOrder": 290,
+      "title": "寒食寄京师诸弟",
+      "author": "韦应物",
+      "theme": "亲友与乡思",
+      "reason": "寒食禁火的空斋尤其冷清，听莺把酒时遥想诸弟，杜陵青草把远近两地连起来。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-9106cc96735986eb",
+      "selectionOrder": 291,
+      "title": "深院",
+      "author": "韩偓",
+      "theme": "山水与日常",
+      "reason": "深院中的鸟、蝶与花影各有细微动作，日高人静反而使春天的活力更可感。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-b460b3d93217efd4",
+      "selectionOrder": 292,
+      "title": "醉著",
+      "author": "韩偓",
+      "theme": "山水与日常",
+      "reason": "开阔江天之后聚焦醉卧渔翁，过午醒来已雪满船，宁静场景中有不经意的时间跳跃。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-abf5f655cdb4311c",
+      "selectionOrder": 293,
+      "title": "次潼关先寄张十二阁老使君",
+      "author": "韩愈",
+      "theme": "边塞与行旅",
+      "reason": "山岳退进与潼关日出写出归途气势，告知刺史相公平蔡而回，带着凯旋的兴奋语气。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-dcbd3c62a7afe636",
+      "selectionOrder": 294,
+      "title": "湘中",
+      "author": "韩愈",
+      "theme": "咏物、想象与怀古",
+      "reason": "湘江猿声与祭祀遗迹引发凭吊，末尾将招魂之问留在不可回答的历史里。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-9202b93758d2d069",
+      "selectionOrder": 295,
+      "title": "题张十一旅舍三咏·榴花",
+      "author": "韩愈",
+      "theme": "自处与年岁",
+      "reason": "满树榴花却无人赏识，以一场春尽夏初的寂寞折射才华与际遇。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-9188709fca6cc532",
+      "selectionOrder": 296,
+      "title": "晚渡黄河",
+      "author": "骆宾王",
+      "theme": "边塞与行旅",
+      "reason": "黄河晚渡将急流、高岸与旅愁并置，宏阔景象之中仍听得见行客的声音。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-f0c9ee9afbd3d4b8",
+      "selectionOrder": 297,
+      "title": "送郑少府入辽共赋侠客远从戎",
+      "author": "骆宾王",
+      "theme": "边塞与行旅",
+      "reason": "侠客远行的剑气与边地想象贯穿全篇，赠别的期许具有初唐的昂扬声调。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-7722f01fc965d3d1",
+      "selectionOrder": 298,
+      "title": "别董大二首·其二",
+      "author": "高适",
+      "theme": "亲友与乡思",
+      "reason": "与著名的千里黄云篇相较，这一首更直接写贫困和失路，使友谊显出共同处境。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-3daa9b248cc45a11",
+      "selectionOrder": 299,
+      "title": "封丘作",
+      "author": "高适",
+      "theme": "普通人的生活与长篇叙事",
+      "reason": "县尉在迎送官府、鞭挞百姓之间感到痛苦，以第一人称揭示仕途的伦理冲突。",
+      "retainedFrom": "expanded-to-300"
+    },
+    {
+      "id": "yizhu-0454ff2be1a025d3",
+      "selectionOrder": 300,
+      "title": "隔汉江寄子安",
+      "author": "鱼玄机",
+      "theme": "女性声音与细微情思",
+      "reason": "相思者与成双水鸟相对，渡头月色、隐约歌声及远砧层层添愁，六言节奏尤其婉转。",
+      "retainedFrom": "expanded-to-300"
+    }
+  ]
+}
