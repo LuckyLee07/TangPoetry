@@ -1,0 +1,31 @@
+{
+  "checkedOn": "2026-09-28",
+  "stats": {
+    "sourceCatalogPoems": 305,
+    "retainedSourcePoems": 304,
+    "excludedOverlaps": 1,
+    "editorialSupplements": 1,
+    "poems": 305,
+    "netNewAgainstVolume1": 305
+  },
+  "baselineCandidates": [],
+  "internalCandidates": [],
+  "inputs": [
+    {
+      "path": "data/expansion/tang-yizhu/xieying/matched-poems.json",
+      "sha256": "2a510657dad28d561a67185738460c1fc29e6677b5a665d89d9121966545bacb"
+    },
+    {
+      "path": "data/final/tang_poems_final.json",
+      "sha256": "55fe77c0c340639c2ad392909dae3ce590e6f58a6b6479a634a1d92f47d1b957"
+    },
+    {
+      "path": "data/expansion/tang-yizhu/poems.json",
+      "sha256": "3a9acf7b13b9f43bc5110ced24534d4847b9c6391772d09299a9714eae03c588"
+    },
+    {
+      "path": "data/expansion/tang-second-volume/selection-policy.json",
+      "sha256": "96aeff5d7de6bb3ca4405d9b8f9f5787b374bcc4dba2d5ecd9543a23f9f4adcd"
+    }
+  ]
+}

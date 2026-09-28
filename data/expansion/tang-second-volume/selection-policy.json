@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "decidedOn": "2026-09-28",
+  "scope": "App 第二卷独立选目，不改写《唐诗撷英》原目录档案，暂不导入 App。",
+  "replace": {
+    "catalogEntryId": "xieying-track-107",
+    "poemId": "yizhu-0a62ab779f1141d5",
+    "firstVolumePoemId": "tang-042-zi-ye-si-shi-ge-dong-ge",
+    "reason": "李白《子夜吴歌·冬歌》与第一卷《子夜四时歌冬歌》规范化正文一致；属于同诗异题，不是只有题名相同。"
+  },
+  "supplement": {
+    "poemId": "yizhu-e41ada6b1ed668f7",
+    "title": "早春寄王汉阳",
+    "author": "李白",
+    "section": "七古",
+    "proposedGenre": "七言古诗",
+    "reason": "寻梅问春、杨柳新色与邀友同饮相接，语言明快，兼有画面与友情；仍选李白作品补足一首。",
+    "bookMembership": "editorial-supplement-not-claimed-in-Xieying",
+    "edition": {
+      "old": "昨夜东风入武阳",
+      "new": "昨夜东风入武昌",
+      "oldTraditional": "昨夜東風入武陽",
+      "newTraditional": "昨夜東風入武昌",
+      "note": "选用“武昌”读法；《全唐诗》卷173转录作“武阳”，并记一作“昌”。两种读法均留存，不把“武阳”判作确定错字。",
+      "url": "https://zh.wikisource.org/zh-hans/全唐詩/卷173",
+      "accessedOn": "2026-09-28"
+    }
+  },
+  "overlapExplanation": {
+    "confirmed": "现有第一卷来源目录收齐李白子夜吴歌春夏秋冬四篇；第二卷目录条目已由用户确认选冬歌，正文相同。",
+    "notConfirmed": "尚未看到《唐诗撷英》对应纸书页及其所据唐诗三百首版次，不能断定原书编选错误，也不能将选本差异说成已证实的原因。",
+    "referenceUrl": "https://www.gutenberg.org/cache/epub/52323/pg52323-images.html"
+  }
+}

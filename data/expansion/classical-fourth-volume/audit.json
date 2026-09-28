@@ -1,0 +1,76 @@
+{
+  "checkedOn": "2026-09-28",
+  "inputs": [
+    {
+      "path": "data/expansion/classical-fourth-volume/selection.json",
+      "sha256": "62597875178b28f7e55a2299f4b9246d930fdec68f997c2d67be1bd5aea1ecb9"
+    },
+    {
+      "path": "data/expansion/classical-fourth-volume/sources/selected-texts.json",
+      "sha256": "6856f749c3d4181948bef572d981ffec721040a94fadf54e5885c9c6e2772f0c"
+    },
+    {
+      "path": "data/expansion/classical-fourth-volume/sources/methodology.json",
+      "sha256": "7167251a0ccb480df67b5a102536649343d1802f9dea4a375e32c9b021c83031"
+    },
+    {
+      "path": "data/expansion/classical-fourth-volume/sources/selection-review.json",
+      "sha256": "754ac3b3e50f2d2c377d043570a6dac3a6a40189c7bd933eaee4bd5f1632264b"
+    },
+    {
+      "path": "data/final/tang_poems_final.json",
+      "sha256": "55fe77c0c340639c2ad392909dae3ce590e6f58a6b6479a634a1d92f47d1b957"
+    },
+    {
+      "path": "data/expansion/tang-second-volume/poems.json",
+      "sha256": "55941fbf05951da569ee520ab733d49a31f93b640ce2e6924672e89b36ac4e93"
+    },
+    {
+      "path": "data/expansion/tang-third-volume/poems.json",
+      "sha256": "f832532df96e4f0215cf7da9e07b7368330f0fec1a7e381d2198cea20e5244f7"
+    }
+  ],
+  "stats": {
+    "poems": 300,
+    "authorLabelsIncludingAnonymous": 98,
+    "anonymousPoems": 69,
+    "byPeriod": {
+      "先秦": 49,
+      "两汉": 35,
+      "魏晋": 25,
+      "南北朝": 14,
+      "隋代": 3,
+      "宋代": 117,
+      "金朝": 3,
+      "元代": 4,
+      "明代": 21,
+      "清代": 29
+    },
+    "byLiteraryCategory": {
+      "诗经": 38,
+      "楚辞": 7,
+      "诗": 226,
+      "乐府/拟乐府": 29
+    },
+    "sourceRecords": 299,
+    "textCorrections": 4,
+    "longPoemsOver40Clauses": 11
+  },
+  "deduplication": {
+    "normalization": "simplified + punctuation removed + explicit glyph folding",
+    "algorithm": "SequenceMatcher, threshold 0.70; all available baseline text witnesses",
+    "groupHandling": "compare extracted complete members, not entire source cycles",
+    "baselineCandidates": [],
+    "internalCandidates": []
+  },
+  "releasePlan": {
+    "volume1": 320,
+    "volume2Gross": 305,
+    "volume3": 300,
+    "firstThreeUnique": 925,
+    "volume4NetNew": 300,
+    "fourVolumeUnique": 1225,
+    "status": "research plan; App remains unchanged"
+  },
+  "publicationReady": false
+}

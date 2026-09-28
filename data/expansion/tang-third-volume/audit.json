@@ -15,6 +15,10 @@
       "sha256": "2a510657dad28d561a67185738460c1fc29e6677b5a665d89d9121966545bacb"
     },
     {
+      "path": "data/expansion/tang-second-volume/poems.json",
+      "sha256": "55941fbf05951da569ee520ab733d49a31f93b640ce2e6924672e89b36ac4e93"
+    },
+    {
       "path": "data/expansion/tang-third-volume/selection.json",
       "sha256": "81115a52003bc2fb9cfa48e0d3a880ab6e94936c782dcb9854e057af65e513c1"
     },
@@ -53,7 +57,7 @@
     "authorsNotUsedAsFilter": true,
     "similarityCandidateThreshold": 0.7,
     "algorithm": "difflib.SequenceMatcher(autojunk=False); character-multiset upper bound prefilter",
-    "scope": "current 320 app records + 305 Xieying provisional selected records; not all historical anthologies",
+    "scope": "current 320 app records + 305 second-volume App selections (304 Xieying + 1 editorial supplement); not all historical anthologies",
     "baselineCandidates": [],
     "internalCandidates": [],
     "sharedSourceRecordIdsChecked": true
@@ -70,15 +74,17 @@
         "author": "李白"
       }
     ],
-    "uniquePoems": 624,
+    "crossVolumeExactMatchesScope": "original Xieying catalogue vs App; overlap excluded in second-volume App selection",
+    "secondVolumeSelectedPoems": 305,
+    "uniquePoems": 625,
     "xieyingUserConfirmedPoems": 85
   },
   "releasePlan": {
     "volume1": 320,
     "volume2Gross": 305,
-    "volume2NetNew": 304,
+    "volume2NetNew": 305,
     "volume3NetNew": 300,
-    "uniqueTotal": 924,
+    "uniqueTotal": 925,
     "status": "planned; volume2 and volume3 not imported"
   },
   "inheritedReviewFlags": [

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "createdOn": "2026-09-28",
+  "scope": "先秦至清末的唐代以外古典诗歌；包括诗经、楚辞与古代乐府；不收词、曲、赋、散文及现代新诗。",
+  "selection": {
+    "basis": "编辑初选，以常见诵读篇目及适合反复阅读的名篇为优先；不是量化知名度调查。",
+    "noQuotas": "不按朝代、作者或主题分配名额；300 是本轮可审阅的选目数量，后续可调整。",
+    "counting": "完整单首计一首；组诗成员分别计数，正文异本不重复计数。",
+    "appImport": false
+  },
+  "referenceBooks": [
+    {"title": "中国历代诗歌选", "editors": "林庚、冯沅君", "role": "跨时代选目与文学史脉络参考", "url": "https://www.sdu.edu.cn/info/1011/1105.htm"},
+    {"title": "诗经选", "editor": "余冠英", "role": "诗经选篇、篇名与注音定本的后续核对", "url": "https://www.cp.com.cn/book/1fffb8c2-2.html"},
+    {"title": "楚辞选", "editor": "马茂元", "role": "楚辞篇章边界、版本与署名核对", "url": "https://www.cp.com.cn/book/205efd24-f.html"},
+    {"title": "汉魏六朝诗选", "editor": "余冠英", "role": "古诗、乐府与汉魏六朝诗篇核对", "url": "https://www.cp.com.cn/book/09e0ec62-a.html"},
+    {"title": "宋诗选注", "editor": "钱锺书", "role": "宋诗选篇及诗味的参考，不照搬评注", "url": "https://lib.nuist.edu.cn/info/1376/7732.htm"},
+    {"title": "元明清诗鉴赏辞典", "publisher": "上海辞书出版社", "role": "金元明清名篇及后续版本核查", "url": "https://www.cishu.com.cn/BookDetailShow.aspx?ID=3011"},
+    {"title": "古诗源", "editor": "沈德潜", "role": "唐以前诗歌的补充检索；参考书目，非本批正文底本", "url": "https://www.cp.com.cn/book/d63b6bdc-a.html"}
+  ],
+  "referenceLimit": "本轮查验书目信息并参考其覆盖范围；没有逐首对照上述纸本目录或正文。各条 bookMembershipStatus 均为 not-verified-poem-by-poem，不能宣称300首全部见于这些书。",
+  "textSources": [
+    {"repository": "aopao/chinese-gushiwen", "commit": "c2345d0abf2404b8b3601e4afc2e8fd12f90d6c8", "role": "主要网络转录正文；本轮读取10000条记录，按编辑选目取用。", "licenseStatus": "未见可确认的仓库整体开放许可；不把该仓库宣称为MIT。只保存古代公版诗文与事实性元数据，不复制现代译文、赏析、配音或图片。"},
+    {"repository": "chinese-poetry/chinese-poetry", "commit": "b8594f81a89752241442f2ce267d6f66f96704ee", "file": "诗经/shijing.json", "role": "补充溱洧与东山", "licenseFile": "CHINESE_POETRY_LICENSE.txt"},
+    {"provider": "古诗文网/古文岛", "role": "补充岳鄂王墓、登金陵雨花台望大江古诗正文；单独保存访问日期、网址与转录哈希。"}
+  ],
+  "textHandling": [
+    "不复制现代译注赏析；来源正文内的异文括注另存，源记录原样留档。",
+    "先分离括注，再以固定字符起止位置提取完整组诗成员或一种完整读法；不能按界面长度截诗。",
+    "简体展示经OpenCC t2s转换，原始字形另存；后续制作繁体版应另行定本，不直接把简体反转为古籍原文。",
+    "有序的诗把原序单独保存；不将序文计入诗歌正文。",
+    "字数只作形态描述，不把魏晋八句五言诗机械认作五言律诗。",
+    "与现有三卷的各正文见证比对，归一化繁简及标点，0.70及以上相似度列为待审候选；不是跨全部中国古籍的穷尽查重。"
+  ],
+  "releaseGate": "选目、版本、署名及逐字校对完成后方可导入；现阶段 publicationReady=false。"
+}

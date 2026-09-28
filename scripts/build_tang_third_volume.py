@@ -16,6 +16,7 @@ OUT = ROOT / 'data/expansion/tang-third-volume'
 CORPUS = ROOT / 'data/expansion/tang-yizhu/poems.json'
 APP = ROOT / 'data/final/tang_poems_final.json'
 XIEYING = ROOT / 'data/expansion/tang-yizhu/xieying/matched-poems.json'
+SECOND_VOLUME = ROOT / 'data/expansion/tang-second-volume/poems.json'
 DATE = '2026-09-28'
 THRESHOLD = .70
 ADDITIONAL = OUT / 'sources/additional-qts.json'
@@ -151,11 +152,12 @@ def main():
     app = read(APP)['poems']
     xieying_doc = read(XIEYING)
     xe = [p for e in xieying_doc['entries'] for p in e.get('poems', [])]
+    second = read(SECOND_VOLUME)['poems']
     print('Checking all text witnesses against both baseline volumes...', flush=True)
-    overlap = duplicate_candidates(poems, app + xe)
+    overlap = duplicate_candidates(poems, app + second)
     internal = duplicate_candidates(poems, poems, same_collection=True)
     # Only exact normalized matches are merged for the release-plan arithmetic.
-    baseline_unique = len({key(p['text']) for p in app + xe})
+    baseline_unique = len({key(p['text']) for p in app + second})
     cross = [{'appId': a['id'], 'appTitle': a['title'], 'xieyingId': b['id'], 'xieyingTitle': b['title'],
               'author': a['author']} for a in app for b in xe if key(a['text']) == key(b['text'])]
     inherited_issues = [{'id': p['id'], 'title': p['title'], 'author': p['author'],
@@ -180,7 +182,7 @@ def main():
              'bySourceAuthor': dict(sorted(Counter(p['author'] for p in poems).items(), key=lambda x: (-x[1], x[0]))),
              'editionDecisions': sum(bool(p['editorialDecisions']) for p in poems),
              'longPoemsOver24Sentences': sum(p['form']['sentenceCount'] > 24 for p in poems)}
-    inputs = [CORPUS, APP, XIEYING, OUT/'selection.json', OUT/'sources/editions.json',
+    inputs = [CORPUS, APP, XIEYING, SECOND_VOLUME, OUT/'selection.json', OUT/'sources/editions.json',
               OUT/'sources/editorial-notes.json', OUT/'sources/methodology.json',
               OUT/'sources/retained-93.json', ADDITIONAL, OUT/'sources/popularity-revision.json',
               OUT/'sources/selection-before-popularity-review.json']
@@ -188,13 +190,15 @@ def main():
              'deduplication': {'normalization': 'build_tang_yizhu.key: punctuation removed, simplified + explicit glyph folding',
                               'allAvailableTextWitnessesCompared': True, 'authorsNotUsedAsFilter': True,
                               'similarityCandidateThreshold': THRESHOLD, 'algorithm': 'difflib.SequenceMatcher(autojunk=False); character-multiset upper bound prefilter',
-                              'scope': 'current 320 app records + 305 Xieying provisional selected records; not all historical anthologies',
+                              'scope': 'current 320 app records + 305 second-volume App selections (304 Xieying + 1 editorial supplement); not all historical anthologies',
                               'baselineCandidates': overlap, 'internalCandidates': internal,
                               'sharedSourceRecordIdsChecked': True},
              'baseline': {'appPoems': len(app), 'xieyingPoems': len(xe), 'crossVolumeExactMatches': cross,
+                          'crossVolumeExactMatchesScope': 'original Xieying catalogue vs App; overlap excluded in second-volume App selection',
+                          'secondVolumeSelectedPoems': len(second),
                           'uniquePoems': baseline_unique,
                           'xieyingUserConfirmedPoems': sum(len(e.get('poems', [])) for e in xieying_doc['entries'] if e['status']=='user-confirmed-selection')},
-             'releasePlan': {'volume1': len(app), 'volume2Gross': len(xe), 'volume2NetNew': baseline_unique-len(app),
+             'releasePlan': {'volume1': len(app), 'volume2Gross': len(second), 'volume2NetNew': baseline_unique-len(app),
                              'volume3NetNew': len(poems), 'uniqueTotal': baseline_unique+len(poems),
                              'status': 'planned; volume2 and volume3 not imported'},
              'inheritedReviewFlags': inherited_issues, 'editorialReviewNotes': special,

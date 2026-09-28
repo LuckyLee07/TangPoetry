@@ -30,6 +30,7 @@ class ThirdVolumeTest(unittest.TestCase):
         cls.corpus = builder.load_corpus()
         cls.app = read(builder.APP)['poems']
         cls.xieying = [p for e in read(builder.XIEYING)['entries'] for p in e.get('poems', [])]
+        cls.second = read(builder.SECOND_VOLUME)['poems']
         cls.audit = read(OUT / 'audit.json')
 
     def test_300_distinct_poems_and_all_prior_93_retained(self):
@@ -91,13 +92,13 @@ class ThirdVolumeTest(unittest.TestCase):
     def test_no_overlap_with_actual_two_volume_baseline(self):
         self.assertEqual(len(self.app), 320)
         self.assertEqual(len(self.xieying), 305)
-        baseline_texts = {key(p['text']) for p in self.app + self.xieying}
-        self.assertEqual(len(baseline_texts), 624)
+        baseline_texts = {key(p['text']) for p in self.app + self.second}
+        self.assertEqual(len(baseline_texts), 625)
         new_texts = {key(p['text']) for p in self.poems}
         self.assertEqual(len(new_texts), 300)
         self.assertFalse(new_texts & baseline_texts)
-        self.assertEqual(len(new_texts | baseline_texts), 924)
-        baseline_source_ids = {i for p in self.app + self.xieying for i in p.get('sourceRecordIds', [])}
+        self.assertEqual(len(new_texts | baseline_texts), 925)
+        baseline_source_ids = {i for p in self.app + self.second for i in p.get('sourceRecordIds', [])}
         for p in self.poems:
             self.assertFalse(set(p['sourceRecordIds']) & baseline_source_ids)
         self.assertEqual(self.audit['deduplication']['baselineCandidates'], [])
@@ -172,7 +173,7 @@ class ThirdVolumeTest(unittest.TestCase):
             self.assertEqual(hashlib.sha256(path.read_bytes()).hexdigest(), item['sha256'])
         outputs = ['poems.json', 'audit.json', 'CATALOG.md', 'POEMS.md', 'REVIEW.md', 'REVISION.md']
         before = {n: (OUT / n).read_bytes() for n in outputs}
-        protected = {p: p.read_bytes() for p in (builder.APP, builder.XIEYING, builder.CORPUS)}
+        protected = {p: p.read_bytes() for p in (builder.APP, builder.XIEYING, builder.SECOND_VOLUME, builder.CORPUS)}
         completed = subprocess.run([sys.executable, str(ROOT / 'scripts/build_tang_third_volume.py')],
                                    cwd=ROOT, capture_output=True, text=True)
         self.assertEqual(completed.returncode, 0, completed.stderr)
