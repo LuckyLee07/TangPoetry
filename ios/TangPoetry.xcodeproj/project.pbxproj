@@ -23,6 +23,7 @@
 		5DC2D37F5AA4D77ECD4D6DA6 /* ReadingHistory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C1C390DDFEC6B9237450DD6 /* ReadingHistory.swift */; };
 		5ED9D7D476B5A08AFFD27DF8 /* ReadingHistoryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60EFF9D306FD3A8BD30985AC /* ReadingHistoryTests.swift */; };
 		610E88C9236969EED6504338 /* TangPoetryApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A83B85B4AA67DAFDD3E00B83 /* TangPoetryApp.swift */; };
+		7D8C61D65D66520186C1AFDC /* VolumeSelectionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A905D2E431188A5753A0C27D /* VolumeSelectionTests.swift */; };
 		895B76EFD25E57BF94A58D2B /* PoemLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D40D206DB7CB7E1ABD1B9F9 /* PoemLayout.swift */; };
 		8A6EC3207EB05BB6F185A350 /* ReaderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DFA57F908434B6F49EC3DF9 /* ReaderTests.swift */; };
 		9F040172F315846C325BBB14 /* Content in Resources */ = {isa = PBXBuildFile; fileRef = 13ABFE1F727F5E72BD849F36 /* Content */; };
@@ -68,6 +69,7 @@
 		8B6380B9C195168262907848 /* PoemExtras.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PoemExtras.swift; sourceTree = "<group>"; };
 		9DFA57F908434B6F49EC3DF9 /* ReaderTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReaderTests.swift; sourceTree = "<group>"; };
 		A83B85B4AA67DAFDD3E00B83 /* TangPoetryApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TangPoetryApp.swift; sourceTree = "<group>"; };
+		A905D2E431188A5753A0C27D /* VolumeSelectionTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VolumeSelectionTests.swift; sourceTree = "<group>"; };
 		BD8059AD04A99CE6ED273D18 /* ListeningAndPagingTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListeningAndPagingTests.swift; sourceTree = "<group>"; };
 		BD9891FAF9CCC2EDD9B6FB86 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		C2289FF90704AB956B18DF63 /* PoemPager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PoemPager.swift; sourceTree = "<group>"; };
@@ -89,6 +91,7 @@
 				9DFA57F908434B6F49EC3DF9 /* ReaderTests.swift */,
 				C61ABCE6D9B8F58A36AC4089 /* ReadingContinuityTests.swift */,
 				60EFF9D306FD3A8BD30985AC /* ReadingHistoryTests.swift */,
+				A905D2E431188A5753A0C27D /* VolumeSelectionTests.swift */,
 			);
 			path = Tests;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 				8A6EC3207EB05BB6F185A350 /* ReaderTests.swift in Sources */,
 				36F362FE084B13B30C9E1CE7 /* ReadingContinuityTests.swift in Sources */,
 				5ED9D7D476B5A08AFFD27DF8 /* ReadingHistoryTests.swift in Sources */,
+				7D8C61D65D66520186C1AFDC /* VolumeSelectionTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

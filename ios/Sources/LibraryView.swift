@@ -23,6 +23,11 @@ struct LibraryView: View {
         var seen = Set<String>()
         return store.poems.map(\.section).filter { seen.insert($0).inserted }
     }
+    private var genreCategories: [String] {
+        var seen = Set<String>()
+        return store.poems.flatMap { [$0.section, $0.genre].compactMap { $0 } }.filter { seen.insert($0).inserted }
+    }
+    private var themes: [String] { Array(Set(store.poems.map(\.theme))).filter { !genreCategories.contains($0) }.sorted() }
     private var groupedResults: [(section: String, poems: [PoemSummary])] {
         let groups = Dictionary(grouping: results, by: \.section)
         return sections.compactMap { section in
@@ -123,8 +128,8 @@ struct LibraryView: View {
     private var categoryPicker: some View {
         Picker("分类", selection: $category) {
             Text("全部分类").tag("all")
-            Section("体裁") { ForEach(sections, id: \.self) { Text($0).tag($0) } }
-            Section("主题") { ForEach(Array(Set(store.poems.map(\.theme))).sorted(), id: \.self) { Text($0).tag($0) } }
+            Section("体裁") { ForEach(genreCategories, id: \.self) { Text($0).tag($0) } }
+            if !themes.isEmpty { Section("主题") { ForEach(themes, id: \.self) { Text($0).tag($0) } } }
         }.pickerStyle(.menu)
     }
 
@@ -185,10 +190,16 @@ struct SettingsView: View {
                     Button("保存或分享当前诗笺", action: sharePoem)
                     Button("我的收藏 · \(store.favorites.count) 首", action: openFavorites)
                 }
-                CoverMotionSetting()
-                GentleMotionSetting()
+                if store.volume == .first {
+                    CoverMotionSetting()
+                    GentleMotionSetting()
+                }
                 Section("听诗") {
-                    Text("全库 320 首均可离线朗读，采用「晓晓 · 诗歌朗读」。在诗页轻点「听诗」开始，可按体裁更换诗词；换到另一首诗时会停止当前朗读。")
+                    if store.narrationAvailable {
+                        Text("本卷 \(store.poems.count) 首均可离线朗读，采用「晓晓 · 诗歌朗读」。在诗页轻点「听诗」开始，可按体裁更换诗词；换到另一首诗时会停止当前朗读。")
+                    } else {
+                        Text("本卷朗读音频正在制作中。诗文、插画与注释均可离线阅读。")
+                    }
                     Text("开启系统「减少动态效果」时，翻页自动使用无动画模式。")
                 }.font(.footnote).foregroundStyle(.secondary)
                 Section("关于唐诗画笺") {
@@ -227,7 +238,7 @@ struct NotesView: View {
                         }
                     }
                     NotesSection(title: "题序", paragraphs: detail.preface.isEmpty ? [] : [detail.preface.joined()])
-                    NotesSection(title: "原题", paragraphs: detail.sourceTitle == detail.title ? [] : [detail.sourceTitle])
+                    NotesSection(title: "原题", paragraphs: detail.readingSourceTitle == detail.title ? [] : [detail.readingSourceTitle])
                 }.frame(maxWidth: .infinity, alignment: .leading).padding(24)
             }.background(store.settings.paperColor)
             .navigationTitle(detail.title).navigationBarTitleDisplayMode(.inline)

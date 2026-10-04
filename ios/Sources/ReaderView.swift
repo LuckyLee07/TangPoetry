@@ -41,7 +41,10 @@ struct ReaderView: View {
             if let error = store.loadError {
                 ContentUnavailableView {
                     Label("诗库暂未打开", systemImage: "book.closed")
-                } description: { Text(error) } actions: { Button("重试") { store.load() } }
+                } description: { Text(error) } actions: {
+                    Button("重试") { store.load() }
+                    if store.volume != .first { Button("返回第一卷") { store.switchVolume(.first) } }
+                }
             } else if home {
                 cover
             } else {
@@ -51,6 +54,7 @@ struct ReaderView: View {
         .foregroundStyle(Color(red: 0.19, green: 0.17, blue: 0.14))
         .background(ReaderTouchObserver { touching in controls.setSuspended("touch", touching) })
         .onAppear {
+            narration.selectVolume(store.volume)
             controls.setSuspended("home", home)
             controls.setSuspended("scene", scenePhase != .active)
             controls.setSuspended("voiceOver", UIAccessibility.isVoiceOverRunning)
@@ -106,6 +110,12 @@ struct ReaderView: View {
             if isHome { store.flushReadingProgress() }
             else { store.beginReadingVisit(); controls.interacted(reveal: true) }
         }
+        .onChange(of: store.volume) { _, value in
+            narration.selectVolume(value)
+            home = true
+            sheet = nil
+            notesOpen = false
+        }
         .onChange(of: store.selectedID) { _, id in
             if narration.track?.id != id { narration.stop() }
             // Turning a page preserves the reader's chosen chrome visibility.
@@ -122,7 +132,7 @@ struct ReaderView: View {
                             Text("唐诗画笺").font(.custom("STSongti-SC-Regular", size: 32, relativeTo: .largeTitle))
                                 .multilineTextAlignment(.center).accessibilityAddTraits(.isHeader)
                             coverIntroduction
-                            CoverPoemButton(poems: store.poems, open: openCoverPoem)
+                            CoverPoemButton(poems: store.poems, poemID: store.coverPoemID, open: openCoverPoem)
                             Text("\(store.poems.count) 首 · \(store.poems.filter(\.dedicatedArt).count) 幅画笺").font(.caption)
                             VStack(spacing: 16) { coverButtons }.controlSize(.large).buttonBorderShape(.capsule)
                         }.frame(maxWidth: .infinity).padding(28)
@@ -137,7 +147,7 @@ struct ReaderView: View {
                 }.padding(.top, 42).padding(.trailing, 42)
                 VStack(spacing: 20) {
                     Spacer()
-                    CoverPoemButton(poems: store.poems, open: openCoverPoem)
+                    CoverPoemButton(poems: store.poems, poemID: store.coverPoemID, open: openCoverPoem)
                     coverIntroduction
                     Text("\(store.poems.count) 首 · \(store.poems.filter(\.dedicatedArt).count) 幅画笺").font(.caption)
                     ViewThatFits(in: .horizontal) {
@@ -151,8 +161,13 @@ struct ReaderView: View {
             .frame(width: geometry.size.width, height: geometry.size.height)
             .background {
                 GeometryReader { canvas in
-                    CoverAtmosphere(active: sheet == nil, paperColor: store.settings.paperColor)
-                        .frame(width: canvas.size.width, height: canvas.size.height).clipped()
+                    Group {
+                        if store.volume == .first {
+                            CoverAtmosphere(active: sheet == nil, paperColor: store.settings.paperColor)
+                        } else if let poem = store.poems.first(where: { $0.id == store.coverPoemID }) {
+                            Artwork(path: poem.image).opacity(0.58)
+                        }
+                    }.frame(width: canvas.size.width, height: canvas.size.height).clipped()
                 }.ignoresSafeArea(.container)
             }
         }
@@ -161,7 +176,15 @@ struct ReaderView: View {
     private var coverIntroduction: some View {
         VStack(spacing: 6) {
             Text("一页一诗，一诗一画")
-            Text("唐诗三百首 · 孙洙选本")
+            Text(store.volumeSubtitle)
+            if store.availableVolumes.count > 1 {
+                Menu {
+                    ForEach(store.availableVolumes) { volume in
+                        Button(volume.label) { store.switchVolume(volume) }
+                    }
+                } label: { Label(store.volume.label, systemImage: "chevron.down") }
+                .accessibilityLabel("选择诗卷，当前\(store.volume.label)")
+            }
         }.font(.caption).foregroundStyle(.secondary)
             .multilineTextAlignment(.center).fixedSize(horizontal: false, vertical: true)
     }
@@ -224,11 +247,13 @@ struct ReaderView: View {
                                 Button { store.turn(1) } label: { Image(systemName: "chevron.right").font(.system(size: 17)).frame(width: 44, height: 44) }.disabled(store.readingIndex == store.readingPoems.count - 1).accessibilityLabel("下一首")
                             }
                             HStack {
-                                tool(narration.isPlaying ? "听着" : "听诗",
-                                     label: narration.isPlaying ? "打开朗读播放器，正在播放" : "朗读这首诗") {
-                                    if let poem = store.poems.first(where: { $0.id == store.selectedID }) {
-                                        narration.load(poem)
-                                        sheet = .narration
+                                if store.narrationAvailable {
+                                    tool(narration.isPlaying ? "听着" : "听诗",
+                                         label: narration.isPlaying ? "打开朗读播放器，正在播放" : "朗读这首诗") {
+                                        if let poem = store.poems.first(where: { $0.id == store.selectedID }) {
+                                            narration.load(poem)
+                                            sheet = .narration
+                                        }
                                     }
                                 }
                                 Spacer()
@@ -265,9 +290,9 @@ struct ReaderView: View {
                     .accessibilityAction(named: Text("显示阅读工具")) { controls.interacted(reveal: true) }
                 }
                     .padding(.bottom, 10)
-                    .opacity(controls.isVisible ? 0 : 1)
-                    .allowsHitTesting(!controls.isVisible)
-                    .accessibilityHidden(controls.isVisible)
+                    .opacity(controls.isVisible || !store.narrationAvailable ? 0 : 1)
+                    .allowsHitTesting(!controls.isVisible && store.narrationAvailable)
+                    .accessibilityHidden(controls.isVisible || !store.narrationAvailable)
                     .animation(reduceMotion ? nil : .easeInOut(duration: controls.isVisible ? 0.18 : 0.8), value: controls.isVisible)
             }
         }
@@ -307,7 +332,7 @@ struct PoemPageView: View {
                     .contentShape(Rectangle()).onTapGesture(perform: toggleControls)
                 GentleArtworkMotion(poemID: poem.id, active: motionActive && !showNotes && store.selectedID == poem.id)
                 ZStack(alignment: .top) {
-                    Text(poem.section).font(.caption2).foregroundStyle(.secondary)
+                    Text(poem.genre ?? poem.section).font(.caption2).foregroundStyle(.secondary)
                         .frame(maxWidth: .infinity, alignment: .leading).padding(.top, 68).padding(.horizontal, layout.horizontalPadding)
                         .allowsHitTesting(false)
                     VStack(spacing: 0) {

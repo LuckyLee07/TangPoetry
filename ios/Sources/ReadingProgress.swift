@@ -48,7 +48,7 @@ struct ResumablePoemText: View {
                             .multilineTextAlignment(.center).fixedSize(horizontal: false, vertical: true)
                             .contentShape(Rectangle()).onTapGesture(perform: toggleControls)
                             .accessibilityAddTraits(.isHeader)
-                        Text("唐 · \(poem.author)").font(.system(size: layout.authorSize)).foregroundStyle(.secondary)
+                        Text("\(poem.dynasty ?? "唐") · \(poem.author)").font(.system(size: layout.authorSize)).foregroundStyle(.secondary)
                             .contentShape(Rectangle()).onTapGesture(perform: toggleControls)
                     }
                     .id(PoemScrollAnchor.heading)

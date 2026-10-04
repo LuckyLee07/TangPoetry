@@ -366,3 +366,9 @@ select { min-height: 44px; max-width: 65%; padding: 5px 10px; border: 0; border-
 .poem-row-wrap { display: flex; gap: 6px; align-items: stretch; border-bottom: 1px solid var(--line); }
 .poem-row-wrap .poem-row { flex: 1; min-width: 0; width: auto; border-bottom-color: transparent; }
 .read-toggle { flex: 0 0 52px; min-height: 44px; align-self: center; font: 11px var(--sans); color: var(--ink-soft); }
+
+/* Volume selection remains a compact caption on the cover. */
+.volume-nav { display:flex; justify-content:center; gap:18px; margin:12px 0 4px; font:12px/1.8 var(--sans); }
+.volume-nav a { color:var(--ink-soft); text-decoration:none; min-height:32px; padding:5px 8px; }
+.volume-nav [aria-current="page"] { color:var(--seal); border-bottom:1px solid var(--seal); }
+.volume-nav a:focus-visible { outline:2px solid var(--seal); outline-offset:2px; }

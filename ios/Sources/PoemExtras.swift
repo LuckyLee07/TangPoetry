@@ -22,9 +22,10 @@ enum DailyPoem {
 
 struct CoverPoemButton: View {
     let poems: [PoemSummary]
+    var poemID = "tang-157-feng-yu"
     let open: (String) -> Void
     var body: some View {
-        if let poem = poems.first(where: { $0.id == "tang-157-feng-yu" }) {
+        if let poem = poems.first(where: { $0.id == poemID }) {
             Button { open(poem.id) } label: {
                 VStack(spacing: 5) {
                     Text("画中诗").font(.caption)
@@ -34,7 +35,7 @@ struct CoverPoemButton: View {
                 }.frame(maxWidth: .infinity).padding(.vertical, 12)
             }.buttonStyle(.plain)
                 .accessibilityLabel("画中诗，\(poem.title)，\(poem.author)")
-                .accessibilityHint("打开与封面风雨意境相映的诗笺")
+                .accessibilityHint("打开与封面画意相映的诗笺")
         }
     }
 }

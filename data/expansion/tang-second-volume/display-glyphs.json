@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "reviewedOn": "2026-10-04",
+  "scope": "仅供阅读呈现层和排版层恢复可读字形；不改归档 poems.json、稳定 ID、来源正文、题名别名或插画收据。此表不是新的正文择本，也不计入 text-corrections。",
+  "replacements": {
+    "𪧘": {
+      "display": "寠",
+      "sourceCodePoint": "U+2A9D8",
+      "displayCodePoint": "U+5BE0",
+      "basis": "归档𪧘是寠经项目 OpenCC t2s 转换得到的字形。Unihan 的 kTraditionalVariant 与逆向 kSimplifiedVariant 均明确对应寠；《杜工部集》电子转录该句作“贫寠”。阅读显示恢复寠，保留源字，并不换成语义近似的窭或改动“秋未”“苍卒”。",
+      "affectedOrders": [
+        28
+      ],
+      "sourceContext": "岂知秋未登，贫𪧘有苍卒。",
+      "displayContext": "岂知秋未登，贫寠有苍卒。",
+      "evidenceURLs": [
+        "https://raw.githubusercontent.com/unicode-org/unihan-database/main/kTraditionalVariant.txt",
+        "https://raw.githubusercontent.com/unicode-org/unihan-database/main/kSimplifiedVariant.txt",
+        "https://github.com/unicode-org/unihan-database",
+        "https://www.shidianguji.com/zh/book/HY1072/chapter/1kvmdpax5opir"
+      ],
+      "evidence": [
+        {
+          "kind": "unicode-maintainer-data",
+          "source": "Unicode Consortium 维护的 Unihan 审阅数据 kTraditionalVariant.txt",
+          "record": "U+2A9D8 𪧘\tkTraditionalVariant\tU+5BE0",
+          "url": "https://raw.githubusercontent.com/unicode-org/unihan-database/main/kTraditionalVariant.txt"
+        },
+        {
+          "kind": "unicode-maintainer-data",
+          "source": "Unicode Consortium 维护的 Unihan 审阅数据 kSimplifiedVariant.txt",
+          "record": "U+5BE0 寠\tkSimplifiedVariant\tU+2A9D8",
+          "url": "https://raw.githubusercontent.com/unicode-org/unihan-database/main/kSimplifiedVariant.txt"
+        },
+        {
+          "kind": "original-work-transcription",
+          "work": "杜甫《杜工部集·自京赴奉先县咏怀五百字》",
+          "reading": "豈知秋未登，貧寠有倉卒。",
+          "url": "https://www.shidianguji.com/zh/book/HY1072/chapter/1kvmdpax5opir"
+        }
+      ]
+    },
+    "𥐟": {
+      "display": "礒",
+      "sourceCodePoint": "U+2541F",
+      "displayCodePoint": "U+7912",
+      "basis": "归档𥐟是礒经项目 OpenCC t2s 转换得到的字形；Unihan 双向变体属性与古籍题名郑礒相合。显示保留这一个人名用字，源题𥐟仍存为别名，不删为郑宅或郑氏宅，不补造人物读音或身份。",
+      "affectedOrders": [
+        183
+      ],
+      "sourceContext": "盩厔县郑𥐟宅送钱大",
+      "displayContext": "盩厔县郑礒宅送钱大",
+      "evidenceURLs": [
+        "https://raw.githubusercontent.com/unicode-org/unihan-database/main/kTraditionalVariant.txt",
+        "https://raw.githubusercontent.com/unicode-org/unihan-database/main/kSimplifiedVariant.txt",
+        "https://github.com/unicode-org/unihan-database",
+        "https://ctext.org/wiki.pl?chapter=496989&if=gb",
+        "https://ctext.org/wiki.pl?chapter=892102&if=en",
+        "https://www.shidianguji.com/zh/book/SK3319/chapter/1kfmknytkecrq"
+      ],
+      "evidence": [
+        {
+          "kind": "unicode-maintainer-data",
+          "source": "Unicode Consortium 维护的 Unihan 审阅数据 kTraditionalVariant.txt",
+          "record": "U+2541F 𥐟\tkTraditionalVariant\tU+7912",
+          "url": "https://raw.githubusercontent.com/unicode-org/unihan-database/main/kTraditionalVariant.txt"
+        },
+        {
+          "kind": "unicode-maintainer-data",
+          "source": "Unicode Consortium 维护的 Unihan 审阅数据 kSimplifiedVariant.txt",
+          "record": "U+7912 礒\tkSimplifiedVariant\tU+2541F",
+          "url": "https://raw.githubusercontent.com/unicode-org/unihan-database/main/kSimplifiedVariant.txt"
+        },
+        {
+          "kind": "original-work-transcription",
+          "work": "《御定全唐诗》卷248",
+          "reading": "盩厔縣鄭礒宅送錢大",
+          "url": "https://ctext.org/wiki.pl?chapter=496989&if=gb"
+        },
+        {
+          "kind": "original-work-transcription-with-variant-note",
+          "work": "唐姚合《极玄集》",
+          "reading": "送友人；别集作盩厔縣鄭礒宅送錢大，中興集作別鄭礒",
+          "url": "https://ctext.org/wiki.pl?chapter=892102&if=en"
+        },
+        {
+          "kind": "original-work-transcription",
+          "work": "《御定全唐诗录》卷41",
+          "reading": "盩厔縣鄭礒宅送錢大",
+          "url": "https://www.shidianguji.com/zh/book/SK3319/chapter/1kfmknytkecrq"
+        }
+      ]
+    }
+  },
+  "normalizationEvidence": {
+    "package": "opencc-python-reimplemented",
+    "version": "0.1.7",
+    "reproducedOn": "2026-10-04",
+    "t2s": {
+      "input": "寠礒",
+      "observedOutput": "𪧘𥐟"
+    },
+    "s2t": {
+      "input": "𪧘𥐟",
+      "observedOutput": "寠礒"
+    },
+    "TSCharactersRecords": [
+      "寠\t𪧘",
+      "礒\t𥐟"
+    ],
+    "STCharactersRecords": [
+      "𪧘\t寠",
+      "𥐟\t礒"
+    ]
+  },
+  "notes": [
+    "𫶇另由字体覆盖检查判断；本次没有因它生僻而添加额外转换。",
+    "Unihan 主站 CGI 及 17.0.0 zip 本次未成功访问；已直接读取 Unicode 维护者仓库的对应属性记录，不把仓库审阅文件冒称已下载的正式 zip。",
+    "古籍证据为原著电子转录及其校记，未冒称已肉眼逐字核对影印纸页。",
+    "字形对应经复现确认；具体阅读字体的覆盖与截图验收由构建工序核验。"
+  ]
+}

@@ -6,7 +6,7 @@
   <meta name="theme-color" content="#f6f1e6" />
   <meta name="description" content="一页一诗，一诗一画。安静地读唐诗。" />
   <title>唐诗画笺</title>
-  <link rel="stylesheet" href="./styles.css?v=0.6.14" />
+  <link rel="stylesheet" href="./styles.css?v=0.6.15" />
   <link rel="stylesheet" href="./styles-extras.css?v=0.6.14" />
 </head>
 <body>
@@ -15,6 +15,7 @@
     <div class="home-art" aria-hidden="true"><img class="home-art-main" src="./assets/optimized/song-yuan-er-page.webp" alt="" /></div>
     <div class="home-copy"><h1>唐诗画笺<span class="home-seal" aria-hidden="true">诗</span></h1><p>一页一诗，一诗一画。</p><span class="home-kicker">唐诗三百首 · 孙洙选本</span></div>
     <div class="home-meta"><span id="homeCount">展卷中…</span><span>按体裁分卷</span><span>诗画笺读</span></div>
+    <nav class="volume-nav" aria-label="选择诗卷"><a data-volume="1" href="./index.html">第一卷</a><a data-volume="2" href="./index.html?volume=2">第二卷</a></nav>
     <div class="home-actions"><button class="home-primary" id="startReading" disabled>入卷</button><button class="home-secondary" id="homeLibrary" disabled>目录</button><button class="home-secondary" id="homeFeatured" disabled>推荐</button></div>
     <p id="homeStatus" class="home-status" role="status"></p><button id="retryCatalog" class="retry-button" hidden>重新载入</button>
   </section>
@@ -41,17 +42,19 @@
   <label class="search-box"><span class="sr-only">搜索诗名、作者或诗句</span><input id="searchInput" type="search" placeholder="诗名、作者，或记得的一句" autocomplete="off" /><span aria-hidden="true">⌕</span></label>
   <div class="collection-row" role="group" aria-label="诗集范围"><button data-collection="all" aria-pressed="true">全部</button><button data-collection="featured" aria-pressed="false">推荐</button><button data-collection="favorites" aria-pressed="false">收藏</button></div>
   <p id="recommendationHint" class="recommendation-hint" hidden>先从这 20 首读起</p>
-  <div class="reading-summary"><span id="readingTotal">已读 0 / 320 首</span><label>阅读状态<select id="readStatusFilter"><option value="all">全部进度</option><option value="unread">未读</option><option value="read">已读</option></select></label></div>
+  <div class="reading-summary"><span id="readingTotal">已读记录载入中…</span><label>阅读状态<select id="readStatusFilter"><option value="all">全部进度</option><option value="unread">未读</option><option value="read">已读</option></select></label></div>
   <label class="filter-label">分类<select id="categorySelect"><option value="all">全部分类</option></select></label>
   <label class="filter-label">作者<select id="authorSelect"><option value="all">全部作者</option></select></label>
   <p class="result-count" id="resultCount" role="status"></p><p class="reading-rule">前台阅读或听诗累计：绝句 20 秒、律诗 30 秒、古诗与乐府 40 秒，并读到末尾后记为已读；点击诗目右侧可修改。</p><p id="libraryReadNotice" class="sr-only" role="status"></p><div class="poem-list" id="poemList"></div>
 </dialog>
 <dialog id="settings" class="sheet settings-sheet" aria-labelledby="settingsTitle">
   <div class="sheet-header"><div><span class="library-kicker">依你的习惯</span><h2 id="settingsTitle">阅读设置</h2></div><button class="icon-button" data-close="settings" aria-label="关闭设置">×</button></div>
+  <label class="setting-row"><span>选择诗卷</span><select id="volumeSelect"><option value="1">第一卷 · 唐诗三百首</option><option value="2">第二卷 · 撷英与补选</option></select></label>
   <label class="setting-row"><span>显示简注</span><input type="checkbox" id="settingNotes" role="switch" /></label>
   <label class="setting-row"><span>诗文字号</span><select id="fontSize"><option value="20">小</option><option value="22">标准</option><option value="26">大</option><option value="30">特大</option></select></label>
   <fieldset class="paper-picker"><legend>界面纸色</legend><label><input type="radio" name="paper" value="warm" />暖纸</label><label><input type="radio" name="paper" value="ivory" />素白</label><label><input type="radio" name="paper" value="sage" />青笺</label></fieldset>
   <button class="setting-row setting-link" id="manageFavorites"><span>我的收藏</span><span id="favoriteCount">0 首 ›</span></button>
+  <p id="narrationAvailability" class="extras-hint" hidden>本卷朗读音频正在制作中。诗文、插画与注释均可正常阅读。</p>
   <label class="setting-row"><span>首页风雨</span><input id="settingCoverMotion" type="checkbox" role="switch" aria-describedby="coverMotionHint" checked /></label>
   <p class="extras-hint" id="coverMotionHint">柳条轻摆，细雨轻落。默认开启，可随时关闭。</p>
   <div class="about"><h3>唐诗画笺</h3><p>一页一诗，一诗一画。</p><p>阅读位置、已读记录、收藏与设置仅保存在当前设备。无需账号，无广告、无统计追踪。</p><p>诗文按体裁分卷，同体裁内沿用选本书序，部分题名保留常用别名。文字与简注持续校订。版本 0.6.14</p></div>
@@ -68,6 +71,6 @@
   <p class="narration-hint">换到另一首诗时，当前朗读会停止。</p>
 </dialog>
 <noscript>请开启 JavaScript 后阅读诗笺。</noscript>
-<script type="module" src="./app.js?v=0.6.14"></script>
+<script type="module" src="./app.js?v=0.6.16"></script>
 </body>
 </html>

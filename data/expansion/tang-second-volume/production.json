@@ -14,7 +14,7 @@
     "illustrationBytes": 651071883,
     "pendingIllustrationOrders": [],
     "editorialNotePoemCount": 95,
-    "textCorrectionCount": 6,
+    "textCorrectionCount": 11,
     "assetErrors": [],
     "allAssetsPresent": true,
     "publicationReady": false,
@@ -162,6 +162,20 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "拾穗"
       },
+      "displayTitle": "春江花月夜",
+      "displayDynasty": "唐",
+      "displayGenre": "乐府",
+      "catalogSection": "乐府",
+      "aliases": [
+        "春江花月夜",
+        "相和歌辭 春江花月夜",
+        "相和歌辞 春江花月夜"
+      ],
+      "sourceTitle": "相和歌辭 春江花月夜",
+      "formAttributes": [
+        "乐府题式"
+      ],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "春江花月夜",
         "author": "张若虚",
@@ -220,7 +234,7 @@
         "茅飞度江洒江郊，高者挂罥长林梢。",
         "下者飘转沈塘坳，南邨群童欺我老无力。",
         "忍能对面为盗贼，公然抱茅入竹去。",
-        "唇焦口燥呼不得，归来倚仗自叹息。",
+        "唇焦口燥呼不得，归来倚杖自叹息。",
         "俄顷风定云墨色，秋天漠漠向昏黑。",
         "布衾多年冷似铁，骄儿恶卧踏里裂。",
         "床床屋漏无干处，雨脚如麻未断绝。",
@@ -239,7 +253,7 @@
         "忍能对面为盗贼，",
         "公然抱茅入竹去。",
         "唇焦口燥呼不得，",
-        "归来倚仗自叹息。",
+        "归来倚杖自叹息。",
         "俄顷风定云墨色，",
         "秋天漠漠向昏黑。",
         "布衾多年冷似铁，",
@@ -255,7 +269,7 @@
         "何时眼前突兀见此屋？",
         "吾庐独破受冻死亦足。"
       ],
-      "text": "八月秋高风怒号，卷我屋上三重茅。\n茅飞度江洒江郊，高者挂罥长林梢。\n下者飘转沈塘坳，南邨群童欺我老无力。\n忍能对面为盗贼，公然抱茅入竹去。\n唇焦口燥呼不得，归来倚仗自叹息。\n俄顷风定云墨色，秋天漠漠向昏黑。\n布衾多年冷似铁，骄儿恶卧踏里裂。\n床床屋漏无干处，雨脚如麻未断绝。\n自经丧乱少睡眠，长夜沾湿何由彻。\n安得广厦千万间，大庇天下寒士俱欢颜。\n风雨不动安如山，呜呼！何时眼前突兀见此屋？\n吾庐独破受冻死亦足。",
+      "text": "八月秋高风怒号，卷我屋上三重茅。\n茅飞度江洒江郊，高者挂罥长林梢。\n下者飘转沈塘坳，南邨群童欺我老无力。\n忍能对面为盗贼，公然抱茅入竹去。\n唇焦口燥呼不得，归来倚杖自叹息。\n俄顷风定云墨色，秋天漠漠向昏黑。\n布衾多年冷似铁，骄儿恶卧踏里裂。\n床床屋漏无干处，雨脚如麻未断绝。\n自经丧乱少睡眠，长夜沾湿何由彻。\n安得广厦千万间，大庇天下寒士俱欢颜。\n风雨不动安如山，呜呼！何时眼前突兀见此屋？\n吾庐独破受冻死亦足。",
       "form": {
         "sentenceCount": 24,
         "characterCounts": [
@@ -309,6 +323,28 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "拾穗"
       },
+      "sourceText": "八月秋高风怒号，卷我屋上三重茅。\n茅飞度江洒江郊，高者挂罥长林梢。\n下者飘转沈塘坳，南邨群童欺我老无力。\n忍能对面为盗贼，公然抱茅入竹去。\n唇焦口燥呼不得，归来倚仗自叹息。\n俄顷风定云墨色，秋天漠漠向昏黑。\n布衾多年冷似铁，骄儿恶卧踏里裂。\n床床屋漏无干处，雨脚如麻未断绝。\n自经丧乱少睡眠，长夜沾湿何由彻。\n安得广厦千万间，大庇天下寒士俱欢颜。\n风雨不动安如山，呜呼！何时眼前突兀见此屋？\n吾庐独破受冻死亦足。",
+      "textCorrection": {
+        "status": "accepted-for-editorial-draft",
+        "reason": "据宋黄希、黄鹤《补注杜诗》卷十和《分门集注杜工部诗》所录“归来倚杖自叹息”，呈现层将“仗”改为“杖”，明确所指拄杖；仅校这一字。“床床”在《分门集注杜工部诗》正文及注文中重复出现，《补注杜诗》亦作“牀牀”，是有据古本读法，本稿保留“床床”，不按常见“床头”径判误字。",
+        "verificationRefs": [
+          "https://zh.wikisource.org/zh-hant/補註杜詩_(四庫全書本)/卷10",
+          "https://ctext.org/wiki.pl?chapter=226265&if=gb",
+          "https://zh.wikisource.org/wiki/Page:Sibu_Congkan0636-杜甫-分門集註杜工部詩-10-03.djvu/153"
+        ],
+        "record": "data/expansion/tang-second-volume/text-corrections.json"
+      },
+      "displayTitle": "茅屋为秋风所破歌",
+      "displayDynasty": "唐",
+      "displayGenre": "杂言古诗",
+      "catalogSection": "杂言古诗",
+      "aliases": [
+        "茅屋为秋风所破歌",
+        "茅屋爲秋風所破歌"
+      ],
+      "sourceTitle": "茅屋爲秋風所破歌",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "茅屋为秋风所破歌",
         "author": "杜甫",
@@ -338,12 +374,17 @@
           "sourceRefs": [
             "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json"
           ],
-          "verificationRefs": []
+          "verificationRefs": [
+            "https://zh.wikisource.org/zh-hant/補註杜詩_(四庫全書本)/卷10",
+            "https://ctext.org/wiki.pl?chapter=226265&if=gb",
+            "https://zh.wikisource.org/wiki/Page:Sibu_Congkan0636-杜甫-分門集註杜工部詩-10-03.djvu/153"
+          ]
         },
         "sourceTextSha256": "9a684f0d709ae41b11e54a787c19a239bc0450af10a9dfedd45f0823ba423785",
         "reviewStatus": "editorial-draft",
         "reviewNotes": [
-          "“倚仗”与通行“倚杖”需统一用字；“床床”与常见“床头”属正文待核点，释义取屋漏床湿的明确意义。"
+          "制作稿已校订：据宋黄希、黄鹤《补注杜诗》卷十和《分门集注杜工部诗》所录“归来倚杖自叹息”，呈现层将“仗”改为“杖”，明确所指拄杖；仅校这一字。“床床”在《分门集注杜工部诗》正文及注文中重复出现，《补注杜诗》亦作“牀牀”，是有据古本读法，本稿保留“床床”，不按常见“床头”径判误字。 原始 poems.json 保留原貌，本次仅用于独立编辑预览，尚非纸书终校。",
+          "初稿记录（归档底本）：“倚仗”与通行“倚杖”需统一用字；“床床”与常见“床头”属正文待核点，释义取屋漏床湿的明确意义。"
         ],
         "artDirection": "Violent autumn wind lifts thatch from a poor riverside cottage; an elderly poet braces on a staff beside the leaking doorway, dark rain clouds over the river. Convey hardship with empathy, without a melodramatic disaster collage."
       },
@@ -443,6 +484,21 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "拾穗"
       },
+      "displayTitle": "卖炭翁",
+      "displayDynasty": "唐",
+      "displayGenre": "乐府",
+      "catalogSection": "乐府",
+      "aliases": [
+        "卖炭翁",
+        "新樂府 賣炭翁\t苦官市也",
+        "新乐府 卖炭翁\t苦官市也",
+        "賣炭翁"
+      ],
+      "sourceTitle": "新樂府 賣炭翁\t苦官市也",
+      "formAttributes": [
+        "乐府题式"
+      ],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "卖炭翁",
         "author": "白居易",
@@ -565,6 +621,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "拾穗"
       },
+      "displayTitle": "李凭箜篌引",
+      "displayDynasty": "唐",
+      "displayGenre": "七言古诗",
+      "catalogSection": "七言古诗",
+      "aliases": [
+        "李凭箜篌引",
+        "李憑箜篌引"
+      ],
+      "sourceTitle": "李憑箜篌引",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "李凭箜篌引",
         "author": "李贺",
@@ -672,6 +739,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "拾穗"
       },
+      "displayTitle": "感遇诗三十八首·其二",
+      "displayDynasty": "唐",
+      "displayGenre": "五言古诗",
+      "catalogSection": "五言古诗",
+      "aliases": [
+        "感遇诗三十八首 二",
+        "感遇詩三十八首 二"
+      ],
+      "sourceTitle": "感遇詩三十八首 二",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "感遇诗三十八首 二",
         "author": "陈子昂",
@@ -771,6 +849,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "拾穗"
       },
+      "displayTitle": "使至塞上",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "使至塞上"
+      ],
+      "sourceTitle": "使至塞上",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "使至塞上",
         "author": "王维",
@@ -872,6 +960,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "拾穗"
       },
+      "displayTitle": "观猎",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "观猎",
+        "觀獵"
+      ],
+      "sourceTitle": "觀獵",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "观猎",
         "author": "王维",
@@ -971,6 +1070,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "拾穗"
       },
+      "displayTitle": "春夜喜雨",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "春夜喜雨"
+      ],
+      "sourceTitle": "春夜喜雨",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "春夜喜雨",
         "author": "杜甫",
@@ -1070,6 +1179,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "拾穗"
       },
+      "displayTitle": "左迁至蓝关示姪孙湘",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "左迁至蓝关示姪孙湘",
+        "左遷至藍關示姪孫湘"
+      ],
+      "sourceTitle": "左遷至藍關示姪孫湘",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "左迁至蓝关示姪孙湘",
         "author": "韩愈",
@@ -1171,6 +1291,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "拾穗"
       },
+      "displayTitle": "酬乐天扬州初逢席上见赠",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "酬乐天扬州初逢席上见赠",
+        "酬樂天揚州初逢席上見贈"
+      ],
+      "sourceTitle": "酬樂天揚州初逢席上見贈",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "酬乐天扬州初逢席上见赠",
         "author": "刘禹锡",
@@ -1270,6 +1401,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "拾穗"
       },
+      "displayTitle": "钱唐湖春行",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "钱唐湖春行",
+        "錢唐湖春行"
+      ],
+      "sourceTitle": "錢唐湖春行",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "钱唐湖春行",
         "author": "白居易",
@@ -1369,6 +1511,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "拾穗"
       },
+      "displayTitle": "咸阳城东楼",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "咸阳城东楼",
+        "咸陽城東樓"
+      ],
+      "sourceTitle": "咸陽城東樓",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "咸阳城东楼",
         "author": "许浑",
@@ -1460,6 +1613,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "拾穗"
       },
+      "displayTitle": "逢雪宿芙蓉山主人",
+      "displayDynasty": "唐",
+      "displayGenre": "五言绝句",
+      "catalogSection": "五言绝句",
+      "aliases": [
+        "逢雪宿芙蓉山主人"
+      ],
+      "sourceTitle": "逢雪宿芙蓉山主人",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "逢雪宿芙蓉山主人",
         "author": "刘长卿",
@@ -1546,6 +1709,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "拾穗"
       },
+      "displayTitle": "古风二首·其二",
+      "displayDynasty": "唐",
+      "displayGenre": "五言绝句",
+      "catalogSection": "五言绝句",
+      "aliases": [
+        "古风二首 二",
+        "古風二首 二"
+      ],
+      "sourceTitle": "古風二首 二",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "古风二首 二",
         "author": "李绅",
@@ -1626,6 +1800,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "拾穗"
       },
+      "displayTitle": "咏柳",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "咏柳",
+        "詠柳"
+      ],
+      "sourceTitle": "詠柳",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "咏柳",
         "author": "贺知章",
@@ -1710,6 +1895,21 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "拾穗"
       },
+      "displayTitle": "从军行·其四",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "从军行 四",
+        "相和歌辭 從軍行 四",
+        "相和歌辞 从军行 四",
+        "從軍行 四"
+      ],
+      "sourceTitle": "相和歌辭 從軍行 四",
+      "formAttributes": [
+        "乐府题式"
+      ],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "从军行 四",
         "author": "王昌龄",
@@ -1798,6 +1998,19 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "拾穗"
       },
+      "displayTitle": "从军行七首·其五",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "从军行七首 五",
+        "從軍行七首 五"
+      ],
+      "sourceTitle": "從軍行七首 五",
+      "formAttributes": [
+        "乐府题式"
+      ],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "从军行七首 五",
         "author": "王昌龄",
@@ -1882,6 +2095,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "拾穗"
       },
+      "displayTitle": "望庐山瀑布水二首·其二",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "望庐山瀑布水二首 二",
+        "望廬山瀑布水二首 二"
+      ],
+      "sourceTitle": "望廬山瀑布水二首 二",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "望庐山瀑布水二首 二",
         "author": "李白",
@@ -1966,6 +2190,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "拾穗"
       },
+      "displayTitle": "客中行",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "客中行"
+      ],
+      "sourceTitle": "客中行",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "客中行",
         "author": "李白",
@@ -2050,6 +2284,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "拾穗"
       },
+      "displayTitle": "金陵五题·石头城",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "金陵五题 石头城",
+        "金陵五題 石頭城"
+      ],
+      "sourceTitle": "金陵五題 石頭城",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "金陵五题 石头城",
         "author": "刘禹锡",
@@ -2138,6 +2383,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "拾穗"
       },
+      "displayTitle": "竹枝词二首·其一",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "竹枝词二首 一",
+        "竹枝詞二首 一"
+      ],
+      "sourceTitle": "竹枝詞二首 一",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "竹枝词二首 一",
         "author": "刘禹锡",
@@ -2222,6 +2478,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "拾穗"
       },
+      "displayTitle": "离思五首·其四",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "离思五首 四",
+        "離思五首 四"
+      ],
+      "sourceTitle": "離思五首 四",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "离思五首 四",
         "author": "元稹",
@@ -2305,6 +2572,16 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "拾穗"
       },
+      "displayTitle": "清明",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "清明"
+      ],
+      "sourceTitle": "清明",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "清明",
         "author": "杜牧",
@@ -2391,6 +2668,16 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "拾穗"
       },
+      "displayTitle": "山行",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "山行"
+      ],
+      "sourceTitle": "山行",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "山行",
         "author": "杜牧",
@@ -2475,6 +2762,16 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "拾穗"
       },
+      "displayTitle": "蜂",
+      "displayDynasty": "唐末五代",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "蜂"
+      ],
+      "sourceTitle": "蜂",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "蜂",
         "author": "罗隐",
@@ -2555,6 +2852,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "拾穗"
       },
+      "displayTitle": "社日",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "社日"
+      ],
+      "sourceTitle": "社日",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "社日",
         "author": "王驾",
@@ -2650,6 +2957,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五古"
       },
+      "displayTitle": "杂咏五首·钓鱼湾",
+      "displayDynasty": "唐",
+      "displayGenre": "五言古诗",
+      "catalogSection": "五言古诗",
+      "aliases": [
+        "杂咏五首 钓鱼湾",
+        "雜詠五首 釣魚灣"
+      ],
+      "sourceTitle": "雜詠五首 釣魚灣",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "杂咏五首 钓鱼湾",
         "author": "储光羲",
@@ -2974,6 +3292,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五古"
       },
+      "displayTitle": "自京赴奉先县咏怀五百字",
+      "displayDynasty": "唐",
+      "displayGenre": "五言古诗",
+      "catalogSection": "五言古诗",
+      "aliases": [
+        "自京赴奉先县咏怀五百字",
+        "自京赴奉先縣詠懷五百字"
+      ],
+      "sourceTitle": "自京赴奉先縣詠懷五百字",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "自京赴奉先县咏怀五百字",
         "author": "杜甫",
@@ -3104,6 +3433,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五古"
       },
+      "displayTitle": "咏田家",
+      "displayDynasty": "唐",
+      "displayGenre": "五言古诗",
+      "catalogSection": "五言古诗",
+      "aliases": [
+        "咏田家",
+        "詠田家"
+      ],
+      "sourceTitle": "詠田家",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "咏田家",
         "author": "聂夷中",
@@ -3358,6 +3698,17 @@
         ],
         "record": "data/expansion/tang-second-volume/text-corrections.json"
       },
+      "displayTitle": "长安古意",
+      "displayDynasty": "唐",
+      "displayGenre": "七言古诗",
+      "catalogSection": "七言古诗",
+      "aliases": [
+        "长安古意",
+        "長安古意"
+      ],
+      "sourceTitle": "長安古意",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "长安古意",
         "author": "卢照邻",
@@ -3538,6 +3889,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七古"
       },
+      "displayTitle": "代悲白头吟",
+      "displayDynasty": "唐",
+      "displayGenre": "七言古诗",
+      "catalogSection": "七言古诗",
+      "aliases": [
+        "代悲白头吟",
+        "代悲白頭吟"
+      ],
+      "sourceTitle": "代悲白頭吟",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "代悲白头吟",
         "author": "刘希夷",
@@ -3673,6 +4035,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七古"
       },
+      "displayTitle": "饮中八仙歌",
+      "displayDynasty": "唐",
+      "displayGenre": "七言古诗",
+      "catalogSection": "七言古诗",
+      "aliases": [
+        "饮中八仙歌",
+        "飲中八仙歌"
+      ],
+      "sourceTitle": "飲中八仙歌",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "饮中八仙歌",
         "author": "杜甫",
@@ -3782,6 +4155,21 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七古"
       },
+      "displayTitle": "雁门太守行",
+      "displayDynasty": "唐",
+      "displayGenre": "乐府",
+      "catalogSection": "乐府",
+      "aliases": [
+        "雁门太守行",
+        "相和歌辭 雁門太守行",
+        "相和歌辞 雁门太守行",
+        "雁門太守行"
+      ],
+      "sourceTitle": "相和歌辭 雁門太守行",
+      "formAttributes": [
+        "乐府题式"
+      ],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "雁门太守行",
         "author": "李贺",
@@ -3893,6 +4281,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七古"
       },
+      "displayTitle": "金铜仙人辞汉歌",
+      "displayDynasty": "唐",
+      "displayGenre": "七言古诗",
+      "catalogSection": "七言古诗",
+      "aliases": [
+        "金铜仙人辞汉歌",
+        "金銅仙人辭漢歌"
+      ],
+      "sourceTitle": "金銅仙人辭漢歌",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "金铜仙人辞汉歌",
         "author": "李贺",
@@ -4005,6 +4404,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七古"
       },
+      "displayTitle": "致酒行",
+      "displayDynasty": "唐",
+      "displayGenre": "杂言古诗",
+      "catalogSection": "杂言古诗",
+      "aliases": [
+        "致酒行"
+      ],
+      "sourceTitle": "致酒行",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "致酒行",
         "author": "李贺",
@@ -4110,6 +4519,16 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五律"
       },
+      "displayTitle": "野望",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "野望"
+      ],
+      "sourceTitle": "野望",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "野望",
         "author": "王绩",
@@ -4205,6 +4624,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "正月十五夜",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "正月十五夜"
+      ],
+      "sourceTitle": "正月十五夜",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "正月十五夜",
         "author": "苏味道",
@@ -4304,6 +4733,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "题大禹寺义公禅房",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "题大禹寺义公禅房",
+        "題大禹寺義公禪房"
+      ],
+      "sourceTitle": "題大禹寺義公禪房",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "题大禹寺义公禅房",
         "author": "孟浩然",
@@ -4403,6 +4843,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五律"
       },
+      "displayTitle": "秋夜独坐",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "秋夜独坐",
+        "秋夜獨坐"
+      ],
+      "sourceTitle": "秋夜獨坐",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "秋夜独坐",
         "author": "王维",
@@ -4502,6 +4953,16 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五律"
       },
+      "displayTitle": "塞下曲六首·其一",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "塞下曲六首 一"
+      ],
+      "sourceTitle": "塞下曲六首 一",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "塞下曲六首 一",
         "author": "李白",
@@ -4601,6 +5062,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "春日忆李白",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "春日忆李白",
+        "春日憶李白"
+      ],
+      "sourceTitle": "春日憶李白",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "春日忆李白",
         "author": "杜甫",
@@ -4699,6 +5171,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "房兵曹胡马诗",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "房兵曹胡马诗",
+        "房兵曹胡馬詩"
+      ],
+      "sourceTitle": "房兵曹胡馬詩",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "房兵曹胡马诗",
         "author": "杜甫",
@@ -4808,6 +5291,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "省试湘灵鼓瑟",
+      "displayDynasty": "唐",
+      "displayGenre": "五言排律",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "省试湘灵鼓瑟",
+        "省試湘靈鼓瑟"
+      ],
+      "sourceTitle": "省試湘靈鼓瑟",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "省试湘灵鼓瑟",
         "author": "钱起",
@@ -4918,6 +5412,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "题李凝幽居",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "题李凝幽居",
+        "題李凝幽居"
+      ],
+      "sourceTitle": "題李凝幽居",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "题李凝幽居",
         "author": "贾岛",
@@ -5019,6 +5524,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "忆江上吴处士",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "忆江上吴处士",
+        "憶江上吳處士"
+      ],
+      "sourceTitle": "憶江上吳處士",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "忆江上吴处士",
         "author": "贾岛",
@@ -5114,6 +5630,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "题扬州禅智寺",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "题扬州禅智寺",
+        "題揚州禪智寺"
+      ],
+      "sourceTitle": "題揚州禪智寺",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "题扬州禅智寺",
         "author": "杜牧",
@@ -5213,6 +5740,16 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五律"
       },
+      "displayTitle": "晚晴",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "晚晴"
+      ],
+      "sourceTitle": "晚晴",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "晚晴",
         "author": "李商隐",
@@ -5312,6 +5849,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "商山早行",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "商山早行"
+      ],
+      "sourceTitle": "商山早行",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "商山早行",
         "author": "温庭筠",
@@ -5415,6 +5962,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "秋兴八首·其一",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "秋兴八首 一",
+        "秋興八首 一"
+      ],
+      "sourceTitle": "秋興八首 一",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "秋兴八首 一",
         "author": "杜甫",
@@ -5514,6 +6072,16 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七律"
       },
+      "displayTitle": "曲江二首·其二",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "曲江二首 二"
+      ],
+      "sourceTitle": "曲江二首 二",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "曲江二首 二",
         "author": "杜甫",
@@ -5613,6 +6181,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "江上值水如海势聊短述",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "江上值水如海势聊短述",
+        "江上值水如海勢聊短述"
+      ],
+      "sourceTitle": "江上值水如海勢聊短述",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "江上值水如海势聊短述",
         "author": "杜甫",
@@ -5720,6 +6299,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "献淮宁军节度使李相公",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "献淮宁军节度使李相公",
+        "獻淮寧軍節度使李相公"
+      ],
+      "sourceTitle": "獻淮寧軍節度使李相公",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "献淮宁军节度使李相公",
         "author": "刘长卿",
@@ -5821,6 +6411,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "夏夜宿表兄话旧",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "夏夜宿表兄话旧",
+        "夏夜宿表兄話舊"
+      ],
+      "sourceTitle": "夏夜宿表兄話舊",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "夏夜宿表兄话旧",
         "author": "窦叔向",
@@ -5920,6 +6521,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "始闻秋风",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "始闻秋风",
+        "始聞秋風"
+      ],
+      "sourceTitle": "始聞秋風",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "始闻秋风",
         "author": "刘禹锡",
@@ -6023,6 +6635,16 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七律"
       },
+      "displayTitle": "放言五首·其三",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "放言五首 三"
+      ],
+      "sourceTitle": "放言五首 三",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "放言五首 三",
         "author": "白居易",
@@ -6124,6 +6746,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "别舍弟宗一",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "别舍弟宗一",
+        "別舍弟宗一"
+      ],
+      "sourceTitle": "別舍弟宗一",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "别舍弟宗一",
         "author": "柳宗元",
@@ -6227,6 +6860,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "九日齐山登高",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "九日齐安登高",
+        "九日齊安登高"
+      ],
+      "sourceTitle": "九日齊安登高",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "九日齐安登高",
         "author": "杜牧",
@@ -6328,6 +6972,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "马嵬二首·其二",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "马嵬二首 二",
+        "馬嵬二首 二"
+      ],
+      "sourceTitle": "馬嵬二首 二",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "马嵬二首 二",
         "author": "李商隐",
@@ -6433,6 +7088,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "伤乱",
+      "displayDynasty": "唐末五代",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "伤乱",
+        "傷亂"
+      ],
+      "sourceTitle": "傷亂",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "伤乱",
         "author": "韩偓",
@@ -6532,6 +7198,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "山中寡妇",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "山中寡妇",
+        "山中寡婦"
+      ],
+      "sourceTitle": "山中寡婦",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "山中寡妇",
         "author": "杜荀鹤",
@@ -6631,6 +7308,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "秋宿湘江遇雨",
+      "displayDynasty": "五代",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "秋宿湘江遇雨"
+      ],
+      "sourceTitle": "秋宿湘江遇雨",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "秋宿湘江遇雨",
         "author": "谭用之",
@@ -6726,6 +7413,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五绝"
       },
+      "displayTitle": "蝉",
+      "displayDynasty": "唐",
+      "displayGenre": "五言绝句",
+      "catalogSection": "五言绝句",
+      "aliases": [
+        "蝉",
+        "蟬"
+      ],
+      "sourceTitle": "蟬",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "蝉",
         "author": "虞世南",
@@ -6810,6 +7508,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五绝"
       },
+      "displayTitle": "于易水送人",
+      "displayDynasty": "唐",
+      "displayGenre": "五言绝句",
+      "catalogSection": "五言绝句",
+      "aliases": [
+        "于易水送人",
+        "於易水送人"
+      ],
+      "sourceTitle": "於易水送人",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "于易水送人",
         "author": "骆宾王",
@@ -6898,6 +7607,16 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五绝"
       },
+      "displayTitle": "秋浦歌十七首·其十四",
+      "displayDynasty": "唐",
+      "displayGenre": "五言绝句",
+      "catalogSection": "五言绝句",
+      "aliases": [
+        "秋浦歌十七首 十四"
+      ],
+      "sourceTitle": "秋浦歌十七首 十四",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "秋浦歌十七首 十四",
         "author": "李白",
@@ -6982,6 +7701,16 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五绝"
       },
+      "displayTitle": "秋浦歌十七首·其十五",
+      "displayDynasty": "唐",
+      "displayGenre": "五言绝句",
+      "catalogSection": "五言绝句",
+      "aliases": [
+        "秋浦歌十七首 十五"
+      ],
+      "sourceTitle": "秋浦歌十七首 十五",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "秋浦歌十七首 十五",
         "author": "李白",
@@ -7066,6 +7795,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五绝"
       },
+      "displayTitle": "独坐敬亭山",
+      "displayDynasty": "唐",
+      "displayGenre": "五言绝句",
+      "catalogSection": "五言绝句",
+      "aliases": [
+        "独坐敬亭山",
+        "獨坐敬亭山"
+      ],
+      "sourceTitle": "獨坐敬亭山",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "独坐敬亭山",
         "author": "李白",
@@ -7146,6 +7886,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五绝"
       },
+      "displayTitle": "绝句二首·其一",
+      "displayDynasty": "唐",
+      "displayGenre": "五言绝句",
+      "catalogSection": "五言绝句",
+      "aliases": [
+        "绝句二首 一",
+        "絕句二首 一"
+      ],
+      "sourceTitle": "絕句二首 一",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "绝句二首 一",
         "author": "杜甫",
@@ -7230,6 +7981,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五绝"
       },
+      "displayTitle": "剑客",
+      "displayDynasty": "唐",
+      "displayGenre": "五言绝句",
+      "catalogSection": "五言绝句",
+      "aliases": [
+        "剑客",
+        "劍客"
+      ],
+      "sourceTitle": "劍客",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "剑客",
         "author": "贾岛",
@@ -7316,6 +8078,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五绝"
       },
+      "displayTitle": "江行无题一百首·其六十八",
+      "displayDynasty": "唐",
+      "displayGenre": "五言绝句",
+      "catalogSection": "五言绝句",
+      "aliases": [
+        "江行无题一百首 六十八",
+        "江行無題一百首 六十八"
+      ],
+      "sourceTitle": "江行無題一百首 六十八",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "江行无题一百首 六十八",
         "author": "钱珝",
@@ -7400,6 +8173,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五绝"
       },
+      "displayTitle": "题红叶",
+      "displayDynasty": "唐",
+      "displayGenre": "五言绝句",
+      "catalogSection": "五言绝句",
+      "aliases": [
+        "题红叶",
+        "題紅葉"
+      ],
+      "sourceTitle": "題紅葉",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "题红叶",
         "author": "宣宗宫人",
@@ -7490,6 +8274,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五绝"
       },
+      "displayTitle": "答人",
+      "displayDynasty": "唐",
+      "displayGenre": "五言绝句",
+      "catalogSection": "五言绝句",
+      "aliases": [
+        "荅人"
+      ],
+      "sourceTitle": "荅人",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "荅人",
         "author": "太上隐君",
@@ -7573,6 +8367,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "塞上听吹笛",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "塞上听吹笛",
+        "塞上聽吹笛"
+      ],
+      "sourceTitle": "塞上听吹笛",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "塞上听吹笛",
         "author": "高适",
@@ -7659,6 +8464,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七绝"
       },
+      "displayTitle": "别董大二首·其一",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "别董大二首 一",
+        "別董大二首 一"
+      ],
+      "sourceTitle": "別董大二首 一",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "别董大二首 一",
         "author": "高适",
@@ -7743,6 +8559,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "赠汪伦",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "赠汪伦",
+        "贈汪倫"
+      ],
+      "sourceTitle": "贈汪倫",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "赠汪伦",
         "author": "李白",
@@ -7827,6 +8654,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "望天门山",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "望天门山",
+        "望天門山"
+      ],
+      "sourceTitle": "望天門山",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "望天门山",
         "author": "李白",
@@ -7915,6 +8753,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "与史郎中钦听黄鹤楼上吹笛",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "与史郎中钦听黄鹤楼上吹笛",
+        "與史郎中欽聽黃鶴樓上吹笛"
+      ],
+      "sourceTitle": "與史郎中欽聽黃鶴樓上吹笛",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "与史郎中钦听黄鹤楼上吹笛",
         "author": "李白",
@@ -7999,6 +8848,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "戏赠杜甫",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "戏赠杜甫",
+        "戲贈杜甫"
+      ],
+      "sourceTitle": "戲贈杜甫",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "戏赠杜甫",
         "author": "李白",
@@ -8083,6 +8943,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "戏为六绝句·其二",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "戏为六绝句 二",
+        "戲爲六絕句 二"
+      ],
+      "sourceTitle": "戲爲六絕句 二",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "戏为六绝句 二",
         "author": "杜甫",
@@ -8171,6 +9042,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "赠花卿",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "赠花卿",
+        "贈花卿"
+      ],
+      "sourceTitle": "贈花卿",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "赠花卿",
         "author": "杜甫",
@@ -8261,6 +9143,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "兰溪棹歌",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "兰溪棹歌",
+        "蘭溪棹歌"
+      ],
+      "sourceTitle": "蘭溪棹歌",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "兰溪棹歌",
         "author": "戴叔伦",
@@ -8345,6 +9238,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "题都城南庄",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "题都城南庄",
+        "題都城南莊"
+      ],
+      "sourceTitle": "題都城南莊",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "题都城南庄",
         "author": "崔护",
@@ -8429,6 +9333,16 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七绝"
       },
+      "displayTitle": "春雪",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "春雪"
+      ],
+      "sourceTitle": "春雪",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "春雪",
         "author": "韩愈",
@@ -8509,6 +9423,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "早春呈水部张十八员外二首·其一",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "早春呈水部张十八员外二首 一",
+        "早春呈水部張十八員外二首 一"
+      ],
+      "sourceTitle": "早春呈水部張十八員外二首 一",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "早春呈水部张十八员外二首 一",
         "author": "韩愈",
@@ -8597,6 +9522,16 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七绝"
       },
+      "displayTitle": "浪淘沙九首·其一",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "浪淘沙九首 一"
+      ],
+      "sourceTitle": "浪淘沙九首 一",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "浪淘沙九首 一",
         "author": "刘禹锡",
@@ -8685,6 +9620,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "再游玄都观",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "再游玄都观",
+        "再遊玄都觀"
+      ],
+      "sourceTitle": "再遊玄都觀",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "再游玄都观",
         "author": "刘禹锡",
@@ -8769,6 +9715,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "赏牡丹",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "赏牡丹",
+        "賞牡丹"
+      ],
+      "sourceTitle": "賞牡丹",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "赏牡丹",
         "author": "刘禹锡",
@@ -8859,6 +9816,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七绝"
       },
+      "displayTitle": "秋词二首·其一",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "秋词二首 一",
+        "秋詞二首 一"
+      ],
+      "sourceTitle": "秋詞二首 一",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "秋词二首 一",
         "author": "刘禹锡",
@@ -8943,6 +9911,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "暮江吟",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "暮江吟"
+      ],
+      "sourceTitle": "暮江吟",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "暮江吟",
         "author": "白居易",
@@ -8984,16 +9962,16 @@
       "author": "杜牧",
       "dynasty": "唐",
       "paragraphs": [
-        "千里莺啼绿映江，水村山郭酒旗风。",
+        "千里莺啼绿映红，水村山郭酒旗风。",
         "南朝四百八十寺，多少楼台烟雨中。"
       ],
       "sentences": [
-        "千里莺啼绿映江，",
+        "千里莺啼绿映红，",
         "水村山郭酒旗风。",
         "南朝四百八十寺，",
         "多少楼台烟雨中。"
       ],
-      "text": "千里莺啼绿映江，水村山郭酒旗风。\n南朝四百八十寺，多少楼台烟雨中。",
+      "text": "千里莺啼绿映红，水村山郭酒旗风。\n南朝四百八十寺，多少楼台烟雨中。",
       "form": {
         "sentenceCount": 4,
         "characterCounts": [
@@ -9027,13 +10005,34 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七绝"
       },
+      "sourceText": "千里莺啼绿映江，水村山郭酒旗风。\n南朝四百八十寺，多少楼台烟雨中。",
+      "textCorrection": {
+        "status": "accepted-for-editorial-draft",
+        "reason": "《全唐诗》卷五百二十二及《御定全唐诗录》杜牧诗明作“千里莺啼绿映红”，项目归档中也另存“红”见证；本次所核原典未取得支持“江”的古本见证。本稿据上述见证选择“红”，使绿叶红花相映的正文与诗意一致，归档“江”文保留作为来源记录；不扩大改动“千里”等另有争论的字。",
+        "verificationRefs": [
+          "https://zh.wikisource.org/zh-hant/全唐詩/卷522",
+          "https://www.shidianguji.com/zh/book/HY1028/chapter/1krd3j7ychjck"
+        ],
+        "record": "data/expansion/tang-second-volume/text-corrections.json"
+      },
+      "displayTitle": "江南春绝句",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "江南春绝句",
+        "江南春絕句"
+      ],
+      "sourceTitle": "江南春絕句",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "江南春绝句",
         "author": "杜牧",
         "order": 89,
         "summary": "江南春色在莺声、绿树、水村与酒旗间铺开。更远处，历经岁月的寺院楼台隐在烟雨里，繁丽之中又带一点深沉。",
         "interpretation": [
-          "辽阔江南处处传来黄莺啼声，绿色映着江水；水边村落、山旁城郭之间，酒旗迎风飘动。南朝留下许多寺院，到今天不知有多少楼台仍在细雨烟霭中若隐若现。春日生机与历史遗迹在同一片朦胧景色里相接。"
+          "辽阔江南处处传来黄莺啼声，绿树与红花彼此映衬；水边村落、山旁城郭之间，酒旗迎风飘动。南朝留下许多寺院，到今天不知有多少楼台仍在细雨烟霭中若隐若现。春日生机与历史遗迹在同一片朦胧景色里相接。"
         ],
         "glossary": [
           {
@@ -9054,12 +10053,16 @@
           "sourceRefs": [
             "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.28000.json"
           ],
-          "verificationRefs": []
+          "verificationRefs": [
+            "https://zh.wikisource.org/zh-hant/全唐詩/卷522",
+            "https://www.shidianguji.com/zh/book/HY1028/chapter/1krd3j7ychjck"
+          ]
         },
         "sourceTextSha256": "92c09fd19f91384ff7e69f938e8e5a6b472238741dcbdbd8b1fa2de26ccb7fe0",
         "reviewStatus": "editorial-draft",
         "reviewNotes": [
-          "底本“绿映江”与常见“绿映红”不同，释义与图像按当前底本写绿树江水，不私改成红花；讽佛与怀古等解尚有讨论，不将单一讽旨定论。"
+          "制作稿已校订：《全唐诗》卷五百二十二及《御定全唐诗录》杜牧诗明作“千里莺啼绿映红”，项目归档中也另存“红”见证；本次所核原典未取得支持“江”的古本见证。本稿据上述见证选择“红”，使绿叶红花相映的正文与诗意一致，归档“江”文保留作为来源记录；不扩大改动“千里”等另有争论的字。 原始 poems.json 保留原貌，本次仅用于独立编辑预览，尚非纸书终校。",
+          "初稿记录（归档底本）：底本“绿映江”与常见“绿映红”不同，释义与图像按当前底本写绿树江水，不私改成红花；讽佛与怀古等解尚有讨论，不将单一讽旨定论。"
         ],
         "artDirection": "Layered Jiangnan water villages and low hills in spring drizzle, green trees reflected in the river, a small plain wine flag and distant temple towers fading into mist. No text on the flag, no excessive crimson blossom."
       },
@@ -9117,6 +10120,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "过华清宫绝句三首·其一",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "过华清宫绝句三首 一",
+        "過華清宮絕句三首 一"
+      ],
+      "sourceTitle": "過華清宮絕句三首 一",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "过华清宫绝句三首 一",
         "author": "杜牧",
@@ -9205,6 +10219,18 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "叹花",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "叹花",
+        "歎花",
+        "嘆花"
+      ],
+      "sourceTitle": "歎花",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "叹花",
         "author": "杜牧",
@@ -9291,6 +10317,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "谢亭送别",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "谢亭送别",
+        "謝亭送別"
+      ],
+      "sourceTitle": "謝亭送別",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "谢亭送别",
         "author": "许浑",
@@ -9375,6 +10412,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "题鹤林寺僧舍",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "题鹤林寺僧舍",
+        "題鶴林寺僧舍"
+      ],
+      "sourceTitle": "題鶴林寺僧舍",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "题鹤林寺僧舍",
         "author": "李涉",
@@ -9459,6 +10507,18 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "宿骆氏亭寄怀崔雍衮",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "宿骆氏亭寄怀崔雍衮",
+        "宿駱氏亭寄懷崔雍衮",
+        "宿駱氏亭寄懷崔雍袞"
+      ],
+      "sourceTitle": "宿駱氏亭寄懷崔雍衮",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "宿骆氏亭寄怀崔雍衮",
         "author": "李商隐",
@@ -9547,6 +10607,19 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "寄酬韩冬郎·其一",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "韩冬郎即席为诗相送一座尽惊他日余方追吟连宵侍坐裴回久之句有老成之风因成二绝寄酬兼呈畏之员外 一",
+        "韓冬郎即席爲詩相送一座盡驚他日余方追吟連宵侍坐裴回久之句有老成之風因成二絕寄酬兼呈畏之員外 一",
+        "韓冬郎即席爲詩相送一座盡驚他日餘方追吟連宵侍坐裴回久之句有老成之風因成二絕寄酬兼呈畏之員外 一",
+        "韩冬郎即席为诗相送一座尽惊他日余方追吟连宵侍坐裴回久之句有老成之风因成二绝寄酬兼呈畏之员外·其一"
+      ],
+      "sourceTitle": "韓冬郎即席爲詩相送一座盡驚他日余方追吟連宵侍坐裴回久之句有老成之風因成二絕寄酬兼呈畏之員外 一",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "韩冬郎即席为诗相送一座尽惊他日余方追吟连宵侍坐裴回久之句有老成之风因成二绝寄酬兼呈畏之员外 一",
         "author": "李商隐",
@@ -9642,6 +10715,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "赠项斯",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "赠项斯",
+        "贈項斯"
+      ],
+      "sourceTitle": "贈項斯",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "赠项斯",
         "author": "杨敬之",
@@ -9726,6 +10810,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "淮上与友人别",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "淮上与友人别",
+        "淮上與友人別"
+      ],
+      "sourceTitle": "淮上與友人別",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "淮上与友人别",
         "author": "郑谷",
@@ -9814,6 +10909,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "下第后上永崇高侍郎",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "下第后上永崇高侍郎",
+        "下第後上永崇高侍郎"
+      ],
+      "sourceTitle": "下第後上永崇高侍郎",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "下第后上永崇高侍郎",
         "author": "高蟾",
@@ -9902,6 +11008,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "己亥岁二首·其一",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "己亥岁二首 一",
+        "己亥歲二首 一"
+      ],
+      "sourceTitle": "己亥歲二首 一",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "己亥岁二首 一",
         "author": "曹松",
@@ -9994,6 +11111,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五古"
       },
+      "displayTitle": "咏鹅",
+      "displayDynasty": "唐",
+      "displayGenre": "杂言古诗",
+      "catalogSection": "杂言古诗",
+      "aliases": [
+        "咏鹅",
+        "詠鵝"
+      ],
+      "sourceTitle": "詠鵝",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "咏鹅",
         "author": "骆宾王",
@@ -10083,6 +11211,19 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五古"
       },
+      "displayTitle": "杂歌谣辞·黄台瓜辞",
+      "displayDynasty": "唐",
+      "displayGenre": "五言古诗",
+      "catalogSection": "五言古诗",
+      "aliases": [
+        "杂歌谣辞 黄台瓜辞",
+        "雜歌謠辭 黃臺瓜辭"
+      ],
+      "sourceTitle": "雜歌謠辭 黃臺瓜辭",
+      "formAttributes": [
+        "乐府题式"
+      ],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "杂歌谣辞 黄台瓜辞",
         "author": "章怀太子",
@@ -10183,6 +11324,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五古"
       },
+      "displayTitle": "题张老松树",
+      "displayDynasty": "唐",
+      "displayGenre": "五言古诗",
+      "catalogSection": "五言古诗",
+      "aliases": [
+        "题张老松树",
+        "題張老松樹"
+      ],
+      "sourceTitle": "題張老松樹",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "题张老松树",
         "author": "宋之问",
@@ -10282,6 +11434,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五古"
       },
+      "displayTitle": "叙怀二首·其一",
+      "displayDynasty": "唐",
+      "displayGenre": "五言古诗",
+      "catalogSection": "五言古诗",
+      "aliases": [
+        "叙怀二首 一",
+        "敘懷二首 一"
+      ],
+      "sourceTitle": "敘懷二首 一",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "叙怀二首 一",
         "author": "张九龄",
@@ -10385,6 +11548,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五古"
       },
+      "displayTitle": "失题",
+      "displayDynasty": "唐",
+      "displayGenre": "五言古诗",
+      "catalogSection": "五言古诗",
+      "aliases": [
+        "失题",
+        "失題"
+      ],
+      "sourceTitle": "失題",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "失题",
         "author": "王昌龄",
@@ -10489,6 +11663,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五古"
       },
+      "displayTitle": "江上琴兴",
+      "displayDynasty": "唐",
+      "displayGenre": "五言古诗",
+      "catalogSection": "五言古诗",
+      "aliases": [
+        "江上琴兴",
+        "江上琴興"
+      ],
+      "sourceTitle": "江上琴興",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "江上琴兴",
         "author": "常建",
@@ -10611,6 +11796,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五古"
       },
+      "displayTitle": "古朗月行",
+      "displayDynasty": "唐",
+      "displayGenre": "五言古诗",
+      "catalogSection": "五言古诗",
+      "aliases": [
+        "古朗月行"
+      ],
+      "sourceTitle": "古朗月行",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "小时候把月亮认作玉盘和明镜，仿佛能看见月中的仙人、桂树与白兔。忽然圆月遭到侵蚀，天真的仰望转成了无从排遣的忧伤。",
         "interpretation": [
@@ -10718,6 +11913,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五古"
       },
+      "displayTitle": "丁督护歌",
+      "displayDynasty": "唐",
+      "displayGenre": "五言古诗",
+      "catalogSection": "五言古诗",
+      "aliases": [
+        "丁督护歌",
+        "丁督護歌"
+      ],
+      "sourceTitle": "丁督護歌",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "炎热的河岸上，役夫拉着沉重的船，连一口清水也难求。开凿巨石的人更难把石料运到江边，悲歌唱起，劳苦仿佛没有尽头。",
         "interpretation": [
@@ -10862,6 +12068,17 @@
         ],
         "record": "data/expansion/tang-second-volume/text-corrections.json"
       },
+      "displayTitle": "古风·其三",
+      "displayDynasty": "唐",
+      "displayGenre": "五言古诗",
+      "catalogSection": "五言古诗",
+      "aliases": [
+        "古风 三",
+        "古風 三"
+      ],
+      "sourceTitle": "古風 三",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "秦始皇曾以雄强之势统一天下，却又劳役万民，执意寻求长生。楼船远去，仙药无踪，最后留下的仍是陵墓中的一具遗骸。",
         "interpretation": [
@@ -10964,6 +12181,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五古"
       },
+      "displayTitle": "送杨山人归嵩山",
+      "displayDynasty": "唐",
+      "displayGenre": "五言古诗",
+      "catalogSection": "五言古诗",
+      "aliases": [
+        "送杨山人归嵩山",
+        "送楊山人歸嵩山"
+      ],
+      "sourceTitle": "送楊山人歸嵩山",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "嵩山玉女峰是心中长久的归宿，东溪松间的一轮月仿佛专为故人留着。送你归山采药，也把自己日后乘风来访的心愿寄在其中。",
         "interpretation": [
@@ -11059,6 +12287,20 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五古"
       },
+      "displayTitle": "前出塞九首·其六",
+      "displayDynasty": "唐",
+      "displayGenre": "乐府",
+      "catalogSection": "乐府",
+      "aliases": [
+        "前出塞九首 六",
+        "橫吹曲辭 前出塞九首 六",
+        "横吹曲辞 前出塞九首 六"
+      ],
+      "sourceTitle": "橫吹曲辭 前出塞九首 六",
+      "formAttributes": [
+        "乐府题式"
+      ],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "要制止侵犯，须懂得抓住关键；但用兵更应知道止境。能够守住疆界、平息侵凌，何必以多杀人为胜。",
         "interpretation": [
@@ -11160,6 +12402,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五古"
       },
+      "displayTitle": "羌村·其一",
+      "displayDynasty": "唐",
+      "displayGenre": "五言古诗",
+      "catalogSection": "五言古诗",
+      "aliases": [
+        "羌村 一"
+      ],
+      "sourceTitle": "羌村 一",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "千里归来，家人惊疑眼前的人竟然还活着。夕阳下的柴门与深夜的一盏烛火，照着乱世中像梦一样的团聚。",
         "interpretation": [
@@ -11270,6 +12522,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五古"
       },
+      "displayTitle": "观田家",
+      "displayDynasty": "唐",
+      "displayGenre": "五言古诗",
+      "catalogSection": "五言古诗",
+      "aliases": [
+        "观田家",
+        "觀田家"
+      ],
+      "sourceTitle": "觀田家",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "春雷一响，农家就开始了忙碌的耕作，直到傍晚才牵牛归来。看他们没有余粮，还担着徭役，领取俸禄的诗人不禁惭愧。",
         "interpretation": [
@@ -11445,6 +12708,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五古"
       },
+      "displayTitle": "调张籍",
+      "displayDynasty": "唐",
+      "displayGenre": "五言古诗",
+      "catalogSection": "五言古诗",
+      "aliases": [
+        "调张籍",
+        "調張籍"
+      ],
+      "sourceTitle": "調張籍",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "李白、杜甫的诗文如光焰长明，轻率的毁谤不能损伤他们。韩愈由追慕两位诗人，展开上天入海的想象，也邀张籍一同追求高远的诗境。",
         "interpretation": [
@@ -11614,6 +12888,17 @@
         ],
         "record": "data/expansion/tang-second-volume/text-corrections.json"
       },
+      "displayTitle": "观刈麦",
+      "displayDynasty": "唐",
+      "displayGenre": "五言古诗",
+      "catalogSection": "五言古诗",
+      "aliases": [
+        "观刈麦",
+        "觀刈麥"
+      ],
+      "sourceTitle": "觀刈麥",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "麦收时，壮劳力顶着炎日割麦，妇人和孩子送来饭水；一旁还有抱着孩子拾穗的穷妇。诗人想到自己不事耕种却有余粮，惭愧久久不能平息。",
         "interpretation": [
@@ -11740,6 +13025,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五古"
       },
+      "displayTitle": "李都尉古剑",
+      "displayDynasty": "唐",
+      "displayGenre": "五言古诗",
+      "catalogSection": "五言古诗",
+      "aliases": [
+        "李都尉古劒"
+      ],
+      "sourceTitle": "李都尉古劒",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "古剑静卧匣中，光如秋水，刚直不肯屈折。诗人赞美它的锋芒，更提醒持剑者：应伸张正义，不可用来报复私怨。",
         "interpretation": [
@@ -11855,6 +13150,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五古"
       },
+      "displayTitle": "长安羁旅行",
+      "displayDynasty": "唐",
+      "displayGenre": "五言古诗",
+      "catalogSection": "五言古诗",
+      "aliases": [
+        "长安羁旅行",
+        "長安羈旅行"
+      ],
+      "sourceTitle": "長安羈旅行",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "困居长安，贫穷与旅尘相伴，连春天都像与自己无关。看清逐名之地的冷暖，诗人更向往拄杖入山、远离争竞的生活。",
         "interpretation": [
@@ -11958,6 +13264,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五古"
       },
+      "displayTitle": "游终南山",
+      "displayDynasty": "唐",
+      "displayGenre": "五言古诗",
+      "catalogSection": "五言古诗",
+      "aliases": [
+        "游终南山",
+        "遊終南山"
+      ],
+      "sourceTitle": "遊終南山",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "终南山高接天地，峰顶还留着暮光，深谷却常在昏暗中。松风吹过万壑，诗人觉得心也平静端正，反悔平日太接近虚浮的名声。",
         "interpretation": [
@@ -12094,6 +13411,18 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五古"
       },
+      "displayTitle": "正乐府十篇·橡媪叹",
+      "displayDynasty": "唐",
+      "displayGenre": "五言古诗",
+      "catalogSection": "五言古诗",
+      "aliases": [
+        "正乐府十篇 橡媪叹",
+        "正樂府十篇 橡媼歎",
+        "正樂府十篇 橡媼嘆"
+      ],
+      "sourceTitle": "正樂府十篇 橡媼歎",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "秋霜里，老妇弯腰捡橡子，终日才拾满一筐，晒蒸后充作冬粮。山前的稻米却尽送官仓，贪吏还在量斗上盘剥，诗人见此泪湿衣襟。",
         "interpretation": [
@@ -12196,6 +13525,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七古"
       },
+      "displayTitle": "滕王阁",
+      "displayDynasty": "唐",
+      "displayGenre": "七言古诗",
+      "catalogSection": "七言古诗",
+      "aliases": [
+        "滕王阁",
+        "滕王閣"
+      ],
+      "sourceTitle": "滕王閣",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "江边高阁依旧，昔日的歌舞与主人早已不在。云影、山雨和悠悠江水，映出繁华流转之后的空寂。",
         "interpretation": [
@@ -12287,6 +13627,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七古"
       },
+      "displayTitle": "送刘昱",
+      "displayDynasty": "唐",
+      "displayGenre": "杂言古诗",
+      "catalogSection": "杂言古诗",
+      "aliases": [
+        "送刘昱",
+        "送劉昱"
+      ],
+      "sourceTitle": "送劉昱",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "八月江风渐冷，苇花与白浪送着友人的船远去。诗人把目光追向扬州、金陵，也把一句听雁的叮咛送进旅夜。",
         "interpretation": [
@@ -12388,6 +13739,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七古"
       },
+      "displayTitle": "人日寄杜二拾遗",
+      "displayDynasty": "唐",
+      "displayGenre": "七言古诗",
+      "catalogSection": "七言古诗",
+      "aliases": [
+        "人日寄杜二拾遗",
+        "人日寄杜二拾遺"
+      ],
+      "sourceTitle": "人日寄杜二拾遺",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "正月初七，远方友人相互思念，却都难安故乡。柳色梅花越鲜明，越照见身世的流离，以及不知明年身在何处的怅惘。",
         "interpretation": [
@@ -12494,6 +13856,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七古"
       },
+      "displayTitle": "胡笳歌送颜真卿使赴河陇",
+      "displayDynasty": "唐",
+      "displayGenre": "杂言古诗",
+      "catalogSection": "杂言古诗",
+      "aliases": [
+        "胡笳歌送颜真卿使赴河陇",
+        "胡笳歌送顏真卿使赴河隴"
+      ],
+      "sourceTitle": "胡笳歌送顏真卿使赴河隴",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "胡笳声在秋夜边关响起，曲子未完，戍卒已满怀愁绪。送友人去河陇，眼前的秦山与远处的云，也被这声音染上了离情。",
         "interpretation": [
@@ -12620,6 +13993,21 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七古"
       },
+      "displayTitle": "战城南",
+      "displayDynasty": "唐",
+      "displayGenre": "乐府",
+      "catalogSection": "乐府",
+      "aliases": [
+        "战城南",
+        "鼓吹曲辭 戰城南",
+        "鼓吹曲辞 战城南",
+        "戰城南"
+      ],
+      "sourceTitle": "鼓吹曲辭 戰城南",
+      "formAttributes": [
+        "乐府题式"
+      ],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "征战年复一年，士卒从万里远行中渐渐衰老，荒野只留下白骨和悲鸣。诗人追问无休止的杀戮，指出兵器只应在不得已时动用。",
         "interpretation": [
@@ -12736,6 +14124,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七古"
       },
+      "displayTitle": "把酒问月",
+      "displayDynasty": "唐",
+      "displayGenre": "七言古诗",
+      "catalogSection": "七言古诗",
+      "aliases": [
+        "把酒问月",
+        "把酒問月"
+      ],
+      "sourceTitle": "把酒問月",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "举杯问月，问的是月亮的来去，也是人生的短暂。古今之人如流水更替，而同一片清辉，仍照进今夜的酒杯。",
         "interpretation": [
@@ -12853,6 +14252,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七古"
       },
+      "displayTitle": "听颖师弹琴",
+      "displayDynasty": "唐",
+      "displayGenre": "杂言古诗",
+      "catalogSection": "杂言古诗",
+      "aliases": [
+        "听颖师弹琴",
+        "聽穎師彈琴"
+      ],
+      "sourceTitle": "聽穎師彈琴",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "琴声忽而亲密低语，忽而雄健激昂，又像飞絮、群鸟与孤凤起落。听者被一曲牵动得坐立不安，泪湿衣裳，只得请弹琴人暂且停手。",
         "interpretation": [
@@ -12964,6 +14374,17 @@
         ],
         "record": "data/expansion/tang-second-volume/text-corrections.json"
       },
+      "displayTitle": "节妇吟寄东平李司空师道",
+      "displayDynasty": "唐",
+      "displayGenre": "杂言古诗",
+      "catalogSection": "杂言古诗",
+      "aliases": [
+        "节妇吟寄东平李司空师道",
+        "節婦吟寄東平李司空師道"
+      ],
+      "sourceTitle": "節婦吟寄東平李司空師道",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "女子感念赠珠人的厚意，却含泪还珠，守住已有的誓约。诗人借这段委婉而坚定的拒绝，寄意于对李师道招揽的回应。",
         "interpretation": [
@@ -13093,6 +14514,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七古"
       },
+      "displayTitle": "水夫谣",
+      "displayDynasty": "唐",
+      "displayGenre": "七言古诗",
+      "catalogSection": "七言古诗",
+      "aliases": [
+        "水夫谣",
+        "水夫謠"
+      ],
+      "sourceTitle": "水夫謠",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "生在驿站旁，便被迫日夜拉船，风雪里也不能歇息。水夫舍不得父母之乡，只能盼这条使人受苦的水道，变成安稳的田地。",
         "interpretation": [
@@ -13183,6 +14615,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七古"
       },
+      "displayTitle": "花非花",
+      "displayDynasty": "唐",
+      "displayGenre": "杂言古诗",
+      "catalogSection": "杂言古诗",
+      "aliases": [
+        "花非花"
+      ],
+      "sourceTitle": "花非花",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "像花又不是花，像雾又不是雾；它在夜半来临，天明消逝。那份短暂而美好的相逢，如春梦、朝云，醒来已无处寻找。",
         "interpretation": [
@@ -13283,6 +14725,21 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七古"
       },
+      "displayTitle": "将进酒",
+      "displayDynasty": "唐",
+      "displayGenre": "乐府",
+      "catalogSection": "乐府",
+      "aliases": [
+        "将进酒",
+        "鼓吹曲辭 將進酒",
+        "鼓吹曲辞 将进酒",
+        "將進酒"
+      ],
+      "sourceTitle": "鼓吹曲辭 將進酒",
+      "formAttributes": [
+        "乐府题式"
+      ],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "琉璃杯里的美酒映着歌舞，屏幕间香气流转；门外桃花却已纷纷落下。热烈的劝饮背后，是对春光与生命终将逝去的感触。",
         "interpretation": [
@@ -13379,6 +14836,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五律"
       },
+      "displayTitle": "咏风",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "咏风",
+        "詠風"
+      ],
+      "sourceTitle": "詠風",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "山风吹散烟雾，让林壑更加清凉。它来去无形，却像有情，等到日落山静，又特意送来一阵松声。",
         "interpretation": [
@@ -13474,6 +14942,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "夜宿七盘岭",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "夜宿七盘岭",
+        "夜宿七盤嶺"
+      ],
+      "sourceTitle": "夜宿七盤嶺",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "独宿高岭，月亮仿佛就在窗前，银河低垂到门边。春夜子规声声，客人一夜留听，直到远处传来晓鸡。",
         "interpretation": [
@@ -13569,6 +15048,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "送著作佐郎崔融等从梁王东征",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "送著作佐郎崔融等从梁王东征",
+        "送著作佐郎崔融等從梁王東征"
+      ],
+      "sourceTitle": "送著作佐郎崔融等從梁王東征",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "秋气肃杀，友人将随军出征。诗人叮嘱他谨慎用兵，不要把战功当作换取显名的筹码。",
         "interpretation": [
@@ -13670,6 +15160,16 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五律"
       },
+      "displayTitle": "送客",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "送客"
+      ],
+      "sourceTitle": "送客",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "春风吹绿杨柳，友人将往洞庭而去。江洲的离别被芳草包围，采一束赠人，也难尽彼此的情意。",
         "interpretation": [
@@ -13761,6 +15261,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "春夜别友人二首·其一",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "春夜别友人二首 一",
+        "春夜別友人二首 一"
+      ],
+      "sourceTitle": "春夜別友人二首 一",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "酒筵从春夜延到拂晓，明月和银河渐渐隐去。相聚的温暖还在，洛阳前路已远，下一次见面却不知是哪一年。",
         "interpretation": [
@@ -13852,6 +15363,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "送李邕",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "送李邕"
+      ],
+      "sourceTitle": "送李邕",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "落日荒郊，离人起身，路边的马也嘶鸣起来。壶里的酒倾尽了，赠别的话仍带着泪，流水送两人走向不同的方向。",
         "interpretation": [
@@ -13943,6 +15464,18 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "彩书怨",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "彩书怨",
+        "綵書怨",
+        "彩書怨"
+      ],
+      "sourceTitle": "綵書怨",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "洞庭初落叶，远行人已隔万里；露冷、月沉，锦屏前愈显空寂。写给远方的信没有别的话，只说分别得实在太久。",
         "interpretation": [
@@ -14043,6 +15576,18 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五律"
       },
+      "displayTitle": "立春日侍宴剪彩花应制",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "奉和圣制立春日侍宴内殿出翦彩花应制",
+        "奉和聖製立春日侍宴內殿出翦綵花應制",
+        "奉和聖制立春日侍宴內殿出翦綵花應制"
+      ],
+      "sourceTitle": "奉和聖製立春日侍宴內殿出翦綵花應制",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "彩帛一经剪裁，便长出繁叶、开成新花，几可乱真。这些人造花不肯随秋凋落，倒要问问真桃真李，如何辨得清彼此。",
         "interpretation": [
@@ -14139,6 +15684,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "幽州夜饮",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "幽州夜饮",
+        "幽州夜飲"
+      ],
+      "sourceTitle": "幽州夜飲",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "边城夜雨吹动寒林，高堂宴饮也难完全消解迟暮之感。剑舞与笳声振起军中气象，诗人又在复杂心绪中感念所受恩遇。",
         "interpretation": [
@@ -14244,6 +15800,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "咏燕",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "咏燕",
+        "詠燕"
+      ],
+      "sourceTitle": "詠燕",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "小小的燕子趁春来到，只想衔泥安巢，无意与谁争胜。面对高飞的鹰隼，它轻轻申说：不必猜疑这点安身的愿望。",
         "interpretation": [
@@ -14342,6 +15909,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "寄江滔求孟六遗文",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "寄江滔求孟六遗文",
+        "寄江滔求孟六遺文"
+      ],
+      "sourceTitle": "寄江滔求孟六遺文",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "遥望襄阳，思念友人，也想起已经去世的孟浩然。听说他家愈加清贫，诗人托人探问遗稿，让一生的诗意不要随人散失。",
         "interpretation": [
@@ -14437,6 +16015,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "望秦川",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "望秦川"
+      ],
+      "sourceTitle": "望秦川",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "清晨远望秦川，山河明净，城阙层层展开。满城竹声与陵园松色带来秋寒，也催起旅人归去的叹息。",
         "interpretation": [
@@ -14532,6 +16120,16 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五律"
       },
+      "displayTitle": "胡笳曲",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "胡笳曲"
+      ],
+      "sourceTitle": "胡笳曲",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "城外重围之中，一曲胡笳穿过关山冷月。吹到天明，悲声不分彼此，连围城的人也掩泪而去。",
         "interpretation": [
@@ -14623,6 +16221,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "晚泊浔阳望庐山",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "晚泊浔阳望庐山",
+        "晚泊潯陽望廬山"
+      ],
+      "sourceTitle": "晚泊潯陽望廬山",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "行船千里，泊到浔阳，终于望见向往的庐山。暮色中看不清寺院，只听钟声从东林传来，更觉尘外踪迹可亲。",
         "interpretation": [
@@ -14718,6 +16327,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "永嘉上浦馆逢张八子容",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "永嘉上浦馆逢张八子容",
+        "永嘉上浦館逢張八子容"
+      ],
+      "sourceTitle": "永嘉上浦館逢張八子容",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "日暮江村，两个同乡在旅舍相逢，对着远山饮酒，临着孤屿题诗。景色虽可亲，想到故园遥远与彼此失意，仍不免相怜。",
         "interpretation": [
@@ -14817,6 +16437,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "舟中晓望",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "舟中晓望",
+        "舟中曉望"
+      ],
+      "sourceTitle": "舟中曉望",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "晓色里扬帆东望，水乡青山渐次展开。满江船只逐着风潮，诗人却只想往天台寻访石桥，连朝霞也仿佛成了名山的标志。",
         "interpretation": [
@@ -14912,6 +16543,16 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五律"
       },
+      "displayTitle": "山居即事",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "山居即事"
+      ],
+      "sourceTitle": "山居即事",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "柴门掩着，夕阳苍茫，松间鹤巢与庭前竹莲自有生机。直到渡头炊烟升起，采菱人归来，清静的山居又接上温暖的人间。",
         "interpretation": [
@@ -15007,6 +16648,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "登裴秀才迪小台",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "登裴秀才迪小台",
+        "登裴秀才迪小臺"
+      ],
+      "sourceTitle": "登裴秀才迪小臺",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "裴迪的小台不必出门便能望见云山，秋原在落日里格外清闲。诗人想着乘月再来，叮嘱主人别早早把门闩上。",
         "interpretation": [
@@ -15107,6 +16759,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "冬晚对雪忆胡居士家",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "冬晚对雪忆胡居士家",
+        "冬晚對雪憶胡居士家"
+      ],
+      "sourceTitle": "冬晚對雪憶胡居士家",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "清晨开门，才见雪已铺满群山；深巷和庭院都变得寂静。诗人从镜中的衰颜想到友人，也许他正像高士袁安一样，闭门安处雪中。",
         "interpretation": [
@@ -15202,6 +16865,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "送郑侍御谪闽中",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "送郑侍御谪闽中",
+        "送鄭侍御謫閩中"
+      ],
+      "sourceTitle": "送鄭侍御謫閩中",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "送友人贬往闽中，诗人一边宽慰，一边叮嘱他珍重。秋雁少、夜猿多，南路并不容易，但仍盼他终能等到转机。",
         "interpretation": [
@@ -15297,6 +16971,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "醉后赠张九旭",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "醉后赠张九旭",
+        "醉後贈張九旭"
+      ],
+      "sourceTitle": "醉後贈張九旭",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "张旭的真性情不同于寻常应酬之交：兴到挥毫，酒后谈吐更加放达。白发与功名似乎都不足挂心，一壶酒便能安顿眼前。",
         "interpretation": [
@@ -15397,6 +17082,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "送李侍御赴安西",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "送李侍御赴安西"
+      ],
+      "sourceTitle": "送李侍御赴安西",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "友人挥鞭赴安西，万里功名与满腹心事，都寄在临别一杯酒中。诗人不以愁语相留，而用宝刀的雄气为他壮行。",
         "interpretation": [
@@ -15492,6 +17187,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "登总持阁",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "登总持阁",
+        "登總持閣"
+      ],
+      "sourceTitle": "登總持閣",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "登上高阁，秦岭低在栏外，渭川小在窗中，城里万户尽入眼底。辽阔景象间仍有愁烟，诗人更愿向清净的佛理寻求安顿。",
         "interpretation": [
@@ -15583,6 +17289,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "巴南舟中夜市",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "巴南舟中夜市"
+      ],
+      "sourceTitle": "巴南舟中夜市",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "黄昏渡口人声喧闹，寺钟与村火渐次浮现。孤舟中的客人从雁影、猿声里想起故乡，对着秋月，万里漂泊的乡愁更难说尽。",
         "interpretation": [
@@ -15674,6 +17390,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "武威春暮闻宇文判官西使还",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "武威春暮闻宇文判官西使还已到晋昌",
+        "武威春暮聞宇文判官西使還已到晉昌"
+      ],
+      "sourceTitle": "武威春暮聞宇文判官西使還已到晉昌",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "春雨掠过边城，黄鹂停上戍楼，春色反添乡愁。白发照见镜中，旧裘又过一季，忽听远使归来的消息，心便追到了瓜州。",
         "interpretation": [
@@ -15779,6 +17506,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "咏山泉",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "咏山泉",
+        "詠山泉"
+      ],
+      "sourceTitle": "詠山泉",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "无名山泉映着天色，飞下岩石时又有雨声。它时而充满深涧，时而平静成池，无人称赏，也年年保持清澈。",
         "interpretation": [
@@ -15870,6 +17608,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "奉试明堂火珠",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "奉试明堂火珠",
+        "奉試明堂火珠"
+      ],
+      "sourceTitle": "奉試明堂火珠",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "高耸明堂顶上的火珠，与夜月相映，天明后又像一颗孤星。云起云散之间，诗人以这件都城珍宝歌咏太平气象。",
         "interpretation": [
@@ -15965,6 +17714,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "途中晓发",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "途中晓发",
+        "途中曉發"
+      ],
+      "sourceTitle": "途中曉發",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "雨后拂晓，旅人又在长风中启程。云向海上疾行，月在山边迟落；站得越高看得越远，越觉得故乡不可见。",
         "interpretation": [
@@ -16060,6 +17820,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "江南旅情",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "江南旅情"
+      ],
+      "sourceTitle": "江南旅情",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "江南山水浩渺，晴天望海如带雨，夜里江潮不息。客人想寄信、寄橘到北方，却连可靠的捎带者也难寻。",
         "interpretation": [
@@ -16160,6 +17930,16 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五律"
       },
+      "displayTitle": "塞下曲六首·其三",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "塞下曲六首 三"
+      ],
+      "sourceTitle": "塞下曲六首 三",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "骏马驰出渭桥，军队披月远征，战阵与营垒终于消散。功成之后，诗却突然追问：画入功臣阁的，为什么只见将军。",
         "interpretation": [
@@ -16257,6 +18037,16 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五律"
       },
+      "displayTitle": "塞下曲六首·其五",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "塞下曲六首 五"
+      ],
+      "sourceTitle": "塞下曲六首 五",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "秋天边警再起，将士受命出关，枕着沙地、迎着霜月守边。归期虽远，诗仍劝家中的少妇暂且宽心，等待征人归来。",
         "interpretation": [
@@ -16352,6 +18142,16 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五律"
       },
+      "displayTitle": "送友人入蜀",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "送友人入蜀"
+      ],
+      "sourceTitle": "送友人入蜀",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "蜀道山从面前拔起，云在马头生出，行路虽险，春树与溪水却很美。送友人入蜀，最后仍劝他看淡升沉，不必卜问前程。",
         "interpretation": [
@@ -16447,6 +18247,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "秋登宣城谢朓北楼",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "秋登宣城谢朓北楼",
+        "秋登宣城謝朓北樓"
+      ],
+      "sourceTitle": "秋登宣城謝朓北樓",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "江城如画，两道清流映出明镜，双桥像彩虹落在水上。秋烟、橘柚与渐老的梧桐之间，登楼的人独自怀念谢朓。",
         "interpretation": [
@@ -16542,6 +18353,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "访戴天山道士不遇",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "访戴天山道士不遇",
+        "訪戴天山道士不遇"
+      ],
+      "sourceTitle": "訪戴天山道士不遇",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "循着水声和犬吠入山，桃花雨后正浓，深树间偶见鹿影。道士却不知去了哪里，来访的人只好倚着松树，留在清幽里等待。",
         "interpretation": [
@@ -16633,6 +18455,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "观胡人吹笛",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "观胡人吹笛",
+        "觀胡人吹笛"
+      ],
+      "sourceTitle": "觀胡人吹笛",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "清晨山间传来笛声，异乡乐人吹的竟有熟悉的秦地曲调。曲中的落梅与出塞情绪，勾起逐客对长安的遥望。",
         "interpretation": [
@@ -16728,6 +18561,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "江夏别宋之悌",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "江夏别宋之悌",
+        "江夏別宋之悌"
+      ],
+      "sourceTitle": "江夏別宋之悌",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "楚江澄澈，友人却即将远隔千里。晴日鸟声转成晚风猿啸，一杯别酒过后，平日少泪的人也再忍不住。",
         "interpretation": [
@@ -16819,6 +18663,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "送张舍人之江东",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "送张舍人之江东",
+        "送張舍人之江東"
+      ],
+      "sourceTitle": "送張舍人之江東",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "秋风正起，友人的孤帆向江东远去。天清海阔，归期难定，诗人只愿他日后望见吴地明月，也能想起千里外的故人。",
         "interpretation": [
@@ -16908,6 +18763,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "广陵赠别",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "广陵赠别",
+        "廣陵贈別"
+      ],
+      "sourceTitle": "廣陵贈別",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "垂杨下系马，大道旁举杯，送友人一程又一程。别时仍有青山绿水相伴，不必只让醉意和愁色留在脸上。",
         "interpretation": [
@@ -17003,6 +18869,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "过崔八丈水亭",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "过崔八丈水亭",
+        "過崔八丈水亭"
+      ],
+      "sourceTitle": "過崔八丈水亭",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "崔家的水亭聚起清幽：屋檐仿佛贴着溪水，窗中落入敬亭山云。猿声、渔歌渐次传来，闲心也随白鸥飞向沙洲。",
         "interpretation": [
@@ -17094,6 +18971,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "宿五松山下荀媪家",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "宿五松山下荀媪家",
+        "宿五松山下荀媼家"
+      ],
+      "sourceTitle": "宿五松山下荀媼家",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "借宿农家，秋夜里仍听见邻家女子舂米。老妇恭敬地送来一碗饭，月光照着素盘，客人因这份贫中厚意而惭愧难餐。",
         "interpretation": [
@@ -17189,6 +19077,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "夜宴左氏庄",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "夜宴左氏庄",
+        "夜宴左氏莊"
+      ],
+      "sourceTitle": "夜宴左氏莊",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "春夜庄园里，风林、落月、流水与琴声相伴。翻书、看剑、长饮之后，又听吴地歌声，诗人的心已向着一叶江南舟。",
         "interpretation": [
@@ -17280,6 +19179,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "天河",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "天河"
+      ],
+      "sourceTitle": "天河",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "银河平日时隐时现，到了秋天却格外清明，照着宫阙也照着边城。牛郎织女年年渡河，天上从无风浪，反照出人间难得的安宁。",
         "interpretation": [
@@ -17375,6 +19284,16 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五律"
       },
+      "displayTitle": "野望",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "野望"
+      ],
+      "sourceTitle": "野望",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "清秋远望，水天明净，孤城却藏在重重雾里。暮色中群鸦早已归林，只有独鹤迟归，更显天地苍茫与身影孤单。",
         "interpretation": [
@@ -17470,6 +19389,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "后游",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "后游",
+        "後遊"
+      ],
+      "sourceTitle": "後遊",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "重访寺院，再过小桥，江山像一直在等待。花柳不分亲疏地迎人，春日沙暖，连积压的客愁也渐渐减轻。",
         "interpretation": [
@@ -17561,6 +19491,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "江亭",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "江亭"
+      ],
+      "sourceTitle": "江亭",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "江亭暖和，流水与浮云使心境暂时放缓。可春天将尽，草木各得生意，自己仍回不了故乡，只能写诗排解。",
         "interpretation": [
@@ -17656,6 +19596,16 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五律"
       },
+      "displayTitle": "月",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "月"
+      ],
+      "sourceTitle": "月",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "四更月出，水光照亮楼阁，也照着一个白发夜醒的人。他把月中兔蟾与自己相亲相问，又怜想嫦娥独自承受长秋的清寒。",
         "interpretation": [
@@ -17753,6 +19703,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "江汉",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "江汉",
+        "江漢"
+      ],
+      "sourceTitle": "江漢",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "漂泊江汉，孤云与长夜月色都像自己的身影。虽已年老多病，心气却没有衰尽，仍愿像识途老马一样有所用。",
         "interpretation": [
@@ -17848,6 +19809,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "水槛遣心二首·其一",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "水槛遣心二首 一",
+        "水檻遣心二首 一"
+      ],
+      "sourceTitle": "水檻遣心二首 一",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "远离城郭的小屋，江平树静，细雨里鱼儿浮出，微风中燕子斜飞。城中虽有万户人家，诗人更珍惜眼前两三家的清幽。",
         "interpretation": [
@@ -17943,6 +19915,18 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "丈八沟纳凉遇雨·其一",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "陪诸贵公子丈八沟携妓纳凉晚际遇雨二首 一",
+        "陪諸貴公子丈八溝攜妓納涼晚際遇雨二首 一",
+        "陪诸贵公子丈八沟携妓纳凉晚际遇雨二首·其一"
+      ],
+      "sourceTitle": "陪諸貴公子丈八溝攜妓納涼晚際遇雨二首 一",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "夕阳中泛舟纳凉，竹阴与净荷都留住客人。冰水、藕丝正清爽，一片黑云已悄悄压来，仿佛又要催成新诗。",
         "interpretation": [
@@ -18039,6 +20023,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五律"
       },
+      "displayTitle": "闻笛",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "闻笛",
+        "聞笛"
+      ],
+      "sourceTitle": "聞笛",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "登上城楼，敌骑已经逼近城下，天地昏沉得难辨颜色。守城的苦战持续着，只有远处横笛，日夜传来难尽的悲声。",
         "interpretation": [
@@ -18134,6 +20129,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五律"
       },
+      "displayTitle": "渡扬子江",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "渡扬子江",
+        "渡揚子江"
+      ],
+      "sourceTitle": "渡揚子江",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "舟到江心，两岸忽然明朗，驿站与城山从树林间显出。北风吹起，落叶声穿过寒江，秋意也随着渡船而来。",
         "interpretation": [
@@ -18229,6 +20235,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "穆陵关北逢人归渔阳",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "穆陵关北逢人归渔阳",
+        "穆陵關北逢人歸漁陽"
+      ],
+      "sourceTitle": "穆陵關北逢人歸漁陽",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "穆陵路上遇见北归的人，诗人的心也先到了他的故乡。百战后的城池、残存的老人和遍地荒草，使归家成了一次含泪的重逢。",
         "interpretation": [
@@ -18324,6 +20341,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "和万年成少府寓直",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "和万年成少府寓直",
+        "和萬年成少府寓直"
+      ],
+      "sourceTitle": "和萬年成少府寓直",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "新秋值夜，宫钟、月色、萤火和雁影催起文思。诗人借古代才士的名字，祝愿友人清晨便能得到知遇。",
         "interpretation": [
@@ -18423,6 +20451,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "盩厔县郑礒宅送钱大",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "盩厔县郑𥐟宅送钱大",
+        "盩厔縣鄭礒宅送錢大"
+      ],
+      "sourceTitle": "盩厔縣鄭礒宅送錢大",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "都是悲秋的客人，却又在秋声里分道而行。荒城流水、远雁寒云之外，主人门前尚余的菊花，成了最后一份赠别。",
         "interpretation": [
@@ -18516,6 +20555,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "竹窗闻风寄苗发司空曙",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "竹窗闻风寄苗发司空曙",
+        "竹窗聞風寄苗發司空曙"
+      ],
+      "sourceTitle": "竹窗聞風寄苗發司空曙",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "暮坐窗前，一阵竹响让人误以为故友来访。风滴落枝上清露，也唤起心愿：何时能吹进帘内，拂去久不弹的琴尘。",
         "interpretation": [
@@ -18611,6 +20661,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "秋夜泛舟",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "秋夜泛舟"
+      ],
+      "sourceTitle": "秋夜泛舟",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "秋夜从林塘泛舟，月下万影摇动，虫声与荻声各自响起。岁月又晚，乡思愈深，故乡的河流仿佛远在西北浮云之外。",
         "interpretation": [
@@ -18706,6 +20766,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "题邻居",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "题邻居",
+        "題鄰居"
+      ],
+      "sourceTitle": "題鄰居",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "住在僻巷，邻家虽少，却能共灶蒸梨、同渠浇菜，夜里还相分灯火。身在城中，也过出了樵夫渔人般的亲近与自在。",
         "interpretation": [
@@ -18803,6 +20874,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "至七里滩作",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "至七里滩作",
+        "至七里灘作"
+      ],
+      "sourceTitle": "至七里灘作",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "贬谪的舟一程程驶向越地，故人渐远，泪水不止。千峰仍留着夕阳，船却不能停，暮潮的归去更衬出客人的无归。",
         "interpretation": [
@@ -18898,6 +20980,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "长城闻笛",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "长城闻笛",
+        "長城聞笛"
+      ],
+      "sourceTitle": "長城聞笛",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "笛声与霜夜捣衣声在边城交织，降人落泪，老将也动了乡心。《梅花落》一曲吹过营垒，故园山川却无处可寻。",
         "interpretation": [
@@ -18993,6 +21086,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "题松汀驿",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "题松汀驿",
+        "題松汀驛"
+      ],
+      "sourceTitle": "題松汀驛",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "驿站外山色与天空相接，远水发白，日光先从海天显出。小径还通着人家，诗人却惆怅，旧日隐者已不在这片五湖。",
         "interpretation": [
@@ -19094,6 +21198,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五律"
       },
+      "displayTitle": "咏风",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "咏风",
+        "詠風"
+      ],
+      "sourceTitle": "詠風",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "风轻时能托起歌扇、舞衣，转到边塞又送笛、扬沙。它带来雁影与猿声，最动人的一缕，仍像琴音里依依不舍的情意。",
         "interpretation": [
@@ -19185,6 +21300,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "池州春送前进士蒯希逸",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "池州春送前进士蒯希逸",
+        "池州春送前進士蒯希逸"
+      ],
+      "sourceTitle": "池州春送前進士蒯希逸",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "芳草一程接着一程，离愁也一层叠着一层。自己已有家难归，如今又举杯送友人，眼前春水与雁行更让人伤怀。",
         "interpretation": [
@@ -19280,6 +21406,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "客中",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "客中"
+      ],
+      "sourceTitle": "客中",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "异乡竹枝歌响起，久客的人不禁泪湿衣裳。一封家信迟迟没有回音，落叶已满路，而继续南行，只怕消息更加稀少。",
         "interpretation": [
@@ -19371,6 +21507,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五律"
       },
+      "displayTitle": "送人游吴",
+      "displayDynasty": "唐",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "送人游吴",
+        "送人遊吳"
+      ],
+      "sourceTitle": "送人遊吳",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "姑苏人家枕河而居，小桥水巷交错，夜市卖着菱藕，春船载着绮罗。风物再好，月下听见渔歌时，远客仍会想家。",
         "interpretation": [
@@ -19477,6 +21624,17 @@
         ],
         "record": "data/expansion/tang-second-volume/text-corrections.json"
       },
+      "displayTitle": "春残",
+      "displayDynasty": "五代宋初",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "春残",
+        "春殘"
+      ],
+      "sourceTitle": "春殘",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "春又将尽，庭院落花，独立的人望见细雨里双飞的燕子。眼前的孤单已难承受，更不敢想秋风月色中的漫长等待。",
         "interpretation": [
@@ -19589,6 +21747,18 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五律"
       },
+      "displayTitle": "寄镜湖方干处士",
+      "displayDynasty": "唐末五代",
+      "displayGenre": "五言律诗",
+      "catalogSection": "五言律诗",
+      "aliases": [
+        "寄镜湖方干处士",
+        "寄鏡湖方干處士",
+        "寄鏡湖方幹處士"
+      ],
+      "sourceTitle": "寄鏡湖方干處士",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "镜湖仍是贺知章曾居的山水，如今又有方干带琴鹤泛舟其间。秋石、澄湖与半夜星天，共同映着一个爱林泉、肯题诗的身影。",
         "interpretation": [
@@ -19686,6 +21856,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "首春渭西郊行呈蓝田张二主簿",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "首春渭西郊行呈蓝田张二主簿",
+        "首春渭西郊行呈藍田張二主簿"
+      ],
+      "sourceTitle": "首春渭西郊行呈藍田張二主簿",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "早春雨过渭西，细草新花被踏入泥里，峰头残雪仍在。看着白发，诗人更想旧山旧溪，也想携春酒去辋川探访友人。",
         "interpretation": [
@@ -19781,6 +21962,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "江村",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "江村"
+      ],
+      "sourceTitle": "江村",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "清江环抱小村，燕子自在来去，水鸥彼此亲近。妻子画棋盘，孩子做鱼钩，安稳家常里，诗人只盼病体有药可治。",
         "interpretation": [
@@ -19874,6 +22065,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "九日蓝田崔氏庄",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "九日蓝田崔氏庄",
+        "九日藍田崔氏莊"
+      ],
+      "sourceTitle": "九日藍田崔氏莊",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "重阳登高，诗人强自宽解，以诙谐藏起衰老之感。山水清寒，宴会可喜，可想到明年谁还能健在，便醉中细看手里的茱萸。",
         "interpretation": [
@@ -19969,6 +22171,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七律"
       },
+      "displayTitle": "秋兴八首·其三",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "秋兴八首 三",
+        "秋興八首 三"
+      ],
+      "sourceTitle": "秋興八首 三",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "秋晨山城安静，诗人终日在江楼望着渔舟和燕影。曾经进言论经的抱负未能实现，同窗却多已富贵，更显身世失落。",
         "interpretation": [
@@ -20064,6 +22277,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七律"
       },
+      "displayTitle": "秋兴八首·其四",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "秋兴八首 四",
+        "秋興八首 四"
+      ],
+      "sourceTitle": "秋興八首 四",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "长安局势如棋翻覆，旧宅换主，朝中人物也已不同。边关兵声与迟来的军报使人不安，秋江越冷，远客对故国的忧思越深。",
         "interpretation": [
@@ -20159,6 +22383,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七律"
       },
+      "displayTitle": "秋兴八首·其七",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "秋兴八首 七",
+        "秋興八首 七"
+      ],
+      "sourceTitle": "秋興八首 七",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "回忆昆明池，仿佛又见汉武旌旗；织女石像空对月夜，石鲸似在秋风中动起。关山阻绝，自己已成江湖渔翁，旧日盛景与今日身世相对，愈添苍凉。",
         "interpretation": [
@@ -20259,6 +22494,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "又呈吴郎",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "又呈吴郎",
+        "又呈吳郎"
+      ],
+      "sourceTitle": "又呈吳郎",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "邻家无儿无食的妇人来打枣，杜甫劝吴郎多给她一点宽容。她的贫困背后还有征敛与战乱，眼前的一道篱笆，也该从她的难处设想。",
         "interpretation": [
@@ -20354,6 +22600,16 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七律"
       },
+      "displayTitle": "夜",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "夜"
+      ],
+      "sourceTitle": "夜",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "秋夜独宿，孤帆边只一盏疏灯，新月下又传捣衣声。病中过了又一个菊花时节，北方书信仍不来，诗人只好倚杖望银河通向长安。",
         "interpretation": [
@@ -20460,6 +22716,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "巴岭答杜二见忆",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "巴岭荅杜二见忆",
+        "巴嶺荅杜二見憶"
+      ],
+      "sourceTitle": "巴嶺荅杜二見憶",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "巴山落月，两个远隔千里的朋友在梦中相思。红枫黄菊正是怀人时节，严武一再驻马遥望，秋雁与冷猿更添离悲。",
         "interpretation": [
@@ -20559,6 +22826,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "别严士元",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "别严士元",
+        "別嚴士元"
+      ],
+      "sourceTitle": "別嚴士元",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "summary": "姑苏春寒，细雨无声湿衣，闲花静静落地，别情也悄然滋长。孤帆渐远，诗人又托友人传话，倾诉低微官职与读书抱负间的落差。",
         "interpretation": [
@@ -20654,6 +22932,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "早秋京口旅泊",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "早秋京口旅泊章侍御寄书相问因以赠之时七夕",
+        "早秋京口旅泊章侍御寄書相問因以贈之時七夕"
+      ],
+      "sourceTitle": "早秋京口旅泊章侍御寄書相問因以贈之時七夕",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "早秋京口旅泊章侍御寄书相问因以赠之时七夕",
         "author": "李嘉祐",
@@ -20753,6 +23042,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "同崔邠登鹳雀楼",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "同崔邠登鹳雀楼",
+        "同崔邠登鸛雀樓"
+      ],
+      "sourceTitle": "同崔邠登鸛雀樓",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "同崔邠登鹳雀楼",
         "author": "李益",
@@ -20795,13 +23095,13 @@
       "author": "于鹄",
       "dynasty": "唐",
       "paragraphs": [
-        "十岁吹萧入汉宫，看修水殿种芙蓉。",
+        "十岁吹箫入汉宫，看修水殿种芙蓉。",
         "自伤白发辞金屋，许著黄衣向玉峰。",
         "解语老猨开晓户，学飞雏鹤落高松。",
         "定知别后宫中伴，应听缑山半夜钟。"
       ],
       "sentences": [
-        "十岁吹萧入汉宫，",
+        "十岁吹箫入汉宫，",
         "看修水殿种芙蓉。",
         "自伤白发辞金屋，",
         "许著黄衣向玉峰。",
@@ -20810,7 +23110,7 @@
         "定知别后宫中伴，",
         "应听缑山半夜钟。"
       ],
-      "text": "十岁吹萧入汉宫，看修水殿种芙蓉。\n自伤白发辞金屋，许著黄衣向玉峰。\n解语老猨开晓户，学飞雏鹤落高松。\n定知别后宫中伴，应听缑山半夜钟。",
+      "text": "十岁吹箫入汉宫，看修水殿种芙蓉。\n自伤白发辞金屋，许著黄衣向玉峰。\n解语老猨开晓户，学飞雏鹤落高松。\n定知别后宫中伴，应听缑山半夜钟。",
       "form": {
         "sentenceCount": 8,
         "characterCounts": [
@@ -20848,6 +23148,28 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "sourceText": "十岁吹萧入汉宫，看修水殿种芙蓉。\n自伤白发辞金屋，许著黄衣向玉峰。\n解语老猨开晓户，学飞雏鹤落高松。\n定知别后宫中伴，应听缑山半夜钟。",
+      "textCorrection": {
+        "status": "accepted-for-editorial-draft",
+        "reason": "《全唐诗》卷三百一十本首及独立原诗转录均作“十岁吹箫入汉宫”。本稿仅将器名“萧”校为“箫”，与吹奏竹箫的诗意对应。其他类书所引有“十五”等异读，本次不扩大改动“十岁”或末联，以免混用不同见证。",
+        "verificationRefs": [
+          "https://zh.wikisource.org/wiki/全唐詩/卷310",
+          "https://zh.wikisource.org/wiki/送宮人入道歸山",
+          "https://zh.wikisource.org/zh-hant/欽定古今圖書集成/明倫彙編/宮闈典/第053卷"
+        ],
+        "record": "data/expansion/tang-second-volume/text-corrections.json"
+      },
+      "displayTitle": "送宫人入道归山",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "送宫人入道归山",
+        "送宮人入道歸山"
+      ],
+      "sourceTitle": "送宮人入道歸山",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "送宫人入道归山",
         "author": "于鹄",
@@ -20878,12 +23200,16 @@
             "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.16000.json"
           ],
           "verificationRefs": [
-            "https://www.hnwomen.com/_upload/article/files/41/0c/5f6d7bef424dae8ca27059792b79/8d7ca4d9-68d3-45a5-b093-b9ea74946967.pdf"
+            "https://www.hnwomen.com/_upload/article/files/41/0c/5f6d7bef424dae8ca27059792b79/8d7ca4d9-68d3-45a5-b093-b9ea74946967.pdf",
+            "https://zh.wikisource.org/wiki/全唐詩/卷310",
+            "https://zh.wikisource.org/wiki/送宮人入道歸山",
+            "https://zh.wikisource.org/zh-hant/欽定古今圖書集成/明倫彙編/宮闈典/第053卷"
           ]
         },
         "reviewStatus": "editorial-draft",
         "reviewNotes": [
-          "首句源文为“吹萧”，常见通行写法为“吹箫”；释义按吹奏箫理解，正文待校。",
+          "制作稿已校订：《全唐诗》卷三百一十本首及独立原诗转录均作“十岁吹箫入汉宫”。本稿仅将器名“萧”校为“箫”，与吹奏竹箫的诗意对应。其他类书所引有“十五”等异读，本次不扩大改动“十岁”或末联，以免混用不同见证。 原始 poems.json 保留原貌，本次仅用于独立编辑预览，尚非纸书终校。",
+          "初稿记录（归档底本）：首句源文为“吹萧”，常见通行写法为“吹箫”；释义按吹奏箫理解，正文待校。",
           "语义复核：尾联听钟主体及“宫中伴”与其关系尚待专门注本；山居钟声属别后遥想，不宜写实为钟声实际传到宫中。"
         ],
         "artDirection": "An elderly former palace woman in a muted yellow Daoist robe at a mountain hermitage at dawn. Tall pines shelter a young crane, an old monkey by the simple gate; the palace is absent, emphasizing release after a long confined life."
@@ -20952,6 +23278,18 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "和侯大夫秋原山观征人回",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "和侯大夫秋原山观征人回",
+        "和侯大夫秋原山觀征人回",
+        "和侯大夫秋原山觀徵人回"
+      ],
+      "sourceTitle": "和侯大夫秋原山觀征人回",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "和侯大夫秋原山观征人回",
         "author": "杨巨源",
@@ -21054,6 +23392,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "李处士故居",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "李处士故居",
+        "李處士故居"
+      ],
+      "sourceTitle": "李處士故居",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "李处士故居",
         "author": "王建",
@@ -21153,6 +23502,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "再授连州至衡阳酬柳柳州赠别",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "再授连州至衡阳酬柳柳州赠别",
+        "再授連州至衡陽酬柳柳州贈別"
+      ],
+      "sourceTitle": "再授連州至衡陽酬柳柳州贈別",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "再授连州至衡阳酬柳柳州赠别",
         "author": "刘禹锡",
@@ -21263,6 +23623,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "柳州城西北隅种柑树",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "柳州城西北隅种柑树",
+        "柳州城西北隅種柑樹"
+      ],
+      "sourceTitle": "柳州城西北隅種柑樹",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "柳州城西北隅种柑树",
         "author": "柳宗元",
@@ -21363,6 +23734,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "吊白居易",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "吊白居易",
+        "弔白居易"
+      ],
+      "sourceTitle": "弔白居易",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "吊白居易",
         "author": "宣宗皇帝",
@@ -21462,6 +23844,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "题宣州开元寺水阁",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "题宣州开元寺水阁阁下宛溪夹溪居人",
+        "題宣州開元寺水閣閣下宛溪夾溪居人"
+      ],
+      "sourceTitle": "題宣州開元寺水閣閣下宛溪夾溪居人",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "题宣州开元寺水阁阁下宛溪夹溪居人",
         "author": "杜牧",
@@ -21557,6 +23950,18 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "登池州九峰楼寄张祜",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "登池州九峰楼寄张祜",
+        "登池州九峰樓寄張祜",
+        "登池州九峯樓寄張祜"
+      ],
+      "sourceTitle": "登池州九峰樓寄張祜",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "登池州九峰楼寄张祜",
         "author": "杜牧",
@@ -21652,6 +24057,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "早雁",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "早鴈"
+      ],
+      "sourceTitle": "早鴈",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "早鴈",
         "author": "杜牧",
@@ -21748,6 +24163,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "安定城楼",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "安定城楼",
+        "安定城樓"
+      ],
+      "sourceTitle": "安定城楼",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "安定城楼",
         "author": "李商隐",
@@ -21847,6 +24273,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "长安晚秋",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "长安晚秋",
+        "長安晚秋"
+      ],
+      "sourceTitle": "長安晚秋",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "长安晚秋",
         "author": "赵嘏",
@@ -21946,6 +24383,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "湘口送友人",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "湘口送友人"
+      ],
+      "sourceTitle": "湘口送友人",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "湘口送友人",
         "author": "李频",
@@ -22045,6 +24492,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七律"
       },
+      "displayTitle": "西塞山泊渔家",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "西塞山泊渔家",
+        "西塞山泊漁家"
+      ],
+      "sourceTitle": "西塞山泊漁家",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "西塞山泊渔家",
         "author": "皮日休",
@@ -22145,6 +24603,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "绵谷回寄蔡氏昆仲",
+      "displayDynasty": "唐末五代",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "绵谷回寄蔡氏昆仲",
+        "綿谷回寄蔡氏昆仲"
+      ],
+      "sourceTitle": "绵谷回寄蔡氏昆仲",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "绵谷回寄蔡氏昆仲",
         "author": "罗隐",
@@ -22244,6 +24713,16 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七律"
       },
+      "displayTitle": "春夕",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "春夕"
+      ],
+      "sourceTitle": "春夕",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "春夕",
         "author": "崔涂",
@@ -22345,6 +24824,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "中年",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "中年"
+      ],
+      "sourceTitle": "中年",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "中年",
         "author": "郑谷",
@@ -22444,6 +24933,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "自叙",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "自叙",
+        "自敘"
+      ],
+      "sourceTitle": "自敘",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "自叙",
         "author": "杜荀鹤",
@@ -22543,6 +25043,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七律"
       },
+      "displayTitle": "失鹤",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "失鹤",
+        "失鶴"
+      ],
+      "sourceTitle": "失鶴",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "失鹤",
         "author": "李远",
@@ -22653,6 +25164,18 @@
         ],
         "record": "data/expansion/tang-second-volume/text-corrections.json"
       },
+      "displayTitle": "开元后乐",
+      "displayDynasty": "唐",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "开元后乐",
+        "開元後樂",
+        "開元后樂"
+      ],
+      "sourceTitle": "開元後樂",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "开元后乐",
         "author": "薛逢",
@@ -22766,6 +25289,18 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "闲",
+      "displayDynasty": "唐末五代",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "闲",
+        "閑",
+        "閒"
+      ],
+      "sourceTitle": "閑",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "闲",
         "author": "徐夤",
@@ -22867,6 +25402,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "塞下三首·其一",
+      "displayDynasty": "唐末五代",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "塞下三首 一"
+      ],
+      "sourceTitle": "塞下三首 一",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "塞下三首 一",
         "author": "沈彬",
@@ -22971,6 +25516,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七律"
       },
+      "displayTitle": "洞庭阻风",
+      "displayDynasty": "五代",
+      "displayGenre": "七言律诗",
+      "catalogSection": "七言律诗",
+      "aliases": [
+        "洞庭阻风",
+        "洞庭阻風"
+      ],
+      "sourceTitle": "洞庭阻風",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "洞庭阻风",
         "author": "张泌",
@@ -23056,6 +25612,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五绝"
       },
+      "displayTitle": "风",
+      "displayDynasty": "唐",
+      "displayGenre": "五言绝句",
+      "catalogSection": "五言绝句",
+      "aliases": [
+        "风",
+        "風"
+      ],
+      "sourceTitle": "風",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "风",
         "author": "李峤",
@@ -23143,6 +25710,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五绝"
       },
+      "displayTitle": "汾上惊秋",
+      "displayDynasty": "唐",
+      "displayGenre": "五言绝句",
+      "catalogSection": "五言绝句",
+      "aliases": [
+        "汾上惊秋",
+        "汾上驚秋"
+      ],
+      "sourceTitle": "汾上驚秋",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "汾上惊秋",
         "author": "苏颋",
@@ -23228,6 +25806,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五绝"
       },
+      "displayTitle": "蜀道后期",
+      "displayDynasty": "唐",
+      "displayGenre": "五言绝句",
+      "catalogSection": "五言绝句",
+      "aliases": [
+        "蜀道后期",
+        "蜀道後期"
+      ],
+      "sourceTitle": "蜀道後期",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "蜀道后期",
         "author": "张说",
@@ -23311,6 +25900,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五绝"
       },
+      "displayTitle": "南中咏雁",
+      "displayDynasty": "唐",
+      "displayGenre": "五言绝句",
+      "catalogSection": "五言绝句",
+      "aliases": [
+        "南中咏雁",
+        "南中詠雁"
+      ],
+      "sourceTitle": "南中詠雁",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "南中咏雁",
         "author": "韦承庆",
@@ -23394,6 +25994,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五绝"
       },
+      "displayTitle": "南行别弟",
+      "displayDynasty": "唐",
+      "displayGenre": "五言绝句",
+      "catalogSection": "五言绝句",
+      "aliases": [
+        "南行别弟",
+        "南行別弟"
+      ],
+      "sourceTitle": "南行別弟",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "南行别弟",
         "author": "韦承庆",
@@ -23434,16 +26045,16 @@
       "author": "孟浩然",
       "dynasty": "唐",
       "paragraphs": [
-        "游人武陵去，宝劒直千金。",
+        "游人五陵去，宝劒直千金。",
         "分手脱相赠，平生一片心。"
       ],
       "sentences": [
-        "游人武陵去，",
+        "游人五陵去，",
         "宝劒直千金。",
         "分手脱相赠，",
         "平生一片心。"
       ],
-      "text": "游人武陵去，宝劒直千金。\n分手脱相赠，平生一片心。",
+      "text": "游人五陵去，宝劒直千金。\n分手脱相赠，平生一片心。",
       "form": {
         "sentenceCount": 4,
         "characterCounts": [
@@ -23477,6 +26088,27 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五绝"
       },
+      "sourceText": "游人武陵去，宝劒直千金。\n分手脱相赠，平生一片心。",
+      "textCorrection": {
+        "status": "accepted-for-editorial-draft",
+        "reason": "《孟浩然集》四部丛刊本卷四（景江南图书馆藏明刊本）及同集原著转录作“游人五陵去”，与题中“入秦”地望相合。本稿选择有据的“五陵”；项目来源《全唐诗》系统所存“武陵”继续作为异文记录，不宣称所有“武陵”见证都是误写。宝劒、直等字形不随另一转录一并改动。",
+        "verificationRefs": [
+          "https://zh.wikisource.org/zh-hant/孟浩然集_(四部叢刊本)/卷第四",
+          "https://ctext.org/wiki.pl?chapter=403868&if=en",
+          "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.7000.json"
+        ],
+        "record": "data/expansion/tang-second-volume/text-corrections.json"
+      },
+      "displayTitle": "送朱大入秦",
+      "displayDynasty": "唐",
+      "displayGenre": "五言绝句",
+      "catalogSection": "五言绝句",
+      "aliases": [
+        "送朱大入秦"
+      ],
+      "sourceTitle": "送朱大入秦",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "送朱大入秦",
         "author": "孟浩然",
@@ -23495,8 +26127,8 @@
             "text": "解下佩剑赠给对方。"
           },
           {
-            "term": "武陵",
-            "text": "源文作“武陵”，另有“五陵”本；结合题目入秦，通行解作长安一带。"
+            "term": "五陵",
+            "text": "长安附近汉代五座帝陵所在地区，诗中借指长安一带。制作稿据《孟浩然集》四部丛刊本选“五陵”，来源“武陵”仍存于归档异文。"
           }
         ],
         "basis": {
@@ -23506,12 +26138,16 @@
           ],
           "verificationRefs": [
             "https://photoapps.yd.chaoxing.com/MobileApp/GDSL/pdf/gddj/1315841.pdf",
-            "https://zh-hant.meirishici.com/poetry/fZP"
+            "https://zh-hant.meirishici.com/poetry/fZP",
+            "https://zh.wikisource.org/zh-hant/孟浩然集_(四部叢刊本)/卷第四",
+            "https://ctext.org/wiki.pl?chapter=403868&if=en",
+            "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.7000.json"
           ]
         },
         "reviewStatus": "editorial-draft",
         "reviewNotes": [
-          "首句“武陵”与“五陵”异文尚待选择底本；不能按今湖南武陵解释而与“入秦”目的地相混。"
+          "制作稿已校订：《孟浩然集》四部丛刊本卷四（景江南图书馆藏明刊本）及同集原著转录作“游人五陵去”，与题中“入秦”地望相合。本稿选择有据的“五陵”；项目来源《全唐诗》系统所存“武陵”继续作为异文记录，不宣称所有“武陵”见证都是误写。宝劒、直等字形不随另一转录一并改动。 原始 poems.json 保留原貌，本次仅用于独立编辑预览，尚非纸书终校。",
+          "初稿记录（归档底本）：首句“武陵”与“五陵”异文尚待选择底本；不能按今湖南武陵解释而与“入秦”目的地相混。"
         ],
         "artDirection": "Two Tang friends at a roadside farewell, one respectfully handing over a sheathed sword from his belt to the departing traveler. Spring earth tones, plain robes and a waiting horse; the blade stays sheathed, warmth rather than combat."
       },
@@ -23569,6 +26205,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五绝"
       },
+      "displayTitle": "送郭司仓",
+      "displayDynasty": "唐",
+      "displayGenre": "五言绝句",
+      "catalogSection": "五言绝句",
+      "aliases": [
+        "送郭司仓",
+        "送郭司倉"
+      ],
+      "sourceTitle": "送郭司倉",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "送郭司仓",
         "author": "王昌龄",
@@ -23652,6 +26299,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五绝"
       },
+      "displayTitle": "洛阳道五首献吕四郎中·其三",
+      "displayDynasty": "唐",
+      "displayGenre": "五言绝句",
+      "catalogSection": "五言绝句",
+      "aliases": [
+        "洛阳道五首献吕四郎中 三",
+        "洛陽道五首獻呂四郎中 三"
+      ],
+      "sourceTitle": "洛陽道五首獻呂四郎中 三",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "洛阳道五首献吕四郎中 三",
         "author": "储光羲",
@@ -23736,6 +26394,16 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五绝"
       },
+      "displayTitle": "山中",
+      "displayDynasty": "唐",
+      "displayGenre": "五言绝句",
+      "catalogSection": "五言绝句",
+      "aliases": [
+        "山中"
+      ],
+      "sourceTitle": "山中",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "山中",
         "author": "王维",
@@ -23819,6 +26487,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五绝"
       },
+      "displayTitle": "咏史",
+      "displayDynasty": "唐",
+      "displayGenre": "五言绝句",
+      "catalogSection": "五言绝句",
+      "aliases": [
+        "咏史",
+        "詠史"
+      ],
+      "sourceTitle": "詠史",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "咏史",
         "author": "高适",
@@ -23908,6 +26587,16 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五绝"
       },
+      "displayTitle": "左掖梨花",
+      "displayDynasty": "唐",
+      "displayGenre": "五言绝句",
+      "catalogSection": "五言绝句",
+      "aliases": [
+        "左掖梨花"
+      ],
+      "sourceTitle": "左掖梨花",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "左掖梨花",
         "author": "丘为",
@@ -23995,6 +26684,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五绝"
       },
+      "displayTitle": "劳劳亭",
+      "displayDynasty": "唐",
+      "displayGenre": "五言绝句",
+      "catalogSection": "五言绝句",
+      "aliases": [
+        "劳劳亭",
+        "勞勞亭"
+      ],
+      "sourceTitle": "勞勞亭",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "劳劳亭",
         "author": "李白",
@@ -24082,6 +26782,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五绝"
       },
+      "displayTitle": "逢侠者",
+      "displayDynasty": "唐",
+      "displayGenre": "五言绝句",
+      "catalogSection": "五言绝句",
+      "aliases": [
+        "逢侠者",
+        "逢俠者"
+      ],
+      "sourceTitle": "逢俠者",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "逢侠者",
         "author": "钱起",
@@ -24169,6 +26880,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五绝"
       },
+      "displayTitle": "池上二绝·其二",
+      "displayDynasty": "唐",
+      "displayGenre": "五言绝句",
+      "catalogSection": "五言绝句",
+      "aliases": [
+        "池上二绝 二",
+        "池上二絕 二"
+      ],
+      "sourceTitle": "池上二絕 二",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "池上二绝 二",
         "author": "白居易",
@@ -24256,6 +26978,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五绝"
       },
+      "displayTitle": "夜雪",
+      "displayDynasty": "唐",
+      "displayGenre": "五言绝句",
+      "catalogSection": "五言绝句",
+      "aliases": [
+        "夜雪"
+      ],
+      "sourceTitle": "夜雪",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "夜雪",
         "author": "白居易",
@@ -24339,6 +27071,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五绝"
       },
+      "displayTitle": "古风二首·其一",
+      "displayDynasty": "唐",
+      "displayGenre": "五言绝句",
+      "catalogSection": "五言绝句",
+      "aliases": [
+        "古风二首 一",
+        "古風二首 一"
+      ],
+      "sourceTitle": "古風二首 一",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "古风二首 一",
         "author": "李绅",
@@ -24426,6 +27169,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五绝"
       },
+      "displayTitle": "天涯",
+      "displayDynasty": "唐",
+      "displayGenre": "五言绝句",
+      "catalogSection": "五言绝句",
+      "aliases": [
+        "天涯"
+      ],
+      "sourceTitle": "天涯",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "天涯",
         "author": "李商隐",
@@ -24506,6 +27259,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "五绝"
       },
+      "displayTitle": "续父井梧吟",
+      "displayDynasty": "唐",
+      "displayGenre": "五言绝句",
+      "catalogSection": "五言绝句",
+      "aliases": [
+        "续父井梧吟",
+        "續父井梧吟"
+      ],
+      "sourceTitle": "续父井梧吟",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "续父井梧吟",
         "author": "薛郧、薛涛（传）",
@@ -24593,6 +27357,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五绝"
       },
+      "displayTitle": "溪口云",
+      "displayDynasty": "唐",
+      "displayGenre": "五言绝句",
+      "catalogSection": "五言绝句",
+      "aliases": [
+        "溪口云",
+        "溪口雲"
+      ],
+      "sourceTitle": "溪口雲",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "溪口云",
         "author": "张文姬",
@@ -24676,6 +27451,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "五绝"
       },
+      "displayTitle": "送兄",
+      "displayDynasty": "唐",
+      "displayGenre": "五言绝句",
+      "catalogSection": "五言绝句",
+      "aliases": [
+        "送兄"
+      ],
+      "sourceTitle": "送兄",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "送兄",
         "author": "七岁女子",
@@ -24761,6 +27546,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "送魏二",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "送魏二"
+      ],
+      "sourceTitle": "送魏二",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "送魏二",
         "author": "王昌龄",
@@ -24848,6 +27643,21 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七绝"
       },
+      "displayTitle": "采莲曲三首·其二",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "采莲曲三首 二",
+        "相和歌辭 采蓮曲三首 二",
+        "相和歌辞 采莲曲三首 二",
+        "採蓮曲三首 二"
+      ],
+      "sourceTitle": "相和歌辭 采蓮曲三首 二",
+      "formAttributes": [
+        "乐府题式"
+      ],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "采莲曲三首 二",
         "author": "王昌龄",
@@ -24937,6 +27747,16 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七绝"
       },
+      "displayTitle": "早梅",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "早梅"
+      ],
+      "sourceTitle": "早梅",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "早梅",
         "author": "张谓",
@@ -25028,6 +27848,16 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七绝"
       },
+      "displayTitle": "春思二首·其一",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "春思二首 一"
+      ],
+      "sourceTitle": "春思二首 一",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "春思二首 一",
         "author": "贾至",
@@ -25111,6 +27941,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "营州歌",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "营州歌",
+        "營州歌"
+      ],
+      "sourceTitle": "營州歌",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "营州歌",
         "author": "高适",
@@ -25201,6 +28042,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "除夜作",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "除夜作"
+      ],
+      "sourceTitle": "除夜作",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "除夜作",
         "author": "高适",
@@ -25288,6 +28139,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "碛中作",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "碛中作",
+        "磧中作"
+      ],
+      "sourceTitle": "磧中作",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "碛中作",
         "author": "岑参",
@@ -25371,6 +28233,16 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七绝"
       },
+      "displayTitle": "山房春事二首·其一",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "山房春事二首 一"
+      ],
+      "sourceTitle": "山房春事二首 一",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "山房春事二首 一",
         "author": "岑参",
@@ -25458,6 +28330,16 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七绝"
       },
+      "displayTitle": "山房春事二首·其二",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "山房春事二首 二"
+      ],
+      "sourceTitle": "山房春事二首 二",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "山房春事二首 二",
         "author": "岑参",
@@ -25541,6 +28423,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "赵将军歌",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "赵将军歌",
+        "趙將軍歌"
+      ],
+      "sourceTitle": "趙將軍歌",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "赵将军歌",
         "author": "岑参",
@@ -25630,6 +28523,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "山中问答",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "山中问荅",
+        "山中問荅"
+      ],
+      "sourceTitle": "山中問荅",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "山中问荅",
         "author": "李白",
@@ -25713,6 +28617,18 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "游洞庭·其二",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "陪族叔刑部侍郎晔及中书贾舍人至游洞庭五首 二",
+        "陪族叔刑部侍郎曄及中書賈舍人至遊洞庭五首 二",
+        "陪族叔刑部侍郎晔及中书贾舍人至游洞庭五首·其二"
+      ],
+      "sourceTitle": "陪族叔刑部侍郎曄及中書賈舍人至遊洞庭五首 二",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "陪族叔刑部侍郎晔及中书贾舍人至游洞庭五首 二",
         "author": "李白",
@@ -25800,6 +28716,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七绝"
       },
+      "displayTitle": "江畔独步寻花七绝句·其五",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "江畔独步寻花七绝句 五",
+        "江畔獨步尋花七絕句 五"
+      ],
+      "sourceTitle": "江畔獨步尋花七絕句 五",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "江畔独步寻花七绝句 五",
         "author": "杜甫",
@@ -25883,6 +28810,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七绝"
       },
+      "displayTitle": "江畔独步寻花七绝句·其六",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "江畔独步寻花七绝句 六",
+        "江畔獨步尋花七絕句 六"
+      ],
+      "sourceTitle": "江畔獨步尋花七絕句 六",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "江畔独步寻花七绝句 六",
         "author": "杜甫",
@@ -25970,6 +28908,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "寄王舍人竹楼",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "寄王舍人竹楼",
+        "寄王舍人竹樓"
+      ],
+      "sourceTitle": "寄王舍人竹樓",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "寄王舍人竹楼",
         "author": "李嘉祐",
@@ -26057,6 +29006,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "与赵莒茶宴",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "与赵莒茶䜩",
+        "與趙莒茶讌"
+      ],
+      "sourceTitle": "與趙莒茶讌",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "与赵莒茶䜩",
         "author": "钱起",
@@ -26148,6 +29108,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "归雁",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "归雁",
+        "歸雁"
+      ],
+      "sourceTitle": "歸雁",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "归雁",
         "author": "钱起",
@@ -26235,6 +29206,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "巴女谣",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "巴女谣",
+        "巴女謠"
+      ],
+      "sourceTitle": "巴女謠",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "巴女谣",
         "author": "于鹄",
@@ -26324,6 +29306,20 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七绝"
       },
+      "displayTitle": "江南曲",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "江南曲",
+        "相和歌辭 江南曲",
+        "相和歌辞 江南曲"
+      ],
+      "sourceTitle": "相和歌辭 江南曲",
+      "formAttributes": [
+        "乐府题式"
+      ],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "江南曲",
         "author": "于鹄",
@@ -26413,6 +29409,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "题稚川山水",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "题稚川山水",
+        "題稚川山水"
+      ],
+      "sourceTitle": "題稚川山水",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "题稚川山水",
         "author": "戴叔伦",
@@ -26500,6 +29507,21 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七绝"
       },
+      "displayTitle": "宫怨",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "宫怨",
+        "相和歌辭 宮怨",
+        "相和歌辞 宫怨",
+        "宮怨"
+      ],
+      "sourceTitle": "相和歌辭 宮怨",
+      "formAttributes": [
+        "乐府题式"
+      ],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "宫怨",
         "author": "李益",
@@ -26587,6 +29609,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "登科后",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "登科后",
+        "登科後"
+      ],
+      "sourceTitle": "登科後",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "登科后",
         "author": "孟郊",
@@ -26674,6 +29707,16 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七绝"
       },
+      "displayTitle": "盆池五首·其二",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "盆池五首 二"
+      ],
+      "sourceTitle": "盆池五首 二",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "盆池五首 二",
         "author": "韩愈",
@@ -26757,6 +29800,16 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七绝"
       },
+      "displayTitle": "盆池五首·其五",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "盆池五首 五"
+      ],
+      "sourceTitle": "盆池五首 五",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "盆池五首 五",
         "author": "韩愈",
@@ -26840,6 +29893,16 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七绝"
       },
+      "displayTitle": "秋思",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "秋思"
+      ],
+      "sourceTitle": "秋思",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "秋思",
         "author": "张籍",
@@ -26927,6 +29990,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "江村即事",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "江村即事"
+      ],
+      "sourceTitle": "江村即事",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "江村即事",
         "author": "司空曙",
@@ -27010,6 +30083,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "望洞庭",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "望洞庭"
+      ],
+      "sourceTitle": "望洞庭",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "望洞庭",
         "author": "刘禹锡",
@@ -27093,6 +30176,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七绝"
       },
+      "displayTitle": "踏歌词四首·其一",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "踏歌词四首 一",
+        "踏歌詞四首 一"
+      ],
+      "sourceTitle": "踏歌詞四首 一",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "踏歌词四首 一",
         "author": "刘禹锡",
@@ -27182,6 +30276,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "望夫石",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "望夫石"
+      ],
+      "sourceTitle": "望夫石",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "望夫石",
         "author": "刘禹锡",
@@ -27261,6 +30365,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "大林寺桃花",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "大林寺桃花"
+      ],
+      "sourceTitle": "大林寺桃花",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "大林寺桃花",
         "author": "白居易",
@@ -27302,15 +30416,15 @@
       "dynasty": "唐",
       "paragraphs": [
         "花时同醉破春愁，醉折花枝当酒筹。",
-        "忽忆故人天际去，计程今日到凉州。"
+        "忽忆故人天际去，计程今日到梁州。"
       ],
       "sentences": [
         "花时同醉破春愁，",
         "醉折花枝当酒筹。",
         "忽忆故人天际去，",
-        "计程今日到凉州。"
+        "计程今日到梁州。"
       ],
-      "text": "花时同醉破春愁，醉折花枝当酒筹。\n忽忆故人天际去，计程今日到凉州。",
+      "text": "花时同醉破春愁，醉折花枝当酒筹。\n忽忆故人天际去，计程今日到梁州。",
       "form": {
         "sentenceCount": 4,
         "characterCounts": [
@@ -27344,13 +30458,36 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "sourceText": "花时同醉破春愁，醉折花枝当酒筹。\n忽忆故人天际去，计程今日到凉州。",
+      "textCorrection": {
+        "status": "accepted-for-editorial-draft",
+        "reason": "此为据版本择读，不认定“凉州”为单纯录入错误。《御定全唐诗》卷437录“凉”并校“一作梁”，《白氏长庆集》四库本仍作“涼”；唐白行简《三梦记》引此诗作“计程今日到梁州”，同时记元稹奉使剑外、应已达梁州，清《诗家全体》亦作“梁”。本呈现稿选择“梁州”以对应汉中一带的梁州，原“凉州”作为异文保留；首句及当／作等其余差异不拼合替换。",
+        "verificationRefs": [
+          "https://zh.wikisource.org/wiki/三夢記",
+          "https://zh.wikisource.org/wiki/御定全唐詩_(四庫全書本)/卷437",
+          "https://www.shidianguji.com/zh/mid-page/7430934928273211430",
+          "https://zh.wikisource.org/wiki/白氏長慶集_(四庫全書本)/卷14"
+        ],
+        "record": "data/expansion/tang-second-volume/text-corrections.json"
+      },
+      "displayTitle": "同李十一醉忆元九",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "同李十一醉忆元九",
+        "同李十一醉憶元九"
+      ],
+      "sourceTitle": "同李十一醉憶元九",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "同李十一醉忆元九",
         "author": "白居易",
         "order": 280,
         "summary": "花开时与友人饮酒，本想暂解春愁，却忽然想起另一个远行的人。酒意还在，心已越过千山，细细算着他今天走到了哪里。",
         "interpretation": [
-          "花开的时节，我与李十一一起饮酒，想消解心中的春愁，醉后折下花枝当作酒筹。忽然记起元九正在天涯远行，便按着路程推算，他今天该到诗中所说的那一州了。"
+          "花开的时节，我与李十一一起饮酒，想消解心中的春愁，醉后折下花枝当作酒筹。忽然记起元九正在天涯远行，便按着路程推算，他今天该到梁州了。"
         ],
         "glossary": [
           {
@@ -27366,8 +30503,8 @@
             "text": "饮酒时用来行令、计数的筹子。"
           },
           {
-            "term": "凉州／梁州",
-            "text": "源文作凉州，另本作梁州；两者地望不同，成品前需校定。"
+            "term": "梁州",
+            "text": "此处取汉中一带的梁州，与元稹奉使剑外的行程相应。另本作“凉州”；《全唐诗》已列两读，本稿据《三梦记》所引选择“梁”。"
           }
         ],
         "basis": {
@@ -27376,12 +30513,17 @@
             "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.22000.json"
           ],
           "verificationRefs": [
-            "https://zh.wikisource.org/zh-hans/同李十一醉忆元九"
+            "https://zh.wikisource.org/zh-hans/同李十一醉忆元九",
+            "https://zh.wikisource.org/wiki/三夢記",
+            "https://zh.wikisource.org/wiki/御定全唐詩_(四庫全書本)/卷437",
+            "https://www.shidianguji.com/zh/mid-page/7430934928273211430",
+            "https://zh.wikisource.org/wiki/白氏長慶集_(四庫全書本)/卷14"
           ]
         },
         "reviewStatus": "editorial-draft",
         "reviewNotes": [
-          "末句源文“凉州”与《全唐诗》系统记载“一作梁”并存，通行解释常取汉中梁州；本稿不把目的地误释为甘肃凉州，须结合底本及元稹行程专门定校。"
+          "制作稿已校订：此为据版本择读，不认定“凉州”为单纯录入错误。《御定全唐诗》卷437录“凉”并校“一作梁”，《白氏长庆集》四库本仍作“涼”；唐白行简《三梦记》引此诗作“计程今日到梁州”，同时记元稹奉使剑外、应已达梁州，清《诗家全体》亦作“梁”。本呈现稿选择“梁州”以对应汉中一带的梁州，原“凉州”作为异文保留；首句及当／作等其余差异不拼合替换。 原始 poems.json 保留原貌，本次仅用于独立编辑预览，尚非纸书终校。",
+          "初稿记录（归档底本）：末句源文“凉州”与《全唐诗》系统记载“一作梁”并存，通行解释常取汉中梁州；本稿不把目的地误释为甘肃凉州，须结合底本及元稹行程专门定校。"
         ],
         "artDirection": "Two Tang friends drinking beneath spring blossoms, one holding a small flowering twig as a tally and suddenly gazing into the distance. An empty place beside their cups suggests the absent friend; no desert setting or invented exact travel map."
       },
@@ -27439,6 +30581,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "与浩初上人同看山寄京华亲故",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "与浩初上人同看山寄京华亲故",
+        "與浩初上人同看山寄京華親故"
+      ],
+      "sourceTitle": "與浩初上人同看山寄京華親故",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "与浩初上人同看山寄京华亲故",
         "author": "柳宗元",
@@ -27535,6 +30688,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "闻乐天授江州司马",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "闻乐天授江州司马",
+        "聞樂天授江州司馬"
+      ],
+      "sourceTitle": "聞樂天授江州司馬",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "闻乐天授江州司马",
         "author": "元稹",
@@ -27626,6 +30790,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "菊花",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "菊花"
+      ],
+      "sourceTitle": "菊花",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "菊花",
         "author": "元稹",
@@ -27709,6 +30883,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "使东川·江花落",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "使东川 江花落",
+        "使東川 江花落"
+      ],
+      "sourceTitle": "使東川 江花落",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "使东川 江花落",
         "author": "元稹",
@@ -27792,6 +30977,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "小儿垂钓",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "小儿垂钓",
+        "小兒垂釣"
+      ],
+      "sourceTitle": "小兒垂釣",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "小儿垂钓",
         "author": "胡令能",
@@ -27879,6 +31075,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "忆扬州",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "忆扬州",
+        "憶揚州"
+      ],
+      "sourceTitle": "憶揚州",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "忆扬州",
         "author": "徐凝",
@@ -27962,6 +31169,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "赠去婢",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "赠去婢",
+        "贈去婢"
+      ],
+      "sourceTitle": "贈去婢",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "赠去婢",
         "author": "崔郊",
@@ -28051,6 +31269,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七绝"
       },
+      "displayTitle": "南园十三首·其五",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "南园十三首 五",
+        "南園十三首 五"
+      ],
+      "sourceTitle": "南園十三首 五",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "南园十三首 五",
         "author": "李贺",
@@ -28142,6 +31371,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七绝"
       },
+      "displayTitle": "南园十三首·其六",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "南园十三首 六",
+        "南園十三首 六"
+      ],
+      "sourceTitle": "南園十三首 六",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "南园十三首 六",
         "author": "李贺",
@@ -28235,6 +31475,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "题桃花夫人庙",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "题桃花夫人庙",
+        "題桃花夫人廟"
+      ],
+      "sourceTitle": "題桃花夫人廟",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "题桃花夫人庙",
         "author": "杜牧",
@@ -28329,6 +31580,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "霜月",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "霜月"
+      ],
+      "sourceTitle": "霜月",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "霜月",
         "author": "李商隐",
@@ -28416,6 +31677,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "初食笋呈座中",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "初食笋呈座中",
+        "初食筍呈座中"
+      ],
+      "sourceTitle": "初食笋呈座中",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "初食笋呈座中",
         "author": "李商隐",
@@ -28511,6 +31783,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "蔡中郎坟",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "蔡中郎坟",
+        "蔡中郎墳"
+      ],
+      "sourceTitle": "蔡中郎墳",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "蔡中郎坟",
         "author": "温庭筠",
@@ -28602,6 +31885,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "山亭夏日",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "山亭夏日"
+      ],
+      "sourceTitle": "山亭夏日",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "山亭夏日",
         "author": "高骈",
@@ -28690,6 +31983,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "汴河怀古二首·其二",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "汴河怀古二首 二",
+        "汴河懷古二首 二"
+      ],
+      "sourceTitle": "汴河懷古二首 二",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "汴河怀古二首 二",
         "author": "皮日休",
@@ -28777,6 +32081,16 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七绝"
       },
+      "displayTitle": "寒食夜",
+      "displayDynasty": "唐末五代",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "寒食夜"
+      ],
+      "sourceTitle": "寒食夜",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "寒食夜",
         "author": "韩偓",
@@ -28860,6 +32174,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七绝"
       },
+      "displayTitle": "和袭美木兰后池三咏·白莲",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "和袭美木兰后池三咏 白莲",
+        "和襲美木蘭後池三詠 白蓮"
+      ],
+      "sourceTitle": "和襲美木蘭後池三詠 白蓮",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "和袭美木兰后池三咏 白莲",
         "author": "陆龟蒙",
@@ -28949,6 +32274,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "再经胡城县",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "再经胡城县",
+        "再經胡城縣"
+      ],
+      "sourceTitle": "再經胡城縣",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "再经胡城县",
         "author": "杜荀鹤",
@@ -29036,6 +32372,16 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "雨晴",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "雨晴"
+      ],
+      "sourceTitle": "雨晴",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "雨晴",
         "author": "王驾",
@@ -29119,6 +32465,21 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七绝"
       },
+      "displayTitle": "古离别",
+      "displayDynasty": "唐末五代",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "古离别",
+        "雜曲歌辭 古離別",
+        "杂曲歌辞 古离别",
+        "古離別"
+      ],
+      "sourceTitle": "雜曲歌辭 古離別",
+      "formAttributes": [
+        "乐府题式"
+      ],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "古离别",
         "author": "韦庄",
@@ -29204,6 +32565,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "题菊花",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "题菊花",
+        "題菊花"
+      ],
+      "sourceTitle": "題菊花",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "题菊花",
         "author": "黄巢",
@@ -29287,6 +32659,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "不第后赋菊",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "不第后赋菊",
+        "不第後賦菊"
+      ],
+      "sourceTitle": "不第後賦菊",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "不第后赋菊",
         "author": "黄巢",
@@ -29376,6 +32759,17 @@
         "catalogStatus": "user-confirmed-selection",
         "sourceSection": "七绝"
       },
+      "displayTitle": "焚书坑",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "焚书坑",
+        "焚書坑"
+      ],
+      "sourceTitle": "焚書坑",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "焚书坑",
         "author": "章谒",
@@ -29469,6 +32863,17 @@
         "catalogStatus": "matched-single-candidate",
         "sourceSection": "七绝"
       },
+      "displayTitle": "怀良人",
+      "displayDynasty": "唐",
+      "displayGenre": "七言绝句",
+      "catalogSection": "七言绝句",
+      "aliases": [
+        "怀良人",
+        "懷良人"
+      ],
+      "sourceTitle": "懷良人",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "怀良人",
         "author": "葛鵶儿",
@@ -29572,6 +32977,17 @@
         "replacesPoemId": "yizhu-0a62ab779f1141d5",
         "note": "App 第二卷补选；不冒充《唐诗撷英》原书篇目。"
       },
+      "displayTitle": "早春寄王汉阳",
+      "displayDynasty": "唐",
+      "displayGenre": "七言古诗",
+      "catalogSection": "七言古诗",
+      "aliases": [
+        "早春寄王汉阳",
+        "早春寄王漢陽"
+      ],
+      "sourceTitle": "早春寄王漢陽",
+      "formAttributes": [],
+      "displayMetadataRef": "data/expansion/tang-second-volume/display-metadata.json",
       "commentary": {
         "title": "早春寄王汉阳",
         "author": "李白",

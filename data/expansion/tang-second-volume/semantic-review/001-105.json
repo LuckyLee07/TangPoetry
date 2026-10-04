@@ -7,7 +7,9 @@
       "order": 1,
       "poemMeaning": "春江月夜由宇宙与代际时间的感叹，转入思妇与游子的隔地相思和归家愿望。",
       "assessment": "consistent",
-      "alignmentNotes": "四段解读依次覆盖潮月花林、江月与人生问答、楼中思妇、潭月归梦；卷不去、拂还来及相望不相闻均保留，碣石潇湘以南北远隔处理，异文已有说明。",
+      "alignmentNotes": [
+        "四段解读依次覆盖潮月花林、江月与人生问答、楼中思妇、潭月归梦；卷不去、拂还来及相望不相闻均保留，碣石潇湘以南北远隔处理，异文已有说明。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-76caedeb379ad9e0",
@@ -20,7 +22,9 @@
       "order": 2,
       "poemMeaning": "茅屋被风揭、群童抱茅、长夜漏雨的个人苦难，最终化为庇护天下寒士的舍己愿望。",
       "assessment": "consistent",
-      "alignmentNotes": "秋风、群童、被裂屋漏、丧乱失眠到广厦愿望的顺序完整；忍能的愤慨和何由彻、何时见屋的问句未被弱化，床床及倚仗的底本问题已列待核。",
+      "alignmentNotes": [
+        "秋风、群童、被裂屋漏、丧乱失眠到广厦愿望的顺序完整；忍能的愤慨和何由彻、何时见屋的问句未被弱化，床床及倚仗的底本问题已列待核。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-e20a1fe86feea9fb",
@@ -33,7 +37,9 @@
       "order": 3,
       "poemMeaning": "卖炭翁为衣食盼寒，辛苦运炭进城，却遭假托敕令的宫使强夺并被低价抵偿。",
       "assessment": "consistent",
-      "alignmentNotes": "三段分别对齐烧炭谋生、冰雪赶车、宫使夺炭；衣单而愿寒的矛盾、牛困人饥、惜不得和充炭直均准确，未将强夺写成自愿交易。",
+      "alignmentNotes": [
+        "三段分别对齐烧炭谋生、冰雪赶车、宫使夺炭；衣单而愿寒的矛盾、牛困人饥、惜不得和充炭直均准确，未将强夺写成自愿交易。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-84a9347da2380295",
@@ -46,7 +52,9 @@
       "order": 4,
       "poemMeaning": "李凭的箜篌声以花木悲欢和震动神界的奇想，呈现清脆、哀婉与激越交错的音乐感染力。",
       "assessment": "consistent",
-      "alignmentNotes": "京城高秋的演奏起点、玉碎凤叫与泣露兰笑、补天石破和鱼蛟起舞、月中不眠均有对应；紫皇、吴质的身份保留解释边界。",
+      "alignmentNotes": [
+        "京城高秋的演奏起点、玉碎凤叫与泣露兰笑、补天石破和鱼蛟起舞、月中不眠均有对应；紫皇、吴质的身份保留解释边界。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-b822224df2a84a19",
@@ -59,7 +67,9 @@
       "order": 5,
       "poemMeaning": "幽林芳草由春夏繁茂走向秋日摇落，寄托美好才性无人知遇、终无所成的怅惘。",
       "assessment": "consistent",
-      "alignmentNotes": "兰若作为两种芳草、朱蕤紫茎、白日晚与秋风生及末句反问均准确衔接；借草喻才性与全篇幽独芳意相合。",
+      "alignmentNotes": [
+        "兰若作为两种芳草、朱蕤紫茎、白日晚与秋风生及末句反问均准确衔接；借草喻才性与全篇幽独芳意相合。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-5971557650b64586",
@@ -72,7 +82,9 @@
       "order": 6,
       "poemMeaning": "使者简从出塞，以蓬雁自况孤旅，在大漠落日中得知主将在更远的边防前线。",
       "assessment": "consistent",
-      "alignmentNotes": "使者身份、出汉塞入胡天的方向、大漠孤烟长河落日与候吏传达都护消息均对应；属国主语与居延燕然地理虚实已有明确保留。",
+      "alignmentNotes": [
+        "使者身份、出汉塞入胡天的方向、大漠孤烟长河落日与候吏传达都护消息均对应；属国主语与居延燕然地理虚实已有明确保留。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-68170c83f1106590",
@@ -85,7 +97,9 @@
       "order": 7,
       "poemMeaning": "将军在枯草消雪的冬末驰猎，迅疾返营后回望暮云下的射雕旷野。",
       "assessment": "consistent",
-      "alignmentNotes": "鹰眼因草枯而敏锐、马蹄因雪尽而轻、忽过还归的速度与回看的转静均对应；劲风吹动与角弓声是并置，可以通解为劲风中射猎弦鸣。",
+      "alignmentNotes": [
+        "鹰眼因草枯而敏锐、马蹄因雪尽而轻、忽过还归的速度与回看的转静均对应；劲风吹动与角弓声是并置，可以通解为劲风中射猎弦鸣。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-e50f62e605ab8e0b",
@@ -98,7 +112,9 @@
       "order": 8,
       "poemMeaning": "及时春雨悄然滋润万物，夜里黑云与船火相映，诗人预想翌晨成都含雨繁花。",
       "assessment": "consistent",
-      "alignmentNotes": "知时节与潜入夜的拟人、细雨无声、黑云独火、晓看花重的未来想象均准确；锦官城释成都无误。",
+      "alignmentNotes": [
+        "知时节与潜入夜的拟人、细雨无声、黑云独火、晓看花重的未来想象均准确；锦官城释成都无误。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-00076e7d82bc60a0",
@@ -111,7 +127,9 @@
       "order": 9,
       "poemMeaning": "因进谏而急遭远贬的诗人在秦岭蓝关的风雪中坚守除弊初衷，并托侄孙收殓遗骨。",
       "assessment": "consistent",
-      "alignmentNotes": "朝奏夕贬的急转、肯将的否定反问、家何在与马不前、知汝远来及收骨嘱托均保留；谏佛骨仅作背景说明。",
+      "alignmentNotes": [
+        "朝奏夕贬的急转、肯将的否定反问、家何在与马不前、知汝远来及收骨嘱托均保留；谏佛骨仅作背景说明。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-59a335c4bc9a0977",
@@ -124,7 +142,9 @@
       "order": 10,
       "poemMeaning": "长期贬谪归来的诗人感叹旧友凋零和世事变迁，借新生景象、友人赠诗与酒暂振精神。",
       "assessment": "consistent",
-      "alignmentNotes": "二十三年与巴楚贬居、向秀闻笛和王质烂柯两典、沉舟病树的自况、暂凭酒长精神都与原诗相合，未抹去怀旧惘然。",
+      "alignmentNotes": [
+        "二十三年与巴楚贬居、向秀闻笛和王质烂柯两典、沉舟病树的自况、暂凭酒长精神都与原诗相合，未抹去怀旧惘然。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-456df820a8b75674",
@@ -137,7 +157,9 @@
       "order": 11,
       "poemMeaning": "骑行钱塘湖畔的诗人在水涨云低、莺燕花草的初春变化中，尤其留恋绿杨掩映的白沙堤。",
       "assessment": "consistent",
-      "alignmentNotes": "孤山寺贾亭定位、早莺新燕、渐欲与才能所示初春层次和最爱行不足的主观留恋均保留。",
+      "alignmentNotes": [
+        "孤山寺贾亭定位、早莺新燕、渐欲与才能所示初春层次和最爱行不足的主观留恋均保留。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-d5e90af45bfdfc41",
@@ -150,7 +172,9 @@
       "order": 12,
       "poemMeaning": "登咸阳城楼所见风雨将至与秦汉宫苑荒败，引出旧都兴亡和渭水长流的万里愁。",
       "assessment": "consistent",
-      "alignmentNotes": "云起日沉到雨未到风已满楼、秦苑暮鸟和汉宫秋蝉、莫问当年与流水收束均对应；题名方向异文已有记录。",
+      "alignmentNotes": [
+        "云起日沉到雨未到风已满楼、秦苑暮鸟和汉宫秋蝉、莫问当年与流水收束均对应；题名方向异文已有记录。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-2b3a9e48d77def9f",
@@ -163,7 +187,9 @@
       "order": 13,
       "poemMeaning": "暮色寒山中的清贫住处，因风雪夜里柴门犬吠和归人出现而有了动静。",
       "assessment": "consistent",
-      "alignmentNotes": "日暮天寒、苍山白屋、闻犬吠与风雪归人四层信息均完整；未指定夜归人为主人或诗人，符合现有解释分歧。",
+      "alignmentNotes": [
+        "日暮天寒、苍山白屋、闻犬吠与风雪归人四层信息均完整；未指定夜归人为主人或诗人，符合现有解释分歧。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-9aea75c1a815593f",
@@ -176,7 +202,9 @@
       "order": 14,
       "poemMeaning": "正午锄禾的汗水揭示盘中每粒粮食都凝结农人的辛苦。",
       "assessment": "consistent",
-      "alignmentNotes": "锄禾的田间劳动、日当午与汗滴土、谁知的追问及粒粒辛苦准确互相对应。",
+      "alignmentNotes": [
+        "锄禾的田间劳动、日当午与汗滴土、谁知的追问及粒粒辛苦准确互相对应。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-79aa95ffb774867a",
@@ -189,7 +217,9 @@
       "order": 15,
       "poemMeaning": "早春柳树的绿枝细叶以碧玉丝带作比，再以春风剪刀回答叶子的巧妙生成。",
       "assessment": "consistent",
-      "alignmentNotes": "一树高与万条下垂、细叶谁裁的设问、农历二月春风似剪刀的比喻均保留；丝绦词注明确。",
+      "alignmentNotes": [
+        "一树高与万条下垂、细叶谁裁的设问、农历二月春风似剪刀的比喻均保留；丝绦词注明确。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-700df717b52858f7",
@@ -202,7 +232,9 @@
       "order": 16,
       "poemMeaning": "苍茫边塞中百战磨穿铠甲的将士，立誓不胜强敌决不回还。",
       "assessment": "consistent",
-      "alignmentNotes": "青海长云暗雪山的寒苦、孤城遥望关塞、穿金甲的苦战与不破终不还的否定誓言一致；雁门关为已注明有据异文，不作地理实景串接。",
+      "alignmentNotes": [
+        "青海长云暗雪山的寒苦、孤城遥望关塞、穿金甲的苦战与不破终不还的否定誓言一致；雁门关为已注明有据异文，不作地理实景串接。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-aafb675e8b63f9fd",
@@ -215,7 +247,9 @@
       "order": 17,
       "poemMeaning": "风沙中援军出营行进时，前军夜战并擒敌首的捷报已传来。",
       "assessment": "consistent",
-      "alignmentNotes": "日昏风尘、半卷红旗出辕门、洮河北前军夜战与已报生擒的先后关系准确；吐谷浑作敌方借代并保留首领义。",
+      "alignmentNotes": [
+        "日昏风尘、半卷红旗出辕门、洮河北前军夜战与已报生擒的先后关系准确；吐谷浑作敌方借代并保留首领义。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-9eb865ce65811d46",
@@ -228,7 +262,9 @@
       "order": 18,
       "poemMeaning": "日照香炉峰的紫色水雾与飞瀑极高直落，使诗人恍疑银河坠下九天。",
       "assessment": "consistent",
-      "alignmentNotes": "紫烟、遥看挂川、直下三千尺、疑是九天银河四句均映入解读，夸张与幻觉未作实测。",
+      "alignmentNotes": [
+        "紫烟、遥看挂川、直下三千尺、疑是九天银河四句均映入解读，夸张与幻觉未作实测。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-4c147bd293553a25",
@@ -241,7 +277,9 @@
       "order": 19,
       "poemMeaning": "兰陵香酒与主人劝醉使远客忘却他乡之感。",
       "assessment": "consistent",
-      "alignmentNotes": "郁金草香与琥珀酒色、但使的条件关系、醉客后不辨他乡的情绪都有对应，郁金香未误解为现代花卉。",
+      "alignmentNotes": [
+        "郁金草香与琥珀酒色、但使的条件关系、醉客后不辨他乡的情绪都有对应，郁金香未误解为现代花卉。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-9edb0daf6e8f7316",
@@ -254,7 +292,9 @@
       "order": 20,
       "poemMeaning": "石头城昔日繁华已经消逝，群山潮水和越过城头的旧月仍在荒城中延续。",
       "assessment": "consistent",
-      "alignmentNotes": "山在而城空、潮回的寂寞拟人、旧时月与夜深还过的今昔对照一致；淮水释秦淮、女墙释城垣顶部矮墙准确。",
+      "alignmentNotes": [
+        "山在而城空、潮回的寂寞拟人、旧时月与夜深还过的今昔对照一致；淮水释秦淮、女墙释城垣顶部矮墙准确。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-6bc4921f54ea9b1e",
@@ -267,7 +307,9 @@
       "order": 21,
       "poemMeaning": "女子听见江上情郎的歌声，借东晴西雨和晴情双关试探若有若无的情意。",
       "assessment": "consistent",
-      "alignmentNotes": "杨柳江水的春景、闻郎唱歌的听觉触发、东西不同天气与无晴却有晴的双关对应完整，保留情意难猜的含蓄。",
+      "alignmentNotes": [
+        "杨柳江水的春景、闻郎唱歌的听觉触发、东西不同天气与无晴却有晴的双关对应完整，保留情意难猜的含蓄。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-20ba76b968927758",
@@ -280,7 +322,9 @@
       "order": 22,
       "poemMeaning": "曾有不可替代的深情，诗人对他人淡于回顾，并把原因分作修道与怀念所爱。",
       "assessment": "consistent",
-      "alignmentNotes": "沧海巫山的排他性比喻、取次懒回顾、半缘修道半缘君两重原因均保留；悼亡生平作为通行理解说明而不补造。",
+      "alignmentNotes": [
+        "沧海巫山的排他性比喻、取次懒回顾、半缘修道半缘君两重原因均保留；悼亡生平作为通行理解说明而不补造。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-d05fe8438a12505d",
@@ -293,7 +337,9 @@
       "order": 23,
       "poemMeaning": "清明雨中愁闷的行人询问酒家，牧童远指杏花村落。",
       "assessment": "consistent",
-      "alignmentNotes": "清明连雨、行人欲断魂、借问与遥指的问答顺序一致；饮酒解愁是合理释义，未锁定杏花村现实地点，署名归属待核已有说明。",
+      "alignmentNotes": [
+        "清明连雨、行人欲断魂、借问与遥指的问答顺序一致；饮酒解愁是合理释义，未锁定杏花村现实地点，署名归属待核已有说明。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-009fb1a9c180ce4b",
@@ -306,7 +352,9 @@
       "order": 24,
       "poemMeaning": "秋山石径与云间人家引入停车赏枫，诗人赞霜叶红艳胜过春花。",
       "assessment": "consistent",
-      "alignmentNotes": "远上石径、白云生处人家、坐作为因为、枫林晚及红于二月花的比较准确对应。",
+      "alignmentNotes": [
+        "远上石径、白云生处人家、坐作为因为、枫林晚及红于二月花的比较准确对应。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-c4adf6ab8ef4f9ed",
@@ -319,7 +367,9 @@
       "order": 25,
       "poemMeaning": "蜜蜂遍采山野百花酿蜜，诗人借为谁辛苦为谁甜追问劳动与享用的关系。",
       "assessment": "consistent",
-      "alignmentNotes": "平地山尖的遍布、尽占风光的拟人、采百花成蜜的先后与两个为谁反问均保留，词注避免误作毁花。",
+      "alignmentNotes": [
+        "平地山尖的遍布、尽占风光的拟人、采百花成蜜的先后与两个为谁反问均保留，词注避免误作毁花。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-1a5b013193a6623b",
@@ -332,7 +382,9 @@
       "order": 26,
       "poemMeaning": "丰足乡村在社祭结束的斜日下，各家扶着饮醉者归来，呈现农家节庆欢乐。",
       "assessment": "consistent",
-      "alignmentNotes": "稻粱丰美、半掩院门、桑柘斜影、社散醉归全部对应；春社与稻粱肥的季节疑难已注明，未误换秋社。",
+      "alignmentNotes": [
+        "稻粱丰美、半掩院门、桑柘斜影、社散醉归全部对应；春社与稻粱肥的季节疑难已注明，未误换秋社。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-bdb70d2a52e032f4",
@@ -345,7 +397,9 @@
       "order": 27,
       "poemMeaning": "春深水湾的钓者从清潭与荷动感知鱼情，日暮仍系舟杨岸等待有情之人。",
       "assessment": "consistent",
-      "alignmentNotes": "春深杏乱、潭清故疑浅、荷动故知鱼散、日暮待人维舟的因果和顺序明确；情人不强限定为现代恋人称谓。",
+      "alignmentNotes": [
+        "春深杏乱、潭清故疑浅、荷动故知鱼散、日暮待人维舟的因果和顺序明确；情人不强限定为现代恋人称谓。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-6cf706b3e20e29c8",
@@ -358,7 +412,9 @@
       "order": 28,
       "poemMeaning": "困顿却不肯放弃济民志向的杜甫寒夜返家，经过权贵宴乐与冻饿惨象，因幼子饥卒把悲痛推向失业百姓与远戍士卒。",
       "assessment": "revise",
-      "alignmentNotes": "八段覆盖立志忧民、仕隐矛盾、骊山御宴、丝帛征敛、朱门冻骨、泾渭冰桥、幼子饿死和推己及人的全篇结构；忍为尘埃没被改为接受埋没的假设，削弱前段不甘放弃抱负的语气。",
+      "alignmentNotes": [
+        "八段覆盖立志忧民、仕隐矛盾、骊山御宴、丝帛征敛、朱门冻骨、泾渭冰桥、幼子饿死和推己及人的全篇结构；忍为尘埃没被改为接受埋没的假设，削弱前段不甘放弃抱负的语气。"
+      ],
       "issues": [
         {
           "severity": "moderate",
@@ -434,7 +490,9 @@
       "order": 29,
       "poemMeaning": "农民预售未成新丝新谷以补眼前急难，诗人愿君王不照贵人宴席而专照逃亡农舍。",
       "assessment": "revise",
-      "alignmentNotes": "二月五月的预售、剜肉补疮的透支比喻和烛心愿望均对应；末段把排他的不照只照改成兼顾宴席与贫家的递进关系。",
+      "alignmentNotes": [
+        "二月五月的预售、剜肉补疮的透支比喻和烛心愿望均对应；末段把排他的不照只照改成兼顾宴席与贫家的递进关系。"
+      ],
       "issues": [
         {
           "severity": "major",
@@ -474,7 +532,9 @@
       "order": 30,
       "poemMeaning": "长安车马宫阁和情爱歌舞的繁华被权贵争权扩展到极盛，随后转入盛衰无常与扬雄清贫著书的对照。",
       "assessment": "interpretive-uncertainty",
-      "alignmentNotes": "五段完整覆盖大道宫第、楼中情爱、游侠歌妓、市井豪华、将相专权与书斋桂花收束；连甍已按覆盖层校订生效。萧相有萧何与萧望之注释分歧；屠苏仅写屋宇则漏掉本处酒宴语境中的酒名义。",
+      "alignmentNotes": [
+        "五段完整覆盖大道宫第、楼中情爱、游侠歌妓、市井豪华、将相专权与书斋桂花收束；连甍已按覆盖层校订生效。萧相有萧何与萧望之注释分歧；屠苏仅写屋宇则漏掉本处酒宴语境中的酒名义。"
+      ],
       "issues": [
         {
           "severity": "minor",
@@ -565,7 +625,9 @@
       "order": 31,
       "poemMeaning": "洛阳落花引出青春易逝、年年花似而代代人异的感喟，昔日少年老病失宠后歌舞地也只余黄昏鸟声。",
       "assessment": "consistent",
-      "alignmentNotes": "前三层从女儿见落花到古今人物更替，再从红颜子劝怜白头翁转为其荣枯身世，最后容颜衰老与歌舞地寂灭完整对应。",
+      "alignmentNotes": [
+        "前三层从女儿见落花到古今人物更替，再从红颜子劝怜白头翁转为其荣枯身世，最后容颜衰老与歌舞地寂灭完整对应。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-873a9dd8fedf78eb",
@@ -578,7 +640,9 @@
       "order": 32,
       "poemMeaning": "八位名士各具醉态，诗以酒量与姿态连写放旷、风度、诗书和雄辩的才情。",
       "assessment": "consistent",
-      "alignmentNotes": "三段逐一覆盖贺知章、汝阳王、李适之、崔宗之、苏晋、李白、张旭、焦遂八人，酒中圣贤和世贤异文已有说明，夸张事迹未当史实。",
+      "alignmentNotes": [
+        "三段逐一覆盖贺知章、汝阳王、李适之、崔宗之、苏晋、李白、张旭、焦遂八人，酒中圣贤和世贤异文已有说明，夸张事迹未当史实。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-a6bdf70848c441ec",
@@ -591,7 +655,9 @@
       "order": 33,
       "poemMeaning": "秋夜危城与寒霜战鼓中，将士半卷红旗临易水，愿持剑以死报答君主知遇。",
       "assessment": "consistent",
-      "alignmentNotes": "黑云城摧、甲如金鳞、秋角燕支紫、易水重霜鼓不起与黄金台玉龙报恩全部对应；向月异文与燕支色彩分歧已有注明。",
+      "alignmentNotes": [
+        "黑云城摧、甲如金鳞、秋角燕支紫、易水重霜鼓不起与黄金台玉龙报恩全部对应；向月异文与燕支色彩分歧已有注明。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-85f57e822a5eff50",
@@ -604,7 +670,9 @@
       "order": 34,
       "poemMeaning": "汉宫铜人被魏官移走，怀想逝去汉主而泪如铅水，在秋兰荒月和渐远渭声中悲别旧朝。",
       "assessment": "consistent",
-      "alignmentNotes": "汉武帝消逝与宫苑苔碧、魏官迁移东关风、汉月清泪、衰兰天老和携盘渭城渐远的时序与拟人主语均明确。",
+      "alignmentNotes": [
+        "汉武帝消逝与宫苑苔碧、魏官迁移东关风、汉月清泪、衰兰天老和携盘渭城渐远的时序与拟人主语均明确。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-e8d9e6396bc188a1",
@@ -617,7 +685,9 @@
       "order": 35,
       "poemMeaning": "酒宴中的失意少年被主父偃、马周困后得遇的故事鼓舞，终于由幽寒悲叹转向凌云志气。",
       "assessment": "consistent",
-      "alignmentNotes": "零落饮酒与主人奉觞、两位古人的困顿与知遇、迷魂鸡鸣和少年拏云的情感转折完整；家人折柳写久候盼归可通，主客说话边界已有保留。",
+      "alignmentNotes": [
+        "零落饮酒与主人奉觞、两位古人的困顿与知遇、迷魂鸡鸣和少年拏云的情感转折完整；家人折柳写久候盼归可通，主客说话边界已有保留。"
+      ],
       "issues": [],
       "verificationRefs": [
         "https://wenhui.whb.cn/third/yidian/201810/29/220668.html"
@@ -632,7 +702,9 @@
       "order": 36,
       "poemMeaning": "秋暮野望中牧猎者归家，徘徊无依又无相识的诗人长歌怀想采薇隐者。",
       "assessment": "consistent",
-      "alignmentNotes": "薄暮徙倚无依、树秋山晖、驱犊带禽的返归、无相识与采薇古人形成完整对照；伯夷叔齐典故合适。",
+      "alignmentNotes": [
+        "薄暮徙倚无依、树秋山晖、驱犊带禽的返归、无相识与采薇古人形成完整对照；伯夷叔齐典故合适。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-24a386f1d0e1bb54",
@@ -645,7 +717,9 @@
       "order": 37,
       "poemMeaning": "上元灯夜通道开放、马尘人月和歌舞交织，诗人希望夜禁已解的欢乐良宵不要被漏声催尽。",
       "assessment": "consistent",
-      "alignmentNotes": "火树银花与铁锁开、暗尘随马明月逐人、秾李形貌与落梅乐曲、金吾不禁和玉漏莫催均对应，未将落梅误作落花。",
+      "alignmentNotes": [
+        "火树银花与铁锁开、暗尘随马明月逐人、秾李形貌与落梅乐曲、金吾不禁和玉漏莫催均对应，未将落梅误作落花。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-7968f964d40de859",
@@ -658,7 +732,9 @@
       "order": 38,
       "poemMeaning": "禅房空林峰壑及夕照雨翠的清幽景象，以莲花洁净映照义公不染世俗之心。",
       "assessment": "consistent",
-      "alignmentNotes": "义公习禅的主体、房舍依林、户外峰与阶前壑、雨足空翠的庭阴、莲净心净譬喻均有准确对应。",
+      "alignmentNotes": [
+        "义公习禅的主体、房舍依林、户外峰与阶前壑、雨足空翠的庭阴、莲净心净譬喻均有准确对应。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-444a0ce4ebffe52f",
@@ -671,7 +747,9 @@
       "order": 39,
       "poemMeaning": "秋夜独坐因衰鬓老病而悲，诗人放弃炼金长生的希望，转向佛家无生之理寻求超脱。",
       "assessment": "consistent",
-      "alignmentNotes": "近二更空堂、雨中果落与灯下虫鸣的内外声景、白发难变黄金难成的否定、唯有学无生的转折准确。",
+      "alignmentNotes": [
+        "近二更空堂、雨中果落与灯下虫鸣的内外声景、白发难变黄金难成的否定、唯有学无生的转折准确。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-d82faeb7efdeb7f8",
@@ -684,7 +762,9 @@
       "order": 40,
       "poemMeaning": "五月天山雪寒无春，战士只有笛曲折柳可闻，在昼战夜卧的艰苦中仍愿持剑斩敌。",
       "assessment": "consistent",
-      "alignmentNotes": "无花只有寒、曲中折柳与现实未见春的对照、晓战宵眠和愿斩楼兰的决心都保留；楼兰典故明确。",
+      "alignmentNotes": [
+        "无花只有寒、曲中折柳与现实未见春的对照、晓战宵眠和愿斩楼兰的决心都保留；楼兰典故明确。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-320270075e2d7b36",
@@ -697,7 +777,9 @@
       "order": 41,
       "poemMeaning": "杜甫称赞远方李白兼具庾信清新与鲍照俊逸，借渭北春树江东暮云盼重会饮酒论诗。",
       "assessment": "consistent",
-      "alignmentNotes": "不群诗思、庾鲍两典、渭北我与江东友的空间对应、何时重与细论的重会愿望一致。",
+      "alignmentNotes": [
+        "不群诗思、庾鲍两典、渭北我与江东友的空间对应、何时重与细论的重会愿望一致。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-ade4087e0b09e485",
@@ -710,7 +792,9 @@
       "order": 42,
       "poemMeaning": "房兵曹的大宛良马骨棱耳峻、蹄轻骁腾，能无远不至并在危急中托付生死。",
       "assessment": "consistent",
-      "alignmentNotes": "大宛名马、瘦骨锋棱、竹批耳与风入蹄的形态速度、无空阔与托死生到万里横行的推赞均覆盖。",
+      "alignmentNotes": [
+        "大宛名马、瘦骨锋棱、竹批耳与风入蹄的形态速度、无空阔与托死生到万里横行的推赞均覆盖。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-3ea255ae5fcb81d9",
@@ -723,7 +807,9 @@
       "order": 43,
       "poemMeaning": "湘灵瑟声引动神、人、金石和香草，并以苍梧舜的哀思、潇浦流水与洞庭悲风展开，曲终只余江山。",
       "assessment": "interpretive-uncertainty",
-      "alignmentNotes": "神女鼓瑟、冯夷舞楚客悲、苦调金石清音高远、流水悲风、曲终人隐青峰余韵全篇完整；苍梧来怨慕的主体及来字关系尚需择注，当前从苍梧传来她的哀思过于定向。",
+      "alignmentNotes": [
+        "神女鼓瑟、冯夷舞楚客悲、苦调金石清音高远、流水悲风、曲终人隐青峰余韵全篇完整；苍梧来怨慕的主体及来字关系尚需择注，当前从苍梧传来她的哀思过于定向。"
+      ],
       "issues": [
         {
           "severity": "moderate",
@@ -782,7 +868,9 @@
       "order": 44,
       "poemMeaning": "访李凝幽居的僧人沿荒园草径在月下敲门，桥外山石云气更添清幽，并约定日后再来。",
       "assessment": "consistent",
-      "alignmentNotes": "少邻荒园、池边鸟宿与月下僧敲、过桥野色、暂去还来幽期不负均对应；移石动云根的行移或搬石差异已注明，不判现有读法为错。",
+      "alignmentNotes": [
+        "少邻荒园、池边鸟宿与月下僧敲、过桥野色、暂去还来幽期不负均对应；移石动云根的行移或搬石差异已注明，不判现有读法为错。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-e4a6874197df2930",
@@ -795,7 +883,9 @@
       "order": 45,
       "poemMeaning": "吴处士扬帆闽地后久无归讯，长安秋风落叶使诗人回忆雷雨寒夜相聚而越发思友。",
       "assessment": "consistent",
-      "alignmentNotes": "扬帆去闽、蟾月亏团的时间、渭水长安的现景、此地聚会雷雨的回忆、未返兰桡与海云消息的远隔准确。",
+      "alignmentNotes": [
+        "扬帆去闽、蟾月亏团的时间、渭水长安的现景、此地聚会雷雨的回忆、未返兰桡与海云消息的远隔准确。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-e0c7823d3af8fb4f",
@@ -808,7 +898,9 @@
       "order": 46,
       "poemMeaning": "雨后秋寺蝉声苔阶白鸟暮霭的清幽，与竹西路外扬州的繁华歌吹形成对照。",
       "assessment": "consistent",
-      "alignmentNotes": "独蝉松桂秋、满阶苔故迟留白鸟、树深暮霭和小楼斜阳、谁知外城歌吹的转折都准确对应。",
+      "alignmentNotes": [
+        "独蝉松桂秋、满阶苔故迟留白鸟、树深暮霭和小楼斜阳、谁知外城歌吹的转折都准确对应。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-ceb3ce9e6f23d140",
@@ -821,7 +913,9 @@
       "order": 47,
       "poemMeaning": "春去夏清时雨后晚晴照亮幽草高阁小窗，干巢鸟轻飞使迟到的晴光倍受珍惜。",
       "assessment": "consistent",
-      "alignmentNotes": "深居夹城、春夏交替、天怜幽草人重晚晴、阁迥窗明和越鸟巢干体轻均有对应，身世象征保留为可能。",
+      "alignmentNotes": [
+        "深居夹城、春夏交替、天怜幽草人重晚晴、阁迥窗明和越鸟巢干体轻均有对应，身世象征保留为可能。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-5ee627f18eec074b",
@@ -834,7 +928,9 @@
       "order": 48,
       "poemMeaning": "商山旅人晨铃鸡月、桥霜行迹与山路枳花唤起故乡之悲，并想起杜陵梦中凫雁满塘。",
       "assessment": "consistent",
-      "alignmentNotes": "晨起征铎悲乡、鸡声月与人迹霜的早行证据、槲叶山路枳花驿墙、因思杜陵凫雁梦的由实入梦均完整；未把落叶直接定为秋季。",
+      "alignmentNotes": [
+        "晨起征铎悲乡、鸡声月与人迹霜的早行证据、槲叶山路枳花驿墙、因思杜陵凫雁梦的由实入梦均完整；未把落叶直接定为秋季。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-b8a5b9a7e27f797c",
@@ -847,7 +943,9 @@
       "order": 49,
       "poemMeaning": "巫峡秋气与江涛阴云触发羁留两年的故园泪，孤舟未发而白帝暮砧又催寒衣。",
       "assessment": "consistent",
-      "alignmentNotes": "露凋枫林与峡气萧森、兼天涌接地阴、菊两开泪与舟一系心的双重牵系、刀尺暮砧催衣均覆盖。",
+      "alignmentNotes": [
+        "露凋枫林与峡气萧森、兼天涌接地阴、菊两开泪与舟一系心的双重牵系、刀尺暮砧催衣均覆盖。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-544bd83c17680a2c",
@@ -860,7 +958,9 @@
       "order": 50,
       "poemMeaning": "诗人退朝典衣、江头醉归，以人生难久自宽，愿同蝶蜓春光暂且相赏而不相违。",
       "assessment": "consistent",
-      "alignmentNotes": "日日典衣和尽醉、酒债处处与七十稀的自解、蛱蝶深见蜻蜓款飞、传语春光暂相赏的收束准确。",
+      "alignmentNotes": [
+        "日日典衣和尽醉、酒债处处与七十稀的自解、蛱蝶深见蜻蜓款飞、传语春光暂相赏的收束准确。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-413683288473521d",
@@ -873,7 +973,9 @@
       "order": 51,
       "poemMeaning": "杜甫面对浩大春江，回顾求佳句的执着与老年随兴之诗，临水备筏垂钓并盼陶谢才士同游题写。",
       "assessment": "consistent",
-      "alignmentNotes": "性僻耽句死不休、老去漫兴与花鸟莫愁、水槛浮槎的新设、焉得陶谢手同游述作均对应；莫深愁的拟人或苦吟差异已有说明。",
+      "alignmentNotes": [
+        "性僻耽句死不休、老去漫兴与花鸟莫愁、水槛浮槎的新设、焉得陶谢手同游述作均对应；莫深愁的拟人或苦吟差异已有说明。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-73714dbbf0cf0ee3",
@@ -886,7 +988,9 @@
       "order": 52,
       "poemMeaning": "诗称赞李相公军纪严整、散金酬士、持剑报恩、受将儒尊敬并在春郊白马驰猎的将帅风度。",
       "assessment": "consistent",
-      "alignmentNotes": "建牙吹角不喧、三十登坛、万金酬士一剑报君、老将回席诸生入门、白马春草西猎逐联完整，身份待核不补生平。",
+      "alignmentNotes": [
+        "建牙吹角不喧、三十登坛、万金酬士一剑报君、老将回席诸生入门、白马春草西猎逐联完整，身份待核不补生平。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-a41921ac08510403",
@@ -899,7 +1003,9 @@
       "order": 53,
       "poemMeaning": "表兄庭中夏雨酒醒谈旧，书信不达和亲友凋零的悲凉又被明朝孤舟再别加深。",
       "assessment": "consistent",
-      "alignmentNotes": "夜合香庭醉醒、远书何曾达与旧事不可听的否定、儿童已长亲友半亡、明朝酒幔孤舟离别均对应。",
+      "alignmentNotes": [
+        "夜合香庭醉醒、远书何曾达与旧事不可听的否定、儿童已长亲友半亡、明朝酒幔孤舟离别均对应。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-6aa17caab9f8b2ea",
@@ -912,7 +1018,9 @@
       "order": 54,
       "poemMeaning": "秋风拟作故友重返，诗人在衰病自感中被战马苍鹰的振奋激励，扶病登台望清肃天地。",
       "assessment": "consistent",
-      "alignmentNotes": "首联秋风自述今昔与末联诗人答秋风的主语转换已有明确注记，五更枕觉镜看年貌、马毛鹰眼、扶病高台全篇对应。",
+      "alignmentNotes": [
+        "首联秋风自述今昔与末联诗人答秋风的主语转换已有明确注记，五更枕觉镜看年貌、马毛鹰眼、扶病高台全篇对应。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-161c01906b04bd1b",
@@ -925,7 +1033,9 @@
       "order": 55,
       "poemMeaning": "真伪须经时间检验，诗以玉材试验和周公王莽名实翻转说明不可据片刻表现定人。",
       "assessment": "consistent",
-      "alignmentNotes": "不用占卜、三日七年、周公被疑与王莽未篡谦恭、向使早死真伪谁知的条件反问完整，古代试验说法未当科学知识。",
+      "alignmentNotes": [
+        "不用占卜、三日七年、周公被疑与王莽未篡谦恭、向使早死真伪谁知的条件反问完整，古代试验说法未当科学知识。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-b39c3ec3a2e80a17",
@@ -938,7 +1048,9 @@
       "order": 56,
       "poemMeaning": "久贬荒远的柳宗元与宗一越江挥泪作别，留居桂岭而以梦追向弟弟将去的荆门郢地。",
       "assessment": "consistent",
-      "alignmentNotes": "残红双泪、我去国投荒六千里十二年、桂岭我与洞庭弟的双向景物、此后梦在荆郢烟树均准确，未把两地作同一实景。",
+      "alignmentNotes": [
+        "残红双泪、我去国投荒六千里十二年、桂岭我与洞庭弟的双向景物、此后梦在荆郢烟树均准确，未把两地作同一实景。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-adf4b5cda2b88111",
@@ -951,7 +1063,9 @@
       "order": 57,
       "poemMeaning": "重阳秋江携友登高的诗人劝插菊畅饮，借牛山典故自宽，不必因夕阳和生命无常垂泪。",
       "assessment": "consistent",
-      "alignmentNotes": "涵秋雁飞携壶翠微、难逢笑故插满菊、酩酊而不叹晖、牛山何必泪的否定自劝完整；齐安齐山题名待核已说明。",
+      "alignmentNotes": [
+        "涵秋雁飞携壶翠微、难逢笑故插满菊、酩酊而不叹晖、牛山何必泪的否定自劝完整；齐安齐山题名待核已说明。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-ed9c3b19ab78dd76",
@@ -964,7 +1078,9 @@
       "order": 58,
       "poemMeaning": "李商隐讽刺玄宗杨妃来世盟约无益，马嵬六军停马终断今生，长期帝位反不及卢家夫妇相守。",
       "assessment": "consistent",
-      "alignmentNotes": "徒闻与未卜休、宵柝晓筹的今昔宫旅对照、此日驻马当时笑牵牛、如何天子不及卢家的讽问均保留。",
+      "alignmentNotes": [
+        "徒闻与未卜休、宵柝晓筹的今昔宫旅对照、此日驻马当时笑牵牛、如何天子不及卢家的讽问均保留。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-f566dae78afc131e",
@@ -977,7 +1093,9 @@
       "order": 59,
       "poemMeaning": "寒山野塘的花根花影清露虽自清美，故国异乡的战乱却令羸病诗人无从得知流散亲友生死。",
       "assessment": "consistent",
-      "alignmentNotes": "前半岸根水影与野水野花、后半故国战斗异乡旌旗到亲友失联均对应；花根倒垂措辞虽罕见，在《全唐诗》见证中有据，不以花枝常识径改。",
+      "alignmentNotes": [
+        "前半岸根水影与野水野花、后半故国战斗异乡旌旗到亲友失联均对应；花根倒垂措辞虽罕见，在《全唐诗》见证中有据，不以花枝常识径改。"
+      ],
       "issues": [],
       "verificationRefs": [
         "https://www.hnwomen.com.cn/_upload/article/files/41/0c/5f6d7bef424dae8ca27059792b79/15872415-ad98-442a-94dd-2eb6b6e17230.pdf"
@@ -992,7 +1110,9 @@
       "order": 60,
       "poemMeaning": "兵死丈夫留下的山居寡妇田桑废弃仍遭征税，靠野菜生柴活命，再深山也无法逃开征徭。",
       "assessment": "consistent",
-      "alignmentNotes": "夫死蓬茅麻苎焦发、桑废田荒而税苗仍征、野菜连根生柴带叶、任是也无计避徭的绝望逻辑逐联准确。",
+      "alignmentNotes": [
+        "夫死蓬茅麻苎焦发、桑废田荒而税苗仍征、野菜连根生柴带叶、任是也无计避徭的绝望逻辑逐联准确。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-43528a26a60da9d9",
@@ -1005,7 +1125,9 @@
       "order": 61,
       "poemMeaning": "湘江秋雨中的羁旅者以刘琨舞剑自振，却因乡思与无人知重而落寞，末以渔人不问归笛收束。",
       "assessment": "consistent",
-      "alignmentNotes": "阴云锁梦、夜舞刘琨的奋发、芙蓉万里薜荔千家、橘柚乡思王孙谁重、渔人不问长笛归去全联对应。",
+      "alignmentNotes": [
+        "阴云锁梦、夜舞刘琨的奋发、芙蓉万里薜荔千家、橘柚乡思王孙谁重、渔人不问长笛归去全联对应。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-3235391bcbbe2384",
@@ -1018,7 +1140,9 @@
       "order": 62,
       "poemMeaning": "居高饮露的蝉鸣声自然远传，借此自许高洁品格自有影响而不借秋风外力。",
       "assessment": "consistent",
-      "alignmentNotes": "垂緌清露疏桐的形象、居高声远的原因与非藉秋风的否定明确，高洁不攀附的寓意合全诗。",
+      "alignmentNotes": [
+        "垂緌清露疏桐的形象、居高声远的原因与非藉秋风的否定明确，高洁不攀附的寓意合全诗。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-a57d736e983d8b03",
@@ -1031,7 +1155,9 @@
       "order": 63,
       "poemMeaning": "易水送别唤起荆轲辞燕丹的激昂往事，古人已亡而水犹寒让悲壮精神延续至今。",
       "assessment": "consistent",
-      "alignmentNotes": "此地别丹壮士冲冠的古事与昔人已没今水犹寒的今昔对照完整，没释死亡准确。",
+      "alignmentNotes": [
+        "此地别丹壮士冲冠的古事与昔人已没今水犹寒的今昔对照完整，没释死亡准确。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-5ae3131b9e1a5354",
@@ -1044,7 +1170,9 @@
       "order": 64,
       "poemMeaning": "明月下冶炼炉火红星紫烟映红工人脸庞，响亮劳动歌声震动寒川。",
       "assessment": "consistent",
-      "alignmentNotes": "炉火照天地、红星乱紫烟、赧郎月夜、歌曲动寒川四句对应；赧郎不是害羞青年，劳动场景准确。",
+      "alignmentNotes": [
+        "炉火照天地、红星乱紫烟、赧郎月夜、歌曲动寒川四句对应；赧郎不是害羞青年，劳动场景准确。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-644d02502a0cd21b",
@@ -1057,7 +1185,9 @@
       "order": 65,
       "poemMeaning": "深愁被夸张化为三千丈白发，诗人对镜惊问何处秋霜染头。",
       "assessment": "consistent",
-      "alignmentNotes": "白发长度夸张、缘愁因果、个释这样、明镜秋霜比喻与惊问均保留。",
+      "alignmentNotes": [
+        "白发长度夸张、缘愁因果、个释这样、明镜秋霜比喻与惊问均保留。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-023c7ea7424c5d26",
@@ -1070,7 +1200,9 @@
       "order": 66,
       "poemMeaning": "鸟尽云去后独坐者把敬亭山视为唯一相看不厌的伴侣。",
       "assessment": "consistent",
-      "alignmentNotes": "众鸟高飞尽与孤云独去闲的远离、相看两不厌的双方主语和只有山的孤独慰藉完整。",
+      "alignmentNotes": [
+        "众鸟高飞尽与孤云独去闲的远离、相看两不厌的双方主语和只有山的孤独慰藉完整。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-02af59611398ae08",
@@ -1083,7 +1215,9 @@
       "order": 67,
       "poemMeaning": "温长春日的明丽江山与香风中，燕子衔软泥忙筑巢而鸳鸯卧暖沙安睡。",
       "assessment": "consistent",
-      "alignmentNotes": "迟日春风、江山花草、泥融故燕飞沙暖故鸳睡的两组动静与气候因果对应。",
+      "alignmentNotes": [
+        "迟日春风、江山花草、泥融故燕飞沙暖故鸳睡的两组动静与气候因果对应。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-97fd080a94419b18",
@@ -1096,7 +1230,9 @@
       "order": 68,
       "poemMeaning": "剑客十年磨剑未试，今日向人示剑，愿以积累的才力伸张不平。",
       "assessment": "consistent",
-      "alignmentNotes": "十年磨剑未曾试、霜刃示君、谁为不平的问句及才干待用含义一致；受不平或作不平两读已注明。",
+      "alignmentNotes": [
+        "十年磨剑未曾试、霜刃示君、谁为不平的问句及才干待用含义一致；受不平或作不平两读已注明。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-6dff5ef67b41e83b",
@@ -1109,7 +1245,9 @@
       "order": 69,
       "poemMeaning": "近在咫尺的庐山被风雨阻隔不能登，诗人疑云雾深处还藏着六朝僧人的古老清境。",
       "assessment": "consistent",
-      "alignmentNotes": "咫尺而不可登的阻隔、愁风雨、只疑而非实见、六朝僧想象均对应，未作现实古僧存活断言。",
+      "alignmentNotes": [
+        "咫尺而不可登的阻隔、愁风雨、只疑而非实见、六朝僧想象均对应，未作现实古僧存活断言。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-2edf2c8d3bc75b19",
@@ -1122,7 +1260,9 @@
       "order": 70,
       "poemMeaning": "深宫闲日与急流对照，宫人恳切寄语红叶随水到外面人间，托出幽闭心意。",
       "assessment": "consistent",
-      "alignmentNotes": "流水何急与深宫尽日闲的反差、谢为寄语而非感谢、好去人间的愿望准确，红叶传说不增团圆实录。",
+      "alignmentNotes": [
+        "流水何急与深宫尽日闲的反差、谢为寄语而非感谢、好去人间的愿望准确，红叶传说不增团圆实录。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-a491b5ea79d79310",
@@ -1135,7 +1275,9 @@
       "order": 71,
       "poemMeaning": "隐者偶至松下枕石安眠，山中不看历书，即便寒尽也不计年岁。",
       "assessment": "consistent",
-      "alignmentNotes": "偶来高枕石眠、无历日寒尽不知年的脱离世俗计时对应；高枕释无忧而非物理枕高、不知年非病理。",
+      "alignmentNotes": [
+        "偶来高枕石眠、无历日寒尽不知年的脱离世俗计时对应；高枕释无忧而非物理枕高、不知年非病理。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-85bbe362b2ffead7",
@@ -1148,7 +1290,9 @@
       "order": 72,
       "poemMeaning": "雪净月明的边塞牧马归还，戍楼笛曲梅花落被想象为随一夜风洒满关山的花。",
       "assessment": "consistent",
-      "alignmentNotes": "雪净解冰雪消融有通行注支持，牧马归与月下羌笛、借问梅落到风满关山的乐曲双关准确，未把虚梅当实景。",
+      "alignmentNotes": [
+        "雪净解冰雪消融有通行注支持，牧马归与月下羌笛、借问梅落到风满关山的乐曲双关准确，未把虚梅当实景。"
+      ],
       "issues": [],
       "verificationRefs": [
         "https://m.gushiwen.cn/mingju/juv_0e1837f45b6d.aspx"
@@ -1163,7 +1307,9 @@
       "order": 73,
       "poemMeaning": "黄云风雪中的送别以董大的才名安慰友人，断言天下不乏认识赏识他的知己。",
       "assessment": "consistent",
-      "alignmentNotes": "日曛云黄北风雁雪的严寒、莫愁无知己与谁人不识君两层肯定、董庭兰音乐名声相符。",
+      "alignmentNotes": [
+        "日曛云黄北风雁雪的严寒、莫愁无知己与谁人不识君两层肯定、董庭兰音乐名声相符。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-a81faf7f6003c564",
@@ -1176,7 +1322,9 @@
       "order": 74,
       "poemMeaning": "李白临舟忽闻岸上踏歌送别，以桃花潭深水不及汪伦深情赞友谊。",
       "assessment": "consistent",
-      "alignmentNotes": "将欲行而忽闻的瞬间、踏歌形式、千尺夸张与不及送我情的比较完整。",
+      "alignmentNotes": [
+        "将欲行而忽闻的瞬间、踏歌形式、千尺夸张与不及送我情的比较完整。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-8326588384876656",
@@ -1189,7 +1337,9 @@
       "order": 75,
       "poemMeaning": "舟行天门山间见楚江劈山回流、对岸青山迎面显出与日边孤帆，形成明朗壮阔景象。",
       "assessment": "consistent",
-      "alignmentNotes": "天门中断楚江开、东流回旋、青山相对出随舟显现与日边帆来均对应；至北回为已核有据异文，不按通行至此回判错。",
+      "alignmentNotes": [
+        "天门中断楚江开、东流回旋、青山相对出随舟显现与日边帆来均对应；至北回为已核有据异文，不按通行至此回判错。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-b19e76bd6bae9b74",
@@ -1202,7 +1352,9 @@
       "order": 76,
       "poemMeaning": "贬谪旅人以贾谊迁长沙自比，望长安不可见，黄鹤楼梅花落笛声让五月江城化为离愁寒梅。",
       "assessment": "consistent",
-      "alignmentNotes": "迁客长沙作典故而非李白目的地、西望长安不见家、黄鹤玉笛和五月梅落曲景双关都解释准确。",
+      "alignmentNotes": [
+        "迁客长沙作典故而非李白目的地、西望长安不见家、黄鹤玉笛和五月梅落曲景双关都解释准确。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-4afdd0eb157e969d",
@@ -1215,7 +1367,9 @@
       "order": 77,
       "poemMeaning": "李白在午日山头遇戴笠清瘦的杜甫，以作诗辛苦打趣友人别后消瘦。",
       "assessment": "consistent",
-      "alignmentNotes": "饭颗山相逢、笠子卓午、借问瘦生及总为作诗苦的问答笑语均对应，未写成恶意讽刺。",
+      "alignmentNotes": [
+        "饭颗山相逢、笠子卓午、借问瘦生及总为作诗苦的问答笑语均对应，未写成恶意讽刺。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-dde372cfe430385e",
@@ -1228,7 +1382,9 @@
       "order": 78,
       "poemMeaning": "杜甫维护初唐四杰的时代文风，断言轻薄讥笑者终会身名俱灭而四杰作品如江河长流。",
       "assessment": "consistent",
-      "alignmentNotes": "杨王卢骆四人、当时体、轻薄者哂未休、尔曹灭而不废江河的两类主语及否定关系明确。",
+      "alignmentNotes": [
+        "杨王卢骆四人、当时体、轻薄者哂未休、尔曹灭而不废江河的两类主语及否定关系明确。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-30e5a723cd282cfd",
@@ -1241,7 +1397,9 @@
       "order": 79,
       "poemMeaning": "成都丝管声飘入江风云天，诗以天上乐少闻人间赞曲，并容纳僭乐讽意的解释空间。",
       "assessment": "consistent",
-      "alignmentNotes": "锦城日日丝管、半入风云、只应天上有与人间几回的赞叹反问保留；赞乐与讽谏两读已注明。",
+      "alignmentNotes": [
+        "锦城日日丝管、半入风云、只应天上有与人间几回的赞叹反问保留；赞乐与讽谏两读已注明。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-c196071b1bfd4db1",
@@ -1254,7 +1412,9 @@
       "order": 80,
       "poemMeaning": "柳湾眉月与镜中越山的静夜水景，因桃花春雨涨水和半夜鲤鱼上滩增添生机。",
       "assessment": "consistent",
-      "alignmentNotes": "凉月柳湾如眉、镜水山影、三日桃花雨导致水涨、半夜鱼上滩的动静转折均对应，桃花雨未作花瓣雨。",
+      "alignmentNotes": [
+        "凉月柳湾如眉、镜水山影、三日桃花雨导致水涨、半夜鱼上滩的动静转折均对应，桃花雨未作花瓣雨。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-539c8259b08aa595",
@@ -1267,7 +1427,9 @@
       "order": 81,
       "poemMeaning": "今日重访去年人面桃花相映的门庭，人已不知所在而桃花仍笑春风。",
       "assessment": "consistent",
-      "alignmentNotes": "去年今日与此刻再来的时序、人面花红映照、人不知去处而花依旧的对照完整，无额外传奇情节。",
+      "alignmentNotes": [
+        "去年今日与此刻再来的时序、人面花红映照、人不知去处而花依旧的对照完整，无额外传奇情节。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-0206697548357784",
@@ -1280,7 +1442,9 @@
       "order": 82,
       "poemMeaning": "新年未花到二月初草使人惊喜，白雪仿佛嫌春迟而穿庭树化飞花。",
       "assessment": "consistent",
-      "alignmentNotes": "都未与初惊的期待层次、草芽而非已繁花、雪嫌故穿的拟人与因果准确。",
+      "alignmentNotes": [
+        "都未与初惊的期待层次、草芽而非已繁花、雪嫌故穿的拟人与因果准确。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-d0ef83f2f67206d2",
@@ -1293,7 +1457,9 @@
       "order": 83,
       "poemMeaning": "京街细雨中的草色远有近无，诗人偏爱这一年早春胜过烟柳满城的盛春。",
       "assessment": "consistent",
-      "alignmentNotes": "小雨如酥、遥近视距差异、最是一年好处与绝胜烟柳的偏爱比较对应完整。",
+      "alignmentNotes": [
+        "小雨如酥、遥近视距差异、最是一年好处与绝胜烟柳的偏爱比较对应完整。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-cc66abbcb2258a48",
@@ -1306,7 +1472,9 @@
       "order": 84,
       "poemMeaning": "黄河挟沙风浪自天涯而来，诗人想象与人沿河上银河拜访牵牛织女。",
       "assessment": "consistent",
-      "alignmentNotes": "九曲万里沙、浪淘风簸、如今直上与同到的奇想承接明确，九曲非实数已注。",
+      "alignmentNotes": [
+        "九曲万里沙、浪淘风簸、如今直上与同到的奇想承接明确，九曲非实数已注。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-08b0f4744fe5c4b5",
@@ -1319,7 +1487,9 @@
       "order": 85,
       "poemMeaning": "玄都观旧桃尽而苔菜生、种桃人失踪，刘郎却再次归来，寄托历挫不退的锋芒。",
       "assessment": "consistent",
-      "alignmentNotes": "百亩半苔与桃净菜开、道士归何处与刘郎又来的今昔人物消长和反问准确对应。",
+      "alignmentNotes": [
+        "百亩半苔与桃净菜开、道士归何处与刘郎又来的今昔人物消长和反问准确对应。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-9a8f4a102349b247",
@@ -1332,7 +1502,9 @@
       "order": 86,
       "poemMeaning": "诗人以芍药艳而乏格、荷花净而少情作衬，独赞牡丹国色使盛花京城倾动。",
       "assessment": "consistent",
-      "alignmentNotes": "芍药妖无格与荷净少情两种偏爱判断、唯有牡丹和花开动京城完整保留，审美比兴未作花品道德定论。",
+      "alignmentNotes": [
+        "芍药妖无格与荷净少情两种偏爱判断、唯有牡丹和花开动京城完整保留，审美比兴未作花品道德定论。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-c5f51db6220a5729",
@@ -1345,7 +1517,9 @@
       "order": 87,
       "poemMeaning": "诗人反传统悲秋而赞秋胜春，晴鹤排云升天也把诗兴引上碧霄。",
       "assessment": "consistent",
-      "alignmentNotes": "自古悲与我言胜的立场反转、晴空鹤排云上及便引诗情的触发关系都准确。",
+      "alignmentNotes": [
+        "自古悲与我言胜的立场反转、晴空鹤排云上及便引诗情的触发关系都准确。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-9dbf0502988eb768",
@@ -1358,7 +1532,9 @@
       "order": 88,
       "poemMeaning": "江上余晖铺成碧红两色，九月初三弓月珠露的夜景接续诗人的喜爱。",
       "assessment": "consistent",
-      "alignmentNotes": "残阳铺水、半江瑟瑟半红、九月初三到露珠弓月的日暮入夜顺序完整，可怜释可爱而非哀怜。",
+      "alignmentNotes": [
+        "残阳铺水、半江瑟瑟半红、九月初三到露珠弓月的日暮入夜顺序完整，可怜释可爱而非哀怜。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-50f6a48f21358e1e",
@@ -1371,7 +1547,9 @@
       "order": 89,
       "poemMeaning": "江南春莺绿江、水村山郭酒旗的广阔春景，与南朝寺院楼台烟雨里的历史幽思交融。",
       "assessment": "consistent",
-      "alignmentNotes": "本稿绿映江按当前字面解释江水，酒旗风与寺院烟雨完整；通行绿映红及赞春讽佛多解已注明，不误套通行红花。",
+      "alignmentNotes": [
+        "本稿绿映江按当前字面解释江水，酒旗风与寺院烟雨完整；通行绿映红及赞春讽佛多解已注明，不误套通行红花。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-a8e4bcce1aceeed9",
@@ -1384,7 +1562,9 @@
       "order": 90,
       "poemMeaning": "骊山锦绣宫门为扬尘驿骑逐次打开，杨妃一笑揭示急送荔枝的奢侈需求。",
       "assessment": "consistent",
-      "alignmentNotes": "回望宫苑绣堆、千门次开、一骑红尘妃笑与无人知荔枝的悬念和揭示准确，奢享与奔劳讽意相合。",
+      "alignmentNotes": [
+        "回望宫苑绣堆、千门次开、一骑红尘妃笑与无人知荔枝的悬念和揭示准确，奢享与奔劳讽意相合。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-b6dbef9cd6ad7146",
@@ -1397,7 +1577,9 @@
       "order": 91,
       "poemMeaning": "曾见花未开而今再寻已迟，残花狼藉与叶阴果满使诗人自恨错过花时。",
       "assessment": "consistent",
-      "alignmentNotes": "往年未开与如今迟到的两时序、风摆狼藉绿阴子满的花期变化与自恨情感准确，子先解果实而不附会婚恋。",
+      "alignmentNotes": [
+        "往年未开与如今迟到的两时序、风摆狼藉绿阴子满的花期变化与自恨情感准确，子先解果实而不附会婚恋。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-af6e40af1d96c5d2",
@@ -1410,7 +1592,9 @@
       "order": 92,
       "poemMeaning": "谢亭劳歌后友舟急流远去，日暮酒醒的送者在满天风雨中独自下西楼。",
       "assessment": "consistent",
-      "alignmentNotes": "劳歌解舟、红叶青山急水、日暮酒醒人远、风雨下楼的送者主语和先后顺序一致。",
+      "alignmentNotes": [
+        "劳歌解舟、红叶青山急水、日暮酒醒人远、风雨下楼的送者主语和先后顺序一致。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-8281c9158adaeff6",
@@ -1423,7 +1607,9 @@
       "order": 93,
       "poemMeaning": "昏沉如醉梦的诗人因春尽勉强登山，偶遇竹院僧人谈话而获浮生半日闲。",
       "assessment": "consistent",
-      "alignmentNotes": "终日昏昏、忽闻春尽强登、因过逢僧话与又得半日闲的由抑转舒顺序完整，强与浮生词义准确。",
+      "alignmentNotes": [
+        "终日昏昏、忽闻春尽强登、因过逢僧话与又得半日闲的由抑转舒顺序完整，强与浮生词义准确。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-6f97236359abefda",
@@ -1436,7 +1622,9 @@
       "order": 94,
       "poemMeaning": "骆亭竹坞水槛虽清幽，思友隔城仍遥远，阴秋霜迟留下枯荷使独宿者得听雨声。",
       "assessment": "consistent",
-      "alignmentNotes": "无尘水清对迢递重城、阴不散霜飞晚与枯荷留雨的因果相合，余荷雨声的慰藉未消去相思。",
+      "alignmentNotes": [
+        "无尘水清对迢递重城、阴不散霜飞晚与枯荷留雨的因果相合，余荷雨声的慰藉未消去相思。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-cf2e4d3b499271f7",
@@ -1449,7 +1637,9 @@
       "order": 95,
       "poemMeaning": "李商隐回忆韩冬郎十岁即席迅速成诗和冷灰残烛下的别情，以丹山雏凤胜老凤赞少年才华。",
       "assessment": "revise",
-      "alignmentNotes": "十岁走马成的早慧与雏老凤父子比喻一致；诗意和解读把冷灰残烛直接落实成韩冬郎原诗写到的内容，混淆本诗回忆场景与被追吟的送别诗。",
+      "alignmentNotes": [
+        "十岁走马成的早慧与雏老凤父子比喻一致；诗意和解读把冷灰残烛直接落实成韩冬郎原诗写到的内容，混淆本诗回忆场景与被追吟的送别诗。"
+      ],
       "issues": [
         {
           "severity": "moderate",
@@ -1515,7 +1705,9 @@
       "order": 96,
       "poemMeaning": "杨敬之既赞项斯诗好，更赞本人风度品格胜诗，并以逢人荐说表现不藏人善的直率。",
       "assessment": "consistent",
-      "alignmentNotes": "几度见诗、及观标格过诗的先后递进、平生不解藏善到处说项斯的推荐行为完整，标格与不解释义合适。",
+      "alignmentNotes": [
+        "几度见诗、及观标格过诗的先后递进、平生不解藏善到处说项斯的推荐行为完整，标格与不解释义合适。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-2dead8a4a99296b0",
@@ -1528,7 +1720,9 @@
       "order": 97,
       "poemMeaning": "春江杨柳飞絮与晚亭风笛加深别愁，友人南往潇湘而诗人北向秦地各走远路。",
       "assessment": "consistent",
-      "alignmentNotes": "扬子江头春柳杨花、渡江人愁、数声笛离亭晚与君湘我秦的主语方向均准确。",
+      "alignmentNotes": [
+        "扬子江头春柳杨花、渡江人愁、数声笛离亭晚与君湘我秦的主语方向均准确。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-2a4e57838fcc98bd",
@@ -1541,7 +1735,9 @@
       "order": 98,
       "poemMeaning": "落第者以天边优位桃杏衬秋江芙蓉的独立时地，自许不向春风怨未开而坚守才性。",
       "assessment": "consistent",
-      "alignmentNotes": "碧桃和露红杏倚云的优位、芙蓉秋江的异时地与不向东风怨的自持否定对应，日边借朝廷未作实际栽花。",
+      "alignmentNotes": [
+        "碧桃和露红杏倚云的优位、芙蓉秋江的异时地与不向东风怨的自持否定对应，日边借朝廷未作实际栽花。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-a6a7e2200f3b8792",
@@ -1554,7 +1750,9 @@
       "order": 99,
       "poemMeaning": "战乱侵入水乡使生民不能安稳谋生，诗人拒谈封侯荣耀，揭示一将成功所付出的万人枯骨代价。",
       "assessment": "consistent",
-      "alignmentNotes": "泽国战图、生民何计樵苏的反问、凭君莫话的劝止与一将万骨的数量对照准确，未淡化平民及战死者代价。",
+      "alignmentNotes": [
+        "泽国战图、生民何计樵苏的反问、凭君莫话的劝止与一将万骨的数量对照准确，未淡化平民及战死者代价。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-6e5ceb963ae8b76e",
@@ -1567,7 +1765,9 @@
       "order": 100,
       "poemMeaning": "鹅曲颈向天鸣叫，白羽浮绿水、红掌拨清波，呈现声音形态与色彩动作的明快画面。",
       "assessment": "revise",
-      "alignmentNotes": "解读与词注正确写弯颈、白毛绿水、红掌拨波；诗意首句的伸长脖颈未保留曲项的弯曲姿态。",
+      "alignmentNotes": [
+        "解读与词注正确写弯颈、白毛绿水、红掌拨波；诗意首句的伸长脖颈未保留曲项的弯曲姿态。"
+      ],
       "issues": [
         {
           "severity": "minor",
@@ -1606,7 +1806,9 @@
       "order": 101,
       "poemMeaning": "黄台瓜果从初摘仍好到再摘渐稀，最终摘绝只余空蔓，以此劝止对同根一脉过度残害。",
       "assessment": "consistent",
-      "alignmentNotes": "瓜熟离离、一摘好再摘稀三摘可到摘绝的递变、抱蔓归的毁尽后果完整，对诸子的比喻已注明而不逐摘机械对应人名。",
+      "alignmentNotes": [
+        "瓜熟离离、一摘好再摘稀三摘可到摘绝的递变、抱蔓归的毁尽后果完整，对诸子的比喻已注明而不逐摘机械对应人名。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-0f13e4bff2e42d96",
@@ -1619,7 +1821,9 @@
       "order": 102,
       "poemMeaning": "岁暮岩下日落草寒使人凄恻，其中百尺无旁枝的松树以孤直一生引出诗人的长叹。",
       "assessment": "consistent",
-      "alignmentNotes": "岁晚周顾、西山日阴草寒、乔松叹息、百尺无寸枝孤直的景物至人格寄托准确，对松树独立不阿的拟人可通。",
+      "alignmentNotes": [
+        "岁晚周顾、西山日阴草寒、乔松叹息、百尺无寸枝孤直的景物至人格寄托准确，对松树独立不阿的拟人可通。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-f25fff9d1f292c6f",
@@ -1632,7 +1836,9 @@
       "order": 103,
       "poemMeaning": "张九龄自叙少年追贤、贫衣怀玉与负薪成官的理想，以志道相合超越血缘贫贱并感激道义为邻。",
       "assessment": "consistent",
-      "alignmentNotes": "弱岁读史抗迹、被褐怀玉与负薪佩印的德才自许、志合岂限兄弟道行无贱贫、孤根感激邻的收束完整；此为邻具体指代已有待核而不补知己姓名。",
+      "alignmentNotes": [
+        "弱岁读史抗迹、被褐怀玉与负薪佩印的德才自许、志合岂限兄弟道行无贱贫、孤根感激邻的收束完整；此为邻具体指代已有待核而不补知己姓名。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-ce9f85366dfd2c37",
@@ -1645,7 +1851,9 @@
       "order": 104,
       "poemMeaning": "奸雄得志使群心动摇，中原兵火毁尽家园，一人计策未获采用终于造成万里萧条。",
       "assessment": "consistent",
-      "alignmentNotes": "乃得志遂心摇的因果、赤风烈火无遗巢的乱象、计不用与空萧条的追悔对应，诗题及历史对象不强落实。",
+      "alignmentNotes": [
+        "乃得志遂心摇的因果、赤风烈火无遗巢的乱象、计不用与空萧条的追悔对应，诗题及历史对象不强落实。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-370f725b350d3dd3",
@@ -1658,7 +1866,9 @@
       "order": 105,
       "poemMeaning": "江上七弦琴声澄清人心与木阴，仿佛令月更白水更深，诗人因此赞梧桐琴值得配黄金琴徽。",
       "assessment": "consistent",
-      "alignmentNotes": "一弦清一心、泠泠七弦遍、万木幽阴澄、江月白水深和始知梧桐徽黄金的递进准确，玉琴不是整琴玉制已注明。",
+      "alignmentNotes": [
+        "一弦清一心、泠泠七弦遍、万木幽阴澄、江月白水深和始知梧桐徽黄金的递进准确，玉琴不是整琴玉制已注明。"
+      ],
       "issues": [],
       "verificationRefs": [],
       "id": "yizhu-39d0c9040c0577f5",

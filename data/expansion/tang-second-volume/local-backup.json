@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "file": "output/volume2-assets-2026-10-04.tar",
+  "sha256": "cf1f2a979cacddf20020a9493bf81a2e0d7f5d2f12874e8d593ef4c669a5313c",
+  "bytes": 693688320,
+  "verifiedAssets": 915,
+  "originalPNGs": 305,
+  "readerWebPs": 610,
+  "members": 1565,
+  "scope": "第二卷本地素材和文本归档；不是异地备份，不包含密钥",
+  "restoreCommand": "tar -xf output/volume2-assets-2026-10-04.tar"
+}

@@ -4,11 +4,12 @@ import { isNarrationTrackForPoem, narrationGroups } from '../reader-narration.js
 
 test('audio paths must refer to the current poem in a local release', () => {
   const poem = { id: 'tang-224-lu-chai' };
-  for (const prefix of ['assets/audio', 'assets/audio/xiaoxiao-poetry-v1']) {
+  for (const prefix of ['assets/audio', 'assets/audio/xiaoxiao-poetry-v1', 'assets/volume-2/audio/xiaoxiao-poetry-v1']) {
     assert.equal(isNarrationTrackForPoem({ id: poem.id, file: `${prefix}/${poem.id}.mp3` }, poem), true);
   }
   for (const file of ['https://example.com/audio.mp3', 'assets/audio/../../secret',
-    'assets/audio/xiaoxiao-poetry-v1/another-poem.mp3', 'assets/audio/xiaoxiao-poetry-v1/tang-224-lu-chai.mp3?remote=1']) {
+    'assets/audio/xiaoxiao-poetry-v1/another-poem.mp3', 'assets/volume-2/audio/other-release/tang-224-lu-chai.mp3',
+    'assets/volume-2/audio/xiaoxiao-poetry-v1/another-poem.mp3', 'assets/audio/xiaoxiao-poetry-v1/tang-224-lu-chai.mp3?remote=1']) {
     assert.equal(isNarrationTrackForPoem({ id: poem.id, file }, poem), false);
   }
   assert.equal(isNarrationTrackForPoem({ id: 'wrong', file: `assets/audio/${poem.id}.mp3` }, poem), false);
@@ -23,7 +24,7 @@ test('listening selection follows catalog genre order rather than object or sour
 });
 
 // Small DOM harness for transport behavior; no browser/media internals are simulated.
-async function narrationHarness(t, { deferredManifest = false } = {}) {
+async function narrationHarness(t, { deferredManifest = false, narrationOptions = {} } = {}) {
   const { setupNarration } = await import('../reader-narration.js');
   class Element extends EventTarget {
     constructor() { super(); this.dataset = {}; this.hidden = false; this.open = false; this.value = '1'; this.attributes = new Map(); }
@@ -55,8 +56,9 @@ async function narrationHarness(t, { deferredManifest = false } = {}) {
   const manifest = { recipe: { voiceLabel: '朗读' }, tracks: Object.fromEntries(poems.map(poem => [poem.id, { ...poem, file: `assets/audio/${poem.id}.mp3` }])) };
   const pending = new Promise(resolve => { resolveManifest = resolve; });
   const originals = Object.getOwnPropertyDescriptors(globalThis);
+  const fetchURLs = [];
   Object.assign(globalThis, { document, window: new EventTarget(), Option: Element,
-    fetch: async () => ({ ok: true, json: () => deferredManifest ? pending : manifest }) });
+    fetch: async url => { fetchURLs.push(url); return { ok: true, json: () => deferredManifest ? pending : manifest }; } });
   t.after(() => {
     window.dispatchEvent(new Event('pagehide'));
     for (const key of ['document', 'window', 'Option', 'fetch']) {
@@ -64,9 +66,9 @@ async function narrationHarness(t, { deferredManifest = false } = {}) {
       else delete globalThis[key];
     }
   });
-  const reader = setupNarration(() => current, () => {});
+  const reader = setupNarration(() => current, () => {}, () => {}, narrationOptions);
   reader.update();
-  return { ...elements, audio, flush: () => new Promise(resolve => setImmediate(resolve)),
+  return { ...elements, reader, fetchURLs, audio, flush: () => new Promise(resolve => setImmediate(resolve)),
     select: index => { current = poems[index]; reader.update(); }, resolve: () => resolveManifest(manifest) };
 }
 
@@ -117,4 +119,22 @@ test('compact playback errors remain inline and the same button retries', async 
   assert.equal(h.audio.paused, false);
   assert.equal(h.inlineNarrationStatus.hidden, true);
   assert.equal(h.narrationDialog.open, false);
+});
+
+test('unavailable second-volume narration exposes no playback control or fetch and uses its own manifest after availability changes', async t => {
+  const manifestURL = './data/audio-volume-2/manifest.json';
+  const h = await narrationHarness(t, { narrationOptions: { available: false, manifestURL } });
+  assert.equal(h.listenPoem.hidden, true);
+  assert.equal(h.inlineNarration.hidden, true);
+  h.inlineNarration.click(); await h.flush();
+  assert.equal(h.audio.plays, 0);
+  assert.deepEqual(h.fetchURLs, []);
+  h.reader.setAvailable(true);
+  assert.equal(h.listenPoem.hidden, false);
+  h.inlineNarration.click(); await h.flush();
+  assert.deepEqual(h.fetchURLs, [manifestURL]);
+  assert.equal(h.audio.plays, 1);
+  h.reader.setAvailable(false);
+  assert.equal(h.audio.paused, true);
+  assert.equal(h.inlineNarration.hidden, true);
 });

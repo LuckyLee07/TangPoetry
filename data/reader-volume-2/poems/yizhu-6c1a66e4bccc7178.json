@@ -1,0 +1,150 @@
+{
+  "id": "yizhu-6c1a66e4bccc7178",
+  "title": "汾上惊秋",
+  "author": "苏颋",
+  "dynasty": "唐",
+  "section": "五言绝句",
+  "genre": "五言绝句",
+  "sourceTitle": "汾上惊秋",
+  "displaySourceTitle": "汾上惊秋",
+  "originalEditionTitle": "汾上驚秋",
+  "rubyLines": [
+    [
+      [
+        "北",
+        ""
+      ],
+      [
+        "风",
+        ""
+      ],
+      [
+        "吹",
+        ""
+      ],
+      [
+        "白",
+        ""
+      ],
+      [
+        "云",
+        ""
+      ],
+      [
+        "，",
+        ""
+      ]
+    ],
+    [
+      [
+        "万",
+        ""
+      ],
+      [
+        "里",
+        ""
+      ],
+      [
+        "渡",
+        ""
+      ],
+      [
+        "河",
+        ""
+      ],
+      [
+        "汾",
+        ""
+      ],
+      [
+        "。",
+        ""
+      ]
+    ],
+    [
+      [
+        "心",
+        ""
+      ],
+      [
+        "绪",
+        ""
+      ],
+      [
+        "逢",
+        ""
+      ],
+      [
+        "摇",
+        ""
+      ],
+      [
+        "落",
+        ""
+      ],
+      [
+        "，",
+        ""
+      ]
+    ],
+    [
+      [
+        "秋",
+        ""
+      ],
+      [
+        "声",
+        ""
+      ],
+      [
+        "不",
+        ""
+      ],
+      [
+        "可",
+        ""
+      ],
+      [
+        "闻",
+        ""
+      ],
+      [
+        "。",
+        ""
+      ]
+    ]
+  ],
+  "noteTitle": "诗意",
+  "note": "北风卷着白云，远行的人渡过汾水。草木摇落的时节，连寻常秋声都使心绪难以承受。",
+  "interpretation": [
+    "北风吹动白云，我在长途行旅中渡过汾水。正逢草木凋零，心中本有的纷乱被秋意触动，耳边这些萧瑟声音，实在不忍再听。"
+  ],
+  "annotations": [
+    {
+      "text": "河汾：汾河、汾水。",
+      "source": "编辑释义"
+    },
+    {
+      "text": "摇落：草木随秋风凋落。",
+      "source": "编辑释义"
+    }
+  ],
+  "variants": [],
+  "preface": [],
+  "notes": [
+    "河汾：汾河、汾水。",
+    "摇落：草木随秋风凋落。"
+  ],
+  "editorialNotes": [],
+  "sourceRefs": [
+    "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.4000.json",
+    "https://m.gushiwen.cn/shiwenv_1ec52d2cc20e.aspx"
+  ],
+  "contentStatus": "editorial-draft",
+  "text": "北风吹白云，万里渡河汾。\n心绪逢摇落，秋声不可闻。",
+  "readingText": "北风吹白云，万里渡河汾。\n心绪逢摇落，秋声不可闻。",
+  "displayGlyphs": {},
+  "layout": "center-low",
+  "pronunciationStatus": "not-prepared",
+  "sourceText": "北风吹白云，万里渡河汾。\n心绪逢摇落，秋声不可闻。"
+}

@@ -4,6 +4,7 @@ import { createNarrationAutoplay } from './reader-controls.js?v=0.6.4';
 export function isNarrationTrackForPoem(track, poem) {
   if (!track || track.id !== poem.id || !/^[a-z0-9-]+$/.test(poem.id)) return false;
   return track.file === `assets/audio/${poem.id}.mp3` ||
+    track.file === `assets/volume-2/audio/xiaoxiao-poetry-v1/${poem.id}.mp3` ||
     (/^assets\/audio\/xiaoxiao-poetry-v\d+\/[a-z0-9-]+\.mp3$/.test(track.file) &&
       track.file.endsWith(`/${poem.id}.mp3`));
 }
@@ -20,7 +21,7 @@ export function narrationGroups(manifest) {
   return groups;
 }
 
-export function setupNarration(getPoem, openPoem, playbackChanged = () => {}) {
+export function setupNarration(getPoem, openPoem, playbackChanged = () => {}, { manifestURL = './data/audio/manifest.json', available = true } = {}) {
   const button = document.querySelector('#listenPoem');
   const inlineButton = document.querySelector('#inlineNarration');
   const inlineStatus = document.querySelector('#inlineNarrationStatus');
@@ -53,6 +54,8 @@ export function setupNarration(getPoem, openPoem, playbackChanged = () => {}) {
     inlineNotice();
   }
   function update() {
+    button.hidden = inlineButton.hidden = !available;
+    if (!available) return;
     if ((loadedID && loadedID !== getPoem()?.id) || (loadingID && loadingID !== getPoem()?.id)) stop();
     const playing = loadedID === getPoem()?.id && !audio.paused;
     const preparing = Boolean(loadingID || inlineStarting);
@@ -64,9 +67,9 @@ export function setupNarration(getPoem, openPoem, playbackChanged = () => {}) {
   }
   async function load({ present = true } = {}) {
     const poem = getPoem();
-    if (!poem) return;
+    if (!poem || !available) return;
     title.textContent = poem.title;
-    byline.textContent = `唐 · ${poem.author}`;
+    byline.textContent = `${poem.dynasty || '唐'} · ${poem.author}`;
     if (present && !dialog.open) dialog.showModal();
     inlineNotice();
     if (loadedID === poem.id && !audio.error) {
@@ -80,7 +83,7 @@ export function setupNarration(getPoem, openPoem, playbackChanged = () => {}) {
     status.textContent = '正在准备朗读…';
     retry.hidden = true;
     try {
-      manifestPromise ??= fetch('./data/audio/manifest.json', { signal: AbortSignal.timeout(15000) })
+      manifestPromise ??= fetch(manifestURL, { signal: AbortSignal.timeout(15000) })
         .then(response => { if (!response.ok) throw new Error('audio catalog'); return response.json(); })
         .catch(error => { manifestPromise = null; throw error; });
       const manifest = await manifestPromise;
@@ -172,7 +175,9 @@ export function setupNarration(getPoem, openPoem, playbackChanged = () => {}) {
     audio.addEventListener(event, () => { update(); playbackChanged(); });
   }
   window.addEventListener('pagehide', stop);
+  update();
   return {
+    setAvailable(value) { available = Boolean(value); if (!available) stop(); update(); },
     update,
     isCurrentPlaying: () => loadedID === getPoem()?.id && !audio.paused && !audio.ended &&
       !audio.seeking && audio.readyState >= HTMLMediaElement.HAVE_FUTURE_DATA

@@ -13,6 +13,7 @@ struct NarrationTrack: Decodable {
     let id: String
     let title: String
     let author: String
+    let dynasty: String?
     let file: String
     let duration: Double
 }
@@ -25,6 +26,7 @@ struct NarrationTrack: Decodable {
     @Published private(set) var duration: Double = 0
     @Published private(set) var error: String?
     @Published var rate: Float = 1 { didSet { player?.rate = rate; updateNowPlaying() } }
+    private var volume: ReaderVolume = .first
     private var player: AVAudioPlayer?
     private var timer: Timer?
     private var pendingPlayback: Task<Void, Never>?
@@ -79,14 +81,21 @@ struct NarrationTrack: Decodable {
         commands.forEach { $0.0.removeTarget($0.1) }
     }
 
+    func selectVolume(_ next: ReaderVolume) {
+        guard next != volume else { return }
+        stop()
+        volume = next
+        manifest = try? BundledContent.decode(next.resourcePath("Audio/manifest.json"))
+    }
+
     func load(_ poem: PoemSummary) {
         if track?.id == poem.id, player != nil { return }
         stop()
         do {
-            if manifest == nil { manifest = try BundledContent.decode("Audio/manifest.json") }
+            if manifest == nil { manifest = try BundledContent.decode(volume.resourcePath("Audio/manifest.json")) }
             guard let narration = manifest?.tracks[poem.id] else { return }
             guard narration.id == poem.id else { throw ContentError.missingResource(poem.id) }
-            let audio = try AVAudioPlayer(contentsOf: BundledContent.url(narration.file))
+            let audio = try AVAudioPlayer(contentsOf: BundledContent.url(volume.resourcePath(narration.file)))
             audio.enableRate = true
             audio.rate = rate
             audio.delegate = self
@@ -198,7 +207,7 @@ struct NarrationTrack: Decodable {
         guard hasStarted, let track, player != nil else { return }
         MPNowPlayingInfoCenter.default().nowPlayingInfo = [
             MPMediaItemPropertyTitle: track.title,
-            MPMediaItemPropertyArtist: "唐 · \(track.author)",
+            MPMediaItemPropertyArtist: "\(track.dynasty ?? "唐") · \(track.author)",
             MPMediaItemPropertyAlbumTitle: "唐诗画笺 · 听诗",
             MPMediaItemPropertyPlaybackDuration: duration,
             MPNowPlayingInfoPropertyElapsedPlaybackTime: elapsed,
@@ -259,7 +268,7 @@ struct NarrationView: View {
                         Text(player.track?.title ?? "听诗")
                             .font(.custom("STSongti-SC-Regular", size: 28, relativeTo: .title))
                             .multilineTextAlignment(.center).accessibilityAddTraits(.isHeader)
-                        if let track = player.track { Text("唐 · \(track.author)").foregroundStyle(.secondary) }
+                        if let track = player.track { Text("\(track.dynasty ?? "唐") · \(track.author)").foregroundStyle(.secondary) }
                         Text("AI 朗读 · \(player.voiceLabel)").font(.caption).foregroundStyle(.secondary)
                     }
                     if let error = player.error {

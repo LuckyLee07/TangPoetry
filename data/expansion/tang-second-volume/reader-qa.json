@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "reviewedOn": "2026-10-04",
+  "volume": "volume-2",
+  "publicationReady": false,
+  "checks": {
+    "javascriptTests": 42,
+    "pythonTests": 123,
+    "nativeTests": 47,
+    "testFailures": 0,
+    "layoutCases": 96,
+    "layoutOverflows": 0,
+    "readerPoems": 305,
+    "readerDetails": 305,
+    "artworkOriginals": 305,
+    "featuredPoems": 20,
+    "narrationTracks": 0,
+    "firstVolumePoems": 320,
+    "firstVolumeNarrationTracks": 320,
+    "primaryWorkspaceHashedFiles": 50,
+    "primaryWorkspaceChangedFiles": []
+  },
+  "webObservations": [
+    "第二卷305首封面、搜索、注释和五代宋初署名正常",
+    "切第一卷仍320首，切回第二卷续读位置与收藏恢复",
+    "第二卷听诗入口隐藏，阅读设置显示朗读制作中",
+    "春江花月夜可滚动至末尾并打开完整诗意与字词解释",
+    "96组阅读校样覆盖001、002、028、030、083、183；四尺寸乘四字号，无横向溢出",
+    "原题使用displaySourceTitle，183不再将𥐟渲染为缺字；归档和搜索别名仍保留原字形"
+  ],
+  "nativeObservations": [
+    "iPhone 17 Pro iOS26.2模拟器已核对305首第二卷封面、目录、关键词搜索和重启切卷恢复",
+    "最长诗028已打开；自动化只确认少量滚动，末尾展开的完整触屏验收仍待手工确认",
+    "47项XCTest通过，包含双卷状态隔离、可选卷缺失回退、全部305详情和图片引用、实际CoreText字形覆盖"
+  ],
+  "limits": [
+    "无Azure Speech凭据：仅305份SSML计划，未生成或试听第二卷MP3",
+    "未进行真机安装、签名或发行",
+    "305幅图为助手视觉复核，未整库真人审阅；正文未逐页对照纸书终校",
+    "本报告中的布局测量为实际浏览器DOM验收，不等同于逐首人工视觉验收"
+  ],
+  "artTextAlignment": [
+    {
+      "order": 89,
+      "id": "yizhu-a8e4bcce1aceeed9",
+      "status": "accepted-after-text-choice-review",
+      "sourceImageSHA256": "fba7b19c6b46b40f8dce362a5fc14821572296a589e2946fc822f45b28f03f2d",
+      "note": "正文选择绿映红后再次查看原图：柳岸水村、酒旗和烟雨寺塔仍对应全诗，桥边有少量淡花色。保留现图；原始生成提示词与当时按绿映江接受的回执继续作为历史记录，不倒改生成事实。"
+    }
+  ],
+  "evidenceDirectory": "output/volume2-qa",
+  "buildReport": "data/reader-volume-2/build-report.json"
+}

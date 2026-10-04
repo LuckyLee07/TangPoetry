@@ -1,8 +1,24 @@
 import Foundation
 
+enum ReaderVolume: String, CaseIterable, Identifiable, Sendable {
+    case first = "1", second = "2"
+    var id: String { rawValue }
+    var label: String { self == .first ? "第一卷" : "第二卷" }
+    var subtitle: String { self == .first ? "唐诗三百首 · 孙洙选本" : "撷英与补选 · 第二卷" }
+    var contentPrefix: String { self == .first ? "" : "Volumes/2/" }
+    func resourcePath(_ path: String) -> String { contentPrefix + path }
+    func storageKey(_ key: String) -> String { self == .first ? key : key + ".volume2" }
+    static var available: [Self] {
+        allCases.filter { $0 == .first || (try? BundledContent.url($0.resourcePath("catalog.json"))) != nil }
+    }
+}
+
 struct PoemCatalog: Decodable, Sendable {
     let schemaVersion: Int
     let poems: [PoemSummary]
+    let subtitle: String?
+    let coverPoemID: String?
+    let narrationAvailable: Bool?
 }
 
 struct PoemSummary: Decodable, Identifiable, Sendable {
@@ -11,12 +27,14 @@ struct PoemSummary: Decodable, Identifiable, Sendable {
     let title: String
     let aliases: [String]
     let author: String
+    let dynasty: String?
     let section: String
+    let genre: String?
     let theme: String
     let featured: Bool
     let dedicatedArt: Bool
-    let image: String
-    let thumbnail: String
+    var image: String
+    var thumbnail: String
     let thumbnailFrame: ThumbnailFrame?
     let artworkMode: String?
     let artworkFocusY: Double?
@@ -59,6 +77,8 @@ struct PoemDetail: Decodable, Sendable {
     let title: String
     let author: String
     let sourceTitle: String
+    let displaySourceTitle: String?
+    var readingSourceTitle: String { displaySourceTitle ?? sourceTitle }
     let rubyLines: [[RubyToken]]
     let noteTitle: String
     let note: String
@@ -97,7 +117,7 @@ enum PoemFilter {
         (readStatus != "unread" || !readIDs.contains(poem.id)) &&
         (collection != "featured" || poem.featured) &&
         (collection != "favorites" || favorites.contains(poem.id)) &&
-        (category == "all" || category == poem.theme || category == poem.section) &&
+        (category == "all" || category == poem.theme || category == poem.section || category == poem.genre) &&
         (author == "all" || author == poem.author) &&
         (query.isEmpty || normalize(poem.searchText).contains(normalize(query)))
     }

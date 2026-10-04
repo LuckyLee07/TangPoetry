@@ -21,13 +21,15 @@ def poetry_ssml(poem):
     lines = ["".join(token[0] for token in line).strip() for line in poem["rubyLines"]]
     if not lines or not all(lines):
         raise ValueError(f"Empty verse in {poem['id']}")
+    dynasty = poem.get('dynasty', '唐')
+    era = '唐代' if dynasty == '唐' else dynasty
     pairs = ["".join(lines[i:i + 2]) for i in range(0, len(lines), 2)]
     body = '<prosody rate="-6%">' + '<break time="500ms"/>'.join(
         f'<s>{html.escape(pair)}</s>' for pair in pairs) + '</prosody>'
     result = f'''<speak version="1.0" xmlns="{NS['s']}" xmlns:mstts="{NS['m']}" xml:lang="zh-CN">
   <voice name="zh-CN-XiaoxiaoNeural">
     <prosody rate="-5%"><s>{html.escape(TITLE_ALIASES.get(poem['id'], poem['title']))}。</s><break time="350ms"/>
-      <s>唐代，{html.escape(poem['author'])}。</s></prosody>
+      <s>{html.escape(era)}，{html.escape(poem['author'])}。</s></prosody>
     <break time="800ms"/>
     <mstts:express-as style="poetry-reading" styledegree="1.3">
       {body}

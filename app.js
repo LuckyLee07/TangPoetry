@@ -1,17 +1,21 @@
-import { setupReadingExtras } from './reader-extras.js?v=0.6.12';
-import { setupNarration } from './reader-narration.js?v=0.6.13';
+import { setupReadingExtras } from './reader-extras.js?v=0.6.15';
+import { setupNarration } from './reader-narration.js?v=0.6.15';
 import { setupCoverAtmosphere } from './reader-cover.js?v=0.6.11';
 import { parseStored, sanitizeSettings, migrateFavorites, filterPoems, initialIndex, createPoemLoader } from './reader-core.js?v=0.6.11';
 
-import { escapeHTML, layoutReadingPage, poemMarkup, notesMarkup, directoryArtworkMarkup } from './reader-renderer.js?v=0.6.11';
+import { escapeHTML, layoutReadingPage, poemMarkup, notesMarkup, directoryArtworkMarkup } from './reader-renderer.js?v=0.6.16';
 import { ALL_POEMS, sanitizeReadingScope, isAllPoems, readingScopeLabel, selectionAfterScopeChange, sanitizeReadingProgress, captureParagraphProgress, restoreParagraphProgress, paragraphMetrics, isReadingSurfaceTap } from './reader-continuity.js?v=0.6.11';
 
 import { ReadingSession, sanitizeReadIDs, restoreReadingSequence, readingSurfaceCountsTime } from './reader-history.js?v=0.6.14';
 
 import { createReadingIdle } from './reader-controls.js?v=0.6.11';
 
+import { readerVolume, readingStorageKeys, volumeURL } from './reader-volumes.js?v=0.6.15';
+
 const $ = selector => document.querySelector(selector);
-const keys = { read: 'tang-read-ids-v1', sequence: 'tang-reading-sequence-v1', favorites: 'tang-favorites-v2', settings: 'tang-settings-v1', position: 'tang-position-v1', scope: 'tang-reading-scope-v1', progress: 'tang-reading-progress-v1' };
+const volume = readerVolume(location.search);
+const keys = readingStorageKeys(volume);
+let coverPoemID = 'tang-157-feng-yu';
 const storage = {
   read(key, fallback) { try { return parseStored(localStorage.getItem(key), fallback); } catch { return fallback; } },
   write(key, value) { try { localStorage.setItem(key, JSON.stringify(value)); } catch { $('#storageNotice').hidden = false; $('#storageNotice').textContent = '当前浏览器无法保存记录，本次阅读仍可正常使用。'; } }
@@ -32,15 +36,30 @@ const idleControls = createReadingIdle({
   canHide: () => controlsVisible && !homeVisible && !document.hidden && !pointerHeld &&
     !document.querySelector('dialog[open]') && !keyboardNavigation && !window.getSelection()?.toString()
 });
-const narration = setupNarration(() => poems[currentIndex], openPoem, sampleRead);
-setupCoverAtmosphere();
+const narration = setupNarration(() => poems[currentIndex], openPoem, sampleRead, {
+  manifestURL: volume.audioManifest, available: volume.id === '1'
+});
+if (volume.id === '1') setupCoverAtmosphere();
+document.body.dataset.volume = volume.id;
+$('.home-kicker').textContent = volume.subtitle;
+$('#volumeSelect').value = volume.id;
+for (const link of document.querySelectorAll('[data-volume]')) {
+  link.href = volumeURL(link.dataset.volume, location.href);
+  if (link.dataset.volume === volume.id) link.setAttribute('aria-current', 'page');
+}
+if (volume.id !== '1') {
+  document.title = `唐诗画笺 · ${volume.label}`;
+  $('.home-art-main').removeAttribute('src');
+  $('#settingCoverMotion').closest('label').hidden = true;
+  $('#coverMotionHint').hidden = true;
+}
 
 async function fetchJSON(url) {
   const response = await fetch(url, { cache: 'no-cache', signal: AbortSignal.timeout(15000) });
   if (!response.ok) throw new Error(`HTTP ${response.status}`);
   return response.json();
 }
-const loader = createPoemLoader(id => fetchJSON(`./data/reader/poems/${encodeURIComponent(id)}.json`));
+const loader = createPoemLoader(id => fetchJSON(`${volume.dataRoot}/poems/${encodeURIComponent(id)}.json`));
 
 function sampleRead() {
   const element = shells[currentIndex], body = element?.querySelector('.poem-body');
@@ -259,8 +278,9 @@ function renderLibrary() {
   $('#resultCount').textContent = `${list.length} 首${filters.collection === 'favorites' ? '收藏' : ''}`;
   $('#readingTotal').textContent = `已读 ${readIDs.size} / ${catalogPoems.length} 首`;
   $('#readStatusFilter').value = filters.readStatus;
-  $('#recommendationHint').hidden = filters.collection !== 'featured';
-  $('#recommendationHint').textContent = `先从这 ${catalogPoems.filter(poem => poem.featured).length} 首读起`;
+  const featuredCount = catalogPoems.filter(poem => poem.featured).length;
+  $('#recommendationHint').hidden = filters.collection !== 'featured' || !featuredCount;
+  $('#recommendationHint').textContent = `先从这 ${featuredCount} 首读起`;
   $('#categorySelect').value = filters.category;
   $('#authorSelect').value = filters.author;
   document.querySelectorAll('[data-collection]').forEach(button => button.setAttribute('aria-pressed', button.dataset.collection === filters.collection));
@@ -286,10 +306,18 @@ async function init() {
   if (loading) return;
   loading = true; $('#retryCatalog').hidden = true; $('#homeStatus').textContent = '';
   try {
-    const catalog = await fetchJSON('./data/reader/catalog.json');
+    const catalog = await fetchJSON(`${volume.dataRoot}/catalog.json`);
     if (!Array.isArray(catalog.poems) || !catalog.poems.length) throw new Error('Empty catalog');
     catalogPoems = catalog.poems;
-    favorites = migrateFavorites(storage.read(keys.favorites, null), storage.read('tang-favorites', []), catalogPoems);
+    if (volume.id !== '1') {
+      coverPoemID = catalog.coverPoemID || catalogPoems.find(poem => poem.featured)?.id || catalogPoems[0].id;
+      $('.home-art-main').src = catalogPoems.find(poem => poem.id === coverPoemID)?.image || catalogPoems[0].image;
+    }
+    $('.home-kicker').textContent = catalog.subtitle || volume.subtitle;
+    const audioAvailable = Boolean(catalog.narrationAvailable ?? volume.id === '1');
+    narration.setAvailable(audioAvailable);
+    $('#narrationAvailability').hidden = audioAvailable;
+    favorites = migrateFavorites(storage.read(keys.favorites, null), volume.id === '1' ? storage.read('tang-favorites', []) : [], catalogPoems);
     storage.write(keys.favorites, [...favorites]);
     readIDs = sanitizeReadIDs(storage.read(keys.read, []), catalogPoems);
     readingProgress = sanitizeReadingProgress(storage.read(keys.progress, null), catalogPoems);
@@ -302,9 +330,9 @@ async function init() {
     filters = { ...readingScope }; $('#searchInput').value = filters.query;
     currentIndex = initialIndex(poems, storage.read(keys.position, ''), location.hash);
     rebuildPages();
-    const themes = [...new Set(catalogPoems.map(p => p.theme))];
-    const sections = [...new Set(catalogPoems.map(p => p.section))];
-    $('#categorySelect').innerHTML = `<option value="all">全部分类</option><optgroup label="体裁">${sections.map(value => `<option>${escapeHTML(value)}</option>`).join('')}</optgroup><optgroup label="主题">${themes.map(value => `<option>${escapeHTML(value)}</option>`).join('')}</optgroup>`;
+    const sections = [...new Set(catalogPoems.flatMap(p => [p.section, p.genre].filter(Boolean)))];
+    const themes = [...new Set(catalogPoems.map(p => p.theme))].filter(theme => !sections.includes(theme));
+    $('#categorySelect').innerHTML = `<option value="all">全部分类</option><optgroup label="体裁">${sections.map(value => `<option>${escapeHTML(value)}</option>`).join('')}</optgroup>${themes.length ? `<optgroup label="主题">${themes.map(value => `<option>${escapeHTML(value)}</option>`).join('')}</optgroup>` : ''}`;
     const authorCounts = new Map();
     for (const poem of catalogPoems) authorCounts.set(poem.author, (authorCounts.get(poem.author) || 0) + 1);
     $('#authorSelect').innerHTML = `<option value="all">全部作者</option>${[...authorCounts].sort(([a], [b]) => a.localeCompare(b, 'zh-Hans-CN')).map(([author, count]) => `<option value="${escapeHTML(author)}">${escapeHTML(author)} · ${count} 首</option>`).join('')}`;
@@ -312,7 +340,7 @@ async function init() {
     for (const id of ['startReading', 'homeLibrary', 'homeFeatured']) $(`#${id}`).disabled = false;
     $('#startReading').textContent = currentIndex ? '续读' : '入卷';
     if (!extras) extras = setupReadingExtras({
-      getCatalog: () => catalogPoems, getCurrentPoem: () => poems[currentIndex],
+      getCatalog: () => catalogPoems, getCurrentPoem: () => poems[currentIndex], getCoverPoemID: () => coverPoemID, motionAvailable: volume.id === '1',
       loadPoem: id => loader.load(id), openPoem: id => openPoem(id),
       showDailyRecommendation: () => filters.collection === 'featured' && !filters.query.trim()
         && filters.category === 'all' && filters.author === 'all' && filters.readStatus === 'all',
@@ -332,6 +360,10 @@ async function init() {
   } finally { loading = false; }
 }
 
+$('#volumeSelect').addEventListener('change', event => {
+  saveReadingProgress();
+  location.assign(volumeURL(event.target.value, location.href));
+});
 $('#startReading').addEventListener('click', () => enterReader());
 $('#backHome').addEventListener('click', () => setHome(true));
 $('#homeLibrary').addEventListener('click', () => openLibrary('all'));

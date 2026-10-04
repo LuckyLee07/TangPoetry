@@ -1,0 +1,149 @@
+{
+  "id": "yizhu-81103a41ebffcbf7",
+  "title": "夜雪",
+  "author": "白居易",
+  "dynasty": "唐",
+  "section": "五言绝句",
+  "genre": "五言绝句",
+  "sourceTitle": "夜雪",
+  "displaySourceTitle": "夜雪",
+  "originalEditionTitle": "夜雪",
+  "rubyLines": [
+    [
+      [
+        "已",
+        ""
+      ],
+      [
+        "讶",
+        ""
+      ],
+      [
+        "衾",
+        ""
+      ],
+      [
+        "枕",
+        ""
+      ],
+      [
+        "冷",
+        ""
+      ],
+      [
+        "，",
+        ""
+      ]
+    ],
+    [
+      [
+        "复",
+        ""
+      ],
+      [
+        "见",
+        ""
+      ],
+      [
+        "窗",
+        ""
+      ],
+      [
+        "户",
+        ""
+      ],
+      [
+        "明",
+        ""
+      ],
+      [
+        "。",
+        ""
+      ]
+    ],
+    [
+      [
+        "夜",
+        ""
+      ],
+      [
+        "深",
+        ""
+      ],
+      [
+        "知",
+        ""
+      ],
+      [
+        "雪",
+        ""
+      ],
+      [
+        "重",
+        ""
+      ],
+      [
+        "，",
+        ""
+      ]
+    ],
+    [
+      [
+        "时",
+        ""
+      ],
+      [
+        "闻",
+        ""
+      ],
+      [
+        "折",
+        ""
+      ],
+      [
+        "竹",
+        ""
+      ],
+      [
+        "声",
+        ""
+      ],
+      [
+        "。",
+        ""
+      ]
+    ]
+  ],
+  "noteTitle": "诗意",
+  "note": "先是被褥发冷，又见窗外发白，才觉夜里已经落雪。竹枝偶尔被压折的一声，更让人知道这场雪下得很深。",
+  "interpretation": [
+    "我先惊觉被子和枕头冷了，接着又发现窗户透着明亮的白光。夜深时知道雪积得厚，是因为不时听见竹枝被压折的声音。"
+  ],
+  "annotations": [
+    {
+      "text": "衾：被子。",
+      "source": "编辑释义"
+    },
+    {
+      "text": "雪重：指积雪厚重，不是只说雪花下得急。",
+      "source": "编辑释义"
+    }
+  ],
+  "variants": [],
+  "preface": [],
+  "notes": [
+    "衾：被子。",
+    "雪重：指积雪厚重，不是只说雪花下得急。"
+  ],
+  "editorialNotes": [],
+  "sourceRefs": [
+    "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.22000.json"
+  ],
+  "contentStatus": "editorial-draft",
+  "text": "已讶衾枕冷，复见窗户明。\n夜深知雪重，时闻折竹声。",
+  "readingText": "已讶衾枕冷，复见窗户明。\n夜深知雪重，时闻折竹声。",
+  "displayGlyphs": {},
+  "layout": "center-low",
+  "pronunciationStatus": "not-prepared",
+  "sourceText": "已讶衾枕冷，复见窗户明。\n夜深知雪重，时闻折竹声。"
+}

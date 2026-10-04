@@ -26,6 +26,9 @@ output/
 ios/build/
 ios/Resources/
 ios/Content/
+ios/Volume2Content/
+ios/.Volume2Content-build.lock
+ios/.Volume2Content.previous/
 *.xcuserstate
 xcuserdata/
 DerivedData/

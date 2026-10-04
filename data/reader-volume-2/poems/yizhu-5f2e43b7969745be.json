@@ -1,0 +1,149 @@
+{
+  "id": "yizhu-5f2e43b7969745be",
+  "title": "溪口云",
+  "author": "张文姬",
+  "dynasty": "唐",
+  "section": "五言绝句",
+  "genre": "五言绝句",
+  "sourceTitle": "溪口云",
+  "displaySourceTitle": "溪口云",
+  "originalEditionTitle": "溪口雲",
+  "rubyLines": [
+    [
+      [
+        "溶",
+        ""
+      ],
+      [
+        "溶",
+        ""
+      ],
+      [
+        "溪",
+        ""
+      ],
+      [
+        "口",
+        ""
+      ],
+      [
+        "云",
+        ""
+      ],
+      [
+        "，",
+        ""
+      ]
+    ],
+    [
+      [
+        "才",
+        ""
+      ],
+      [
+        "向",
+        ""
+      ],
+      [
+        "溪",
+        ""
+      ],
+      [
+        "中",
+        ""
+      ],
+      [
+        "吐",
+        ""
+      ],
+      [
+        "。",
+        ""
+      ]
+    ],
+    [
+      [
+        "不",
+        ""
+      ],
+      [
+        "复",
+        ""
+      ],
+      [
+        "归",
+        ""
+      ],
+      [
+        "溪",
+        ""
+      ],
+      [
+        "中",
+        ""
+      ],
+      [
+        "，",
+        ""
+      ]
+    ],
+    [
+      [
+        "还",
+        ""
+      ],
+      [
+        "作",
+        ""
+      ],
+      [
+        "溪",
+        ""
+      ],
+      [
+        "中",
+        ""
+      ],
+      [
+        "雨",
+        ""
+      ],
+      [
+        "。",
+        ""
+      ]
+    ]
+  ],
+  "noteTitle": "诗意",
+  "note": "溪口的云才轻轻涌出，转眼又化作雨落回水上。云与溪水一来一往，写得清浅，也留着回环不尽的余味。",
+  "interpretation": [
+    "溪口云气舒缓流动，刚刚从溪谷间吐出。它不再以原来的云形回到溪中，却变成了洒落溪水的雨。"
+  ],
+  "annotations": [
+    {
+      "text": "溶溶：云气舒展流动的样子。",
+      "source": "编辑释义"
+    },
+    {
+      "text": "吐：涌出、升起。",
+      "source": "编辑释义"
+    }
+  ],
+  "variants": [],
+  "preface": [],
+  "notes": [
+    "溶溶：云气舒展流动的样子。",
+    "吐：涌出、升起。"
+  ],
+  "editorialNotes": [],
+  "sourceRefs": [
+    "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.43000.json"
+  ],
+  "contentStatus": "editorial-draft",
+  "text": "溶溶溪口云，才向溪中吐。\n不复归溪中，还作溪中雨。",
+  "readingText": "溶溶溪口云，才向溪中吐。\n不复归溪中，还作溪中雨。",
+  "displayGlyphs": {},
+  "layout": "center-low",
+  "pronunciationStatus": "not-prepared",
+  "sourceText": "溶溶溪口云，才向溪中吐。\n不复归溪中，还作溪中雨。"
+}

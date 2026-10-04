@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "reviewedOn": "2026-09-29",
+  "reviewedOn": "2026-10-04",
   "status": "editorial-draft",
-  "scope": "仅应用于独立制作稿；原始 poems.json 不变；未冒称纸书或影印终校",
+  "scope": "仅应用于独立制作稿；原始 poems.json 不变；每项保留前后正文和所据见证，择有据异文不等同于判定原文错误；未冒称纸书或影印终校",
   "corrections": [
     {
       "id": "yizhu-f3737ebcf8e5a861",
@@ -296,6 +296,197 @@
       },
       "variants": [],
       "reason": "《唐诗鼓吹》卷二（元郝天挺注、四库全书本）电子原典作“邠王玉笛三更咽”；《全唐诗钞》卷六十四与《唐诗贯珠》卷二十三同作“邠王”。《唐诗贯珠》的注文还再次论述“今称邠王之笛咽”，故不是仅凭单处 OCR 或现代译文推改。提出显示层修订，不覆盖归档源文。；《唐诗鼓吹》卷二、《全唐诗钞》卷六十四和《唐诗贯珠》卷二十三的这一句均作“一自犬戎生薊北”，薊的简体为蓟；《唐诗鼓吹》注又明确将犬戎联系安禄山。三份古籍文本在目标地名一致，不采用问题较多的《全唐诗》单页 OCR 作唯一依据。仅修订所指地名，其他异文不顺带改动。"
+    },
+    {
+      "id": "yizhu-e20a1fe86feea9fb",
+      "order": 2,
+      "title": "茅屋为秋风所破歌",
+      "author": "杜甫",
+      "status": "accepted-for-editorial-draft",
+      "sourceText": "八月秋高风怒号，卷我屋上三重茅。\n茅飞度江洒江郊，高者挂罥长林梢。\n下者飘转沈塘坳，南邨群童欺我老无力。\n忍能对面为盗贼，公然抱茅入竹去。\n唇焦口燥呼不得，归来倚仗自叹息。\n俄顷风定云墨色，秋天漠漠向昏黑。\n布衾多年冷似铁，骄儿恶卧踏里裂。\n床床屋漏无干处，雨脚如麻未断绝。\n自经丧乱少睡眠，长夜沾湿何由彻。\n安得广厦千万间，大庇天下寒士俱欢颜。\n风雨不动安如山，呜呼！何时眼前突兀见此屋？\n吾庐独破受冻死亦足。",
+      "proposedText": "八月秋高风怒号，卷我屋上三重茅。\n茅飞度江洒江郊，高者挂罥长林梢。\n下者飘转沈塘坳，南邨群童欺我老无力。\n忍能对面为盗贼，公然抱茅入竹去。\n唇焦口燥呼不得，归来倚杖自叹息。\n俄顷风定云墨色，秋天漠漠向昏黑。\n布衾多年冷似铁，骄儿恶卧踏里裂。\n床床屋漏无干处，雨脚如麻未断绝。\n自经丧乱少睡眠，长夜沾湿何由彻。\n安得广厦千万间，大庇天下寒士俱欢颜。\n风雨不动安如山，呜呼！何时眼前突兀见此屋？\n吾庐独破受冻死亦足。",
+      "verificationRefs": [
+        "https://zh.wikisource.org/zh-hant/補註杜詩_(四庫全書本)/卷10",
+        "https://ctext.org/wiki.pl?chapter=226265&if=gb",
+        "https://zh.wikisource.org/wiki/Page:Sibu_Congkan0636-杜甫-分門集註杜工部詩-10-03.djvu/153"
+      ],
+      "proposalRefs": [
+        "data/expansion/tang-second-volume/text-proposals/2026-10-04-finalization.json#/proposals/0"
+      ],
+      "variants": [
+        {
+          "locus": "床床屋漏无干处",
+          "alternative": "床头屋漏无干处",
+          "decision": "retain-source",
+          "note": "古本正文及注文均见床床，保留本卷归档读法；两读同指屋漏床湿，不冒称床头为唯一原文。",
+          "url": "https://ctext.org/wiki.pl?chapter=226265&if=gb"
+        }
+      ],
+      "reason": "据宋黄希、黄鹤《补注杜诗》卷十和《分门集注杜工部诗》所录“归来倚杖自叹息”，呈现层将“仗”改为“杖”，明确所指拄杖；仅校这一字。“床床”在《分门集注杜工部诗》正文及注文中重复出现，《补注杜诗》亦作“牀牀”，是有据古本读法，本稿保留“床床”，不按常见“床头”径判误字。"
+    },
+    {
+      "id": "yizhu-d4a91b762895b1b0",
+      "order": 280,
+      "title": "同李十一醉忆元九",
+      "author": "白居易",
+      "status": "accepted-for-editorial-draft",
+      "sourceText": "花时同醉破春愁，醉折花枝当酒筹。\n忽忆故人天际去，计程今日到凉州。",
+      "proposedText": "花时同醉破春愁，醉折花枝当酒筹。\n忽忆故人天际去，计程今日到梁州。",
+      "verificationRefs": [
+        "https://zh.wikisource.org/wiki/三夢記",
+        "https://zh.wikisource.org/wiki/御定全唐詩_(四庫全書本)/卷437",
+        "https://www.shidianguji.com/zh/mid-page/7430934928273211430",
+        "https://zh.wikisource.org/wiki/白氏長慶集_(四庫全書本)/卷14"
+      ],
+      "proposalRefs": [
+        "data/expansion/tang-second-volume/text-proposals/2026-10-04-finalization.json#/proposals/3"
+      ],
+      "variants": [
+        {
+          "locus": "计程今日到梁州",
+          "alternative": "计程今日到凉州",
+          "decision": "use-selected-witness",
+          "note": "《白氏长庆集》四库本主文作涼，《全唐诗》主文作凉并列一作梁；本稿选择唐白行简《三梦记》所引梁州，不宣称抹除另一读法。",
+          "url": "https://zh.wikisource.org/wiki/白氏長慶集_(四庫全書本)/卷14"
+        },
+        {
+          "locus": "醉折花枝当酒筹",
+          "alternative": "醉折花枝作酒筹",
+          "decision": "retain-source",
+          "note": "四库《白氏长庆集》及《三梦记》用作，本卷归档用当；本次仅择地名，不借局部校字替换其他正文。"
+        }
+      ],
+      "reason": "此为据版本择读，不认定“凉州”为单纯录入错误。《御定全唐诗》卷437录“凉”并校“一作梁”，《白氏长庆集》四库本仍作“涼”；唐白行简《三梦记》引此诗作“计程今日到梁州”，同时记元稹奉使剑外、应已达梁州，清《诗家全体》亦作“梁”。本呈现稿选择“梁州”以对应汉中一带的梁州，原“凉州”作为异文保留；首句及当／作等其余差异不拼合替换。",
+      "commentaryOverrides": {
+        "interpretation": [
+          "花开的时节，我与李十一一起饮酒，想消解心中的春愁，醉后折下花枝当作酒筹。忽然记起元九正在天涯远行，便按着路程推算，他今天该到梁州了。"
+        ],
+        "glossary": [
+          {
+            "term": "元九",
+            "text": "元稹，九为排行。"
+          },
+          {
+            "term": "李十一",
+            "text": "诗人的友人，十一为排行。"
+          },
+          {
+            "term": "酒筹",
+            "text": "饮酒时用来行令、计数的筹子。"
+          },
+          {
+            "term": "梁州",
+            "text": "此处取汉中一带的梁州，与元稹奉使剑外的行程相应。另本作“凉州”；《全唐诗》已列两读，本稿据《三梦记》所引选择“梁”。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "yizhu-a8e4bcce1aceeed9",
+      "order": 89,
+      "title": "江南春绝句",
+      "author": "杜牧",
+      "status": "accepted-for-editorial-draft",
+      "sourceText": "千里莺啼绿映江，水村山郭酒旗风。\n南朝四百八十寺，多少楼台烟雨中。",
+      "proposedText": "千里莺啼绿映红，水村山郭酒旗风。\n南朝四百八十寺，多少楼台烟雨中。",
+      "verificationRefs": [
+        "https://zh.wikisource.org/zh-hant/全唐詩/卷522",
+        "https://www.shidianguji.com/zh/book/HY1028/chapter/1krd3j7ychjck"
+      ],
+      "proposalRefs": [
+        "data/expansion/tang-second-volume/text-proposals/2026-10-04-remaining-variants.json#/proposals/4"
+      ],
+      "variants": [
+        {
+          "source": "千里莺啼绿映江",
+          "selected": "千里莺啼绿映红",
+          "decision": "use-selected-witness"
+        }
+      ],
+      "reason": "《全唐诗》卷五百二十二及《御定全唐诗录》杜牧诗明作“千里莺啼绿映红”，项目归档中也另存“红”见证；本次所核原典未取得支持“江”的古本见证。本稿据上述见证选择“红”，使绿叶红花相映的正文与诗意一致，归档“江”文保留作为来源记录；不扩大改动“千里”等另有争论的字。",
+      "commentaryOverrides": {
+        "interpretation": [
+          "辽阔江南处处传来黄莺啼声，绿树与红花彼此映衬；水边村落、山旁城郭之间，酒旗迎风飘动。南朝留下许多寺院，到今天不知有多少楼台仍在细雨烟霭中若隐若现。春日生机与历史遗迹在同一片朦胧景色里相接。"
+        ]
+      }
+    },
+    {
+      "id": "yizhu-bc0134c91b1e83cd",
+      "order": 208,
+      "title": "送宫人入道归山",
+      "author": "于鹄",
+      "status": "accepted-for-editorial-draft",
+      "sourceText": "十岁吹萧入汉宫，看修水殿种芙蓉。\n自伤白发辞金屋，许著黄衣向玉峰。\n解语老猨开晓户，学飞雏鹤落高松。\n定知别后宫中伴，应听缑山半夜钟。",
+      "proposedText": "十岁吹箫入汉宫，看修水殿种芙蓉。\n自伤白发辞金屋，许著黄衣向玉峰。\n解语老猨开晓户，学飞雏鹤落高松。\n定知别后宫中伴，应听缑山半夜钟。",
+      "verificationRefs": [
+        "https://zh.wikisource.org/wiki/全唐詩/卷310",
+        "https://zh.wikisource.org/wiki/送宮人入道歸山",
+        "https://zh.wikisource.org/zh-hant/欽定古今圖書集成/明倫彙編/宮闈典/第053卷"
+      ],
+      "proposalRefs": [
+        "data/expansion/tang-second-volume/text-proposals/2026-10-04-remaining-variants.json#/proposals/9"
+      ],
+      "variants": [
+        {
+          "source": "十岁吹萧入汉宫",
+          "selected": "十岁吹箫入汉宫",
+          "decision": "correct-local-character"
+        },
+        {
+          "source": "十岁",
+          "selected": "十岁",
+          "alternative": "十五／十载",
+          "decision": "retain-selected-age-reading"
+        }
+      ],
+      "reason": "《全唐诗》卷三百一十本首及独立原诗转录均作“十岁吹箫入汉宫”。本稿仅将器名“萧”校为“箫”，与吹奏竹箫的诗意对应。其他类书所引有“十五”等异读，本次不扩大改动“十岁”或末联，以免混用不同见证。"
+    },
+    {
+      "id": "yizhu-91ac8b5bce8dcae1",
+      "order": 235,
+      "title": "送朱大入秦",
+      "author": "孟浩然",
+      "status": "accepted-for-editorial-draft",
+      "sourceText": "游人武陵去，宝劒直千金。\n分手脱相赠，平生一片心。",
+      "proposedText": "游人五陵去，宝劒直千金。\n分手脱相赠，平生一片心。",
+      "verificationRefs": [
+        "https://zh.wikisource.org/zh-hant/孟浩然集_(四部叢刊本)/卷第四",
+        "https://ctext.org/wiki.pl?chapter=403868&if=en",
+        "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.7000.json"
+      ],
+      "proposalRefs": [
+        "data/expansion/tang-second-volume/text-proposals/2026-10-04-remaining-variants.json#/proposals/10"
+      ],
+      "variants": [
+        {
+          "source": "游人武陵去",
+          "selected": "游人五陵去",
+          "alternative": "游人武陵去",
+          "decision": "use-selected-witness"
+        },
+        {
+          "source": "宝劒直千金",
+          "selected": "宝劒直千金",
+          "decision": "retain-source-glyphs"
+        }
+      ],
+      "reason": "《孟浩然集》四部丛刊本卷四（景江南图书馆藏明刊本）及同集原著转录作“游人五陵去”，与题中“入秦”地望相合。本稿选择有据的“五陵”；项目来源《全唐诗》系统所存“武陵”继续作为异文记录，不宣称所有“武陵”见证都是误写。宝劒、直等字形不随另一转录一并改动。",
+      "commentaryOverrides": {
+        "glossary": [
+          {
+            "term": "直",
+            "text": "通“值”，价值。"
+          },
+          {
+            "term": "脱相赠",
+            "text": "解下佩剑赠给对方。"
+          },
+          {
+            "term": "五陵",
+            "text": "长安附近汉代五座帝陵所在地区，诗中借指长安一带。制作稿据《孟浩然集》四部丛刊本选“五陵”，来源“武陵”仍存于归档异文。"
+          }
+        ]
+      }
     }
   ]
 }

@@ -7,7 +7,7 @@ BASE = ROOT / 'data/expansion/tang-second-volume'
 def read(p): return json.loads(p.read_text())
 def write(p, data):
     p.write_text(json.dumps(data, ensure_ascii=False, indent=2)+'\n')
-def assemble(require_complete=False, save=True):
+def assemble(require_complete=False, save=True, check_existing=False):
     source = read(BASE/'poems.json'); poems = source['poems']
     assert len(poems) == 305 and len({p['id'] for p in poems}) == 305
     commentary = {}; files = {}
@@ -24,6 +24,10 @@ def assemble(require_complete=False, save=True):
             assert fix['reason'] and fix['verificationRefs'] and fix['sourceText'] != fix['proposedText']
             corrections[fix['id']] = fix
     assert set(corrections) <= set(commentary), 'Unknown correction IDs'
+    metadata_path = BASE/'display-metadata.json'
+    metadata = read(metadata_path)['poems'] if metadata_path.exists() else {}
+    if metadata:
+        assert set(metadata) == set(commentary), 'Display metadata must cover all 305 IDs'
     receipts = {}; hashes = {}; image_bytes = 0; errors = []
     for path in sorted((BASE/'illustrations/receipts').glob('*.json')):
         r = read(path); pid = r['id']; asset = ROOT/r['image']
@@ -73,6 +77,12 @@ def assemble(require_complete=False, save=True):
             c['reviewNotes'] = ['制作稿已校订：'+fix['reason']+' 原始 poems.json 保留原貌，本次仅用于独立编辑预览，尚非纸书终校。'] + [note if note.startswith('语义复核：') else '初稿记录（归档底本）：'+note for note in c['reviewNotes']]
             c['basis']['verificationRefs'] = list(dict.fromkeys(c['basis'].get('verificationRefs',[])+fix['verificationRefs']))
             entry['textCorrection'] = {'status':fix['status'],'reason':fix['reason'],'verificationRefs':fix['verificationRefs'],'record':'data/expansion/tang-second-volume/text-corrections.json'}
+        if metadata:
+            m = metadata[pid]
+            assert m['original']['title']==p['title'] and m['original']['author']==p['author'], f'Stale display metadata: {pid}'
+            assert all(isinstance(m.get(k),str) and m[k].strip() for k in ('displayTitle','displayDynasty','genre','catalogSection')), pid
+            assert isinstance(m['aliases'],list) and all(isinstance(x,str) and x.strip() for x in m['aliases']), pid
+            entry.update(displayTitle=m['displayTitle'],displayDynasty=m['displayDynasty'],displayGenre=m['genre'],catalogSection=m['catalogSection'],aliases=list(dict.fromkeys([p['title'],p.get('sourceTitle',p['title']),*p.get('aliases',[]),*m['aliases']])),sourceTitle=p.get('sourceTitle',p['title']),formAttributes=m.get('formAttributes',[]),displayMetadataRef='data/expansion/tang-second-volume/display-metadata.json')
         paragraphs += len(c['interpretation']); glossary_count += len(c['glossary'])
         entry.update(commentary=c,commentaryFile=files[pid],image=r['image'] if r else None,illustrationReceipt=f"data/expansion/tang-second-volume/illustrations/receipts/{p['order']:03d}.json" if r else None)
         output.append(entry)
@@ -82,8 +92,13 @@ def assemble(require_complete=False, save=True):
     audit={'schemaVersion':1,'scope':'第二卷内容制作；不改写原底本、不导入第一卷 App', 'poemCount':len(poems),'commentaryCount':len(commentary),'interpretationParagraphCount':paragraphs,'glossaryEntryCount':glossary_count,'illustrationCount':len(receipts),'illustrationBytes':image_bytes,'pendingIllustrationOrders':pending,'editorialNotePoemCount':len(notes),'textCorrectionCount':len(corrections),'assetErrors':errors,'allAssetsPresent':not pending and not errors,'publicationReady':False,'checks':['稳定 ID 一一对应','全部诗意、解读、词注字段及来源非空检查','所记录原文哈希检查','校订前原文精确匹配与证据字段检查','PNG 尺寸、SHA-256 与重复文件检查'],'limits':['结构检查不能代替学术终审','插画为逐张 AI 助手视觉复核，尚未整库真人审阅','校勘笔记含异文、释义边界及疑似缺字缺句，不等于全部是错误']}
     assert not errors, errors
     if require_complete: assert not pending, f'Missing illustrations: {pending}'
+    production={'schemaVersion':1,'name':'唐诗画笺·第二卷制作稿','importIntoApp':False,'publicationReady':False,'stats':audit,'poems':output}
+    if check_existing:
+        assert read(BASE/'production.json')==production, 'Production output stale; rebuild before checking'
+        assert read(BASE/'production-audit.json')==audit, 'Production audit stale; rebuild before checking'
+        assert read(BASE/'editorial-notes.json')=={'schemaVersion':1,'status':'editorial-draft','notes':notes}, 'Editorial notes output stale'
     if save:
-        write(BASE/'production.json',{'schemaVersion':1,'name':'唐诗画笺·第二卷制作稿','importIntoApp':False,'publicationReady':False,'stats':audit,'poems':output})
+        write(BASE/'production.json',production)
         write(BASE/'production-audit.json',audit)
         write(BASE/'editorial-notes.json',{'schemaVersion':1,'status':'editorial-draft','notes':notes})
         md=['# 第二卷校勘与释义笔记','','自动汇总自逐首编辑稿。包含版本差异、解释边界和待核问题；不是勘误清单，也不代表原书已经核对。原始 `poems.json` 保留原貌。','']
@@ -94,4 +109,4 @@ def assemble(require_complete=False, save=True):
     return audit
 if __name__=='__main__':
     ap=argparse.ArgumentParser(); ap.add_argument('--require-complete',action='store_true'); ap.add_argument('--check',action='store_true'); a=ap.parse_args()
-    print(json.dumps(assemble(a.require_complete,not a.check),ensure_ascii=False))
+    print(json.dumps(assemble(a.require_complete,not a.check,a.check),ensure_ascii=False))

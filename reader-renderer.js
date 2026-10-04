@@ -44,8 +44,8 @@ export function layoutReadingPage(element, detail, options) {
 
 export function poemMarkup(poem, detail) {
   return `<figure class="scene" aria-hidden="true"><img src="./${escapeHTML(poem.image)}" alt="" decoding="async" /></figure>
-    <div class="book-ribbon">${escapeHTML(poem.section)}</div>
-    <div class="poem-body" tabindex="0" aria-label="${escapeHTML(poem.title)}全文"><div class="poem-text"><h2 class="poem-title">${escapeHTML(poem.title)}</h2><p class="poem-author">唐 · ${escapeHTML(poem.author)}</p><div class="poem-lines">${verses(detail.rubyLines)}</div></div>
+    <div class="book-ribbon">${escapeHTML(poem.genre || poem.section)}</div>
+    <div class="poem-body" tabindex="0" aria-label="${escapeHTML(poem.title)}全文"><div class="poem-text"><h2 class="poem-title">${escapeHTML(poem.title)}</h2><p class="poem-author">${escapeHTML(poem.dynasty || detail.dynasty || '唐')} · ${escapeHTML(poem.author)}</p><div class="poem-lines">${verses(detail.rubyLines)}</div></div>
     ${detail.note?.trim() ? `<section class="note"><h3>${escapeHTML(detail.noteTitle)}</h3><p>${escapeHTML(detail.note)}</p><button class="note-more" data-notes="${poem.id}" aria-label="查看${escapeHTML(poem.title)}的完整诗意和注释">展开</button></section>` : ''}</div>`;
 }
 
@@ -54,10 +54,11 @@ export function notesMarkup(poem) {
   const section = (title, content) => content ? `<section class="notes-section"><h3>${title}</h3>${content}</section>` : '';
   const entries = items => items.map(item => `<p>${escapeHTML(item.text)}</p>`).join('');
   const sourceName = source => ({ ctext: '中国哲学书电子化计划', chiuinan: '唐诗选本附注', '唐诗三百首.json': '基础选本' }[source] || source);
+  const sourceTitle = poem.displaySourceTitle || poem.sourceTitle;
   const variants = (poem.variants || []).map(item => `<p>${escapeHTML(item.text)}<small class="note-source">来源：${escapeHTML(sourceName(item.source))}</small></p>`).join('');
   return section('诗意', paragraphs(poem.interpretation || []))
     + section('字词解释', entries(poem.annotations || []))
     + section('异文', variants ? `<p class="note-source">以下为选本原有校记，保留不同说法。</p>${variants}` : '')
     + section('题序', paragraphs(poem.preface?.length ? [poem.preface.join('')] : []))
-    + section('原题', paragraphs(poem.sourceTitle && poem.sourceTitle !== poem.title ? [poem.sourceTitle] : []));
+    + section('原题', paragraphs(sourceTitle && sourceTitle !== poem.title ? [sourceTitle] : []));
 }

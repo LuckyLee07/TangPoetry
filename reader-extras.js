@@ -46,7 +46,7 @@ export async function makePoemCard(poem, detail) {
   ctx.fillStyle = '#302b23'; ctx.font = `64px ${family}`;
   titleLines.forEach((line, index) => ctx.fillText(line, 540, 740 + index * 86));
   ctx.fillStyle = '#716b5c'; ctx.font = '30px sans-serif';
-  ctx.fillText(`唐 · ${poem.author}`, 540, 740 + titleLines.length * 86 + 12);
+  ctx.fillText(`${poem.dynasty || '唐'} · ${poem.author}`, 540, 740 + titleLines.length * 86 + 12);
   ctx.fillStyle = '#302b23'; ctx.font = `${size}px ${family}`;
   lines.forEach((line, index) => ctx.fillText(line, 540, start + index * leading));
   ctx.strokeStyle = '#716b5c40'; ctx.beginPath(); ctx.moveTo(440, canvas.height - 112); ctx.lineTo(640, canvas.height - 112); ctx.stroke();
@@ -58,7 +58,7 @@ export async function makePoemCard(poem, detail) {
 
 const motions = { 'tang-232-chun-xiao': 'petals', 'tang-244-jiang-xue': 'snow', 'tang-225-zhu-li-guan': 'leaves' };
 
-export function setupReadingExtras({ getCatalog, getCurrentPoem, loadPoem, openPoem, showDailyRecommendation, notice }) {
+export function setupReadingExtras({ getCatalog, getCurrentPoem, loadPoem, openPoem, showDailyRecommendation, notice, getCoverPoemID = () => 'tang-157-feng-yu', motionAvailable = true }) {
   const $ = selector => document.querySelector(selector);
   const cover = document.createElement('button'); cover.className = 'cover-poem'; cover.id = 'coverPoem';
   $('.home-meta').before(cover);
@@ -73,7 +73,7 @@ export function setupReadingExtras({ getCatalog, getCurrentPoem, loadPoem, openP
     button.onclick = () => onOpen(poem.id);
   };
   const updateCover = () => {
-    const poem = getCatalog().find(poem => poem.id === 'tang-157-feng-yu');
+    const poem = getCatalog().find(poem => poem.id === getCoverPoemID());
     cover.hidden = !poem;
     if (poem) setPoemButton(cover, poem, '画中诗', openPoem);
   };
@@ -91,7 +91,8 @@ export function setupReadingExtras({ getCatalog, getCurrentPoem, loadPoem, openP
   motionRow.append(motionLabel, motionSwitch);
   const motionHelp = document.createElement('p'); motionHelp.className = 'extras-hint'; motionHelp.id = 'motionHint'; motionSwitch.setAttribute('aria-describedby', motionHelp.id);
   const save = document.createElement('button'); save.id = 'savePoemCard'; save.className = 'setting-row setting-link'; save.textContent = '保存或分享当前诗笺';
-  $('#settings .about').before(save, motionRow, motionHelp);
+  $('#settings .about').before(save);
+  if (motionAvailable) $('#settings .about').before(motionRow, motionHelp);
   const dialog = document.createElement('dialog'); dialog.id = 'cardDialog'; dialog.className = 'sheet card-sheet'; dialog.setAttribute('aria-labelledby', 'cardTitle');
   dialog.innerHTML = '<div class="sheet-header"><h2 id="cardTitle">诗笺预览</h2><button class="icon-button" aria-label="关闭诗笺预览">×</button></div><p class="card-status" role="status"></p><div class="card-preview"></div><div class="card-actions"><a class="text-pill" hidden>下载诗笺</a><button class="text-pill" hidden>分享诗笺</button></div>';
   document.body.append(dialog);
@@ -128,7 +129,7 @@ export function setupReadingExtras({ getCatalog, getCurrentPoem, loadPoem, openP
   const reduced = matchMedia('(prefers-reduced-motion: reduce)');
   function updateMotion() {
     motionHelp.textContent = reduced.matches ? '系统已开启减少动态效果，画境保持静止。' : '《春晓》《江雪》《竹里馆》轻动效试点，默认关闭。';
-    const enabled = motionSwitch.checked && !reduced.matches && !document.hidden && $('.reader').dataset.home === 'false' && !document.querySelector('dialog[open]');
+    const enabled = motionAvailable && motionSwitch.checked && !reduced.matches && !document.hidden && $('.reader').dataset.home === 'false' && !document.querySelector('dialog[open]');
     const id = getCurrentPoem()?.id;
     document.querySelectorAll('.poem-page').forEach(page => {
       const style = enabled && page.dataset.id === id ? motions[id] : null;

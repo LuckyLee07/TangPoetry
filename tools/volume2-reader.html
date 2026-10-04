@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>第二卷 · 唐诗画笺</title>
+<link rel="stylesheet" href="../styles.css"><link rel="stylesheet" href="./volume2-reader.css">
+<script type="module" src="./volume2-reader.js?v=0.6.16"></script>
+</head>
+<body>
+<header class="review-header"><div><span class="review-kicker">唐诗画笺</span><h1>第二卷 · 阅读校样</h1></div><p id="status" role="status">载入诗篇…</p><a href="./volume2-preview.html">图文总览</a></header>
+<main class="review-layout">
+<aside class="review-library" aria-label="第二卷目录"><label class="search-box"><span class="sr-only">搜索诗篇</span><input id="search" type="search" placeholder="诗题、作者或诗句"></label><div class="review-filters"><label>体裁<select id="genre"><option value="">全部</option></select></label><label>范围<select id="collection"><option value="all">全部诗篇</option><option value="favorites">我的收藏</option><option value="read">已读</option><option value="unread">未读</option></select></label></div><p id="resultCount" class="review-caption"></p><div id="items" class="review-items"></div><button id="moreResults" class="review-more" hidden>显示更多</button></aside>
+<section class="review-stage" aria-label="阅读页"><div id="sample" class="reader review-reader"><article id="page" class="poem-page" aria-busy="true"></article><div class="review-toolbar"><button id="previous" aria-label="上一首">‹</button><span id="pageCount"></span><button id="favorite" aria-label="收藏" aria-pressed="false">收藏</button><button id="notes" aria-label="完整诗意与注释">释义</button><button id="next" aria-label="下一首">›</button></div></div></section>
+<aside class="review-settings" aria-label="阅读设置"><h2>阅读设置</h2><label>屏幕尺寸<select id="screen"><option value="390,844">390 × 844</option><option value="320,568">320 × 568</option><option value="375,667">375 × 667</option><option value="430,932">430 × 932</option></select></label><label>诗文字号<select id="fontSize"><option value="20">小</option><option value="22" selected>标准</option><option value="26">大</option><option value="30">特大</option></select></label><label class="review-check"><input id="showNote" type="checkbox" checked> 显示简意</label><label class="review-check"><input id="showWords" type="checkbox" checked> 显示诗文</label><button id="markRead" aria-pressed="false">标记已读</button><p class="review-caption">正文与简意在同一纸页内滚动。可按左右方向键换篇。</p><a href="../data/expansion/tang-second-volume/EDITORIAL_NOTES.md" target="_blank" rel="noopener">查看校勘笔记</a></aside>
+</main>
+<dialog id="notesDialog" class="sheet"><header class="sheet-header"><div><span class="library-kicker">第二卷</span><h2 id="notesTitle"></h2></div><button id="closeNotes" aria-label="关闭释义">关闭</button></header><div id="fullNotes" class="full-notes"></div></dialog>
+</body></html>

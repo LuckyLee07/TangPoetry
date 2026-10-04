@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "volume": "volume-2",
+  "poems": 305,
+  "details": 305,
+  "productionSHA256": "44d6b42af779760b8786ebdbba05c3cade2920fe69fd0e974c5d153b06ac7bfc",
+  "metadataSHA256": "2b96766a17785dab4e2621bea12424195589c2e4c66fcecda58261837696dcd2",
+  "displayGlyphsSHA256": "83089dce543a3460a2354fee2772504895a5c704d564d12258fd10d50b27c2ae",
+  "sourceBytes": 651071883,
+  "pageBytes": 29550890,
+  "thumbnailBytes": 2913894,
+  "longPoems": 30,
+  "longTitles": 1,
+  "featuredPoems": 20,
+  "audioTracks": 0,
+  "publicationReady": false,
+  "directoryCropReview": "assistant-reviewed",
+  "archivalPoemsSHA256": "55941fbf05951da569ee520ab733d49a31f93b640ce2e6924672e89b36ac4e93"
+}

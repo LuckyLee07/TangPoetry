@@ -1,0 +1,864 @@
+{
+  "schemaVersion": 1,
+  "reviewedOn": "2026-10-04",
+  "scope": "四个优先待核项的原典文本取证，另对95首已有编辑笔记作分诊；不是305首重新逐字终校。原6项校订和语义修订保持原样。",
+  "method": "以原著/古籍电子转录、原典内校记及项目可复现字形转换为据；标明未肉眼核验的影印页，不把通行记忆当证据。",
+  "proposals": [
+    {
+      "id": "yizhu-e20a1fe86feea9fb",
+      "order": 2,
+      "title": "茅屋为秋风所破歌",
+      "author": "杜甫",
+      "kind": "evidence-backed-local-correction-with-retained-variant",
+      "status": "accepted-for-editorial-draft",
+      "applied": true,
+      "loci": [
+        {
+          "source": "归来倚仗自叹息",
+          "selected": "归来倚杖自叹息",
+          "decision": "correct-local-character"
+        },
+        {
+          "source": "床床屋漏无干处",
+          "alternative": "床头屋漏无干处",
+          "selected": "床床屋漏无干处",
+          "decision": "retain-documented-reading"
+        }
+      ],
+      "verificationRefs": [
+        "https://zh.wikisource.org/zh-hant/補註杜詩_(四庫全書本)/卷10",
+        "https://ctext.org/wiki.pl?chapter=226265&if=gb",
+        "https://zh.wikisource.org/wiki/Page:Sibu_Congkan0636-杜甫-分門集註杜工部詩-10-03.djvu/153"
+      ],
+      "reason": "据宋黄希、黄鹤《补注杜诗》卷十和《分门集注杜工部诗》所录“归来倚杖自叹息”，呈现层将“仗”改为“杖”，明确所指拄杖；仅校这一字。“床床”在《分门集注杜工部诗》正文及注文中重复出现，《补注杜诗》亦作“牀牀”，是有据古本读法，本稿保留“床床”，不按常见“床头”径判误字。",
+      "witnesses": [
+        {
+          "work": "《补注杜诗》卷十（四库全书本电子转录）",
+          "reading": "倚杖；牀牀屋漏无乾处",
+          "type": "original-work-transcription",
+          "url": "https://zh.wikisource.org/zh-hant/補註杜詩_(四庫全書本)/卷10"
+        },
+        {
+          "work": "《分门集注杜工部诗》三 v4–6（电子转录）",
+          "reading": "𠋣杖；床床屋漏无乾处；注文复述床床",
+          "type": "original-work-transcription",
+          "url": "https://ctext.org/wiki.pl?chapter=226265&if=gb"
+        },
+        {
+          "work": "《分门集注杜工部诗》四部丛刊本，第153页转录",
+          "reading": "床床；注文亦作床床",
+          "type": "scan-page-transcription-not-visual-verified",
+          "url": "https://zh.wikisource.org/wiki/Page:Sibu_Congkan0636-杜甫-分門集註杜工部詩-10-03.djvu/153"
+        }
+      ],
+      "limits": "本次核原典电子转录及其校注，不冒称已逐字肉眼核实影印。未扩大统一邨／村、沈／沉等字形。"
+    },
+    {
+      "id": "yizhu-ed9c3b19ab78dd76",
+      "order": 57,
+      "title": "九日齐安登高",
+      "author": "杜牧",
+      "kind": "documented-title-variant",
+      "status": "evidence-ready-for-display-metadata",
+      "applied": false,
+      "sourceTitle": "九日齐安登高",
+      "recommendedDisplayTitle": "九日齐山登高",
+      "retainAliases": [
+        "九日齐安登高",
+        "九日齐山登高"
+      ],
+      "verificationRefs": [
+        "https://zh.wikisource.org/zh/御定全唐詩_(四庫全書本)/卷522",
+        "https://zh.wikisource.org/wiki/Page:Sibu_Congkan0749-杜牧-樊川文集-5-2.djvu/12",
+        "https://ctext.org/wiki.pl?chapter=920161&if=gb"
+      ],
+      "reason": "《御定全唐诗》卷522题“九日齐安（一作齐山）登高”；《樊川文集》四部丛刊本卷三题“九日齐山登高”。两者皆有古籍见证，按用户既定选目采用齐山为显示题即可，不认定齐安为录入错，不改稳定ID、源题和插画收据。正文“叹／恨”“泪／独”有异，不随题名混换。",
+      "limits": "仅移交题名证据；具体显示元数据由另一工序处理。原典页转录已查，影印像未肉眼核验。"
+    },
+    {
+      "id": "yizhu-9f2e018f1b8609ea",
+      "order": 183,
+      "title": "盩厔县郑𥐟宅送钱大",
+      "author": "郎士元",
+      "kind": "source-name-glyph-preservation",
+      "status": "retain-source-identified-glyph",
+      "applied": false,
+      "sourceGlyph": "𥐟",
+      "originalWitnessGlyph": "礒",
+      "decision": "retain-name-character",
+      "verificationRefs": [
+        "https://ctext.org/wiki.pl?chapter=496989&if=gb",
+        "https://ctext.org/wiki.pl?chapter=892102&if=en"
+      ],
+      "normalizationEvidence": {
+        "method": "复用项目已有OpenCC t2s字形转换",
+        "input": "盩厔縣鄭礒宅送錢大",
+        "observedOutput": "盩厔县郑𥐟宅送钱大",
+        "reproducedOn": "2026-10-04"
+      },
+      "reason": "《御定全唐诗》卷248题“盩厔县郑礒宅送钱大”。唐姚合《极玄集》题《送友人》，校记列“别集作盩厔县郑礒宅送钱大，中兴集作别郑礒”，可确认郑礒的名中该字不应删去。归档𥐟是本项目OpenCC t2s对礒的转换结果；不改成郑宅或郑氏宅，避免丢掉原典人名。阅读展示若选择礒以利字体，应以displayTitle覆盖并保留原题。",
+      "limits": "不据字典同形字为人名补造读音、生平或身份。Unicode主站数据接口本次未成功读取，因此不把二手Unihan条目作为已直接核验的主证据。"
+    },
+    {
+      "id": "yizhu-d4a91b762895b1b0",
+      "order": 280,
+      "title": "同李十一醉忆元九",
+      "author": "白居易",
+      "kind": "documented-variant-selected",
+      "status": "accepted-for-editorial-draft",
+      "applied": true,
+      "loci": [
+        {
+          "source": "计程今日到凉州",
+          "selected": "计程今日到梁州",
+          "decision": "select-attested-reading"
+        }
+      ],
+      "verificationRefs": [
+        "https://zh.wikisource.org/wiki/三夢記",
+        "https://zh.wikisource.org/wiki/御定全唐詩_(四庫全書本)/卷437",
+        "https://www.shidianguji.com/zh/mid-page/7430934928273211430",
+        "https://zh.wikisource.org/wiki/白氏長慶集_(四庫全書本)/卷14"
+      ],
+      "reason": "此为据版本择读，不认定“凉州”为单纯录入错误。《御定全唐诗》卷437录“凉”并校“一作梁”，《白氏长庆集》四库本仍作“涼”；唐白行简《三梦记》引此诗作“计程今日到梁州”，同时记元稹奉使剑外、应已达梁州，清《诗家全体》亦作“梁”。本呈现稿选择“梁州”以对应汉中一带的梁州，原“凉州”作为异文保留；首句及当／作等其余差异不拼合替换。",
+      "witnesses": [
+        {
+          "work": "唐白行简《三梦记》",
+          "reading": "计程今日到梁州；元稹奉使剑外；微之当达梁",
+          "type": "original-work-transcription",
+          "url": "https://zh.wikisource.org/wiki/三夢記"
+        },
+        {
+          "work": "《御定全唐诗》卷437（四库全书本）",
+          "reading": "凉，一作梁",
+          "type": "original-work-transcription",
+          "url": "https://zh.wikisource.org/wiki/御定全唐詩_(四庫全書本)/卷437"
+        },
+        {
+          "work": "清《诗家全体》",
+          "reading": "到梁州",
+          "type": "original-work-transcription",
+          "url": "https://www.shidianguji.com/zh/mid-page/7430934928273211430"
+        },
+        {
+          "work": "《白氏长庆集》卷14（四库全书本）",
+          "reading": "到涼州",
+          "type": "original-work-transcription",
+          "url": "https://zh.wikisource.org/wiki/白氏長慶集_(四庫全書本)/卷14"
+        }
+      ],
+      "commentarySuggestion": {
+        "interpretation": [
+          "花开的时节，我与李十一一起饮酒，想消解心中的春愁，醉后折下花枝当作酒筹。忽然记起元九正在天涯远行，便按着路程推算，他今天该到梁州了。"
+        ],
+        "glossary": [
+          {
+            "term": "元九",
+            "text": "元稹，九为排行。"
+          },
+          {
+            "term": "李十一",
+            "text": "诗人的友人，十一为排行。"
+          },
+          {
+            "term": "酒筹",
+            "text": "饮酒时用来行令、计数的筹子。"
+          },
+          {
+            "term": "梁州",
+            "text": "此处取汉中一带的梁州，与元稹奉使剑外的行程相应。另本作“凉州”；《全唐诗》已列两读，本稿据《三梦记》所引选择“梁”。"
+          }
+        ]
+      },
+      "limits": "《三梦记》中的奇异梦事不作为史实认证；采用它在行程和引诗字形方面的文本见证。未改首句为该文所引的春来无计，也未由当改作。"
+    }
+  ],
+  "triageCount": 95,
+  "triage": [
+    {
+      "id": "yizhu-76caedeb379ad9e0",
+      "order": 1,
+      "title": "春江花月夜",
+      "status": "retain-documented-reading",
+      "nextStep": "已完成电子原典择本：本稿保留有据归档读法。 不冒称纸书或影印逐字终校。",
+      "decisionRef": "data/expansion/tang-second-volume/text-proposals/2026-10-04-remaining-variants.json#/proposals/0"
+    },
+    {
+      "id": "yizhu-e20a1fe86feea9fb",
+      "order": 2,
+      "title": "茅屋为秋风所破歌",
+      "status": "local-correction-and-attested-reading",
+      "nextStep": "仗→杖已校；床床有古本正文和注文见证，保留。"
+    },
+    {
+      "id": "yizhu-84a9347da2380295",
+      "order": 3,
+      "title": "卖炭翁",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-b822224df2a84a19",
+      "order": 4,
+      "title": "李凭箜篌引",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-68170c83f1106590",
+      "order": 6,
+      "title": "使至塞上",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-59a335c4bc9a0977",
+      "order": 9,
+      "title": "左迁至蓝关示姪孙湘",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-2b3a9e48d77def9f",
+      "order": 12,
+      "title": "咸阳城东楼",
+      "status": "metadata-or-attribution-followup",
+      "nextStep": "题名、体裁、作者或时代口径由显示元数据工序处理；本次不替换正文。"
+    },
+    {
+      "id": "yizhu-9aea75c1a815593f",
+      "order": 13,
+      "title": "逢雪宿芙蓉山主人",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-aafb675e8b63f9fd",
+      "order": 16,
+      "title": "从军行 四",
+      "status": "retain-documented-reading",
+      "nextStep": "雁门关是已记录有据异文"
+    },
+    {
+      "id": "yizhu-d05fe8438a12505d",
+      "order": 22,
+      "title": "离思五首 四",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-009fb1a9c180ce4b",
+      "order": 23,
+      "title": "清明",
+      "status": "metadata-or-attribution-followup",
+      "nextStep": "题名、体裁、作者或时代口径由显示元数据工序处理；本次不替换正文。"
+    },
+    {
+      "id": "yizhu-bdb70d2a52e032f4",
+      "order": 26,
+      "title": "社日",
+      "status": "retain-documented-reading",
+      "nextStep": "已完成电子原典择本：本稿保留有据归档读法。 不冒称纸书或影印逐字终校。",
+      "decisionRef": "data/expansion/tang-second-volume/text-proposals/2026-10-04-remaining-variants.json#/proposals/1"
+    },
+    {
+      "id": "yizhu-aaf4f486503e9bb2",
+      "order": 28,
+      "title": "自京赴奉先县咏怀五百字",
+      "status": "retain-documented-reading",
+      "nextStep": "秋未已在既有提案保留；生僻字还需字体验收"
+    },
+    {
+      "id": "yizhu-f3737ebcf8e5a861",
+      "order": 30,
+      "title": "长安古意",
+      "status": "existing-correction-retained",
+      "nextStep": "已在text-corrections.json修订，原6项及相应诗意完整保留。"
+    },
+    {
+      "id": "yizhu-a6bdf70848c441ec",
+      "order": 32,
+      "title": "饮中八仙歌",
+      "status": "retain-documented-reading",
+      "nextStep": "世贤已记录版本与古代校勘分歧，暂保留"
+    },
+    {
+      "id": "yizhu-85f57e822a5eff50",
+      "order": 33,
+      "title": "雁门太守行",
+      "status": "retain-documented-reading",
+      "nextStep": "已完成电子原典择本：本稿保留有据归档读法。 不冒称纸书或影印逐字终校。",
+      "decisionRef": "data/expansion/tang-second-volume/text-proposals/2026-10-04-remaining-variants.json#/proposals/2"
+    },
+    {
+      "id": "yizhu-e8d9e6396bc188a1",
+      "order": 34,
+      "title": "金铜仙人辞汉歌",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-d5f0476d20fdcad7",
+      "order": 35,
+      "title": "致酒行",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-488e461abecf4d5e",
+      "order": 43,
+      "title": "省试湘灵鼓瑟",
+      "status": "metadata-or-attribution-followup",
+      "nextStep": "题名、体裁、作者或时代口径由显示元数据工序处理；本次不替换正文。"
+    },
+    {
+      "id": "yizhu-e4a6874197df2930",
+      "order": 44,
+      "title": "题李凝幽居",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-73714dbbf0cf0ee3",
+      "order": 51,
+      "title": "江上值水如海势聊短述",
+      "status": "retain-documented-reading",
+      "nextStep": "已完成电子原典择本：本稿保留有据归档读法。 不冒称纸书或影印逐字终校。",
+      "decisionRef": "data/expansion/tang-second-volume/text-proposals/2026-10-04-remaining-variants.json#/proposals/3"
+    },
+    {
+      "id": "yizhu-a41921ac08510403",
+      "order": 52,
+      "title": "献淮宁军节度使李相公",
+      "status": "metadata-or-attribution-followup",
+      "nextStep": "题名、体裁、作者或时代口径由显示元数据工序处理；本次不替换正文。"
+    },
+    {
+      "id": "yizhu-161c01906b04bd1b",
+      "order": 54,
+      "title": "始闻秋风",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-b39c3ec3a2e80a17",
+      "order": 55,
+      "title": "放言五首 三",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-ed9c3b19ab78dd76",
+      "order": 57,
+      "title": "九日齐安登高",
+      "status": "documented-title-variant",
+      "nextStep": "齐山显示题证据已移交，齐安原题保留。"
+    },
+    {
+      "id": "yizhu-f566dae78afc131e",
+      "order": 58,
+      "title": "马嵬二首 二",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-3235391bcbbe2384",
+      "order": 61,
+      "title": "秋宿湘江遇雨",
+      "status": "metadata-or-attribution-followup",
+      "nextStep": "题名、体裁、作者或时代口径由显示元数据工序处理；本次不替换正文。"
+    },
+    {
+      "id": "yizhu-6dff5ef67b41e83b",
+      "order": 68,
+      "title": "剑客",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-a491b5ea79d79310",
+      "order": 70,
+      "title": "题红叶",
+      "status": "metadata-or-attribution-followup",
+      "nextStep": "题名、体裁、作者或时代口径由显示元数据工序处理；本次不替换正文。"
+    },
+    {
+      "id": "yizhu-85bbe362b2ffead7",
+      "order": 71,
+      "title": "荅人",
+      "status": "metadata-or-attribution-followup",
+      "nextStep": "题名、体裁、作者或时代口径由显示元数据工序处理；本次不替换正文。"
+    },
+    {
+      "id": "yizhu-61bf98cd957e268b",
+      "order": 72,
+      "title": "塞上听吹笛",
+      "status": "metadata-or-attribution-followup",
+      "nextStep": "题名、体裁、作者或时代口径由显示元数据工序处理；本次不替换正文。"
+    },
+    {
+      "id": "yizhu-b19e76bd6bae9b74",
+      "order": 75,
+      "title": "望天门山",
+      "status": "retain-documented-reading",
+      "nextStep": "至北回已有《全唐诗》系转录见证，保留"
+    },
+    {
+      "id": "yizhu-c196071b1bfd4db1",
+      "order": 79,
+      "title": "赠花卿",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-c5f51db6220a5729",
+      "order": 86,
+      "title": "赏牡丹",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-a8e4bcce1aceeed9",
+      "order": 89,
+      "title": "江南春绝句",
+      "status": "attested-reading-selected",
+      "nextStep": "已完成电子原典择本：制作稿应用有据读法，原始来源保留。 不冒称纸书或影印逐字终校。",
+      "decisionRef": "data/expansion/tang-second-volume/text-proposals/2026-10-04-remaining-variants.json#/proposals/4"
+    },
+    {
+      "id": "yizhu-af6e40af1d96c5d2",
+      "order": 91,
+      "title": "叹花",
+      "status": "retain-documented-reading",
+      "nextStep": "已完成电子原典择本：本稿保留有据归档读法。 不冒称纸书或影印逐字终校。",
+      "decisionRef": "data/expansion/tang-second-volume/text-proposals/2026-10-04-remaining-variants.json#/proposals/5"
+    },
+    {
+      "id": "yizhu-2fd33e58a17815e5",
+      "order": 95,
+      "title": "韩冬郎即席为诗相送一座尽惊他日余方追吟连宵侍坐裴回久之句有老成之风因成二绝寄酬兼呈畏之员外 一",
+      "status": "metadata-or-attribution-followup",
+      "nextStep": "题名、体裁、作者或时代口径由显示元数据工序处理；本次不替换正文。"
+    },
+    {
+      "id": "yizhu-0f13e4bff2e42d96",
+      "order": 101,
+      "title": "杂歌谣辞 黄台瓜辞",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-ce9f85366dfd2c37",
+      "order": 103,
+      "title": "叙怀二首 一",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-370f725b350d3dd3",
+      "order": 104,
+      "title": "失题",
+      "status": "metadata-or-attribution-followup",
+      "nextStep": "题名、体裁、作者或时代口径由显示元数据工序处理；本次不替换正文。"
+    },
+    {
+      "id": "yizhu-a88d5c158f3213c7",
+      "order": 106,
+      "title": "古朗月行",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-56784ed87e28db70",
+      "order": 108,
+      "title": "古风 三",
+      "status": "existing-correction-with-retained-variants",
+      "nextStep": "几时回已校并保留；飞劒／挥剑、徐巿／徐氏仍依已归档记录保留，非新增改字。"
+    },
+    {
+      "id": "yizhu-05835816f18e6b27",
+      "order": 113,
+      "title": "调张籍",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-b36e0246c6a17469",
+      "order": 114,
+      "title": "观刈麦",
+      "status": "existing-correction-retained",
+      "nextStep": "已在text-corrections.json修订，原6项及相应诗意完整保留。"
+    },
+    {
+      "id": "yizhu-a952b9a2bfd9c56a",
+      "order": 116,
+      "title": "长安羁旅行",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-cd08297678958ae4",
+      "order": 118,
+      "title": "正乐府十篇 橡媪叹",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-66cd7c20bbab2a1d",
+      "order": 126,
+      "title": "节妇吟寄东平李司空师道",
+      "status": "existing-correction-retained",
+      "nextStep": "已在text-corrections.json修订，原6项及相应诗意完整保留。"
+    },
+    {
+      "id": "yizhu-9d76b0c4272ccc67",
+      "order": 128,
+      "title": "花非花",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-85597a8ea153a353",
+      "order": 138,
+      "title": "幽州夜饮",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-0d54a2651b87c2f2",
+      "order": 147,
+      "title": "登裴秀才迪小台",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-30a530ead9358cb8",
+      "order": 150,
+      "title": "醉后赠张九旭",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-17182130b363d0e6",
+      "order": 154,
+      "title": "武威春暮闻宇文判官西使还已到晋昌",
+      "status": "retain-documented-reading",
+      "nextStep": "岸雨／塞北已有《全唐诗》卷200见证，保留"
+    },
+    {
+      "id": "yizhu-a95bf955adec4476",
+      "order": 158,
+      "title": "江南旅情",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-054b5998ad63c3b9",
+      "order": 159,
+      "title": "塞下曲六首 三",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-23049350661b66c9",
+      "order": 162,
+      "title": "秋登宣城谢朓北楼",
+      "status": "retain-documented-reading",
+      "nextStep": "已完成电子原典择本：本稿保留有据归档读法。 不冒称纸书或影印逐字终校。",
+      "decisionRef": "data/expansion/tang-second-volume/text-proposals/2026-10-04-remaining-variants.json#/proposals/6"
+    },
+    {
+      "id": "yizhu-4f97d4634f016f6b",
+      "order": 166,
+      "title": "送张舍人之江东",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-59e007fb2c2b12fc",
+      "order": 175,
+      "title": "月",
+      "status": "retain-documented-reading",
+      "nextStep": "已完成电子原典择本：本稿保留有据归档读法。 不冒称纸书或影印逐字终校。",
+      "decisionRef": "data/expansion/tang-second-volume/text-proposals/2026-10-04-remaining-variants.json#/proposals/7"
+    },
+    {
+      "id": "yizhu-11aa46e3ed9f0f50",
+      "order": 178,
+      "title": "陪诸贵公子丈八沟携妓纳凉晚际遇雨二首 一",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-9f2e018f1b8609ea",
+      "order": 183,
+      "title": "盩厔县郑𥐟宅送钱大",
+      "status": "identified-name-glyph",
+      "nextStep": "郑礒原典姓名已确认；𥐟为项目转换结果，不删姓名字。"
+    },
+    {
+      "id": "yizhu-427a1abdff56f151",
+      "order": 186,
+      "title": "题邻居",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-ae44e3fa071a2a81",
+      "order": 189,
+      "title": "题松汀驿",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-0417cd3171644211",
+      "order": 194,
+      "title": "春残",
+      "status": "existing-correction-retained",
+      "nextStep": "已在text-corrections.json修订，原6项及相应诗意完整保留。"
+    },
+    {
+      "id": "yizhu-0e4bcc6b9b43e4c2",
+      "order": 195,
+      "title": "寄镜湖方干处士",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-90894c8bddc9e2f2",
+      "order": 197,
+      "title": "江村",
+      "status": "retain-documented-reading",
+      "nextStep": "多病所须唯药物按当前底本保留"
+    },
+    {
+      "id": "yizhu-3a45270741e85e84",
+      "order": 201,
+      "title": "秋兴八首 七",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-faa1afab6422f114",
+      "order": 203,
+      "title": "夜",
+      "status": "retain-documented-reading",
+      "nextStep": "步蟾已记录《杜诗详注》异文，保留"
+    },
+    {
+      "id": "yizhu-48caa3afad646324",
+      "order": 204,
+      "title": "巴岭荅杜二见忆",
+      "status": "retain-documented-reading",
+      "nextStep": "已完成电子原典择本：本稿保留有据归档读法。 不冒称纸书或影印逐字终校。",
+      "decisionRef": "data/expansion/tang-second-volume/text-proposals/2026-10-04-remaining-variants.json#/proposals/8"
+    },
+    {
+      "id": "yizhu-bc0134c91b1e83cd",
+      "order": 208,
+      "title": "送宫人入道归山",
+      "status": "attested-reading-selected",
+      "nextStep": "已完成电子原典择本：制作稿应用有据读法，原始来源保留。 不冒称纸书或影印逐字终校。",
+      "decisionRef": "data/expansion/tang-second-volume/text-proposals/2026-10-04-remaining-variants.json#/proposals/9"
+    },
+    {
+      "id": "yizhu-505e64ab2fe7f288",
+      "order": 209,
+      "title": "和侯大夫秋原山观征人回",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-772905ade5996b4e",
+      "order": 211,
+      "title": "再授连州至衡阳酬柳柳州赠别",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-7d60bd1b038b7df8",
+      "order": 220,
+      "title": "西塞山泊渔家",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-00d6ffc786a2497e",
+      "order": 222,
+      "title": "春夕",
+      "status": "metadata-or-attribution-followup",
+      "nextStep": "题名、体裁、作者或时代口径由显示元数据工序处理；本次不替换正文。"
+    },
+    {
+      "id": "yizhu-0b4d98afb790e62c",
+      "order": 226,
+      "title": "开元后乐",
+      "status": "existing-correction-retained",
+      "nextStep": "已在text-corrections.json修订，原6项及相应诗意完整保留。"
+    },
+    {
+      "id": "yizhu-30846d46f56b6b42",
+      "order": 227,
+      "title": "闲",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-c7c6ea136eb9dbfd",
+      "order": 228,
+      "title": "塞下三首 一",
+      "status": "metadata-or-attribution-followup",
+      "nextStep": "题名、体裁、作者或时代口径由显示元数据工序处理；本次不替换正文。"
+    },
+    {
+      "id": "yizhu-91ac8b5bce8dcae1",
+      "order": 235,
+      "title": "送朱大入秦",
+      "status": "attested-reading-selected",
+      "nextStep": "已完成电子原典择本：制作稿应用有据读法，原始来源保留。 不冒称纸书或影印逐字终校。",
+      "decisionRef": "data/expansion/tang-second-volume/text-proposals/2026-10-04-remaining-variants.json#/proposals/10"
+    },
+    {
+      "id": "yizhu-3b1f1c62d138ecf8",
+      "order": 247,
+      "title": "续父井梧吟",
+      "status": "metadata-or-attribution-followup",
+      "nextStep": "题名、体裁、作者或时代口径由显示元数据工序处理；本次不替换正文。"
+    },
+    {
+      "id": "yizhu-a47f660cc637e6c3",
+      "order": 249,
+      "title": "送兄",
+      "status": "metadata-or-attribution-followup",
+      "nextStep": "题名、体裁、作者或时代口径由显示元数据工序处理；本次不替换正文。"
+    },
+    {
+      "id": "yizhu-09508198c71cbd6e",
+      "order": 251,
+      "title": "采莲曲三首 二",
+      "status": "metadata-or-attribution-followup",
+      "nextStep": "题名、体裁、作者或时代口径由显示元数据工序处理；本次不替换正文。"
+    },
+    {
+      "id": "yizhu-3cd75431d898f09a",
+      "order": 252,
+      "title": "早梅",
+      "status": "retain-documented-reading",
+      "nextStep": "已完成电子原典择本：本稿保留有据归档读法。 不冒称纸书或影印逐字终校。",
+      "decisionRef": "data/expansion/tang-second-volume/text-proposals/2026-10-04-remaining-variants.json#/proposals/11"
+    },
+    {
+      "id": "yizhu-ce898d85359f1705",
+      "order": 259,
+      "title": "赵将军歌",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-3a8e065c056823c1",
+      "order": 268,
+      "title": "江南曲",
+      "status": "metadata-or-attribution-followup",
+      "nextStep": "题名、体裁、作者或时代口径由显示元数据工序处理；本次不替换正文。"
+    },
+    {
+      "id": "yizhu-815a2ac4a4682364",
+      "order": 269,
+      "title": "题稚川山水",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-93a5ac31359abd55",
+      "order": 277,
+      "title": "踏歌词四首 一",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-d4a91b762895b1b0",
+      "order": 280,
+      "title": "同李十一醉忆元九",
+      "status": "attested-variant-selected",
+      "nextStep": "据唐白行简《三梦记》引诗选择梁州，凉州作为异文保留。"
+    },
+    {
+      "id": "yizhu-dea79b5764566303",
+      "order": 281,
+      "title": "与浩初上人同看山寄京华亲故",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-f7c5f55702aff3f5",
+      "order": 287,
+      "title": "赠去婢",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-7a7d5743f02c6ad2",
+      "order": 290,
+      "title": "题桃花夫人庙",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-9fb7e600caf01997",
+      "order": 292,
+      "title": "初食笋呈座中",
+      "status": "retain-documented-reading",
+      "nextStep": "已完成电子原典择本：本稿保留有据归档读法。 不冒称纸书或影印逐字终校。",
+      "decisionRef": "data/expansion/tang-second-volume/text-proposals/2026-10-04-remaining-variants.json#/proposals/12"
+    },
+    {
+      "id": "yizhu-a96d004b090011ee",
+      "order": 293,
+      "title": "蔡中郎坟",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-ced3d8a8916a0c1d",
+      "order": 294,
+      "title": "山亭夏日",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-b9c3526b6fdd9115",
+      "order": 297,
+      "title": "和袭美木兰后池三咏 白莲",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-eab3b6f8629dd93b",
+      "order": 302,
+      "title": "不第后赋菊",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-d19ba0f18fc616ce",
+      "order": 303,
+      "title": "焚书坑",
+      "status": "semantic-or-interpretative-boundary",
+      "nextStep": "沿用已完成的语义复核；不是正文勘误，未重做整首释义。"
+    },
+    {
+      "id": "yizhu-14bae97899303583",
+      "order": 304,
+      "title": "怀良人",
+      "status": "metadata-or-attribution-followup",
+      "nextStep": "题名、体裁、作者或时代口径由显示元数据工序处理；本次不替换正文。"
+    }
+  ],
+  "remainingTextWitnessOrders": [],
+  "limits": [
+    "本次未对305首所有用字、标点和各体裁平仄作终校。",
+    "分诊项中的版本争议应按明确底本统一，不以搜索多数投票替换。",
+    "影印逐字校核与全卷字体覆盖仍是后续验收。"
+  ],
+  "followupRef": "data/expansion/tang-second-volume/text-proposals/2026-10-04-remaining-variants.json"
+}

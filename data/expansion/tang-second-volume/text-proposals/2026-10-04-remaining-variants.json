@@ -1,0 +1,549 @@
+{
+  "schemaVersion": 1,
+  "reviewedOn": "2026-10-04",
+  "scope": "13项待择本正文的电子原典复核，应用于独立制作稿；原始 poems.json 保留。",
+  "method": "逐项明确所据原典与保留或选择结果；原典电子转录不是肉眼校核影印。异文不以现代流行多数表决，未把简繁转换当版本差异。",
+  "status": "editorial-witness-selection-complete",
+  "stats": {
+    "reviewed": 13,
+    "retained": 10,
+    "newCorrections": 3,
+    "remainingTextWitnessOrders": []
+  },
+  "proposals": [
+    {
+      "id": "yizhu-76caedeb379ad9e0",
+      "order": 1,
+      "title": "春江花月夜",
+      "author": "张若虚",
+      "kind": "retain-attested-variant",
+      "status": "retained-for-editorial-draft",
+      "applied": false,
+      "loci": [
+        {
+          "source": "江月年年望相似",
+          "selected": "江月年年望相似",
+          "alternative": "江月年年秖相似",
+          "decision": "retain-documented-reading"
+        }
+      ],
+      "sourceText": "春江潮水连海平，海上明月共潮生。\n滟滟随波千万里，何处春江无月明？\n江流宛转遶芳甸，月照花林皆似霰。\n空里流霜不觉飞，汀上白沙看不见。\n江天一色无纤尘，皎皎空中孤月轮。\n江畔何人初见月？江月何年初照人？\n人生代代无穷已，江月年年望相似。\n不知江月待何人，但见长江送流水。\n白云一片去悠悠，青枫浦上不胜愁。\n谁家今夜扁舟子，何处相思明月楼？\n可怜楼上月裴回，应照离人妆镜台。\n玉户帘中卷不去，捣衣砧上拂还来。\n此时相望不相闻，愿逐月华流照君。\n鸿雁长飞光不度，鱼龙潜跃水成文。\n昨夜闲潭梦落花，可怜春半不还家。\n江水流春去欲尽，江潭落月复西斜。\n斜月沈沈藏海雾，碣石潇湘无限路。\n不知乘月几人归，落月摇情满江树。",
+      "selectedText": "春江潮水连海平，海上明月共潮生。\n滟滟随波千万里，何处春江无月明？\n江流宛转遶芳甸，月照花林皆似霰。\n空里流霜不觉飞，汀上白沙看不见。\n江天一色无纤尘，皎皎空中孤月轮。\n江畔何人初见月？江月何年初照人？\n人生代代无穷已，江月年年望相似。\n不知江月待何人，但见长江送流水。\n白云一片去悠悠，青枫浦上不胜愁。\n谁家今夜扁舟子，何处相思明月楼？\n可怜楼上月裴回，应照离人妆镜台。\n玉户帘中卷不去，捣衣砧上拂还来。\n此时相望不相闻，愿逐月华流照君。\n鸿雁长飞光不度，鱼龙潜跃水成文。\n昨夜闲潭梦落花，可怜春半不还家。\n江水流春去欲尽，江潭落月复西斜。\n斜月沈沈藏海雾，碣石潇湘无限路。\n不知乘月几人归，落月摇情满江树。",
+      "verificationRefs": [
+        "https://zh.wikisource.org/zh-hant/樂府詩集_(四部叢刊本)/卷第四十七",
+        "https://ctext.org/wiki.pl?chapter=743856&if=en"
+      ],
+      "reason": "《乐府诗集》卷四十七所收张若虚《春江花月夜》明作“江月年年望相似”；项目另存“秖相似”见证。因此“望”不是仅凭通行记忆即可判误的一字，本稿保留“望”，将“秖”读法继续作为异文记录。",
+      "witnesses": [
+        {
+          "work": "《乐府诗集》卷四十七（四部丛刊本电子转录）",
+          "reading": "人生代代无穷已，江月年年望相似",
+          "type": "original-work-transcription",
+          "url": "https://zh.wikisource.org/zh-hant/樂府詩集_(四部叢刊本)/卷第四十七"
+        },
+        {
+          "work": "《乐府诗集》卷四十七（中国哲学书电子化计划转录）",
+          "reading": "江月年年望相似",
+          "type": "original-work-transcription",
+          "url": "https://ctext.org/wiki.pl?chapter=743856&if=en"
+        }
+      ],
+      "commentaryEffect": "既有诗意按江月年年看去相似表达，与“望相似”相容；不另改为“只”字释义。",
+      "limits": "本次完成明确读法的电子原典择本；未声称已经肉眼逐字校核纸书或影印。"
+    },
+    {
+      "id": "yizhu-bdb70d2a52e032f4",
+      "order": 26,
+      "title": "社日",
+      "author": "王驾",
+      "kind": "retain-attested-reading",
+      "status": "retained-for-editorial-draft",
+      "applied": false,
+      "loci": [
+        {
+          "source": "桑柘影斜春社散",
+          "selected": "桑柘影斜春社散",
+          "decision": "retain-documented-reading"
+        }
+      ],
+      "sourceText": "鹅湖山下稻粱肥，豚栅鸡栖半掩扉。\n桑柘影斜春社散，家家扶得醉人归。",
+      "selectedText": "鹅湖山下稻粱肥，豚栅鸡栖半掩扉。\n桑柘影斜春社散，家家扶得醉人归。",
+      "verificationRefs": [
+        "https://zh.wikisource.org/zh-hant/千家詩/卷三",
+        "https://www.npm.gov.tw/NewChineseArtDownload.ashx?bid=3105"
+      ],
+      "reason": "《千家诗》卷三及故宫对院藏《明解增和千家诗注》明抄本的原书摘录均见“桑柘影斜春社散”。首句“稻粱肥”不足以把有据的“春社”改成秋社；本稿保留春社。故宫院藏本署张演，项目署王驾，此为独立作者异署问题，交显示元数据记录，不以署名分歧替换正文。",
+      "witnesses": [
+        {
+          "work": "《千家诗》卷三（原著电子转录）",
+          "reading": "桑柘影斜春社散，家家扶得醉人归",
+          "type": "original-work-transcription",
+          "url": "https://zh.wikisource.org/zh-hant/千家詩/卷三"
+        },
+        {
+          "work": "国立故宫博物院《院藏〈明解增和千家诗注〉再造记》原书篇次摘录",
+          "reading": "第14首《社日》署唐张演；桑柘影斜春社散",
+          "type": "institutional-original-witness-extract",
+          "url": "https://www.npm.gov.tw/NewChineseArtDownload.ashx?bid=3105",
+          "note": "博物院依据所藏明朱丝栏抄彩绘本迻录；本次读其摘录，未冒称肉眼验抄本影印。"
+        }
+      ],
+      "commentaryEffect": "既有诗意仅称稻粱丰美、社日散会，未写成熟金黄稻浪或确定秋社，因而保留。",
+      "limits": "本次完成明确读法的电子原典择本；未声称已经肉眼逐字校核纸书或影印。"
+    },
+    {
+      "id": "yizhu-85f57e822a5eff50",
+      "order": 33,
+      "title": "雁门太守行",
+      "author": "李贺",
+      "kind": "retain-attested-variant",
+      "status": "retained-for-editorial-draft",
+      "applied": false,
+      "loci": [
+        {
+          "source": "甲光向月金鳞开",
+          "selected": "甲光向月金鳞开",
+          "alternative": "甲光向日金鳞开",
+          "decision": "retain-documented-reading"
+        }
+      ],
+      "sourceText": "黑云压城城欲摧，甲光向月金鳞开。\n角声满天秋色里，塞上燕支凝夜紫。\n半卷红旗临易水，霜重鼓寒声不起。\n报君黄金台上意，提携玉龙为君死。",
+      "selectedText": "黑云压城城欲摧，甲光向月金鳞开。\n角声满天秋色里，塞上燕支凝夜紫。\n半卷红旗临易水，霜重鼓寒声不起。\n报君黄金台上意，提携玉龙为君死。",
+      "verificationRefs": [
+        "https://ctext.org/wiki.pl?chapter=142718&if=en"
+      ],
+      "reason": "《李昌谷诗注》卷一正文作“甲光向月金鳞开”，同一条注文引《幽闲鼓吹》却作“向日”。原典自身已经保存月／日两种读法，本稿依已归档正文选择“向月”，不把有据古本文字当作笔误。",
+      "witnesses": [
+        {
+          "work": "《李昌谷诗注》卷一（原著正文及注文电子转录）",
+          "reading": "正文向月；引《幽闲鼓吹》向日",
+          "type": "original-work-transcription",
+          "url": "https://ctext.org/wiki.pl?chapter=142718&if=en"
+        }
+      ],
+      "commentaryEffect": "既有诗意写铠甲迎着光闪耀，并未补成日照；月夜方向与选定正文相容。",
+      "limits": "本次完成明确读法的电子原典择本；未声称已经肉眼逐字校核纸书或影印。"
+    },
+    {
+      "id": "yizhu-73714dbbf0cf0ee3",
+      "order": 51,
+      "title": "江上值水如海势聊短述",
+      "author": "杜甫",
+      "kind": "retain-attested-variant-with-critical-note",
+      "status": "retained-for-editorial-draft",
+      "applied": false,
+      "loci": [
+        {
+          "source": "老去诗篇浑漫兴",
+          "selected": "老去诗篇浑漫兴",
+          "alternative": "老去诗篇浑漫与",
+          "decision": "retain-documented-reading"
+        }
+      ],
+      "sourceText": "为人性僻耽佳句，语不惊人死不休。\n老去诗篇浑漫兴，春来花鸟莫深愁。\n新添水槛供垂钓，故著浮槎替入舟。\n焉得思如陶谢手，令渠述作与同游。",
+      "selectedText": "为人性僻耽佳句，语不惊人死不休。\n老去诗篇浑漫兴，春来花鸟莫深愁。\n新添水槛供垂钓，故著浮槎替入舟。\n焉得思如陶谢手，令渠述作与同游。",
+      "verificationRefs": [
+        "https://www.shidianguji.com/zh/mid-page/7512204524624625674",
+        "https://ctext.org/wiki.pl?chapter=231999&if=gb&remap=gb"
+      ],
+      "reason": "明张之象《唐诗类苑》录本首作“老去诗篇浑漫兴”；清王士禛《池北偶谈》卷十四记朱彝尊据刘会孟注杜诗、韵府群玉等主张“漫与”，并记钱谦益笺本仍作“漫兴”。这属于明确存在的择本争议，本稿保留已有“漫兴”，把“漫与”及其古人校议记录为另一读法，不据单一校家意见冒称源字绝错。",
+      "witnesses": [
+        {
+          "work": "明张之象《唐诗类苑》本首（识典古籍原著电子转录）",
+          "reading": "老去诗篇浑漫兴，春来花鸟莫深愁",
+          "type": "original-work-transcription",
+          "url": "https://www.shidianguji.com/zh/mid-page/7512204524624625674"
+        },
+        {
+          "work": "清王士禛《池北偶谈》卷十四（原著电子转录）",
+          "reading": "朱彝尊主张漫与；钱谦益笺本作漫兴",
+          "type": "original-work-transcription",
+          "url": "https://ctext.org/wiki.pl?chapter=231999&if=gb&remap=gb"
+        }
+      ],
+      "commentaryEffect": "既有诗意将“漫兴”解释为顺着兴会自然写作，与保留读法相容；不作“不认真写诗”的断语。",
+      "limits": "本次完成明确读法的电子原典择本；未声称已经肉眼逐字校核纸书或影印。"
+    },
+    {
+      "id": "yizhu-a8e4bcce1aceeed9",
+      "order": 89,
+      "title": "江南春绝句",
+      "author": "杜牧",
+      "kind": "select-supported-reading",
+      "status": "accepted-for-editorial-draft",
+      "applied": true,
+      "loci": [
+        {
+          "source": "千里莺啼绿映江",
+          "selected": "千里莺啼绿映红",
+          "decision": "use-selected-witness"
+        }
+      ],
+      "sourceText": "千里莺啼绿映江，水村山郭酒旗风。\n南朝四百八十寺，多少楼台烟雨中。",
+      "selectedText": "千里莺啼绿映红，水村山郭酒旗风。\n南朝四百八十寺，多少楼台烟雨中。",
+      "verificationRefs": [
+        "https://zh.wikisource.org/zh-hant/全唐詩/卷522",
+        "https://www.shidianguji.com/zh/book/HY1028/chapter/1krd3j7ychjck"
+      ],
+      "reason": "《全唐诗》卷五百二十二及《御定全唐诗录》杜牧诗明作“千里莺啼绿映红”，项目归档中也另存“红”见证；本次所核原典未取得支持“江”的古本见证。本稿据上述见证选择“红”，使绿叶红花相映的正文与诗意一致，归档“江”文保留作为来源记录；不扩大改动“千里”等另有争论的字。",
+      "witnesses": [
+        {
+          "work": "《全唐诗》卷五百二十二（原著电子转录）",
+          "reading": "千里莺啼绿映红",
+          "type": "original-work-transcription",
+          "url": "https://zh.wikisource.org/zh-hant/全唐詩/卷522"
+        },
+        {
+          "work": "《御定全唐诗录》杜牧诗（识典古籍原著电子转录）",
+          "reading": "千里莺啼绿映红，水村山郭酒旗风",
+          "type": "original-work-transcription",
+          "url": "https://www.shidianguji.com/zh/book/HY1028/chapter/1krd3j7ychjck"
+        }
+      ],
+      "commentaryEffect": "同步把首句诗意从绿树映江水改为绿树红花相映；其余诗意及史意边界保持。插画的整体水村、酒旗、远寺主题仍相容，红花局部由图文工序另验。",
+      "limits": "本次完成明确读法的电子原典择本；未声称已经肉眼逐字校核纸书或影印。"
+    },
+    {
+      "id": "yizhu-af6e40af1d96c5d2",
+      "order": 91,
+      "title": "叹花",
+      "author": "杜牧",
+      "kind": "retain-attested-poem-version",
+      "status": "retained-for-editorial-draft",
+      "applied": false,
+      "loci": [
+        {
+          "source": "自恨寻芳到已迟，往年曾见未开时",
+          "selected": "自恨寻芳到已迟，往年曾见未开时",
+          "alternative": "自是寻春去校迟，不须惆怅怨芳时",
+          "decision": "retain-documented-reading"
+        },
+        {
+          "source": "如今风摆花狼籍，绿叶成阴子满枝",
+          "selected": "如今风摆花狼籍，绿叶成阴子满枝",
+          "decision": "retain-documented-reading"
+        }
+      ],
+      "sourceText": "自恨寻芳到已迟，往年曾见未开时。\n如今风摆花狼籍，绿叶成阴子满枝。",
+      "selectedText": "自恨寻芳到已迟，往年曾见未开时。\n如今风摆花狼籍，绿叶成阴子满枝。",
+      "verificationRefs": [
+        "https://www.shidianguji.com/book/CADAL02099649/chapter/1lhh2d0mfixaz"
+      ],
+      "reason": "《樊川诗集》外集一卷所录《叹花》四句与项目归档正文一致，包括“往年曾见未开时”“如今风摆花狼籍”。另一传本或异题不可拆句混拼成本卷定本。本稿保留完整这一路《叹花》正文，标题异称由显示元数据另记；不把后世婚恋故事写入诗意。",
+      "witnesses": [
+        {
+          "work": "《樊川诗集》外集一卷（识典古籍原著电子转录）",
+          "reading": "叹花；自恨寻芳到已迟；往年曾见未开时；如今风摆花狼籍；绿叶成阴子满枝",
+          "type": "original-work-transcription",
+          "url": "https://www.shidianguji.com/book/CADAL02099649/chapter/1lhh2d0mfixaz"
+        }
+      ],
+      "commentaryEffect": "既有诗意按过去见未开、今日已错过花期写追悔，与选定全篇相容；“子”仍按果实。",
+      "limits": "本次完成明确读法的电子原典择本；未声称已经肉眼逐字校核纸书或影印。"
+    },
+    {
+      "id": "yizhu-23049350661b66c9",
+      "order": 162,
+      "title": "秋登宣城谢朓北楼",
+      "author": "李白",
+      "kind": "retain-attested-variant",
+      "status": "retained-for-editorial-draft",
+      "applied": false,
+      "loci": [
+        {
+          "source": "山晓望晴空",
+          "selected": "山晓望晴空",
+          "alternative": "山晚望晴空",
+          "decision": "retain-documented-reading"
+        }
+      ],
+      "sourceText": "江城如画里，山晓望晴空。\n两水夹明镜，双桥落彩虹。\n人烟寒橘柚，秋色老梧桐。\n谁念北楼上，临风怀谢公。",
+      "selectedText": "江城如画里，山晓望晴空。\n两水夹明镜，双桥落彩虹。\n人烟寒橘柚，秋色老梧桐。\n谁念北楼上，临风怀谢公。",
+      "verificationRefs": [
+        "https://zh.wikisource.org/zh-hant/全唐詩/卷180"
+      ],
+      "reason": "《全唐诗》卷一百八十本首明确作“江城如画里，山晓望晴空”；项目又存“山晚”另一见证。本稿选择现有“山晓”，不因通行读法或记忆将古本“晓”改成“晚”。",
+      "witnesses": [
+        {
+          "work": "《全唐诗》卷一百八十（原著电子转录）",
+          "reading": "江城如画里，山晓望晴空",
+          "type": "original-work-transcription",
+          "url": "https://zh.wikisource.org/zh-hant/全唐詩/卷180"
+        }
+      ],
+      "commentaryEffect": "既有诗意未写死夕照，晴空山色、桥水与怀谢公的内容相容；本次不补造黄昏场景。",
+      "limits": "本次完成明确读法的电子原典择本；未声称已经肉眼逐字校核纸书或影印。"
+    },
+    {
+      "id": "yizhu-59e007fb2c2b12fc",
+      "order": 175,
+      "title": "月",
+      "author": "杜甫",
+      "kind": "retain-attested-reading",
+      "status": "retained-for-editorial-draft",
+      "applied": false,
+      "loci": [
+        {
+          "source": "尘匣元开镜",
+          "selected": "尘匣元开镜",
+          "decision": "retain-documented-reading"
+        },
+        {
+          "source": "斟酌姮娥寡，天寒耐九秋",
+          "selected": "斟酌姮娥寡，天寒耐九秋",
+          "alternative": "斟酌嫦娥寡，天寒柰九秋",
+          "decision": "retain-source-glyphs"
+        }
+      ],
+      "sourceText": "四更山吐月，残夜水明楼。\n尘匣元开镜，风帘自上钩。\n兔应疑鹤发，蟾亦恋貂裘。\n斟酌姮娥寡，天寒耐九秋。",
+      "selectedText": "四更山吐月，残夜水明楼。\n尘匣元开镜，风帘自上钩。\n兔应疑鹤发，蟾亦恋貂裘。\n斟酌姮娥寡，天寒耐九秋。",
+      "verificationRefs": [
+        "https://www.shidianguji.com/zh/mid-page/7525191060861206574",
+        "https://www.shidianguji.com/zh/mid-page/7352635414965927987"
+      ],
+      "reason": "《杜诗分类》本首作“尘匣元开镜”，宋姚宽《西溪丛语》亦引同一联，并举沈佺期月诗镜／钩句作比照。“尘匣元开镜”有完整传承依据，本稿保留；姮／嫦、耐／柰等不同字形仍按本卷来源，不把比喻改写成女子真实开匣梳妆。",
+      "witnesses": [
+        {
+          "work": "《杜诗分类》本首（识典古籍原著电子转录）",
+          "reading": "尘匣元开镜，风帘自上钩；斟酌嫦娥寡，天寒柰九秋",
+          "type": "original-work-transcription",
+          "url": "https://www.shidianguji.com/zh/mid-page/7525191060861206574"
+        },
+        {
+          "work": "宋姚宽《西溪丛语》（识典古籍原著电子转录）",
+          "reading": "杜甫月诗云：尘匣元开镜，风帘自上钩",
+          "type": "original-work-transcription",
+          "url": "https://www.shidianguji.com/zh/mid-page/7352635414965927987"
+        }
+      ],
+      "commentaryEffect": "既有诗意以明月似出匣镜、月中兔蟾寄意表述，与有据正文相容。",
+      "limits": "本次完成明确读法的电子原典择本；未声称已经肉眼逐字校核纸书或影印。"
+    },
+    {
+      "id": "yizhu-48caa3afad646324",
+      "order": 204,
+      "title": "巴岭荅杜二见忆",
+      "author": "严武",
+      "kind": "retain-attested-variant",
+      "status": "retained-for-editorial-draft",
+      "applied": false,
+      "loci": [
+        {
+          "source": "跂马望君非一度",
+          "selected": "跂马望君非一度",
+          "alternative": "跋马望君非一度",
+          "decision": "retain-documented-reading"
+        }
+      ],
+      "sourceText": "卧向巴山落月时，两乡千里梦相思。\n可但步兵偏爱酒，也知光禄最能诗。\n江头赤叶枫愁客，篱外黄花菊对谁。\n跂马望君非一度，冷猨秋鴈不胜悲。",
+      "selectedText": "卧向巴山落月时，两乡千里梦相思。\n可但步兵偏爱酒，也知光禄最能诗。\n江头赤叶枫愁客，篱外黄花菊对谁。\n跂马望君非一度，冷猨秋鴈不胜悲。",
+      "verificationRefs": [
+        "https://zh.wikisource.org/wiki/全唐詩/卷261"
+      ],
+      "reason": "《全唐诗》卷二百六十一严武《巴岭答杜二见忆》明确作“跂马望君非一度”。“跋马”另见《杜诗详注》引录系统，当前“跂马”不能仅因生僻而径判错字。本稿选择现有“跂马”，保留两乡遥望之意，不将骑马动作细化成未经定本支持的奔走或离去情节。",
+      "witnesses": [
+        {
+          "work": "《全唐诗》卷二百六十一（原著电子转录）",
+          "reading": "跂马望君非一度，冷猿秋雁不胜悲",
+          "type": "original-work-transcription",
+          "url": "https://zh.wikisource.org/wiki/全唐詩/卷261"
+        }
+      ],
+      "commentaryEffect": "既有诗意只写在马上多次回望，不确定动作细节，与保留读法相容。",
+      "limits": "本次完成明确读法的电子原典择本；未声称已经肉眼逐字校核纸书或影印。"
+    },
+    {
+      "id": "yizhu-bc0134c91b1e83cd",
+      "order": 208,
+      "title": "送宫人入道归山",
+      "author": "于鹄",
+      "kind": "local-character-clarification",
+      "status": "accepted-for-editorial-draft",
+      "applied": true,
+      "loci": [
+        {
+          "source": "十岁吹萧入汉宫",
+          "selected": "十岁吹箫入汉宫",
+          "decision": "correct-local-character"
+        },
+        {
+          "source": "十岁",
+          "selected": "十岁",
+          "alternative": "十五／十载",
+          "decision": "retain-selected-age-reading"
+        }
+      ],
+      "sourceText": "十岁吹萧入汉宫，看修水殿种芙蓉。\n自伤白发辞金屋，许著黄衣向玉峰。\n解语老猨开晓户，学飞雏鹤落高松。\n定知别后宫中伴，应听缑山半夜钟。",
+      "selectedText": "十岁吹箫入汉宫，看修水殿种芙蓉。\n自伤白发辞金屋，许著黄衣向玉峰。\n解语老猨开晓户，学飞雏鹤落高松。\n定知别后宫中伴，应听缑山半夜钟。",
+      "verificationRefs": [
+        "https://zh.wikisource.org/wiki/全唐詩/卷310",
+        "https://zh.wikisource.org/wiki/送宮人入道歸山",
+        "https://zh.wikisource.org/zh-hant/欽定古今圖書集成/明倫彙編/宮闈典/第053卷"
+      ],
+      "reason": "《全唐诗》卷三百一十本首及独立原诗转录均作“十岁吹箫入汉宫”。本稿仅将器名“萧”校为“箫”，与吹奏竹箫的诗意对应。其他类书所引有“十五”等异读，本次不扩大改动“十岁”或末联，以免混用不同见证。",
+      "witnesses": [
+        {
+          "work": "《全唐诗》卷三百一十（原著电子转录）",
+          "reading": "十岁吹箫入汉宫；应听缑山半夜钟",
+          "type": "original-work-transcription",
+          "url": "https://zh.wikisource.org/wiki/全唐詩/卷310"
+        },
+        {
+          "work": "于鹄《送宫人入道归山》（原诗电子转录）",
+          "reading": "十岁吹箫入汉宫",
+          "type": "original-work-transcription",
+          "url": "https://zh.wikisource.org/wiki/送宮人入道歸山"
+        },
+        {
+          "work": "《古今图书集成》宫闱典第五十三卷（原著电子转录）",
+          "reading": "十五吹箫入汉宫；遥听缑山半夜钟",
+          "type": "original-work-transcription",
+          "url": "https://zh.wikisource.org/zh-hant/欽定古今圖書集成/明倫彙編/宮闈典/第053卷",
+          "note": "此见证只作异读记录，未整首取代卷310读法。"
+        }
+      ],
+      "commentaryEffect": "既有诗意已按十岁时以吹箫本领入宫处理，本次正文对齐，无新增人物动作；末联遥想与听钟主体的语义边界仍保留。",
+      "limits": "本次完成明确读法的电子原典择本；未声称已经肉眼逐字校核纸书或影印。"
+    },
+    {
+      "id": "yizhu-91ac8b5bce8dcae1",
+      "order": 235,
+      "title": "送朱大入秦",
+      "author": "孟浩然",
+      "kind": "select-attested-geographical-reading",
+      "status": "accepted-for-editorial-draft",
+      "applied": true,
+      "loci": [
+        {
+          "source": "游人武陵去",
+          "selected": "游人五陵去",
+          "alternative": "游人武陵去",
+          "decision": "use-selected-witness"
+        },
+        {
+          "source": "宝劒直千金",
+          "selected": "宝劒直千金",
+          "decision": "retain-source-glyphs"
+        }
+      ],
+      "sourceText": "游人武陵去，宝劒直千金。\n分手脱相赠，平生一片心。",
+      "selectedText": "游人五陵去，宝劒直千金。\n分手脱相赠，平生一片心。",
+      "verificationRefs": [
+        "https://zh.wikisource.org/zh-hant/孟浩然集_(四部叢刊本)/卷第四",
+        "https://ctext.org/wiki.pl?chapter=403868&if=en",
+        "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.7000.json"
+      ],
+      "reason": "《孟浩然集》四部丛刊本卷四（景江南图书馆藏明刊本）及同集原著转录作“游人五陵去”，与题中“入秦”地望相合。本稿选择有据的“五陵”；项目来源《全唐诗》系统所存“武陵”继续作为异文记录，不宣称所有“武陵”见证都是误写。宝劒、直等字形不随另一转录一并改动。",
+      "witnesses": [
+        {
+          "work": "《孟浩然集》四部丛刊本卷四（景江南图书馆藏明刊本电子转录）",
+          "reading": "游人五陵去，宝劒直千金",
+          "type": "original-work-transcription",
+          "url": "https://zh.wikisource.org/zh-hant/孟浩然集_(四部叢刊本)/卷第四"
+        },
+        {
+          "work": "《孟浩然集》卷四（中国哲学书电子化计划转录）",
+          "reading": "游人五陵去，宝剑直千金",
+          "type": "original-work-transcription",
+          "url": "https://ctext.org/wiki.pl?chapter=403868&if=en"
+        },
+        {
+          "work": "项目归档《全唐诗》来源记录",
+          "reading": "游人武陵去",
+          "type": "archived-source-reading",
+          "url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.7000.json",
+          "note": "此为原始来源版本的保留记录；不是本次新增古本影印确认。"
+        }
+      ],
+      "commentaryEffect": "既有诗意已按入秦、长安解释，可继续沿用；词释将“武陵”改为有据“五陵”，明确帝陵区域并保存来源异文，不解释成湖南武陵。",
+      "limits": "本次完成明确读法的电子原典择本；未声称已经肉眼逐字校核纸书或影印。"
+    },
+    {
+      "id": "yizhu-3cd75431d898f09a",
+      "order": 252,
+      "title": "早梅",
+      "author": "张谓",
+      "kind": "retain-attested-variants",
+      "status": "retained-for-editorial-draft",
+      "applied": false,
+      "loci": [
+        {
+          "source": "逈临林村傍谿桥",
+          "selected": "逈临林村傍谿桥",
+          "alternative": "迥临村路傍溪桥",
+          "decision": "retain-documented-reading"
+        },
+        {
+          "source": "疑是经春雪未销",
+          "selected": "疑是经春雪未销",
+          "alternative": "疑是经冬雪未销",
+          "decision": "retain-documented-reading"
+        }
+      ],
+      "sourceText": "一树寒梅白玉条，逈临林村傍谿桥。\n不知近水花先发，疑是经春雪未销。",
+      "selectedText": "一树寒梅白玉条，逈临林村傍谿桥。\n不知近水花先发，疑是经春雪未销。",
+      "verificationRefs": [
+        "https://zh.wikisource.org/wiki/全唐詩/卷197"
+      ],
+      "reason": "《全唐诗》卷一百九十七张谓《早梅》正文明确作“迥临林村傍谿桥”“疑是经春雪未销”，并在春字下注“一作冬”。因此林村、经春都有原典支持，本稿选择现有这组读法，不按常见村路、经冬径行改字；逈／迥、谿／溪等字形也不在本次统一。",
+      "witnesses": [
+        {
+          "work": "《全唐诗》卷一百九十七（原著正文与校记电子转录）",
+          "reading": "迥临林村傍谿桥；经春，一作冬",
+          "type": "original-work-transcription",
+          "url": "https://zh.wikisource.org/wiki/全唐詩/卷197"
+        }
+      ],
+      "commentaryEffect": "既有诗意写村林边、春来尚未融尽雪的误认，与选定林村／经春相容。",
+      "limits": "本次完成明确读法的电子原典择本；未声称已经肉眼逐字校核纸书或影印。"
+    },
+    {
+      "id": "yizhu-9fb7e600caf01997",
+      "order": 292,
+      "title": "初食笋呈座中",
+      "author": "李商隐",
+      "kind": "confirm-conversion-and-retain-attested-reading",
+      "status": "retained-for-editorial-draft",
+      "applied": false,
+      "loci": [
+        {
+          "source": "于陵论价重如金",
+          "sourceTraditional": "於陵論價重如金",
+          "selected": "于陵论价重如金",
+          "alternative": "五陵论价重如金",
+          "decision": "retain-documented-reading-with-simplification"
+        }
+      ],
+      "sourceText": "嫩箨香苞初出林，于陵论价重如金。\n皇都陆海应无数，忍剪凌云一寸心。",
+      "selectedText": "嫩箨香苞初出林，于陵论价重如金。\n皇都陆海应无数，忍剪凌云一寸心。",
+      "verificationRefs": [
+        "https://zh.wikisource.org/zh-hant/御選唐詩_(四庫全書本)/卷29",
+        "https://ctext.org/wiki.pl?chapter=706888&if=gb"
+      ],
+      "reason": "项目原始繁体正文已经作“於陵”，简体显示“于陵”是字形转换，不是另选“于”地名。清《御选唐诗》卷二十九本首及注释均作於陵；《玉谿生诗详注》又明确标出戊签本作“五”而判误。本稿保留於陵这一路读法及既有地名词释，简体沿用“于陵”，不改“五陵”。本次择本不把简繁转换冒充版本异文，也不把古注地望解释宣称无争议。",
+      "witnesses": [
+        {
+          "work": "《御选唐诗》四库全书本卷二十九（原著正文及注文电子转录）",
+          "reading": "於陵论价重如金；於陵在长山县二十五里，即陈仲子所居",
+          "type": "original-work-transcription",
+          "url": "https://zh.wikisource.org/zh-hant/御選唐詩_(四庫全書本)/卷29"
+        },
+        {
+          "work": "清冯浩《玉谿生诗详注》卷一（原著正文及校记电子转录）",
+          "reading": "於，戊签作五，误；淄州长山县本汉於陵县地",
+          "type": "original-work-transcription",
+          "url": "https://ctext.org/wiki.pl?chapter=706888&if=gb"
+        }
+      ],
+      "commentaryEffect": "既有诗意和词释已写“於陵”，与选定传统读法对应；仍保留地望及寄托层的解释边界。",
+      "limits": "本次完成明确读法的电子原典择本；未声称已经肉眼逐字校核纸书或影印。"
+    }
+  ],
+  "remainingTextWitnessOrders": [],
+  "limits": [
+    "13项已完成明确读法的编辑择本，不等于全卷出版终校。",
+    "本次未肉眼逐字校核纸书或影印页。",
+    "001、033、051、162等保留有据异文；异文分歧未宣称从学术上消失。",
+    "图文、题名署名、字体和全卷校样仍由各自工序验收。"
+  ]
+}

@@ -92,7 +92,7 @@ actor PoemCardExporter {
                                         withAttributes: [.font: font, .foregroundColor: color, .paragraphStyle: style])
             }
             for (index, line) in layout.titleLines.enumerated() { centered(line, y: 740 + CGFloat(index) * 86, font: layout.titleFont, color: ink) }
-            centered("唐 · \(poem.author)", y: 740 + CGFloat(layout.titleLines.count) * 86 + 12, font: .systemFont(ofSize: 30), color: muted)
+            centered("\(poem.dynasty ?? "唐") · \(poem.author)", y: 740 + CGFloat(layout.titleLines.count) * 86 + 12, font: .systemFont(ofSize: 30), color: muted)
             for (index, line) in layout.verseLines.enumerated() { centered(line, y: layout.verseTop + CGFloat(index) * layout.lineHeight, font: layout.verseFont, color: ink) }
             muted.withAlphaComponent(0.25).setStroke(); context.setLineWidth(1)
             context.move(to: CGPoint(x: 440, y: layout.height - 112)); context.addLine(to: CGPoint(x: 640, y: layout.height - 112)); context.strokePath()
