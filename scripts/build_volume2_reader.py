@@ -6,7 +6,6 @@ import hashlib
 import json
 from pathlib import Path
 import subprocess
-from PIL import Image
 
 try:
     from .volume2_narration_release import validate_volume2_release, MANIFEST_FILE
@@ -29,10 +28,12 @@ def write(path,value):
     temporary.write_text(payload(value));temporary.replace(path)
 def sha(path): return hashlib.sha256(path.read_bytes()).hexdigest()
 def asset_record(path):
+    from PIL import Image
     with Image.open(path) as image: size=image.size
     return {'file':path.relative_to(ROOT).as_posix(),'sha256':sha(path),'bytes':path.stat().st_size,'width':size[0],'height':size[1]}
 
 def prepare_assets(poems,check=False):
+    from PIL import Image
     old=read(BASE/'delivery-assets.json') if (BASE/'delivery-assets.json').exists() else {}
     old_assets=old.get('poems',{})
     framing=read(BASE/'delivery-framing.json')['poems'] if (BASE/'delivery-framing.json').exists() else {}

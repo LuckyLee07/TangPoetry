@@ -5,16 +5,22 @@ All writes and simulated audio stay in temporary directories. No credentials
 are loaded, no network is used and no MP3 is synthesized. Run:
 python3 -B -m unittest discover -s tests -p 'volume2_audio_test.py'
 """
-from contextlib import ExitStack, redirect_stdout
+from concurrent.futures import ThreadPoolExecutor, wait as wait_for_all
+from contextlib import ExitStack, contextmanager, redirect_stderr, redirect_stdout
+import builtins
 import copy
+import importlib.util
 import io
 import json
 from pathlib import Path
 import shutil
+import subprocess
 import sys
 import tempfile
+import threading
+from types import SimpleNamespace
 import unittest
-from unittest.mock import patch
+from unittest.mock import Mock, patch
 from xml.etree import ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -83,6 +89,287 @@ class Volume2AudioPreparationTests(unittest.TestCase):
         audio.atomic_json(self.stage / 'listening-review.json', review)
         return review
 
+    @contextmanager
+    def generation_cli(self, renderer, poems=None, options=None):
+        """Run the actual CLI with only fake bytes, fake credentials and mocked networking."""
+        import prepare_recitation_variants as variants
+        poems = self.poems[:4] if poems is None else poems
+        with ExitStack() as stack:
+            stack.enter_context(patch.object(sys, 'argv', [audio.__file__, '--generate', '--jobs', '1', *(options or [])]))
+            stack.enter_context(patch.object(audio, 'load', return_value=poems))
+            stack.enter_context(patch.object(variants, 'OUT', self.root / 'output/tts-trial/recitation'))
+            voice = stack.enter_context(patch.object(variants, 'verify_voice_styles'))
+            env = stack.enter_context(patch.object(audio, 'azure_config', return_value=('isolated-no-network-fixture', 'eastasia')))
+            prompt = stack.enter_context(patch.object(audio, 'prompt_azure_config', return_value=('isolated-no-network-fixture', 'eastasia')))
+            stack.enter_context(patch('prepare_narration_trial.urlopen', side_effect=AssertionError('Network call')))
+            stack.enter_context(patch.object(audio.pipeline, 'synthesize_with_retry', side_effect=renderer))
+            stack.enter_context(patch.object(audio.pipeline, 'audit', return_value={'tracks': len(poems)}))
+            stack.enter_context(redirect_stdout(io.StringIO()))
+            yield {'voice': voice, 'env': env, 'prompt': prompt}
+
+    def simulated_audio(self, ssml, target, credentials, pacer):
+        target.write_bytes(('isolated-non-audio-test-fixture:' + target.stem).encode())
+        return 200
+
+    def test_reader_data_import_and_catalog_build_do_not_require_pillow(self):
+        original_import = builtins.__import__
+        def no_pillow(name, *args, **kwargs):
+            if name == 'PIL' or name.startswith('PIL.'):
+                raise AssertionError('Reader data preparation imported Pillow')
+            return original_import(name, *args, **kwargs)
+        spec = importlib.util.spec_from_file_location('isolated_reader_without_pillow', ROOT / 'scripts/build_volume2_reader.py')
+        module = importlib.util.module_from_spec(spec)
+        with patch.object(builtins, '__import__', no_pillow):
+            spec.loader.exec_module(module)
+            module.ROOT, module.BASE = self.root, self.base
+            catalog, details = module.reader_entries(
+                json.loads((self.base / 'production.json').read_text()),
+                json.loads((self.base / 'poems.json').read_text()),
+                json.loads((self.base / 'delivery-assets.json').read_text()))
+        self.assertEqual((len(catalog['poems']), len(details)), (305, 305))
+
+    def test_prompt_key_requires_generation_without_loading_credentials(self):
+        with patch.object(sys, 'argv', [audio.__file__, '--prompt-key']), \
+                patch.object(audio, 'load') as load, \
+                patch.object(audio, 'azure_config') as env, \
+                patch.object(audio, 'prompt_azure_config') as prompt, redirect_stderr(io.StringIO()):
+            with self.assertRaises(SystemExit) as rejected:
+                audio.main()
+        self.assertEqual(rejected.exception.code, 2)
+        for mock in [load, env, prompt]:
+            mock.assert_not_called()
+
+    def test_prompt_region_and_env_routes_check_cache_presence(self):
+        for options, cache_exists, region in [(['--prompt-key'], False, 'eastasia'),
+                                             (['--prompt-key', '--region', 'westus'], False, 'westus'),
+                                             ([], True, None)]:
+            with self.subTest(options=options):
+                shutil.rmtree(self.stage, ignore_errors=True)
+                cache = self.root / 'output/tts-trial/recitation/voice-support.json'
+                if cache_exists:
+                    cache.parent.mkdir(parents=True, exist_ok=True)
+                    cache.write_text('{}')
+                else:
+                    shutil.rmtree(cache.parent, ignore_errors=True)
+                with self.generation_cli(self.simulated_audio, poems=self.poems[:2], options=options) as mocks:
+                    audio.main()
+                self.assertTrue(cache.parent.is_dir())
+                mocks['voice'].assert_called_once_with(('isolated-no-network-fixture', 'eastasia'), reuse=cache_exists)
+                if region:
+                    mocks['prompt'].assert_called_once_with(region)
+                    mocks['env'].assert_not_called()
+                else:
+                    mocks['env'].assert_called_once_with()
+                    mocks['prompt'].assert_not_called()
+
+    def test_fatal_http_and_local_failures_stop_unstarted_jobs_and_save_progress(self):
+        failures = [audio.AzureHTTPError(401, 'isolated HTTP 401'), audio.AzureHTTPError(403, 'isolated HTTP 403'),
+                    subprocess.CalledProcessError(1, ['isolated-ffmpeg']), ValueError('isolated probe failure')]
+        for error in failures:
+            with self.subTest(error=type(error).__name__, message=str(error)):
+                shutil.rmtree(self.stage, ignore_errors=True)
+                calls = []
+                def failed(ssml, target, credentials, pacer):
+                    calls.append(target.stem)
+                    raise error
+                with self.generation_cli(failed):
+                    with self.assertRaises(type(error)) as rejected:
+                        audio.main()
+                self.assertIs(rejected.exception, error)
+                self.assertEqual(calls, [self.poems[0]['id']])
+                self.assertEqual(json.loads((self.stage / 'manifest.json').read_text())['tracks'], {})
+                self.assertEqual(json.loads((self.stage / 'failures.json').read_text()),
+                                 [{'id': self.poems[0]['id'], 'error': str(error)}])
+                plan = json.loads((self.stage / 'plan.json').read_text())
+                self.assertEqual((plan['readyTracks'], plan['pendingTracks']), (0, 4))
+
+    def test_running_success_after_fatal_is_saved_and_reused_on_resume(self):
+        second_started, release_second = threading.Event(), threading.Event()
+        calls = []
+        error = ValueError('isolated first-track failure')
+        first, second = self.poems[:2]
+        class ReleaseRunningWorker(ThreadPoolExecutor):
+            def shutdown(self, *args, **kwargs):
+                release_second.set()
+                return super().shutdown(*args, **kwargs)
+        def rendered(ssml, target, credentials, pacer):
+            calls.append(target.stem)
+            if target.stem == first['id']:
+                if not second_started.wait(2):
+                    raise AssertionError('Second worker did not start')
+                raise error
+            second_started.set()
+            if not release_second.wait(2):
+                raise AssertionError('Fatal cleanup did not release the running worker')
+            return self.simulated_audio(ssml, target, credentials, pacer)
+        with self.generation_cli(rendered, options=['--jobs', '2']), \
+                patch.object(audio, 'ThreadPoolExecutor', ReleaseRunningWorker):
+            with self.assertRaises(ValueError) as rejected:
+                audio.main()
+        self.assertIs(rejected.exception, error)
+        self.assertEqual(set(calls), {first['id'], second['id']})
+        staged = json.loads((self.stage / 'manifest.json').read_text())
+        self.assertEqual(set(staged['tracks']), {second['id']})
+        self.assertTrue(audio.pipeline.valid_record(second, staged['tracks'][second['id']],
+                                                  self.stage / 'audio' / f'{second["id"]}.mp3'))
+        self.assertEqual(json.loads((self.stage / 'plan.json').read_text())['readyTracks'], 1)
+        resumed = []
+        def continued(ssml, target, credentials, pacer):
+            resumed.append(target.stem)
+            return self.simulated_audio(ssml, target, credentials, pacer)
+        with self.generation_cli(continued):
+            audio.main()
+        self.assertEqual(set(resumed), {p['id'] for p in self.poems[:4]} - {second['id']})
+        self.assertEqual(json.loads((self.stage / 'plan.json').read_text())['readyTracks'], 4)
+
+    def test_success_and_fatal_in_same_completed_batch_cannot_refill_queue(self):
+        calls = []
+        first = self.poems[0]
+        def rendered(ssml, target, credentials, pacer):
+            calls.append(target.stem)
+            if target.stem == first['id']:
+                raise ValueError('isolated completed-batch failure')
+            return self.simulated_audio(ssml, target, credentials, pacer)
+        def success_first(futures, return_when):
+            done, pending = wait_for_all(futures)
+            return sorted(done, key=lambda future: future.exception() is not None), pending
+        with self.generation_cli(rendered, options=['--jobs', '2']), patch.object(audio, 'wait', side_effect=success_first):
+            with self.assertRaisesRegex(ValueError, 'completed-batch failure'):
+                audio.main()
+        self.assertEqual(set(calls), {p['id'] for p in self.poems[:2]})
+        self.assertEqual(set(json.loads((self.stage / 'manifest.json').read_text())['tracks']), {self.poems[1]['id']})
+
+    def curl_fixture(self, exit_code=0, http_code=200):
+        """Inspect a fake curl invocation; never run a process or send a key."""
+        key = 'isolated-secret-fixture-never-a-real-key'
+        parent = self.root / 'isolated-curl-tests'
+        parent.mkdir(exist_ok=True)
+        target = parent / 'fixture.mp3'
+        target.write_bytes(b'previous-valid-file-sentinel')
+        ssml = poetry_ssml(self.poems[0])
+        def run(command, **options):
+            self.assertEqual(command[:2], ['/usr/bin/curl', '-q'])
+            self.assertNotIn(key, ' '.join(command))
+            self.assertIn('--http2', command)
+            self.assertIn('--cacert', command)
+            self.assertNotIn('--insecure', command)
+            self.assertEqual(command[command.index('--max-time') + 1], '120')
+            self.assertGreaterEqual(options['timeout'], 120)
+            self.assertEqual(options['env'], {'PATH': '/usr/bin:/bin'})
+            self.assertEqual(options['input'], f'header = "Ocp-Apim-Subscription-Key: {key}"\n'.encode())
+            self.assertEqual(options['stdout'], subprocess.PIPE)
+            self.assertEqual(options['stderr'], subprocess.PIPE)
+            draft = Path(command[command.index('--data-binary') + 1][1:])
+            raw = Path(command[command.index('--output') + 1])
+            self.assertEqual(draft.read_text(), ssml)
+            self.assertNotIn(key.encode(), draft.read_bytes())
+            raw.write_bytes(b'isolated-non-audio-response-or-partial')
+            self.assertNotIn(key.encode(), raw.read_bytes())
+            return subprocess.CompletedProcess(command, exit_code, stdout=str(http_code).encode(),
+                                               stderr=(key + ': malicious diagnostic fixture').encode())
+        return key, parent, target, ssml, run
+
+    def test_curl_success_keeps_key_only_on_stdin_and_normalizes_after_http200(self):
+        key, parent, target, ssml, run = self.curl_fixture()
+        def normalize(raw, final):
+            self.assertEqual(raw.read_bytes(), b'isolated-non-audio-response-or-partial')
+            final.write_bytes(b'isolated-normalized-audio-fixture')
+            return 123.456
+        with patch.object(audio.os, 'environ', {'PATH': '/usr/bin:/bin', 'SPEECH_KEY': key, 'SPEECH_REGION': 'eastasia'}), \
+                patch.object(audio.subprocess, 'run', side_effect=run) as process, \
+                patch.object(audio.pipeline, 'normalize_audio', side_effect=normalize) as normalized:
+            duration = audio.synthesize_curl_ssml(ssml, target, (key, 'eastasia'))
+        self.assertEqual(duration, 123.456)
+        process.assert_called_once()
+        normalized.assert_called_once()
+        self.assertEqual(target.read_bytes(), b'isolated-normalized-audio-fixture')
+        self.assertEqual(list(parent.iterdir()), [target])
+        self.assertNotIn(key.encode(), target.read_bytes())
+
+    def test_curl_http401_and_partial_exit18_preserve_target_and_discard_temp(self):
+        for exit_code, http_code, error_type in [(0, 401, audio.AzureHTTPError), (18, 200, audio.AzureTransportError)]:
+            with self.subTest(exit_code=exit_code, http_code=http_code):
+                key, parent, target, ssml, run = self.curl_fixture(exit_code, http_code)
+                output = io.StringIO()
+                with patch.object(audio.os, 'environ', {'PATH': '/usr/bin:/bin', 'SPEECH_KEY': key, 'SPEECH_REGION': 'eastasia'}), \
+                        patch.object(audio.subprocess, 'run', side_effect=run), \
+                        patch.object(audio.pipeline, 'normalize_audio') as normalized, \
+                        patch.object(audio.pipeline, 'probe') as probe, redirect_stdout(output), redirect_stderr(output):
+                    with self.assertRaises(error_type) as rejected:
+                        audio.synthesize_curl_ssml(ssml, target, (key, 'eastasia'))
+                normalized.assert_not_called()
+                probe.assert_not_called()
+                if http_code == 401:
+                    self.assertEqual(rejected.exception.status, 401)
+                self.assertNotIn(key, str(rejected.exception))
+                self.assertEqual(output.getvalue(), '')
+                self.assertEqual(target.read_bytes(), b'previous-valid-file-sentinel')
+                self.assertEqual(list(parent.iterdir()), [target])
+
+    def test_curl_timeout_never_prints_captured_diagnostics_or_replaces_target(self):
+        key, parent, target, ssml, _ = self.curl_fixture()
+        failure = subprocess.TimeoutExpired(['/usr/bin/curl'], 130, output=key.encode(), stderr=key.encode())
+        with patch.object(audio.subprocess, 'run', side_effect=failure), \
+                patch.object(audio.pipeline, 'normalize_audio') as normalized:
+            with self.assertRaises(audio.AzureTransportError) as rejected:
+                audio.synthesize_curl_ssml(ssml, target, (key, 'eastasia'))
+        normalized.assert_not_called()
+        self.assertNotIn(key, str(rejected.exception))
+        self.assertEqual(target.read_bytes(), b'previous-valid-file-sentinel')
+        self.assertEqual(list(parent.iterdir()), [target])
+
+    def test_curl_retries_keep_existing_pacer_schedule_and_http401_is_fatal(self):
+        pacer = Mock()
+        with patch.object(audio, 'synthesize_curl_ssml', side_effect=[audio.AzureTransportError('isolated curl18'), 200]) as transport, \
+                patch.object(audio.pipeline.time, 'sleep') as sleep, redirect_stdout(io.StringIO()):
+            duration = audio.synthesize_curl_with_retry('isolated ssml', Path('/isolated/target.mp3'), ('fixture', 'eastasia'), pacer)
+        self.assertEqual(duration, 200)
+        self.assertEqual(pacer.wait.call_count, 2)
+        self.assertEqual(transport.call_count, 2)
+        sleep.assert_called_once_with(2)
+        pacer.reset_mock()
+        with patch.object(audio, 'synthesize_curl_ssml', side_effect=audio.AzureHTTPError(401, 'isolated 401')) as transport, \
+                patch.object(audio.pipeline.time, 'sleep') as sleep:
+            with self.assertRaises(audio.AzureHTTPError):
+                audio.synthesize_curl_with_retry('isolated ssml', Path('/isolated/target.mp3'), ('fixture', 'eastasia'), pacer)
+        pacer.wait.assert_called_once_with()
+        transport.assert_called_once()
+        sleep.assert_not_called()
+
+    def test_cli_curl_selects_only_second_volume_transport(self):
+        original_shared_transport = audio.pipeline.synthesize_azure_ssml
+        original_shared_retry = audio.pipeline.synthesize_with_retry
+        with self.generation_cli(self.simulated_audio, poems=self.poems[:2], options=['--transport', 'curl']), \
+                patch.object(audio, 'synthesize_curl_with_retry', side_effect=self.simulated_audio) as curl:
+            audio.main()
+        self.assertEqual(curl.call_count, 2)
+        self.assertIs(audio.pipeline.synthesize_azure_ssml, original_shared_transport)
+        self.assertIs(audio.pipeline.synthesize_with_retry, original_shared_retry)
+
+    def test_curl_chunked_uses_same_cache_and_normalizes_once(self):
+        poem = self.poems[0]
+        target = self.root / 'chunked-fixture.mp3'
+        def piece(ssml, path, credentials, pacer, normalize):
+            self.assertIs(normalize, False)
+            path.write_bytes(b'isolated-curl-chunk-fixture')
+            return 10
+        def join(command, **options):
+            Path(command[-1]).write_bytes(b'isolated-joined-chunks-fixture')
+        def normalized(raw, final):
+            final.write_bytes(b'isolated-normalized-chunks-fixture')
+            return 20
+        with patch.object(audio, 'synthesize_curl_with_retry', side_effect=piece) as curl, \
+                patch.dict(sys.modules, {'imageio_ffmpeg': SimpleNamespace(get_ffmpeg_exe=Mock(return_value='/isolated-nonexecuted-ffmpeg'))}), \
+                patch.object(audio.subprocess, 'run', side_effect=join), \
+                patch.object(audio.pipeline, 'normalize_audio', side_effect=normalized) as normalize, redirect_stdout(io.StringIO()):
+            audio.synthesize_curl_chunked(poem, target, ('fixture', 'eastasia'), Mock())
+            self.assertEqual(curl.call_count, len(poetry_ssml_chunks(poem)))
+            normalize.assert_called_once()
+            curl.reset_mock()
+            audio.synthesize_curl_chunked(poem, target, ('fixture', 'eastasia'), Mock())
+            curl.assert_not_called()
+        self.assertEqual(target.read_bytes(), b'isolated-normalized-chunks-fixture')
+
     def test_fresh_snapshot_has_all_305_without_reading_pngs(self):
         original = audio.pipeline.digest
         def json_only(path):
@@ -141,12 +428,13 @@ class Volume2AudioPreparationTests(unittest.TestCase):
             stack.enter_context(patch.object(audio.os, 'environ', EnvironmentNamesOnly()))
             stack.enter_context(patch.object(Path, 'read_text', guarded_read))
             credentials = stack.enter_context(patch.object(audio, 'azure_config', side_effect=AssertionError('Credentials read')))
+            prompt = stack.enter_context(patch.object(audio, 'prompt_azure_config', side_effect=AssertionError('Prompt read')))
             network = stack.enter_context(patch('prepare_narration_trial.urlopen', side_effect=AssertionError('Network call')))
             renderer = stack.enter_context(patch.object(audio.pipeline, 'synthesize_with_retry', side_effect=AssertionError('Synthesis call')))
             chunks = stack.enter_context(patch.object(audio.pipeline, 'synthesize_chunked', side_effect=AssertionError('Synthesis call')))
             output = stack.enter_context(redirect_stdout(io.StringIO()))
             audio.main()
-        for mock in [credentials, network, renderer, chunks]:
+        for mock in [credentials, prompt, network, renderer, chunks]:
             mock.assert_not_called()
         plan = json.loads(output.getvalue())
         self.assertEqual((plan['readyTracks'], plan['pendingTracks']), (0, 305))

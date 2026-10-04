@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>第二卷 · 朗读试听</title>
+  <link rel="stylesheet" href="../styles.css">
+  <link rel="stylesheet" href="./volume2-audio.css">
+  <script type="module" src="./volume2-audio.js"></script>
+</head>
+<body>
+  <header class="audio-header">
+    <div><span class="audio-kicker">唐诗画笺</span><h1>第二卷 · 朗读试听</h1></div>
+    <a href="../index.html?volume=2">图文阅读</a>
+  </header>
+  <main class="audio-layout">
+    <aside class="audio-library" aria-label="第二卷试听目录">
+      <label class="search-box">
+        <span class="sr-only">搜索诗题、作者或诗句</span>
+        <input id="search" type="search" placeholder="诗题、作者或诗句" autocomplete="off">
+      </label>
+      <div class="audio-filter">
+        <label for="scope">范围</label>
+        <select id="scope"><option value="all">全部诗篇</option><option value="ready">已生成音轨</option></select>
+      </div>
+      <p id="resultCount" class="audio-caption">载入目录…</p>
+      <div id="items" class="audio-items"></div>
+    </aside>
+    <section class="audio-stage" aria-label="诗文与播放器">
+      <div class="audio-progress">
+        <p id="generationStatus" role="status" aria-live="polite">载入音轨清单…</p>
+        <button id="refresh" type="button">刷新清单</button>
+      </div>
+      <article id="poem" class="audio-poem" aria-busy="true">
+        <p id="poemIndex" class="audio-kicker"></p>
+        <h2 id="poemTitle">载入诗篇…</h2>
+        <p id="poemMeta" class="audio-caption"></p>
+        <div id="poemText" class="audio-verse" tabindex="0" aria-label="诗文正文"></div>
+      </article>
+      <section class="audio-player" aria-label="手动试听">
+        <p id="trackStatus" class="audio-track-status" role="status" aria-live="polite">等待载入…</p>
+        <audio id="audio" controls preload="metadata" aria-label="当前诗篇朗读" hidden></audio>
+        <div class="audio-transport">
+          <button id="previous" type="button" disabled>上一首</button>
+          <span id="position" class="audio-caption"></span>
+          <button id="next" type="button" disabled>下一首</button>
+          <label class="audio-speed" for="speed">速度
+            <select id="speed" disabled>
+              <option value="0.75">0.75×</option>
+              <option value="1" selected>1×</option>
+              <option value="1.25">1.25×</option>
+              <option value="1.5">1.5×</option>
+            </select>
+          </label>
+        </div>
+        <p class="audio-caption audio-help">点击播放器试听，拖动进度条定位；长诗正文可滚动查看。切换诗篇后请手动播放。此页不保存听审结论。</p>
+      </section>
+    </section>
+  </main>
+  <noscript><p class="audio-noscript">请启用 JavaScript 后载入目录和朗读音轨。</p></noscript>
+</body>
+</html>

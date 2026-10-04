@@ -1,0 +1,50 @@
+body { display:block; overflow:auto; }
+.audio-header { display:flex; align-items:center; gap:20px; max-width:1100px; margin:auto; padding:28px 24px 22px; }
+.audio-header h1 { margin:6px 0 0; font-size:26px; font-weight:500; letter-spacing:.06em; }
+.audio-header a { margin-left:auto; color:var(--seal); font:13px/1.7 var(--sans); text-underline-offset:3px; }
+.audio-kicker { color:#776752; font:11px/1.7 var(--sans); letter-spacing:.16em; }
+.audio-layout { display:grid; grid-template-columns:minmax(220px,300px) minmax(0,1fr); gap:24px; max-width:1100px; margin:auto; padding:0 24px 40px; align-items:start; }
+.audio-library,.audio-stage { border:1px solid var(--line); border-radius:16px; background:rgba(250,246,236,.88); }
+.audio-library { padding:14px; position:sticky; top:16px; max-height:calc(100dvh - 32px); overflow:auto; }
+.audio-filter { display:flex; align-items:center; justify-content:space-between; gap:12px; margin-top:10px; font:12px var(--sans); }
+.audio-filter select { max-width:none; background:var(--paper-deep); font-size:12px; }
+.audio-caption { font:12px/1.8 var(--sans); color:#6b6051; }
+.audio-items { display:grid; gap:4px; }
+.audio-item { display:flex; align-items:center; justify-content:space-between; gap:10px; min-height:70px; width:100%; border-radius:10px; padding:10px; text-align:left; }
+.audio-item[aria-current="true"] { background:#e8ddc8; }
+.audio-item-title { display:block; font:15px/1.6 var(--serif); overflow-wrap:anywhere; }
+.audio-item-meta { display:block; font:11px/1.8 var(--sans); color:#786953; }
+.audio-item-status { flex:none; font:10px/1.5 var(--sans); color:#7b6f5d; }
+.audio-item[data-ready="true"] .audio-item-status { color:var(--seal); }
+.audio-stage { padding:22px 28px; min-width:0; }
+.audio-progress { display:flex; gap:16px; align-items:center; padding-bottom:16px; border-bottom:1px solid var(--line); }
+.audio-progress p { margin:0; font:12px/1.8 var(--sans); color:#655847; }
+.audio-progress button { flex:none; margin-left:auto; min-height:44px; padding:0 12px; border:1px solid var(--line-strong); border-radius:10px; color:var(--seal); font:12px var(--sans); }
+.audio-poem { min-height:260px; padding:26px 6px 30px; }
+.audio-poem h2 { margin:8px 0; font:500 28px/1.5 var(--serif); overflow-wrap:anywhere; }
+.audio-poem .audio-caption { margin:0 0 22px; }
+.audio-verse { max-height:min(42dvh,500px); overflow-y:auto; white-space:pre-wrap; overflow-wrap:anywhere; font:22px/2.05 var(--serif); }
+.audio-player { padding-top:18px; border-top:1px solid var(--line); }
+.audio-track-status { margin:0 0 14px; color:#655847; font:12px/1.8 var(--sans); }
+.audio-player audio { width:100%; height:54px; }
+.audio-transport { display:flex; flex-wrap:wrap; gap:12px; align-items:center; margin-top:14px; }
+.audio-transport button { min-height:44px; padding:0 12px; border:1px solid var(--line-strong); border-radius:10px; font:12px var(--sans); }
+.audio-speed { display:flex; align-items:center; gap:8px; margin-left:auto; font:12px var(--sans); }
+.audio-speed select { max-width:none; min-width:76px; background:var(--paper-deep); font-size:12px; }
+.audio-help { margin:16px 0 0; }
+.audio-noscript { max-width:1100px; margin:20px auto; padding:0 24px; }
+button:disabled,select:disabled { opacity:.4; cursor:default; }
+button,input,select,a { touch-action:manipulation; }
+button:focus-visible,input:focus-visible,select:focus-visible,a:focus-visible,audio:focus-visible,.audio-verse:focus-visible { outline:2px solid var(--seal); outline-offset:3px; }
+@media (hover:hover) and (pointer:fine) { .audio-item:hover { background:rgba(232,221,200,.65); } }
+@media (max-width:700px) {
+  .audio-header { padding:22px 16px 18px; gap:10px; }
+  .audio-header h1 { font-size:22px; }
+  .audio-layout { grid-template-columns:1fr; padding:0 12px 28px; gap:16px; }
+  .audio-stage { grid-row:1; padding:18px; }
+  .audio-library { position:static; max-height:420px; }
+  .audio-poem { padding:22px 2px; }
+  .audio-poem h2 { font-size:25px; }
+  .audio-verse { font-size:21px; }
+}
+@media (max-width:360px) { .audio-speed { margin-left:0; }.audio-header h1 { font-size:20px; }.audio-header a { font-size:12px; } }
