@@ -70,7 +70,7 @@ def assemble(require_complete=False, save=True):
             assert isinstance(c['summary'],str) and c['summary'].strip(), pid
             assert isinstance(c['interpretation'],list) and c['interpretation'] and all(isinstance(x,str) and x.strip() for x in c['interpretation']), pid
             assert isinstance(c['glossary'],list) and all(isinstance(x,dict) and x.get('term') and x.get('text') for x in c['glossary']), pid
-            c['reviewNotes'] = ['制作稿已校订：'+fix['reason']+' 原始 poems.json 保留原貌，本次仅用于独立编辑预览，尚非纸书终校。'] + ['初稿记录（归档底本）：'+note for note in c['reviewNotes']]
+            c['reviewNotes'] = ['制作稿已校订：'+fix['reason']+' 原始 poems.json 保留原貌，本次仅用于独立编辑预览，尚非纸书终校。'] + [note if note.startswith('语义复核：') else '初稿记录（归档底本）：'+note for note in c['reviewNotes']]
             c['basis']['verificationRefs'] = list(dict.fromkeys(c['basis'].get('verificationRefs',[])+fix['verificationRefs']))
             entry['textCorrection'] = {'status':fix['status'],'reason':fix['reason'],'verificationRefs':fix['verificationRefs'],'record':'data/expansion/tang-second-volume/text-corrections.json'}
         paragraphs += len(c['interpretation']); glossary_count += len(c['glossary'])

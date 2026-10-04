@@ -1,0 +1,4578 @@
+{
+  "schemaVersion": 1,
+  "reviewedOn": "2026-10-04",
+  "reviewedCommit": "2921d5e",
+  "scope": "第二卷305首有效正文与三层编辑释义逐首对照",
+  "method": "逐首通读实际制作稿；分别记录原诗意旨、具体对应、问题与拟稿，由根代理对问题逐一复核裁决；结构与哈希检查仅用于验证覆盖和修订落地。",
+  "publicationReady": false,
+  "archivalPoemsSha256": "55941fbf05951da569ee520ab733d49a31f93b640ce2e6924672e89b36ac4e93",
+  "reviewFiles": [
+    "data/expansion/tang-second-volume/semantic-review/001-105.json",
+    "data/expansion/tang-second-volume/semantic-review/106-205.json",
+    "data/expansion/tang-second-volume/semantic-review/131-205.json",
+    "data/expansion/tang-second-volume/semantic-review/206-305.json"
+  ],
+  "supplementaryReviewFile": "data/expansion/tang-second-volume/semantic-review/root-findings.json",
+  "stats": {
+    "reviewedPoemCount": 305,
+    "baselineAssessmentCounts": {
+      "consistent": 275,
+      "revise": 22,
+      "interpretive-uncertainty": 8
+    },
+    "reviewerIssueCount": 33,
+    "revisedReaderPoemCount": 29,
+    "notesOnlyPoemCount": 1,
+    "retainedInterpretationPoemCount": 8,
+    "supplementaryReaderFindingCount": 2
+  },
+  "resolutions": [
+    {
+      "id": "yizhu-76caedeb379ad9e0",
+      "order": 1,
+      "title": "春江花月夜",
+      "author": "张若虚",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "369936e3b186ac4689d1b9c2abd7c26d2e18a69ca4b28866fdca715f0dc94d30"
+    },
+    {
+      "id": "yizhu-e20a1fe86feea9fb",
+      "order": 2,
+      "title": "茅屋为秋风所破歌",
+      "author": "杜甫",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "b5d7a5596c763c1d05f7feda14c4ee19b8d47b44662cd0ebf8a1031a0870644b"
+    },
+    {
+      "id": "yizhu-84a9347da2380295",
+      "order": 3,
+      "title": "卖炭翁",
+      "author": "白居易",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "b99a405a6ad725c5215af10fdab84deb3172b7829cee1725be32ecc310d9c0bd"
+    },
+    {
+      "id": "yizhu-b822224df2a84a19",
+      "order": 4,
+      "title": "李凭箜篌引",
+      "author": "李贺",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "0f7d186ef6fd43c09bb6569d8698199c2923a025a80e677738ffd7aeb3d07b3f"
+    },
+    {
+      "id": "yizhu-5971557650b64586",
+      "order": 5,
+      "title": "感遇诗三十八首 二",
+      "author": "陈子昂",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "b9869c02d8aafc987aae2001c8fdd86129a05da70b0dcee13d6a168878711dea"
+    },
+    {
+      "id": "yizhu-68170c83f1106590",
+      "order": 6,
+      "title": "使至塞上",
+      "author": "王维",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "7840ab43b8e527ad3d98fff3ecdfbb5d4d8cd113863c848675dac815cc36d132"
+    },
+    {
+      "id": "yizhu-e50f62e605ab8e0b",
+      "order": 7,
+      "title": "观猎",
+      "author": "王维",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "e63d3b510a381ec746cfd4b0dcc83e587a055bc6669ec1ae56ee8ded2ffcac09"
+    },
+    {
+      "id": "yizhu-00076e7d82bc60a0",
+      "order": 8,
+      "title": "春夜喜雨",
+      "author": "杜甫",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "82df4bbf859b74572bffd095bb56a65a57276c533f7513d65903d735cf458bcb"
+    },
+    {
+      "id": "yizhu-59a335c4bc9a0977",
+      "order": 9,
+      "title": "左迁至蓝关示姪孙湘",
+      "author": "韩愈",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "6288255945f8d41db0636b4cb3bad8b956bc16a0bcee1f7852b9ce27492e124e"
+    },
+    {
+      "id": "yizhu-456df820a8b75674",
+      "order": 10,
+      "title": "酬乐天扬州初逢席上见赠",
+      "author": "刘禹锡",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "9a2e5daa656b48c6ad901bb77987e6031cea7375c6240ed7592ec57c31b90dc5"
+    },
+    {
+      "id": "yizhu-d5e90af45bfdfc41",
+      "order": 11,
+      "title": "钱唐湖春行",
+      "author": "白居易",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "c84b6235594cdccf71ab0317acfbefbd10e4f46e46197d2ae2962ae7f247b422"
+    },
+    {
+      "id": "yizhu-2b3a9e48d77def9f",
+      "order": 12,
+      "title": "咸阳城东楼",
+      "author": "许浑",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "b0828dddae534f90744d7aafb5485db0849a4ce06fc3a190c4d111a05a271a7c"
+    },
+    {
+      "id": "yizhu-9aea75c1a815593f",
+      "order": 13,
+      "title": "逢雪宿芙蓉山主人",
+      "author": "刘长卿",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "59faa479ce4c7e9f02a2a3ffe1ce263d20188000ef7c3ac093cf7ffc3f6ef234"
+    },
+    {
+      "id": "yizhu-79aa95ffb774867a",
+      "order": 14,
+      "title": "古风二首 二",
+      "author": "李绅",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "5362bb8633868d374db4dd4a536e60313e416fafec416ab6fc2369cc1e8658f2"
+    },
+    {
+      "id": "yizhu-700df717b52858f7",
+      "order": 15,
+      "title": "咏柳",
+      "author": "贺知章",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "452e9490719a69b82bc1b9e568249672e6dd891d556304ba8f00d04bed6f76b7"
+    },
+    {
+      "id": "yizhu-aafb675e8b63f9fd",
+      "order": 16,
+      "title": "从军行 四",
+      "author": "王昌龄",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "45ac2e59db3d25965b4af5e73177adcb228d6c55d1fe2a9c900cd0f079ece8cb"
+    },
+    {
+      "id": "yizhu-9eb865ce65811d46",
+      "order": 17,
+      "title": "从军行七首 五",
+      "author": "王昌龄",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "5c7cece9be3e0e9df94cec264c5489a96fe526b060fef7fc498963691bb8f465"
+    },
+    {
+      "id": "yizhu-4c147bd293553a25",
+      "order": 18,
+      "title": "望庐山瀑布水二首 二",
+      "author": "李白",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "1663bebb453a54a3ab08c34265dd1544b290a6129672a8a429043077c9005570"
+    },
+    {
+      "id": "yizhu-9edb0daf6e8f7316",
+      "order": 19,
+      "title": "客中行",
+      "author": "李白",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "489c03968b10a80613ac4d4a75d899ec1506d3e476208d5e9cd29cfc27325cc2"
+    },
+    {
+      "id": "yizhu-6bc4921f54ea9b1e",
+      "order": 20,
+      "title": "金陵五题 石头城",
+      "author": "刘禹锡",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "90d5af1380049657b9da59b257e6d0730b3273e3305268b5ff712c1da1fd1481"
+    },
+    {
+      "id": "yizhu-20ba76b968927758",
+      "order": 21,
+      "title": "竹枝词二首 一",
+      "author": "刘禹锡",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "39eb08bded6e9815d044c2c30ea779a7bbfdc9c222417f8fc1468f6eefc02f6c"
+    },
+    {
+      "id": "yizhu-d05fe8438a12505d",
+      "order": 22,
+      "title": "离思五首 四",
+      "author": "元稹",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "d49ed7b9d8afba8e218ab7ec7c41715dd73e1c201ec0533655ca0536b19b65c9"
+    },
+    {
+      "id": "yizhu-009fb1a9c180ce4b",
+      "order": 23,
+      "title": "清明",
+      "author": "杜牧",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "afbbd6d3e65568f1a5a15ac8f8ac9f52e95e5146d965cfae5c2ca22d8dd76f92"
+    },
+    {
+      "id": "yizhu-c4adf6ab8ef4f9ed",
+      "order": 24,
+      "title": "山行",
+      "author": "杜牧",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "c62459496199771e2d130c3602acd25722565fa7cac1665272a4b656bbcb97f6"
+    },
+    {
+      "id": "yizhu-1a5b013193a6623b",
+      "order": 25,
+      "title": "蜂",
+      "author": "罗隐",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "9a72b81f62484e7f24570f6b926bf3d47e3d277d9dd16a6f92db6faaa82d5c64"
+    },
+    {
+      "id": "yizhu-bdb70d2a52e032f4",
+      "order": 26,
+      "title": "社日",
+      "author": "王驾",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "dc40d34d1c521b83d19680da663aa3fb32055efcbbc93d4a1656057a744ecdf1"
+    },
+    {
+      "id": "yizhu-6cf706b3e20e29c8",
+      "order": 27,
+      "title": "杂咏五首 钓鱼湾",
+      "author": "储光羲",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "bea6d7cf8b986bedb538ea2010789572efff8452c0149a31e3be4e1668104fa9"
+    },
+    {
+      "id": "yizhu-aaf4f486503e9bb2",
+      "order": 28,
+      "title": "自京赴奉先县咏怀五百字",
+      "author": "杜甫",
+      "assessment": "revise",
+      "issueDecisions": [
+        {
+          "issueIndex": 0,
+          "action": "revised",
+          "targetFields": [
+            "interpretation"
+          ],
+          "reason": "恢复“忍为尘埃没”的岂甘反问，保留不肯放弃济民志愿的上下文。"
+        }
+      ],
+      "changes": [
+        {
+          "field": "basis",
+          "before": {
+            "text": "依据完整原诗及已归档来源自行撰写；未引用现代译文",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json"
+            ],
+            "verificationRefs": [
+              "https://www.shidianguji.com/book/SK2231/chapter/1l9f2c3mvmfq2",
+              "https://www.shidianguji.com/zh/book/CADAL02099542/chapter/1lcnvoupsujv7"
+            ]
+          },
+          "after": {
+            "text": "依据完整原诗及已归档来源自行撰写；未引用现代译文",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json"
+            ],
+            "verificationRefs": [
+              "https://www.shidianguji.com/book/SK2231/chapter/1l9f2c3mvmfq2",
+              "https://www.shidianguji.com/zh/book/CADAL02099542/chapter/1lcnvoupsujv7",
+              "https://wkxb.sicnu.edu.cn/Publish/201610/20161024152344229.pdf",
+              "https://www.shidianguji.com/zh/book/SBCK133/chapter/SBCK133_622"
+            ]
+          }
+        },
+        {
+          "field": "interpretation",
+          "before": [
+            "我这个住在杜陵的平民，年岁渐长，反倒愈加不合世俗。早年自许要像稷、契那样辅佐政治、济养百姓，如今虽处处失意，赤手忍受困苦，只要尚未盖棺，这志愿便不肯放下。整年为百姓忧虑，胸中焦灼，同学长者虽取笑我，我仍要激越地放声歌唱。",
+            "我并非没有泛舟江海、自在终老的心愿，只因仍期待君上有尧舜之治，才不忍就此永远离开。朝廷似乎已不缺栋梁之材，我却像向日的葵藿，无法改变本性。想到寻常人只求自己的安身之处，便反问自己何必还怀着大鲸横卧海中的心志；可越明白世情，越不愿靠四处拜谒求进。困顿到如今，即便埋没，也难以转变操守。又觉得愧对巢父、许由那样彻底隐退的人，只能饮酒自遣，越唱越悲。",
+            "岁末百草凋零，狂风在高冈上呼啸。我半夜离京，严霜使衣带冻硬断裂，手指僵直，连结也打不好。天将明时经过骊山，皇帝驻处高踞山间，寒空浓雾弥漫，山路湿滑。华清宫气雾蒸腾，羽林军兵甲相接，君臣宴乐的声音震动山谷；享受赐浴和宴饮的都是贵人，哪里会有短衣穷民。",
+            "宫廷赐下的丝帛，本由贫寒织妇辛劳制成；官府又逼迫她们的丈夫和家人，把财物收聚进献。照仁政的道理，君主分赐财物应为了使国家与百姓活得更好；臣下若忘了这层本意，岂不辜负恩赐？满朝官员之中，有仁心的人理应为此警惕不安。",
+            "更听说宫中的金盘都送到了显贵家里。华堂里舞女如仙，轻烟薄纱间显出姿容；客人穿着暖裘，听笙管清瑟，吃着驼蹄羹与珍贵的橙橘。朱门里酒肉丰盛，路边却有冻死的人，富贵与贫困近在咫尺，差别竟这样惨烈，实在难以尽说。",
+            "我继续向北赶路，来到泾渭一带，渡口已改了通行的路线。群冰从上游涌下，高高堆叠，像大山移来，让人担心连支天的柱子都会撞断。幸好桥还没有崩裂，只听得支撑的木头作响；旅人彼此攀援而过，宽广的河水断不可轻渡。",
+            "妻儿寄住在外县，一家十口被风雪隔开。我怎能长期不去照应，只盼赶去与他们共同忍受饥渴。谁知一进门就听见痛哭，幼子竟已经饿死。我哪里能不放声悲哀，连街坊邻里也为之呜咽。身为父亲，却没能给孩子足够的食物，以致早夭，这羞愧和痛苦难以承受；贫家会遇到这样的急难，是我所不曾料到的。",
+            "我还因身份免除租税和征役，回看自己的遭遇已这样酸辛，普通百姓又要承受多少扰攘！默默想到失去生计的人，又想到远方戍守的士兵，忧虑便像终南山那样高大，又像漫无边际的水势，怎么也无法收束。"
+          ],
+          "after": [
+            "我这个住在杜陵的平民，年岁渐长，反倒愈加不合世俗。早年自许要像稷、契那样辅佐政治、济养百姓，如今虽处处失意，赤手忍受困苦，只要尚未盖棺，这志愿便不肯放下。整年为百姓忧虑，胸中焦灼，同学长者虽取笑我，我仍要激越地放声歌唱。",
+            "我并非没有泛舟江海、自在终老的心愿，只因仍期待君上有尧舜之治，才不忍就此永远离开。朝廷似乎已不缺栋梁之材，我却像向日的葵藿，无法改变本性。想到寻常人只求自己的安身之处，便反问自己何必还怀着大鲸横卧海中的心志；可越明白世情，越不愿靠四处拜谒求进。困顿至今，我又岂甘心就这样被尘埃埋没？终究自愧不如巢父、许由那样彻底隐退，仍不能改变自己的志向，只能饮酒自遣，越唱越悲。",
+            "岁末百草凋零，狂风在高冈上呼啸。我半夜离京，严霜使衣带冻硬断裂，手指僵直，连结也打不好。天将明时经过骊山，皇帝驻处高踞山间，寒空浓雾弥漫，山路湿滑。华清宫气雾蒸腾，羽林军兵甲相接，君臣宴乐的声音震动山谷；享受赐浴和宴饮的都是贵人，哪里会有短衣穷民。",
+            "宫廷赐下的丝帛，本由贫寒织妇辛劳制成；官府又逼迫她们的丈夫和家人，把财物收聚进献。照仁政的道理，君主分赐财物应为了使国家与百姓活得更好；臣下若忘了这层本意，岂不辜负恩赐？满朝官员之中，有仁心的人理应为此警惕不安。",
+            "更听说宫中的金盘都送到了显贵家里。华堂里舞女如仙，轻烟薄纱间显出姿容；客人穿着暖裘，听笙管清瑟，吃着驼蹄羹与珍贵的橙橘。朱门里酒肉丰盛，路边却有冻死的人，富贵与贫困近在咫尺，差别竟这样惨烈，实在难以尽说。",
+            "我继续向北赶路，来到泾渭一带，渡口已改了通行的路线。群冰从上游涌下，高高堆叠，像大山移来，让人担心连支天的柱子都会撞断。幸好桥还没有崩裂，只听得支撑的木头作响；旅人彼此攀援而过，宽广的河水断不可轻渡。",
+            "妻儿寄住在外县，一家十口被风雪隔开。我怎能长期不去照应，只盼赶去与他们共同忍受饥渴。谁知一进门就听见痛哭，幼子竟已经饿死。我哪里能不放声悲哀，连街坊邻里也为之呜咽。身为父亲，却没能给孩子足够的食物，以致早夭，这羞愧和痛苦难以承受；贫家会遇到这样的急难，是我所不曾料到的。",
+            "我还因身份免除租税和征役，回看自己的遭遇已这样酸辛，普通百姓又要承受多少扰攘！默默想到失去生计的人，又想到远方戍守的士兵，忧虑便像终南山那样高大，又像漫无边际的水势，怎么也无法收束。"
+          ]
+        },
+        {
+          "field": "reviewNotes",
+          "before": [
+            "补核“秋未／秋禾”确有版本与阐释分歧：《杜诗详注》用“秋禾”，《杜诗阐》讨论“不必作秋禾”。本制作稿保留归档的“秋未”，不以常见读法径判误字；详细证据见 text-proposals/001-105.json。",
+            "“贫𪧘”“𫶇嵲”“樛嶱”等生僻字须校字形及字体覆盖。“酒肉臭”有臭味与香气等读解，不把争议译成确定的酒肉腐坏。"
+          ],
+          "after": [
+            "补核“秋未／秋禾”确有版本与阐释分歧：《杜诗详注》用“秋禾”，《杜诗阐》讨论“不必作秋禾”。本制作稿保留归档的“秋未”，不以常见读法径判误字；详细证据见 text-proposals/001-105.json。",
+            "“贫𪧘”“𫶇嵲”“樛嶱”等生僻字须校字形及字体覆盖。“酒肉臭”有臭味与香气等读解，不把争议译成确定的酒肉腐坏。",
+            "语义复核：“忍为尘埃没”取岂肯被尘埃埋没的反问语气，承接盖棺以前不放弃济民志愿；不译为甘受埋没的让步。"
+          ]
+        }
+      ],
+      "finalCommentarySha256": "3e6e06e88ee1c5b4996d29b3996bf2485947562f8658f673eefea3dd3cca1f71"
+    },
+    {
+      "id": "yizhu-3aefc236bd838537",
+      "order": 29,
+      "title": "咏田家",
+      "author": "聂夷中",
+      "assessment": "revise",
+      "issueDecisions": [
+        {
+          "issueIndex": 0,
+          "action": "revised",
+          "targetFields": [
+            "interpretation"
+          ],
+          "reason": "恢复“不照／只照”的否定关系，避免把诗人的社会批评译成同时照顾权贵的加法。"
+        }
+      ],
+      "changes": [
+        {
+          "field": "interpretation",
+          "before": [
+            "二月蚕丝尚未收成，已经卖掉将来的新丝；五月谷物还没成熟，又低价卖去将来的收获。这样的周转看似治好眼前的疮，却像割掉心头的肉，透支了以后的活路。",
+            "我愿君王的心化成一支明亮的蜡烛，不只照耀绫罗华服的宴席，更去照见因贫困而逃亡的人家，让那些藏在暗处的苦难被看见。"
+          ],
+          "after": [
+            "二月蚕丝尚未收成，已经卖掉将来的新丝；五月谷物还没成熟，又低价卖去将来的收获。这样的周转看似治好眼前的疮，却像割掉心头的肉，透支了以后的活路。",
+            "我愿君王的心化成一支明亮的蜡烛，不要照耀绫罗华服的宴席，只去照见那些因贫困与赋役而逃亡的人家，让那些藏在暗处的苦难被看见。"
+          ]
+        }
+      ],
+      "finalCommentarySha256": "d24e45e4936ac0500302852e01d9185c058a63af39ac766b6ae32c55dbb99978"
+    },
+    {
+      "id": "yizhu-f3737ebcf8e5a861",
+      "order": 30,
+      "title": "长安古意",
+      "author": "卢照邻",
+      "assessment": "interpretive-uncertainty",
+      "issueDecisions": [
+        {
+          "issueIndex": 0,
+          "action": "clarified",
+          "targetFields": [
+            "basis",
+            "reviewNotes"
+          ],
+          "reason": "不将萧何古注判错；正文保留萧相官称，词注并列萧望之与萧何；屠苏暂取酒宴读法并说明屋名另解。"
+        },
+        {
+          "issueIndex": 1,
+          "action": "clarified",
+          "targetFields": [
+            "basis",
+            "reviewNotes"
+          ],
+          "reason": "不将萧何古注判错；正文保留萧相官称，词注并列萧望之与萧何；屠苏暂取酒宴读法并说明屋名另解。"
+        }
+      ],
+      "changes": [
+        {
+          "field": "basis",
+          "before": {
+            "text": "依据完整原诗及已归档来源自行撰写；未引用现代译文",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.2000.json"
+            ],
+            "verificationRefs": [
+              "https://zh.wikisource.org/wiki/長安古意",
+              "https://zh.wikisource.org/zh-hant/長安古意"
+            ]
+          },
+          "after": {
+            "text": "依据完整原诗及已归档来源自行撰写；未引用现代译文",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.2000.json"
+            ],
+            "verificationRefs": [
+              "https://zh.wikisource.org/wiki/長安古意",
+              "https://www.shidianguji.com/zh/book/NA11858/chapter/1m8o3hiaj3jgf",
+              "https://www.gushiwen.cn/shiwenv.aspx?id=ac6684b5da86",
+              "https://zh.wikisource.org/zh-hant/長安古意"
+            ]
+          }
+        },
+        {
+          "field": "glossary",
+          "before": [
+            {
+              "term": "狭斜",
+              "text": "曲折的小街巷。"
+            },
+            {
+              "term": "金茎",
+              "text": "承露盘下高大的铜柱，借汉代宫苑设施写帝都豪华。"
+            },
+            {
+              "term": "鸦黄",
+              "text": "古代女子额上的黄色妆饰。"
+            },
+            {
+              "term": "探丸",
+              "text": "游侠以探取弹丸分派行动的典故。"
+            },
+            {
+              "term": "金吾",
+              "text": "古代执掌京城警卫的官。"
+            },
+            {
+              "term": "扬子",
+              "text": "扬雄，以清贫著述的生活与权贵豪奢相对照。"
+            },
+            {
+              "term": "连甍",
+              "text": "相接的屋脊。诗中双阙的屋檐舒展，仿佛凤凰垂下的双翼。"
+            }
+          ],
+          "after": [
+            {
+              "term": "狭斜",
+              "text": "曲折的小街巷。"
+            },
+            {
+              "term": "金茎",
+              "text": "承露盘下高大的铜柱，借汉代宫苑设施写帝都豪华。"
+            },
+            {
+              "term": "鸦黄",
+              "text": "古代女子额上的黄色妆饰。"
+            },
+            {
+              "term": "探丸",
+              "text": "游侠以探取弹丸分派行动的典故。"
+            },
+            {
+              "term": "金吾",
+              "text": "古代执掌京城警卫的官。"
+            },
+            {
+              "term": "扬子",
+              "text": "扬雄，以清贫著述的生活与权贵豪奢相对照。"
+            },
+            {
+              "term": "连甍",
+              "text": "相接的屋脊。诗中双阙的屋檐舒展，仿佛凤凰垂下的双翼。"
+            },
+            {
+              "term": "萧相",
+              "text": "本处通行解为汉元帝时受弘恭、石显排挤的萧望之；明蒋一葵《唐诗选》另注为相国萧何，存在古注分歧。"
+            },
+            {
+              "term": "屠苏",
+              "text": "此处按酒名解释，“翡翠”形容酒色；屠苏也有屋舍义，古注说明其原为庵名、因造酒而转为酒名。"
+            }
+          ]
+        },
+        {
+          "field": "interpretation",
+          "before": [
+            "长安大道连着曲折小巷，装饰华美的牛车马车来往不绝。贵人车驾穿行公主府第与侯门，车盖上的龙凤映着朝日与晚霞；长长的游丝绕树，娇鸟在花间争鸣，城中千门万户都是春色。楼阁碧树交错，空中廊道与雕花窗相连，两座宫阙的屋顶如展翅凤凰；豪家的画阁高耸，承露的金茎也像伸入云外。",
+            "楼上楼下、街头陌上相遇的人，虽彼此望见，却未必相识。诗接着转入对青春情爱的想象：如能得到心爱的人相伴，便不惜生命；宁愿成为成双的鱼与鸳鸯，也不羡慕神仙。连帐上孤独的鸾鸟都嫌寂寞，只想把双燕贴到帘上。成双的燕子绕着画梁，罗帏翠被透着郁金香气，美人的鬓发与额饰精巧，盛装出行，各有娇姿。",
+            "俊美少年跨着花纹骏马，歌楼门户也装饰华丽。天色渐晚，官府周围乌雀啼栖，车帷却仍沿着城道远去。杜陵北有人携弹放鹰，渭桥西有人召募游侠；佩剑少年相约，来到歌妓居处共宿。黄昏的紫裙与婉转歌声留住来客，北堂夜夜佳人如月，南陌朝朝车骑如云，热闹街路连接着几处市集，杨柳青槐间尘土与繁华气象一道升起。",
+            "执掌京城警卫的显贵带着众多骑从而来，置身华美屋宇、举起珍异酒杯。歌舞女子解开衣带，为客人献上各地歌舞。还有更为豪奢的将相，争着凭权势左右局面，彼此毫不相让；诗借灌夫遭排挤、萧何受猜忌等古事，写权贵容不得异己。他们骑着骏马得意于春风，自信歌舞富贵能延续千年，骄奢远超旧日贵族。",
+            "但节序风光从不等人，沧海桑田也可倏忽变换。当初的金阶玉堂，如今只剩青松。与喧闹相对，是扬雄那样寂寞清贫的居处，年年只有满床书卷；山上的桂花独自开放，香气飘来，轻轻沾上衣襟。繁华易尽，沉静的学问与自守之心却有另一种长久。"
+          ],
+          "after": [
+            "长安大道连着曲折小巷，装饰华美的牛车马车来往不绝。贵人车驾穿行公主府第与侯门，车盖上的龙凤映着朝日与晚霞；长长的游丝绕树，娇鸟在花间争鸣，城中千门万户都是春色。楼阁碧树交错，空中廊道与雕花窗相连，两座宫阙的屋顶如展翅凤凰；豪家的画阁高耸，承露的金茎也像伸入云外。",
+            "楼上楼下、街头陌上相遇的人，虽彼此望见，却未必相识。诗接着转入对青春情爱的想象：如能得到心爱的人相伴，便不惜生命；宁愿成为成双的鱼与鸳鸯，也不羡慕神仙。连帐上孤独的鸾鸟都嫌寂寞，只想把双燕贴到帘上。成双的燕子绕着画梁，罗帏翠被透着郁金香气，美人的鬓发与额饰精巧，盛装出行，各有娇姿。",
+            "俊美少年跨着花纹骏马，歌楼门户也装饰华丽。天色渐晚，官府周围乌雀啼栖，车帷却仍沿着城道远去。杜陵北有人携弹放鹰，渭桥西有人召募游侠；佩剑少年相约，来到歌妓居处共宿。黄昏的紫裙与婉转歌声留住来客，北堂夜夜佳人如月，南陌朝朝车骑如云，热闹街路连接着几处市集，杨柳青槐间尘土与繁华气象一道升起。",
+            "执掌京城警卫的显贵带着众多骑从而来，饮着翡翠色的屠苏美酒，举起珍异的鹦鹉杯。歌舞女子解开衣带，为客人献上各地歌舞。还有更为豪奢的将相，争着凭权势左右局面，彼此毫不相让；诗借灌夫受排挤、萧相不容于掌权者等古事，写权贵容不得异己。他们骑着骏马得意于春风，自信歌舞富贵能延续千年，骄奢远超旧日贵族。",
+            "但节序风光从不等人，沧海桑田也可倏忽变换。当初的金阶玉堂，如今只剩青松。与喧闹相对，是扬雄那样寂寞清贫的居处，年年只有满床书卷；山上的桂花独自开放，香气飘来，轻轻沾上衣襟。繁华易尽，沉静的学问与自守之心却有另一种长久。"
+          ]
+        },
+        {
+          "field": "reviewNotes",
+          "before": [
+            "制作稿已校订：“甍”是屋脊，与复道、交窗、双阙、凤翼共同描写建筑；“薨”通常指诸侯等去世，于此义不合。核对《长安古意》的古诗电子文本作“双阙连甍垂凤翼”，建议将此处“薨”校为“甍”，并保留原始来源记录。本次只提出这一字的呈现修订。 原始 poems.json 保留原貌，本次仅用于独立编辑预览，尚非纸书终校。",
+            "初稿记录（归档底本）：正文“双阙连薨”疑为“双阙连甍”（相接的屋脊），原典文本已见“甍”，源文未改。大量汉代人名、官名用于借古写盛衰，不应把全部场景画成同一历史事件。"
+          ],
+          "after": [
+            "制作稿已校订：“甍”是屋脊，与复道、交窗、双阙、凤翼共同描写建筑；“薨”通常指诸侯等去世，于此义不合。核对《长安古意》的古诗电子文本作“双阙连甍垂凤翼”，建议将此处“薨”校为“甍”，并保留原始来源记录。本次只提出这一字的呈现修订。 原始 poems.json 保留原貌，本次仅用于独立编辑预览，尚非纸书终校。",
+            "初稿记录（归档底本）：正文“双阙连薨”疑为“双阙连甍”（相接的屋脊），原典文本已见“甍”，源文未改。大量汉代人名、官名用于借古写盛衰，不应把全部场景画成同一历史事件。",
+            "语义复核：“萧相”有萧望之与萧何两说，正文暂保留官称；“翡翠屠苏”有美酒与华屋读法，本稿取酒宴语境的屠苏酒，不径判另说为误。"
+          ]
+        }
+      ],
+      "finalCommentarySha256": "c35dba5dd7233bf8ad0b652b0bab29450db727e5ec8c2604e55f798929dca926"
+    },
+    {
+      "id": "yizhu-873a9dd8fedf78eb",
+      "order": 31,
+      "title": "代悲白头吟",
+      "author": "刘希夷",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "ec5a015a175c90574ee5767bb8b225e0f37612eb115a358376ae04ab93b94597"
+    },
+    {
+      "id": "yizhu-a6bdf70848c441ec",
+      "order": 32,
+      "title": "饮中八仙歌",
+      "author": "杜甫",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "328baaee2bedb31f38e6c3828e1e69f56b4308b392f2cac86cc28094d4c01363"
+    },
+    {
+      "id": "yizhu-85f57e822a5eff50",
+      "order": 33,
+      "title": "雁门太守行",
+      "author": "李贺",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "fc2ce38a4abe27ed371208651ccce22aae845bfa899559058f5976d467ae95bd"
+    },
+    {
+      "id": "yizhu-e8d9e6396bc188a1",
+      "order": 34,
+      "title": "金铜仙人辞汉歌",
+      "author": "李贺",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "1594a5ec20019c7c54d16af93cbdd7970cee82a0c9d644a4540ea8d2691d9fa6"
+    },
+    {
+      "id": "yizhu-d5f0476d20fdcad7",
+      "order": 35,
+      "title": "致酒行",
+      "author": "李贺",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "d080e504b71e0c9e386b7ce8161f6ba576bceb5ee0b4a3b7e103e0dc45b79fbd"
+    },
+    {
+      "id": "yizhu-24a386f1d0e1bb54",
+      "order": 36,
+      "title": "野望",
+      "author": "王绩",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "4a6f08c4503e256e4180fc0ffcdd4934edecc74f7f5e78a50b13e9bd7e56c490"
+    },
+    {
+      "id": "yizhu-7968f964d40de859",
+      "order": 37,
+      "title": "正月十五夜",
+      "author": "苏味道",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "328f273308f3053280ff792b17fa08985ea66554aef163c32a9199e212bfcff1"
+    },
+    {
+      "id": "yizhu-444a0ce4ebffe52f",
+      "order": 38,
+      "title": "题大禹寺义公禅房",
+      "author": "孟浩然",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "472359c06e412c6443fba1afa59fbcfec98618f683e0ef920785953a734384df"
+    },
+    {
+      "id": "yizhu-d82faeb7efdeb7f8",
+      "order": 39,
+      "title": "秋夜独坐",
+      "author": "王维",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "08ea6dc84ca834d5ef51e0c545fe0f2ceec5a309027fb26809b966a82c52d374"
+    },
+    {
+      "id": "yizhu-320270075e2d7b36",
+      "order": 40,
+      "title": "塞下曲六首 一",
+      "author": "李白",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "3699f4147b9b3784bf3293a6309925bb49111c44952731bf2e20b65b23b094ec"
+    },
+    {
+      "id": "yizhu-ade4087e0b09e485",
+      "order": 41,
+      "title": "春日忆李白",
+      "author": "杜甫",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "b35523e6839c6438f26fbfd56f4c94d2c623b80aa4980af045817abca6ecfb15"
+    },
+    {
+      "id": "yizhu-3ea255ae5fcb81d9",
+      "order": 42,
+      "title": "房兵曹胡马诗",
+      "author": "杜甫",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "f6cdb9fdeb742142b7d139f73eaaf296e609da3bcddc2c714e0a436985486108"
+    },
+    {
+      "id": "yizhu-488e461abecf4d5e",
+      "order": 43,
+      "title": "省试湘灵鼓瑟",
+      "author": "钱起",
+      "assessment": "interpretive-uncertainty",
+      "issueDecisions": [
+        {
+          "issueIndex": 0,
+          "action": "clarified",
+          "targetFields": [
+            "basis",
+            "reviewNotes"
+          ],
+          "reason": "不指定湘灵的哀思从苍梧传来；保留苍梧葬舜与乐声怨慕的联系，并说明主语有不同释读。"
+        }
+      ],
+      "changes": [
+        {
+          "field": "basis",
+          "before": {
+            "text": "依据完整原诗及已归档来源自行撰写；未引用现代译文",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.12000.json"
+            ],
+            "verificationRefs": []
+          },
+          "after": {
+            "text": "依据完整原诗及已归档来源自行撰写；未引用现代译文",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.12000.json"
+            ],
+            "verificationRefs": [
+              "https://www.shidianguji.com/zh/book/JINANLIB03064/chapter/1lx15r1id3u3e",
+              "https://m.gushiwen.cn/mingju/juv_04e3ab84240c.aspx",
+              "https://cool.ntu.edu.tw/files/1342321/download?download_frd=1"
+            ]
+          }
+        },
+        {
+          "field": "interpretation",
+          "before": [
+            "常听说湘水的神女善于弹奏云和瑟。河神仿佛随声起舞，漂泊楚地的人却承受不住其中的悲哀。琴调连金石都似为之凄楚，清澈的声音升入幽远天空。",
+            "她的哀思从苍梧一带传来，像在追慕远去的舜，岸边白芷也被激发出芳香。乐声随流水传向潇湘水滨，又化作悲凉的风吹过洞庭。等到一曲终了，已看不见奏瑟者，只剩江上几座青山，寂静地承接着未尽之音。"
+          ],
+          "after": [
+            "常听说湘水的神女善于弹奏云和瑟。河神仿佛随声起舞，漂泊楚地的人却承受不住其中的悲哀。琴调连金石都似为之凄楚，清澈的声音升入幽远天空。",
+            "瑟声牵动了与苍梧葬舜相连的哀怨与思慕，岸边白芷也仿佛随声吐出芳香。乐声随流水传向潇湘水滨，又化作悲凉的风吹过洞庭。等到一曲终了，已看不见奏瑟者，只剩江上几座青山，寂静地承接着未尽之音。"
+          ]
+        },
+        {
+          "field": "reviewNotes",
+          "before": [
+            "此诗十二句为五言排律，虽原书列“五律”，页面排版须按实际句数。帝子、湘灵与舜妃的神话关系存在传说叠合，解说不强求单一谱系。"
+          ],
+          "after": [
+            "此诗十二句为五言排律，虽原书列“五律”，页面排版须按实际句数。帝子、湘灵与舜妃的神话关系存在传说叠合，解说不强求单一谱系。",
+            "语义复核：“苍梧来怨慕”有舜灵受瑟声感动而来、湘灵瑟声寄托怀舜哀思等读解；苍梧先指舜葬地，不强定“她的哀思从苍梧传来”的路线。"
+          ]
+        }
+      ],
+      "finalCommentarySha256": "d5b183514a647c1f27f436f12578bca616c4009f0a039b08387ac290c3b81b3e"
+    },
+    {
+      "id": "yizhu-e4a6874197df2930",
+      "order": 44,
+      "title": "题李凝幽居",
+      "author": "贾岛",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "30d91371d5df39d9ed193442a7edc96784bbc813a3ec306970c6355953183de0"
+    },
+    {
+      "id": "yizhu-e0c7823d3af8fb4f",
+      "order": 45,
+      "title": "忆江上吴处士",
+      "author": "贾岛",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "90e729fa56752e3a6cd53c7734fc963e9b2ce5978e58c24f4f15649f97f5363e"
+    },
+    {
+      "id": "yizhu-ceb3ce9e6f23d140",
+      "order": 46,
+      "title": "题扬州禅智寺",
+      "author": "杜牧",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "ec81ef57f2aca310a9183d9dc7554028bb69dd7af1b31265bb292fafdeb038bb"
+    },
+    {
+      "id": "yizhu-5ee627f18eec074b",
+      "order": 47,
+      "title": "晚晴",
+      "author": "李商隐",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "89ab215a6239af1c92557c8860ba5a922bfd3e680c9cd07cd8ae9a1197925b09"
+    },
+    {
+      "id": "yizhu-b8a5b9a7e27f797c",
+      "order": 48,
+      "title": "商山早行",
+      "author": "温庭筠",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "68fc0fed87be42ec4cdcfc2416d11f3c2495a5ea3e224a489a41cfd2b74fbcd3"
+    },
+    {
+      "id": "yizhu-544bd83c17680a2c",
+      "order": 49,
+      "title": "秋兴八首 一",
+      "author": "杜甫",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "deb22a6413f4244ecc3b9826be43e5f54e4ba97db3e3eab324325084de5ee95b"
+    },
+    {
+      "id": "yizhu-413683288473521d",
+      "order": 50,
+      "title": "曲江二首 二",
+      "author": "杜甫",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "ffadd7e153f4421b9f7d8cb9e59768160e55020689a45b8d490304f92cddbdb4"
+    },
+    {
+      "id": "yizhu-73714dbbf0cf0ee3",
+      "order": 51,
+      "title": "江上值水如海势聊短述",
+      "author": "杜甫",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "9371334418c90dc760731ac7852b2cf3e325e0cf21b1158883d2da886f7a29df"
+    },
+    {
+      "id": "yizhu-a41921ac08510403",
+      "order": 52,
+      "title": "献淮宁军节度使李相公",
+      "author": "刘长卿",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "09d92fed8ff9015ba235c6ab80c8788c861ec7049855b4aa90a91a6e4f3dbd25"
+    },
+    {
+      "id": "yizhu-6aa17caab9f8b2ea",
+      "order": 53,
+      "title": "夏夜宿表兄话旧",
+      "author": "窦叔向",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "a5c98daf906ba1bcab769f07035d1207297f3ecacc7739515f1304648c7aad2c"
+    },
+    {
+      "id": "yizhu-161c01906b04bd1b",
+      "order": 54,
+      "title": "始闻秋风",
+      "author": "刘禹锡",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "702d8f5a65d347215a99223d870da97618d97ea50ec7e8b416e6f0a35ec64fc4"
+    },
+    {
+      "id": "yizhu-b39c3ec3a2e80a17",
+      "order": 55,
+      "title": "放言五首 三",
+      "author": "白居易",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "c53ff073054b52a0c9f22675abff43ca22e9b6c52d14304dbebf2fc8dc0aacad"
+    },
+    {
+      "id": "yizhu-adf4b5cda2b88111",
+      "order": 56,
+      "title": "别舍弟宗一",
+      "author": "柳宗元",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "e311d8a66f5bcf2b0036120f14432bd60e8f75b6d778362057e370f9c448e541"
+    },
+    {
+      "id": "yizhu-ed9c3b19ab78dd76",
+      "order": 57,
+      "title": "九日齐安登高",
+      "author": "杜牧",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "93c3dd4ca8161e1f2276c53226e21ca8213105ad70f05c13ccd2bc2bb1444f1f"
+    },
+    {
+      "id": "yizhu-f566dae78afc131e",
+      "order": 58,
+      "title": "马嵬二首 二",
+      "author": "李商隐",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "018658f06455568df8108ba68d670bc57487dc9079af6c566d188d8cf1b7786a"
+    },
+    {
+      "id": "yizhu-d820d3e0ce4d3055",
+      "order": 59,
+      "title": "伤乱",
+      "author": "韩偓",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "2e466ccf7469e8cd73eb9ddb3a45174a6eb7e4b99fd09db8dc0eed4a4f4fdf86"
+    },
+    {
+      "id": "yizhu-43528a26a60da9d9",
+      "order": 60,
+      "title": "山中寡妇",
+      "author": "杜荀鹤",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "7bb1ba003ea649858bce1c546fd5c71173ec561a927a860ea59fdc56075aa896"
+    },
+    {
+      "id": "yizhu-3235391bcbbe2384",
+      "order": 61,
+      "title": "秋宿湘江遇雨",
+      "author": "谭用之",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "3fdfcaa1511d8cff17e3c8e744ec3e1f5d9acb930a28e6eb9bb24b1ee77fe8a8"
+    },
+    {
+      "id": "yizhu-a57d736e983d8b03",
+      "order": 62,
+      "title": "蝉",
+      "author": "虞世南",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "ac8940287b985fea9085e8add34b89e29456fd63e7b2d84e7acdd1d1a598fa81"
+    },
+    {
+      "id": "yizhu-5ae3131b9e1a5354",
+      "order": 63,
+      "title": "于易水送人",
+      "author": "骆宾王",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "a34dc3b9ae94002d07cf46b7a0deaa6b9e752d82670cc5ad6462603ed4c1cf08"
+    },
+    {
+      "id": "yizhu-644d02502a0cd21b",
+      "order": 64,
+      "title": "秋浦歌十七首 十四",
+      "author": "李白",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "47adae40199837e9af600b7b2844f5eb6684ff3ca2916e29dc3c8340b4093d28"
+    },
+    {
+      "id": "yizhu-023c7ea7424c5d26",
+      "order": 65,
+      "title": "秋浦歌十七首 十五",
+      "author": "李白",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "c521b7233d378ab679bbc97ef65b7a9dcde6a599b0e64a08942869b992c1993d"
+    },
+    {
+      "id": "yizhu-02af59611398ae08",
+      "order": 66,
+      "title": "独坐敬亭山",
+      "author": "李白",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "28f6da770ff52f6aa24e8771e5760e3fcf241bba8b03b69e3a5441d7751eb09a"
+    },
+    {
+      "id": "yizhu-97fd080a94419b18",
+      "order": 67,
+      "title": "绝句二首 一",
+      "author": "杜甫",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "64af43b2b8c958c3fe5d50933d705aa5293ca14bd7f99288afc90e51ee889763"
+    },
+    {
+      "id": "yizhu-6dff5ef67b41e83b",
+      "order": 68,
+      "title": "剑客",
+      "author": "贾岛",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "2fdfc83465f11b4fe1a6daabd7c7bc7ca5a782e4d55d2fa364421bbaf7b84dd5"
+    },
+    {
+      "id": "yizhu-2edf2c8d3bc75b19",
+      "order": 69,
+      "title": "江行无题一百首 六十八",
+      "author": "钱珝",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "6beebe3e4ed298d76d56724fd730a2a3f3bcc1d4602516f979a8ec837e174798"
+    },
+    {
+      "id": "yizhu-a491b5ea79d79310",
+      "order": 70,
+      "title": "题红叶",
+      "author": "宣宗宫人",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "292e7a9a1364da1d6073285c23b2bb946debe6503ed6fb13730e63692f8b013f"
+    },
+    {
+      "id": "yizhu-85bbe362b2ffead7",
+      "order": 71,
+      "title": "荅人",
+      "author": "太上隐君",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "4241e46489834ad3f5820a79b0966f2e7efaa42b08e04f3e9c83267aeb0d79a7"
+    },
+    {
+      "id": "yizhu-61bf98cd957e268b",
+      "order": 72,
+      "title": "塞上听吹笛",
+      "author": "高适",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "075b7d2b64f09332bd9da9b797b1f2436dc7a6ebe44610d86d17b0f8886211bf"
+    },
+    {
+      "id": "yizhu-a81faf7f6003c564",
+      "order": 73,
+      "title": "别董大二首 一",
+      "author": "高适",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "6c969b54a29ced5ec46288c2a66d602ff34048af29aadf3e12283c9dcbaeba02"
+    },
+    {
+      "id": "yizhu-8326588384876656",
+      "order": 74,
+      "title": "赠汪伦",
+      "author": "李白",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "be807b8ca8e235b2cdd42db6e0fc012c5ad1d292a442602d34b0d25000b396a4"
+    },
+    {
+      "id": "yizhu-b19e76bd6bae9b74",
+      "order": 75,
+      "title": "望天门山",
+      "author": "李白",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "d4ab98598ed4efa18c20fd69c47408c939df80b557243de1e3cadd292b0f75dc"
+    },
+    {
+      "id": "yizhu-4afdd0eb157e969d",
+      "order": 76,
+      "title": "与史郎中钦听黄鹤楼上吹笛",
+      "author": "李白",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "d7888d2cd80e3ff4698e4fd17afa0616a7c5981b8b6c8358c4d9bcf5af5ec827"
+    },
+    {
+      "id": "yizhu-dde372cfe430385e",
+      "order": 77,
+      "title": "戏赠杜甫",
+      "author": "李白",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "e01489504f6c64d2030c8cb1b9486f4a643b2954ec9f97887a0905694ff23a5a"
+    },
+    {
+      "id": "yizhu-30e5a723cd282cfd",
+      "order": 78,
+      "title": "戏为六绝句 二",
+      "author": "杜甫",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "e758e0f5d49ee2d369ee0c2048559d51f4033aa668a2b84d3735503fa3dd5439"
+    },
+    {
+      "id": "yizhu-c196071b1bfd4db1",
+      "order": 79,
+      "title": "赠花卿",
+      "author": "杜甫",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "40fce42245715bba53e2dbef936c9d1876403d0bc521b85464a87dd1f2ac7d0c"
+    },
+    {
+      "id": "yizhu-539c8259b08aa595",
+      "order": 80,
+      "title": "兰溪棹歌",
+      "author": "戴叔伦",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "43bd25f534c4a4eee2cf7b534108e6fdd3f608261fc0963e0aec9f2dddee1048"
+    },
+    {
+      "id": "yizhu-0206697548357784",
+      "order": 81,
+      "title": "题都城南庄",
+      "author": "崔护",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "36b55636b3c165d74a4a1dbaf434f7bef37d8748e382789c73b1f56f19683a27"
+    },
+    {
+      "id": "yizhu-d0ef83f2f67206d2",
+      "order": 82,
+      "title": "春雪",
+      "author": "韩愈",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "61470b16e6ae31fb17aef9e6ecd8cda51ecd0dfff9f27aa917e0ea13dafc38a4"
+    },
+    {
+      "id": "yizhu-cc66abbcb2258a48",
+      "order": 83,
+      "title": "早春呈水部张十八员外二首 一",
+      "author": "韩愈",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "2bed6bfa9b1002bd42d3daf347ecbfb814c5fc892299fe47d20e00a2ebffbda1"
+    },
+    {
+      "id": "yizhu-08b0f4744fe5c4b5",
+      "order": 84,
+      "title": "浪淘沙九首 一",
+      "author": "刘禹锡",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "5c60c2d706941d1b27e953ab7c8e227f81d52327ba84ba36dfee8ffac7445d05"
+    },
+    {
+      "id": "yizhu-9a8f4a102349b247",
+      "order": 85,
+      "title": "再游玄都观",
+      "author": "刘禹锡",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "4df39a12bf56245f037ed6bd62ca8558aab98cc98bc43f3bb7058d56350a18ad"
+    },
+    {
+      "id": "yizhu-c5f51db6220a5729",
+      "order": 86,
+      "title": "赏牡丹",
+      "author": "刘禹锡",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "d3473b2c6543a82c9ba303001e1c18e64f910dab4cf504ace908d11b29d51977"
+    },
+    {
+      "id": "yizhu-9dbf0502988eb768",
+      "order": 87,
+      "title": "秋词二首 一",
+      "author": "刘禹锡",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "59ca66a7c85d2d20c2aa9b78fa5ca7c99ea2a81df78794f59d8c089c7a618da0"
+    },
+    {
+      "id": "yizhu-50f6a48f21358e1e",
+      "order": 88,
+      "title": "暮江吟",
+      "author": "白居易",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "2b5536aefbeb69a91ef1ef42fc0ede8570549193c8b4d3c247f7f41a389b1299"
+    },
+    {
+      "id": "yizhu-a8e4bcce1aceeed9",
+      "order": 89,
+      "title": "江南春绝句",
+      "author": "杜牧",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "a07c31db7a7020492a11875987bf9d5d6f5874595c59ba0e6e3f712586618976"
+    },
+    {
+      "id": "yizhu-b6dbef9cd6ad7146",
+      "order": 90,
+      "title": "过华清宫绝句三首 一",
+      "author": "杜牧",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "a7689246a6c4b9f01d206c20f68da2e14d8a480fd3289187eb3ea38d8e44b9b0"
+    },
+    {
+      "id": "yizhu-af6e40af1d96c5d2",
+      "order": 91,
+      "title": "叹花",
+      "author": "杜牧",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "6d9710b3650cba9e94724f6562b07af55d8eb4102337e6b3590bd88877d20152"
+    },
+    {
+      "id": "yizhu-8281c9158adaeff6",
+      "order": 92,
+      "title": "谢亭送别",
+      "author": "许浑",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "05d9365ded93ea9ed29e744208f8334093378cefc4b01e6bcf498ceed6953d91"
+    },
+    {
+      "id": "yizhu-6f97236359abefda",
+      "order": 93,
+      "title": "题鹤林寺僧舍",
+      "author": "李涉",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "ca4ec94132bfd563f57df6a00a9b0779f3d8cad617a70d121fb8485e3d515602"
+    },
+    {
+      "id": "yizhu-cf2e4d3b499271f7",
+      "order": 94,
+      "title": "宿骆氏亭寄怀崔雍衮",
+      "author": "李商隐",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "3dc94058ba7c65a823c7ffaa59de46fac11123240b65d5b6822b9793ce5c728c"
+    },
+    {
+      "id": "yizhu-2fd33e58a17815e5",
+      "order": 95,
+      "title": "韩冬郎即席为诗相送一座尽惊他日余方追吟连宵侍坐裴回久之句有老成之风因成二绝寄酬兼呈畏之员外 一",
+      "author": "李商隐",
+      "assessment": "revise",
+      "issueDecisions": [
+        {
+          "issueIndex": 0,
+          "action": "revised",
+          "targetFields": [
+            "summary",
+            "interpretation"
+          ],
+          "reason": "将冷灰残烛还原为回忆饯别席场景，删除断言韩冬郎原诗含此内容的增写。"
+        },
+        {
+          "issueIndex": 1,
+          "action": "revised",
+          "targetFields": [
+            "summary",
+            "interpretation"
+          ],
+          "reason": "将冷灰残烛还原为回忆饯别席场景，删除断言韩冬郎原诗含此内容的增写。"
+        }
+      ],
+      "changes": [
+        {
+          "field": "basis",
+          "before": {
+            "text": "依据完整原诗及已归档来源自行撰写；未引用现代译文",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.29000.json"
+            ],
+            "verificationRefs": []
+          },
+          "after": {
+            "text": "依据完整原诗及已归档来源自行撰写；未引用现代译文",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.29000.json"
+            ],
+            "verificationRefs": [
+              "https://www.gushiwen.cn/mingju/juv.aspx?id=5286eb45430e",
+              "https://ourartnet.com/Sikuquanshu/Zhuanti/Shici/029.asp",
+              "https://ctext.org/wiki.pl?chapter=428324&if=gb"
+            ]
+          }
+        },
+        {
+          "field": "interpretation",
+          "before": [
+            "韩冬郎十岁便能极快作诗，写到炉灰渐冷、烛火将尽时的离情，让一座宾客都为之动容。想象丹山远路上桐花繁盛，凤凰相鸣，小凤凰的声音竟比老凤凰还清亮；这是夸赞年轻一代才情早发，也向他的父亲表达欣慰与敬意。"
+          ],
+          "after": [
+            "韩冬郎十岁便能在席上极快作诗，令一座宾客惊叹。回忆当年炉灰已冷、烛火将残的饯别夜，离情仍被触动。想象丹山远路上桐花繁盛，凤凰相鸣，小凤凰的声音竟比老凤凰还清亮；这是夸赞年轻一代才情早发，也向他的父亲表达欣慰与敬意。"
+          ]
+        },
+        {
+          "field": "reviewNotes",
+          "before": [
+            "韩冬郎通常指韩偓，其父韩瞻字畏之；长题中引用其送别诗句，应与本首正文分开，不把题中字句追加成原诗。"
+          ],
+          "after": [
+            "韩冬郎通常指韩偓，其父韩瞻字畏之；长题中引用其送别诗句，应与本首正文分开，不把题中字句追加成原诗。",
+            "语义复核：“冷灰残烛”在本诗中先按当年饯别席的回忆场景理解；题中所引韩冬郎原句不能证明这四字也是韩冬郎诗的内容，不把本诗画面挪作其原诗具体措辞。"
+          ]
+        },
+        {
+          "field": "summary",
+          "before": "十岁的孩子当席成诗，竟能写出烛残夜深时的送别情。诗人把父子比作丹山凤凰，欣喜地听见雏凤的声音已经格外清亮。",
+          "after": "十岁的孩子当席迅速成诗，令一座宾客惊叹；炉灰已冷、烛火将残的饯别夜，仍留着动人的离情。诗人把父子比作丹山凤凰，欣喜地听见雏凤的声音已经格外清亮。"
+        }
+      ],
+      "finalCommentarySha256": "19184931cf5615d668f07c71e602e62fd2c827d9eadaaf45ece6a270aae79569"
+    },
+    {
+      "id": "yizhu-2dead8a4a99296b0",
+      "order": 96,
+      "title": "赠项斯",
+      "author": "杨敬之",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "c6eb3bd969cb04a8644f853f54048b2a4f29c8c16b6598d89fc23438c0f4c09f"
+    },
+    {
+      "id": "yizhu-2a4e57838fcc98bd",
+      "order": 97,
+      "title": "淮上与友人别",
+      "author": "郑谷",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "baaec1277636b1052dd5e5eecd02cdb226d101e51ad1026ead6c909865ff960e"
+    },
+    {
+      "id": "yizhu-a6a7e2200f3b8792",
+      "order": 98,
+      "title": "下第后上永崇高侍郎",
+      "author": "高蟾",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "53a2078991f03602341c8a9ea1a5fbc446abe420f17ba456cbf884eca76285e3"
+    },
+    {
+      "id": "yizhu-6e5ceb963ae8b76e",
+      "order": 99,
+      "title": "己亥岁二首 一",
+      "author": "曹松",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "66c41581f1c5a32bb0506635cc8e037408a6b0020f634737b1df9b10a90fc052"
+    },
+    {
+      "id": "yizhu-01d674b9f7d2610c",
+      "order": 100,
+      "title": "咏鹅",
+      "author": "骆宾王",
+      "assessment": "revise",
+      "issueDecisions": [
+        {
+          "issueIndex": 0,
+          "action": "revised",
+          "targetFields": [
+            "summary"
+          ],
+          "reason": "摘要与曲项字义、既有解读和词注统一为弯颈。"
+        }
+      ],
+      "changes": [
+        {
+          "field": "summary",
+          "before": "白鹅伸长脖颈，向着天空叫着，声音清亮而自在。白羽浮在绿水上，红掌轻拨，水面便漾开一道道波纹。",
+          "after": "白鹅弯着脖颈，向着天空叫着，声音清亮而自在。白羽浮在绿水上，红掌轻拨，水面便漾开一道道波纹。"
+        }
+      ],
+      "finalCommentarySha256": "a7fa1d7ac0cdf3b710fc9da1f5251c13a3f285f1a37d9376334168c46a3436ab"
+    },
+    {
+      "id": "yizhu-0f13e4bff2e42d96",
+      "order": 101,
+      "title": "杂歌谣辞 黄台瓜辞",
+      "author": "章怀太子",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "a4b4fef3087289342321da547adb28a4af8a6566828128d8ce893064280d32a7"
+    },
+    {
+      "id": "yizhu-f25fff9d1f292c6f",
+      "order": 102,
+      "title": "题张老松树",
+      "author": "宋之问",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "2bf13350a3cc5aa9c1b89f7087b33a41f0a9608ea9000336784a44347580477b"
+    },
+    {
+      "id": "yizhu-ce9f85366dfd2c37",
+      "order": 103,
+      "title": "叙怀二首 一",
+      "author": "张九龄",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "bb074c230939576f3ad91d0f8d792dd4523ed54b3a7ad717af122c9b881091dd"
+    },
+    {
+      "id": "yizhu-370f725b350d3dd3",
+      "order": 104,
+      "title": "失题",
+      "author": "王昌龄",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "f2adcc017265801bfc64f7e764eca9f450070d7e99e42c99c540165f860e8af9"
+    },
+    {
+      "id": "yizhu-39d0c9040c0577f5",
+      "order": 105,
+      "title": "江上琴兴",
+      "author": "常建",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "e5e63c68f1e09b39b1e0b60decd323cf79e0f2206165c405b391d3e9f41a747c"
+    },
+    {
+      "id": "yizhu-a88d5c158f3213c7",
+      "order": 106,
+      "title": "古朗月行",
+      "author": "李白",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "5133fcfa9657900ffd9a0e61a13818426b87e0b83d6b87a3fc9068f2af4d7bc2"
+    },
+    {
+      "id": "yizhu-2cb4f2f447c87293",
+      "order": 107,
+      "title": "丁督护歌",
+      "author": "李白",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "32aba5b1ba6759ed216933546dc10898b3dfb8d25377492f52f1f9964ca8a40f"
+    },
+    {
+      "id": "yizhu-56784ed87e28db70",
+      "order": 108,
+      "title": "古风 三",
+      "author": "李白",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "c3ec160247849adb3538f3d39ce3b94f32375bfa0e20ade832626ad387dcdd54"
+    },
+    {
+      "id": "yizhu-7a6b554f8ae37b2d",
+      "order": 109,
+      "title": "送杨山人归嵩山",
+      "author": "李白",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "447f987e1b819fd4d15a3de8b227da78469c28670932a5c58093362098ee1c0b"
+    },
+    {
+      "id": "yizhu-59339b04d8546fa9",
+      "order": 110,
+      "title": "前出塞九首 六",
+      "author": "杜甫",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "78c527a680f2519ddac11f9518f14e015f304e61c9500d0dd3fa4f821fd42541"
+    },
+    {
+      "id": "yizhu-8532b2840376f247",
+      "order": 111,
+      "title": "羌村 一",
+      "author": "杜甫",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "5cab07c1032f3b264559315136f8350534c1e215ec4e4c13bf65d3cabdcc8033"
+    },
+    {
+      "id": "yizhu-8236d4a136e952ea",
+      "order": 112,
+      "title": "观田家",
+      "author": "韦应物",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "ff2bcaf78fa847766e233f633847720a27ce0360b5a9ca18da0a557e4ccfebdf"
+    },
+    {
+      "id": "yizhu-05835816f18e6b27",
+      "order": 113,
+      "title": "调张籍",
+      "author": "韩愈",
+      "assessment": "revise",
+      "issueDecisions": [
+        {
+          "issueIndex": 0,
+          "action": "revised",
+          "targetFields": [
+            "interpretation",
+            "glossary"
+          ],
+          "reason": "经营落实为诗歌构思，神游者与织女关系写清，保留不借车驾与天衣等解说差异。"
+        }
+      ],
+      "changes": [
+        {
+          "field": "basis",
+          "before": {
+            "text": "依据原诗及已归档来源",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.18000.json"
+            ],
+            "verificationRefs": [
+              "https://zh.wikisource.org/zh/調張籍"
+            ]
+          },
+          "after": {
+            "text": "依据原诗及已归档来源",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.18000.json"
+            ],
+            "verificationRefs": [
+              "https://zh.wikisource.org/zh/調張籍",
+              "https://ctext.org/text.pl?if=en&node=173120&remap=gb",
+              "https://meirishici.com/poetry/Q5c"
+            ]
+          }
+        },
+        {
+          "field": "glossary",
+          "before": [
+            {
+              "term": "蚍蜉",
+              "text": "大蚂蚁。"
+            },
+            {
+              "term": "六丁",
+              "text": "道教传说中的神灵，此处为上天取诗的神兵。"
+            },
+            {
+              "term": "汗漫",
+              "text": "广阔无边的空间。"
+            },
+            {
+              "term": "颉颃",
+              "text": "上下翻飞。"
+            }
+          ],
+          "after": [
+            {
+              "term": "蚍蜉",
+              "text": "大蚂蚁。"
+            },
+            {
+              "term": "六丁",
+              "text": "道教传说中的神灵，此处为上天取诗的神兵。"
+            },
+            {
+              "term": "汗漫",
+              "text": "广阔无边的空间。"
+            },
+            {
+              "term": "颉颃",
+              "text": "上下翻飞。"
+            },
+            {
+              "term": "经营",
+              "text": "此指诗歌的构思经营，末段劝张籍不拘于细碎章句，追求李杜的开阔境界。"
+            },
+            {
+              "term": "乞君",
+              "text": "这里是给你、赠与你，不是向对方乞求。"
+            }
+          ]
+        },
+        {
+          "field": "interpretation",
+          "before": [
+            "李白与杜甫的文章仍在，光芒万丈。无知的人何苦蓄意诋毁，正像蚂蚁想摇动大树，不知自己的分量。我生在他们之后，只能引颈遥望，夜里常梦见他们，白昼寻思，反而难以把握。",
+            "我们只能看见作品留下的斧凿痕迹，不能亲见他们运思创作的情形；就像看到治水的遗迹，却不见当初行舟勘察的人。想象他们下手时，巨刃向天挥动，崖岸豁开，天地发出雷鸣。",
+            "偏偏这两位大师生计多半荒凉。仿佛上天为了让他们长久吟咏，便使他们时起时倒，像剪去羽翎的鸟被关在笼中，只能看别的鸟飞翔。他们一生诗篇精美如金玉，诗又想象仙官命神兵把大部分取上天，留在人间的只如泰山上一根细毛。",
+            "我愿生出双翅，追寻他们直到八方尽头；真诚若能与之相通，万般奇景便进入胸中。探手拔取鲸牙，举瓢酌取天浆，腾身于无边天宇，连织女的行程也不受拘束。回头对地上的朋友说，不必只忙于眼前筹划，赠你飞霞之佩，与我一同在高空飞翔。"
+          ],
+          "after": [
+            "李白与杜甫的文章仍在，光芒万丈。无知的人何苦蓄意诋毁，正像蚂蚁想摇动大树，不知自己的分量。我生在他们之后，只能引颈遥望，夜里常梦见他们，白昼寻思，反而难以把握。",
+            "我们只能看见作品留下的斧凿痕迹，不能亲见他们运思创作的情形；就像看到治水的遗迹，却不见当初行舟勘察的人。想象他们下手时，巨刃向天挥动，崖岸豁开，天地发出雷鸣。",
+            "偏偏这两位大师生计多半荒凉。仿佛上天为了让他们长久吟咏，便使他们时起时倒，像剪去羽翎的鸟被关在笼中，只能看别的鸟飞翔。他们一生诗篇精美如金玉，诗又想象仙官命神兵把大部分取上天，留在人间的只如泰山上一根细毛。",
+            "我愿生出双翅，追寻他们直到八方尽头；真诚若能与之相通，万般奇景便进入胸中。探手拔取鲸牙，举瓢酌取天浆，腾身于无边天宇，自由驰骋，连织女星的车驾也不必借助。回头对地上的张籍说，不必只忙于细碎的诗句经营；赠你飞霞之佩，与我一同飞翔，追寻高远开阔的诗境。"
+          ]
+        },
+        {
+          "field": "reviewNotes",
+          "before": [
+            "不著织女襄涉及织女运行典故，古注有字形、训释差异；此处保留超越拘束的诗意，不细定神话路线。"
+          ],
+          "after": [
+            "语义复核：“不著织女襄”有不用织女车驾、连织女所织天衣也不穿等解释。本文取前说写神游自在，不把织女本人的行程说成主语；不可据此指定天界路线。"
+          ]
+        }
+      ],
+      "finalCommentarySha256": "b356882200482d098a7c936848f2d5074a653c6b388f1d5af780f87f87808d11"
+    },
+    {
+      "id": "yizhu-b36e0246c6a17469",
+      "order": 114,
+      "title": "观刈麦",
+      "author": "白居易",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "344eac9a1444161a965dac6d19456ed3a222224341ce1d7b5afec92f4d033e05"
+    },
+    {
+      "id": "yizhu-13ebdd098d8ba7ab",
+      "order": 115,
+      "title": "李都尉古劒",
+      "author": "白居易",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "5f3fbb74578558ffee3775f3074a5ec65773e5f793b0ebfe7211358973254617"
+    },
+    {
+      "id": "yizhu-a952b9a2bfd9c56a",
+      "order": 116,
+      "title": "长安羁旅行",
+      "author": "孟郊",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "9404381656508cad05083ce3c59fed0f467895a892b275e9c2537399a1d73e1b"
+    },
+    {
+      "id": "yizhu-ae60637468dadc2c",
+      "order": 117,
+      "title": "游终南山",
+      "author": "孟郊",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "8ab26d76d691f79e71acb43737e736d0adf5b1e0da063d06bdf9981110db84b0"
+    },
+    {
+      "id": "yizhu-cd08297678958ae4",
+      "order": 118,
+      "title": "正乐府十篇 橡媪叹",
+      "author": "皮日休",
+      "assessment": "revise",
+      "issueDecisions": [
+        {
+          "issueIndex": 0,
+          "action": "revised",
+          "targetFields": [
+            "summary",
+            "interpretation"
+          ],
+          "reason": "写清官吏挪用官粮放私债、收后归还本金取利的通行解；根代理另改摘要，区分一天拾满一筐与晒蒸后充作冬粮。"
+        }
+      ],
+      "changes": [
+        {
+          "field": "basis",
+          "before": {
+            "text": "依据原诗及已归档来源",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.33000.json"
+            ],
+            "verificationRefs": []
+          },
+          "after": {
+            "text": "依据原诗及已归档来源",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.33000.json"
+            ],
+            "verificationRefs": [
+              "https://m.gushiwen.cn/mingju/juv_1b986bda41dd.aspx",
+              "https://poetryh.com/F011Archives/02bOldChnCollections/唐诗鉴赏辞(萧涤非).pdf",
+              "https://doosho.com/cn/1119/141"
+            ]
+          }
+        },
+        {
+          "field": "interpretation",
+          "before": [
+            "深秋橡子成熟，散在荒草山冈；一位白发老妇弯着腰，踏着晨霜拾取。许久才满一捧，终日才满一筐，再晒再蒸，才拿来充作整个冬天的口粮。",
+            "山前本有成熟的稻谷，紫色稻穗散发香气，仔细收割、舂磨后，每粒都像玉坠。可这些粮食送给官府，家中却没有一点储存；一石多的粮食交上去，竟只被算作五斗。",
+            "奸吏不怕刑罚，贪官不避赃污，农忙时借出的私人债务，收成后又把粮食逼进他们掌握的仓中。老妇只好从冬到春，拿橡实哄着饥肠。我听说田成子即使假行仁义，尚知以宽厚收揽人心；今天遇见这位拾橡子的老人，怎能不悲叹落泪。"
+          ],
+          "after": [
+            "深秋橡子成熟，散在荒草山冈；一位白发老妇弯着腰，踏着晨霜拾取。许久才满一捧，终日才满一筐，再晒再蒸，才拿来充作整个冬天的口粮。",
+            "山前本有成熟的稻谷，紫色稻穗散发香气，仔细收割、舂磨后，每粒都像玉坠。可这些粮食送给官府，家中却没有一点储存；一石多的粮食交上去，竟只被算作五斗。",
+            "奸吏不怕刑罚，贪官不避赃污：农忙时挪用官粮放作私债，收成后再把本金归还官仓，从中取利，盘剥农人。老妇只好从冬到春，拿橡实哄着饥肠。我听说田成子即使假行仁义，尚知以施惠收揽人心；今天遇见这位拾橡子的老人，怎能不悲叹落泪。"
+          ]
+        },
+        {
+          "field": "summary",
+          "before": "秋霜里，老妇弯腰捡橡子，辛苦一天才凑成冬粮。山前的稻米却尽送官仓，贪吏还在量斗上盘剥，诗人听得泪湿衣襟。",
+          "after": "秋霜里，老妇弯腰捡橡子，终日才拾满一筐，晒蒸后充作冬粮。山前的稻米却尽送官仓，贪吏还在量斗上盘剥，诗人见此泪湿衣襟。"
+        }
+      ],
+      "finalCommentarySha256": "28b9008f56347b8b49413c96a558c7dd5bbd556f86959c323c0d1aa7e44b32fe"
+    },
+    {
+      "id": "yizhu-8091478d4d4dbd34",
+      "order": 119,
+      "title": "滕王阁",
+      "author": "王勃",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "ff037c38d36885fa252c0a5fe265a851348dae1269b99f896abc833304ac3b18"
+    },
+    {
+      "id": "yizhu-fc339b59d5c62888",
+      "order": 120,
+      "title": "送刘昱",
+      "author": "李颀",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "4c5996b386110c5d65521efc668cdace049c0f56fc9346e7f272ee725584263c"
+    },
+    {
+      "id": "yizhu-79f5b8acd86596c1",
+      "order": 121,
+      "title": "人日寄杜二拾遗",
+      "author": "高适",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "0401e72545164057195bc82afe4bef8adddc45caf6bf2da061c4e745932d807e"
+    },
+    {
+      "id": "yizhu-0d2df8debe074fcf",
+      "order": 122,
+      "title": "胡笳歌送颜真卿使赴河陇",
+      "author": "岑参",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "08ad0b0701f52c1ccfdc95d1226a22e333b0349eefb156b4940057057bc6cb56"
+    },
+    {
+      "id": "yizhu-6981c4e00ba1f533",
+      "order": 123,
+      "title": "战城南",
+      "author": "李白",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "3b9d44e2c969601cf3090c024f2bac468ffd5ca653f1cfd43df87d4ecbbf1306"
+    },
+    {
+      "id": "yizhu-e85490ec49cfaa36",
+      "order": 124,
+      "title": "把酒问月",
+      "author": "李白",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "3784dd0b210042ea0566432cde5e9f5d791b4800ba8a408a685c02b1e5fc0945"
+    },
+    {
+      "id": "yizhu-7b35012ff53b2316",
+      "order": 125,
+      "title": "听颖师弹琴",
+      "author": "韩愈",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "17635498507b743a8f6a76147f1ed058d996de25d86b197530ca285e5e8b4316"
+    },
+    {
+      "id": "yizhu-66cd7c20bbab2a1d",
+      "order": 126,
+      "title": "节妇吟寄东平李司空师道",
+      "author": "张籍",
+      "assessment": "revise",
+      "issueDecisions": [
+        {
+          "issueIndex": 0,
+          "action": "revised",
+          "targetFields": [
+            "summary",
+            "glossary"
+          ],
+          "reason": "保留女子还珠的表层故事，同时在摘要和词注补明题名中婉拒李师道招揽的寄托。"
+        }
+      ],
+      "changes": [
+        {
+          "field": "basis",
+          "before": {
+            "text": "依据原诗及已归档来源",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json"
+            ],
+            "verificationRefs": [
+              "https://ctext.org/wiki.pl?chapter=801973&if=gb",
+              "https://zh.wikisource.org/wiki/節婦吟_(張籍)"
+            ]
+          },
+          "after": {
+            "text": "依据原诗及已归档来源",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json"
+            ],
+            "verificationRefs": [
+              "https://ctext.org/wiki.pl?chapter=801973&if=gb",
+              "https://zh.wikisource.org/wiki/節婦吟_(張籍)",
+              "https://www.cuhk.edu.cn/zh-hans/article/8943",
+              "https://graduate.cqu.edu.cn/info/1371/12257.htm"
+            ]
+          }
+        },
+        {
+          "field": "glossary",
+          "before": [
+            {
+              "term": "襦",
+              "text": "短上衣。"
+            },
+            {
+              "term": "良人",
+              "text": "妻子对丈夫的称呼。"
+            },
+            {
+              "term": "明光",
+              "text": "汉代宫殿名，此处借指宫廷。"
+            }
+          ],
+          "after": [
+            {
+              "term": "襦",
+              "text": "短上衣。"
+            },
+            {
+              "term": "良人",
+              "text": "妻子对丈夫的称呼。"
+            },
+            {
+              "term": "明光",
+              "text": "汉代宫殿名，此处借指宫廷。"
+            },
+            {
+              "term": "寄东平李司空师道",
+              "text": "题名点出寄赠对象李师道。此诗通常被解为以女子还珠婉拒招揽，表明不改所守；诗中婚恋情节是比兴，不是作者的个人经历。"
+            }
+          ]
+        },
+        {
+          "field": "summary",
+          "before": "赠珠的人明知女子已经有丈夫，仍送来一双明珠。她感念厚意，却含泪归还，以婉转的言辞守住与丈夫相守的誓约。",
+          "after": "女子感念赠珠人的厚意，却含泪还珠，守住已有的誓约。诗人借这段委婉而坚定的拒绝，寄意于对李师道招揽的回应。"
+        }
+      ],
+      "finalCommentarySha256": "af73b03cb2c2cecf8944ffb2aa6eb0f87d64e3d6008f05553a8388002e8a4ac1"
+    },
+    {
+      "id": "yizhu-d5fcfaf83a84a0df",
+      "order": 127,
+      "title": "水夫谣",
+      "author": "王建",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "da74753412fe81330672bb9b1c751d60ec8f01dcdfb4a1aaa09bcdaaed3d218f"
+    },
+    {
+      "id": "yizhu-9d76b0c4272ccc67",
+      "order": 128,
+      "title": "花非花",
+      "author": "白居易",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "32636c8f1ef2c4b87ede56218e69aec1aca9cd462cca9f153b670d35c8f38f1e"
+    },
+    {
+      "id": "yizhu-e1047d6a1b98b62f",
+      "order": 129,
+      "title": "将进酒",
+      "author": "李贺",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "cf636db5ec3c0f97c301cb24ce8e439cfc40978e7032acc1133f8209e7c271df"
+    },
+    {
+      "id": "yizhu-a755a1abe8cba890",
+      "order": 130,
+      "title": "咏风",
+      "author": "王勃",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "0f399fc0374069929072ad041db111999fd44b1cbe4c91c4bafd61f056d05818"
+    },
+    {
+      "id": "yizhu-4a88216298c3a2f7",
+      "order": 131,
+      "title": "夜宿七盘岭",
+      "author": "沈佺期",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "3236c5ae70344716c0cc1e90b8f3af1a41dbc06bb769a827ec29ce38d29b44b0"
+    },
+    {
+      "id": "yizhu-f98f00cd64b670ac",
+      "order": 132,
+      "title": "送著作佐郎崔融等从梁王东征",
+      "author": "陈子昂",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "3e3503128f4f62afb61def2cbbe9d32b5e0bdfe30468b68aeb5d1ec08ca3cf44"
+    },
+    {
+      "id": "yizhu-2223ffac378a52a6",
+      "order": 133,
+      "title": "送客",
+      "author": "陈子昂",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "57217921b8c7be24ff32b0f71eed13c0a6d1b522a7256855725a1ef173aa706a"
+    },
+    {
+      "id": "yizhu-5a625c9608482633",
+      "order": 134,
+      "title": "春夜别友人二首 一",
+      "author": "陈子昂",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "73656a5b167de936e94ffd6e2af994a0c198a5630a972707cce73fe3f0a301a6"
+    },
+    {
+      "id": "yizhu-cc29cfa96ef5d6f7",
+      "order": 135,
+      "title": "送李邕",
+      "author": "李峤",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "f68bbfbf28ff1209654a14699e46235f345a1275520d20c31b0746d7395720b1"
+    },
+    {
+      "id": "yizhu-6e1906d8c7cee98e",
+      "order": 136,
+      "title": "彩书怨",
+      "author": "上官昭容",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "a14b1aa73da23a2a2c70313de8bd897648cc660153e6103b1779277fcc308e43"
+    },
+    {
+      "id": "yizhu-9164aad9188fb29b",
+      "order": 137,
+      "title": "奉和圣制立春日侍宴内殿出翦彩花应制",
+      "author": "上官昭容",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "dbb1b1e59ebc22cf41c3594e3526e583ca5d7e82ac63b6f056fc2501876ec0ae"
+    },
+    {
+      "id": "yizhu-85597a8ea153a353",
+      "order": 138,
+      "title": "幽州夜饮",
+      "author": "张说",
+      "assessment": "interpretive-uncertainty",
+      "issueDecisions": [
+        {
+          "issueIndex": 0,
+          "action": "clarified",
+          "targetFields": [
+            "basis",
+            "reviewNotes"
+          ],
+          "reason": "反问难忘与宴饮暂忘均有解说根据；保留原稿的可通读法，只补明两说，不把能字直接定成确错。"
+        }
+      ],
+      "changes": [
+        {
+          "field": "basis",
+          "before": {
+            "text": "依据原诗及已归档来源",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.4000.json"
+            ],
+            "verificationRefs": []
+          },
+          "after": {
+            "text": "依据原诗及已归档来源",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.4000.json"
+            ],
+            "verificationRefs": [
+              "https://www.gushiwen.cn/gushiwen_5229deafc4.aspx",
+              "https://www.gushiwen.cn/shiwenv.aspx?id=072b1a3b49d9"
+            ]
+          }
+        },
+        {
+          "field": "reviewNotes",
+          "before": [],
+          "after": [
+            "语义复核：“能忘迟暮心”有两种释读：一说宴饮可以暂忘迟暮之忧，一说以反问强调虽有高堂宴仍难忘忧。现稿采用后一说；公开注解也并存两说，不能单凭能字断定其一错误。末联可从感念恩遇、委婉怨望或二者交织来读，不据此落实为全篇只有颂恩或只有讽刺。"
+          ]
+        }
+      ],
+      "finalCommentarySha256": "c59e276e852529943bf012f0ccc645e8f1511595823daff85d426d9665e4baf9"
+    },
+    {
+      "id": "yizhu-3dde98270b38570b",
+      "order": 139,
+      "title": "咏燕",
+      "author": "张九龄",
+      "assessment": "revise",
+      "issueDecisions": [
+        {
+          "issueIndex": 0,
+          "action": "revised",
+          "targetFields": [
+            "interpretation"
+          ],
+          "reason": "岂知按哪里知道解释，保留燕借衔泥与无心争竞求容的比兴。"
+        }
+      ],
+      "changes": [
+        {
+          "field": "basis",
+          "before": {
+            "text": "依据原诗及已归档来源",
+            "sourceRefs": [
+              "https://www.zggdwx.com/shici/2383.html",
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.3000.json"
+            ],
+            "verificationRefs": []
+          },
+          "after": {
+            "text": "依据原诗及已归档来源",
+            "sourceRefs": [
+              "https://www.zggdwx.com/shici/2383.html",
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.3000.json"
+            ],
+            "verificationRefs": [
+              "https://poetryh.com/F011Archives/02bOldChnCollections/唐诗鉴赏辞(萧涤非).pdf"
+            ]
+          }
+        },
+        {
+          "field": "interpretation",
+          "before": [
+            "海燕是多么微小，趁着春天暂来栖住。它哪里嫌弃泥土卑贱，只看见华美厅堂的门户敞开，就衔泥而入。",
+            "燕子时常成双飞进绣户，一天数次经过华轩；它并没有与其他鸟争夺的心，鹰隼也请不要怀疑、伤害它。借燕的口吻，诗说出求容于世而无意争竞的心情。"
+          ],
+          "after": [
+            "海燕是多么微小，趁着春天暂来栖住。它哪里知道泥土的卑贱，只见华美厅堂的门户敞开，便衔泥而入。",
+            "燕子时常成双飞进绣户，一天数次经过华轩；它并没有与其他鸟争夺的心，鹰隼也请不要怀疑、伤害它。借燕的口吻，诗说出求容于世而无意争竞的心情。"
+          ]
+        }
+      ],
+      "finalCommentarySha256": "4262665714f8c529416658ba459e3e52592e756faa233336fbd3afad5e583065"
+    },
+    {
+      "id": "yizhu-9bacec71631cb657",
+      "order": 140,
+      "title": "寄江滔求孟六遗文",
+      "author": "刘眘虚",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "0ba3c7b5694e1a8c98f067f8d03426de8f872c5bcf41cf9d9f2ed68831a4a5a0"
+    },
+    {
+      "id": "yizhu-b637454bda9c280b",
+      "order": 141,
+      "title": "望秦川",
+      "author": "李颀",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "ca805973084141cfa54265f2ed05b8c2a82e6583247e48d5fa668aae7c9bb4f1"
+    },
+    {
+      "id": "yizhu-d95748a9f81b9e1d",
+      "order": 142,
+      "title": "胡笳曲",
+      "author": "王昌龄",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "8111d70231fb3e7cbca3ea3e6359f998576db7d95967b41df8383541e6738158"
+    },
+    {
+      "id": "yizhu-2f7901ac0629a7e6",
+      "order": 143,
+      "title": "晚泊浔阳望庐山",
+      "author": "孟浩然",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "e3527a8d66d4fff3bebc43294bfda1dd6b38e59676998bd52879e35e6855bb78"
+    },
+    {
+      "id": "yizhu-c3c41d1723150505",
+      "order": 144,
+      "title": "永嘉上浦馆逢张八子容",
+      "author": "孟浩然",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "d015a57cd481a7ccc3b3a8068f5d881fe9e10ca0cc61d3fccb8071b60ad9d369"
+    },
+    {
+      "id": "yizhu-811f71ccdd7b1ed2",
+      "order": 145,
+      "title": "舟中晓望",
+      "author": "孟浩然",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "c5340155c40f3cf984bc145b007e42089463cd97369136e41253001569562726"
+    },
+    {
+      "id": "yizhu-7c8f5c19787c1286",
+      "order": 146,
+      "title": "山居即事",
+      "author": "王维",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "86f38240a76446adb7ab20c2bf26d4f96d28e56d5e668115e5d2abb3519d904f"
+    },
+    {
+      "id": "yizhu-0d54a2651b87c2f2",
+      "order": 147,
+      "title": "登裴秀才迪小台",
+      "author": "王维",
+      "assessment": "interpretive-uncertainty",
+      "issueDecisions": [
+        {
+          "issueIndex": 0,
+          "action": "clarified",
+          "targetFields": [
+            "basis",
+            "reviewNotes"
+          ],
+          "reason": "补出的远林观察者不写成已知实有人；主文以若、或许限定视点，笔记记录省略关系。"
+        }
+      ],
+      "changes": [
+        {
+          "field": "basis",
+          "before": {
+            "text": "依据原诗及已归档来源",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json"
+            ],
+            "verificationRefs": []
+          },
+          "after": {
+            "text": "依据原诗及已归档来源",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json"
+            ],
+            "verificationRefs": [
+              "https://faculty.sites.iastate.edu/jia/files/inline-files/dufu-wangwei.pdf",
+              "https://www.gushiwen.cn/shiwenv_0b112f5e3824.aspx"
+            ]
+          }
+        },
+        {
+          "field": "interpretation",
+          "before": [
+            "安坐家中，不出门户便满眼都是云山。夕阳从飞鸟旁边沉下去，远处秋野在人群之外自在地展开。",
+            "我知道，在那远树林边的人，反而看不见我们所在的这一角屋檐；小台藏在景中，更显幽静。喜爱来访的客人多半会乘月而来，守门时可不要早早落闩。"
+          ],
+          "after": [
+            "安坐家中，不出门户便满眼都是云山。夕阳从飞鸟旁边沉下去，远处秋野在人群之外自在地展开。",
+            "遥想若从远林那边望来，或许反而看不见这一角屋檐；这是对小台幽隐位置的一种理解。喜爱来访的客人多半会乘月而来，守门时可不要早早落闩。"
+          ]
+        },
+        {
+          "field": "reviewNotes",
+          "before": [
+            "“遥知远林际，不见此檐间”语意较省，释为远处难见近檐的幽隐位置；正式终审宜复核注本。"
+          ],
+          "after": [
+            "语义复核：“遥知远林际，不见此檐间”语意较省，现解读将远处难见近檐写成一种幽隐视点；远林边的人为释义中补出的主语，不是诗中明示的人物。另有理解为远林与小台观景关系的解释，正式终审须以可靠王维诗集注本核定，不据现代译文强改。"
+          ]
+        }
+      ],
+      "finalCommentarySha256": "8968525f11bfac257ab165d6122b17ba1e0e6784b445de906661b76e682ecf0e"
+    },
+    {
+      "id": "yizhu-349c6169e45a856c",
+      "order": 148,
+      "title": "冬晚对雪忆胡居士家",
+      "author": "王维",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "d5528351a68f81e6126c395f306350ca3e363e7bd5825ee460d027006888cbda"
+    },
+    {
+      "id": "yizhu-9e5cda572cf07a2f",
+      "order": 149,
+      "title": "送郑侍御谪闽中",
+      "author": "高适",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "0cac16ab9347009dd6acb7f6ebeba9176ef04e09bfc31a4b1bbdb84e3c6354d2"
+    },
+    {
+      "id": "yizhu-30a530ead9358cb8",
+      "order": 150,
+      "title": "醉后赠张九旭",
+      "author": "高适",
+      "assessment": "revise",
+      "issueDecisions": [
+        {
+          "issueIndex": 0,
+          "action": "revised",
+          "targetFields": [
+            "interpretation"
+          ],
+          "reason": "恢复能更几回眠的开放问意，不写成允许多睡的许可。"
+        }
+      ],
+      "changes": [
+        {
+          "field": "basis",
+          "before": {
+            "text": "依据原诗及已归档来源",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json"
+            ],
+            "verificationRefs": []
+          },
+          "after": {
+            "text": "依据原诗及已归档来源",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json"
+            ],
+            "verificationRefs": [
+              "https://www.gushiwen.cn/shiwenv_10bbba8bd65e.aspx",
+              "https://www.pinshiwen.com/gsdq/tspx/2019050517991.html"
+            ]
+          }
+        },
+        {
+          "field": "interpretation",
+          "before": [
+            "世上许多相识只浮在表面，这位老人却全然不同。他兴致来了，书法自然出神入化；醉后说话，更显率真狂放。",
+            "白发与年老可看作闲事，高远志气仍在眼前。床头有一壶酒，喝后再睡几回也无妨，诗人以亲昵口吻赞他超脱世俗的风度。"
+          ],
+          "after": [
+            "世上许多相识只浮在表面，这位老人却全然不同。他兴致来了，书法自然出神入化；醉后说话，更显率真狂放。",
+            "白发与年老可看作闲事，高远志气仍在眼前。床头放着一壶酒，还能这样醉眠几回呢？诗人用亲昵而带问意的口吻写他的超脱风度，留下悠然的余韵。"
+          ]
+        }
+      ],
+      "finalCommentarySha256": "0d4d6644d5a68f8133f84bba15cc9cdaae1cfd5fa2a295bcd37f03ad7b90ca7e"
+    },
+    {
+      "id": "yizhu-8f799f1c3c3b03a9",
+      "order": 151,
+      "title": "送李侍御赴安西",
+      "author": "高适",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "fb18b0d75bec99eca66facc56c0dda2800ef32c5e2ee1f997be13b21d0fd3ecf"
+    },
+    {
+      "id": "yizhu-e107bee505d548ba",
+      "order": 152,
+      "title": "登总持阁",
+      "author": "岑参",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "9fad089d065d269b5769e4e0cf7e7a42707a80e8dd4a856765df9cd5f1376e82"
+    },
+    {
+      "id": "yizhu-6b9a2c15611a9d5c",
+      "order": 153,
+      "title": "巴南舟中夜市",
+      "author": "岑参",
+      "assessment": "revise",
+      "issueDecisions": [
+        {
+          "issueIndex": 0,
+          "action": "revised",
+          "targetFields": [
+            "summary"
+          ],
+          "reason": "删除正文没有的“不忍看月”动作，使摘要与不堪论的愁难言说相合。"
+        }
+      ],
+      "changes": [
+        {
+          "field": "summary",
+          "before": "黄昏渡口人声喧闹，寺钟与村火渐次浮现。孤舟中的客人却从雁影、猿声里想起故乡，连秋月也不忍多看。",
+          "after": "黄昏渡口人声喧闹，寺钟与村火渐次浮现。孤舟中的客人从雁影、猿声里想起故乡，对着秋月，万里漂泊的乡愁更难说尽。"
+        }
+      ],
+      "finalCommentarySha256": "26ca4f22a0f1a333dc64215a3c43b1775e6e93f91db27c670fa3e13302baf4d5"
+    },
+    {
+      "id": "yizhu-17182130b363d0e6",
+      "order": 154,
+      "title": "武威春暮闻宇文判官西使还已到晋昌",
+      "author": "岑参",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "e2ef79900b9e3345073ccdbcaf67d103bbbbbbc151f1e39ac0ebad3a8decc1a6"
+    },
+    {
+      "id": "yizhu-1f6423c4b21135b5",
+      "order": 155,
+      "title": "咏山泉",
+      "author": "储光羲",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "808333d3ad244e623644897901a9da3744b477df243d2ec7e378989d8fa64a8c"
+    },
+    {
+      "id": "yizhu-06c25370a335cdbb",
+      "order": 156,
+      "title": "奉试明堂火珠",
+      "author": "崔曙",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "a9e3c3432fd843e94d86b2b9c3a852fde2a977de8e6dbab563dda02ec029b1ed"
+    },
+    {
+      "id": "yizhu-9e4cdfe8469bf5ba",
+      "order": 157,
+      "title": "途中晓发",
+      "author": "崔曙",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "2dc6e8a7ad940163127581926d5adb5a9be4bc1bff37e4e74a1869f5d9f71ef3"
+    },
+    {
+      "id": "yizhu-a95bf955adec4476",
+      "order": 158,
+      "title": "江南旅情",
+      "author": "祖咏",
+      "assessment": "revise",
+      "issueDecisions": [
+        {
+          "issueIndex": 0,
+          "action": "revised",
+          "targetFields": [
+            "interpretation"
+          ],
+          "reason": "保留身在南方、欲寄北乡音书而难达的对照，不把北风拟为已实际执行向北传信的顺风。"
+        }
+      ],
+      "changes": [
+        {
+          "field": "basis",
+          "before": {
+            "text": "依据原诗及已归档来源",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.6000.json"
+            ],
+            "verificationRefs": []
+          },
+          "after": {
+            "text": "依据原诗及已归档来源",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.6000.json"
+            ],
+            "verificationRefs": [
+              "https://www.quanxue.cn/ct_rujia/qianjias/qianjias208.html",
+              "https://www.gushiwen.cn/mingju/juv_06206b271009.aspx"
+            ]
+          }
+        },
+        {
+          "field": "interpretation",
+          "before": [
+            "楚地群山看不到尽头，归乡的路只觉遥远萧条。天晴时望海，水气仍像蒙雨；入夜听江声，才更分明听出潮涨潮落。",
+            "佩剑留在靠近南斗星域的南方，书信却要托北风寄向遥远故里。想告诉潭边的橘树：你结着好果，我却无人相托，不能把它们送到洛阳朋友那里。"
+          ],
+          "after": [
+            "楚地群山看不到尽头，归乡的路只觉遥远萧条。天晴时望海，水气仍像蒙雨；入夜听江声，更分明听出潮涨潮落。",
+            "我身佩长剑，仍留在南斗所对应的南方；书信想寄往遥远北方故里，却难以传达。潭边的橘子虽好，我也找不到可托付的人，把它们送到洛阳亲友那里。远山与江潮之间，连这点家乡音问也不易相通。"
+          ]
+        },
+        {
+          "field": "reviewNotes",
+          "before": [
+            "尾联橘潭的地名、景物解释尚需注本复核，本稿不把“空潭”定为某一确切景点。"
+          ],
+          "after": [
+            "语义复核：“空潭橘”的地名、景物解释尚需注本复核，本稿不把空潭定为某一确切景点。“书寄北风遥”联系南居、北乡和寄书难达解释，不把从北吹向南的风写成替诗人运送北向家书的顺风，也不强加雁已衔书等情节。"
+          ]
+        }
+      ],
+      "finalCommentarySha256": "3d189ca166239cc3bda5293dc6c8342b22cc7fed8dc5d6e07753cceb12c336fd"
+    },
+    {
+      "id": "yizhu-054b5998ad63c3b9",
+      "order": 159,
+      "title": "塞下曲六首 三",
+      "author": "李白",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "4649508f33ad6c100161e971c4d31a74bbf1a345c0df81036da20a2a3cbc6e33"
+    },
+    {
+      "id": "yizhu-0f79730257d6c84c",
+      "order": 160,
+      "title": "塞下曲六首 五",
+      "author": "李白",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "61fd73493c62ba04c0eedce28566779a8f2970ede95cbf3afcd46714ac85b039"
+    },
+    {
+      "id": "yizhu-fb3d752bef9a661e",
+      "order": 161,
+      "title": "送友人入蜀",
+      "author": "李白",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "8916869b6d6b5a308efb055edae5d44a976d2a87965405538cd5496052850b1d"
+    },
+    {
+      "id": "yizhu-23049350661b66c9",
+      "order": 162,
+      "title": "秋登宣城谢朓北楼",
+      "author": "李白",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "cafdc86c4d579aef11a686da80d7bcfecb6eda498343475e8f51e92e58b6fc0c"
+    },
+    {
+      "id": "yizhu-42bd9ca37fccffb5",
+      "order": 163,
+      "title": "访戴天山道士不遇",
+      "author": "李白",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "41a3885f4c40e2fc77a26fcb377fabadc920bae30bed44f092bbbd0faa99a422"
+    },
+    {
+      "id": "yizhu-758d86baafcf84d9",
+      "order": 164,
+      "title": "观胡人吹笛",
+      "author": "李白",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "7fa6f192168ec88b33d843bb5033c7874bfffea56ccba5eaa01801a131cff8dc"
+    },
+    {
+      "id": "yizhu-b241f1bb8b7f6f0c",
+      "order": 165,
+      "title": "江夏别宋之悌",
+      "author": "李白",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "fdb5a8d6fb45ca843395f74862fc41b2655583dd0cf37ae8e86ea8d30ababca1"
+    },
+    {
+      "id": "yizhu-4f97d4634f016f6b",
+      "order": 166,
+      "title": "送张舍人之江东",
+      "author": "李白",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "423845a6f9fb60e9b10d19b0b4ee1a0bab341200e34d68552a41beceb891c03a"
+    },
+    {
+      "id": "yizhu-816306623d0b747b",
+      "order": 167,
+      "title": "广陵赠别",
+      "author": "李白",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "31a9ac6bba99084d2a269e02f79a4348b2debba0eb951d3073d65e6282441da2"
+    },
+    {
+      "id": "yizhu-5c0a7e0b2794a4d9",
+      "order": 168,
+      "title": "过崔八丈水亭",
+      "author": "李白",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "b91d536c1e9fe6c66ddf4edb074df943fd42b0b05317bda44a115ca877266698"
+    },
+    {
+      "id": "yizhu-e745437e567f41d0",
+      "order": 169,
+      "title": "宿五松山下荀媪家",
+      "author": "李白",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "6657703fdfa82db8e1be156f677b95ecfd9bfdb637d51c5b9527b06e6c27aa65"
+    },
+    {
+      "id": "yizhu-bcb2760b2915b596",
+      "order": 170,
+      "title": "夜宴左氏庄",
+      "author": "杜甫",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "e7553e15745eb88c75e08bd56a8004ba712020818397ebfac3cf118da43bb317"
+    },
+    {
+      "id": "yizhu-57ad928e09e1204d",
+      "order": 171,
+      "title": "天河",
+      "author": "杜甫",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "90deaa3a4f8fa2edf8b3ead48953d66f94103f4aaaa706ad7b138a9093d23532"
+    },
+    {
+      "id": "yizhu-c1c3b87ff02d6d3e",
+      "order": 172,
+      "title": "野望",
+      "author": "杜甫",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "8890f56c80c6be0a2dadf79a8a24e115d6af896bfa97613add9b2a5d7e25840f"
+    },
+    {
+      "id": "yizhu-0130438e20af81a9",
+      "order": 173,
+      "title": "后游",
+      "author": "杜甫",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "301df38394f442d93b367f74896d2433e0597258018f95835ab2da6496a4278b"
+    },
+    {
+      "id": "yizhu-8b288388bb7ad81c",
+      "order": 174,
+      "title": "江亭",
+      "author": "杜甫",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "f1e85243590c9cc6c70ceb7b7e03a87df80ed70fc51189233b119be31e53fecb"
+    },
+    {
+      "id": "yizhu-59e007fb2c2b12fc",
+      "order": 175,
+      "title": "月",
+      "author": "杜甫",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "54c4b4ae09a1c0ea125067cef0ed1cfe62bda47b99f0de8ed43a98acaeea1031"
+    },
+    {
+      "id": "yizhu-bc59c6b363451f18",
+      "order": 176,
+      "title": "江汉",
+      "author": "杜甫",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "fda981a313fe9af6fe283a52a549266832ae93d1cbe5ebb37f7e668bc161d5d5"
+    },
+    {
+      "id": "yizhu-6bfaa3a4465fdfb4",
+      "order": 177,
+      "title": "水槛遣心二首 一",
+      "author": "杜甫",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "99d5dee0e706a1164fea102bbb52b66d94f8aaaca912dc215d94f0339da7ba5c"
+    },
+    {
+      "id": "yizhu-11aa46e3ed9f0f50",
+      "order": 178,
+      "title": "陪诸贵公子丈八沟携妓纳凉晚际遇雨二首 一",
+      "author": "杜甫",
+      "assessment": "interpretive-uncertainty",
+      "issueDecisions": [
+        {
+          "issueIndex": 0,
+          "action": "clarified",
+          "targetFields": [
+            "basis",
+            "reviewNotes"
+          ],
+          "reason": "料理藕丝的画面保留，雪字词性与清洗、削制、洁白诸解并列，不独定形容词。"
+        }
+      ],
+      "changes": [
+        {
+          "field": "basis",
+          "before": {
+            "text": "依据原诗及已归档来源",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.11000.json"
+            ],
+            "verificationRefs": []
+          },
+          "after": {
+            "text": "依据原诗及已归档来源",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.11000.json"
+            ],
+            "verificationRefs": [
+              "https://www.scribd.com/document/896382577/十三行小字-江弱水",
+              "https://haitang.app/works/630572"
+            ]
+          }
+        },
+        {
+          "field": "glossary",
+          "before": [
+            {
+              "term": "雪藕丝",
+              "text": "雪白细嫩的藕丝；雪形容洁白。"
+            },
+            {
+              "term": "丈八沟",
+              "text": "地名，此处是游船纳凉之处。"
+            }
+          ],
+          "after": [
+            {
+              "term": "雪藕丝",
+              "text": "指料理洁白的藕丝。雪字有写洁白、清洗或削制等释读，此处不定具体制作动作。"
+            },
+            {
+              "term": "丈八沟",
+              "text": "地名，此处是游船纳凉之处。"
+            }
+          ]
+        },
+        {
+          "field": "reviewNotes",
+          "before": [],
+          "after": [
+            "语义复核：“雪藕丝”有以雪写洁白、以雪作清洗或削制动作等释读；现解读用料理雪白藕丝保持宴席饮食之意。词性及具体制作动作仍需以杜诗集校注等可靠注本复核，不据单一现代译文强改。"
+          ]
+        }
+      ],
+      "finalCommentarySha256": "9035b68e910f430fb0fba00e0debb4417e6bfb7be49e28108a8b9e1d8498ffe6"
+    },
+    {
+      "id": "yizhu-79d83fafaec00ab4",
+      "order": 179,
+      "title": "闻笛",
+      "author": "张巡",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "c242a823f54d9c6162c454ab9d98108fd6ebea8df1b972624a52afd34e9461e4"
+    },
+    {
+      "id": "yizhu-0645c7c55a298fee",
+      "order": 180,
+      "title": "渡扬子江",
+      "author": "丁仙芝",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "d661f42f68dcb4a7d27e1a2825e7db696fd140abb846016a3625b70b21eb42d0"
+    },
+    {
+      "id": "yizhu-0643d4651b35bf37",
+      "order": 181,
+      "title": "穆陵关北逢人归渔阳",
+      "author": "刘长卿",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "0a5f98de36ae6aea67cdbb99ab47b0b6ae0aef6537c2168dd591b4adf2084113"
+    },
+    {
+      "id": "yizhu-ab71790033df766f",
+      "order": 182,
+      "title": "和万年成少府寓直",
+      "author": "钱起",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "51207743d569fe793276bca0d53ff5e8a318a462115e5e807875ad6f5595cdb2"
+    },
+    {
+      "id": "yizhu-9f2e018f1b8609ea",
+      "order": 183,
+      "title": "盩厔县郑𥐟宅送钱大",
+      "author": "郎士元",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "f8bfef255fef1adcb4073aaf3707354be6195b123a457635f2217a1fda3a0a20"
+    },
+    {
+      "id": "yizhu-818223566f901515",
+      "order": 184,
+      "title": "竹窗闻风寄苗发司空曙",
+      "author": "李益",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "aae4d123778f593d0642f1c612d887544803e3103cf015296bfc7d1a0e973eaa"
+    },
+    {
+      "id": "yizhu-177016c7f723aa15",
+      "order": 185,
+      "title": "秋夜泛舟",
+      "author": "刘方平",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "a1e774a00ce0d09b2e0be744c18b7951b2eac6e04a0fb4b601cddbd51af76e0f"
+    },
+    {
+      "id": "yizhu-427a1abdff56f151",
+      "order": 186,
+      "title": "题邻居",
+      "author": "于鹄",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "7b749f356eb4de3c9661869baeeedb3e383da05dadb5c175a4868699f24cea9b"
+    },
+    {
+      "id": "yizhu-41ef8dccbf3a5af6",
+      "order": 187,
+      "title": "至七里滩作",
+      "author": "李嘉祐",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "23e883c6c20376ab04b5910a5f494834715e23c0ba9c81b3b2ad29f4eff57e94"
+    },
+    {
+      "id": "yizhu-4581c35c062f94ac",
+      "order": 188,
+      "title": "长城闻笛",
+      "author": "杨巨源",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "a63963d5dc408e63ead050a0abe0607ab60eb7fa7a1d7cb3598e9ffab5b4e60e"
+    },
+    {
+      "id": "yizhu-ae44e3fa071a2a81",
+      "order": 189,
+      "title": "题松汀驿",
+      "author": "张祜",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "234b8c4f8836f0bfa9cdd47c2ef95560455416a6770af7f57de1c902194caec2"
+    },
+    {
+      "id": "yizhu-929c38d010bd5949",
+      "order": 190,
+      "title": "咏风",
+      "author": "张祜",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "d5fca61c2bd8c3625d7720be7b2b6db2fb8ec39b78780e7eac297ed78b281401"
+    },
+    {
+      "id": "yizhu-db89a0fed55d2ba6",
+      "order": 191,
+      "title": "池州春送前进士蒯希逸",
+      "author": "杜牧",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "ac9950275dd60a6bf87229f414a5fbd6e5df49400e9d298d6085e9ce78c81c7d"
+    },
+    {
+      "id": "yizhu-14c98af445cdc277",
+      "order": 192,
+      "title": "客中",
+      "author": "于武陵",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "b3420089043b811c2063d743907764b48c96ae49ed1faaaba9864e56d9af1d97"
+    },
+    {
+      "id": "yizhu-9fbef28bdcaf2683",
+      "order": 193,
+      "title": "送人游吴",
+      "author": "杜荀鹤",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "8517b23b65aea894d46ec95bfe886b62d9a91f09d4282c091b573fec43c31f80"
+    },
+    {
+      "id": "yizhu-0417cd3171644211",
+      "order": 194,
+      "title": "春残",
+      "author": "翁宏",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "b1599b10728a589cdf13a7bd8b6cdab41060d27f52ff1b519332460dba5e9122"
+    },
+    {
+      "id": "yizhu-0e4bcc6b9b43e4c2",
+      "order": 195,
+      "title": "寄镜湖方干处士",
+      "author": "齐己",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "4fc810003bad2ce78e9339defe18e8766157bc6bc92a18683c465f7a97d2beee"
+    },
+    {
+      "id": "yizhu-a839f7e0c1fd72bf",
+      "order": 196,
+      "title": "首春渭西郊行呈蓝田张二主簿",
+      "author": "岑参",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "2f7685d21ef282f55314b9418b45459c763c36560db38e768881500c8a2530ad"
+    },
+    {
+      "id": "yizhu-90894c8bddc9e2f2",
+      "order": 197,
+      "title": "江村",
+      "author": "杜甫",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "eacc9d17ca60aa08e53f56e0649b1950f8fa5ea55d3ab76446aa1dcc452a0604"
+    },
+    {
+      "id": "yizhu-55d5c7536da19e20",
+      "order": 198,
+      "title": "九日蓝田崔氏庄",
+      "author": "杜甫",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "9fec7a8d4316a01c74c1d37ba1d2a0147dd42261412988ab7a4d307c75f8403d"
+    },
+    {
+      "id": "yizhu-965141fedde3c207",
+      "order": 199,
+      "title": "秋兴八首 三",
+      "author": "杜甫",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "fd4c6f78daabbb6f9db45f81cfbb1a8f43cbc0c1f1a287217ca302b1cf4c66ca"
+    },
+    {
+      "id": "yizhu-339e22da06691f7f",
+      "order": 200,
+      "title": "秋兴八首 四",
+      "author": "杜甫",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "976cffa7fbba8941036b55546c3b72469bc0e12ffdf867218b99ea276dd60b86"
+    },
+    {
+      "id": "yizhu-3a45270741e85e84",
+      "order": 201,
+      "title": "秋兴八首 七",
+      "author": "杜甫",
+      "assessment": "revise",
+      "issueDecisions": [
+        {
+          "issueIndex": 0,
+          "action": "revised",
+          "targetFields": [
+            "summary",
+            "interpretation"
+          ],
+          "reason": "恢复沉云黑与菰米黑密的比喻关系；摘要另区分织女虚月夜与石鲸动秋风。未来构思说明同步收紧，生成回执不改。"
+        }
+      ],
+      "changes": [
+        {
+          "field": "artDirection",
+          "before": "An old imperial lake in autumn: a weathered stone whale partly in water, a distant stone maiden, dark reflected clouds and faded lotus; an almost invisible fisherman at the edge, no living whale or goddess.",
+          "after": "An old imperial lake in autumn: a weathered stone whale partly in water, a distant stone maiden, dark clusters of wild-rice grains drifting on the water and fading pink lotus petals; an almost invisible fisherman at the edge. Treat the dark wild rice as cloud-like imagery, not a requirement for actual dark reflected clouds. No living whale or goddess."
+        },
+        {
+          "field": "basis",
+          "before": {
+            "text": "依据原诗及已归档来源",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.11000.json"
+            ],
+            "verificationRefs": []
+          },
+          "after": {
+            "text": "依据原诗及已归档来源",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.11000.json"
+            ],
+            "verificationRefs": [
+              "https://www.xhuqk.com/xhdxxbzskb/cn/article/pdf/preview/10.19642/j.issn.1672-8505.2013.04.002.pdf",
+              "https://agri-history.ihns.ac.cn/scholars/yxl/yxl69.htm"
+            ]
+          }
+        },
+        {
+          "field": "interpretation",
+          "before": [
+            "昆明池是汉代经营的旧迹，想来武帝的旌旗仍似在眼前。池旁织女石像空对月夜，不能真正织丝；石鲸的鳞甲却在秋风水动里仿佛有了生气。",
+            "水上漂着菰米，云影沉入池中一片幽黑，露水使莲蓬生寒，粉红荷花已坠落。通向京城的关塞遥接天边，只剩鸟道般难行的路，而我困在遍地江湖间，不过一个漂泊的渔翁。"
+          ],
+          "after": [
+            "昆明池是汉代经营的旧迹，想来武帝的旌旗仍似在眼前。池旁织女石像空对月夜，不能真正织丝；石鲸的鳞甲却在秋风水动里仿佛有了生气。",
+            "水上漂着菰米，黑密得如同沉沉的云；露水使莲蓬生寒，粉红荷花已经坠落。通向京城的关塞遥接天边，只剩鸟道般难行的路，而我困在遍地江湖间，不过一个漂泊的渔翁。"
+          ]
+        },
+        {
+          "field": "reviewNotes",
+          "before": [],
+          "after": [
+            "语义复核：“沉云黑”以云比菰米的黑密，不是另写云影沉入水中的实景。关于昆明池秋景究竟偏繁盛还是偏苍凉，前人注解有分歧；本稿保留追忆盛景与自身漂泊的对照，不据菰米漂水径断战乱毁池或无人收获。"
+          ]
+        },
+        {
+          "field": "summary",
+          "before": "回忆昆明池，仿佛还能看见汉武旌旗，石鲸与织女却只空对秋月。眼前关山阻绝，自己已成江湖渔翁，盛景与身世一同转入苍凉。",
+          "after": "回忆昆明池，仿佛又见汉武旌旗；织女石像空对月夜，石鲸似在秋风中动起。关山阻绝，自己已成江湖渔翁，旧日盛景与今日身世相对，愈添苍凉。"
+        }
+      ],
+      "finalCommentarySha256": "6734a5520a125295a7266e8ab9e149da34a3a513569c4cb8b925c2cd56da90ac"
+    },
+    {
+      "id": "yizhu-ce4519cbb3d9a7c1",
+      "order": 202,
+      "title": "又呈吴郎",
+      "author": "杜甫",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "a99716336627c8c02e2eee611ed1808813850233df6d4e186d0c22dd55e2f3c6"
+    },
+    {
+      "id": "yizhu-faa1afab6422f114",
+      "order": 203,
+      "title": "夜",
+      "author": "杜甫",
+      "assessment": "revise",
+      "issueDecisions": [
+        {
+          "issueIndex": 0,
+          "action": "revised",
+          "targetFields": [
+            "interpretation",
+            "glossary"
+          ],
+          "reason": "牛斗落实为牛宿与斗宿（南斗）；步蟾保留月下缓步读法，并说明杜诗详注另取步檐、释廊檐，主文不混合两个版本的确定字义。"
+        },
+        {
+          "issueIndex": 1,
+          "action": "revised",
+          "targetFields": [
+            "interpretation",
+            "glossary"
+          ],
+          "reason": "牛斗落实为牛宿与斗宿（南斗）；步蟾保留月下缓步读法，并说明杜诗详注另取步檐、释廊檐，主文不混合两个版本的确定字义。"
+        }
+      ],
+      "changes": [
+        {
+          "field": "basis",
+          "before": {
+            "text": "依据原诗及已归档来源",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.11000.json"
+            ],
+            "verificationRefs": []
+          },
+          "after": {
+            "text": "依据原诗及已归档来源",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.11000.json"
+            ],
+            "verificationRefs": [
+              "https://hhl.cnkgraph.com/Book/集部/別集類/杜詩詳註/304/KR4c0020_017",
+              "https://www.pinshiwen.com/shishu/pinglun/20191128254650.html",
+              "https://pedia.cloud.edu.tw/Entry/Detail/?search=步蟾&title=步蟾",
+              "https://ctext.org/wiki.pl?chapter=116018&if=gb"
+            ]
+          }
+        },
+        {
+          "field": "glossary",
+          "before": [
+            {
+              "term": "双杵",
+              "text": "捣衣用的双杵，也可泛写相和的捣衣声。"
+            },
+            {
+              "term": "步蟾",
+              "text": "在月下行走。"
+            },
+            {
+              "term": "凤城",
+              "text": "京城，此处指长安。"
+            }
+          ],
+          "after": [
+            {
+              "term": "双杵",
+              "text": "捣衣用的双杵，也可泛写相和的捣衣声。"
+            },
+            {
+              "term": "步蟾",
+              "text": "归档本作“步蟾”，可按月下缓步理解；《杜诗详注》另取“步檐”为正文、列“蟾”为异文，并引旧注释“步檐”为廊檐。此处只保留倚杖缓步之意，不据另本改文。"
+            },
+            {
+              "term": "牛斗",
+              "text": "牛宿与斗宿的合称；斗宿又称南斗，不是北斗七星。"
+            },
+            {
+              "term": "凤城",
+              "text": "京城，此处指长安。"
+            }
+          ]
+        },
+        {
+          "field": "interpretation",
+          "before": [
+            "露水降下，天高而秋水清澈，空山独夜使旅人的心忽然惊动。几点灯光照着停宿的孤帆，新月尚挂着，远处成对的捣衣杵声不断。",
+            "在南方再逢菊花时节，我仍卧病；北方信没有到，飞雁也像不肯传情。我倚杖在月下缓步，抬头看牵牛、北斗，遥想这条银河，应当也连着长安城。"
+          ],
+          "after": [
+            "露水降下，天高而秋水清澈，空山独夜使旅人的心忽然惊动。几点灯光照着停宿的孤帆，新月尚挂着，远处成对的捣衣杵声不断。",
+            "在南方再逢菊花时节，我仍卧病；北方信没有到，飞雁也像不肯传情。我倚杖缓步，抬头观看牛宿、斗宿，遥想这条银河，应当也连着长安城。"
+          ]
+        },
+        {
+          "field": "reviewNotes",
+          "before": [],
+          "after": [
+            "语义复核：有效原文保留“步蟾”。《杜诗详注》以“步檐”为正文、列“蟾”为异文；也有以蟾指月、解作月下行走的训释。主文只写倚杖缓步，不把两个版本的词义强行合一。“牛斗”按牛、斗二星宿说明，不混作北斗。"
+          ]
+        }
+      ],
+      "finalCommentarySha256": "ed0b2962e01e5f6d624d3b9bd9ab8940b3716aede5d2c2274409b31b8b6a2d15"
+    },
+    {
+      "id": "yizhu-48caa3afad646324",
+      "order": 204,
+      "title": "巴岭荅杜二见忆",
+      "author": "严武",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "ad6e56e0d98433c84cac304678648bbc82adfa42d5fed5e6d2e270030461cebc"
+    },
+    {
+      "id": "yizhu-a2c41f99796b977c",
+      "order": 205,
+      "title": "别严士元",
+      "author": "刘长卿",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "3c698baec7e3007b5a0d169f00b5b98f1eaf811500f8e99e1847d5e4ba06129c"
+    },
+    {
+      "id": "yizhu-d6d48b5f5a4a3c3c",
+      "order": 206,
+      "title": "早秋京口旅泊章侍御寄书相问因以赠之时七夕",
+      "author": "李嘉祐",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "8183c445d6323432402046b4c0c57224d5e3c1224af6ad6b1baa92270faf3fc9"
+    },
+    {
+      "id": "yizhu-24c4c1ed56773f86",
+      "order": 207,
+      "title": "同崔邠登鹳雀楼",
+      "author": "李益",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "f2ad19ca15752ed1d3fee0c2952c90269dccff8654f698bc16bca87f2a438239"
+    },
+    {
+      "id": "yizhu-bc0134c91b1e83cd",
+      "order": 208,
+      "title": "送宫人入道归山",
+      "author": "于鹄",
+      "assessment": "interpretive-uncertainty",
+      "issueDecisions": [
+        {
+          "issueIndex": 0,
+          "action": "clarified",
+          "targetFields": [
+            "basis",
+            "reviewNotes"
+          ],
+          "reason": "删去山钟实际传入宫中的路线；主文中性保留宫中旧伴与缑山夜钟的别后遥想，不强定听钟主体。"
+        }
+      ],
+      "changes": [
+        {
+          "field": "basis",
+          "before": {
+            "text": "依据原诗及已归档来源",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.16000.json"
+            ],
+            "verificationRefs": []
+          },
+          "after": {
+            "text": "依据原诗及已归档来源",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.16000.json"
+            ],
+            "verificationRefs": [
+              "https://www.hnwomen.com/_upload/article/files/41/0c/5f6d7bef424dae8ca27059792b79/8d7ca4d9-68d3-45a5-b093-b9ea74946967.pdf"
+            ]
+          }
+        },
+        {
+          "field": "interpretation",
+          "before": [
+            "你十岁时便带着吹箫的本领入宫，在宫里看着水殿修起、荷花种下。如今因白发而自伤，终于告别华美宫室，获准穿上道衣前往山中。",
+            "往后的清晨，似乎会有通人意的老猿替你开门，初学飞翔的小鹤落在高松上；这是诗人替你设想的山居日常。",
+            "想来分别以后，仍留宫中的姐妹，听到半夜山中传来的钟声，也会念起你。"
+          ],
+          "after": [
+            "你十岁时便带着吹箫的本领入宫，在宫里看着水殿修起、荷花种下。如今因白发而自伤，终于告别华美宫室，获准穿上道衣前往山中。",
+            "往后的清晨，似乎会有通人意的老猿替你开门，初学飞翔的小鹤落在高松上；这是诗人替你设想的山居日常。",
+            "诗人又把宫中旧伴与缑山半夜钟声联系在别后的遥想中，旧日宫廷与往后的清修生活由此相接。"
+          ]
+        },
+        {
+          "field": "reviewNotes",
+          "before": [
+            "首句源文为“吹萧”，常见通行写法为“吹箫”；释义按吹奏箫理解，正文待校。"
+          ],
+          "after": [
+            "首句源文为“吹萧”，常见通行写法为“吹箫”；释义按吹奏箫理解，正文待校。",
+            "语义复核：尾联听钟主体及“宫中伴”与其关系尚待专门注本；山居钟声属别后遥想，不宜写实为钟声实际传到宫中。"
+          ]
+        },
+        {
+          "field": "summary",
+          "before": "幼年入宫的女子，直到白发才得离开，换上道衣归向青山。诗人想象她今后与猿鹤为邻的清静生活，也想到宫中旧伴听见山钟时的心情。",
+          "after": "幼年入宫的女子，直到白发才得离开，换上道衣归向青山。诗人想象她今后与猿鹤为邻的清静生活，末联又把宫中旧伴与山中夜钟联系在别后的遥想中。"
+        }
+      ],
+      "finalCommentarySha256": "798f8b05ad1d7c5265137f2f7e80665d9de7344494edf2504f1a7ad16f0cff5f"
+    },
+    {
+      "id": "yizhu-505e64ab2fe7f288",
+      "order": 209,
+      "title": "和侯大夫秋原山观征人回",
+      "author": "杨巨源",
+      "assessment": "interpretive-uncertainty",
+      "issueDecisions": [
+        {
+          "issueIndex": 0,
+          "action": "clarified",
+          "targetFields": [
+            "reviewNotes"
+          ],
+          "reason": "将不确定的心理寄托收敛为故乡远、生活仍系军旗下的关系，并在笔记标明凝缩句法。"
+        }
+      ],
+      "changes": [
+        {
+          "field": "interpretation",
+          "before": [
+            "两河战事结束，四方安定，回师的军队在原野上认出从前的营地。停马望云，秋天的边塞静了下来；临水试射飞雕，晚空一片晴朗。",
+            "戍守渐闲，队伍在岔路处分开；家乡遥远，士卒仍随军旗辗转，把归思寄托其间。",
+            "诗人把止息战争归功于朝廷的谋划，也盼望各地将领从此不必再率军长途出征。"
+          ],
+          "after": [
+            "两河战事结束，四方安定，回师的军队在原野上认出从前的营地。停马望云，秋天的边塞静了下来；临水试射飞雕，晚空一片晴朗。",
+            "戍守渐闲，队伍在岔路处分开；故乡仍远，将士的生活还系在军旗下。",
+            "诗人把止息战争归功于朝廷的谋划，也盼望各地将领从此不必再率军长途出征。"
+          ]
+        },
+        {
+          "field": "reviewNotes",
+          "before": [
+            "“地远家乡寄斾旌”语意较凝缩，暂按家远随军、归思寄于军旅解释，待专门注本复核。"
+          ],
+          "after": [
+            "“地远家乡寄斾旌”语意较凝缩，暂按家远随军、归思寄于军旅解释，待专门注本复核。",
+            "语义复核：“地远家乡寄斾旌”句法凝缩，暂保留故乡远、生活系于军旅的关系；不把“归思寄托军旗”或“军营即家”强定为唯一心理与主语解。"
+          ]
+        },
+        {
+          "field": "summary",
+          "before": "征战暂歇，归来的军队走向旧营，秋日边地恢复了安静。马背上的远望、分路的旗帜之间，仍有士卒对家乡的牵挂。",
+          "after": "征战止息，归来的军队走向旧营，秋日边地恢复了安静。望云、射雕与军伍分路写归军情景，诗人把止戈归功于朝廷的谋略。"
+        }
+      ],
+      "finalCommentarySha256": "38795b8e32d670fc8287580dd9ed09cb1fa5fb08acc16caabad957ba9c8bbbef"
+    },
+    {
+      "id": "yizhu-bcce570a2720b190",
+      "order": 210,
+      "title": "李处士故居",
+      "author": "王建",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "6fb90c94e24aac6c3eac6bb9531705bceb12b026323701dd667c7c2f8c7b200e"
+    },
+    {
+      "id": "yizhu-772905ade5996b4e",
+      "order": 211,
+      "title": "再授连州至衡阳酬柳柳州赠别",
+      "author": "刘禹锡",
+      "assessment": "interpretive-uncertainty",
+      "issueDecisions": [
+        {
+          "issueIndex": 0,
+          "action": "clarified",
+          "targetFields": [
+            "basis",
+            "reviewNotes"
+          ],
+          "reason": "补明黄霸映照刘禹锡、柳下惠常映照柳宗元的双人读法，同时保留共同遭黜的自况空间。"
+        }
+      ],
+      "changes": [
+        {
+          "field": "basis",
+          "before": {
+            "text": "依据原诗及已归档来源",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.19000.json"
+            ],
+            "verificationRefs": [
+              "https://ctext.org/wiki.pl?chapter=813345&if=gb"
+            ]
+          },
+          "after": {
+            "text": "依据原诗及已归档来源",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.19000.json"
+            ],
+            "verificationRefs": [
+              "https://ctext.org/wiki.pl?chapter=813345&if=gb",
+              "https://poetryh.com/F011Archives/02bOldChnCollections/%E5%94%90%E8%AF%97%E9%89%B4%E8%B5%8F%E8%BE%9E%28%E8%90%A7%E6%B6%A4%E9%9D%9E%29.pdf"
+            ]
+          }
+        },
+        {
+          "field": "glossary",
+          "before": [
+            {
+              "term": "去国",
+              "text": "离开国都。"
+            },
+            {
+              "term": "黄丞相",
+              "text": "汉代黄霸，曾重任颍川太守，后任丞相。"
+            },
+            {
+              "term": "柳士师",
+              "text": "柳下惠，曾任士师，三次被罢职而不改原则。"
+            },
+            {
+              "term": "有所思",
+              "text": "可作“心中有所怀念”理解，也呼应古乐府题名。"
+            }
+          ],
+          "after": [
+            {
+              "term": "去国",
+              "text": "离开国都。"
+            },
+            {
+              "term": "黄丞相",
+              "text": "汉代黄霸，曾重任颍川太守，后任丞相。"
+            },
+            {
+              "term": "柳士师",
+              "text": "柳下惠，曾任士师，因守正三遭罢黜；此处常解为借柳姓古人映照柳宗元，也有兼作诗人自况的读法。"
+            },
+            {
+              "term": "有所思",
+              "text": "可作“心中有所怀念”理解，也呼应古乐府题名。"
+            }
+          ]
+        },
+        {
+          "field": "interpretation",
+          "before": [
+            "离开京城十年，我们一同应召回去；不料又远行千里，渡过湘水，在这里各奔前程。",
+            "我再被派往连州，际遇却不像重任颍川、后来拜相的黄霸；屡遭贬斥，又自惭不及三次被罢免而坚持正道的柳下惠。",
+            "目光随着北归的雁一直追到看不见，耳边又恰好传来令人断肠的猿声。",
+            "想到桂江向东流过连山之下，你我虽分处两地，还可遥相思念，长吟诗篇寄托牵挂。"
+          ],
+          "after": [
+            "离开京城十年，我们一同应召回去；不料又远行千里，渡过湘水，在这里各奔前程。",
+            "我再任连州，却没有黄霸重任颍川后升为丞相的际遇；又借守正而三黜的柳下惠映照柳宗元的遭际与清名，也寓同遭贬斥的自况。",
+            "我们望归的目光随着北归雁一直追到看不见，耳边又恰好传来令人断肠的猿声。",
+            "想到桂江向东流过连山之下，你我虽分处两地，还可遥相思念，长吟诗篇寄托牵挂。"
+          ]
+        },
+        {
+          "field": "reviewNotes",
+          "before": [
+            "末联桂江与连山的地理指涉沿用诗中表达，不把诗意方位当作现代水系地图；“三黜”用典不机械套作作者三次相同官职变动。"
+          ],
+          "after": [
+            "末联桂江与连山的地理指涉沿用诗中表达，不把诗意方位当作现代水系地图；“三黜”用典不机械套作作者三次相同官职变动。",
+            "语义复核：颔联常见读法分别以黄霸映照再授连州的刘禹锡、柳下惠映照柳宗元；也可兼读共享遭黜的自况，勿只留一种主语解释。"
+          ]
+        }
+      ],
+      "finalCommentarySha256": "457863a5bb56bdecdc86e9d9d08dbd3ea206969ddd5dd8b5a47ff4d7ef6ef5ab"
+    },
+    {
+      "id": "yizhu-d751fe033d52bba2",
+      "order": 212,
+      "title": "柳州城西北隅种柑树",
+      "author": "柳宗元",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "acae4aaae979715f8876da8634e8eef6abbaec8d63985af5613264b2c339c06a"
+    },
+    {
+      "id": "yizhu-8fabb9a4dae92d7c",
+      "order": 213,
+      "title": "吊白居易",
+      "author": "宣宗皇帝",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "4e8059053cc6c5755b524a7a1a187ca772d40de7d6c6744e1285bba406516d34"
+    },
+    {
+      "id": "yizhu-500eebb955553e13",
+      "order": 214,
+      "title": "题宣州开元寺水阁阁下宛溪夹溪居人",
+      "author": "杜牧",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "4f275a4fd6f982d9dd6faaeffb8c208f9eab221081f221811d964432855d287c"
+    },
+    {
+      "id": "yizhu-5b2e7f59909f37cb",
+      "order": 215,
+      "title": "登池州九峰楼寄张祜",
+      "author": "杜牧",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "d206765c1f529d6ce6af5c07ca239e411228debf7b910373e7f0dd54c8993f93"
+    },
+    {
+      "id": "yizhu-ddc441065e1d93be",
+      "order": 216,
+      "title": "早鴈",
+      "author": "杜牧",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "7361dc45fbf90c9d33074d02f62bd22c7b3fb19f75bebf5a5d7ef179bdecbaa6"
+    },
+    {
+      "id": "yizhu-5dc7d095fb080d99",
+      "order": 217,
+      "title": "安定城楼",
+      "author": "李商隐",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "c9d6ca099985ee3b9c1ddc7f42967918049635ef778cbe1760ca5fd8e4542de1"
+    },
+    {
+      "id": "yizhu-d216aed3ea3fe698",
+      "order": 218,
+      "title": "长安晚秋",
+      "author": "赵嘏",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "8b01986fdf536932a3c10de3cc59ed548b485fe7b7e4d6be8e3b72a35908c8b5"
+    },
+    {
+      "id": "yizhu-a69b6050a14102a0",
+      "order": 219,
+      "title": "湘口送友人",
+      "author": "李频",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "10fd5e1730b273d56cc3d14e29ed917f48f78114c6487f408ed9f92077a52bdb"
+    },
+    {
+      "id": "yizhu-7d60bd1b038b7df8",
+      "order": 220,
+      "title": "西塞山泊渔家",
+      "author": "皮日休",
+      "assessment": "revise",
+      "issueDecisions": [
+        {
+          "issueIndex": 0,
+          "action": "revised",
+          "targetFields": [
+            "summary",
+            "interpretation"
+          ],
+          "reason": "客落实为泊舟作客的诗人，终日为逗留观照，不增造络绎经过的众多行旅者。"
+        }
+      ],
+      "changes": [
+        {
+          "field": "basis",
+          "before": {
+            "text": "依据原诗及已归档来源",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.33000.json"
+            ],
+            "verificationRefs": []
+          },
+          "after": {
+            "text": "依据原诗及已归档来源",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.33000.json"
+            ],
+            "verificationRefs": [
+              "https://zh.wikisource.org/wiki/Page%3AGujin_Tushu_Jicheng%2C_Volume_137_%281700-1725%29.djvu/18"
+            ]
+          }
+        },
+        {
+          "field": "interpretation",
+          "before": [
+            "白色头巾下面，渔翁的头发已细白如丝；他倚着枫树根，安静坐在水边钓石上。",
+            "家中妇人往桑村采叶，小儿到水边市集买了蓑衣回来。雨水添来，采莼的小船滑行水上；春天过后，肥鲈鱼沉沉地坠着钓线。",
+            "西塞山前，那些整日经过的行旅之客，隔着江水望见渔家生活，都羡慕流连，不忍移开眼睛。"
+          ],
+          "after": [
+            "白色头巾下面，渔翁的头发已细白如丝；他倚着枫树根，安静坐在水边钓石上。",
+            "家中妇人往桑村采叶，小儿到水边市集买了蓑衣回来。雨水添来，采莼的小船滑行水上；春天过后，肥鲈鱼沉沉地坠着钓线。",
+            "我在西塞山前作客泊舟，整日看着渔家生活；隔着江波羡慕他们，久久依恋，不忍离开。"
+          ]
+        },
+        {
+          "field": "summary",
+          "before": "白发渔翁静坐枫树下，家人采桑买蓑，各有日常忙碌。春水里莼菜鲜、鲈鱼肥，过客隔着波光看去，羡慕这份安稳自在。",
+          "after": "白发渔翁静坐枫树下，家人采桑买蓑，各有日常忙碌。春水里莼菜鲜、鲈鱼肥，诗人泊舟作客，隔着波光羡慕这份安稳自在。"
+        }
+      ],
+      "finalCommentarySha256": "796feea888e15b811a923900d8e0d596a5b78a819b87132b405c4793ceaa905d"
+    },
+    {
+      "id": "yizhu-4d5a57c5a6a7500e",
+      "order": 221,
+      "title": "绵谷回寄蔡氏昆仲",
+      "author": "罗隐",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "0ceef22a3f8e7150229bbf651af462d5109cb765fb7f0862f3c535c4b5803978"
+    },
+    {
+      "id": "yizhu-00d6ffc786a2497e",
+      "order": 222,
+      "title": "春夕",
+      "author": "崔涂",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "f82adc7ffd4c94567ad4ba4154fd8452c52541f396f79c5562963956c71d80c2"
+    },
+    {
+      "id": "yizhu-3d6f9fe19a768d36",
+      "order": 223,
+      "title": "中年",
+      "author": "郑谷",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "c51e12e86559bba140578f64ce4e14114c53e6b16d01870a1a7d7676ed95a4bc"
+    },
+    {
+      "id": "yizhu-5cae51f3d0aeb5b5",
+      "order": 224,
+      "title": "自叙",
+      "author": "杜荀鹤",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "4713ce0bb748cd9eccc4add93ec635d8469f0d83d138c3a37d832830f01849ff"
+    },
+    {
+      "id": "yizhu-8c4e1084bf59eae2",
+      "order": 225,
+      "title": "失鹤",
+      "author": "李远",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "ba962632dcd48de8818cf410f8bfc537ce99c2de88427d4cd93f8c90b1bf9d9f"
+    },
+    {
+      "id": "yizhu-0b4d98afb790e62c",
+      "order": 226,
+      "title": "开元后乐",
+      "author": "薛逢",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "eb90eff99e97d1113d1baabf685d0553530d5bf9ddef42261776405b71724f1b"
+    },
+    {
+      "id": "yizhu-30846d46f56b6b42",
+      "order": 227,
+      "title": "闲",
+      "author": "徐夤",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "d048e41cbf03a7f3c5af5e5348ec667d24a3828aac12544e97a6a7a54ace5b6f"
+    },
+    {
+      "id": "yizhu-c7c6ea136eb9dbfd",
+      "order": 228,
+      "title": "塞下三首 一",
+      "author": "沈彬",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "a652f37e4c3be997ebd0cbd02d58d974f7ac108f38201356a1f82ed28955b30b"
+    },
+    {
+      "id": "yizhu-5eae2ae5dece4a91",
+      "order": 229,
+      "title": "洞庭阻风",
+      "author": "张泌",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "a546b27373c9d0f75a52c8dc3752f0eba459b01893f9bde1a6ea337abef01eea"
+    },
+    {
+      "id": "yizhu-563d3a1e243438a3",
+      "order": 230,
+      "title": "风",
+      "author": "李峤",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "22742d7247012a3f006b83ac4b0e4ffb55b641cbf0d2383014591d1b1bef4166"
+    },
+    {
+      "id": "yizhu-6c1a66e4bccc7178",
+      "order": 231,
+      "title": "汾上惊秋",
+      "author": "苏颋",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "d20721675a5477eb2bfb449992accff6b2f08dd0d296f8fce71c4af66ff70f9e"
+    },
+    {
+      "id": "yizhu-f0707cb890640d1b",
+      "order": 232,
+      "title": "蜀道后期",
+      "author": "张说",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "5693c2405582be30d17f82fe01c993bb12f0556a375879c2ab9421f46dcbc518"
+    },
+    {
+      "id": "yizhu-0a739f74d1513b2a",
+      "order": 233,
+      "title": "南中咏雁",
+      "author": "韦承庆",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "64f424a1abe409e58dd87dc538f93fee9fb91dba60e1eebef4308caef73268d1"
+    },
+    {
+      "id": "yizhu-dedf0340ba26f2dc",
+      "order": 234,
+      "title": "南行别弟",
+      "author": "韦承庆",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "0b2250906a2f39c3ba14359427c33338a25ff204bb67a59949b888c2883dee3c"
+    },
+    {
+      "id": "yizhu-91ac8b5bce8dcae1",
+      "order": 235,
+      "title": "送朱大入秦",
+      "author": "孟浩然",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "d6f1a0597f319fc22feb56bf69cbeeb1abb9f5f797a6a05ee46b80e992d8227c"
+    },
+    {
+      "id": "yizhu-18786301629289de",
+      "order": 236,
+      "title": "送郭司仓",
+      "author": "王昌龄",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "27ac9eb4a27fd17a39f5904f5d981489cd128072dcd2ad5c4a30da7330e10856"
+    },
+    {
+      "id": "yizhu-d5215e712b137462",
+      "order": 237,
+      "title": "洛阳道五首献吕四郎中 三",
+      "author": "储光羲",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "71bf1ce615d828089b3afbb8e71f0ec34fe339cf70409390bda0c88f6e87f962"
+    },
+    {
+      "id": "yizhu-26703b205c4bca28",
+      "order": 238,
+      "title": "山中",
+      "author": "王维",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "83b519f76db1605ebc640aa6d3e1a3415e7e189007bdb05d2d4835a9c1dd269d"
+    },
+    {
+      "id": "yizhu-49decbc0d045a891",
+      "order": 239,
+      "title": "咏史",
+      "author": "高适",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "8be41fdc55f7e4a91afd00d38ad763278838d7016daefe95e80ebb71c221e29f"
+    },
+    {
+      "id": "yizhu-8f33b3f7ece0490a",
+      "order": 240,
+      "title": "左掖梨花",
+      "author": "丘为",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "7fcdb51bc9ed2cff2467cc0e5c5cd127ab80003db3d4d7c5d691cf4025b4f8c7"
+    },
+    {
+      "id": "yizhu-b6752b8d78ca848c",
+      "order": 241,
+      "title": "劳劳亭",
+      "author": "李白",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "01395c6358d6ebc05ec12964f00d7081cdde8c0a1f70e457a71645e7435cc8bc"
+    },
+    {
+      "id": "yizhu-528388c52025ac6b",
+      "order": 242,
+      "title": "逢侠者",
+      "author": "钱起",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "0f401f4b2708582fa1173471b1af3517408afd1e6eb5cf0ae72a4c37ad5d46d9"
+    },
+    {
+      "id": "yizhu-b0706b7475be6adb",
+      "order": 243,
+      "title": "池上二绝 二",
+      "author": "白居易",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "472de4e138dd614132885c922d345f9d0ae8fdf0b7bd002493d2c0b085765ed9"
+    },
+    {
+      "id": "yizhu-81103a41ebffcbf7",
+      "order": 244,
+      "title": "夜雪",
+      "author": "白居易",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "8ab087ab0792fd2269ec252149aa9e184873e7b14993ae3324e333b9dc970991"
+    },
+    {
+      "id": "yizhu-edf0e274d41716b3",
+      "order": 245,
+      "title": "古风二首 一",
+      "author": "李绅",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "b755528c432357117f77b262822e42e4ece739d2386ba676792ea31b5a7cafdc"
+    },
+    {
+      "id": "yizhu-8b5779168e29571a",
+      "order": 246,
+      "title": "天涯",
+      "author": "李商隐",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "36814f3bbaf31ac38d9a9d7a85805da841cad485331c78b997836cf7dc7e1bcb"
+    },
+    {
+      "id": "yizhu-3b1f1c62d138ecf8",
+      "order": 247,
+      "title": "续父井梧吟",
+      "author": "薛郧、薛涛（传）",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "ccf4feb9c27e2cc5de8982e84c5cc357387950a091aab49460477f20ca0b8bc0"
+    },
+    {
+      "id": "yizhu-5f2e43b7969745be",
+      "order": 248,
+      "title": "溪口云",
+      "author": "张文姬",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "53ba3403b10fbceedb15ae9d19655cb681a110c6e5e9ae35ca9ab5a200448127"
+    },
+    {
+      "id": "yizhu-a47f660cc637e6c3",
+      "order": 249,
+      "title": "送兄",
+      "author": "七岁女子",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "363ea525f6a86cb0804179ccdcb61579dfddd062565f5a48a125201a5e1ba07f"
+    },
+    {
+      "id": "yizhu-33e72a0447c118b2",
+      "order": 250,
+      "title": "送魏二",
+      "author": "王昌龄",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "156e21597705c5ab284ece113db170a9821154c467ea2b8b407241f47a38910b"
+    },
+    {
+      "id": "yizhu-09508198c71cbd6e",
+      "order": 251,
+      "title": "采莲曲三首 二",
+      "author": "王昌龄",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "a0eba6deff8bbfb663b5d30c0b2188e3d979d6b74217f3ce8faa05d524b1f9bb"
+    },
+    {
+      "id": "yizhu-3cd75431d898f09a",
+      "order": 252,
+      "title": "早梅",
+      "author": "张谓",
+      "assessment": "revise",
+      "issueDecisions": [
+        {
+          "issueIndex": 0,
+          "action": "revised",
+          "targetFields": [
+            "summary"
+          ],
+          "reason": "删去无依据的走近才知动作，保留临水早开、疑梅为雪的观察。"
+        }
+      ],
+      "changes": [
+        {
+          "field": "summary",
+          "before": "溪桥边一树寒梅白如玉，远看竟像春来未消的积雪。走近才知，原来是临水的梅花开得早。",
+          "after": "溪桥边一树寒梅白如玉，因临水开得早，诗人起初不知是梅花，竟疑作春来尚未消尽的积雪。"
+        }
+      ],
+      "finalCommentarySha256": "454bd842165261c7102c87d3aa99d206a40f02525df07a64b145a11fda387da0"
+    },
+    {
+      "id": "yizhu-2f2678bfff98e963",
+      "order": 253,
+      "title": "春思二首 一",
+      "author": "贾至",
+      "assessment": "revise",
+      "issueDecisions": [
+        {
+          "issueIndex": 0,
+          "action": "revised",
+          "targetFields": [
+            "summary"
+          ],
+          "reason": "离愁收敛为愁绪，不确定原诗未交代的别离缘由。"
+        }
+      ],
+      "changes": [
+        {
+          "field": "summary",
+          "before": "草青柳黄，桃李灿烂，春日原本处处可爱。可东风吹不走心事，白昼越长，离愁反而越难排遣。",
+          "after": "草青柳黄，桃李灿烂，春日原本处处可爱。可东风吹不走心事，白昼越长，心中愁绪反而越难排遣。"
+        }
+      ],
+      "finalCommentarySha256": "55748b6a83a9804cb8208cc3b2c58e87d971495650ad25b2b9737b931792a053"
+    },
+    {
+      "id": "yizhu-756acb8e1399fae9",
+      "order": 254,
+      "title": "营州歌",
+      "author": "高适",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "4e3755c73b47659de9c40650234f82193bdad77c46a116d51145c1005af99838"
+    },
+    {
+      "id": "yizhu-9faa3a24581f1c0d",
+      "order": 255,
+      "title": "除夜作",
+      "author": "高适",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "734542a0c38ff72d12c4768535686eaec1c877e4d979525650b4ddcbda212a0d"
+    },
+    {
+      "id": "yizhu-79ae009a9819bfd8",
+      "order": 256,
+      "title": "碛中作",
+      "author": "岑参",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "ee98392442b4a25b97b53c447d868cfe5397ef3d859c7d74ebf188ffdd9d6372"
+    },
+    {
+      "id": "yizhu-5fccbcbe3d4f50e8",
+      "order": 257,
+      "title": "山房春事二首 一",
+      "author": "岑参",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "9c58afb50fe8444d7d8502f55232386cd8e707ef7fd5ee6b8f2084b572d4fb4f"
+    },
+    {
+      "id": "yizhu-2b13585b9c8777b1",
+      "order": 258,
+      "title": "山房春事二首 二",
+      "author": "岑参",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "a478b4fd85b7d02ee59fb3b56913339c7ca47690f750486330aaad2adb07998f"
+    },
+    {
+      "id": "yizhu-ce898d85359f1705",
+      "order": 259,
+      "title": "赵将军歌",
+      "author": "岑参",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "53a9118e7388be415a6bca0823f6d2b3e79ed7593ae6372e3ee4c12f205a1056"
+    },
+    {
+      "id": "yizhu-c597ab7707f0b709",
+      "order": 260,
+      "title": "山中问荅",
+      "author": "李白",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "26f7b5c5ca16af34dc56fcab8112a1a6da4c7b5ef6ca694193f4742b0a28f35b"
+    },
+    {
+      "id": "yizhu-35061b6c70d467b1",
+      "order": 261,
+      "title": "陪族叔刑部侍郎晔及中书贾舍人至游洞庭五首 二",
+      "author": "李白",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "833dd226e1217a0ed37cc82da928bb93269d30e561d8cffbdf27f4bdd15e21f9"
+    },
+    {
+      "id": "yizhu-cd8c186b01f761e8",
+      "order": 262,
+      "title": "江畔独步寻花七绝句 五",
+      "author": "杜甫",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "ddab3af560de1819a91677d4b276d30dcd484994d1ba684acc5823ccc6707975"
+    },
+    {
+      "id": "yizhu-30af601deb578e89",
+      "order": 263,
+      "title": "江畔独步寻花七绝句 六",
+      "author": "杜甫",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "ee646c5f650c70b2e0fd0fb877d44ac43b2791ab39e0c9f325de55b65b82d69f"
+    },
+    {
+      "id": "yizhu-6e364bc4e812a8be",
+      "order": 264,
+      "title": "寄王舍人竹楼",
+      "author": "李嘉祐",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "a89ae1d8cccdc3315ace0aa965f9a2cff81d67bd18c468ea92e85df3dce51b7a"
+    },
+    {
+      "id": "yizhu-acdda2ab0b7de84e",
+      "order": 265,
+      "title": "与赵莒茶䜩",
+      "author": "钱起",
+      "assessment": "revise",
+      "issueDecisions": [
+        {
+          "issueIndex": 0,
+          "action": "revised",
+          "targetFields": [
+            "interpretation"
+          ],
+          "reason": "树影斜不定西向，保留蝉声、斜影与茶宴余兴。"
+        }
+      ],
+      "changes": [
+        {
+          "field": "interpretation",
+          "before": [
+            "我们在竹下相对饮着好茶，心意相通，已不必多说；这种清醒的快乐，比传说中仙人饮仙酒还要好。俗世杂念像被洗尽，兴致却仍没有尽头，耳边一树蝉鸣，眼前的树影已悄然西斜。"
+          ],
+          "after": [
+            "我们在竹下相对饮着好茶，心意相通，已不必多说；这种清醒的快乐，比传说中仙人饮仙酒还要好。俗世杂念像被洗尽，兴致却仍没有尽头，耳边一树蝉鸣，眼前一片树影也已悄然倾斜。"
+          ]
+        }
+      ],
+      "finalCommentarySha256": "5f2d58051cd78bf7ee88099bffede68b6864e141526585a86ed49f43749944ec"
+    },
+    {
+      "id": "yizhu-a5d5487811ac6076",
+      "order": 266,
+      "title": "归雁",
+      "author": "钱起",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "68519515e3215a6216ae2ebadae6599b31ac3e60de6184292b89d15c08663c0a"
+    },
+    {
+      "id": "yizhu-382c04c5f3b659c1",
+      "order": 267,
+      "title": "巴女谣",
+      "author": "于鹄",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "51636fdf370926136179153d008e918ccc06082bdf974c1363bee7ae42d7860a"
+    },
+    {
+      "id": "yizhu-3a8e065c056823c1",
+      "order": 268,
+      "title": "江南曲",
+      "author": "于鹄",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "94003b91b92831b4ee45ba12c26299acad52cfd079d76eef2bf57c532cc7ebfc"
+    },
+    {
+      "id": "yizhu-815a2ac4a4682364",
+      "order": 269,
+      "title": "题稚川山水",
+      "author": "戴叔伦",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "16abbda466989bb83144fe5de121187685afadde8f24e6cdb53e571cf2d42db1"
+    },
+    {
+      "id": "yizhu-fe4e20df21e2d54e",
+      "order": 270,
+      "title": "宫怨",
+      "author": "李益",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "ee52bdd24a7b90da5b398b288907b3aab7d25ef9dcae110a8e6269a1a53261ec"
+    },
+    {
+      "id": "yizhu-d5e1d7f1576ef443",
+      "order": 271,
+      "title": "登科后",
+      "author": "孟郊",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "3e6411888cb1bf6582713290769089d0e8e38ad78c0c4f98e0e9745fab942097"
+    },
+    {
+      "id": "yizhu-9a921a4327366cdd",
+      "order": 272,
+      "title": "盆池五首 二",
+      "author": "韩愈",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "70d398c6d381a2cbeace9ece6d5ed0d9fa1829240a01b73587587fa95ddf6ce4"
+    },
+    {
+      "id": "yizhu-19c79b8160027d5c",
+      "order": 273,
+      "title": "盆池五首 五",
+      "author": "韩愈",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "3a1e69ef98dfc68c71c0a02897eb0bd3f6abaf47bba2b05c181b74b45fe286fa"
+    },
+    {
+      "id": "yizhu-f38c613f28c38450",
+      "order": 274,
+      "title": "秋思",
+      "author": "张籍",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "c82e095c683b5493717be8db0e5e0f29712a441deeafd36f807e13187609379f"
+    },
+    {
+      "id": "yizhu-141b38efdd46ba23",
+      "order": 275,
+      "title": "江村即事",
+      "author": "司空曙",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "2237fd38875b6dd25e8fc5509c2b7b5e46a805cbee81ef5c6983b1b093800248"
+    },
+    {
+      "id": "yizhu-9c1f70a04168b268",
+      "order": 276,
+      "title": "望洞庭",
+      "author": "刘禹锡",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "c8df0ec170b6be630926a188000c4ba5153bc423aedc0cdf7031411e8a03050f"
+    },
+    {
+      "id": "yizhu-93a5ac31359abd55",
+      "order": 277,
+      "title": "踏歌词四首 一",
+      "author": "刘禹锡",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "a7d9684467c4bca326f1797d784a5f856a250d58ae581795ec30be3b81b582a2"
+    },
+    {
+      "id": "yizhu-84a9dc9b9840e234",
+      "order": 278,
+      "title": "望夫石",
+      "author": "刘禹锡",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "553c73041388d05990b270ae60b74a2e1c3b65645c916814f03b85619b5bdd95"
+    },
+    {
+      "id": "yizhu-a4c2ff60c459aec9",
+      "order": 279,
+      "title": "大林寺桃花",
+      "author": "白居易",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "61f1d59d3db192394177294ea5fe741c060673ed86943cea5a4f51c9d7643232"
+    },
+    {
+      "id": "yizhu-d4a91b762895b1b0",
+      "order": 280,
+      "title": "同李十一醉忆元九",
+      "author": "白居易",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "8155a6cdd1667b5908848967adf56ef331ce641a91fb4aaa5e53bf685a72a82b"
+    },
+    {
+      "id": "yizhu-dea79b5764566303",
+      "order": 281,
+      "title": "与浩初上人同看山寄京华亲故",
+      "author": "柳宗元",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "19c693f4ffc95b8adef122603b0f740ec44c1d2a1c0d80f80095e239e2079239"
+    },
+    {
+      "id": "yizhu-041331a21fb60212",
+      "order": 282,
+      "title": "闻乐天授江州司马",
+      "author": "元稹",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "4d0ef82f080007f165eaea050b5fed09f96823ac0ef04239c3131b6e6aaa537e"
+    },
+    {
+      "id": "yizhu-5adfc6b3a4188f55",
+      "order": 283,
+      "title": "菊花",
+      "author": "元稹",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "64da2ea86c69665e6b79b8815f9b85eeb68ee3a0a9c4d821e5e83787d1340be9"
+    },
+    {
+      "id": "yizhu-ebc04ac89cf1ff3a",
+      "order": 284,
+      "title": "使东川 江花落",
+      "author": "元稹",
+      "assessment": "revise",
+      "issueDecisions": [
+        {
+          "issueIndex": 0,
+          "action": "revised",
+          "targetFields": [
+            "interpretation"
+          ],
+          "reason": "将哪一刻收敛为哪一种落花景象，保留空中与水中的并置和问意。"
+        }
+      ],
+      "changes": [
+        {
+          "field": "interpretation",
+          "before": [
+            "夕阳将落，嘉陵江水向东流去，岸上的梨花成千上万随江风飞散。问这落花哪一刻最让人伤心，正是看见它一半已经落在江流里，一半还悬在空中的时候。"
+          ],
+          "after": [
+            "夕阳将落，嘉陵江水向东流去，岸上的梨花成千上万随江风飞散。江边落花哪一种景象最使人断肠？正是花瓣一半落入江流，一半还飘在空中。"
+          ]
+        }
+      ],
+      "finalCommentarySha256": "e89aa04baebfd0ff396800c1e35b849d551a70715280e2e08d6ab760f6fa9524"
+    },
+    {
+      "id": "yizhu-fee339f944357ac5",
+      "order": 285,
+      "title": "小儿垂钓",
+      "author": "胡令能",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "56678311324aeb6edd003f0736197e2b4664d4e2a18545de8bac676d034d6d4a"
+    },
+    {
+      "id": "yizhu-f4e4ecfc81b8b72c",
+      "order": 286,
+      "title": "忆扬州",
+      "author": "徐凝",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "ddf671a1a1220158753d08e4aff138235852bb7c97f48f23545386b37f31270a"
+    },
+    {
+      "id": "yizhu-f7c5f55702aff3f5",
+      "order": 287,
+      "title": "赠去婢",
+      "author": "崔郊",
+      "assessment": "revise",
+      "issueDecisions": [
+        {
+          "issueIndex": 0,
+          "action": "revised",
+          "targetFields": [
+            "summary"
+          ],
+          "reason": "删去同城地理增写，保留侯门如海与相爱者形同陌路的身份隔绝。"
+        }
+      ],
+      "changes": [
+        {
+          "field": "summary",
+          "before": "昔日相知的女子被带入深深侯门，彼此从此难以相见。权贵纷纷追逐，她却垂泪，近在一城也像隔着海。",
+          "after": "昔日相知的女子进入深深侯门，彼此从此难以相见。权贵纷纷追逐，她却垂泪；侯门深如海，旧日相爱的人从此也只能形同陌路。"
+        }
+      ],
+      "finalCommentarySha256": "7eba9662eda8d72451e5a6d1bb7c0ec918b291c6592758ad946ca6afd1657214"
+    },
+    {
+      "id": "yizhu-b23ff26692d6e06c",
+      "order": 288,
+      "title": "南园十三首 五",
+      "author": "李贺",
+      "assessment": "revise",
+      "issueDecisions": [
+        {
+          "issueIndex": 0,
+          "action": "revised",
+          "targetFields": [
+            "summary",
+            "interpretation"
+          ],
+          "reason": "恢复若个的否定反问，收紧文学出路的泛断；展开解读删去坐享的额外评价。"
+        }
+      ],
+      "changes": [
+        {
+          "field": "interpretation",
+          "before": [
+            "男子为何不佩起吴钩，去收回被割据的关山州郡？请你暂且登上凌烟阁看看，那些受封显贵的人中，有谁是只凭读书作文便坐享万户侯的呢？这是激愤中的反问，写想要建功而无路的心情。"
+          ],
+          "after": [
+            "男子为何不佩起吴钩，去收回被割据的关山州郡？请你暂且登上凌烟阁看看，那些受封显贵的人中，有谁是只凭读书作文便受封万户侯的呢？这是激愤中的反问，写想要建功而无路的心情。"
+          ]
+        },
+        {
+          "field": "summary",
+          "before": "诗人不甘只在纸上用力，想佩剑收复失地。他望向凌烟阁的功臣画像，追问书生何时也能真正有所作为。",
+          "after": "诗人激问男儿为何不佩兵器收复失地，再请人看看凌烟阁：哪一个万户侯仅凭书生笔墨得来？建功的渴望里，含着身为书生、功业难成的愤懑。"
+        }
+      ],
+      "finalCommentarySha256": "97598eb20b1b95b7caf3598c92ee5a766a1d415edb72462affff221dec261093"
+    },
+    {
+      "id": "yizhu-6a89f8443daf5511",
+      "order": 289,
+      "title": "南园十三首 六",
+      "author": "李贺",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "93ce9bcc00f3748f876a8deedca51a7fd76d13ac8e5eff59a7f259f19742f4de"
+    },
+    {
+      "id": "yizhu-7a7d5743f02c6ad2",
+      "order": 290,
+      "title": "题桃花夫人庙",
+      "author": "杜牧",
+      "assessment": "revise",
+      "issueDecisions": [
+        {
+          "issueIndex": 0,
+          "action": "revised",
+          "targetFields": [
+            "summary",
+            "interpretation"
+          ],
+          "reason": "说明绿珠之死与息夫人留居楚宫的具体反衬；保留诗中节义褒贬及其与现代立场的区别。"
+        }
+      ],
+      "changes": [
+        {
+          "field": "basis",
+          "before": {
+            "text": "依据原诗及已归档来源",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.28000.json"
+            ],
+            "verificationRefs": []
+          },
+          "after": {
+            "text": "依据原诗及已归档来源",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.28000.json"
+            ],
+            "verificationRefs": [
+              "https://zh.wikisource.org/zh-hans/%E7%94%8C%E5%8C%97%E8%A9%A9%E8%A9%B1#%E6%9D%9C%E7%89%A7%E8%AF%97",
+              "https://wxy.jzxy.edu.cn/uploads/zwx/file/20180424/3sgdsxfd3c.pdf"
+            ]
+          }
+        },
+        {
+          "field": "interpretation",
+          "before": [
+            "楚宫里，带露的桃花又鲜艳起来，息夫人含情不语，已这样度过几个春天。诗人追问息国究竟因何而亡，随后转而慨叹金谷园坠楼的绿珠。",
+            "结尾用两位女子的遭遇相对照，包含古人以守节论人的立场；理解这一层，是说明诗人的议论，并不意味着今日也要以殉死评判被迫者。"
+          ],
+          "after": [
+            "楚宫里，带露的桃花又鲜艳起来，息夫人含情不语，已这样度过几个春天。诗人追问息国究竟因何而亡，随后转而慨叹金谷园坠楼的绿珠。",
+            "诗人以绿珠坠楼抗拒强权之死，对照息夫人国亡后仍居楚宫的处境，寄出赞叹与含蓄责意；这是原诗采用的节义判断，不等于今人必须赞成以殉死评判被迫者。"
+          ]
+        },
+        {
+          "field": "reviewNotes",
+          "before": [
+            "末联有对息夫人、绿珠的贞节比较，终审宜核典故并保留现代释义与原诗价值立场的区分，不把“可怜”简单译为轻蔑。"
+          ],
+          "after": [
+            "语义复核：赵翼《瓯北诗话》卷十一以绿珠之死反衬息夫人之不死说明本诗含蓄褒贬；释义应说明具体对照，并区分古代节义判断与现代读者立场。",
+            "语义复核：“可怜”兼有叹惜之意，不简单译成轻蔑；此处借故事论人，不把息国灭亡的复杂史因概括为女子主动造成。"
+          ]
+        },
+        {
+          "field": "summary",
+          "before": "桃花带露，宫中女子却默默无言。诗人由息夫人的遭遇想到国亡与身世，再借绿珠的故事发出带着历史观念的感慨。",
+          "after": "楚宫桃花又新，息夫人却含情不语。诗人追问息国灭亡的缘由，又将她留居楚宫与绿珠坠楼相对照，寄出古代节义观念中的褒贬。"
+        }
+      ],
+      "finalCommentarySha256": "5ef1697a6314d75c0a603e35ce487f773f7e8aa6d8b0d43909c2d94a8d98d5e3"
+    },
+    {
+      "id": "yizhu-024fc4ae363effa2",
+      "order": 291,
+      "title": "霜月",
+      "author": "李商隐",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "1827e1db5b93ff7685381237d822b2a6e2fbc6e643d2a0607bbc057864bc4e97"
+    },
+    {
+      "id": "yizhu-9fb7e600caf01997",
+      "order": 292,
+      "title": "初食笋呈座中",
+      "author": "李商隐",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "34a71a90eb09c70705203ea0b5dced8724407240807d1110ddb8114a85a20e9d"
+    },
+    {
+      "id": "yizhu-a96d004b090011ee",
+      "order": 293,
+      "title": "蔡中郎坟",
+      "author": "温庭筠",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "36655b6018757ff62b3838d4934403750dbe0016df293b634b19aabc2f58a23e"
+    },
+    {
+      "id": "yizhu-ced3d8a8916a0c1d",
+      "order": 294,
+      "title": "山亭夏日",
+      "author": "高骈",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "27d14fa93d6ad3ebffe486aba26e79260eb458c586e620f6b5ad4e21085dc336"
+    },
+    {
+      "id": "yizhu-6c12e64d898a7fd4",
+      "order": 295,
+      "title": "汴河怀古二首 二",
+      "author": "皮日休",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "d624e01880a17d2f537baef583613abc21df9f616ddfacf22dabdcf343c06031"
+    },
+    {
+      "id": "yizhu-6a08a87994f04eda",
+      "order": 296,
+      "title": "寒食夜",
+      "author": "韩偓",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "a0f7f96dd459be8d9c9dc1684c9f41454b9d3f9de05689f2ec4a417f2d0fcee6"
+    },
+    {
+      "id": "yizhu-b9c3526b6fdd9115",
+      "order": 297,
+      "title": "和袭美木兰后池三咏 白莲",
+      "author": "陆龟蒙",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "d7db1c163fbfb360197dbcee8089d0080538f8f85f23fd706a66167d0f43e554"
+    },
+    {
+      "id": "yizhu-29238e168c4826e9",
+      "order": 298,
+      "title": "再经胡城县",
+      "author": "杜荀鹤",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "dfeef035aab806cef97b0618c3f54e2d4c51f8fdb40cec6c44f1f9e48efecf56"
+    },
+    {
+      "id": "yizhu-68e172d457be83ff",
+      "order": 299,
+      "title": "雨晴",
+      "author": "王驾",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "12a5da94ad44fb68f325fd572f78ec8a37928a97661b60ac10bd9e25a93fea0f"
+    },
+    {
+      "id": "yizhu-63e3280d5508fc9a",
+      "order": 300,
+      "title": "古离别",
+      "author": "韦庄",
+      "assessment": "revise",
+      "issueDecisions": [
+        {
+          "issueIndex": 0,
+          "action": "revised",
+          "targetFields": [
+            "summary"
+          ],
+          "reason": "半酣统一为已有几分酒意，不写成一壶酒或宴饮进程到一半。"
+        }
+      ],
+      "changes": [
+        {
+          "field": "basis",
+          "before": {
+            "text": "依据原诗及已归档来源",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.1000.json"
+            ],
+            "verificationRefs": []
+          },
+          "after": {
+            "text": "依据原诗及已归档来源",
+            "sourceRefs": [
+              "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.1000.json"
+            ],
+            "verificationRefs": [
+              "https://zh.wikisource.org/zh-hans/%E5%8F%A4%E5%88%A5%E9%9B%A2_%28%E9%9F%8B%E8%8E%8A%29"
+            ]
+          }
+        },
+        {
+          "field": "summary",
+          "before": "晴烟笼着柔长柳丝，酒喝到一半，离情仍难承受。远行人把马鞭指向云外，最牵心的春色还在遥远江南。",
+          "after": "晴烟笼着柔长柳丝，酒意半酣，离情仍难承受。远行人把马鞭指向云外，最牵心的春色还在遥远江南。"
+        }
+      ],
+      "finalCommentarySha256": "9316980ecdeba3dbfbf21eab6354cdbb6840a29fd014fc2c45c5940204482778"
+    },
+    {
+      "id": "yizhu-3d0f6856233727f7",
+      "order": 301,
+      "title": "题菊花",
+      "author": "黄巢",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "8e35e920cf1ff12daccf91a29710f26c3084158cbdd5aad91cd9d5b247400222"
+    },
+    {
+      "id": "yizhu-eab3b6f8629dd93b",
+      "order": 302,
+      "title": "不第后赋菊",
+      "author": "黄巢",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "8a300fef8f107eb35dc7caa3a1e921d0ada09b640f984195e2013ffc2051b978"
+    },
+    {
+      "id": "yizhu-d19ba0f18fc616ce",
+      "order": 303,
+      "title": "焚书坑",
+      "author": "章谒",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "cb4a22bccdc80097a36297c7dec1ba01bc7f257ae55c497a7ea29b120ed4cb8f"
+    },
+    {
+      "id": "yizhu-14bae97899303583",
+      "order": 304,
+      "title": "怀良人",
+      "author": "葛鵶儿",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "6babcfbca7341a89f01eb652955313f4747e59c90dc9c6b4c6a9ea7d4310f6c9"
+    },
+    {
+      "id": "yizhu-e41ada6b1ed668f7",
+      "order": 305,
+      "title": "早春寄王汉阳",
+      "author": "李白",
+      "assessment": "consistent",
+      "issueDecisions": [],
+      "changes": [],
+      "finalCommentarySha256": "476bccd608748314b3f032a8aa43c5c1afb5942d096ef974ebd87d3175d7aa18"
+    }
+  ],
+  "limits": [
+    "没有逐页对过唐诗撷英纸书或完整古籍影印本，不能宣称学术终审。",
+    "有据异文及古注多解予以保留；interpretive-uncertainty表示仍有解释空间，已通过有限定的读者措辞或笔记说明。",
+    "逐首语义阅读由AI助手完成；自动检查只证明记录、版本和实际字段对应。"
+  ]
+}

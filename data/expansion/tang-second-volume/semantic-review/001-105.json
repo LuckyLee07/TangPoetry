@@ -1,0 +1,1671 @@
+{
+  "schemaVersion": 1,
+  "reviewedCommit": "2921d5e",
+  "method": "逐首原文与三层释义对照",
+  "reviews": [
+    {
+      "order": 1,
+      "poemMeaning": "春江月夜由宇宙与代际时间的感叹，转入思妇与游子的隔地相思和归家愿望。",
+      "assessment": "consistent",
+      "alignmentNotes": "四段解读依次覆盖潮月花林、江月与人生问答、楼中思妇、潭月归梦；卷不去、拂还来及相望不相闻均保留，碣石潇湘以南北远隔处理，异文已有说明。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-76caedeb379ad9e0",
+      "title": "春江花月夜",
+      "author": "张若虚",
+      "reviewedTextSha256": "4053b3f9a5482b42b41ece25d6cd2dfea51de0361c09f4ed121276fa06468e03",
+      "reviewedCommentarySha256": "369936e3b186ac4689d1b9c2abd7c26d2e18a69ca4b28866fdca715f0dc94d30"
+    },
+    {
+      "order": 2,
+      "poemMeaning": "茅屋被风揭、群童抱茅、长夜漏雨的个人苦难，最终化为庇护天下寒士的舍己愿望。",
+      "assessment": "consistent",
+      "alignmentNotes": "秋风、群童、被裂屋漏、丧乱失眠到广厦愿望的顺序完整；忍能的愤慨和何由彻、何时见屋的问句未被弱化，床床及倚仗的底本问题已列待核。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-e20a1fe86feea9fb",
+      "title": "茅屋为秋风所破歌",
+      "author": "杜甫",
+      "reviewedTextSha256": "9a684f0d709ae41b11e54a787c19a239bc0450af10a9dfedd45f0823ba423785",
+      "reviewedCommentarySha256": "b5d7a5596c763c1d05f7feda14c4ee19b8d47b44662cd0ebf8a1031a0870644b"
+    },
+    {
+      "order": 3,
+      "poemMeaning": "卖炭翁为衣食盼寒，辛苦运炭进城，却遭假托敕令的宫使强夺并被低价抵偿。",
+      "assessment": "consistent",
+      "alignmentNotes": "三段分别对齐烧炭谋生、冰雪赶车、宫使夺炭；衣单而愿寒的矛盾、牛困人饥、惜不得和充炭直均准确，未将强夺写成自愿交易。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-84a9347da2380295",
+      "title": "卖炭翁",
+      "author": "白居易",
+      "reviewedTextSha256": "ba1cf52235e8bb829ca974dea0a192938319f22a2013c4b656f0746b49d19b4b",
+      "reviewedCommentarySha256": "b99a405a6ad725c5215af10fdab84deb3172b7829cee1725be32ecc310d9c0bd"
+    },
+    {
+      "order": 4,
+      "poemMeaning": "李凭的箜篌声以花木悲欢和震动神界的奇想，呈现清脆、哀婉与激越交错的音乐感染力。",
+      "assessment": "consistent",
+      "alignmentNotes": "京城高秋的演奏起点、玉碎凤叫与泣露兰笑、补天石破和鱼蛟起舞、月中不眠均有对应；紫皇、吴质的身份保留解释边界。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-b822224df2a84a19",
+      "title": "李凭箜篌引",
+      "author": "李贺",
+      "reviewedTextSha256": "bc8ba41a89909cde64e0c14c4fe22d1a9078779e0eec4dd04ce0042bdc2719cc",
+      "reviewedCommentarySha256": "0f7d186ef6fd43c09bb6569d8698199c2923a025a80e677738ffd7aeb3d07b3f"
+    },
+    {
+      "order": 5,
+      "poemMeaning": "幽林芳草由春夏繁茂走向秋日摇落，寄托美好才性无人知遇、终无所成的怅惘。",
+      "assessment": "consistent",
+      "alignmentNotes": "兰若作为两种芳草、朱蕤紫茎、白日晚与秋风生及末句反问均准确衔接；借草喻才性与全篇幽独芳意相合。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-5971557650b64586",
+      "title": "感遇诗三十八首 二",
+      "author": "陈子昂",
+      "reviewedTextSha256": "13d42443a33763536257708e7ac69e55ba21d04002463c6841270d81d610cc9a",
+      "reviewedCommentarySha256": "b9869c02d8aafc987aae2001c8fdd86129a05da70b0dcee13d6a168878711dea"
+    },
+    {
+      "order": 6,
+      "poemMeaning": "使者简从出塞，以蓬雁自况孤旅，在大漠落日中得知主将在更远的边防前线。",
+      "assessment": "consistent",
+      "alignmentNotes": "使者身份、出汉塞入胡天的方向、大漠孤烟长河落日与候吏传达都护消息均对应；属国主语与居延燕然地理虚实已有明确保留。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-68170c83f1106590",
+      "title": "使至塞上",
+      "author": "王维",
+      "reviewedTextSha256": "0560b2e3f07d57e5b79628fd83f37777636bc7d88f2df030b7ecc63ea3cad2f0",
+      "reviewedCommentarySha256": "7840ab43b8e527ad3d98fff3ecdfbb5d4d8cd113863c848675dac815cc36d132"
+    },
+    {
+      "order": 7,
+      "poemMeaning": "将军在枯草消雪的冬末驰猎，迅疾返营后回望暮云下的射雕旷野。",
+      "assessment": "consistent",
+      "alignmentNotes": "鹰眼因草枯而敏锐、马蹄因雪尽而轻、忽过还归的速度与回看的转静均对应；劲风吹动与角弓声是并置，可以通解为劲风中射猎弦鸣。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-e50f62e605ab8e0b",
+      "title": "观猎",
+      "author": "王维",
+      "reviewedTextSha256": "2d83e3367dc7603ad3ed9609e3426b9630a039229f9c227611834ac00a22e2a4",
+      "reviewedCommentarySha256": "e63d3b510a381ec746cfd4b0dcc83e587a055bc6669ec1ae56ee8ded2ffcac09"
+    },
+    {
+      "order": 8,
+      "poemMeaning": "及时春雨悄然滋润万物，夜里黑云与船火相映，诗人预想翌晨成都含雨繁花。",
+      "assessment": "consistent",
+      "alignmentNotes": "知时节与潜入夜的拟人、细雨无声、黑云独火、晓看花重的未来想象均准确；锦官城释成都无误。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-00076e7d82bc60a0",
+      "title": "春夜喜雨",
+      "author": "杜甫",
+      "reviewedTextSha256": "480eaf53034cfd3d7a9e4382d63f91d9aad9a09baf7fbb5b6ee75b17bd50e5f0",
+      "reviewedCommentarySha256": "82df4bbf859b74572bffd095bb56a65a57276c533f7513d65903d735cf458bcb"
+    },
+    {
+      "order": 9,
+      "poemMeaning": "因进谏而急遭远贬的诗人在秦岭蓝关的风雪中坚守除弊初衷，并托侄孙收殓遗骨。",
+      "assessment": "consistent",
+      "alignmentNotes": "朝奏夕贬的急转、肯将的否定反问、家何在与马不前、知汝远来及收骨嘱托均保留；谏佛骨仅作背景说明。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-59a335c4bc9a0977",
+      "title": "左迁至蓝关示姪孙湘",
+      "author": "韩愈",
+      "reviewedTextSha256": "02edcca911eb1d854f56a573d8595f5c580f0621efb1ab428778f9552a8eca54",
+      "reviewedCommentarySha256": "6288255945f8d41db0636b4cb3bad8b956bc16a0bcee1f7852b9ce27492e124e"
+    },
+    {
+      "order": 10,
+      "poemMeaning": "长期贬谪归来的诗人感叹旧友凋零和世事变迁，借新生景象、友人赠诗与酒暂振精神。",
+      "assessment": "consistent",
+      "alignmentNotes": "二十三年与巴楚贬居、向秀闻笛和王质烂柯两典、沉舟病树的自况、暂凭酒长精神都与原诗相合，未抹去怀旧惘然。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-456df820a8b75674",
+      "title": "酬乐天扬州初逢席上见赠",
+      "author": "刘禹锡",
+      "reviewedTextSha256": "33d1bbfb817b0964e3ab1af8b9464cf473a94f680c4d1e69a3b0296ed4b376e1",
+      "reviewedCommentarySha256": "9a2e5daa656b48c6ad901bb77987e6031cea7375c6240ed7592ec57c31b90dc5"
+    },
+    {
+      "order": 11,
+      "poemMeaning": "骑行钱塘湖畔的诗人在水涨云低、莺燕花草的初春变化中，尤其留恋绿杨掩映的白沙堤。",
+      "assessment": "consistent",
+      "alignmentNotes": "孤山寺贾亭定位、早莺新燕、渐欲与才能所示初春层次和最爱行不足的主观留恋均保留。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-d5e90af45bfdfc41",
+      "title": "钱唐湖春行",
+      "author": "白居易",
+      "reviewedTextSha256": "4b8f6dc84cc068ce4668cc1ddcc38e6db8b2285a2216d8938d1be84e6194ddb1",
+      "reviewedCommentarySha256": "c84b6235594cdccf71ab0317acfbefbd10e4f46e46197d2ae2962ae7f247b422"
+    },
+    {
+      "order": 12,
+      "poemMeaning": "登咸阳城楼所见风雨将至与秦汉宫苑荒败，引出旧都兴亡和渭水长流的万里愁。",
+      "assessment": "consistent",
+      "alignmentNotes": "云起日沉到雨未到风已满楼、秦苑暮鸟和汉宫秋蝉、莫问当年与流水收束均对应；题名方向异文已有记录。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-2b3a9e48d77def9f",
+      "title": "咸阳城东楼",
+      "author": "许浑",
+      "reviewedTextSha256": "8f5bea5c29f9b7637de9f414a79910d8cc7897f9945dde3533f7aeaae18946d5",
+      "reviewedCommentarySha256": "b0828dddae534f90744d7aafb5485db0849a4ce06fc3a190c4d111a05a271a7c"
+    },
+    {
+      "order": 13,
+      "poemMeaning": "暮色寒山中的清贫住处，因风雪夜里柴门犬吠和归人出现而有了动静。",
+      "assessment": "consistent",
+      "alignmentNotes": "日暮天寒、苍山白屋、闻犬吠与风雪归人四层信息均完整；未指定夜归人为主人或诗人，符合现有解释分歧。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-9aea75c1a815593f",
+      "title": "逢雪宿芙蓉山主人",
+      "author": "刘长卿",
+      "reviewedTextSha256": "3e7ddf5d8893940c0194c121e935cd30dbc4b42c2748a15f900ec2ebd79d0006",
+      "reviewedCommentarySha256": "59faa479ce4c7e9f02a2a3ffe1ce263d20188000ef7c3ac093cf7ffc3f6ef234"
+    },
+    {
+      "order": 14,
+      "poemMeaning": "正午锄禾的汗水揭示盘中每粒粮食都凝结农人的辛苦。",
+      "assessment": "consistent",
+      "alignmentNotes": "锄禾的田间劳动、日当午与汗滴土、谁知的追问及粒粒辛苦准确互相对应。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-79aa95ffb774867a",
+      "title": "古风二首 二",
+      "author": "李绅",
+      "reviewedTextSha256": "81f6fefb0205c88776004c13d6a5d1887b107d8b27b520105a6eb87f5e1a383c",
+      "reviewedCommentarySha256": "5362bb8633868d374db4dd4a536e60313e416fafec416ab6fc2369cc1e8658f2"
+    },
+    {
+      "order": 15,
+      "poemMeaning": "早春柳树的绿枝细叶以碧玉丝带作比，再以春风剪刀回答叶子的巧妙生成。",
+      "assessment": "consistent",
+      "alignmentNotes": "一树高与万条下垂、细叶谁裁的设问、农历二月春风似剪刀的比喻均保留；丝绦词注明确。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-700df717b52858f7",
+      "title": "咏柳",
+      "author": "贺知章",
+      "reviewedTextSha256": "426f0af448f453acaa76f8682cc309b2c98b80ade7cf54674c0da783cb6202aa",
+      "reviewedCommentarySha256": "452e9490719a69b82bc1b9e568249672e6dd891d556304ba8f00d04bed6f76b7"
+    },
+    {
+      "order": 16,
+      "poemMeaning": "苍茫边塞中百战磨穿铠甲的将士，立誓不胜强敌决不回还。",
+      "assessment": "consistent",
+      "alignmentNotes": "青海长云暗雪山的寒苦、孤城遥望关塞、穿金甲的苦战与不破终不还的否定誓言一致；雁门关为已注明有据异文，不作地理实景串接。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-aafb675e8b63f9fd",
+      "title": "从军行 四",
+      "author": "王昌龄",
+      "reviewedTextSha256": "c11575331ebcbb965ca8717e4ff04ff8190191e99b48878e4998fa714d4f3438",
+      "reviewedCommentarySha256": "45ac2e59db3d25965b4af5e73177adcb228d6c55d1fe2a9c900cd0f079ece8cb"
+    },
+    {
+      "order": 17,
+      "poemMeaning": "风沙中援军出营行进时，前军夜战并擒敌首的捷报已传来。",
+      "assessment": "consistent",
+      "alignmentNotes": "日昏风尘、半卷红旗出辕门、洮河北前军夜战与已报生擒的先后关系准确；吐谷浑作敌方借代并保留首领义。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-9eb865ce65811d46",
+      "title": "从军行七首 五",
+      "author": "王昌龄",
+      "reviewedTextSha256": "44a27f5819b870a5f5aee4906beb9e49c7c182aadc7edfb28d6870fe47c4b74f",
+      "reviewedCommentarySha256": "5c7cece9be3e0e9df94cec264c5489a96fe526b060fef7fc498963691bb8f465"
+    },
+    {
+      "order": 18,
+      "poemMeaning": "日照香炉峰的紫色水雾与飞瀑极高直落，使诗人恍疑银河坠下九天。",
+      "assessment": "consistent",
+      "alignmentNotes": "紫烟、遥看挂川、直下三千尺、疑是九天银河四句均映入解读，夸张与幻觉未作实测。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-4c147bd293553a25",
+      "title": "望庐山瀑布水二首 二",
+      "author": "李白",
+      "reviewedTextSha256": "fb0ac81286e197e73ce60d31722368dbd6bad24abc116227a888064456ce2a31",
+      "reviewedCommentarySha256": "1663bebb453a54a3ab08c34265dd1544b290a6129672a8a429043077c9005570"
+    },
+    {
+      "order": 19,
+      "poemMeaning": "兰陵香酒与主人劝醉使远客忘却他乡之感。",
+      "assessment": "consistent",
+      "alignmentNotes": "郁金草香与琥珀酒色、但使的条件关系、醉客后不辨他乡的情绪都有对应，郁金香未误解为现代花卉。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-9edb0daf6e8f7316",
+      "title": "客中行",
+      "author": "李白",
+      "reviewedTextSha256": "77c4aed28b6edd242a746d3298b7bc47800aa620eeff390153e1da11a047f176",
+      "reviewedCommentarySha256": "489c03968b10a80613ac4d4a75d899ec1506d3e476208d5e9cd29cfc27325cc2"
+    },
+    {
+      "order": 20,
+      "poemMeaning": "石头城昔日繁华已经消逝，群山潮水和越过城头的旧月仍在荒城中延续。",
+      "assessment": "consistent",
+      "alignmentNotes": "山在而城空、潮回的寂寞拟人、旧时月与夜深还过的今昔对照一致；淮水释秦淮、女墙释城垣顶部矮墙准确。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-6bc4921f54ea9b1e",
+      "title": "金陵五题 石头城",
+      "author": "刘禹锡",
+      "reviewedTextSha256": "3bb59c04640b4ca9cddedd864d68fe4a5c352657fe0f0cd70a964d8d1b3ce4e9",
+      "reviewedCommentarySha256": "90d5af1380049657b9da59b257e6d0730b3273e3305268b5ff712c1da1fd1481"
+    },
+    {
+      "order": 21,
+      "poemMeaning": "女子听见江上情郎的歌声，借东晴西雨和晴情双关试探若有若无的情意。",
+      "assessment": "consistent",
+      "alignmentNotes": "杨柳江水的春景、闻郎唱歌的听觉触发、东西不同天气与无晴却有晴的双关对应完整，保留情意难猜的含蓄。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-20ba76b968927758",
+      "title": "竹枝词二首 一",
+      "author": "刘禹锡",
+      "reviewedTextSha256": "c400b866b334694a00492619a54edc393a65b3878f1426042c2d054245bf2414",
+      "reviewedCommentarySha256": "39eb08bded6e9815d044c2c30ea779a7bbfdc9c222417f8fc1468f6eefc02f6c"
+    },
+    {
+      "order": 22,
+      "poemMeaning": "曾有不可替代的深情，诗人对他人淡于回顾，并把原因分作修道与怀念所爱。",
+      "assessment": "consistent",
+      "alignmentNotes": "沧海巫山的排他性比喻、取次懒回顾、半缘修道半缘君两重原因均保留；悼亡生平作为通行理解说明而不补造。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-d05fe8438a12505d",
+      "title": "离思五首 四",
+      "author": "元稹",
+      "reviewedTextSha256": "c800e1774e8617a845fb5d806002d0f523f9641a8b687564a901012d7880a739",
+      "reviewedCommentarySha256": "d49ed7b9d8afba8e218ab7ec7c41715dd73e1c201ec0533655ca0536b19b65c9"
+    },
+    {
+      "order": 23,
+      "poemMeaning": "清明雨中愁闷的行人询问酒家，牧童远指杏花村落。",
+      "assessment": "consistent",
+      "alignmentNotes": "清明连雨、行人欲断魂、借问与遥指的问答顺序一致；饮酒解愁是合理释义，未锁定杏花村现实地点，署名归属待核已有说明。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-009fb1a9c180ce4b",
+      "title": "清明",
+      "author": "杜牧",
+      "reviewedTextSha256": "e15262a2ff6e3ebf12a0af2869928b081d52207de000fff7e7f49da1d8461ab6",
+      "reviewedCommentarySha256": "afbbd6d3e65568f1a5a15ac8f8ac9f52e95e5146d965cfae5c2ca22d8dd76f92"
+    },
+    {
+      "order": 24,
+      "poemMeaning": "秋山石径与云间人家引入停车赏枫，诗人赞霜叶红艳胜过春花。",
+      "assessment": "consistent",
+      "alignmentNotes": "远上石径、白云生处人家、坐作为因为、枫林晚及红于二月花的比较准确对应。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-c4adf6ab8ef4f9ed",
+      "title": "山行",
+      "author": "杜牧",
+      "reviewedTextSha256": "e71e97084f370b973be4b900f2faf9be21c8de50ade9d514c007199b55ab59eb",
+      "reviewedCommentarySha256": "c62459496199771e2d130c3602acd25722565fa7cac1665272a4b656bbcb97f6"
+    },
+    {
+      "order": 25,
+      "poemMeaning": "蜜蜂遍采山野百花酿蜜，诗人借为谁辛苦为谁甜追问劳动与享用的关系。",
+      "assessment": "consistent",
+      "alignmentNotes": "平地山尖的遍布、尽占风光的拟人、采百花成蜜的先后与两个为谁反问均保留，词注避免误作毁花。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-1a5b013193a6623b",
+      "title": "蜂",
+      "author": "罗隐",
+      "reviewedTextSha256": "a872954334bd86fc98e9831afc0898399bfc425451904bf1f71dcc1eeb606fdc",
+      "reviewedCommentarySha256": "9a72b81f62484e7f24570f6b926bf3d47e3d277d9dd16a6f92db6faaa82d5c64"
+    },
+    {
+      "order": 26,
+      "poemMeaning": "丰足乡村在社祭结束的斜日下，各家扶着饮醉者归来，呈现农家节庆欢乐。",
+      "assessment": "consistent",
+      "alignmentNotes": "稻粱丰美、半掩院门、桑柘斜影、社散醉归全部对应；春社与稻粱肥的季节疑难已注明，未误换秋社。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-bdb70d2a52e032f4",
+      "title": "社日",
+      "author": "王驾",
+      "reviewedTextSha256": "1f7686a65e2604be05311ca857f7d8686563f4519dd608eab9ebd8b9deaf1f5e",
+      "reviewedCommentarySha256": "dc40d34d1c521b83d19680da663aa3fb32055efcbbc93d4a1656057a744ecdf1"
+    },
+    {
+      "order": 27,
+      "poemMeaning": "春深水湾的钓者从清潭与荷动感知鱼情，日暮仍系舟杨岸等待有情之人。",
+      "assessment": "consistent",
+      "alignmentNotes": "春深杏乱、潭清故疑浅、荷动故知鱼散、日暮待人维舟的因果和顺序明确；情人不强限定为现代恋人称谓。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-6cf706b3e20e29c8",
+      "title": "杂咏五首 钓鱼湾",
+      "author": "储光羲",
+      "reviewedTextSha256": "47a98c28e9c6e173b9d2e5c8d6b2a2de62d99a00298a304075b5a1a1bd030160",
+      "reviewedCommentarySha256": "bea6d7cf8b986bedb538ea2010789572efff8452c0149a31e3be4e1668104fa9"
+    },
+    {
+      "order": 28,
+      "poemMeaning": "困顿却不肯放弃济民志向的杜甫寒夜返家，经过权贵宴乐与冻饿惨象，因幼子饥卒把悲痛推向失业百姓与远戍士卒。",
+      "assessment": "revise",
+      "alignmentNotes": "八段覆盖立志忧民、仕隐矛盾、骊山御宴、丝帛征敛、朱门冻骨、泾渭冰桥、幼子饿死和推己及人的全篇结构；忍为尘埃没被改为接受埋没的假设，削弱前段不甘放弃抱负的语气。",
+      "issues": [
+        {
+          "severity": "moderate",
+          "field": "commentary.interpretation[1]",
+          "original": "困顿到如今，即便埋没，也难以转变操守。",
+          "problem": "忍在此承接不肯放弃济民志愿，作岂肯、岂忍的反问；即便埋没变成接受埋没的假设，并把下句节操义挪来替代本句不甘埋没。",
+          "proposed": "困顿至今，我又岂甘心就这样被尘埃埋没？终究自愧不如巢父、许由那样彻底隐退，仍不能改变自己的志向。",
+          "verificationRefs": [
+            "https://wkxb.sicnu.edu.cn/Publish/201610/20161024152344229.pdf",
+            "https://www.shidianguji.com/zh/book/SBCK133/chapter/SBCK133_622"
+          ]
+        }
+      ],
+      "verificationRefs": [
+        "https://wkxb.sicnu.edu.cn/Publish/201610/20161024152344229.pdf",
+        "https://www.shidianguji.com/zh/book/SBCK133/chapter/SBCK133_622"
+      ],
+      "id": "yizhu-aaf4f486503e9bb2",
+      "title": "自京赴奉先县咏怀五百字",
+      "author": "杜甫",
+      "reviewedTextSha256": "9d3ada0ebead5710185e937a91d395a06bb35e56b859602ca01a146827e1d883",
+      "reviewedCommentarySha256": "e07978461d38e57f164505ef38a083e5b0e6b9da32f0e43ca9f9236cb4029a48",
+      "proposedCommentary": {
+        "summary": "从长安冒寒返家，一路是宫苑的欢宴、权贵的丰盛，也是穷人的冻饿。回到家却听见幼子饿死的哭声，诗人的伤痛于是越过一家，沉沉压向天下无以谋生的人。",
+        "interpretation": [
+          "我这个住在杜陵的平民，年岁渐长，反倒愈加不合世俗。早年自许要像稷、契那样辅佐政治、济养百姓，如今虽处处失意，赤手忍受困苦，只要尚未盖棺，这志愿便不肯放下。整年为百姓忧虑，胸中焦灼，同学长者虽取笑我，我仍要激越地放声歌唱。",
+          "我并非没有泛舟江海、自在终老的心愿，只因仍期待君上有尧舜之治，才不忍就此永远离开。朝廷似乎已不缺栋梁之材，我却像向日的葵藿，无法改变本性。想到寻常人只求自己的安身之处，便反问自己何必还怀着大鲸横卧海中的心志；可越明白世情，越不愿靠四处拜谒求进。困顿至今，我又岂甘心就这样被尘埃埋没？终究自愧不如巢父、许由那样彻底隐退，仍不能改变自己的志向，只能饮酒自遣，越唱越悲。",
+          "岁末百草凋零，狂风在高冈上呼啸。我半夜离京，严霜使衣带冻硬断裂，手指僵直，连结也打不好。天将明时经过骊山，皇帝驻处高踞山间，寒空浓雾弥漫，山路湿滑。华清宫气雾蒸腾，羽林军兵甲相接，君臣宴乐的声音震动山谷；享受赐浴和宴饮的都是贵人，哪里会有短衣穷民。",
+          "宫廷赐下的丝帛，本由贫寒织妇辛劳制成；官府又逼迫她们的丈夫和家人，把财物收聚进献。照仁政的道理，君主分赐财物应为了使国家与百姓活得更好；臣下若忘了这层本意，岂不辜负恩赐？满朝官员之中，有仁心的人理应为此警惕不安。",
+          "更听说宫中的金盘都送到了显贵家里。华堂里舞女如仙，轻烟薄纱间显出姿容；客人穿着暖裘，听笙管清瑟，吃着驼蹄羹与珍贵的橙橘。朱门里酒肉丰盛，路边却有冻死的人，富贵与贫困近在咫尺，差别竟这样惨烈，实在难以尽说。",
+          "我继续向北赶路，来到泾渭一带，渡口已改了通行的路线。群冰从上游涌下，高高堆叠，像大山移来，让人担心连支天的柱子都会撞断。幸好桥还没有崩裂，只听得支撑的木头作响；旅人彼此攀援而过，宽广的河水断不可轻渡。",
+          "妻儿寄住在外县，一家十口被风雪隔开。我怎能长期不去照应，只盼赶去与他们共同忍受饥渴。谁知一进门就听见痛哭，幼子竟已经饿死。我哪里能不放声悲哀，连街坊邻里也为之呜咽。身为父亲，却没能给孩子足够的食物，以致早夭，这羞愧和痛苦难以承受；贫家会遇到这样的急难，是我所不曾料到的。",
+          "我还因身份免除租税和征役，回看自己的遭遇已这样酸辛，普通百姓又要承受多少扰攘！默默想到失去生计的人，又想到远方戍守的士兵，忧虑便像终南山那样高大，又像漫无边际的水势，怎么也无法收束。"
+        ],
+        "glossary": [
+          {
+            "term": "稷与契",
+            "text": "传说中辅佐舜的贤臣，分别与农业、教化相联系。"
+          },
+          {
+            "term": "濩落、契阔",
+            "text": "前者指落拓失意，后者指辛苦困顿。"
+          },
+          {
+            "term": "黎元",
+            "text": "百姓。"
+          },
+          {
+            "term": "巢与由",
+            "text": "巢父、许由，古代传说中不慕权位的隐士。"
+          },
+          {
+            "term": "长缨、短褐",
+            "text": "分别借指贵官与贫民的衣着身份。"
+          },
+          {
+            "term": "卫霍室",
+            "text": "借汉代卫青、霍去病的显贵地位写权贵之家。"
+          },
+          {
+            "term": "澒洞",
+            "text": "广大无际、难以收束的样子。"
+          }
+        ],
+        "reviewNotes": [
+          "补核“秋未／秋禾”确有版本与阐释分歧：《杜诗详注》用“秋禾”，《杜诗阐》讨论“不必作秋禾”。本制作稿保留归档的“秋未”，不以常见读法径判误字；详细证据见 text-proposals/001-105.json。",
+          "“贫𪧘”“𫶇嵲”“樛嶱”等生僻字须校字形及字体覆盖。“酒肉臭”有臭味与香气等读解，不把争议译成确定的酒肉腐坏。",
+          "“忍为尘埃没”取岂肯被尘埃埋没的反问语气，承接盖棺以前不放弃济民志愿；不译为甘受埋没的让步。"
+        ]
+      }
+    },
+    {
+      "order": 29,
+      "poemMeaning": "农民预售未成新丝新谷以补眼前急难，诗人愿君王不照贵人宴席而专照逃亡农舍。",
+      "assessment": "revise",
+      "alignmentNotes": "二月五月的预售、剜肉补疮的透支比喻和烛心愿望均对应；末段把排他的不照只照改成兼顾宴席与贫家的递进关系。",
+      "issues": [
+        {
+          "severity": "major",
+          "field": "commentary.interpretation[1]",
+          "original": "不只照耀绫罗华服的宴席，更去照见因贫困而逃亡的人家",
+          "problem": "不照绮罗筵明确否定照顾权贵筵席，只照逃亡屋强调转向困苦之家；不只更却肯定同时照宴席，直接反转原句否定。",
+          "proposed": "不要照耀绫罗华服的宴席，只去照见那些因贫困与赋役而逃亡的人家。",
+          "verificationRefs": []
+        }
+      ],
+      "verificationRefs": [],
+      "id": "yizhu-3aefc236bd838537",
+      "title": "咏田家",
+      "author": "聂夷中",
+      "reviewedTextSha256": "7634e541c71975f5438ea2e3da934dfd92f7b29f4c597b6a7fdd1d7c07517789",
+      "reviewedCommentarySha256": "7534846745b0390a9602610466885d404f5ea4fa087ea095790897318f79ce53",
+      "proposedCommentary": {
+        "summary": "新丝、新谷还未到手，农家就已被迫提前卖去。像剜肉补疮一样的求生，催出诗人的愿望：愿君王的光照见那些逃散荒废的家。",
+        "interpretation": [
+          "二月蚕丝尚未收成，已经卖掉将来的新丝；五月谷物还没成熟，又低价卖去将来的收获。这样的周转看似治好眼前的疮，却像割掉心头的肉，透支了以后的活路。",
+          "我愿君王的心化成一支明亮的蜡烛，不要照耀绫罗华服的宴席，只去照见那些因贫困与赋役而逃亡的人家，让那些藏在暗处的苦难被看见。"
+        ],
+        "glossary": [
+          {
+            "term": "粜",
+            "text": "卖出粮食。"
+          },
+          {
+            "term": "逃亡屋",
+            "text": "因不堪生计与赋役而逃亡者的家舍。"
+          }
+        ],
+        "reviewNotes": []
+      }
+    },
+    {
+      "order": 30,
+      "poemMeaning": "长安车马宫阁和情爱歌舞的繁华被权贵争权扩展到极盛，随后转入盛衰无常与扬雄清贫著书的对照。",
+      "assessment": "interpretive-uncertainty",
+      "alignmentNotes": "五段完整覆盖大道宫第、楼中情爱、游侠歌妓、市井豪华、将相专权与书斋桂花收束；连甍已按覆盖层校订生效。萧相有萧何与萧望之注释分歧；屠苏仅写屋宇则漏掉本处酒宴语境中的酒名义。",
+      "issues": [
+        {
+          "severity": "minor",
+          "field": "commentary.interpretation[3] / commentary.reviewNotes",
+          "original": "诗借灌夫遭排挤、萧何受猜忌等古事",
+          "problem": "萧何解释有明代古注根据，不能定为误释；但通行注多指受弘恭、石显排挤的萧望之，当前未说明指代分歧。",
+          "proposed": "正文可用萧氏重臣受排挤的古事保留开放性，并在笔记注明萧何说与萧望之说各有根据，终校择注后统一。",
+          "verificationRefs": [
+            "https://www.shidianguji.com/zh/book/NA11858/chapter/1m8o3hiaj3jgf",
+            "https://www.gushiwen.cn/shiwenv.aspx?id=ac6684b5da86"
+          ]
+        },
+        {
+          "severity": "minor",
+          "field": "commentary.interpretation[3]",
+          "original": "置身华美屋宇、举起珍异酒杯",
+          "problem": "屠苏既可为屋名，也形成酒名；本处翡翠屠苏常按翡翠色的屠苏酒解释。当前确定译成华美屋宇而未说明另解，使酒色这一通行读法缺席，宜在注解交代边界而不径判屋名为错。",
+          "proposed": "饮着翡翠色的屠苏美酒，举起珍异的鹦鹉杯。词注补屠苏酒名，并可说明其词源与屋名有关。",
+          "verificationRefs": [
+            "https://www.shidianguji.com/zh/book/NA11858/chapter/1m8o3hiaj3jgf"
+          ]
+        }
+      ],
+      "verificationRefs": [
+        "https://www.shidianguji.com/zh/book/NA11858/chapter/1m8o3hiaj3jgf",
+        "https://www.gushiwen.cn/shiwenv.aspx?id=ac6684b5da86"
+      ],
+      "id": "yizhu-f3737ebcf8e5a861",
+      "title": "长安古意",
+      "author": "卢照邻",
+      "reviewedTextSha256": "7c066876cf4dd70c85b0e44cbbe023280fdb3363c0295fd4f04b34e067709d0b",
+      "reviewedCommentarySha256": "28322d1a9bf31cdcaebdcbef94dfa7f4eb9d72d7ff555c6d56d8de488483faa3",
+      "proposedCommentary": {
+        "summary": "长安车马、楼台、歌舞与春色交相照映，繁华似乎没有尽头。可权势与青春都留不住，盛大的歌场终于归于寂静，只有清贫书斋里的书与桂花仍散着幽香。",
+        "interpretation": [
+          "长安大道连着曲折小巷，装饰华美的牛车马车来往不绝。贵人车驾穿行公主府第与侯门，车盖上的龙凤映着朝日与晚霞；长长的游丝绕树，娇鸟在花间争鸣，城中千门万户都是春色。楼阁碧树交错，空中廊道与雕花窗相连，两座宫阙的屋顶如展翅凤凰；豪家的画阁高耸，承露的金茎也像伸入云外。",
+          "楼上楼下、街头陌上相遇的人，虽彼此望见，却未必相识。诗接着转入对青春情爱的想象：如能得到心爱的人相伴，便不惜生命；宁愿成为成双的鱼与鸳鸯，也不羡慕神仙。连帐上孤独的鸾鸟都嫌寂寞，只想把双燕贴到帘上。成双的燕子绕着画梁，罗帏翠被透着郁金香气，美人的鬓发与额饰精巧，盛装出行，各有娇姿。",
+          "俊美少年跨着花纹骏马，歌楼门户也装饰华丽。天色渐晚，官府周围乌雀啼栖，车帷却仍沿着城道远去。杜陵北有人携弹放鹰，渭桥西有人召募游侠；佩剑少年相约，来到歌妓居处共宿。黄昏的紫裙与婉转歌声留住来客，北堂夜夜佳人如月，南陌朝朝车骑如云，热闹街路连接着几处市集，杨柳青槐间尘土与繁华气象一道升起。",
+          "执掌京城警卫的显贵带着众多骑从而来，饮着翡翠色的屠苏美酒，举起珍异的鹦鹉杯。歌舞女子解开衣带，为客人献上各地歌舞。还有更为豪奢的将相，争着凭权势左右局面，彼此毫不相让；诗借灌夫受排挤、萧相不容于掌权者等古事，写权贵容不得异己。他们骑着骏马得意于春风，自信歌舞富贵能延续千年，骄奢远超旧日贵族。",
+          "但节序风光从不等人，沧海桑田也可倏忽变换。当初的金阶玉堂，如今只剩青松。与喧闹相对，是扬雄那样寂寞清贫的居处，年年只有满床书卷；山上的桂花独自开放，香气飘来，轻轻沾上衣襟。繁华易尽，沉静的学问与自守之心却有另一种长久。"
+        ],
+        "glossary": [
+          {
+            "term": "狭斜",
+            "text": "曲折的小街巷。"
+          },
+          {
+            "term": "金茎",
+            "text": "承露盘下高大的铜柱，借汉代宫苑设施写帝都豪华。"
+          },
+          {
+            "term": "鸦黄",
+            "text": "古代女子额上的黄色妆饰。"
+          },
+          {
+            "term": "探丸",
+            "text": "游侠以探取弹丸分派行动的典故。"
+          },
+          {
+            "term": "金吾",
+            "text": "古代执掌京城警卫的官。"
+          },
+          {
+            "term": "扬子",
+            "text": "扬雄，以清贫著述的生活与权贵豪奢相对照。"
+          },
+          {
+            "term": "连甍",
+            "text": "相接的屋脊。诗中双阙的屋檐舒展，仿佛凤凰垂下的双翼。"
+          },
+          {
+            "term": "萧相",
+            "text": "本处通行解为汉元帝时受弘恭、石显排挤的萧望之；明蒋一葵《唐诗选》另注为相国萧何，存在古注分歧。"
+          },
+          {
+            "term": "屠苏",
+            "text": "此处按酒名解释，“翡翠”形容酒色；屠苏也有屋舍义，古注说明其原为庵名、因造酒而转为酒名。"
+          }
+        ],
+        "reviewNotes": [
+          "制作稿已校订：“甍”是屋脊，与复道、交窗、双阙、凤翼共同描写建筑；“薨”通常指诸侯等去世，于此义不合。核对《长安古意》的古诗电子文本作“双阙连甍垂凤翼”，建议将此处“薨”校为“甍”，并保留原始来源记录。本次只提出这一字的呈现修订。 原始 poems.json 保留原貌，本次仅用于独立编辑预览，尚非纸书终校。",
+          "初稿记录（归档底本）：正文“双阙连薨”疑为“双阙连甍”（相接的屋脊），原典文本已见“甍”，源文未改。大量汉代人名、官名用于借古写盛衰，不应把全部场景画成同一历史事件。",
+          "“萧相”有萧望之与萧何两说，正文暂保留官称；“翡翠屠苏”有美酒与华屋读法，本稿取酒宴语境的屠苏酒，不径判另说为误。"
+        ]
+      }
+    },
+    {
+      "order": 31,
+      "poemMeaning": "洛阳落花引出青春易逝、年年花似而代代人异的感喟，昔日少年老病失宠后歌舞地也只余黄昏鸟声。",
+      "assessment": "consistent",
+      "alignmentNotes": "前三层从女儿见落花到古今人物更替，再从红颜子劝怜白头翁转为其荣枯身世，最后容颜衰老与歌舞地寂灭完整对应。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-873a9dd8fedf78eb",
+      "title": "代悲白头吟",
+      "author": "刘希夷",
+      "reviewedTextSha256": "3174e15ef13a797a3c72f644e0961d8405d334ffd2a9a2488417b291b763deeb",
+      "reviewedCommentarySha256": "ec5a015a175c90574ee5767bb8b225e0f37612eb115a358376ae04ab93b94597"
+    },
+    {
+      "order": 32,
+      "poemMeaning": "八位名士各具醉态，诗以酒量与姿态连写放旷、风度、诗书和雄辩的才情。",
+      "assessment": "consistent",
+      "alignmentNotes": "三段逐一覆盖贺知章、汝阳王、李适之、崔宗之、苏晋、李白、张旭、焦遂八人，酒中圣贤和世贤异文已有说明，夸张事迹未当史实。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-a6bdf70848c441ec",
+      "title": "饮中八仙歌",
+      "author": "杜甫",
+      "reviewedTextSha256": "247e0aca0c22d40d27e9ab9c1fb03b77a149f3584ccc0c448e3cabe86b575e42",
+      "reviewedCommentarySha256": "328baaee2bedb31f38e6c3828e1e69f56b4308b392f2cac86cc28094d4c01363"
+    },
+    {
+      "order": 33,
+      "poemMeaning": "秋夜危城与寒霜战鼓中，将士半卷红旗临易水，愿持剑以死报答君主知遇。",
+      "assessment": "consistent",
+      "alignmentNotes": "黑云城摧、甲如金鳞、秋角燕支紫、易水重霜鼓不起与黄金台玉龙报恩全部对应；向月异文与燕支色彩分歧已有注明。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-85f57e822a5eff50",
+      "title": "雁门太守行",
+      "author": "李贺",
+      "reviewedTextSha256": "7e885eee5366715d4d3c486e338b8090e813b4bdb362a0ad8dd44cf0e74f02a4",
+      "reviewedCommentarySha256": "fc2ce38a4abe27ed371208651ccce22aae845bfa899559058f5976d467ae95bd"
+    },
+    {
+      "order": 34,
+      "poemMeaning": "汉宫铜人被魏官移走，怀想逝去汉主而泪如铅水，在秋兰荒月和渐远渭声中悲别旧朝。",
+      "assessment": "consistent",
+      "alignmentNotes": "汉武帝消逝与宫苑苔碧、魏官迁移东关风、汉月清泪、衰兰天老和携盘渭城渐远的时序与拟人主语均明确。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-e8d9e6396bc188a1",
+      "title": "金铜仙人辞汉歌",
+      "author": "李贺",
+      "reviewedTextSha256": "c157e0dda5608ac726f43a01a8291af3c9b3db2f46820ad3a3357a9bd151cabb",
+      "reviewedCommentarySha256": "1594a5ec20019c7c54d16af93cbdd7970cee82a0c9d644a4540ea8d2691d9fa6"
+    },
+    {
+      "order": 35,
+      "poemMeaning": "酒宴中的失意少年被主父偃、马周困后得遇的故事鼓舞，终于由幽寒悲叹转向凌云志气。",
+      "assessment": "consistent",
+      "alignmentNotes": "零落饮酒与主人奉觞、两位古人的困顿与知遇、迷魂鸡鸣和少年拏云的情感转折完整；家人折柳写久候盼归可通，主客说话边界已有保留。",
+      "issues": [],
+      "verificationRefs": [
+        "https://wenhui.whb.cn/third/yidian/201810/29/220668.html"
+      ],
+      "id": "yizhu-d5f0476d20fdcad7",
+      "title": "致酒行",
+      "author": "李贺",
+      "reviewedTextSha256": "4459366c4ae4c926c8e2d04845d138aa27bbefb378587b583f97307f8d6790b8",
+      "reviewedCommentarySha256": "d080e504b71e0c9e386b7ce8161f6ba576bceb5ee0b4a3b7e103e0dc45b79fbd"
+    },
+    {
+      "order": 36,
+      "poemMeaning": "秋暮野望中牧猎者归家，徘徊无依又无相识的诗人长歌怀想采薇隐者。",
+      "assessment": "consistent",
+      "alignmentNotes": "薄暮徙倚无依、树秋山晖、驱犊带禽的返归、无相识与采薇古人形成完整对照；伯夷叔齐典故合适。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-24a386f1d0e1bb54",
+      "title": "野望",
+      "author": "王绩",
+      "reviewedTextSha256": "aac8bfd0bd781dd3251b631f6aa97210239b44f349a69566cd5aa44bd01d1bfd",
+      "reviewedCommentarySha256": "4a6f08c4503e256e4180fc0ffcdd4934edecc74f7f5e78a50b13e9bd7e56c490"
+    },
+    {
+      "order": 37,
+      "poemMeaning": "上元灯夜通道开放、马尘人月和歌舞交织，诗人希望夜禁已解的欢乐良宵不要被漏声催尽。",
+      "assessment": "consistent",
+      "alignmentNotes": "火树银花与铁锁开、暗尘随马明月逐人、秾李形貌与落梅乐曲、金吾不禁和玉漏莫催均对应，未将落梅误作落花。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-7968f964d40de859",
+      "title": "正月十五夜",
+      "author": "苏味道",
+      "reviewedTextSha256": "210a9846567b93b7dc81e76cc076f3bc476f968682f0678f7a86558e60000944",
+      "reviewedCommentarySha256": "328f273308f3053280ff792b17fa08985ea66554aef163c32a9199e212bfcff1"
+    },
+    {
+      "order": 38,
+      "poemMeaning": "禅房空林峰壑及夕照雨翠的清幽景象，以莲花洁净映照义公不染世俗之心。",
+      "assessment": "consistent",
+      "alignmentNotes": "义公习禅的主体、房舍依林、户外峰与阶前壑、雨足空翠的庭阴、莲净心净譬喻均有准确对应。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-444a0ce4ebffe52f",
+      "title": "题大禹寺义公禅房",
+      "author": "孟浩然",
+      "reviewedTextSha256": "ae50248050b3a7cce54a6796a50888791c60c515893fe816f1ba158d3052f192",
+      "reviewedCommentarySha256": "472359c06e412c6443fba1afa59fbcfec98618f683e0ef920785953a734384df"
+    },
+    {
+      "order": 39,
+      "poemMeaning": "秋夜独坐因衰鬓老病而悲，诗人放弃炼金长生的希望，转向佛家无生之理寻求超脱。",
+      "assessment": "consistent",
+      "alignmentNotes": "近二更空堂、雨中果落与灯下虫鸣的内外声景、白发难变黄金难成的否定、唯有学无生的转折准确。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-d82faeb7efdeb7f8",
+      "title": "秋夜独坐",
+      "author": "王维",
+      "reviewedTextSha256": "ae7e0f6d44d6b589e5a3f8fd9c551b77049feb1b6f3fa49cc69aa90aec67c79b",
+      "reviewedCommentarySha256": "08ea6dc84ca834d5ef51e0c545fe0f2ceec5a309027fb26809b966a82c52d374"
+    },
+    {
+      "order": 40,
+      "poemMeaning": "五月天山雪寒无春，战士只有笛曲折柳可闻，在昼战夜卧的艰苦中仍愿持剑斩敌。",
+      "assessment": "consistent",
+      "alignmentNotes": "无花只有寒、曲中折柳与现实未见春的对照、晓战宵眠和愿斩楼兰的决心都保留；楼兰典故明确。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-320270075e2d7b36",
+      "title": "塞下曲六首 一",
+      "author": "李白",
+      "reviewedTextSha256": "6ecd3c0b54e8ccba0cb4c6617f149cd5ee79b45b1a7da3ac7de14e7259ff6cf6",
+      "reviewedCommentarySha256": "3699f4147b9b3784bf3293a6309925bb49111c44952731bf2e20b65b23b094ec"
+    },
+    {
+      "order": 41,
+      "poemMeaning": "杜甫称赞远方李白兼具庾信清新与鲍照俊逸，借渭北春树江东暮云盼重会饮酒论诗。",
+      "assessment": "consistent",
+      "alignmentNotes": "不群诗思、庾鲍两典、渭北我与江东友的空间对应、何时重与细论的重会愿望一致。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-ade4087e0b09e485",
+      "title": "春日忆李白",
+      "author": "杜甫",
+      "reviewedTextSha256": "e92c0a71186d492d910d167e22fb123acf81d8e2baf67070c735781aabb7cadd",
+      "reviewedCommentarySha256": "b35523e6839c6438f26fbfd56f4c94d2c623b80aa4980af045817abca6ecfb15"
+    },
+    {
+      "order": 42,
+      "poemMeaning": "房兵曹的大宛良马骨棱耳峻、蹄轻骁腾，能无远不至并在危急中托付生死。",
+      "assessment": "consistent",
+      "alignmentNotes": "大宛名马、瘦骨锋棱、竹批耳与风入蹄的形态速度、无空阔与托死生到万里横行的推赞均覆盖。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-3ea255ae5fcb81d9",
+      "title": "房兵曹胡马诗",
+      "author": "杜甫",
+      "reviewedTextSha256": "ff9f747159326b795a557da18025843bdacf95193a30228c819c7d3657899268",
+      "reviewedCommentarySha256": "f6cdb9fdeb742142b7d139f73eaaf296e609da3bcddc2c714e0a436985486108"
+    },
+    {
+      "order": 43,
+      "poemMeaning": "湘灵瑟声引动神、人、金石和香草，并以苍梧舜的哀思、潇浦流水与洞庭悲风展开，曲终只余江山。",
+      "assessment": "interpretive-uncertainty",
+      "alignmentNotes": "神女鼓瑟、冯夷舞楚客悲、苦调金石清音高远、流水悲风、曲终人隐青峰余韵全篇完整；苍梧来怨慕的主体及来字关系尚需择注，当前从苍梧传来她的哀思过于定向。",
+      "issues": [
+        {
+          "severity": "moderate",
+          "field": "commentary.interpretation[1]",
+          "original": "她的哀思从苍梧一带传来，像在追慕远去的舜",
+          "problem": "苍梧首先连接舜的葬地；本联可解瑟声引动苍梧舜灵来听而怨慕，也常整体解湘灵怀舜。当前把她的哀思指定为从苍梧传来，未交代为何湘灵之思以苍梧为发源地，且使音乐感动远近的关系含混。",
+          "proposed": "瑟声牵动了与苍梧葬舜相连的哀怨与思慕，白芷也仿佛随声吐出芳香。笔记说明本句可解苍梧舜灵受乐声感动，也有侧重湘灵追慕舜的读法，不强定哀思的传来方向。",
+          "verificationRefs": [
+            "https://www.shidianguji.com/zh/book/JINANLIB03064/chapter/1lx15r1id3u3e",
+            "https://m.gushiwen.cn/mingju/juv_04e3ab84240c.aspx",
+            "https://cool.ntu.edu.tw/files/1342321/download?download_frd=1"
+          ]
+        }
+      ],
+      "verificationRefs": [
+        "https://www.shidianguji.com/zh/book/JINANLIB03064/chapter/1lx15r1id3u3e",
+        "https://m.gushiwen.cn/mingju/juv_04e3ab84240c.aspx",
+        "https://cool.ntu.edu.tw/files/1342321/download?download_frd=1"
+      ],
+      "id": "yizhu-488e461abecf4d5e",
+      "title": "省试湘灵鼓瑟",
+      "author": "钱起",
+      "reviewedTextSha256": "f21b48973291eb7aec48e67c99fed851fdabe0f4bd02e985042917e641b67478",
+      "reviewedCommentarySha256": "fa714d3064da9c29c33f75c78a8fa73602c18d8cbd1f1545cd3b25ee0ea6fc69",
+      "proposedCommentary": {
+        "summary": "湘水女神的瑟声凄清，仿佛把流水、香草与洞庭长风一同唤醒。曲声渐止，神女不见，江上只留下几座青峰，余韵却仍未散去。",
+        "interpretation": [
+          "常听说湘水的神女善于弹奏云和瑟。河神仿佛随声起舞，漂泊楚地的人却承受不住其中的悲哀。琴调连金石都似为之凄楚，清澈的声音升入幽远天空。",
+          "瑟声牵动了与苍梧葬舜相连的哀怨与思慕，岸边白芷也仿佛随声吐出芳香。乐声随流水传向潇湘水滨，又化作悲凉的风吹过洞庭。等到一曲终了，已看不见奏瑟者，只剩江上几座青山，寂静地承接着未尽之音。"
+        ],
+        "glossary": [
+          {
+            "term": "云和瑟",
+            "text": "以云和山良材制成的瑟，泛指美好的瑟。"
+          },
+          {
+            "term": "冯夷",
+            "text": "传说中的河神。"
+          },
+          {
+            "term": "苍梧",
+            "text": "与舜南巡、葬于九疑的传说相连。"
+          },
+          {
+            "term": "白芷",
+            "text": "芳香植物。"
+          }
+        ],
+        "reviewNotes": [
+          "此诗十二句为五言排律，虽原书列“五律”，页面排版须按实际句数。帝子、湘灵与舜妃的神话关系存在传说叠合，解说不强求单一谱系。",
+          "“苍梧来怨慕”有舜灵受瑟声感动而来、湘灵瑟声寄托怀舜哀思等读解；苍梧先指舜葬地，不强定“她的哀思从苍梧传来”的路线。"
+        ]
+      }
+    },
+    {
+      "order": 44,
+      "poemMeaning": "访李凝幽居的僧人沿荒园草径在月下敲门，桥外山石云气更添清幽，并约定日后再来。",
+      "assessment": "consistent",
+      "alignmentNotes": "少邻荒园、池边鸟宿与月下僧敲、过桥野色、暂去还来幽期不负均对应；移石动云根的行移或搬石差异已注明，不判现有读法为错。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-e4a6874197df2930",
+      "title": "题李凝幽居",
+      "author": "贾岛",
+      "reviewedTextSha256": "9727d422606a8a51665329358ffeb2961fcf4bda109ec66dabb17df08a7af89a",
+      "reviewedCommentarySha256": "30d91371d5df39d9ed193442a7edc96784bbc813a3ec306970c6355953183de0"
+    },
+    {
+      "order": 45,
+      "poemMeaning": "吴处士扬帆闽地后久无归讯，长安秋风落叶使诗人回忆雷雨寒夜相聚而越发思友。",
+      "assessment": "consistent",
+      "alignmentNotes": "扬帆去闽、蟾月亏团的时间、渭水长安的现景、此地聚会雷雨的回忆、未返兰桡与海云消息的远隔准确。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-e0c7823d3af8fb4f",
+      "title": "忆江上吴处士",
+      "author": "贾岛",
+      "reviewedTextSha256": "1f0524044d3917d24c66f217036a624b8c405d869d03633f3a69717e8184d22f",
+      "reviewedCommentarySha256": "90e729fa56752e3a6cd53c7734fc963e9b2ce5978e58c24f4f15649f97f5363e"
+    },
+    {
+      "order": 46,
+      "poemMeaning": "雨后秋寺蝉声苔阶白鸟暮霭的清幽，与竹西路外扬州的繁华歌吹形成对照。",
+      "assessment": "consistent",
+      "alignmentNotes": "独蝉松桂秋、满阶苔故迟留白鸟、树深暮霭和小楼斜阳、谁知外城歌吹的转折都准确对应。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-ceb3ce9e6f23d140",
+      "title": "题扬州禅智寺",
+      "author": "杜牧",
+      "reviewedTextSha256": "5e61a886e145869ac92a87fb840fd1cb934228c6d8d6a6d04afb47b572a112aa",
+      "reviewedCommentarySha256": "ec81ef57f2aca310a9183d9dc7554028bb69dd7af1b31265bb292fafdeb038bb"
+    },
+    {
+      "order": 47,
+      "poemMeaning": "春去夏清时雨后晚晴照亮幽草高阁小窗，干巢鸟轻飞使迟到的晴光倍受珍惜。",
+      "assessment": "consistent",
+      "alignmentNotes": "深居夹城、春夏交替、天怜幽草人重晚晴、阁迥窗明和越鸟巢干体轻均有对应，身世象征保留为可能。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-5ee627f18eec074b",
+      "title": "晚晴",
+      "author": "李商隐",
+      "reviewedTextSha256": "49fd16f9c7c80adf37e47c53ff9ef671db29d227d4682a93ee47a90cb94fe486",
+      "reviewedCommentarySha256": "89ab215a6239af1c92557c8860ba5a922bfd3e680c9cd07cd8ae9a1197925b09"
+    },
+    {
+      "order": 48,
+      "poemMeaning": "商山旅人晨铃鸡月、桥霜行迹与山路枳花唤起故乡之悲，并想起杜陵梦中凫雁满塘。",
+      "assessment": "consistent",
+      "alignmentNotes": "晨起征铎悲乡、鸡声月与人迹霜的早行证据、槲叶山路枳花驿墙、因思杜陵凫雁梦的由实入梦均完整；未把落叶直接定为秋季。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-b8a5b9a7e27f797c",
+      "title": "商山早行",
+      "author": "温庭筠",
+      "reviewedTextSha256": "840079040f4016ea86bce33a38e96599f8c96ff5ef743ba1479d797e741e261f",
+      "reviewedCommentarySha256": "68fc0fed87be42ec4cdcfc2416d11f3c2495a5ea3e224a489a41cfd2b74fbcd3"
+    },
+    {
+      "order": 49,
+      "poemMeaning": "巫峡秋气与江涛阴云触发羁留两年的故园泪，孤舟未发而白帝暮砧又催寒衣。",
+      "assessment": "consistent",
+      "alignmentNotes": "露凋枫林与峡气萧森、兼天涌接地阴、菊两开泪与舟一系心的双重牵系、刀尺暮砧催衣均覆盖。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-544bd83c17680a2c",
+      "title": "秋兴八首 一",
+      "author": "杜甫",
+      "reviewedTextSha256": "a0e1c94c3d661a08d96e051fb59fa18a190d3d6aae2a51e8a9367be713ece416",
+      "reviewedCommentarySha256": "deb22a6413f4244ecc3b9826be43e5f54e4ba97db3e3eab324325084de5ee95b"
+    },
+    {
+      "order": 50,
+      "poemMeaning": "诗人退朝典衣、江头醉归，以人生难久自宽，愿同蝶蜓春光暂且相赏而不相违。",
+      "assessment": "consistent",
+      "alignmentNotes": "日日典衣和尽醉、酒债处处与七十稀的自解、蛱蝶深见蜻蜓款飞、传语春光暂相赏的收束准确。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-413683288473521d",
+      "title": "曲江二首 二",
+      "author": "杜甫",
+      "reviewedTextSha256": "ff65bf751c196e0ca022ab104bf296663c2e1c6e47f30ab73f8ef1a7c2b04cb3",
+      "reviewedCommentarySha256": "ffadd7e153f4421b9f7d8cb9e59768160e55020689a45b8d490304f92cddbdb4"
+    },
+    {
+      "order": 51,
+      "poemMeaning": "杜甫面对浩大春江，回顾求佳句的执着与老年随兴之诗，临水备筏垂钓并盼陶谢才士同游题写。",
+      "assessment": "consistent",
+      "alignmentNotes": "性僻耽句死不休、老去漫兴与花鸟莫愁、水槛浮槎的新设、焉得陶谢手同游述作均对应；莫深愁的拟人或苦吟差异已有说明。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-73714dbbf0cf0ee3",
+      "title": "江上值水如海势聊短述",
+      "author": "杜甫",
+      "reviewedTextSha256": "eac424ce8fc24d86fd036c153414f886f18abeb4ee26ff7016c6990022d0b71b",
+      "reviewedCommentarySha256": "9371334418c90dc760731ac7852b2cf3e325e0cf21b1158883d2da886f7a29df"
+    },
+    {
+      "order": 52,
+      "poemMeaning": "诗称赞李相公军纪严整、散金酬士、持剑报恩、受将儒尊敬并在春郊白马驰猎的将帅风度。",
+      "assessment": "consistent",
+      "alignmentNotes": "建牙吹角不喧、三十登坛、万金酬士一剑报君、老将回席诸生入门、白马春草西猎逐联完整，身份待核不补生平。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-a41921ac08510403",
+      "title": "献淮宁军节度使李相公",
+      "author": "刘长卿",
+      "reviewedTextSha256": "154ea81001f4ca55efd77b86d524f573bddcfbd825a8b39c3fc28bd90a3232c4",
+      "reviewedCommentarySha256": "09d92fed8ff9015ba235c6ab80c8788c861ec7049855b4aa90a91a6e4f3dbd25"
+    },
+    {
+      "order": 53,
+      "poemMeaning": "表兄庭中夏雨酒醒谈旧，书信不达和亲友凋零的悲凉又被明朝孤舟再别加深。",
+      "assessment": "consistent",
+      "alignmentNotes": "夜合香庭醉醒、远书何曾达与旧事不可听的否定、儿童已长亲友半亡、明朝酒幔孤舟离别均对应。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-6aa17caab9f8b2ea",
+      "title": "夏夜宿表兄话旧",
+      "author": "窦叔向",
+      "reviewedTextSha256": "28b588f84b479437a8d34742643b4f30246f196a6c85160d690b5b94964ed634",
+      "reviewedCommentarySha256": "a5c98daf906ba1bcab769f07035d1207297f3ecacc7739515f1304648c7aad2c"
+    },
+    {
+      "order": 54,
+      "poemMeaning": "秋风拟作故友重返，诗人在衰病自感中被战马苍鹰的振奋激励，扶病登台望清肃天地。",
+      "assessment": "consistent",
+      "alignmentNotes": "首联秋风自述今昔与末联诗人答秋风的主语转换已有明确注记，五更枕觉镜看年貌、马毛鹰眼、扶病高台全篇对应。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-161c01906b04bd1b",
+      "title": "始闻秋风",
+      "author": "刘禹锡",
+      "reviewedTextSha256": "9434aca761bc1beaa82f389fc6349a718c95c92bea4e08d0dd17f56391519c9e",
+      "reviewedCommentarySha256": "702d8f5a65d347215a99223d870da97618d97ea50ec7e8b416e6f0a35ec64fc4"
+    },
+    {
+      "order": 55,
+      "poemMeaning": "真伪须经时间检验，诗以玉材试验和周公王莽名实翻转说明不可据片刻表现定人。",
+      "assessment": "consistent",
+      "alignmentNotes": "不用占卜、三日七年、周公被疑与王莽未篡谦恭、向使早死真伪谁知的条件反问完整，古代试验说法未当科学知识。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-b39c3ec3a2e80a17",
+      "title": "放言五首 三",
+      "author": "白居易",
+      "reviewedTextSha256": "6e76335815050f64a768a7d9c0ca7d5d5d3a980fa4a7bf228cf1780ed3baf02a",
+      "reviewedCommentarySha256": "c53ff073054b52a0c9f22675abff43ca22e9b6c52d14304dbebf2fc8dc0aacad"
+    },
+    {
+      "order": 56,
+      "poemMeaning": "久贬荒远的柳宗元与宗一越江挥泪作别，留居桂岭而以梦追向弟弟将去的荆门郢地。",
+      "assessment": "consistent",
+      "alignmentNotes": "残红双泪、我去国投荒六千里十二年、桂岭我与洞庭弟的双向景物、此后梦在荆郢烟树均准确，未把两地作同一实景。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-adf4b5cda2b88111",
+      "title": "别舍弟宗一",
+      "author": "柳宗元",
+      "reviewedTextSha256": "247dea81664b86b1492b332c92da82c09390c7a97dedc537e298f4bf72ee4f3b",
+      "reviewedCommentarySha256": "e311d8a66f5bcf2b0036120f14432bd60e8f75b6d778362057e370f9c448e541"
+    },
+    {
+      "order": 57,
+      "poemMeaning": "重阳秋江携友登高的诗人劝插菊畅饮，借牛山典故自宽，不必因夕阳和生命无常垂泪。",
+      "assessment": "consistent",
+      "alignmentNotes": "涵秋雁飞携壶翠微、难逢笑故插满菊、酩酊而不叹晖、牛山何必泪的否定自劝完整；齐安齐山题名待核已说明。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-ed9c3b19ab78dd76",
+      "title": "九日齐安登高",
+      "author": "杜牧",
+      "reviewedTextSha256": "a96b2a9efad27830c5a8e0f04fb2f123e48374350f23f4b65e8e2f3c73935e4f",
+      "reviewedCommentarySha256": "93c3dd4ca8161e1f2276c53226e21ca8213105ad70f05c13ccd2bc2bb1444f1f"
+    },
+    {
+      "order": 58,
+      "poemMeaning": "李商隐讽刺玄宗杨妃来世盟约无益，马嵬六军停马终断今生，长期帝位反不及卢家夫妇相守。",
+      "assessment": "consistent",
+      "alignmentNotes": "徒闻与未卜休、宵柝晓筹的今昔宫旅对照、此日驻马当时笑牵牛、如何天子不及卢家的讽问均保留。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-f566dae78afc131e",
+      "title": "马嵬二首 二",
+      "author": "李商隐",
+      "reviewedTextSha256": "60c08f6aca243a0d5c3f1fa4823d1dcad37922914768e826d3e43c5cae8bc4b5",
+      "reviewedCommentarySha256": "018658f06455568df8108ba68d670bc57487dc9079af6c566d188d8cf1b7786a"
+    },
+    {
+      "order": 59,
+      "poemMeaning": "寒山野塘的花根花影清露虽自清美，故国异乡的战乱却令羸病诗人无从得知流散亲友生死。",
+      "assessment": "consistent",
+      "alignmentNotes": "前半岸根水影与野水野花、后半故国战斗异乡旌旗到亲友失联均对应；花根倒垂措辞虽罕见，在《全唐诗》见证中有据，不以花枝常识径改。",
+      "issues": [],
+      "verificationRefs": [
+        "https://www.hnwomen.com.cn/_upload/article/files/41/0c/5f6d7bef424dae8ca27059792b79/15872415-ad98-442a-94dd-2eb6b6e17230.pdf"
+      ],
+      "id": "yizhu-d820d3e0ce4d3055",
+      "title": "伤乱",
+      "author": "韩偓",
+      "reviewedTextSha256": "f12c469656a9521a88606b9c5cb2a50ea37f0c630f8b1e4fd4fdaac9b8ada183",
+      "reviewedCommentarySha256": "2e466ccf7469e8cd73eb9ddb3a45174a6eb7e4b99fd09db8dc0eed4a4f4fdf86"
+    },
+    {
+      "order": 60,
+      "poemMeaning": "兵死丈夫留下的山居寡妇田桑废弃仍遭征税，靠野菜生柴活命，再深山也无法逃开征徭。",
+      "assessment": "consistent",
+      "alignmentNotes": "夫死蓬茅麻苎焦发、桑废田荒而税苗仍征、野菜连根生柴带叶、任是也无计避徭的绝望逻辑逐联准确。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-43528a26a60da9d9",
+      "title": "山中寡妇",
+      "author": "杜荀鹤",
+      "reviewedTextSha256": "5e10cbd1356bc031d2c25e665e848984e83f4147d615f34202a0db2c5ebb9d92",
+      "reviewedCommentarySha256": "7bb1ba003ea649858bce1c546fd5c71173ec561a927a860ea59fdc56075aa896"
+    },
+    {
+      "order": 61,
+      "poemMeaning": "湘江秋雨中的羁旅者以刘琨舞剑自振，却因乡思与无人知重而落寞，末以渔人不问归笛收束。",
+      "assessment": "consistent",
+      "alignmentNotes": "阴云锁梦、夜舞刘琨的奋发、芙蓉万里薜荔千家、橘柚乡思王孙谁重、渔人不问长笛归去全联对应。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-3235391bcbbe2384",
+      "title": "秋宿湘江遇雨",
+      "author": "谭用之",
+      "reviewedTextSha256": "60468210fe8e2ec4c05feb07859c923bd669c8e4cfab630c8a2b2480dd6a0fa1",
+      "reviewedCommentarySha256": "3fdfcaa1511d8cff17e3c8e744ec3e1f5d9acb930a28e6eb9bb24b1ee77fe8a8"
+    },
+    {
+      "order": 62,
+      "poemMeaning": "居高饮露的蝉鸣声自然远传，借此自许高洁品格自有影响而不借秋风外力。",
+      "assessment": "consistent",
+      "alignmentNotes": "垂緌清露疏桐的形象、居高声远的原因与非藉秋风的否定明确，高洁不攀附的寓意合全诗。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-a57d736e983d8b03",
+      "title": "蝉",
+      "author": "虞世南",
+      "reviewedTextSha256": "021c362a7785274ed683723e5686f87962ac0f0d4b38995be37512541ca85142",
+      "reviewedCommentarySha256": "ac8940287b985fea9085e8add34b89e29456fd63e7b2d84e7acdd1d1a598fa81"
+    },
+    {
+      "order": 63,
+      "poemMeaning": "易水送别唤起荆轲辞燕丹的激昂往事，古人已亡而水犹寒让悲壮精神延续至今。",
+      "assessment": "consistent",
+      "alignmentNotes": "此地别丹壮士冲冠的古事与昔人已没今水犹寒的今昔对照完整，没释死亡准确。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-5ae3131b9e1a5354",
+      "title": "于易水送人",
+      "author": "骆宾王",
+      "reviewedTextSha256": "1b13640937eed20b2991ff8136b969eca0483958cbdbffc8abcb53f2659124f7",
+      "reviewedCommentarySha256": "a34dc3b9ae94002d07cf46b7a0deaa6b9e752d82670cc5ad6462603ed4c1cf08"
+    },
+    {
+      "order": 64,
+      "poemMeaning": "明月下冶炼炉火红星紫烟映红工人脸庞，响亮劳动歌声震动寒川。",
+      "assessment": "consistent",
+      "alignmentNotes": "炉火照天地、红星乱紫烟、赧郎月夜、歌曲动寒川四句对应；赧郎不是害羞青年，劳动场景准确。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-644d02502a0cd21b",
+      "title": "秋浦歌十七首 十四",
+      "author": "李白",
+      "reviewedTextSha256": "045e04fe477e4bdc979a4b25bd81a44aac581ecc6d6d580bb7e95752a6c360bc",
+      "reviewedCommentarySha256": "47adae40199837e9af600b7b2844f5eb6684ff3ca2916e29dc3c8340b4093d28"
+    },
+    {
+      "order": 65,
+      "poemMeaning": "深愁被夸张化为三千丈白发，诗人对镜惊问何处秋霜染头。",
+      "assessment": "consistent",
+      "alignmentNotes": "白发长度夸张、缘愁因果、个释这样、明镜秋霜比喻与惊问均保留。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-023c7ea7424c5d26",
+      "title": "秋浦歌十七首 十五",
+      "author": "李白",
+      "reviewedTextSha256": "ac213ae0f06568af0ce07a5c0764b42ea1aa63dabe5c28a35ed8ff14841362a1",
+      "reviewedCommentarySha256": "c521b7233d378ab679bbc97ef65b7a9dcde6a599b0e64a08942869b992c1993d"
+    },
+    {
+      "order": 66,
+      "poemMeaning": "鸟尽云去后独坐者把敬亭山视为唯一相看不厌的伴侣。",
+      "assessment": "consistent",
+      "alignmentNotes": "众鸟高飞尽与孤云独去闲的远离、相看两不厌的双方主语和只有山的孤独慰藉完整。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-02af59611398ae08",
+      "title": "独坐敬亭山",
+      "author": "李白",
+      "reviewedTextSha256": "0452d0a1b8d743c75052bf9ba0bc1deedb2890c7b2d04f8a6aa7bd1fbcfd75b0",
+      "reviewedCommentarySha256": "28f6da770ff52f6aa24e8771e5760e3fcf241bba8b03b69e3a5441d7751eb09a"
+    },
+    {
+      "order": 67,
+      "poemMeaning": "温长春日的明丽江山与香风中，燕子衔软泥忙筑巢而鸳鸯卧暖沙安睡。",
+      "assessment": "consistent",
+      "alignmentNotes": "迟日春风、江山花草、泥融故燕飞沙暖故鸳睡的两组动静与气候因果对应。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-97fd080a94419b18",
+      "title": "绝句二首 一",
+      "author": "杜甫",
+      "reviewedTextSha256": "16f6293399feafb546dad02b57a4dbbb7a47685c660112b664cd131593fe6206",
+      "reviewedCommentarySha256": "64af43b2b8c958c3fe5d50933d705aa5293ca14bd7f99288afc90e51ee889763"
+    },
+    {
+      "order": 68,
+      "poemMeaning": "剑客十年磨剑未试，今日向人示剑，愿以积累的才力伸张不平。",
+      "assessment": "consistent",
+      "alignmentNotes": "十年磨剑未曾试、霜刃示君、谁为不平的问句及才干待用含义一致；受不平或作不平两读已注明。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-6dff5ef67b41e83b",
+      "title": "剑客",
+      "author": "贾岛",
+      "reviewedTextSha256": "984b4ad97af8c1c34472beae4285cde39af1bcb229cd75dd580d8b50f39bf8b9",
+      "reviewedCommentarySha256": "2fdfc83465f11b4fe1a6daabd7c7bc7ca5a782e4d55d2fa364421bbaf7b84dd5"
+    },
+    {
+      "order": 69,
+      "poemMeaning": "近在咫尺的庐山被风雨阻隔不能登，诗人疑云雾深处还藏着六朝僧人的古老清境。",
+      "assessment": "consistent",
+      "alignmentNotes": "咫尺而不可登的阻隔、愁风雨、只疑而非实见、六朝僧想象均对应，未作现实古僧存活断言。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-2edf2c8d3bc75b19",
+      "title": "江行无题一百首 六十八",
+      "author": "钱珝",
+      "reviewedTextSha256": "149042ac23e1a0b80af5ff3610ee29df8874f6af37e9c6fcd8cdec77f04dbaea",
+      "reviewedCommentarySha256": "6beebe3e4ed298d76d56724fd730a2a3f3bcc1d4602516f979a8ec837e174798"
+    },
+    {
+      "order": 70,
+      "poemMeaning": "深宫闲日与急流对照，宫人恳切寄语红叶随水到外面人间，托出幽闭心意。",
+      "assessment": "consistent",
+      "alignmentNotes": "流水何急与深宫尽日闲的反差、谢为寄语而非感谢、好去人间的愿望准确，红叶传说不增团圆实录。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-a491b5ea79d79310",
+      "title": "题红叶",
+      "author": "宣宗宫人",
+      "reviewedTextSha256": "2f0072c368e57d8e03da6430e4f3c5d96ad7b8223ecd8a8fccf5be2bab394672",
+      "reviewedCommentarySha256": "292e7a9a1364da1d6073285c23b2bb946debe6503ed6fb13730e63692f8b013f"
+    },
+    {
+      "order": 71,
+      "poemMeaning": "隐者偶至松下枕石安眠，山中不看历书，即便寒尽也不计年岁。",
+      "assessment": "consistent",
+      "alignmentNotes": "偶来高枕石眠、无历日寒尽不知年的脱离世俗计时对应；高枕释无忧而非物理枕高、不知年非病理。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-85bbe362b2ffead7",
+      "title": "荅人",
+      "author": "太上隐君",
+      "reviewedTextSha256": "5215bc4fd5eb7e7e41c9d23e52a95ded84ac2c1a91916efe2791169bacd4f655",
+      "reviewedCommentarySha256": "4241e46489834ad3f5820a79b0966f2e7efaa42b08e04f3e9c83267aeb0d79a7"
+    },
+    {
+      "order": 72,
+      "poemMeaning": "雪净月明的边塞牧马归还，戍楼笛曲梅花落被想象为随一夜风洒满关山的花。",
+      "assessment": "consistent",
+      "alignmentNotes": "雪净解冰雪消融有通行注支持，牧马归与月下羌笛、借问梅落到风满关山的乐曲双关准确，未把虚梅当实景。",
+      "issues": [],
+      "verificationRefs": [
+        "https://m.gushiwen.cn/mingju/juv_0e1837f45b6d.aspx"
+      ],
+      "id": "yizhu-61bf98cd957e268b",
+      "title": "塞上听吹笛",
+      "author": "高适",
+      "reviewedTextSha256": "a8a55e98a62c34f36769c0d2611ef594a0fe19e23e99c8a8fd9d4102d3170616",
+      "reviewedCommentarySha256": "075b7d2b64f09332bd9da9b797b1f2436dc7a6ebe44610d86d17b0f8886211bf"
+    },
+    {
+      "order": 73,
+      "poemMeaning": "黄云风雪中的送别以董大的才名安慰友人，断言天下不乏认识赏识他的知己。",
+      "assessment": "consistent",
+      "alignmentNotes": "日曛云黄北风雁雪的严寒、莫愁无知己与谁人不识君两层肯定、董庭兰音乐名声相符。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-a81faf7f6003c564",
+      "title": "别董大二首 一",
+      "author": "高适",
+      "reviewedTextSha256": "4025344971295e7726ad505ad5f0401d3ed2e6710ce73323b12ae411ef6dbc54",
+      "reviewedCommentarySha256": "6c969b54a29ced5ec46288c2a66d602ff34048af29aadf3e12283c9dcbaeba02"
+    },
+    {
+      "order": 74,
+      "poemMeaning": "李白临舟忽闻岸上踏歌送别，以桃花潭深水不及汪伦深情赞友谊。",
+      "assessment": "consistent",
+      "alignmentNotes": "将欲行而忽闻的瞬间、踏歌形式、千尺夸张与不及送我情的比较完整。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-8326588384876656",
+      "title": "赠汪伦",
+      "author": "李白",
+      "reviewedTextSha256": "f5fd198a7ebf534ecfbd1c6029f98b36bf1e5ce2d4fa33e60005b1345d375d11",
+      "reviewedCommentarySha256": "be807b8ca8e235b2cdd42db6e0fc012c5ad1d292a442602d34b0d25000b396a4"
+    },
+    {
+      "order": 75,
+      "poemMeaning": "舟行天门山间见楚江劈山回流、对岸青山迎面显出与日边孤帆，形成明朗壮阔景象。",
+      "assessment": "consistent",
+      "alignmentNotes": "天门中断楚江开、东流回旋、青山相对出随舟显现与日边帆来均对应；至北回为已核有据异文，不按通行至此回判错。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-b19e76bd6bae9b74",
+      "title": "望天门山",
+      "author": "李白",
+      "reviewedTextSha256": "7af87b0c7c2ad97b558bbd3bb0a32b8ed555fc946e47443c9645c84c3a71012e",
+      "reviewedCommentarySha256": "d4ab98598ed4efa18c20fd69c47408c939df80b557243de1e3cadd292b0f75dc"
+    },
+    {
+      "order": 76,
+      "poemMeaning": "贬谪旅人以贾谊迁长沙自比，望长安不可见，黄鹤楼梅花落笛声让五月江城化为离愁寒梅。",
+      "assessment": "consistent",
+      "alignmentNotes": "迁客长沙作典故而非李白目的地、西望长安不见家、黄鹤玉笛和五月梅落曲景双关都解释准确。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-4afdd0eb157e969d",
+      "title": "与史郎中钦听黄鹤楼上吹笛",
+      "author": "李白",
+      "reviewedTextSha256": "adbcef19e074ebce03064192043930308ed7eac5bcd929abdc515027e452f511",
+      "reviewedCommentarySha256": "d7888d2cd80e3ff4698e4fd17afa0616a7c5981b8b6c8358c4d9bcf5af5ec827"
+    },
+    {
+      "order": 77,
+      "poemMeaning": "李白在午日山头遇戴笠清瘦的杜甫，以作诗辛苦打趣友人别后消瘦。",
+      "assessment": "consistent",
+      "alignmentNotes": "饭颗山相逢、笠子卓午、借问瘦生及总为作诗苦的问答笑语均对应，未写成恶意讽刺。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-dde372cfe430385e",
+      "title": "戏赠杜甫",
+      "author": "李白",
+      "reviewedTextSha256": "bad4e2bf1a11b840c5bf716d996835ac0f722f59dfec7c4ee6aab9cda65174a2",
+      "reviewedCommentarySha256": "e01489504f6c64d2030c8cb1b9486f4a643b2954ec9f97887a0905694ff23a5a"
+    },
+    {
+      "order": 78,
+      "poemMeaning": "杜甫维护初唐四杰的时代文风，断言轻薄讥笑者终会身名俱灭而四杰作品如江河长流。",
+      "assessment": "consistent",
+      "alignmentNotes": "杨王卢骆四人、当时体、轻薄者哂未休、尔曹灭而不废江河的两类主语及否定关系明确。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-30e5a723cd282cfd",
+      "title": "戏为六绝句 二",
+      "author": "杜甫",
+      "reviewedTextSha256": "38eab797f6d0a2404c2207c6419606f603e121a22bf6ba00f79e3bf9819d9904",
+      "reviewedCommentarySha256": "e758e0f5d49ee2d369ee0c2048559d51f4033aa668a2b84d3735503fa3dd5439"
+    },
+    {
+      "order": 79,
+      "poemMeaning": "成都丝管声飘入江风云天，诗以天上乐少闻人间赞曲，并容纳僭乐讽意的解释空间。",
+      "assessment": "consistent",
+      "alignmentNotes": "锦城日日丝管、半入风云、只应天上有与人间几回的赞叹反问保留；赞乐与讽谏两读已注明。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-c196071b1bfd4db1",
+      "title": "赠花卿",
+      "author": "杜甫",
+      "reviewedTextSha256": "c665e0a8b90c1f2518e0ac117cb0dfb957c20aa1e9fe91bd41a13259b58a5b75",
+      "reviewedCommentarySha256": "40fce42245715bba53e2dbef936c9d1876403d0bc521b85464a87dd1f2ac7d0c"
+    },
+    {
+      "order": 80,
+      "poemMeaning": "柳湾眉月与镜中越山的静夜水景，因桃花春雨涨水和半夜鲤鱼上滩增添生机。",
+      "assessment": "consistent",
+      "alignmentNotes": "凉月柳湾如眉、镜水山影、三日桃花雨导致水涨、半夜鱼上滩的动静转折均对应，桃花雨未作花瓣雨。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-539c8259b08aa595",
+      "title": "兰溪棹歌",
+      "author": "戴叔伦",
+      "reviewedTextSha256": "6523a9f198107948c9224419647ea0bb2b25cbe77caba87092ec63023e3b1921",
+      "reviewedCommentarySha256": "43bd25f534c4a4eee2cf7b534108e6fdd3f608261fc0963e0aec9f2dddee1048"
+    },
+    {
+      "order": 81,
+      "poemMeaning": "今日重访去年人面桃花相映的门庭，人已不知所在而桃花仍笑春风。",
+      "assessment": "consistent",
+      "alignmentNotes": "去年今日与此刻再来的时序、人面花红映照、人不知去处而花依旧的对照完整，无额外传奇情节。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-0206697548357784",
+      "title": "题都城南庄",
+      "author": "崔护",
+      "reviewedTextSha256": "eaff275f8f26533bd161d750b12de458a16be4a4c37b3073d0a00c4bb3768e9c",
+      "reviewedCommentarySha256": "36b55636b3c165d74a4a1dbaf434f7bef37d8748e382789c73b1f56f19683a27"
+    },
+    {
+      "order": 82,
+      "poemMeaning": "新年未花到二月初草使人惊喜，白雪仿佛嫌春迟而穿庭树化飞花。",
+      "assessment": "consistent",
+      "alignmentNotes": "都未与初惊的期待层次、草芽而非已繁花、雪嫌故穿的拟人与因果准确。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-d0ef83f2f67206d2",
+      "title": "春雪",
+      "author": "韩愈",
+      "reviewedTextSha256": "a083165fa9124d2f0b4969d289e1b97e5d400632a49ac43b3f1f5ff21c847f20",
+      "reviewedCommentarySha256": "61470b16e6ae31fb17aef9e6ecd8cda51ecd0dfff9f27aa917e0ea13dafc38a4"
+    },
+    {
+      "order": 83,
+      "poemMeaning": "京街细雨中的草色远有近无，诗人偏爱这一年早春胜过烟柳满城的盛春。",
+      "assessment": "consistent",
+      "alignmentNotes": "小雨如酥、遥近视距差异、最是一年好处与绝胜烟柳的偏爱比较对应完整。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-cc66abbcb2258a48",
+      "title": "早春呈水部张十八员外二首 一",
+      "author": "韩愈",
+      "reviewedTextSha256": "dea23801397ad9d6bf160430c75ccaa1f01a8b028e35bb2e01fedf28023ca518",
+      "reviewedCommentarySha256": "2bed6bfa9b1002bd42d3daf347ecbfb814c5fc892299fe47d20e00a2ebffbda1"
+    },
+    {
+      "order": 84,
+      "poemMeaning": "黄河挟沙风浪自天涯而来，诗人想象与人沿河上银河拜访牵牛织女。",
+      "assessment": "consistent",
+      "alignmentNotes": "九曲万里沙、浪淘风簸、如今直上与同到的奇想承接明确，九曲非实数已注。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-08b0f4744fe5c4b5",
+      "title": "浪淘沙九首 一",
+      "author": "刘禹锡",
+      "reviewedTextSha256": "340f780e05b4df24585e0704329504e1bc4b1ce06b947147c7424eff2ae1244b",
+      "reviewedCommentarySha256": "5c60c2d706941d1b27e953ab7c8e227f81d52327ba84ba36dfee8ffac7445d05"
+    },
+    {
+      "order": 85,
+      "poemMeaning": "玄都观旧桃尽而苔菜生、种桃人失踪，刘郎却再次归来，寄托历挫不退的锋芒。",
+      "assessment": "consistent",
+      "alignmentNotes": "百亩半苔与桃净菜开、道士归何处与刘郎又来的今昔人物消长和反问准确对应。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-9a8f4a102349b247",
+      "title": "再游玄都观",
+      "author": "刘禹锡",
+      "reviewedTextSha256": "76610355402e5e48fb44429cb4d436c59844ec665eee11e8118d1d58c7b0d9ec",
+      "reviewedCommentarySha256": "4df39a12bf56245f037ed6bd62ca8558aab98cc98bc43f3bb7058d56350a18ad"
+    },
+    {
+      "order": 86,
+      "poemMeaning": "诗人以芍药艳而乏格、荷花净而少情作衬，独赞牡丹国色使盛花京城倾动。",
+      "assessment": "consistent",
+      "alignmentNotes": "芍药妖无格与荷净少情两种偏爱判断、唯有牡丹和花开动京城完整保留，审美比兴未作花品道德定论。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-c5f51db6220a5729",
+      "title": "赏牡丹",
+      "author": "刘禹锡",
+      "reviewedTextSha256": "bdb4489445d11a86a91c1418e56c0368bb1119d8bac8c0ba438102121c7387b5",
+      "reviewedCommentarySha256": "d3473b2c6543a82c9ba303001e1c18e64f910dab4cf504ace908d11b29d51977"
+    },
+    {
+      "order": 87,
+      "poemMeaning": "诗人反传统悲秋而赞秋胜春，晴鹤排云升天也把诗兴引上碧霄。",
+      "assessment": "consistent",
+      "alignmentNotes": "自古悲与我言胜的立场反转、晴空鹤排云上及便引诗情的触发关系都准确。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-9dbf0502988eb768",
+      "title": "秋词二首 一",
+      "author": "刘禹锡",
+      "reviewedTextSha256": "7085de4f25467adb2ee334cd7791704c6a8edcedbd9fbb53ba49fe6f875213ba",
+      "reviewedCommentarySha256": "59ca66a7c85d2d20c2aa9b78fa5ca7c99ea2a81df78794f59d8c089c7a618da0"
+    },
+    {
+      "order": 88,
+      "poemMeaning": "江上余晖铺成碧红两色，九月初三弓月珠露的夜景接续诗人的喜爱。",
+      "assessment": "consistent",
+      "alignmentNotes": "残阳铺水、半江瑟瑟半红、九月初三到露珠弓月的日暮入夜顺序完整，可怜释可爱而非哀怜。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-50f6a48f21358e1e",
+      "title": "暮江吟",
+      "author": "白居易",
+      "reviewedTextSha256": "a7288086e2be03fa61d67b08065817ef4284f1737c17a5dc51d79763d583ad28",
+      "reviewedCommentarySha256": "2b5536aefbeb69a91ef1ef42fc0ede8570549193c8b4d3c247f7f41a389b1299"
+    },
+    {
+      "order": 89,
+      "poemMeaning": "江南春莺绿江、水村山郭酒旗的广阔春景，与南朝寺院楼台烟雨里的历史幽思交融。",
+      "assessment": "consistent",
+      "alignmentNotes": "本稿绿映江按当前字面解释江水，酒旗风与寺院烟雨完整；通行绿映红及赞春讽佛多解已注明，不误套通行红花。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-a8e4bcce1aceeed9",
+      "title": "江南春绝句",
+      "author": "杜牧",
+      "reviewedTextSha256": "92c09fd19f91384ff7e69f938e8e5a6b472238741dcbdbd8b1fa2de26ccb7fe0",
+      "reviewedCommentarySha256": "a07c31db7a7020492a11875987bf9d5d6f5874595c59ba0e6e3f712586618976"
+    },
+    {
+      "order": 90,
+      "poemMeaning": "骊山锦绣宫门为扬尘驿骑逐次打开，杨妃一笑揭示急送荔枝的奢侈需求。",
+      "assessment": "consistent",
+      "alignmentNotes": "回望宫苑绣堆、千门次开、一骑红尘妃笑与无人知荔枝的悬念和揭示准确，奢享与奔劳讽意相合。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-b6dbef9cd6ad7146",
+      "title": "过华清宫绝句三首 一",
+      "author": "杜牧",
+      "reviewedTextSha256": "47cf4fb1c2e2a541be21e2f6780fd35e6c5dd99a4f43bbd6e4440c249cb06892",
+      "reviewedCommentarySha256": "a7689246a6c4b9f01d206c20f68da2e14d8a480fd3289187eb3ea38d8e44b9b0"
+    },
+    {
+      "order": 91,
+      "poemMeaning": "曾见花未开而今再寻已迟，残花狼藉与叶阴果满使诗人自恨错过花时。",
+      "assessment": "consistent",
+      "alignmentNotes": "往年未开与如今迟到的两时序、风摆狼藉绿阴子满的花期变化与自恨情感准确，子先解果实而不附会婚恋。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-af6e40af1d96c5d2",
+      "title": "叹花",
+      "author": "杜牧",
+      "reviewedTextSha256": "af3e3efe3abb20f3f471c4269a62c99008145f0c944b0d32686fa768e7308ac3",
+      "reviewedCommentarySha256": "6d9710b3650cba9e94724f6562b07af55d8eb4102337e6b3590bd88877d20152"
+    },
+    {
+      "order": 92,
+      "poemMeaning": "谢亭劳歌后友舟急流远去，日暮酒醒的送者在满天风雨中独自下西楼。",
+      "assessment": "consistent",
+      "alignmentNotes": "劳歌解舟、红叶青山急水、日暮酒醒人远、风雨下楼的送者主语和先后顺序一致。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-8281c9158adaeff6",
+      "title": "谢亭送别",
+      "author": "许浑",
+      "reviewedTextSha256": "5b548637a96ae1d018a41809101cfc6462e945b05dbd0b74f2f61bdbd6f2a994",
+      "reviewedCommentarySha256": "05d9365ded93ea9ed29e744208f8334093378cefc4b01e6bcf498ceed6953d91"
+    },
+    {
+      "order": 93,
+      "poemMeaning": "昏沉如醉梦的诗人因春尽勉强登山，偶遇竹院僧人谈话而获浮生半日闲。",
+      "assessment": "consistent",
+      "alignmentNotes": "终日昏昏、忽闻春尽强登、因过逢僧话与又得半日闲的由抑转舒顺序完整，强与浮生词义准确。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-6f97236359abefda",
+      "title": "题鹤林寺僧舍",
+      "author": "李涉",
+      "reviewedTextSha256": "e7e700ab3e2344959302e07196e459c14e5b00a8cdb77d496b9dd141f64105f7",
+      "reviewedCommentarySha256": "ca4ec94132bfd563f57df6a00a9b0779f3d8cad617a70d121fb8485e3d515602"
+    },
+    {
+      "order": 94,
+      "poemMeaning": "骆亭竹坞水槛虽清幽，思友隔城仍遥远，阴秋霜迟留下枯荷使独宿者得听雨声。",
+      "assessment": "consistent",
+      "alignmentNotes": "无尘水清对迢递重城、阴不散霜飞晚与枯荷留雨的因果相合，余荷雨声的慰藉未消去相思。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-cf2e4d3b499271f7",
+      "title": "宿骆氏亭寄怀崔雍衮",
+      "author": "李商隐",
+      "reviewedTextSha256": "ec1c8b59c1fd78de126b1065a8b0044a2e94d88c94873c27e46fcb60217ebc69",
+      "reviewedCommentarySha256": "3dc94058ba7c65a823c7ffaa59de46fac11123240b65d5b6822b9793ce5c728c"
+    },
+    {
+      "order": 95,
+      "poemMeaning": "李商隐回忆韩冬郎十岁即席迅速成诗和冷灰残烛下的别情，以丹山雏凤胜老凤赞少年才华。",
+      "assessment": "revise",
+      "alignmentNotes": "十岁走马成的早慧与雏老凤父子比喻一致；诗意和解读把冷灰残烛直接落实成韩冬郎原诗写到的内容，混淆本诗回忆场景与被追吟的送别诗。",
+      "issues": [
+        {
+          "severity": "moderate",
+          "field": "commentary.summary",
+          "original": "十岁的孩子当席成诗，竟能写出烛残夜深时的送别情。",
+          "problem": "本诗第二句通常写当年饯别席上的冷灰残烛与离情；题中仅引用韩冬郎连宵侍坐裴回久之句，不能据此断言冷灰残烛属于韩冬郎诗的具体内容。原释将作者此诗的场景归给被赞者的原作，增加无据叙事。",
+          "proposed": "十岁的孩子当席迅速成诗，令一座宾客惊叹；炉灰已冷、烛火将残的饯别夜，仍留着动人的离情。",
+          "verificationRefs": [
+            "https://www.gushiwen.cn/mingju/juv.aspx?id=5286eb45430e",
+            "https://ourartnet.com/Sikuquanshu/Zhuanti/Shici/029.asp",
+            "https://ctext.org/wiki.pl?chapter=428324&if=gb"
+          ]
+        },
+        {
+          "severity": "moderate",
+          "field": "commentary.interpretation[0]",
+          "original": "韩冬郎十岁便能极快作诗，写到炉灰渐冷、烛火将尽时的离情，让一座宾客都为之动容。",
+          "problem": "本诗第二句通常写当年饯别席上的冷灰残烛与离情；题中仅引用韩冬郎连宵侍坐裴回久之句，不能据此断言冷灰残烛属于韩冬郎诗的具体内容。原释将作者此诗的场景归给被赞者的原作，增加无据叙事。",
+          "proposed": "韩冬郎十岁便能在席上极快作诗，令一座宾客惊叹。回忆当年炉灰已冷、烛火将残的饯别夜，离情仍被触动。",
+          "verificationRefs": [
+            "https://www.gushiwen.cn/mingju/juv.aspx?id=5286eb45430e",
+            "https://ourartnet.com/Sikuquanshu/Zhuanti/Shici/029.asp",
+            "https://ctext.org/wiki.pl?chapter=428324&if=gb"
+          ]
+        }
+      ],
+      "verificationRefs": [
+        "https://www.gushiwen.cn/mingju/juv.aspx?id=5286eb45430e",
+        "https://ourartnet.com/Sikuquanshu/Zhuanti/Shici/029.asp",
+        "https://ctext.org/wiki.pl?chapter=428324&if=gb"
+      ],
+      "id": "yizhu-2fd33e58a17815e5",
+      "title": "韩冬郎即席为诗相送一座尽惊他日余方追吟连宵侍坐裴回久之句有老成之风因成二绝寄酬兼呈畏之员外 一",
+      "author": "李商隐",
+      "reviewedTextSha256": "0b7687a01d6f1a50eb27ddbd24b91ef8ce446aeeedae021ac7cda7ca4cd59e48",
+      "reviewedCommentarySha256": "b9663bfedaed8e53a5ad64151a75a7d16acd1fa9404119800a24b7ff88a53d4b",
+      "proposedCommentary": {
+        "summary": "十岁的孩子当席迅速成诗，令一座宾客惊叹；炉灰已冷、烛火将残的饯别夜，仍留着动人的离情。诗人把父子比作丹山凤凰，欣喜地听见雏凤的声音已经格外清亮。",
+        "interpretation": [
+          "韩冬郎十岁便能在席上极快作诗，令一座宾客惊叹。回忆当年炉灰已冷、烛火将残的饯别夜，离情仍被触动。想象丹山远路上桐花繁盛，凤凰相鸣，小凤凰的声音竟比老凤凰还清亮；这是夸赞年轻一代才情早发，也向他的父亲表达欣慰与敬意。"
+        ],
+        "glossary": [
+          {
+            "term": "走马成",
+            "text": "形容诗成得极快，不是说必须骑马写作。"
+          },
+          {
+            "term": "丹山、桐花",
+            "text": "凤凰所居之山与梧桐意象，衬托非凡才情。"
+          },
+          {
+            "term": "雏凤、老凤",
+            "text": "以凤凰父子比韩冬郎与其父。"
+          }
+        ],
+        "reviewNotes": [
+          "韩冬郎通常指韩偓，其父韩瞻字畏之；长题中引用其送别诗句，应与本首正文分开，不把题中字句追加成原诗。",
+          "“冷灰残烛”在本诗中先按当年饯别席的回忆场景理解；题中所引韩冬郎原句不能证明这四字也是韩冬郎诗的内容，不把本诗画面挪作其原诗具体措辞。"
+        ]
+      }
+    },
+    {
+      "order": 96,
+      "poemMeaning": "杨敬之既赞项斯诗好，更赞本人风度品格胜诗，并以逢人荐说表现不藏人善的直率。",
+      "assessment": "consistent",
+      "alignmentNotes": "几度见诗、及观标格过诗的先后递进、平生不解藏善到处说项斯的推荐行为完整，标格与不解释义合适。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-2dead8a4a99296b0",
+      "title": "赠项斯",
+      "author": "杨敬之",
+      "reviewedTextSha256": "0c6e2bf2e0842418bfacb6d8f74accd6ac634bbbdd224a357a83ff6261631897",
+      "reviewedCommentarySha256": "c6eb3bd969cb04a8644f853f54048b2a4f29c8c16b6598d89fc23438c0f4c09f"
+    },
+    {
+      "order": 97,
+      "poemMeaning": "春江杨柳飞絮与晚亭风笛加深别愁，友人南往潇湘而诗人北向秦地各走远路。",
+      "assessment": "consistent",
+      "alignmentNotes": "扬子江头春柳杨花、渡江人愁、数声笛离亭晚与君湘我秦的主语方向均准确。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-2a4e57838fcc98bd",
+      "title": "淮上与友人别",
+      "author": "郑谷",
+      "reviewedTextSha256": "af9350037a69ffef10fae14af7d137bd1dbab53c904cafbcfd0d45e69074a54d",
+      "reviewedCommentarySha256": "baaec1277636b1052dd5e5eecd02cdb226d101e51ad1026ead6c909865ff960e"
+    },
+    {
+      "order": 98,
+      "poemMeaning": "落第者以天边优位桃杏衬秋江芙蓉的独立时地，自许不向春风怨未开而坚守才性。",
+      "assessment": "consistent",
+      "alignmentNotes": "碧桃和露红杏倚云的优位、芙蓉秋江的异时地与不向东风怨的自持否定对应，日边借朝廷未作实际栽花。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-a6a7e2200f3b8792",
+      "title": "下第后上永崇高侍郎",
+      "author": "高蟾",
+      "reviewedTextSha256": "69bce712177e1f6e6c4be9576eb81f0b4eb8ea2791c71c5796bb324d683f9fc3",
+      "reviewedCommentarySha256": "53a2078991f03602341c8a9ea1a5fbc446abe420f17ba456cbf884eca76285e3"
+    },
+    {
+      "order": 99,
+      "poemMeaning": "战乱侵入水乡使生民不能安稳谋生，诗人拒谈封侯荣耀，揭示一将成功所付出的万人枯骨代价。",
+      "assessment": "consistent",
+      "alignmentNotes": "泽国战图、生民何计樵苏的反问、凭君莫话的劝止与一将万骨的数量对照准确，未淡化平民及战死者代价。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-6e5ceb963ae8b76e",
+      "title": "己亥岁二首 一",
+      "author": "曹松",
+      "reviewedTextSha256": "6e751226e4fe46131787d3ec281c1cfe0a8ea398c8e4165e863d96e4c36e493f",
+      "reviewedCommentarySha256": "66c41581f1c5a32bb0506635cc8e037408a6b0020f634737b1df9b10a90fc052"
+    },
+    {
+      "order": 100,
+      "poemMeaning": "鹅曲颈向天鸣叫，白羽浮绿水、红掌拨清波，呈现声音形态与色彩动作的明快画面。",
+      "assessment": "revise",
+      "alignmentNotes": "解读与词注正确写弯颈、白毛绿水、红掌拨波；诗意首句的伸长脖颈未保留曲项的弯曲姿态。",
+      "issues": [
+        {
+          "severity": "minor",
+          "field": "commentary.summary",
+          "original": "白鹅伸长脖颈，向着天空叫着",
+          "problem": "曲项具体写鹅弯曲脖颈的姿态；摘要单写伸长，容易与解读和词注的弯颈形象不一致。",
+          "proposed": "白鹅弯着脖颈，向着天空叫着。",
+          "verificationRefs": []
+        }
+      ],
+      "verificationRefs": [],
+      "id": "yizhu-01d674b9f7d2610c",
+      "title": "咏鹅",
+      "author": "骆宾王",
+      "reviewedTextSha256": "423a789fe693b4692aa2ebacd9ac830642729bb74016db5bac32f76cfcfb87f1",
+      "reviewedCommentarySha256": "7a035f27c13aac753d9f55feef6fc10220384e3ddcaed650e15e088f976cf9d2",
+      "proposedCommentary": {
+        "summary": "白鹅弯着脖颈，向着天空叫着，声音清亮而自在。白羽浮在绿水上，红掌轻拨，水面便漾开一道道波纹。",
+        "interpretation": [
+          "鹅呀，鹅呀，你弯着长长的脖子，朝天空放声鸣叫。洁白的羽毛浮在碧绿水面上，红色脚掌在水下轻轻划动，拨开一圈圈清波。"
+        ],
+        "glossary": [
+          {
+            "term": "曲项",
+            "text": "弯着脖颈。"
+          },
+          {
+            "term": "红掌",
+            "text": "鹅的红色脚掌。"
+          }
+        ],
+        "reviewNotes": []
+      }
+    },
+    {
+      "order": 101,
+      "poemMeaning": "黄台瓜果从初摘仍好到再摘渐稀，最终摘绝只余空蔓，以此劝止对同根一脉过度残害。",
+      "assessment": "consistent",
+      "alignmentNotes": "瓜熟离离、一摘好再摘稀三摘可到摘绝的递变、抱蔓归的毁尽后果完整，对诸子的比喻已注明而不逐摘机械对应人名。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-0f13e4bff2e42d96",
+      "title": "杂歌谣辞 黄台瓜辞",
+      "author": "章怀太子",
+      "reviewedTextSha256": "0aad0b9a570a9609f70af1dcf066790c1050c2c3c687ffd183e966a638251a54",
+      "reviewedCommentarySha256": "a4b4fef3087289342321da547adb28a4af8a6566828128d8ce893064280d32a7"
+    },
+    {
+      "order": 102,
+      "poemMeaning": "岁暮岩下日落草寒使人凄恻，其中百尺无旁枝的松树以孤直一生引出诗人的长叹。",
+      "assessment": "consistent",
+      "alignmentNotes": "岁晚周顾、西山日阴草寒、乔松叹息、百尺无寸枝孤直的景物至人格寄托准确，对松树独立不阿的拟人可通。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-f25fff9d1f292c6f",
+      "title": "题张老松树",
+      "author": "宋之问",
+      "reviewedTextSha256": "cdd60809c7f849490af20752ce5dacb4ce436049f64c6bf2977970d6e778afb8",
+      "reviewedCommentarySha256": "2bf13350a3cc5aa9c1b89f7087b33a41f0a9608ea9000336784a44347580477b"
+    },
+    {
+      "order": 103,
+      "poemMeaning": "张九龄自叙少年追贤、贫衣怀玉与负薪成官的理想，以志道相合超越血缘贫贱并感激道义为邻。",
+      "assessment": "consistent",
+      "alignmentNotes": "弱岁读史抗迹、被褐怀玉与负薪佩印的德才自许、志合岂限兄弟道行无贱贫、孤根感激邻的收束完整；此为邻具体指代已有待核而不补知己姓名。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-ce9f85366dfd2c37",
+      "title": "叙怀二首 一",
+      "author": "张九龄",
+      "reviewedTextSha256": "e77becdf83bd8bcd01b576f8e996fa2eb91bb8b00dcb245c0e5c205054f71d07",
+      "reviewedCommentarySha256": "bb074c230939576f3ad91d0f8d792dd4523ed54b3a7ad717af122c9b881091dd"
+    },
+    {
+      "order": 104,
+      "poemMeaning": "奸雄得志使群心动摇，中原兵火毁尽家园，一人计策未获采用终于造成万里萧条。",
+      "assessment": "consistent",
+      "alignmentNotes": "乃得志遂心摇的因果、赤风烈火无遗巢的乱象、计不用与空萧条的追悔对应，诗题及历史对象不强落实。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-370f725b350d3dd3",
+      "title": "失题",
+      "author": "王昌龄",
+      "reviewedTextSha256": "0084e22f4b4760a2abd972903fc42bb544d50baa73534e47812013aaa5f9e755",
+      "reviewedCommentarySha256": "f2adcc017265801bfc64f7e764eca9f450070d7e99e42c99c540165f860e8af9"
+    },
+    {
+      "order": 105,
+      "poemMeaning": "江上七弦琴声澄清人心与木阴，仿佛令月更白水更深，诗人因此赞梧桐琴值得配黄金琴徽。",
+      "assessment": "consistent",
+      "alignmentNotes": "一弦清一心、泠泠七弦遍、万木幽阴澄、江月白水深和始知梧桐徽黄金的递进准确，玉琴不是整琴玉制已注明。",
+      "issues": [],
+      "verificationRefs": [],
+      "id": "yizhu-39d0c9040c0577f5",
+      "title": "江上琴兴",
+      "author": "常建",
+      "reviewedTextSha256": "87029cbce5d12168dcf803a96de08e2f5983aabd8f9581c762faea56ccbc8a44",
+      "reviewedCommentarySha256": "e5e63c68f1e09b39b1e0b60decd323cf79e0f2206165c405b391d3e9f41a747c"
+    }
+  ]
+}

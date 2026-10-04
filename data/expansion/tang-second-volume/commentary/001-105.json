@@ -919,7 +919,7 @@
       "summary": "从长安冒寒返家，一路是宫苑的欢宴、权贵的丰盛，也是穷人的冻饿。回到家却听见幼子饿死的哭声，诗人的伤痛于是越过一家，沉沉压向天下无以谋生的人。",
       "interpretation": [
         "我这个住在杜陵的平民，年岁渐长，反倒愈加不合世俗。早年自许要像稷、契那样辅佐政治、济养百姓，如今虽处处失意，赤手忍受困苦，只要尚未盖棺，这志愿便不肯放下。整年为百姓忧虑，胸中焦灼，同学长者虽取笑我，我仍要激越地放声歌唱。",
-        "我并非没有泛舟江海、自在终老的心愿，只因仍期待君上有尧舜之治，才不忍就此永远离开。朝廷似乎已不缺栋梁之材，我却像向日的葵藿，无法改变本性。想到寻常人只求自己的安身之处，便反问自己何必还怀着大鲸横卧海中的心志；可越明白世情，越不愿靠四处拜谒求进。困顿到如今，即便埋没，也难以转变操守。又觉得愧对巢父、许由那样彻底隐退的人，只能饮酒自遣，越唱越悲。",
+        "我并非没有泛舟江海、自在终老的心愿，只因仍期待君上有尧舜之治，才不忍就此永远离开。朝廷似乎已不缺栋梁之材，我却像向日的葵藿，无法改变本性。想到寻常人只求自己的安身之处，便反问自己何必还怀着大鲸横卧海中的心志；可越明白世情，越不愿靠四处拜谒求进。困顿至今，我又岂甘心就这样被尘埃埋没？终究自愧不如巢父、许由那样彻底隐退，仍不能改变自己的志向，只能饮酒自遣，越唱越悲。",
         "岁末百草凋零，狂风在高冈上呼啸。我半夜离京，严霜使衣带冻硬断裂，手指僵直，连结也打不好。天将明时经过骊山，皇帝驻处高踞山间，寒空浓雾弥漫，山路湿滑。华清宫气雾蒸腾，羽林军兵甲相接，君臣宴乐的声音震动山谷；享受赐浴和宴饮的都是贵人，哪里会有短衣穷民。",
         "宫廷赐下的丝帛，本由贫寒织妇辛劳制成；官府又逼迫她们的丈夫和家人，把财物收聚进献。照仁政的道理，君主分赐财物应为了使国家与百姓活得更好；臣下若忘了这层本意，岂不辜负恩赐？满朝官员之中，有仁心的人理应为此警惕不安。",
         "更听说宫中的金盘都送到了显贵家里。华堂里舞女如仙，轻烟薄纱间显出姿容；客人穿着暖裘，听笙管清瑟，吃着驼蹄羹与珍贵的橙橘。朱门里酒肉丰盛，路边却有冻死的人，富贵与贫困近在咫尺，差别竟这样惨烈，实在难以尽说。",
@@ -964,14 +964,17 @@
         ],
         "verificationRefs": [
           "https://www.shidianguji.com/book/SK2231/chapter/1l9f2c3mvmfq2",
-          "https://www.shidianguji.com/zh/book/CADAL02099542/chapter/1lcnvoupsujv7"
+          "https://www.shidianguji.com/zh/book/CADAL02099542/chapter/1lcnvoupsujv7",
+          "https://wkxb.sicnu.edu.cn/Publish/201610/20161024152344229.pdf",
+          "https://www.shidianguji.com/zh/book/SBCK133/chapter/SBCK133_622"
         ]
       },
       "sourceTextSha256": "9d3ada0ebead5710185e937a91d395a06bb35e56b859602ca01a146827e1d883",
       "reviewStatus": "editorial-draft",
       "reviewNotes": [
         "补核“秋未／秋禾”确有版本与阐释分歧：《杜诗详注》用“秋禾”，《杜诗阐》讨论“不必作秋禾”。本制作稿保留归档的“秋未”，不以常见读法径判误字；详细证据见 text-proposals/001-105.json。",
-        "“贫𪧘”“𫶇嵲”“樛嶱”等生僻字须校字形及字体覆盖。“酒肉臭”有臭味与香气等读解，不把争议译成确定的酒肉腐坏。"
+        "“贫𪧘”“𫶇嵲”“樛嶱”等生僻字须校字形及字体覆盖。“酒肉臭”有臭味与香气等读解，不把争议译成确定的酒肉腐坏。",
+        "语义复核：“忍为尘埃没”取岂肯被尘埃埋没的反问语气，承接盖棺以前不放弃济民志愿；不译为甘受埋没的让步。"
       ],
       "artDirection": "A winter traveler on a staff approaches a poor village beyond a broad icy river and a frail timber bridge; distant palace lights remain small on an upper ridge. Cold compassion and vast social distance, no graphic dead child, no multi-panel montage."
     },
@@ -982,7 +985,7 @@
       "summary": "新丝、新谷还未到手，农家就已被迫提前卖去。像剜肉补疮一样的求生，催出诗人的愿望：愿君王的光照见那些逃散荒废的家。",
       "interpretation": [
         "二月蚕丝尚未收成，已经卖掉将来的新丝；五月谷物还没成熟，又低价卖去将来的收获。这样的周转看似治好眼前的疮，却像割掉心头的肉，透支了以后的活路。",
-        "我愿君王的心化成一支明亮的蜡烛，不只照耀绫罗华服的宴席，更去照见因贫困而逃亡的人家，让那些藏在暗处的苦难被看见。"
+        "我愿君王的心化成一支明亮的蜡烛，不要照耀绫罗华服的宴席，只去照见那些因贫困与赋役而逃亡的人家，让那些藏在暗处的苦难被看见。"
       ],
       "glossary": [
         {
@@ -1015,7 +1018,7 @@
         "长安大道连着曲折小巷，装饰华美的牛车马车来往不绝。贵人车驾穿行公主府第与侯门，车盖上的龙凤映着朝日与晚霞；长长的游丝绕树，娇鸟在花间争鸣，城中千门万户都是春色。楼阁碧树交错，空中廊道与雕花窗相连，两座宫阙的屋顶如展翅凤凰；豪家的画阁高耸，承露的金茎也像伸入云外。",
         "楼上楼下、街头陌上相遇的人，虽彼此望见，却未必相识。诗接着转入对青春情爱的想象：如能得到心爱的人相伴，便不惜生命；宁愿成为成双的鱼与鸳鸯，也不羡慕神仙。连帐上孤独的鸾鸟都嫌寂寞，只想把双燕贴到帘上。成双的燕子绕着画梁，罗帏翠被透着郁金香气，美人的鬓发与额饰精巧，盛装出行，各有娇姿。",
         "俊美少年跨着花纹骏马，歌楼门户也装饰华丽。天色渐晚，官府周围乌雀啼栖，车帷却仍沿着城道远去。杜陵北有人携弹放鹰，渭桥西有人召募游侠；佩剑少年相约，来到歌妓居处共宿。黄昏的紫裙与婉转歌声留住来客，北堂夜夜佳人如月，南陌朝朝车骑如云，热闹街路连接着几处市集，杨柳青槐间尘土与繁华气象一道升起。",
-        "执掌京城警卫的显贵带着众多骑从而来，置身华美屋宇、举起珍异酒杯。歌舞女子解开衣带，为客人献上各地歌舞。还有更为豪奢的将相，争着凭权势左右局面，彼此毫不相让；诗借灌夫遭排挤、萧何受猜忌等古事，写权贵容不得异己。他们骑着骏马得意于春风，自信歌舞富贵能延续千年，骄奢远超旧日贵族。",
+        "执掌京城警卫的显贵带着众多骑从而来，饮着翡翠色的屠苏美酒，举起珍异的鹦鹉杯。歌舞女子解开衣带，为客人献上各地歌舞。还有更为豪奢的将相，争着凭权势左右局面，彼此毫不相让；诗借灌夫受排挤、萧相不容于掌权者等古事，写权贵容不得异己。他们骑着骏马得意于春风，自信歌舞富贵能延续千年，骄奢远超旧日贵族。",
         "但节序风光从不等人，沧海桑田也可倏忽变换。当初的金阶玉堂，如今只剩青松。与喧闹相对，是扬雄那样寂寞清贫的居处，年年只有满床书卷；山上的桂花独自开放，香气飘来，轻轻沾上衣襟。繁华易尽，沉静的学问与自守之心却有另一种长久。"
       ],
       "glossary": [
@@ -1042,6 +1045,18 @@
         {
           "term": "扬子",
           "text": "扬雄，以清贫著述的生活与权贵豪奢相对照。"
+        },
+        {
+          "term": "连甍",
+          "text": "相接的屋脊。诗中双阙的屋檐舒展，仿佛凤凰垂下的双翼。"
+        },
+        {
+          "term": "萧相",
+          "text": "本处通行解为汉元帝时受弘恭、石显排挤的萧望之；明蒋一葵《唐诗选》另注为相国萧何，存在古注分歧。"
+        },
+        {
+          "term": "屠苏",
+          "text": "此处按酒名解释，“翡翠”形容酒色；屠苏也有屋舍义，古注说明其原为庵名、因造酒而转为酒名。"
         }
       ],
       "basis": {
@@ -1050,13 +1065,16 @@
           "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.2000.json"
         ],
         "verificationRefs": [
-          "https://zh.wikisource.org/wiki/長安古意"
+          "https://zh.wikisource.org/wiki/長安古意",
+          "https://www.shidianguji.com/zh/book/NA11858/chapter/1m8o3hiaj3jgf",
+          "https://www.gushiwen.cn/shiwenv.aspx?id=ac6684b5da86"
         ]
       },
       "sourceTextSha256": "78e8903eec077a93784648300dd59fbd378bf0ccf828a8a682f352a7971aaf05",
       "reviewStatus": "editorial-draft",
       "reviewNotes": [
-        "正文“双阙连薨”疑为“双阙连甍”（相接的屋脊），原典文本已见“甍”，源文未改。大量汉代人名、官名用于借古写盛衰，不应把全部场景画成同一历史事件。"
+        "正文“双阙连薨”疑为“双阙连甍”（相接的屋脊），原典文本已见“甍”，源文未改。大量汉代人名、官名用于借古写盛衰，不应把全部场景画成同一历史事件。",
+        "语义复核：“萧相”有萧望之与萧何两说，正文暂保留官称；“翡翠屠苏”有美酒与华屋读法，本稿取酒宴语境的屠苏酒，不径判另说为误。"
       ],
       "artDirection": "An upper panorama of Tang capital avenues with a few ornate horse carriages beneath willow and palace eaves; at one quiet edge a plain scholar window and a small fragrant cassia branch. Rich city detail dissolves into calm paper, avoiding erotic imagery and a comic panorama."
     },
@@ -1504,7 +1522,7 @@
       "summary": "湘水女神的瑟声凄清，仿佛把流水、香草与洞庭长风一同唤醒。曲声渐止，神女不见，江上只留下几座青峰，余韵却仍未散去。",
       "interpretation": [
         "常听说湘水的神女善于弹奏云和瑟。河神仿佛随声起舞，漂泊楚地的人却承受不住其中的悲哀。琴调连金石都似为之凄楚，清澈的声音升入幽远天空。",
-        "她的哀思从苍梧一带传来，像在追慕远去的舜，岸边白芷也被激发出芳香。乐声随流水传向潇湘水滨，又化作悲凉的风吹过洞庭。等到一曲终了，已看不见奏瑟者，只剩江上几座青山，寂静地承接着未尽之音。"
+        "瑟声牵动了与苍梧葬舜相连的哀怨与思慕，岸边白芷也仿佛随声吐出芳香。乐声随流水传向潇湘水滨，又化作悲凉的风吹过洞庭。等到一曲终了，已看不见奏瑟者，只剩江上几座青山，寂静地承接着未尽之音。"
       ],
       "glossary": [
         {
@@ -1529,12 +1547,17 @@
         "sourceRefs": [
           "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.12000.json"
         ],
-        "verificationRefs": []
+        "verificationRefs": [
+          "https://www.shidianguji.com/zh/book/JINANLIB03064/chapter/1lx15r1id3u3e",
+          "https://m.gushiwen.cn/mingju/juv_04e3ab84240c.aspx",
+          "https://cool.ntu.edu.tw/files/1342321/download?download_frd=1"
+        ]
       },
       "sourceTextSha256": "f21b48973291eb7aec48e67c99fed851fdabe0f4bd02e985042917e641b67478",
       "reviewStatus": "editorial-draft",
       "reviewNotes": [
-        "此诗十二句为五言排律，虽原书列“五律”，页面排版须按实际句数。帝子、湘灵与舜妃的神话关系存在传说叠合，解说不强求单一谱系。"
+        "此诗十二句为五言排律，虽原书列“五律”，页面排版须按实际句数。帝子、湘灵与舜妃的神话关系存在传说叠合，解说不强求单一谱系。",
+        "语义复核：“苍梧来怨慕”有舜灵受瑟声感动而来、湘灵瑟声寄托怀舜哀思等读解；苍梧先指舜葬地，不强定“她的哀思从苍梧传来”的路线。"
       ],
       "artDirection": "A mist-veiled river with a barely suggested celestial woman playing a se on a distant bank, pale fragrant herbs and several green peaks beyond. The final quiet mountains should dominate; no detailed pantheon."
     },
@@ -3250,9 +3273,9 @@
       "title": "韩冬郎即席为诗相送一座尽惊他日余方追吟连宵侍坐裴回久之句有老成之风因成二绝寄酬兼呈畏之员外 一",
       "author": "李商隐",
       "order": 95,
-      "summary": "十岁的孩子当席成诗，竟能写出烛残夜深时的送别情。诗人把父子比作丹山凤凰，欣喜地听见雏凤的声音已经格外清亮。",
+      "summary": "十岁的孩子当席迅速成诗，令一座宾客惊叹；炉灰已冷、烛火将残的饯别夜，仍留着动人的离情。诗人把父子比作丹山凤凰，欣喜地听见雏凤的声音已经格外清亮。",
       "interpretation": [
-        "韩冬郎十岁便能极快作诗，写到炉灰渐冷、烛火将尽时的离情，让一座宾客都为之动容。想象丹山远路上桐花繁盛，凤凰相鸣，小凤凰的声音竟比老凤凰还清亮；这是夸赞年轻一代才情早发，也向他的父亲表达欣慰与敬意。"
+        "韩冬郎十岁便能在席上极快作诗，令一座宾客惊叹。回忆当年炉灰已冷、烛火将残的饯别夜，离情仍被触动。想象丹山远路上桐花繁盛，凤凰相鸣，小凤凰的声音竟比老凤凰还清亮；这是夸赞年轻一代才情早发，也向他的父亲表达欣慰与敬意。"
       ],
       "glossary": [
         {
@@ -3273,12 +3296,17 @@
         "sourceRefs": [
           "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.29000.json"
         ],
-        "verificationRefs": []
+        "verificationRefs": [
+          "https://www.gushiwen.cn/mingju/juv.aspx?id=5286eb45430e",
+          "https://ourartnet.com/Sikuquanshu/Zhuanti/Shici/029.asp",
+          "https://ctext.org/wiki.pl?chapter=428324&if=gb"
+        ]
       },
       "sourceTextSha256": "0b7687a01d6f1a50eb27ddbd24b91ef8ce446aeeedae021ac7cda7ca4cd59e48",
       "reviewStatus": "editorial-draft",
       "reviewNotes": [
-        "韩冬郎通常指韩偓，其父韩瞻字畏之；长题中引用其送别诗句，应与本首正文分开，不把题中字句追加成原诗。"
+        "韩冬郎通常指韩偓，其父韩瞻字畏之；长题中引用其送别诗句，应与本首正文分开，不把题中字句追加成原诗。",
+        "语义复核：“冷灰残烛”在本诗中先按当年饯别席的回忆场景理解；题中所引韩冬郎原句不能证明这四字也是韩冬郎诗的内容，不把本诗画面挪作其原诗具体措辞。"
       ],
       "artDirection": "A talented child composing at a low desk beside an older man, the last candle and cooling brazier at a farewell evening; a subtle wutong blossom branch above. Intimate admiration, avoid literal giant phoenixes or visible writing."
     },
@@ -3418,7 +3446,7 @@
       "title": "咏鹅",
       "author": "骆宾王",
       "order": 100,
-      "summary": "白鹅伸长脖颈，向着天空叫着，声音清亮而自在。白羽浮在绿水上，红掌轻拨，水面便漾开一道道波纹。",
+      "summary": "白鹅弯着脖颈，向着天空叫着，声音清亮而自在。白羽浮在绿水上，红掌轻拨，水面便漾开一道道波纹。",
       "interpretation": [
         "鹅呀，鹅呀，你弯着长长的脖子，朝天空放声鸣叫。洁白的羽毛浮在碧绿水面上，红色脚掌在水下轻轻划动，拨开一圈圈清波。"
       ],

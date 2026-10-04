@@ -72,11 +72,11 @@
       "title": "送宫人入道归山",
       "author": "于鹄",
       "order": 208,
-      "summary": "幼年入宫的女子，直到白发才得离开，换上道衣归向青山。诗人想象她今后与猿鹤为邻的清静生活，也想到宫中旧伴听见山钟时的心情。",
+      "summary": "幼年入宫的女子，直到白发才得离开，换上道衣归向青山。诗人想象她今后与猿鹤为邻的清静生活，末联又把宫中旧伴与山中夜钟联系在别后的遥想中。",
       "interpretation": [
         "你十岁时便带着吹箫的本领入宫，在宫里看着水殿修起、荷花种下。如今因白发而自伤，终于告别华美宫室，获准穿上道衣前往山中。",
         "往后的清晨，似乎会有通人意的老猿替你开门，初学飞翔的小鹤落在高松上；这是诗人替你设想的山居日常。",
-        "想来分别以后，仍留宫中的姐妹，听到半夜山中传来的钟声，也会念起你。"
+        "诗人又把宫中旧伴与缑山半夜钟声联系在别后的遥想中，旧日宫廷与往后的清修生活由此相接。"
       ],
       "glossary": [
         {
@@ -97,11 +97,14 @@
         "sourceRefs": [
           "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.16000.json"
         ],
-        "verificationRefs": []
+        "verificationRefs": [
+          "https://www.hnwomen.com/_upload/article/files/41/0c/5f6d7bef424dae8ca27059792b79/8d7ca4d9-68d3-45a5-b093-b9ea74946967.pdf"
+        ]
       },
       "reviewStatus": "editorial-draft",
       "reviewNotes": [
-        "首句源文为“吹萧”，常见通行写法为“吹箫”；释义按吹奏箫理解，正文待校。"
+        "首句源文为“吹萧”，常见通行写法为“吹箫”；释义按吹奏箫理解，正文待校。",
+        "语义复核：尾联听钟主体及“宫中伴”与其关系尚待专门注本；山居钟声属别后遥想，不宜写实为钟声实际传到宫中。"
       ],
       "artDirection": "An elderly former palace woman in a muted yellow Daoist robe at a mountain hermitage at dawn. Tall pines shelter a young crane, an old monkey by the simple gate; the palace is absent, emphasizing release after a long confined life."
     },
@@ -109,10 +112,10 @@
       "title": "和侯大夫秋原山观征人回",
       "author": "杨巨源",
       "order": 209,
-      "summary": "征战暂歇，归来的军队走向旧营，秋日边地恢复了安静。马背上的远望、分路的旗帜之间，仍有士卒对家乡的牵挂。",
+      "summary": "征战止息，归来的军队走向旧营，秋日边地恢复了安静。望云、射雕与军伍分路写归军情景，诗人把止戈归功于朝廷的谋略。",
       "interpretation": [
         "两河战事结束，四方安定，回师的军队在原野上认出从前的营地。停马望云，秋天的边塞静了下来；临水试射飞雕，晚空一片晴朗。",
-        "戍守渐闲，队伍在岔路处分开；家乡遥远，士卒仍随军旗辗转，把归思寄托其间。",
+        "戍守渐闲，队伍在岔路处分开；故乡仍远，将士的生活还系在军旗下。",
         "诗人把止息战争归功于朝廷的谋划，也盼望各地将领从此不必再率军长途出征。"
       ],
       "glossary": [
@@ -138,7 +141,8 @@
       },
       "reviewStatus": "editorial-draft",
       "reviewNotes": [
-        "“地远家乡寄斾旌”语意较凝缩，暂按家远随军、归思寄于军旅解释，待专门注本复核。"
+        "“地远家乡寄斾旌”语意较凝缩，暂按家远随军、归思寄于军旅解释，待专门注本复核。",
+        "语义复核：“地远家乡寄斾旌”句法凝缩，暂保留故乡远、生活系于军旅的关系；不把“归思寄托军旗”或“军营即家”强定为唯一心理与主语解。"
       ],
       "artDirection": "An orderly returning Tang military column dividing at a quiet autumn crossroads, modest banners, horses paused beside a river, clear evening sky and an old camp in the distance. Relief after war, with homesick soldiers rather than battle spectacle."
     },
@@ -184,8 +188,8 @@
       "summary": "两位旧友离京十年后同获召还，却又一起走向南方，在湘水边分路。归雁飞尽，猿声催愁，今后只能隔着江山相望，以诗寄怀。",
       "interpretation": [
         "离开京城十年，我们一同应召回去；不料又远行千里，渡过湘水，在这里各奔前程。",
-        "我再被派往连州，际遇却不像重任颍川、后来拜相的黄霸；屡遭贬斥，又自惭不及三次被罢免而坚持正道的柳下惠。",
-        "目光随着北归的雁一直追到看不见，耳边又恰好传来令人断肠的猿声。",
+        "我再任连州，却没有黄霸重任颍川后升为丞相的际遇；又借守正而三黜的柳下惠映照柳宗元的遭际与清名，也寓同遭贬斥的自况。",
+        "我们望归的目光随着北归雁一直追到看不见，耳边又恰好传来令人断肠的猿声。",
         "想到桂江向东流过连山之下，你我虽分处两地，还可遥相思念，长吟诗篇寄托牵挂。"
       ],
       "glossary": [
@@ -199,7 +203,7 @@
         },
         {
           "term": "柳士师",
-          "text": "柳下惠，曾任士师，三次被罢职而不改原则。"
+          "text": "柳下惠，曾任士师，因守正三遭罢黜；此处常解为借柳姓古人映照柳宗元，也有兼作诗人自况的读法。"
         },
         {
           "term": "有所思",
@@ -212,12 +216,14 @@
           "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.19000.json"
         ],
         "verificationRefs": [
-          "https://ctext.org/wiki.pl?chapter=813345&if=gb"
+          "https://ctext.org/wiki.pl?chapter=813345&if=gb",
+          "https://poetryh.com/F011Archives/02bOldChnCollections/%E5%94%90%E8%AF%97%E9%89%B4%E8%B5%8F%E8%BE%9E%28%E8%90%A7%E6%B6%A4%E9%9D%9E%29.pdf"
         ]
       },
       "reviewStatus": "editorial-draft",
       "reviewNotes": [
-        "末联桂江与连山的地理指涉沿用诗中表达，不把诗意方位当作现代水系地图；“三黜”用典不机械套作作者三次相同官职变动。"
+        "末联桂江与连山的地理指涉沿用诗中表达，不把诗意方位当作现代水系地图；“三黜”用典不机械套作作者三次相同官职变动。",
+        "语义复核：颔联常见读法分别以黄霸映照再授连州的刘禹锡、柳下惠映照柳宗元；也可兼读共享遭黜的自况，勿只留一种主语解释。"
       ],
       "artDirection": "Two middle-aged Tang friends saying farewell beside the Xiang River, two boats facing different southern channels, a thin line of northbound geese disappearing above spring mountains. Restrained grief and shared political exile."
     },
@@ -498,11 +504,11 @@
       "title": "西塞山泊渔家",
       "author": "皮日休",
       "order": 220,
-      "summary": "白发渔翁静坐枫树下，家人采桑买蓑，各有日常忙碌。春水里莼菜鲜、鲈鱼肥，过客隔着波光看去，羡慕这份安稳自在。",
+      "summary": "白发渔翁静坐枫树下，家人采桑买蓑，各有日常忙碌。春水里莼菜鲜、鲈鱼肥，诗人泊舟作客，隔着波光羡慕这份安稳自在。",
       "interpretation": [
         "白色头巾下面，渔翁的头发已细白如丝；他倚着枫树根，安静坐在水边钓石上。",
         "家中妇人往桑村采叶，小儿到水边市集买了蓑衣回来。雨水添来，采莼的小船滑行水上；春天过后，肥鲈鱼沉沉地坠着钓线。",
-        "西塞山前，那些整日经过的行旅之客，隔着江水望见渔家生活，都羡慕流连，不忍移开眼睛。"
+        "我在西塞山前作客泊舟，整日看着渔家生活；隔着江波羡慕他们，久久依恋，不忍离开。"
       ],
       "glossary": [
         {
@@ -523,7 +529,9 @@
         "sourceRefs": [
           "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.33000.json"
         ],
-        "verificationRefs": []
+        "verificationRefs": [
+          "https://zh.wikisource.org/wiki/Page%3AGujin_Tushu_Jicheng%2C_Volume_137_%281700-1725%29.djvu/18"
+        ]
       },
       "reviewStatus": "editorial-draft",
       "reviewNotes": [
@@ -1564,7 +1572,7 @@
       "title": "早梅",
       "author": "张谓",
       "order": 252,
-      "summary": "溪桥边一树寒梅白如玉，远看竟像春来未消的积雪。走近才知，原来是临水的梅花开得早。",
+      "summary": "溪桥边一树寒梅白如玉，因临水开得早，诗人起初不知是梅花，竟疑作春来尚未消尽的积雪。",
       "interpretation": [
         "一树寒梅枝上开满白玉般的花，远远立在村林边，靠着溪桥。我起初不知道近水的花先开，还误以为是经过春天仍未融尽的雪。"
       ],
@@ -1601,7 +1609,7 @@
       "title": "春思二首 一",
       "author": "贾至",
       "order": 253,
-      "summary": "草青柳黄，桃李灿烂，春日原本处处可爱。可东风吹不走心事，白昼越长，离愁反而越难排遣。",
+      "summary": "草青柳黄，桃李灿烂，春日原本处处可爱。可东风吹不走心事，白昼越长，心中愁绪反而越难排遣。",
       "interpretation": [
         "青草一片青绿，柳梢嫩黄，桃花繁密绚丽，李花香气四散。可春风并不替我吹散忧愁，渐长的春日反倒使心中的遗憾也变得漫长。"
       ],
@@ -1984,7 +1992,7 @@
       "order": 265,
       "summary": "竹阴下对坐饮茶，话语渐少，尘心也渐渐清静。余兴未尽时，树上蝉声仍在，影子已经斜了。",
       "interpretation": [
-        "我们在竹下相对饮着好茶，心意相通，已不必多说；这种清醒的快乐，比传说中仙人饮仙酒还要好。俗世杂念像被洗尽，兴致却仍没有尽头，耳边一树蝉鸣，眼前的树影已悄然西斜。"
+        "我们在竹下相对饮着好茶，心意相通，已不必多说；这种清醒的快乐，比传说中仙人饮仙酒还要好。俗世杂念像被洗尽，兴致却仍没有尽头，耳边一树蝉鸣，眼前一片树影也已悄然倾斜。"
       ],
       "glossary": [
         {
@@ -2610,7 +2618,7 @@
       "order": 284,
       "summary": "暮色里嘉陵江东流，万片梨花被风卷起。最使人不忍的，是花瓣一半飘在空中，一半已落入流水，再也挽不回来。",
       "interpretation": [
-        "夕阳将落，嘉陵江水向东流去，岸上的梨花成千上万随江风飞散。问这落花哪一刻最让人伤心，正是看见它一半已经落在江流里，一半还悬在空中的时候。"
+        "夕阳将落，嘉陵江水向东流去，岸上的梨花成千上万随江风飞散。江边落花哪一种景象最使人断肠？正是花瓣一半落入江流，一半还飘在空中。"
       ],
       "glossary": [
         {
@@ -2699,7 +2707,7 @@
       "title": "赠去婢",
       "author": "崔郊",
       "order": 287,
-      "summary": "昔日相知的女子被带入深深侯门，彼此从此难以相见。权贵纷纷追逐，她却垂泪，近在一城也像隔着海。",
+      "summary": "昔日相知的女子进入深深侯门，彼此从此难以相见。权贵纷纷追逐，她却垂泪；侯门深如海，旧日相爱的人从此也只能形同陌路。",
       "interpretation": [
         "王孙公子追随在她身后，争相倾慕；这位像绿珠一般的女子，却把罗巾都哭湿了。她一旦进入侯门，那道门便深得像海，从此与旧日相爱的人，也只能像陌路人一般隔绝。"
       ],
@@ -2734,9 +2742,9 @@
       "title": "南园十三首 五",
       "author": "李贺",
       "order": 288,
-      "summary": "诗人不甘只在纸上用力，想佩剑收复失地。他望向凌烟阁的功臣画像，追问书生何时也能真正有所作为。",
+      "summary": "诗人激问男儿为何不佩兵器收复失地，再请人看看凌烟阁：哪一个万户侯仅凭书生笔墨得来？建功的渴望里，含着身为书生、功业难成的愤懑。",
       "interpretation": [
-        "男子为何不佩起吴钩，去收回被割据的关山州郡？请你暂且登上凌烟阁看看，那些受封显贵的人中，有谁是只凭读书作文便坐享万户侯的呢？这是激愤中的反问，写想要建功而无路的心情。"
+        "男子为何不佩起吴钩，去收回被割据的关山州郡？请你暂且登上凌烟阁看看，那些受封显贵的人中，有谁是只凭读书作文便受封万户侯的呢？这是激愤中的反问，写想要建功而无路的心情。"
       ],
       "glossary": [
         {
@@ -2810,10 +2818,10 @@
       "title": "题桃花夫人庙",
       "author": "杜牧",
       "order": 290,
-      "summary": "桃花带露，宫中女子却默默无言。诗人由息夫人的遭遇想到国亡与身世，再借绿珠的故事发出带着历史观念的感慨。",
+      "summary": "楚宫桃花又新，息夫人却含情不语。诗人追问息国灭亡的缘由，又将她留居楚宫与绿珠坠楼相对照，寄出古代节义观念中的褒贬。",
       "interpretation": [
         "楚宫里，带露的桃花又鲜艳起来，息夫人含情不语，已这样度过几个春天。诗人追问息国究竟因何而亡，随后转而慨叹金谷园坠楼的绿珠。",
-        "结尾用两位女子的遭遇相对照，包含古人以守节论人的立场；理解这一层，是说明诗人的议论，并不意味着今日也要以殉死评判被迫者。"
+        "诗人以绿珠坠楼抗拒强权之死，对照息夫人国亡后仍居楚宫的处境，寄出赞叹与含蓄责意；这是原诗采用的节义判断，不等于今人必须赞成以殉死评判被迫者。"
       ],
       "glossary": [
         {
@@ -2834,11 +2842,15 @@
         "sourceRefs": [
           "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.28000.json"
         ],
-        "verificationRefs": []
+        "verificationRefs": [
+          "https://zh.wikisource.org/zh-hans/%E7%94%8C%E5%8C%97%E8%A9%A9%E8%A9%B1#%E6%9D%9C%E7%89%A7%E8%AF%97",
+          "https://wxy.jzxy.edu.cn/uploads/zwx/file/20180424/3sgdsxfd3c.pdf"
+        ]
       },
       "reviewStatus": "editorial-draft",
       "reviewNotes": [
-        "末联有对息夫人、绿珠的贞节比较，终审宜核典故并保留现代释义与原诗价值立场的区分，不把“可怜”简单译为轻蔑。"
+        "语义复核：赵翼《瓯北诗话》卷十一以绿珠之死反衬息夫人之不死说明本诗含蓄褒贬；释义应说明具体对照，并区分古代节义判断与现代读者立场。",
+        "语义复核：“可怜”兼有叹惜之意，不简单译成轻蔑；此处借故事论人，不把息国灭亡的复杂史因概括为女子主动造成。"
       ],
       "artDirection": "A quiet ancient Chu palace courtyard, dew on fresh peach blossoms, a silent woman half-seen behind a curtain looking toward the flowers. Convey constrained grief and historical vulnerability; no suicide depiction or moralizing split-screen comparison."
     },
@@ -3150,7 +3162,7 @@
       "title": "古离别",
       "author": "韦庄",
       "order": 300,
-      "summary": "晴烟笼着柔长柳丝，酒喝到一半，离情仍难承受。远行人把马鞭指向云外，最牵心的春色还在遥远江南。",
+      "summary": "晴烟笼着柔长柳丝，酒意半酣，离情仍难承受。远行人把马鞭指向云外，最牵心的春色还在遥远江南。",
       "interpretation": [
         "晴日薄烟弥漫，柳条细长披拂，酒虽已喝得半酣，还是禁不住这离别情绪。我又举起马鞭指向远处云天，令人断肠、令人牵念的那片春色，就在江南。"
       ],
@@ -3169,7 +3181,9 @@
         "sourceRefs": [
           "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.1000.json"
         ],
-        "verificationRefs": []
+        "verificationRefs": [
+          "https://zh.wikisource.org/zh-hans/%E5%8F%A4%E5%88%A5%E9%9B%A2_%28%E9%9F%8B%E8%8E%8A%29"
+        ]
       },
       "reviewStatus": "editorial-draft",
       "reviewNotes": [],

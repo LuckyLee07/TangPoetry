@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "reviewedCommit": "2921d5e",
+  "method": "对已有106–130逐首审阅结果进行二次对照，并补充摘要与句法核验",
+  "findings": [
+    {
+      "order": 118,
+      "title": "正乐府十篇 橡媪叹",
+      "field": "summary",
+      "severity": "minor",
+      "original": "辛苦一天才凑成冬粮",
+      "problem": "尽日方满筐写一整天才拾满一筐；不能据此断言一天便凑齐整个冬天的口粮。",
+      "proposed": "秋霜里，老妇弯腰捡橡子，终日才拾满一筐，晒蒸后充作冬粮。山前的稻米却尽送官仓，贪吏还在量斗上盘剥，诗人见此泪湿衣襟。",
+      "verificationRefs": [],
+      "basis": "正文“移时始盈掬，尽日方满筐。几曝复几蒸，用作三冬粮”"
+    },
+    {
+      "order": 118,
+      "title": "正乐府十篇 橡媪叹",
+      "field": "interpretation[2]",
+      "severity": "moderate",
+      "original": "农忙时借出的私人债务，收成后又把粮食逼进他们掌握的仓中",
+      "problem": "原稿未明示贪吏利用官粮放私债并归还本金、从中取利的通行解，笼统写掌握的仓又混淆官仓与私财。",
+      "proposed": "农忙时挪用官粮放作私债，收成后再把本金归还官仓，从中取利，盘剥农人。",
+      "verificationRefs": [
+        "https://doosho.com/cn/1119/141",
+        "https://m.gushiwen.cn/mingju/juv_1b986bda41dd.aspx"
+      ],
+      "basis": "正文“狡吏不畏刑，贪官不避赃。农时作私债，农毕归官仓”与通行注释相互印证。"
+    },
+    {
+      "order": 201,
+      "title": "秋兴八首 七",
+      "field": "summary",
+      "severity": "minor",
+      "original": "回忆昆明池，仿佛还能看见汉武旌旗，石鲸与织女却只空对秋月。眼前关山阻绝，自己已成江湖渔翁，盛景与身世一同转入苍凉。",
+      "problem": "摘要将织女与石鲸一并说成只空对秋月，压平虚月夜与动秋风两种不同描写。",
+      "proposed": "回忆昆明池，仿佛又见汉武旌旗；织女石像空对月夜，石鲸似在秋风中动起。关山阻绝，自己已成江湖渔翁，旧日盛景与今日身世相对，愈添苍凉。",
+      "verificationRefs": [],
+      "basis": "正文“织女机丝虚月夜，石鲸鳞甲动秋风”并置静与动。"
+    }
+  ],
+  "reconsidered": [
+    {
+      "order": 119,
+      "question": "佩玉鸣鸾是否只能解为车马与贵人",
+      "decision": "不强改。古今注本有舞女服饰、宾客玉饰车铃等解释，现稿以昔日歌舞已罢为主旨，可通。",
+      "verificationRefs": [
+        "https://ht88.com/article/article_11021_1.html"
+      ]
+    },
+    {
+      "order": 120,
+      "question": "鸬鹚山/扬州一联一定属于启行前眼前实景吗",
+      "decision": "不强改。赏析有第二段全为别后推想、也有补写启行地点的分析，原诗无明确时态，现稿不锁定具体地理路线。",
+      "verificationRefs": [
+        "https://www.zggdwx.com/shici/5332.html",
+        "https://poetryh.com/F011Archives/02bOldChnCollections/唐诗鉴赏辞(萧涤非).pdf"
+      ]
+    },
+    {
+      "order": 203,
+      "question": "步蟾是否必须解释成廊檐",
+      "decision": "保留归档的蟾字与月下缓步读法，同时说明杜诗详注所取步檐及廊檐旧注。主文只写倚杖缓步，不把另一个版本的字义强定为当前唯一词义。",
+      "verificationRefs": [
+        "https://pedia.cloud.edu.tw/Entry/Detail/?search=步蟾&title=步蟾",
+        "https://ctext.org/wiki.pl?chapter=116018&if=gb"
+      ]
+    }
+  ],
+  "visualSpotChecks": [
+    {
+      "order": 201,
+      "result": "实际重看图像：石鲸、织女石像、秋池和渔翁仍相合。画面阴云属秋气构图，不用作沉云黑的字义依据；未来构思说明已改为菰米黑密如云，原生成回执如实保留。"
+    },
+    {
+      "order": 203,
+      "result": "实际重看图像：倚杖旅人、新月、银河、孤帆与捣衣场景均与诗意相合；画面不作为牛斗具体星位的天文图解。"
+    }
+  ]
+}
